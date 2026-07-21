@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "1-chronicles 18:17",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58940,
+    "completion_tokens": 342,
+    "prompt_tokens": 59019,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59494
+    "total_tokens": 59361
   },
-  "translation": "比拿雅 ⟨בן-יהוידע⟩ ⟨是⟩ כְּרֵתִי וְ\/הַ\/פְּלֵתִי 的首領；大卫 的兒子們 ⟨是⟩ לְ\/יַד הַ\/מֶּֽלֶךְ 的首領。",
+  "translation": "比拿雅,耶何耶大的儿子,管理革利提人和比利提人;大卫的诸子是王的辅佐。",
   "tokens": [
     {
-      "surface": "וּ\/בְנָיָ֨הוּ֙",
+      "surface": "ובניהו",
       "english": "比拿雅"
     },
     {
-      "surface": "בֶּן",
-      "english": "兒子"
+      "surface": "בן",
+      "english": ",耶何耶大的儿子"
     },
     {
-      "surface": "יְה֣וֹיָדָ֔ע",
+      "surface": "יהוידע",
       "english": "耶何耶大"
     },
     {
-      "surface": "עַל",
-      "english": "統管"
+      "surface": "על",
+      "english": "管理"
     },
     {
-      "surface": "הַ\/כְּרֵתִ֖י",
-      "english": "人"
+      "surface": "הכרתי",
+      "english": "革利提人"
     },
     {
-      "surface": "וְ\/הַ\/פְּלֵתִ֑י",
-      "english": "和 פְּלֵתִי 人"
+      "surface": "והפלתי",
+      "english": "和比利提人"
     },
     {
-      "surface": "וּ\/בְנֵי",
-      "english": "以及...的兒子們"
+      "surface": "ובני",
+      "english": ";大卫的诸子"
     },
     {
-      "surface": "דָוִ֥יד",
+      "surface": "דויד",
       "english": "大卫"
     },
     {
-      "surface": "הָ\/רִאשֹׁנִ֖ים",
-      "english": "首領們"
+      "surface": "הראשנים",
+      "english": "是王"
     },
     {
-      "surface": "לְ\/יַ֥ד",
-      "english": "在...手邊"
+      "surface": "ליד",
+      "english": "的辅佐"
     },
     {
-      "surface": "הַ\/מֶּֽלֶךְ",
-      "english": "王"
+      "surface": "המלך",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:05:32.848977476Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:31.705305582Z",
+  "model": "glm-4.5"
 }

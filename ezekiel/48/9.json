@@ -1,68 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "ezekiel 48:9",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 759,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19286,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20045
-  },
-  "translation": "הַ\/תְּרוּמָה אֲשֶׁר תָּרִימוּ לַֽ\/יהוָ֑ה אֹ֗רֶךְ חֲמִשָּׁ֤ה וְ\/עֶשְׂרִים֙ אֶ֔לֶף וְ\/רֹ֖חַב עֲשֶׂ֥רֶת אֲלָפִֽים",
+  "translation": "the offering that you shall lift up to ⟨YHWH⟩: length five and twenty thousand, and breadth ten thousand",
   "tokens": [
     {
       "surface": "הַ\/תְּרוּמָ֕ה",
-      "english": "你们举祭献给雅威的供地"
+      "english": "the offering"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "就是"
+      "english": "that"
     },
     {
       "surface": "תָּרִ֖ימוּ",
-      "english": "你们要献上"
+      "english": "you shall lift up"
     },
     {
       "surface": "לַֽ\/יהוָ֑ה",
-      "english": "给雅威"
+      "english": "to ⟨YHWH⟩",
+      "marks": "YHWH"
     },
     {
       "surface": "אֹ֗רֶךְ",
-      "english": "长"
+      "english": "length"
     },
     {
       "surface": "חֲמִשָּׁ֤ה",
-      "english": "五"
+      "english": "five"
     },
     {
       "surface": "וְ\/עֶשְׂרִים֙",
-      "english": "和二十"
+      "english": "and twenty"
     },
     {
       "surface": "אֶ֔לֶף",
-      "english": "一千"
+      "english": "thousand"
     },
     {
       "surface": "וְ\/רֹ֖חַב",
-      "english": "宽"
+      "english": "and breadth"
     },
     {
       "surface": "עֲשֶׂ֥רֶת",
-      "english": "十"
+      "english": "ten"
     },
     {
       "surface": "אֲלָפִֽים",
-      "english": "千"
+      "english": "thousand"
     }
   ],
-  "timestamp": "2026-07-17T23:11:39.470561928Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:18.718950258Z",
+  "model": "glm-4.5"
 }

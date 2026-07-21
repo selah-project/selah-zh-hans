@@ -1,76 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "psalms 33:5",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 33,
   "usage": {
-    "completion_tokens": 874,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64455,
+    "completion_tokens": 529,
+    "prompt_tokens": 64519,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65329
+    "total_tokens": 65048
   },
-  "translation": "כִּי אֹהֵב צְדָקָה וּמִשְׁפָּט; חֶסֶד יְהוָה מָלְאָה הָאָרֶץ",
+  "translation": "他喜爱公义 ⟨和⟩ 公平；雅威 的 仁爱 *chesed* 充满了 ⟨这⟩ 地。",
   "tokens": [
     {
-      "surface": "אֹהֵב",
-      "english": "爱慕",
-      "transliteration": "ohev",
-      "grammar": "动词 Qal 分词 阳性单数",
-      "lemma": "אָהַב"
+      "surface": "אהב",
+      "english": "他喜爱"
     },
     {
-      "surface": "צְדָקָה",
-      "english": "公义",
-      "transliteration": "tzedakah",
-      "grammar": "名词 阴性单数",
-      "lemma": "צְדָקָה"
+      "surface": "צדקה",
+      "english": "公义"
     },
     {
-      "surface": "וּ\/מִשְׁפָּט",
-      "english": "和公平",
-      "transliteration": "u'mishpat",
-      "grammar": "名词 阳性单数",
-      "lemma": "מִשְׁפָּט",
-      "morphology": " prefixed conjunction ו"
+      "surface": "ומשפט",
+      "english": "⟨和⟩ 公平"
     },
     {
-      "surface": "חֶסֶד",
-      "english": "慈爱",
-      "transliteration": "chesed",
-      "grammar": "名词 阳性单数",
-      "lemma": "חֶסֶד"
+      "surface": "חסד",
+      "english": "仁爱 *chesed*"
     },
     {
-      "surface": "יְהוָה",
-      "english": "雅威",
-      "transliteration": "Adonai",
-      "grammar": "专有名词",
-      "lemma": "יְהֹוָה",
-      "note": "YHWH (יהוה) 在希伯来圣经中通常读作 Adonai"
+      "surface": "יהוה",
+      "english": "雅威"
     },
     {
-      "surface": "מָלְאָה",
-      "english": "充满",
-      "transliteration": "m'leah",
-      "grammar": "动词 Qal 完成式 第三人称阴性单数",
-      "lemma": "מָלֵא"
+      "surface": "מלאה",
+      "english": "充满了"
     },
     {
-      "surface": "הָ\/אָרֶץ",
-      "english": "全地",
-      "transliteration": "ha'aretz",
-      "grammar": "名词 阴性单数",
-      "lemma": "אֶרֶץ",
-      "morphology": " prefixed definite article ה"
+      "surface": "הארץ",
+      "english": "⟨这⟩ 地"
     }
   ],
-  "timestamp": "2026-07-17T23:50:01.488248611Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:55.002965295Z",
+  "model": "glm-4.5"
 }

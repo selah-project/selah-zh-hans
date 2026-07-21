@@ -1,64 +1,42 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "jeremiah 15:12",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 803,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18700,
+    "completion_tokens": 280,
+    "prompt_tokens": 18699,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 19503
+    "total_tokens": 18979
   },
-  "translation": "האם יִשָׁבֵר בַּרְזֶל? בַּרְזֶל מִ\/צָּפוֹן וּ\/נְחֹשֶׁת?",
+  "translation": "铁——这来自北方的铁，和铜，⟨能被⟩打碎吗？",
   "tokens": [
     {
-      "surface": "הֲיָרֹ֨עַ",
-      "hebrew": "הֲיָרֹ֨עַ",
-      "english": "האם יִשָׁבֵר",
-      "grammar": "Verb (Qal Imperfect 3ms with Interrogative He)",
-      "lexicon": "H7489",
-      "rationale": "Root רוע ('to break\/crush\/shatter')."
+      "surface": "הירע",
+      "english": "⟨能被⟩打碎吗",
+      "marks": "iron...and brass"
     },
     {
-      "surface": "בַּרְזֶ֧ל",
-      "hebrew": "בַּרְזֶ֧ל",
-      "english": "בַּרְזֶל",
-      "grammar": "Noun (masculine)",
-      "lexicon": "H1270",
-      "rationale": "Iron."
+      "surface": "ברזל",
+      "english": "铁"
     },
     {
-      "surface": "בַּרְזֶ֛ל",
-      "hebrew": "בַּרְזֶ֛ל",
-      "english": "בַּרְזֶל",
-      "grammar": "Noun (masculine)",
-      "lexicon": "H1270",
-      "rationale": "Iron."
+      "surface": "ברזל",
+      "english": "铁"
     },
     {
-      "surface": "מִ\/צָּפ֖וֹן",
-      "hebrew": "מִ\/צָּפ֖וֹן",
-      "english": "מִ\/צָּפוֹן",
-      "grammar": "Noun (feminine) with Preposition מִן",
-      "lexicon": "H6828",
-      "rationale": "From the north."
+      "surface": "מצפון",
+      "english": "来自北方的"
     },
     {
-      "surface": "וּ\/נְחֹֽשֶׁת",
-      "hebrew": "וּ\/נְחֹֽשֶׁת",
-      "english": "וּ\/נְחֹשֶׁת",
-      "grammar": "Noun (feminine) with Conjunction וְ",
-      "lexicon": "H5178",
-      "rationale": "And bronze\/copper."
+      "surface": "ונחשת",
+      "english": "和铜"
     }
   ],
-  "timestamp": "2026-07-17T22:15:35.836187420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:37.503732766Z",
+  "model": "glm-4.5"
 }

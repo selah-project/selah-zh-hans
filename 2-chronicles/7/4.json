@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "2-chronicles 7:4",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59516,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59940
-  },
-  "translation": "וְהַ\/מֶּ֖לֶךְ וְ\/כָל הָ\/עָ֑ם זֹבְחִ֥ים זֶ֖בַח לִ\/פְנֵ֥י יְהוָֽה",
+  "translation": "王和众民在雅威面前献祭 ⟨成了⟩ 祭物",
   "tokens": [
     {
-      "surface": "וְ\/הַ\/מֶּ֖לֶךְ",
-      "english": "והמלך"
+      "surface": "והמלך",
+      "english": "王和"
     },
     {
-      "surface": "וְ\/כָל",
-      "english": "וכל"
+      "surface": "וכל",
+      "english": "众"
     },
     {
-      "surface": "הָ\/עָ֑ם",
-      "english": "העם"
+      "surface": "העם",
+      "english": "民"
     },
     {
-      "surface": "זֹבְחִ֥ים",
-      "english": "זבחים"
+      "surface": "זבחים",
+      "english": "献祭"
     },
     {
-      "surface": "זֶ֖בַח",
-      "english": "זבח"
+      "surface": "זבח",
+      "english": "祭物"
     },
     {
-      "surface": "לִ\/פְנֵ֥י",
-      "english": "לפני"
+      "surface": "לפני",
+      "english": "在...面前"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T02:17:41.655592523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:06.964081315Z",
+  "model": "glm-4.5"
 }

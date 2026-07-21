@@ -1,93 +1,90 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "exodus 10:23",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 10,
   "usage": {
-    "completion_tokens": 701,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19364,
+    "completion_tokens": 639,
+    "prompt_tokens": 19427,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20065
+    "total_tokens": 20066
   },
-  "translation": "לא ראו איש את אחיו, ולא קמו איש מתחתיו שלשת ימים; ולכל בני ישראל היה אור במושבתם׃",
+  "translation": "他们没有看见 ⟨את⟩ 自己的兄弟，也没有人从 ⟨自己的⟩ 地方起来三天；但在 ⟨以色列人⟩ 一切 ⟨儿子⟩ 的住处都有光。",
   "tokens": [
     {
-      "surface": "לֹֽא",
-      "english": "不"
+      "surface": "לא",
+      "english": "没有"
     },
     {
-      "surface": "רָא֞וּ",
+      "surface": "ראו",
       "english": "看见"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "english": "人"
+      "surface": "איש",
+      "english": "自己"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他的兄弟"
+      "marks": "自己的兄弟"
     },
     {
-      "surface": "אָחִ֗יו",
-      "english": "他的兄弟"
+      "surface": "אחיו",
+      "english": "的兄弟"
     },
     {
-      "surface": "וְ\/לֹא",
-      "english": "也不"
+      "surface": "ולא",
+      "english": "也没有"
     },
     {
-      "surface": "קָ֛מוּ",
+      "surface": "קמו",
       "english": "起来"
     },
     {
-      "surface": "אִ֥ישׁ",
-      "english": "任何人"
+      "surface": "איש",
+      "english": "人"
     },
     {
-      "surface": "מִ\/תַּחְתָּ֖יו",
-      "english": "从自己的地方"
+      "surface": "מתחתיו",
+      "english": "从 ⟨自己的⟩ 地方"
     },
     {
-      "surface": "שְׁלֹ֣שֶׁת",
-      "english": "三"
+      "surface": "שלשת",
+      "english": "三天"
     },
     {
-      "surface": "יָמִ֑ים",
-      "english": "天"
+      "surface": "ימים",
+      "english": ""
     },
     {
-      "surface": "וּֽ\/לְ\/כָל",
-      "english": "而对于所有的"
+      "surface": "ולכל",
+      "english": "但在 ⟨一切⟩"
     },
     {
-      "surface": "בְּנֵ֧י",
-      "english": "子民"
+      "surface": "בני",
+      "english": "⟨儿子⟩"
     },
     {
-      "surface": "יִשְׂרָאֵ֛ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הָ֥יָה",
-      "english": "有"
+      "surface": "היה",
+      "english": "都有"
     },
     {
-      "surface": "א֖וֹר",
+      "surface": "אור",
       "english": "光"
     },
     {
-      "surface": "בְּ\/מוֹשְׁבֹתָֽ\/ם",
+      "surface": "במושבתם",
       "english": "在他们的住处"
     }
   ],
-  "timestamp": "2026-07-17T18:16:13.649123051Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:19.816650893Z",
+  "model": "glm-4.5"
 }

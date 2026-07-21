@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "2-kings 25:16",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19226,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19738
-  },
-  "translation": "העמודים שנים, הים האחד, והמכנות אשר עשה שלמה לבית יהוה——לא היה משקל לנחשת כל הכלים האלה。",
+  "translation": "两根柱子、一个铜海、以及所罗门为雅威的殿所做的底座,这一切器皿的铜是无法称量的。",
   "tokens": [
     {
       "surface": "העמודים",
-      "english": "柱子"
+      "english": "两根柱子"
     },
     {
       "surface": "שנים",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "הים",
-      "english": "铜海"
+      "english": "一个铜海"
     },
     {
       "surface": "האחד",
@@ -40,11 +29,11 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "这些...所做的"
     },
     {
       "surface": "עשה",
-      "english": "所造的"
+      "english": "做"
     },
     {
       "surface": "שלמה",
@@ -52,7 +41,7 @@
     },
     {
       "surface": "לבית",
-      "english": "为"
+      "english": "为...的殿"
     },
     {
       "surface": "יהוה",
@@ -60,23 +49,23 @@
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "english": "无法"
     },
     {
       "surface": "היה",
-      "english": "存在"
+      "english": "是"
     },
     {
       "surface": "משקל",
-      "english": "可称的重量"
+      "english": "称量"
     },
     {
       "surface": "לנחשת",
-      "english": "归于所有这些器皿的青铜"
+      "english": "铜的"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "一切"
     },
     {
       "surface": "הכלים",
@@ -87,6 +76,6 @@
       "english": "这些"
     }
   ],
-  "timestamp": "2026-07-17T21:34:04.921937459Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:40:01.625361748Z",
+  "model": "glm-4.5"
 }

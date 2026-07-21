@@ -1,42 +1,32 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 32,
   "ref": "1-kings 22:32",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 1016,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64993,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66009
-  },
-  "translation": "וַ\/יְהִי כִּ\/רְאוֹת֩ שָׂרֵ֨י הָ\/רֶ֜כֶב אֶת 约沙法 וְ\/הֵ֤מָּה אָֽמְרוּ֙ אַ֣ךְ מֶֽלֶךְ 以色列 ה֔וּא וַ\/יָּסֻ֥רוּ עָלָ֖י\/ו לְ\/הִלָּחֵ֑ם וַ\/יִּזְעַ֖ק 约沙法",
+  "translation": "这事发生,战车的首领们看见⟨את⟩约沙法,就说:'这确实是以色列的王。' 他们就转过来攻击他,约沙法便呼救。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִי"
+      "english": "这事发生"
     },
     {
       "surface": "כראות",
-      "english": "כִּ\/רְאוֹת"
+      "english": "当...看见"
     },
     {
       "surface": "שרי",
-      "english": "שָׂרֵ֨י"
+      "english": "首领们"
     },
     {
       "surface": "הרכב",
-      "english": "הָ\/רֶ֜כֶב"
+      "english": "战车的"
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "约沙法"
     },
     {
       "surface": "יהושפט",
@@ -44,19 +34,19 @@
     },
     {
       "surface": "והמה",
-      "english": "וְ\/הֵ֤מָּה"
+      "english": "他们"
     },
     {
       "surface": "אמרו",
-      "english": "אָֽמְרוּ֙"
+      "english": "说"
     },
     {
       "surface": "אך",
-      "english": "אַ֣ךְ"
+      "english": "这确实是"
     },
     {
       "surface": "מלך",
-      "english": "מֶֽלֶךְ"
+      "english": "王"
     },
     {
       "surface": "ישראל",
@@ -64,29 +54,29 @@
     },
     {
       "surface": "הוא",
-      "english": "ה֔וּא"
+      "english": ""
     },
     {
       "surface": "ויסרו",
-      "english": "וַ\/יָּסֻ֥רוּ"
+      "english": "他们就转过来"
     },
     {
       "surface": "עליו",
-      "english": "עָלָ֖י\/ו"
+      "english": "攻击他"
     },
     {
       "surface": "להלחם",
-      "english": "לְ\/הִלָּחֵ֑ם"
+      "english": "去战斗"
     },
     {
       "surface": "ויזעק",
-      "english": "וַ\/יִּזְעַ֖ק"
+      "english": "便呼救"
     },
     {
       "surface": "יהושפט",
       "english": "约沙法"
     }
   ],
-  "timestamp": "2026-07-17T21:16:14.239959535Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:09.230281694Z",
+  "model": "glm-4.5"
 }

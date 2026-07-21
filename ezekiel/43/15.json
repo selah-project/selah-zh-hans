@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "ezekiel 43:15",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 605,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18857,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19462
-  },
-  "translation": "而 ⟨הַהַרְאֵל⟩ ⟨为⟩ 四 ⟨אַמּוֹת⟩;而 ⟨מֵ\/הָ\/אֲרִאֵיל⟩ 向上 ⟨为⟩ 四角。",
+  "translation": "而 הָאֲרִיאֵל (祭坛炉) 是四肘，从 ⟨这⟩ 祭坛 ⟨处⟩ 向上是四只角。",
   "tokens": [
     {
-      "surface": "וההראל",
-      "english": "而 ⟨הַהַרְאֵל⟩ (祭坛炉床)"
+      "surface": "וְ\/הַֽ\/הַרְאֵ֖ל",
+      "english": "而 הָאֲרִיאֵל (祭坛炉)"
     },
     {
-      "surface": "ארבע",
+      "surface": "אַרְבַּ֣ע",
       "english": "四"
     },
     {
-      "surface": "אמות",
-      "english": "⟨אַמּוֹת⟩ (肘)"
+      "surface": "אַמּ֑וֹת",
+      "english": "肘"
     },
     {
-      "surface": "ומהאראיל",
-      "english": "而 ⟨מֵ\/הָ\/אֲרִאֵיל⟩ (亚列;即 神的炉床)"
+      "surface": "וּ\/מֵ\/הָ\/אֲרִאֵ֣יל",
+      "english": "从 ⟨这⟩ 祭坛 ⟨处⟩"
     },
     {
-      "surface": "ולמעלה",
+      "surface": "וּ\/לְ\/מַ֔עְלָ\/ה",
       "english": "向上"
     },
     {
-      "surface": "הקרנות",
-      "english": "⟨为⟩ 四角"
+      "surface": "הַ\/קְּרָנ֖וֹת",
+      "english": "四只角"
     },
     {
-      "surface": "ארבע",
+      "surface": "אַרְבַֽע",
       "english": "四"
     }
   ],
-  "timestamp": "2026-07-17T23:08:09.620009203Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:06.462906492Z",
+  "model": "glm-4.5"
 }

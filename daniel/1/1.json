@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "daniel 1:1",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 1,
   "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19323,
+    "completion_tokens": 560,
+    "prompt_tokens": 19454,
     "prompt_tokens_details": {
-      "cached_tokens": 4928
+      "cached_tokens": 17536
     },
-    "total_tokens": 19836
+    "total_tokens": 20014
   },
-  "translation": "犹大王 יְהוֹיָקִים 在位第三年，בָּבֶל 王 נְבוּכַדְנֶאצַּר 来到 יְרוּשָׁלָ‍ִם，围困她。",
+  "translation": "在约雅敬作犹大王 ⟨的⟩ 第三年,尼布甲尼撒——巴比伦王——来到了耶路撒冷,并围困 ⟨它⟩。",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "在……年"
+      "english": "在...年"
     },
     {
       "surface": "שלוש",
-      "english": "三"
+      "english": "第三"
     },
     {
       "surface": "למלכות",
-      "english": "在位"
+      "english": "在...作王期间"
     },
     {
       "surface": "יהויקים",
@@ -64,13 +61,13 @@
     },
     {
       "surface": "ויצר",
-      "english": "围困"
+      "english": "并围困"
     },
     {
       "surface": "עליה",
-      "english": "她"
+      "english": "⟨它⟩"
     }
   ],
-  "timestamp": "2026-07-18T01:28:11.266900801Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:48.943144820Z",
+  "model": "glm-4.5"
 }

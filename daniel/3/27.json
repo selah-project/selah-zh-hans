@@ -1,62 +1,59 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "daniel 3:27",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 3,
   "usage": {
-    "completion_tokens": 1337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20620,
+    "completion_tokens": 1133,
+    "prompt_tokens": 20585,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 17536
     },
-    "total_tokens": 21957
+    "total_tokens": 21718
   },
-  "translation": "וְהַסְּגָנִים אֲחַשְׁדַּרְפְּנַיָּא סִגְנַיָּא וּפַחֲוָתָא וְהַדָּבְרֵי מַלְכָּא דִּי הִתְכַּנְּשׁוּ חָזַיִן לְגֻבְרַיָּא אִלֵּךְ דִּי לָא שְׁלֵט נוּרָא בְּגֶשְׁמְהוֹן וּשְׂעַר רֵאשְׁהוֹן לָא הִתְחָרַךְ וְסָרְבְּלֵיהוֹן לָא שְׁנוֹ וְרֵיחַ נוּר לָא עֲדָת בְּהוֹן׃",
+  "translation": "地方官、省长、总督和王的高官聚集看见这些人，火在他们的身体上毫无能力，他们头发的头发也没有烧焦，他们的袍子也没有变样，火的味道也没有临到他们。",
   "tokens": [
     {
       "surface": "וּמִתְכַּנְּשִׁין",
-      "english": "聚集在一起的"
+      "english": "地方官"
     },
     {
-      "surface": "אֲחַשְׁדַּרְפְּנַיָּא",
-      "english": "总督们"
+      "surface": "אֲחַשְׁדַּרְפַּנַּיָּא",
+      "english": "省长"
     },
     {
-      "surface": "סִגְנַיָּא",
-      "english": "省长们"
+      "surface": "סְגַנַּיָּא",
+      "english": "总督"
     },
     {
       "surface": "וּפַחֲוָתָא",
-      "english": "和官长们"
+      "english": "和"
     },
     {
       "surface": "וְהַדָּבְרֵי",
-      "english": "和顾问们"
+      "english": "王的高官"
     },
     {
-      "surface": "מַלְכָּא",
+      "surface": "מֶלֶךְ",
       "english": "王的"
     },
     {
-      "surface": "חָזַיִן",
-      "english": "他们观看"
+      "surface": "חֲזָיִן",
+      "english": "聚集看见"
     },
     {
       "surface": "לְגֻבְרַיָּא",
-      "english": "那些人"
+      "english": "这些人"
     },
     {
       "surface": "אִלֵּךְ",
-      "english": "这些"
+      "english": "即"
     },
     {
       "surface": "דִּי",
-      "english": "就是"
+      "english": "那"
     },
     {
       "surface": "לָא",
@@ -64,65 +61,65 @@
     },
     {
       "surface": "שְׁלֵט",
-      "english": "辖制"
+      "english": "能力"
     },
     {
       "surface": "נוּרָא",
       "english": "火"
     },
     {
-      "surface": "בְּגֶשְׁמְהוֹן",
-      "english": "他们的身体"
+      "surface": "בְּגִשְׁמְהוֹן",
+      "english": "在他们的身体上"
     },
     {
-      "surface": "וּשְׂעַר",
-      "english": "头发"
+      "surface": "וְשַׂעַר",
+      "english": "和"
     },
     {
       "surface": "רֵאשְׁהוֹן",
-      "english": "他们头上的"
+      "english": "头发的"
     },
     {
       "surface": "לָא",
-      "english": "没有"
+      "english": "也没有"
     },
     {
       "surface": "הִתְחָרַךְ",
       "english": "烧焦"
     },
     {
-      "surface": "וְסָרְבְּלֵיהוֹן",
-      "english": "他们的外衣"
+      "surface": "וְסַרְבָּלֵיהוֹן",
+      "english": "他们的袍子"
     },
     {
       "surface": "לָא",
-      "english": "没有"
+      "english": "也没有"
     },
     {
-      "surface": "שְׁנוֹ",
-      "english": "改变"
+      "surface": "שְׁנָא",
+      "english": "变样"
     },
     {
       "surface": "וְרֵיחַ",
-      "english": "气味"
+      "english": "和"
     },
     {
       "surface": "נוּר",
-      "english": "火的"
+      "english": "火"
     },
     {
       "surface": "לָא",
-      "english": "没有"
+      "english": "也没有"
     },
     {
-      "surface": "עֲדָת",
-      "english": "沾上"
+      "surface": "עֲדַת",
+      "english": "临到"
     },
     {
       "surface": "בְּהוֹן",
-      "english": "在他们身上"
+      "english": "他们"
     }
   ],
-  "timestamp": "2026-07-18T01:30:11.154325898Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:27.493851155Z",
+  "model": "glm-4.5"
 }

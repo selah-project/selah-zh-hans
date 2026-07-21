@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "1-chronicles 7:37",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58482,
+    "completion_tokens": 320,
+    "prompt_tokens": 58545,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58829
+    "total_tokens": 58865
   },
-  "translation": "比泽尔、הוֹד、שַׁמָּא、שִׁלְשָׁה、יִתְרָן וּבְאֵרָא",
+  "translation": "比悉,和何,和沙买,和示利沙,和以特兰,和比拉",
   "tokens": [
     {
       "surface": "בצר",
-      "english": "比泽尔"
+      "english": "比悉"
     },
     {
       "surface": "והוד",
-      "english": "和 הוֹד"
+      "english": ",和何"
     },
     {
       "surface": "ושמא",
-      "english": "和"
+      "english": ",和沙买"
     },
     {
       "surface": "ושלשה",
-      "english": "和 שִׁלְשָׁה"
+      "english": ",和示利沙"
     },
     {
       "surface": "ויתרן",
-      "english": "和 יִתְרָן"
+      "english": ",和以特兰"
     },
     {
       "surface": "ובארא",
-      "english": "和 בְאֵרָא"
+      "english": ",和比拉"
     }
   ],
-  "timestamp": "2026-07-18T01:57:25.953473140Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:22.370139981Z",
+  "model": "glm-4.5"
 }

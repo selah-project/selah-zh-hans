@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "exodus 4:3",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 685,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18724,
+    "completion_tokens": 368,
+    "prompt_tokens": 18786,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19409
+    "total_tokens": 19154
   },
-  "translation": "וַיֹּאמֶר: «הַשְׁלִיכֵהוּ אַרְצָה!» וַיַּשְׁלִיכֵהוּ אַרְצָה, וַיְהִי לְנָחָשׁ; וַיָּנָס מֹשֶׁה מִפָּנָיו׃",
+  "translation": "祂说:把它扔在地上。于是摩西把它扔在地上,它就变成了蛇,摩西便从它面前逃跑了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "祂说"
     },
     {
       "surface": "השליכהו",
-      "english": "把它掷"
+      "english": "把它扔"
     },
     {
       "surface": "ארצה",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "וישליכהו",
-      "english": "他就把它掷"
+      "english": "于是摩西把它扔"
     },
     {
       "surface": "ארצה",
@@ -40,7 +37,7 @@
     },
     {
       "surface": "ויהי",
-      "english": "它就成了"
+      "english": "它就变成了"
     },
     {
       "surface": "לנחש",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "וינס",
-      "english": "逃跑"
+      "english": "摩西便逃跑了"
     },
     {
       "surface": "משה",
@@ -56,9 +53,9 @@
     },
     {
       "surface": "מפניו",
-      "english": "逃离它的面前"
+      "english": "从它面前"
     }
   ],
-  "timestamp": "2026-07-17T18:11:35.499795479Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:22.512884652Z",
+  "model": "glm-4.5"
 }

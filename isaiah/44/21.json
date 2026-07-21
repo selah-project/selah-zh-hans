@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "isaiah 44:21",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 794,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21245,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22039
-  },
-  "translation": "זְכָר אֵ֣לֶּה יַעֲקֹ֔ב וְ\/יִשְׂרָאֵ֖ל כִּ֣י עַבְדִּ\/י אָ֑תָּה יְצַרְתִּ֤י\/ךָ עֶֽבֶד לִ\/י֙ אַ֔תָּה יִשְׂרָאֵ֖ל לֹ֥א תִנָּשֵֽׁ\/נִי",
+  "translation": "记念这些事 ⟨吧⟩,雅各 和以色列,因为你 ⟨是⟩ 我的仆人;我塑造了你,你 ⟨是⟩ 给我 ⟨作⟩ 仆人;以色列,你不可忘记我。",
   "tokens": [
     {
       "surface": "זכר",
@@ -40,7 +29,7 @@
     },
     {
       "surface": "עבדי",
-      "english": "你是我的仆人"
+      "english": "我的仆人"
     },
     {
       "surface": "אתה",
@@ -56,11 +45,11 @@
     },
     {
       "surface": "לי",
-      "english": "归我"
+      "english": "给我"
     },
     {
       "surface": "אתה",
-      "english": "你是"
+      "english": "你"
     },
     {
       "surface": "ישראל",
@@ -68,13 +57,13 @@
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "english": "不"
     },
     {
       "surface": "תנשני",
       "english": "忘记我"
     }
   ],
-  "timestamp": "2026-07-17T21:55:55.441781978Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:35.572040234Z",
+  "model": "glm-4.5"
 }

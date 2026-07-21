@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "1-chronicles 6:33",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58758,
+    "completion_tokens": 373,
+    "prompt_tokens": 58757,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59392
+    "total_tokens": 59130
   },
-  "translation": "他们的兄弟,הַ\/לְוִיִּם ⟨是⟩נְתוּנִים לְ\/כָל עֲבוֹדַת מִשְׁכַּן בֵּית הָ\/אֱלֹהִֽים的。",
+  "translation": "而他们的弟兄利未人被指派管理会幕以罗欣之殿的一切服侍",
   "tokens": [
     {
       "surface": "ואחיהם",
-      "english": "他们的兄弟"
+      "english": "而他们的弟兄"
     },
     {
       "surface": "הלוים",
@@ -28,29 +25,29 @@
     },
     {
       "surface": "נתונים",
-      "english": "נְתוּנִים (被任命)"
+      "english": "被指派"
     },
     {
       "surface": "לכל",
-      "english": "为一切"
+      "english": "一切"
     },
     {
       "surface": "עבודת",
-      "english": "事工 (עֲבוֹדָה)"
+      "english": "服侍"
     },
     {
       "surface": "משכן",
-      "english": "会幕 (מִשְׁכָּן)"
+      "english": "会幕"
     },
     {
       "surface": "בית",
-      "english": "殿 (בַּיִת)"
+      "english": "殿"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣 (הָ\/אֱלֹהִים)"
+      "english": "以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T01:55:35.426685134Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:29.369250423Z",
+  "model": "glm-4.5"
 }

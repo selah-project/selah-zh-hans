@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 32,
   "ref": "numbers 10:32",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 738,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20103,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20841
-  },
-  "translation": "וְהָיָה כִּי תֵּלֵךְ עִמָּנוּ, וְהָיָה הַטּוֹב הַהוּא אֲשֶׁר יֵיטִיב יְהוָה עִמָּנוּ, וְהֵטַבְנוּ לָךְ׃",
+  "translation": "事情必是这样:若你与我们同去,事情必是这样:雅威 ⟨待⟩ 我们的 ⟨一切好处⟩,我们也必照样 ⟨待⟩ 你。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֖ה",
-      "english": "事情將是"
+      "surface": "והיה",
+      "english": "事情必是这样"
     },
     {
-      "surface": "כִּי",
-      "english": "如果"
+      "surface": "כי",
+      "english": "若"
     },
     {
-      "surface": "תֵלֵ֣ךְ",
-      "english": "你與……同行"
+      "surface": "תלך",
+      "english": "你与我们同去"
     },
     {
-      "surface": "עִמָּ֑\/נוּ",
-      "english": "我們"
+      "surface": "עמנו",
+      "english": "与我们"
     },
     {
-      "surface": "וְ\/הָיָ֣ה",
-      "english": "事情將是"
+      "surface": "והיה",
+      "english": "事情必是这样"
     },
     {
-      "surface": "הַ\/טּ֣וֹב",
-      "english": "那好處"
+      "surface": "הטוב",
+      "english": "⟨一切好处⟩"
     },
     {
-      "surface": "הַ\/ה֗וּא",
-      "english": "那個"
+      "surface": "ההוא",
+      "english": "⟨那⟩"
     },
     {
-      "surface": "אֲשֶׁ֨ר",
-      "english": "就是"
+      "surface": "אשר",
+      "english": "⟨那⟩"
     },
     {
-      "surface": "יֵיטִ֧יב",
-      "english": "以恩慈善待"
+      "surface": "ייטיב",
+      "english": "雅威 ⟨待⟩"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "עִמָּ֖\/נוּ",
-      "english": "我們"
+      "surface": "עמנו",
+      "english": "我们"
     },
     {
-      "surface": "וְ\/הֵטַ֥בְנוּ",
-      "english": "我們也必善待"
+      "surface": "והטבנו",
+      "english": "我们也必照样 ⟨待⟩"
     },
     {
-      "surface": "לָֽ\/ךְ",
+      "surface": "לך",
       "english": "你"
     }
   ],
-  "timestamp": "2026-07-18T02:44:01.651709660Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:26.672084246Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 35,
   "ref": "deuteronomy 1:35",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19832,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20336
-  },
-  "translation": "若 ⟨הזה⟩ הרע הדור האלה באנשים 中 איש יראה,⟨את⟩ 我起誓要赐给 ⟨לאבתיכם⟩ לתת 的 הטובה הארץ——⟨绝不⟩!",
+  "translation": "这恶世代的人中，连一个也必不看见 ⟨את⟩ 那美地——就是我起誓要给你们列祖的。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "english": "必不"
     },
     {
       "surface": "יראה",
@@ -28,11 +17,11 @@
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "english": "一个"
     },
     {
       "surface": "באנשים",
-      "english": "在……的人中"
+      "english": "人中"
     },
     {
       "surface": "האלה",
@@ -44,7 +33,7 @@
     },
     {
       "surface": "הרע",
-      "english": "邪恶"
+      "english": "恶"
     },
     {
       "surface": "הזה",
@@ -57,7 +46,7 @@
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "english": "那美地"
     },
     {
       "surface": "הטובה",
@@ -65,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "english": "……的"
+      "english": "——就"
     },
     {
       "surface": "נשבעתי",
@@ -73,13 +62,13 @@
     },
     {
       "surface": "לתת",
-      "english": "要赐给"
+      "english": "要给"
     },
     {
       "surface": "לאבתיכם",
       "english": "你们列祖"
     }
   ],
-  "timestamp": "2026-07-17T19:27:58.419018670Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:33:16.052861731Z",
+  "model": "glm-4.5"
 }

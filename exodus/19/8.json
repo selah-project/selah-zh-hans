@@ -1,54 +1,51 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "exodus 19:8",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 917,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19389,
+    "completion_tokens": 470,
+    "prompt_tokens": 19464,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20306
+    "total_tokens": 19934
   },
-  "translation": "כל העם יחדו ענו ויאמרו: \"כל אשר דבר 雅威 נעשה.\" וישב 摩西 את דברי העם אל 雅威.",
+  "translation": "众百姓都一同回答说,凡雅威所说的,我们都要遵行。摩西将百姓的诉词呈报⟨את⟩给雅威。",
   "tokens": [
     {
       "surface": "ויענו",
-      "english": "ויענו"
+      "english": "都一同回答说"
     },
     {
       "surface": "כל",
-      "english": "כל"
+      "english": "众"
     },
     {
       "surface": "העם",
-      "english": "העם"
+      "english": "百姓"
     },
     {
       "surface": "יחדו",
-      "english": "יחדו"
+      "english": "都一同"
     },
     {
       "surface": "ויאמרו",
-      "english": "ויאמרו"
+      "english": "回答说"
     },
     {
       "surface": "כל",
-      "english": "כל"
+      "english": "凡"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "——"
     },
     {
       "surface": "דבר",
-      "english": "דבר"
+      "english": "雅威所说的"
     },
     {
       "surface": "יהוה",
@@ -56,11 +53,11 @@
     },
     {
       "surface": "נעשה",
-      "english": "נעשה"
+      "english": "我们都要遵行"
     },
     {
       "surface": "וישב",
-      "english": "וישב"
+      "english": "呈报"
     },
     {
       "surface": "משה",
@@ -69,25 +66,25 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "דברי העם"
+      "marks": "百姓的诉词"
     },
     {
       "surface": "דברי",
-      "english": "דברי"
+      "english": "百姓的诉词"
     },
     {
       "surface": "העם",
-      "english": "העם"
+      "english": "百姓"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "给"
     },
     {
       "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T18:23:06.602600925Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:22.059879466Z",
+  "model": "glm-4.5"
 }

@@ -1,30 +1,21 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 54,
   "ref": "1-kings 8:54",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 942,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65296,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66238
-  },
-  "translation": "וַ\/יְהִ֣י כְּ\/כַלּ֣וֹת שְׁלֹמֹ֗ה לְ\/הִתְפַּלֵּל֙ אֶל יְהוָ֔ה אֵ֛ת כָּל הַ\/תְּפִלָּ֥ה וְ\/הַ\/תְּחִנָּ֖ה הַ\/זֹּ֑את קָ֞ם מִ\/לִּ\/פְנֵ֨י מִזְבַּ֤ח יְהוָה֙ מִ\/כְּרֹ֣עַ עַל בִּרְכָּ֔י\/ו וְ\/כַפָּ֖י\/ו פְּרֻשׂ֥וֹת הַ\/שָּׁמָֽיִם",
+  "translation": "所罗门祷告完毕——向雅威祷告完这整个祈祷与恳求——就 ⟨是⟩ 从雅威的祭坛前起来,从跪在膝盖 ⟨上⟩,并且他的手是向诸天伸展 ⟨的⟩。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生如下："
+      "english": "所罗门...就",
+      "notes": "韦-哈-耶——引入叙述的时间转换;此处标记祈祷行动的结束"
     },
     {
       "surface": "ככלות",
-      "english": "当……完毕时"
+      "english": "祷告完毕",
+      "notes": "卡-鲁-特——完成 Prayer"
     },
     {
       "surface": "שלמה",
@@ -32,11 +23,13 @@
     },
     {
       "surface": "להתפלל",
-      "english": "向……祈祷"
+      "english": "向雅威祷告",
+      "notes": "里-希特-帕-勒——希-塔-帕-勒:折腰\/祈祷;向\/去 (Lamed prefix) + 希-塔-帕-勒"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "english": "向",
+      "notes": "El——介词 '向\/到'"
     },
     {
       "surface": "יהוה",
@@ -45,11 +38,12 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "这一切"
+      "marks": "这整个祈祷"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "这整个",
+      "notes": "科尔——全部\/这整个"
     },
     {
       "surface": "התפלה",
@@ -57,19 +51,23 @@
     },
     {
       "surface": "והתחנה",
-      "english": "与恳求"
+      "english": "与恳求",
+      "notes": "韦-哈-特-哈-内——哈-塔-哈-内:恩惠\/恳求"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "english": "这",
+      "notes": "哈-佐特——这 (阴性单数)"
     },
     {
       "surface": "קם",
-      "english": "他就起来"
+      "english": "起来",
+      "notes": "库姆——站起\/起来 (动词 Qal 完成式 3 单阳)"
     },
     {
       "surface": "מלפני",
-      "english": "从……面前"
+      "english": "从...前",
+      "notes": "米-利-弗-奈——从...面前"
     },
     {
       "surface": "מזבח",
@@ -77,33 +75,37 @@
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "english": "雅威"
     },
     {
       "surface": "מכרע",
-      "english": "屈膝"
+      "english": "从跪",
+      "notes": "米-克-雷阿——从跪下\/弯曲膝盖 (Hiphil 分词);HAPAX"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
       "surface": "ברכיו",
-      "english": "他的双膝"
+      "english": "膝盖",
+      "notes": "贝-雷-卡乌——他的膝盖 (双数 + 后缀 '他')"
     },
     {
       "surface": "וכפיו",
-      "english": "他的双手"
+      "english": "并且他的手",
+      "notes": "韦-卡-菲-乌——并且他的手掌\/手 (双数 + 后缀 '他')"
     },
     {
       "surface": "פרשות",
-      "english": "向……展开"
+      "english": "是伸展...的",
+      "notes": "帕-肖-特——是伸展\/散开 (被动分词);HAPAX"
     },
     {
       "surface": "השמים",
       "english": "诸天"
     }
   ],
-  "timestamp": "2026-07-17T21:03:59.869276508Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:48.195938431Z",
+  "model": "glm-4.5"
 }

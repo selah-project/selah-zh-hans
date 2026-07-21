@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "exodus 30:2",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18781,
+    "completion_tokens": 368,
+    "prompt_tokens": 18780,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19215
+    "total_tokens": 19148
   },
-  "translation": "אמה אחת ארכו ואמה אחת רחבו רבוע יהיה ואמתים קומתו ממנו קרנותיו יהיו׃",
+  "translation": "一肘 ⟨是⟩ ⟨其⟩ 长,一肘 ⟨其⟩ 宽,它 ⟨要⟩ 方正;两肘 ⟨其⟩ 高;⟨其⟩ 角 ⟨要⟩ 从它 ⟨伸出⟩。",
   "tokens": [
     {
       "surface": "אמה",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "ארכו",
-      "english": "其长"
+      "english": "⟨其⟩ 长"
     },
     {
       "surface": "ואמה",
@@ -32,33 +29,33 @@
     },
     {
       "surface": "רחבו",
-      "english": "其宽"
+      "english": "⟨其⟩ 宽"
     },
     {
       "surface": "רבוע",
-      "english": "四方"
+      "english": "它 ⟨要⟩ 方正"
     },
     {
       "surface": "יהיה",
-      "english": "它⟨要⟩作"
+      "english": "⟨要⟩"
     },
     {
       "surface": "ואמתים",
-      "english": "二肘"
+      "english": "两肘"
     },
     {
       "surface": "קמתו",
-      "english": "其高"
+      "english": "⟨其⟩ 高"
     },
     {
       "surface": "ממנו",
-      "english": "从它而出"
+      "english": "从它"
     },
     {
       "surface": "קרנתיו",
-      "english": "其角"
+      "english": "⟨其⟩ 角"
     }
   ],
-  "timestamp": "2026-07-20T15:03:39.567386590Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:58.706188055Z",
+  "model": "glm-4.5"
 }

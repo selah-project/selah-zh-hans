@@ -1,118 +1,107 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "deuteronomy 11:29",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 1488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20680,
-    "prompt_tokens_details": {
-      "cached_tokens": 10688
-    },
-    "total_tokens": 22168
-  },
-  "translation": "וְהָיָ֗ה כִּ֤י יְבִֽיאֲךָ֙ 雅威 אֱלֹהֶיךָ אֶל הָאָרֶץ אֲשֶׁר אַתָּה בָּא שָׁמָּה לְרִשְׁתָּהּ, וְנָתַתָּה אֶת הַבְּרָכָה עַל הַר גְּרִזִים וְאֶת הַקְּלָלָה עַל הַר עֵיבָל: וְהָיָה כִּי יְבִיאֲךָ 雅威 אֱלֹהֶיךָ אֶל־הָאָרֶץ אֲשֶׁר אַתָּה בָּא־שָׁמָּה לְרִשְׁתָּהּ וְנָתַתָּה אֶת־הַבְּרָכָה עַל־הַר־גְּרִזִים וְאֶת־הַקְּלָלָה עַל־הַר־עֵיבָל׃",
+  "translation": "这必发生在，雅威你的以罗欣 ⟨将⟩ 带 你 进入 那地，你 往那里去 ⟨为⟩ 占领 它；你 ⟨要⟩ 把 ⟨את⟩ 祝福 放在 基利心山，把 ⟨את⟩ 诅咒 放在 以巴勒山。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "וְ\/הָיָ֗ה"
+      "surface": "והיה",
+      "english": "这必发生在"
     },
     {
-      "surface": "כִּ֤י",
-      "english": "כִּ֤י"
+      "surface": "כי",
+      "english": "，"
     },
     {
-      "surface": "יְבִֽיאֲ\/ךָ֙",
-      "english": "יְבִֽיאֲ\/ךָ֙"
+      "surface": "יביאך",
+      "english": "雅威你的以罗欣 ⟨将⟩ 带 你"
     },
     {
-      "surface": "יְהֹוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֶ֔י\/ךָ",
-      "english": "אֱלֹהֶ֔י\/ךָ"
+      "surface": "אלהיך",
+      "english": "你的以罗欣"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "进入"
     },
     {
-      "surface": "הָ\/אָ֕רֶץ",
-      "english": "הָ\/אָ֕רֶץ"
+      "surface": "הארץ",
+      "english": "那地"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": "，你"
     },
     {
-      "surface": "אַתָּ֥ה",
-      "english": "אַתָּ֥ה"
+      "surface": "אתה",
+      "english": "你"
     },
     {
-      "surface": "בָּא",
-      "english": "בָּא"
+      "surface": "בא",
+      "english": "往那里去"
     },
     {
-      "surface": "שָׁ֖מָּ\/ה",
-      "english": "שָׁ֖מָּ\/ה"
+      "surface": "שמה",
+      "english": "那里"
     },
     {
-      "surface": "לְ\/רִשְׁתָּ֑\/הּ",
-      "english": "לְ\/רִשְׁתָּ֑\/הּ"
+      "surface": "לרשתה",
+      "english": "⟨为⟩ 占领 它"
     },
     {
-      "surface": "וְ\/נָתַתָּ֤ה",
-      "english": "וְ\/נָתַתָּ֤ה"
+      "surface": "ונתתה",
+      "english": "你 ⟨要⟩ 把"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת",
-      "marks": "הַ\/בְּרָכָה֙"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "祝福"
     },
     {
-      "surface": "הַ\/בְּרָכָה֙",
-      "english": "הַ\/בְּרָכָה֙"
+      "surface": "הברכה",
+      "english": "祝福"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "放在"
     },
     {
-      "surface": "הַ֣ר",
-      "english": "הַ֣ר"
+      "surface": "הר",
+      "english": "基利心山"
     },
     {
-      "surface": "גְּרִזִ֔ים",
+      "surface": "גרזים",
       "english": "基利心"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/אֶת",
-      "marks": "הַ\/קְּלָלָ֖ה"
+      "surface": "ואת",
+      "english": "把 ⟨את⟩",
+      "marks": "诅咒"
     },
     {
-      "surface": "הַ\/קְּלָלָ֖ה",
-      "english": "הַ\/קְּלָלָ֖ה"
+      "surface": "הקללה",
+      "english": "诅咒"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "放在"
     },
     {
-      "surface": "הַ֥ר",
-      "english": "הַ֥ר"
+      "surface": "הר",
+      "english": "以巴勒山"
     },
     {
-      "surface": "עֵיבָֽל",
+      "surface": "עיבל",
       "english": "以巴勒"
     }
   ],
-  "timestamp": "2026-07-18T02:46:06.926171857Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:48.751647041Z",
+  "model": "glm-4.5"
 }

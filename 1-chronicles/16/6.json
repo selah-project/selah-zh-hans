@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "1-chronicles 16:6",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 16,
   "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58812,
+    "completion_tokens": 482,
+    "prompt_tokens": 58811,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59403
+    "total_tokens": 59293
   },
-  "translation": "בְּנָיָהוּ וְ\/יַחֲזִיאֵל הַ\/כֹּהֲנִים בַּ\/חֲצֹצְר֣וֹת תָּמִ֔יד לִ\/פְנֵ֖י אֲר֥וֹן בְּרִית הָ\/אֱלֹהִֽים׃",
+  "translation": "比拿雅和雅哈谢,众祭司,用号角吹奏不断,在以罗欣布瑞特的约柜前。",
   "tokens": [
     {
-      "surface": "ו\/בניהו",
-      "english": "比拿雅"
+      "surface": "ובניהו",
+      "english": "比拿雅和"
     },
     {
-      "surface": "ו\/יחזיאל",
-      "english": "和雅哈悉"
+      "surface": "ויחזיאל",
+      "english": "雅哈谢,"
     },
     {
-      "surface": "ה\/כהנים",
-      "english": "⟨这些⟩祭司们"
+      "surface": "הכהנים",
+      "english": "众祭司,"
     },
     {
-      "surface": "ב\/חצצרות",
-      "english": "在⟨这些⟩号筒中"
+      "surface": "בחצצרות",
+      "english": "用号角"
     },
     {
       "surface": "תמיד",
-      "english": "不断地"
+      "english": "吹奏不断"
     },
     {
-      "surface": "ל\/פני",
-      "english": "在……面前"
+      "surface": "לפני",
+      "english": "在...前"
     },
     {
       "surface": "ארון",
-      "english": "⟨这⟩柜"
+      "english": "约柜"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特（约）的"
+      "english": "布瑞特"
     },
     {
-      "surface": "ה\/אלהים",
+      "surface": "האלהים",
       "english": "以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T02:04:09.005979379Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:36.393299963Z",
+  "model": "glm-4.5"
 }

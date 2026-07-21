@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "isaiah 60:8",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 739,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20573,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21312
-  },
-  "translation": "מִי אֵלֶּה כָּ\/עָב תְּעוּפֶינָה וְ\/כַ\/יּוֹנִים אֶל אֲרֻבֹּתֵי\/הֶם",
+  "translation": "Who are these that fly like a cloud, and like doves to their lattices?",
   "tokens": [
     {
-      "surface": "מִי",
-      "english": "这些是谁"
+      "surface": "מי",
+      "english": "Who"
     },
     {
-      "surface": "אֵלֶּה",
-      "english": "这些"
+      "surface": "אלה",
+      "english": "are these"
     },
     {
-      "surface": "כָּ\/עָב",
-      "english": "如云彩"
+      "surface": "כעב",
+      "english": "like a cloud"
     },
     {
-      "surface": "תְּעוּפֶינָה",
-      "english": "她们飞翔"
+      "surface": "תעופינה",
+      "english": "that fly"
     },
     {
-      "surface": "וְ\/כַ\/יּוֹנִים",
-      "english": "又如鸽子"
+      "surface": "וכיונים",
+      "english": "and like doves"
     },
     {
-      "surface": "אֶל",
-      "english": "⟨飞⟩往"
+      "surface": "אל",
+      "english": "to"
     },
     {
-      "surface": "אֲרֻבֹּתֵי\/הֶֽם",
-      "english": "她们的鸽舍"
+      "surface": "ארבתיהם",
+      "english": "their lattices"
     }
   ],
-  "timestamp": "2026-07-17T22:03:16.272319079Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:28.377231165Z",
+  "model": "glm-4.5"
 }

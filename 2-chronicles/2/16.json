@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "2-chronicles 2:16",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 919,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61023,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61942
-  },
-  "translation": "所罗门 ספר את כל האנשים הגרים אשר בארץ 以色列 אחרי המפקד אשר ספרם 大卫 אביו וימצאו מאה וחמשים אלף ושלשת אלפים ושש מאות",
+  "translation": "所罗门清点了在以色列地所有的寄居者,就是他父大卫所数点过的,按那次普查;他们被查出有十五万三千零六百人。",
   "tokens": [
     {
       "surface": "ויספר",
-      "english": "ושלמה ספר"
+      "english": "清点了"
     },
     {
       "surface": "שלמה",
@@ -28,23 +17,23 @@
     },
     {
       "surface": "כל",
-      "english": "את כל"
+      "english": "所有的"
     },
     {
       "surface": "האנשים",
-      "english": "האנשים"
+      "english": "人"
     },
     {
       "surface": "הגירים",
-      "english": "הגרים"
+      "english": "寄居者"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "就是"
     },
     {
       "surface": "בארץ",
-      "english": "בארץ"
+      "english": "在...地"
     },
     {
       "surface": "ישראל",
@@ -52,19 +41,19 @@
     },
     {
       "surface": "אחרי",
-      "english": "אחרי"
+      "english": "...之后,按"
     },
     {
       "surface": "הספר",
-      "english": "המפקד"
+      "english": "普查"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "...过的"
     },
     {
       "surface": "ספרם",
-      "english": "ספרם"
+      "english": "数点他们"
     },
     {
       "surface": "דויד",
@@ -72,41 +61,41 @@
     },
     {
       "surface": "אביו",
-      "english": "אביו"
+      "english": "他父"
     },
     {
       "surface": "וימצאו",
-      "english": "וימצאו"
+      "english": "他们被查出"
     },
     {
       "surface": "מאה",
-      "english": "מאה"
+      "english": "一百"
     },
     {
       "surface": "וחמשים",
-      "english": "וחמשים"
+      "english": "五十"
     },
     {
       "surface": "אלף",
-      "english": "אלף"
+      "english": "千"
     },
     {
       "surface": "ושלשת",
-      "english": "ושלשת"
+      "english": "三千"
     },
     {
       "surface": "אלפים",
-      "english": "אלפים"
+      "english": ""
     },
     {
       "surface": "ושש",
-      "english": "ושש"
+      "english": "六"
     },
     {
       "surface": "מאות",
-      "english": "מאות"
+      "english": "百"
     }
   ],
-  "timestamp": "2026-07-18T02:14:48.898892200Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:56.725991503Z",
+  "model": "glm-4.5"
 }

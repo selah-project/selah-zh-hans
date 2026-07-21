@@ -1,46 +1,43 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 42,
   "ref": "exodus 12:42",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19247,
+    "completion_tokens": 718,
+    "prompt_tokens": 19324,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20013
+    "total_tokens": 20042
   },
-  "translation": "ליל שמורים הוא 雅威, להוציאם מארץ 埃及; הוא הלילה הזה 雅威, שמורים לכל בני 以色列 לדורותיהם.",
+  "translation": "一个守望之夜 ⟨是⟩ 归雅威的,因 ⟨他⟩ 将他们带出埃及地;这一夜 ⟨是⟩ 归雅威的守望,为 ⟨要⟩ 被雅威所有的以色列人遵守, ⟨直到⟩ 他们 的世世代代。",
   "tokens": [
     {
       "surface": "ליל",
-      "english": "ליל שמירה"
+      "english": "一个...之夜"
     },
     {
       "surface": "שמרים",
-      "english": "(שמורים)"
+      "english": "守望"
     },
     {
       "surface": "הוא",
-      "english": "הוא"
+      "english": "⟨是⟩"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "english": "归雅威的"
     },
     {
       "surface": "להוציאם",
-      "english": "להוציאם"
+      "english": "因 ⟨他⟩ 将他们带出"
     },
     {
       "surface": "מארץ",
-      "english": "מארץ"
+      "english": "埃及地"
     },
     {
       "surface": "מצרים",
@@ -48,31 +45,31 @@
     },
     {
       "surface": "הוא",
-      "english": "הוא"
+      "english": "这一夜 ⟨是⟩"
     },
     {
       "surface": "הלילה",
-      "english": "הלילה"
+      "english": "夜"
     },
     {
       "surface": "הזה",
-      "english": "הזה"
+      "english": "这"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "english": "归雅威的"
     },
     {
       "surface": "שמרים",
-      "english": "שמירה"
+      "english": "守望,为 ⟨要⟩ 被雅威...遵守"
     },
     {
       "surface": "לכל",
-      "english": "לכל"
+      "english": "所有"
     },
     {
       "surface": "בני",
-      "english": "בני"
+      "english": "以色列人"
     },
     {
       "surface": "ישראל",
@@ -80,9 +77,9 @@
     },
     {
       "surface": "לדרתם",
-      "english": "לדורותיהם"
+      "english": "⟨直到⟩ 他们 的世世代代"
     }
   ],
-  "timestamp": "2026-07-18T02:41:41.157332987Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:26.235816603Z",
+  "model": "glm-4.5"
 }

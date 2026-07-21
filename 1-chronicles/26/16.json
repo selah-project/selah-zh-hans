@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "1-chronicles 26:16",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 26,
   "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58983,
+    "completion_tokens": 478,
+    "prompt_tokens": 59049,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59568
+    "total_tokens": 59527
   },
-  "translation": "לְ\/שׁוּפִּים וּ\/לְ\/חֹסָה, לַ\/מַּעֲרָב, עִם שַׁעַר שַׁלֶּכֶת, בַּ\/מְסִלָּה הָ\/עוֹלָה: מִשְׁמָר לְ\/עֻמַּת מִשְׁמָר׃",
+  "translation": "给书平和户萨向着西,与沙勒基特门,在上去的通路上,班次对着班次,",
   "tokens": [
     {
       "surface": "לשפים",
@@ -24,15 +21,15 @@
     },
     {
       "surface": "ולחסה",
-      "english": "和给何萨"
+      "english": "和户萨"
     },
     {
       "surface": "למערב",
-      "english": "朝西"
+      "english": "向着西"
     },
     {
       "surface": "עם",
-      "english": "连同"
+      "english": "与"
     },
     {
       "surface": "שער",
@@ -44,15 +41,15 @@
     },
     {
       "surface": "במסלה",
-      "english": "在斜坡道上"
+      "english": "在通路上"
     },
     {
       "surface": "העולה",
-      "english": "上行的"
+      "english": "上去的"
     },
     {
       "surface": "משמר",
-      "english": "守卫"
+      "english": "班次"
     },
     {
       "surface": "לעמת",
@@ -60,9 +57,9 @@
     },
     {
       "surface": "משמר",
-      "english": "守卫"
+      "english": "班次"
     }
   ],
-  "timestamp": "2026-07-18T02:09:50.750128114Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:06.580857911Z",
+  "model": "glm-4.5"
 }

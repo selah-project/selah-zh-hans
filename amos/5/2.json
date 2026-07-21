@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "amos 5:2",
   "book": "amos",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 683,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18420,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19103
-  },
-  "translation": "נָפְלָה לֹא תוֹסִיף קוּם בְּתוּלַת יִשְׂרָאֵל נִטְּשָׁה עַל אַדְמָתָהּ אֵין מְקִימָהּ׃",
+  "translation": "以色列的处女跌倒了,不再起来;被撇在她的地上,无人扶起。",
   "tokens": [
     {
-      "surface": "נָֽפְלָה֙",
-      "english": "倾倒了"
+      "surface": "נפלה",
+      "english": "跌倒了"
     },
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "english": "不再"
     },
     {
-      "surface": "תוֹסִ֣יף",
-      "english": "添加"
+      "surface": "תוסיף",
+      "english": ""
     },
     {
-      "surface": "ק֔וּם",
+      "surface": "קום",
       "english": "起来"
     },
     {
-      "surface": "בְּתוּלַ֖ת",
+      "surface": "בתולת",
       "english": "处女"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "נִטְּשָׁ֥ה",
-      "english": "被抛弃"
+      "surface": "נטשה",
+      "english": "被撇下"
     },
     {
-      "surface": "עַל",
-      "english": "在……上"
+      "surface": "על",
+      "english": "在...上"
     },
     {
-      "surface": "אַדְמָתָ֖\/הּ",
-      "english": "她的土地上"
+      "surface": "אדמתה",
+      "english": "她的地"
     },
     {
-      "surface": "אֵ֥ין",
-      "english": "没有"
+      "surface": "אין",
+      "english": "无人"
     },
     {
-      "surface": "מְקִימָֽ\/הּ",
-      "english": "扶起她的人"
+      "surface": "מקימה",
+      "english": "扶起"
     }
   ],
-  "timestamp": "2026-07-17T23:20:47.086872783Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:13.891581881Z",
+  "model": "glm-4.5"
 }

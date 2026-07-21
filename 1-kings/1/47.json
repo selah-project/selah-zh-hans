@@ -1,121 +1,112 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 47,
   "ref": "1-kings 1:47",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 1169,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65581,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66750
-  },
-  "translation": "גם באו עבדי המלך לברך ⟨את⟩ אדנינו המלך דוד לאמר ייטב אלהיך את שם שלמה משמך ויגדל את כסאו מכסאך וישתחו המלך על המשכב",
+  "translation": "并且王的臣仆也来祝福我们的主大卫王,说:愿你的以罗欣使所罗门的名 ⟨比⟩ 你的名 更好,使他的宝座 ⟨比⟩ 你的宝座 更大;王就在床上敬拜。",
   "tokens": [
     {
-      "surface": "וְ\/גַם",
-      "english": "וְגַם"
+      "surface": "וגם",
+      "english": "并且"
     },
     {
-      "surface": "בָּ֜אוּ",
-      "english": "בָּאוּ"
+      "surface": "באו",
+      "english": "来"
     },
     {
-      "surface": "עַבְדֵ֣י",
-      "english": "עַבְדֵי"
+      "surface": "עבדי",
+      "english": "臣仆"
     },
     {
-      "surface": "הַ\/מֶּ֗לֶךְ",
-      "english": "הַמֶּלֶךְ"
+      "surface": "המלך",
+      "english": "王"
     },
     {
-      "surface": "לְ\/בָרֵךְ֠",
-      "english": "לְבָרֵךְ"
+      "surface": "לברך",
+      "english": "祝福"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אֲדֹנֵינוּ"
+      "marks": "我们的主大卫王"
     },
     {
-      "surface": "אֲדֹנֵ֜י\/נוּ",
-      "english": "אֲדֹנֵינוּ"
+      "surface": "אדנינו",
+      "english": "我们的主"
     },
     {
-      "surface": "הַ\/מֶּ֣לֶךְ",
-      "english": "הַמֶּלֶךְ"
+      "surface": "המלך",
+      "english": "王"
     },
     {
-      "surface": "דָּוִד֮",
+      "surface": "דוד",
       "english": "大卫"
     },
     {
-      "surface": "לֵ\/אמֹר֒",
-      "english": "לֵאמֹר"
+      "surface": "לאמר",
+      "english": "说"
     },
     {
-      "surface": "יֵיטֵ֨ב",
-      "english": "יֵיטֵב"
+      "surface": "ייטב",
+      "english": "使...好"
     },
     {
-      "surface": "אֱלֹהֶ֔י\/ךָ",
-      "english": "אֱלֹהֶיךָ"
+      "surface": "אלהיך",
+      "english": "你的以罗欣"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "所罗门的名"
     },
     {
-      "surface": "שֵׁ֤ם",
-      "english": "שֵׁם"
+      "surface": "שם",
+      "english": "名"
     },
     {
-      "surface": "שְׁלֹמֹה֙",
+      "surface": "שלמה",
       "english": "所罗门"
     },
     {
-      "surface": "מִ\/שְּׁמֶ֔\/ךָ",
-      "english": "מִשְּׁמֶךָ"
+      "surface": "משמך",
+      "english": "⟨比⟩ 你的名"
     },
     {
-      "surface": "וְ\/יַגְדֵּ֥ל",
-      "english": "וְיַגְדֵּל"
+      "surface": "ויגדל",
+      "english": "使...大"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "他的宝座"
     },
     {
-      "surface": "כִּסְא֖\/וֹ",
-      "english": "כִּסְאוֹ"
+      "surface": "כסאו",
+      "english": "他的宝座"
     },
     {
-      "surface": "מִ\/כִּסְאֶ֑\/ךָ",
-      "english": "מִכִּסְאֲךָ"
+      "surface": "מכסאך",
+      "english": "⟨比⟩ 你的宝座"
     },
     {
-      "surface": "וַ\/יִּשְׁתַּ֥חוּ",
-      "english": "וַיִּשְׁתַּחוּ"
+      "surface": "וישתחו",
+      "english": "敬拜"
     },
     {
-      "surface": "הַ\/מֶּ֖לֶךְ",
-      "english": "הַמֶּלֶךְ"
+      "surface": "המלך",
+      "english": "王"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "在...上"
     },
     {
-      "surface": "הַ\/מִּשְׁכָּֽב",
-      "english": "הַמִּשְׁכָּב"
+      "surface": "המשכב",
+      "english": "床"
     }
   ],
-  "timestamp": "2026-07-17T20:57:39.697053248Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:45.208989592Z",
+  "model": "glm-4.5"
 }

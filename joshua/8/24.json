@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 24,
   "ref": "joshua 8:24",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 1170,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19860,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 21030
-  },
-  "translation": "וַ\/יְהִ֣י כְּ\/כַלּ֣וֹת יִשְׂרָאֵ֡ל לַ\/הֲרֹג֩ ⟨את⟩ כָּל יֹשְׁבֵ֨י הָ\/עַ֜י בַּ\/שָּׂדֶ֗ה בַּ\/מִּדְבָּר֙ אֲשֶׁ֣ר רְדָפ֣וּ\/ם בּ֔\/וֹ, וַֽ\/יִּפְּל֥וּ כֻלָּ֛\/ם לְ\/פִי חֶ֖רֶב עַד תֻּמָּ֑\/ם, וַ\/יָּשֻׁ֤בוּ כָל יִשְׂרָאֵל֙ הָ\/עַ֔י וַ\/יַּכּ֥וּ ⟨את⟩ אֹתָ֖\/הּ לְ\/פִי חָֽרֶב׃",
+  "translation": "事成了,当以色列结束杀戮⟨את⟩所有 艾城的居民在田野,在旷野,他们在那里追击他们,他们都倒在刀口下,直到他们被除灭;全以色列返回 艾城,用刀击打⟨את⟩它",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生如下："
+      "english": "事成了"
     },
     {
       "surface": "ככלות",
-      "english": "当……完毕时"
+      "english": "当...结束"
     },
     {
       "surface": "ישראל",
@@ -32,16 +21,16 @@
     },
     {
       "surface": "להרג",
-      "english": "去杀"
+      "english": "杀戮"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "所有的"
+      "marks": "所有 艾城的居民"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "english": "所有"
     },
     {
       "surface": "ישבי",
@@ -49,7 +38,7 @@
     },
     {
       "surface": "העי",
-      "english": "艾城的"
+      "english": "艾城"
     },
     {
       "surface": "בשדה",
@@ -61,31 +50,31 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "[在那里]"
     },
     {
       "surface": "רדפום",
-      "english": "他们追赶他们"
+      "english": "他们追击"
     },
     {
       "surface": "בו",
-      "english": "在其中"
+      "english": "在那里"
     },
     {
       "surface": "ויפלו",
-      "english": "他们就倒下"
+      "english": "他们倒下"
     },
     {
       "surface": "כלם",
-      "english": "他们全都"
+      "english": "他们所有"
     },
     {
       "surface": "לפי",
-      "english": "在刀口前"
+      "english": "在...口下"
     },
     {
       "surface": "חרב",
-      "english": "刀剑"
+      "english": "刀"
     },
     {
       "surface": "עד",
@@ -93,42 +82,42 @@
     },
     {
       "surface": "תמם",
-      "english": "他们被灭尽"
+      "english": "他们被除灭"
     },
     {
       "surface": "וישבו",
-      "english": "于是……转回"
+      "english": "返回"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "english": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列人"
+      "english": "以色列"
     },
     {
       "surface": "העי",
-      "english": "到艾城"
+      "english": "艾城"
     },
     {
       "surface": "ויכו",
-      "english": "击打了"
+      "english": "击打"
     },
     {
       "surface": "אתה",
       "english": "⟨את⟩",
-      "marks": "它 (艾城)"
+      "marks": "它"
     },
     {
       "surface": "לפי",
-      "english": "在刀口前"
+      "english": "在...口下"
     },
     {
       "surface": "חרב",
-      "english": "刀剑"
+      "english": "刀"
     }
   ],
-  "timestamp": "2026-07-17T19:54:38.960589817Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:47:16.846573039Z",
+  "model": "glm-4.5"
 }

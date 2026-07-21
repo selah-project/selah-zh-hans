@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "psalms 94:17",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 94,
   "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64467,
+    "completion_tokens": 382,
+    "prompt_tokens": 64531,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65004
+    "total_tokens": 64913
   },
-  "translation": "לוּלֵ֣י יְ֭הוָה הָיְתָה עֶזְרָ֣תָ\/ה לִּ֑\/י, כִּ\/מְעַ֓ט שָֽׁכְנָ֖ה דוּמָ֣ה נַפְשִֽׁ\/י.",
+  "translation": "若非雅威是我的帮助，我的魂几乎已安居于静默之中。",
   "tokens": [
     {
       "surface": "לולי",
-      "english": "לולא"
+      "english": "若非"
     },
     {
       "surface": "יהוה",
@@ -28,11 +25,11 @@
     },
     {
       "surface": "עזרתה",
-      "english": "帮助"
+      "english": "是我的帮助"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "english": "对我"
     },
     {
       "surface": "כמעט",
@@ -40,17 +37,17 @@
     },
     {
       "surface": "שכנה",
-      "english": "居住"
+      "english": "已安居"
     },
     {
       "surface": "דומה",
-      "english": "寂静"
+      "english": "于静默之中"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命气息"
+      "english": "我的魂"
     }
   ],
-  "timestamp": "2026-07-18T00:13:04.117078731Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:17.657308933Z",
+  "model": "glm-4.5"
 }

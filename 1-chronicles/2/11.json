@@ -1,58 +1,55 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "1-chronicles 2:11",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58756,
+    "completion_tokens": 237,
+    "prompt_tokens": 58831,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59265
+    "total_tokens": 59068
   },
-  "translation": "וְ\/נַחְשׁוֹן֙ הוֹלִ֣יד אֶת שַׂלְמָ֔א וְ\/שַׂלְמָ֖א הוֹלִ֥יד אֶת בֹּֽעַז",
+  "translation": "拿顺生了萨尔玛,萨尔玛生了波阿斯",
   "tokens": [
     {
-      "surface": "וְ\/נַחְשׁוֹן֙",
+      "surface": "ונחשון",
       "english": "拿顺"
     },
     {
-      "surface": "הוֹלִ֣יד",
+      "surface": "הוליד",
       "english": "生了"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "撒勒瑪 (Shalma)"
+      "marks": "萨尔玛"
     },
     {
-      "surface": "שַׂלְמָ֔א",
-      "english": "撒勒瑪"
+      "surface": "שלמא",
+      "english": "萨尔玛"
     },
     {
-      "surface": "וְ\/שַׂלְמָ֖א",
-      "english": "撒勒瑪"
+      "surface": "ושלמא",
+      "english": "萨尔玛"
     },
     {
-      "surface": "הוֹלִ֥יד",
+      "surface": "הוליד",
       "english": "生了"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
       "marks": "波阿斯"
     },
     {
-      "surface": "בֹּֽעַז",
+      "surface": "בעז",
       "english": "波阿斯"
     }
   ],
-  "timestamp": "2026-07-18T01:52:20.079757204Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:21.817390184Z",
+  "model": "glm-4.5"
 }

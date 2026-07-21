@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "2-chronicles 4:19",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 882,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60534,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61416
-  },
-  "translation": "所罗门 עשה את כל ⟨ה⟩כלים אשר ⟨ל⟩בית האלהים, ואת מזבח הזהב, ואת השלחנות, ועליהם לחם הפנים.",
+  "translation": "所罗门制造了⟨在⟩雅威之家的所有器皿,还有金坛和陈设饼桌,并在其上⟨有⟩陈设饼",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "עשה"
+      "english": "制造了"
     },
     {
       "surface": "שלמה",
@@ -29,63 +18,63 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "כל"
+      "marks": "所有器皿"
     },
     {
       "surface": "כל",
-      "english": "את כל"
+      "english": "所有"
     },
     {
       "surface": "הכלים",
-      "english": "הכלים"
+      "english": "器皿"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "⟨在⟩"
     },
     {
       "surface": "בית",
-      "english": "לבית"
+      "english": "家"
     },
     {
       "surface": "האלהים",
-      "english": "האלהים"
+      "english": "雅威"
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "מזבח"
+      "english": "⟨את⟩",
+      "marks": "金坛"
     },
     {
       "surface": "מזבח",
-      "english": "מזבח"
+      "english": "坛"
     },
     {
       "surface": "הזהב",
-      "english": "הזהב"
+      "english": "金"
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "השלחנות"
+      "english": "⟨את⟩",
+      "marks": "陈设饼桌"
     },
     {
       "surface": "השלחנות",
-      "english": "השלחנות"
+      "english": "陈设饼桌"
     },
     {
       "surface": "ועליהם",
-      "english": "ועליהם"
+      "english": "并在其上"
     },
     {
       "surface": "לחם",
-      "english": "לחם"
+      "english": "饼"
     },
     {
       "surface": "הפנים",
-      "english": "הפנים"
+      "english": "陈设"
     }
   ],
-  "timestamp": "2026-07-18T02:15:56.650784510Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:28.102379319Z",
+  "model": "glm-4.5"
 }

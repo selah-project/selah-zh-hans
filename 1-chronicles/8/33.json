@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "1-chronicles 8:33",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 815,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60028,
+    "completion_tokens": 809,
+    "prompt_tokens": 60170,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60843
+    "total_tokens": 60979
   },
-  "translation": "וְ\/נֵר הוֹלִיד אֶת קִ֔ישׁ וְ\/קִ֖ישׁ הוֹלִיד אֶת שָׁא֑וּל וְ\/שָׁא֗וּל הוֹלִיד אֶת יְהֽוֹנָתָן֙ וְ\/אֶת מַלְכִּי שׁ֔וּעַ וְ\/אֶת אֲבִֽינָדָ֖ב וְ\/אֶת אֶשְׁבָּֽעַל",
+  "translation": "尼珥生 ⟨了⟩ 基士,基士生 ⟨了⟩ 扫罗,扫罗生 ⟨了⟩ 约拿单 ⟨את⟩、麦基-舒亚 ⟨את⟩、亚比拿达 ⟨את⟩ 和 伊施巴力。",
   "tokens": [
     {
       "surface": "ונר",
-      "english": "乃珥"
+      "english": "尼珥"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生 ⟨了⟩"
     },
     {
       "surface": "את",
@@ -41,7 +38,7 @@
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生 ⟨了⟩"
     },
     {
       "surface": "את",
@@ -58,7 +55,7 @@
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生 ⟨了⟩"
     },
     {
       "surface": "את",
@@ -72,15 +69,15 @@
     {
       "surface": "ואת",
       "english": "⟨את⟩",
-      "marks": "玛基舒亚"
+      "marks": "麦基"
     },
     {
       "surface": "מלכי",
-      "english": "玛基"
+      "english": "麦基"
     },
     {
       "surface": "שוע",
-      "english": "舒亚"
+      "english": "-舒亚"
     },
     {
       "surface": "ואת",
@@ -98,9 +95,9 @@
     },
     {
       "surface": "אשבעל",
-      "english": "伊施巴力"
+      "english": "和 伊施巴力"
     }
   ],
-  "timestamp": "2026-07-18T01:58:18.187997125Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:26.106828086Z",
+  "model": "glm-4.5"
 }

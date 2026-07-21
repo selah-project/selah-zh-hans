@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 39,
   "ref": "joshua 19:39",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17979,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18433
-  },
-  "translation": "这⟨是⟩נַחֲלַת（产业）מַטֵּה（支派）בְּנֵי（─之子）נַפְתָּלִי（拿弗他利）按לְ\/מִשְׁפְּחֹתָ֑\/ם（他们的宗族）：הֶ\/עָרִ֖ים（这些城）וְ\/חַצְרֵי\/הֶֽן（与它们的村庄）。",
+  "translation": "这是拿弗他利子孙支派的产业,按他们的宗族,就是这些城邑和她们的属郊。",
   "tokens": [
     {
-      "surface": "זֹ֗את",
-      "english": "这"
+      "surface": "זאת",
+      "english": "这是"
     },
     {
-      "surface": "נַחֲלַ֛ת",
+      "surface": "נחלת",
       "english": "产业"
     },
     {
-      "surface": "מַטֵּ֥ה",
-      "english": "支派"
+      "surface": "מטה",
+      "english": "支派的"
     },
     {
-      "surface": "בְנֵֽי",
-      "english": "─之子"
+      "surface": "בני",
+      "english": "子孙"
     },
     {
-      "surface": "נַפְתָּלִ֖י",
+      "surface": "נפתלי",
       "english": "拿弗他利"
     },
     {
-      "surface": "לְ\/מִשְׁפְּחֹתָ֑\/ם",
+      "surface": "למשפחתם",
       "english": "按他们的宗族"
     },
     {
-      "surface": "הֶ\/עָרִ֖ים",
-      "english": "这些城"
+      "surface": "הערים",
+      "english": "就是这些城邑"
     },
     {
-      "surface": "וְ\/חַצְרֵי\/הֶֽן",
-      "english": "与它们的村庄"
+      "surface": "וחצריהן",
+      "english": "和她们的属郊"
     }
   ],
-  "timestamp": "2026-07-17T20:02:28.246156004Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:51.166624729Z",
+  "model": "glm-4.5"
 }

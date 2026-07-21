@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "1-kings 3:17",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64387,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65005
-  },
-  "translation": "האשה האחת ותאמר: בי אדני, אני והאשה הזאת ישבת בבית אחד, ואלד עמה בבית.",
+  "translation": "那一个女人说:求你,我主,我和这女人同住在一所房子里,我在屋里与她生了孩子。",
   "tokens": [
     {
-      "surface": "ו\/תאמר",
-      "english": "ואמרה"
+      "surface": "ותאמר",
+      "english": "说"
     },
     {
-      "surface": "ה\/אשה",
-      "english": "האשה"
+      "surface": "האשה",
+      "english": "那一个女人"
     },
     {
-      "surface": "ה\/אחת",
-      "english": "האחת"
+      "surface": "האחת",
+      "english": "一个"
     },
     {
       "surface": "בי",
-      "english": "בי"
+      "english": "求你"
     },
     {
       "surface": "אדני",
-      "english": "אדני"
+      "english": "我主"
     },
     {
       "surface": "אני",
-      "english": "אני"
+      "english": "我"
     },
     {
-      "surface": "וה\/אשה",
-      "english": "והאשה"
+      "surface": "והאשה",
+      "english": "和这女人"
     },
     {
-      "surface": "ה\/זאת",
-      "english": "הזאת"
+      "surface": "הזאת",
+      "english": "这"
     },
     {
       "surface": "ישבת",
-      "english": "יושבות"
+      "english": "同住"
     },
     {
-      "surface": "ב\/בית",
-      "english": "בבית"
+      "surface": "בבית",
+      "english": "在一所房子里"
     },
     {
       "surface": "אחד",
-      "english": "אחד"
+      "english": "一所"
     },
     {
       "surface": "ואלד",
-      "english": "ילדתי"
+      "english": "生了"
     },
     {
-      "surface": "עמ\/ה",
-      "english": "עמה"
+      "surface": "עמה",
+      "english": "与她"
     },
     {
-      "surface": "ב\/בית",
-      "english": "בבית"
+      "surface": "בבית",
+      "english": "在屋里"
     }
   ],
-  "timestamp": "2026-07-17T20:59:07.480819253Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:34.564309404Z",
+  "model": "glm-4.5"
 }

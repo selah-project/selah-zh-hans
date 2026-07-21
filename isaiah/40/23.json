@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "isaiah 40:23",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20563,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21109
-  },
-  "translation": "הַ\/נּוֹתֵן רוֹזְנִ֖ים לְ\/אָ֑יִן שֹׁ֥פְטֵי אֶ֖רֶץ כַּ\/תֹּ֥הוּ עָשָֽׂה",
+  "translation": "那位将尊贵人带归于无有的,使地上的审判官成为虚空。",
   "tokens": [
     {
-      "surface": "הַ\/נּוֹתֵ֥ן",
-      "english": "他赐"
+      "surface": "הנותן",
+      "english": "那位带...的"
     },
     {
-      "surface": "רוֹזְנִ֖ים",
-      "english": "掌权者（受膏者\/官长）"
+      "surface": "רוזנים",
+      "english": "尊贵人"
     },
     {
-      "surface": "לְ\/אָ֑יִן",
-      "english": "归于虚无"
+      "surface": "לאין",
+      "english": "归于无有"
     },
     {
-      "surface": "שֹׁ֥פְטֵי",
+      "surface": "שפטי",
       "english": "审判官"
     },
     {
-      "surface": "אֶ֖רֶץ",
-      "english": "全地"
+      "surface": "ארץ",
+      "english": "地上"
     },
     {
-      "surface": "כַּ\/תֹּ֥הוּ",
-      "english": "如虚空"
+      "surface": "כתהו",
+      "english": "成为虚空"
     },
     {
-      "surface": "עָשָֽׂה",
-      "english": "他造"
+      "surface": "עשה",
+      "english": "使"
     }
   ],
-  "timestamp": "2026-07-17T21:53:07.678042688Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:53.389793627Z",
+  "model": "glm-4.5"
 }

@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "jeremiah 20:1",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 712,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19889,
+    "completion_tokens": 654,
+    "prompt_tokens": 19995,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20601
+    "total_tokens": 20649
   },
-  "translation": "פַּשְׁחוּר בֶּן אִמֵּר הַ\/כֹּהֵן, וְ\/הֽוּא פָקִיד נָגִיד בְּ\/בֵית יְהוָה, שָׁמַע אֶת יִרְמְיָהוּ נִבָּא אֶת הַ\/דְּבָרִים הָ\/אֵֽלֶּה",
+  "translation": "帕施户尔，音珥的儿子，在雅威的殿中 ⟨是⟩ 总督和首领的祭司，听见耶利米 ⟨את⟩ 说预言 ⟨את⟩ 这些话。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "（和）……听见了"
+      "english": "听见"
     },
     {
       "surface": "פשחור",
-      "english": "帕施户"
+      "english": "帕施户尔"
     },
     {
       "surface": "בן",
@@ -32,19 +29,19 @@
     },
     {
       "surface": "אמר",
-      "english": "伊默"
+      "english": "音珥"
     },
     {
       "surface": "הכהן",
-      "english": "那祭司"
+      "english": "祭司"
     },
     {
       "surface": "והוא",
-      "english": "他就是"
+      "english": "他"
     },
     {
       "surface": "פקיד",
-      "english": "主管"
+      "english": "总督"
     },
     {
       "surface": "נגיד",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "בבית",
-      "english": "在……殿"
+      "english": "在……殿中"
     },
     {
       "surface": "יהוה",
@@ -78,13 +75,13 @@
     },
     {
       "surface": "הדברים",
-      "english": "那些话（*davar*）"
+      "english": "这些话"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T22:18:11.995294026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:25.964386058Z",
+  "model": "glm-4.5"
 }

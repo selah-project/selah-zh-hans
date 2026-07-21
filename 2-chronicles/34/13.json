@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "2-chronicles 34:13",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60225,
+    "completion_tokens": 530,
+    "prompt_tokens": 60224,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60976
+    "total_tokens": 60754
   },
-  "translation": "וְעַל הַ\/סַּבָּלִים —— וּ\/מְנַצְּחִים לְ\/כֹל עֹשֵׂה מְלָאכָה לַ\/עֲבוֹדָה וַ\/עֲבוֹדָה; וּ\/מֵ\/הַ\/לְוִיִּם: סוֹפְרִים וְ\/שֹׁטְרִים וְ\/שׁוֹעֲרִים׃",
+  "translation": "并在搬运工人和所有作事工之人的监工之上,以及来自利未人的文书、官员和守门人:",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "他们监督"
+      "english": "并在...之上"
     },
     {
       "surface": "הסבלים",
-      "english": "הַ\/סַּבָּלִים"
+      "english": "搬运工人"
     },
     {
       "surface": "ומנצחים",
-      "english": "וּ\/מְנַצְּחִים"
+      "english": "和...监工"
     },
     {
       "surface": "לכל",
-      "english": "לְ\/כֹל"
+      "english": "所有"
     },
     {
       "surface": "עשה",
-      "english": "עֹשֵׂה"
+      "english": "作"
     },
     {
       "surface": "מלאכה",
-      "english": "מְלָאכָה"
+      "english": "事工"
     },
     {
       "surface": "לעבודה",
-      "english": "לַ\/עֲבוֹדָה"
+      "english": "为"
     },
     {
       "surface": "ועבודה",
-      "english": "וַ\/עֲבוֹדָה"
+      "english": "服侍"
     },
     {
       "surface": "ומהלוים",
-      "english": "וּ\/מֵ\/הַ\/לְוִיִּם"
+      "english": "以及来自利未人的"
     },
     {
       "surface": "סופרים",
-      "english": "סוֹפְרִים"
+      "english": "文书"
     },
     {
       "surface": "ושטרים",
-      "english": "וְ\/שֹׁטְרִים"
+      "english": "和官员"
     },
     {
       "surface": "ושוערים",
-      "english": "וְ\/שׁוֹעֲרִים"
+      "english": "和守门人"
     }
   ],
-  "timestamp": "2026-07-20T15:03:52.053275061Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:20.469482284Z",
+  "model": "glm-4.5"
 }

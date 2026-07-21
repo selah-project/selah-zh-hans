@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 41,
   "ref": "jeremiah 48:41",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 48,
   "usage": {
-    "completion_tokens": 1168,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19537,
+    "completion_tokens": 389,
+    "prompt_tokens": 19600,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20705
+    "total_tokens": 19989
   },
-  "translation": "קְרִיּוֹת נִלְכְּדָה, וְהַמְּצָדוֹת נִתְפְּשָׂה, וְהָיָה לֵב גִּבּוֹרֵי מוֹאָב בַּיּוֹם הַהוּא כְּלֵב אִשָּׁה מְצֵרָה.",
+  "translation": "城被攻取,堡垒被占领;在那日,摩押勇士的心必如临产妇人的心。",
   "tokens": [
     {
-      "surface": "נִלְכְּדָה",
-      "english": "נלכדו"
+      "surface": "נלכדה",
+      "english": "被攻取"
     },
     {
-      "surface": "הַ\/קְּרִיּוֹת",
-      "english": "加略"
+      "surface": "הקריות",
+      "english": "城"
     },
     {
-      "surface": "וְ\/הַ\/מְּצָדוֹת",
-      "english": "והמצדות"
+      "surface": "והמצדות",
+      "english": "和堡垒"
     },
     {
-      "surface": "נִתְפְּשָׂה",
-      "english": "נתפסו"
+      "surface": "נתפשה",
+      "english": "被占领"
     },
     {
-      "surface": "וְ\/הָיָה",
-      "english": "והיה"
+      "surface": "והיה",
+      "english": "必"
     },
     {
-      "surface": "לֵב",
-      "english": "לב"
+      "surface": "לב",
+      "english": "心"
     },
     {
-      "surface": "גִּבּוֹרֵי",
-      "english": "גיבורי"
+      "surface": "גבורי",
+      "english": "勇士"
     },
     {
-      "surface": "מוֹאָב",
+      "surface": "מואב",
       "english": "摩押"
     },
     {
-      "surface": "בַ\/יּוֹם",
-      "english": "ביום"
+      "surface": "ביום",
+      "english": "在那日"
     },
     {
-      "surface": "הַ\/הוּא",
-      "english": "ההוא"
+      "surface": "ההוא",
+      "english": ""
     },
     {
-      "surface": "כְּ\/לֵב",
-      "english": "כלב"
+      "surface": "כלב",
+      "english": "如"
     },
     {
-      "surface": "אִשָּׁה",
-      "english": "אשה"
+      "surface": "אשה",
+      "english": "妇人"
     },
     {
-      "surface": "מְצֵרָה",
-      "english": "מצרה"
+      "surface": "מצרה",
+      "english": "临产"
     }
   ],
-  "timestamp": "2026-07-17T22:35:45.335357845Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:06.270276004Z",
+  "model": "glm-4.5"
 }

@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "ezra 3:12",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 1029,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 48020,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 49049
-  },
-  "translation": "וְ\/רַבִּ֡ים מֵ\/הַ\/כֹּהֲנִ֣ים וְ\/הַ\/לְוִיִּם֩ וְ\/רָאשֵׁ֨י הָ\/אָב֜וֹת הַ\/זְּקֵנִ֗ים אֲשֶׁ֨ר רָא֜וּ אֶת הַ\/בַּ֤יִת הָֽ\/רִאשׁוֹנ֙ בְּ\/יָסְד֔\/וֹ זֶ֤ה הַ\/בַּ֨יִת֙ בְּ\/עֵ֣ינֵי\/הֶ֔ם בֹּכִ֖ים בְּ\/ק֣וֹל גָּד֑וֹל וְ\/רַבִּ֛ים בִּ\/תְרוּעָ֥ה בְ\/שִׂמְחָ֖ה לְ\/הָרִ֥ים קֽוֹל",
+  "translation": "但许多祭司、利未人和宗族的首领、那些见过第一座殿的老年人，当这殿在他们眼前奠基时，大声哭号；许多人大声欢呼，喜乐地扬起声音",
   "tokens": [
     {
       "surface": "ורבים",
-      "english": "许多人"
+      "english": "但许多"
     },
     {
       "surface": "מהכהנים",
-      "english": "从祭司"
+      "english": "祭司"
     },
     {
       "surface": "והלוים",
-      "english": "和利未人"
+      "english": "利未人"
     },
     {
       "surface": "וראשי",
-      "english": "以及宗族首领"
+      "english": "和宗族的首领"
     },
     {
       "surface": "האבות",
-      "english": "父家"
+      "english": "父亲们的"
     },
     {
       "surface": "הזקנים",
-      "english": "长老们"
+      "english": "老年人"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "那些"
     },
     {
       "surface": "ראו",
-      "english": "曾见过"
+      "english": "见过"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "殿 (הבית)"
+      "marks": "第一座殿"
     },
     {
       "surface": "הבית",
-      "english": "殿"
+      "english": "第一座殿"
     },
     {
       "surface": "הראשון",
-      "english": "第一"
+      "english": "先前的"
     },
     {
       "surface": "ביסדו",
-      "english": "在其根基立定时"
+      "english": "当它被奠基时"
     },
     {
       "surface": "זה",
@@ -77,31 +66,31 @@
     },
     {
       "surface": "בעיניהם",
-      "english": "在他们眼中"
+      "english": "在他们眼前"
     },
     {
       "surface": "בכים",
-      "english": "哭泣"
+      "english": "哭号"
     },
     {
       "surface": "בקול",
-      "english": "发声"
+      "english": "用"
     },
     {
       "surface": "גדול",
-      "english": "大声"
+      "english": "大的"
     },
     {
       "surface": "ורבים",
-      "english": "也有许多人"
+      "english": "和许多"
     },
     {
       "surface": "בתרועה",
-      "english": "以欢呼"
+      "english": "大声欢呼"
     },
     {
       "surface": "בשמחה",
-      "english": "在喜乐中"
+      "english": "喜乐地"
     },
     {
       "surface": "להרים",
@@ -112,6 +101,6 @@
       "english": "声音"
     }
   ],
-  "timestamp": "2026-07-18T01:38:11.066344107Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:33.556077695Z",
+  "model": "glm-4.5"
 }

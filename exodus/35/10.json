@@ -1,68 +1,66 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "exodus 35:10",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 35,
   "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18743,
+    "completion_tokens": 471,
+    "prompt_tokens": 18807,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19344
+    "total_tokens": 19278
   },
-  "translation": "וְכָל חֲכַם־לֵב בָּכֶם יָבֹאוּ וְיַעֲשׂוּ ⟨את⟩ כָּל אֲשֶׁר צִוָּה יְהוָה׃",
+  "translation": "你们中间凡心里智慧的 ⟨都⟩ 要来,做 ⟨את⟩ 一切雅威所吩咐的 ⟨事⟩",
   "tokens": [
     {
-      "surface": "וְ\/כָל",
-      "english": "וכל"
+      "surface": "וכל",
+      "english": "凡"
     },
     {
-      "surface": "חֲכַם",
-      "english": "חכם"
+      "surface": "חכם",
+      "english": "智慧的"
     },
     {
-      "surface": "לֵ֖ב",
-      "english": "לב"
+      "surface": "לב",
+      "english": "心里"
     },
     {
-      "surface": "בָּ\/כֶ֑ם",
-      "english": "בכם"
+      "surface": "בכם",
+      "english": "你们中间"
     },
     {
-      "surface": "יָבֹ֣אוּ",
-      "english": "יבאו"
+      "surface": "יבאו",
+      "english": "要来"
     },
     {
-      "surface": "וְ\/יַעֲשׂ֔וּ",
-      "english": "ויעשו"
+      "surface": "ויעשו",
+      "english": "做"
     },
     {
-      "surface": "אֵ֛ת",
-      "english": "את"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "一切"
     },
     {
-      "surface": "כָּל",
-      "english": "כל"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "所"
     },
     {
-      "surface": "צִוָּ֖ה",
-      "english": "צוה"
+      "surface": "צוה",
+      "english": "吩咐"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T18:35:46.576842439Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:07.041045978Z",
+  "model": "glm-4.5"
 }

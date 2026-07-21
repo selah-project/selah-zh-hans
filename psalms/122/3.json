@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "psalms 122:3",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 122,
   "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64323,
+    "completion_tokens": 369,
+    "prompt_tokens": 64393,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64720
+    "total_tokens": 64762
   },
-  "translation": "耶路撒冷，הבנויה ⟨כ⟩ עיר שחברה לה יחדו׃",
+  "translation": "耶路撒冷这被建造的城, ⟨是⟩ ⟨如同⟩ 一座 ⟨互相⟩ 连结 ⟨在一起的⟩ 城市,",
   "tokens": [
     {
       "surface": "ירושלם",
@@ -24,25 +21,25 @@
     },
     {
       "surface": "הבנויה",
-      "english": "被建造的"
+      "english": "这被建造的"
     },
     {
       "surface": "כעיר",
-      "english": "如同城邑"
+      "english": "如同...城市"
     },
     {
       "surface": "שחברה",
-      "english": "被紧密连结"
+      "english": "互相连结"
     },
     {
       "surface": "לה",
-      "english": "⟨与⟩她"
+      "english": "在一起的"
     },
     {
       "surface": "יחדו",
-      "english": "为一"
+      "english": "互相"
     }
   ],
-  "timestamp": "2026-07-18T00:25:23.729547756Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:49.116309546Z",
+  "model": "glm-4.5"
 }

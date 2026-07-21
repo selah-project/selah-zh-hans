@@ -1,100 +1,97 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "exodus 34:3",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 780,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19341,
+    "completion_tokens": 702,
+    "prompt_tokens": 19340,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20121
+    "total_tokens": 20042
   },
-  "translation": "וְ\/אִישׁ לֹא יַעֲלֶה עִמָּ\/ךְ, וְ\/גַם אִישׁ אַל יֵרָא בְּ\/כָל הָ\/הָר; גַם הַ\/צֹּאן וְ\/הַ\/בָּקָר אַל יִרְעוּ אֶל מוּל הָ\/הָר הַ\/הוּא׃",
+  "translation": "并且没有人要和你一同上去，也无论什么人 ⟨不可⟩ ⟨被见⟩ 在这全山上， ⟨连⟩ 羊群和牛群 ⟨都不可⟩ ⟨牧放⟩ 在那山 ⟨对面⟩。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "וְ\/אִישׁ"
+      "english": "并且没有人"
     },
     {
       "surface": "לא",
-      "english": "לֹא"
+      "english": "不"
     },
     {
       "surface": "יעלה",
-      "english": "יַעֲלֶה"
+      "english": "要和你一同上去"
     },
     {
       "surface": "עמך",
-      "english": "עִמָּ\/ךְ"
+      "english": "和你一同"
     },
     {
       "surface": "וגם",
-      "english": "וְ\/גַם"
+      "english": "也"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "english": "无论什么人"
     },
     {
       "surface": "אל",
-      "english": "אַל"
+      "english": "⟨不可⟩"
     },
     {
       "surface": "ירא",
-      "english": "יֵרָא"
+      "english": "⟨被见⟩"
     },
     {
       "surface": "בכל",
-      "english": "בְּ\/כָל"
+      "english": "在这全"
     },
     {
       "surface": "ההר",
-      "english": "הָ\/הָר"
+      "english": "山上"
     },
     {
       "surface": "גם",
-      "english": "גַם"
+      "english": "⟨连⟩"
     },
     {
       "surface": "הצאן",
-      "english": "הַ\/צֹּאן"
+      "english": "羊群"
     },
     {
       "surface": "והבקר",
-      "english": "וְ\/הַ\/בָּקָר"
+      "english": "和牛群"
     },
     {
       "surface": "אל",
-      "english": "אַל"
+      "english": "⟨都不可⟩"
     },
     {
       "surface": "ירעו",
-      "english": "יִרְעוּ"
+      "english": "⟨牧放⟩"
     },
     {
       "surface": "אל",
-      "english": "אֶל"
+      "english": "在"
     },
     {
       "surface": "מול",
-      "english": "מוּל"
+      "english": "⟨对面⟩"
     },
     {
       "surface": "ההר",
-      "english": "הָ\/הָר"
+      "english": "那山"
     },
     {
       "surface": "ההוא",
-      "english": "הַ\/הוּא"
+      "english": "那"
     }
   ],
-  "timestamp": "2026-07-17T18:34:35.738293565Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:31.611834123Z",
+  "model": "glm-4.5"
 }

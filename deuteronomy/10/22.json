@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "deuteronomy 10:22",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 734,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19594,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20328
-  },
-  "translation": "בְּ\/שִׁבְעִ֣ים נֶ֔פֶשׁ יָרְד֥וּ אֲבֹתֶ֖י\/ךָ מִצְרָ֑יְמָ\/הּ וְ\/עַתָּ֗ה שָֽׂמְ\/ךָ֙ יְהוָ֣ה אֱלֹהֶ֔י\/ךָ כְּ\/כוֹכְבֵ֥י הַ\/שָּׁמַ֖יִם לָ\/רֹֽב",
+  "translation": "你的祖先七十个魂下到埃及,而现在雅威你的以罗欣使你像天上的星那样多。",
   "tokens": [
     {
-      "surface": "בְּ\/שִׁבְעִ֣ים",
-      "english": "七"
+      "surface": "בשבעים",
+      "english": "七十"
     },
     {
-      "surface": "נֶ֔פֶשׁ",
-      "english": "人"
+      "surface": "נפש",
+      "english": "魂"
     },
     {
-      "surface": "יָרְד֥וּ",
-      "english": "下"
+      "surface": "ירדו",
+      "english": "下到"
     },
     {
-      "surface": "אֲבֹתֶ֖י\/ךָ",
-      "english": "你的列祖"
+      "surface": "אבתיך",
+      "english": "你的祖先"
     },
     {
-      "surface": "מִצְרָ֑יְמָ\/הּ",
+      "surface": "מצרימה",
       "english": "埃及"
     },
     {
-      "surface": "וְ\/עַתָּ֗ה",
+      "surface": "ועתה",
       "english": "而现在"
     },
     {
-      "surface": "שָֽׂמְ\/ךָ֙",
-      "english": "安置了你"
+      "surface": "שמך",
+      "english": "使你"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֶ֔י\/ךָ",
+      "surface": "אלהיך",
       "english": "你的以罗欣"
     },
     {
-      "surface": "כְּ\/כוֹכְבֵ֥י",
-      "english": "如……的星辰"
+      "surface": "ככוכבי",
+      "english": "像...星"
     },
     {
-      "surface": "הַ\/שָּׁמַ֖יִם",
-      "english": "天"
+      "surface": "השמים",
+      "english": "天上的"
     },
     {
-      "surface": "לָ\/רֹֽב",
-      "english": "繁多"
+      "surface": "לרב",
+      "english": "那样多"
     }
   ],
-  "timestamp": "2026-07-17T19:34:32.863366065Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:19.790896597Z",
+  "model": "glm-4.5"
 }

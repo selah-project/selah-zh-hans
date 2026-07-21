@@ -1,104 +1,93 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "1-kings 10:21",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 883,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65110,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65993
-  },
-  "translation": "וְ֠כֹל כְּלֵ֞י מַשְׁקֵ֨ה הַ\/מֶּ֤לֶךְ שְׁלֹמֹה֙ זָהָ֔ב וְ\/כֹ֗ל כְּלֵ֛י בֵּֽית יַ֥עַר הַ\/לְּבָנ֖וֹן זָהָ֣ב סָג֑וּר אֵ֣ין כֶּ֗סֶף לֹ֥א נֶחְשָׁ֛ב בִּ\/ימֵ֥י שְׁלֹמֹ֖ה לִ\/מְאֽוּמָה",
+  "translation": "所罗门王 ⟨the⟩ 所有 ⟨的⟩ 饮具 ⟨都是⟩ 金 ⟨做的⟩,利巴嫩林宫 ⟨the⟩ 所有器皿 ⟨都是⟩ 纯金;没有银子的,在所罗门的日子 ⟨it⟩ 不被算作 ⟨什么⟩。",
   "tokens": [
     {
-      "surface": "וְכֹל",
-      "english": "而所有"
+      "surface": "וכל",
+      "english": "所有 ⟨的⟩"
     },
     {
-      "surface": "כְּלֵי",
-      "english": "器具"
+      "surface": "כלי",
+      "english": "饮具"
     },
     {
-      "surface": "מַשְׁקֵה",
-      "english": "饮用"
+      "surface": "משקה",
+      "english": "喝"
     },
     {
-      "surface": "הַ\/מֶּלֶךְ",
-      "english": "⟨那⟩王"
+      "surface": "המלך",
+      "english": "王"
     },
     {
-      "surface": "שְׁלֹמֹה",
-      "english": "所罗门的"
-    },
-    {
-      "surface": "זָהָב",
-      "english": "金"
-    },
-    {
-      "surface": "וְכֹל",
-      "english": "而所有"
-    },
-    {
-      "surface": "כְּלֵי",
-      "english": "器具"
-    },
-    {
-      "surface": "בֵּית",
-      "english": "房屋"
-    },
-    {
-      "surface": "יַעַר",
-      "english": "森林"
-    },
-    {
-      "surface": "הַ\/לְּבָנוֹן",
-      "english": "⟨那⟩黎巴嫩"
-    },
-    {
-      "surface": "זָהָב",
-      "english": "金"
-    },
-    {
-      "surface": "סָגוּר",
-      "english": "纯金"
-    },
-    {
-      "surface": "אֵין",
-      "english": "没有"
-    },
-    {
-      "surface": "כֶסֶף",
-      "english": "银子"
-    },
-    {
-      "surface": "לֹא",
-      "english": "不"
-    },
-    {
-      "surface": "נֶחְשָׁב",
-      "english": "被看重"
-    },
-    {
-      "surface": "בִּימֵי",
-      "english": "在……的日子"
-    },
-    {
-      "surface": "שְׁלֹמֹה",
+      "surface": "שלמה",
       "english": "所罗门"
     },
     {
-      "surface": "לִמְאוּמָה",
-      "english": "为任何事物"
+      "surface": "זהב",
+      "english": "金"
+    },
+    {
+      "surface": "וכל",
+      "english": "所有 ⟨的⟩"
+    },
+    {
+      "surface": "כלי",
+      "english": "器皿"
+    },
+    {
+      "surface": "בית",
+      "english": "宫"
+    },
+    {
+      "surface": "יער",
+      "english": "林"
+    },
+    {
+      "surface": "הלבנון",
+      "english": "利巴嫩"
+    },
+    {
+      "surface": "זהב",
+      "english": "金"
+    },
+    {
+      "surface": "סגור",
+      "english": "纯"
+    },
+    {
+      "surface": "אין",
+      "english": "没有"
+    },
+    {
+      "surface": "כסף",
+      "english": "银子"
+    },
+    {
+      "surface": "לא",
+      "english": "不被"
+    },
+    {
+      "surface": "נחשב",
+      "english": "算作"
+    },
+    {
+      "surface": "בימי",
+      "english": "在...日子"
+    },
+    {
+      "surface": "שלמה",
+      "english": "所罗门"
+    },
+    {
+      "surface": "למאומה",
+      "english": "⟨什么⟩"
     }
   ],
-  "timestamp": "2026-07-20T07:02:09.603116214Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:10.285708477Z",
+  "model": "glm-4.5"
 }

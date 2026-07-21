@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 59,
   "ref": "jeremiah 51:59",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 51,
   "usage": {
-    "completion_tokens": 902,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20675,
+    "completion_tokens": 785,
+    "prompt_tokens": 20818,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21577
+    "total_tokens": 21603
   },
-  "translation": "הַ\/דָּבָר אֲשֶׁר צִוָּה יִרְמְיָהוּ הַ\/נָּבִיא אֶת שְׂרָיָה בֶּן נֵרִיָּה בֶּן מַחְסֵיָה בְּ\/לֶכְתּוֹ אֶת צִדְקִיָּהוּ מֶלֶךְ יְהוּדָה בָּבֶל בְּ\/שְׁנַת הַ\/רְבִיעִית לְ\/מָלְכוֹ וּ\/שְׂרָיָה שַׂר מְנוּחָה׃",
+  "translation": "雅利米 ⟨הנביא⟩ 先知 ⟨הדבר⟩ 所吩咐 ⟨את⟩ 西莱雅 —— 尼利亚的儿子，玛西雅的孙子 —— 在他同 ⟨את⟩ 西底家王去巴比伦的那年，就是西底家在位第四年的时候。这西莱雅是安息 ⟨שר⟩ 官。",
   "tokens": [
     {
-      "surface": "ה\/דבר",
-      "english": "那话语"
+      "surface": "הדבר",
+      "english": "⟨הדבר⟩"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "所"
     },
     {
       "surface": "צוה",
@@ -32,11 +29,11 @@
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "english": "雅利米"
     },
     {
       "surface": "הנביא",
-      "english": "那先知"
+      "english": "⟨הנביא⟩"
     },
     {
       "surface": "את",
@@ -49,28 +46,28 @@
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "english": "—— 尼利亚的"
     },
     {
       "surface": "נריה",
-      "english": "尼利亚"
-    },
-    {
-      "surface": "בן",
       "english": "儿子"
     },
     {
+      "surface": "בן",
+      "english": "，玛西雅的"
+    },
+    {
       "surface": "מחסיה",
-      "english": "玛西雅"
+      "english": "孙子"
     },
     {
       "surface": "בלכתו",
-      "english": "在他前往"
+      "english": "在他同"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "西底家"
+      "marks": "西底家王"
     },
     {
       "surface": "צדקיהו",
@@ -82,37 +79,37 @@
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "english": "去巴比伦"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "english": "的那年"
     },
     {
       "surface": "בשנת",
-      "english": "在……之年"
+      "english": "，就是"
     },
     {
       "surface": "הרבעית",
-      "english": "第四"
+      "english": "西底家在位"
     },
     {
       "surface": "למלכו",
-      "english": "他作王"
+      "english": "第四年"
     },
     {
       "surface": "ושריה",
-      "english": "而西莱雅"
+      "english": "的时候。这西莱雅是"
     },
     {
       "surface": "שר",
-      "english": "是首领"
+      "english": "安息 ⟨שר⟩"
     },
     {
       "surface": "מנוחה",
-      "english": "驻扎"
+      "english": "官"
     }
   ],
-  "timestamp": "2026-07-17T22:38:47.418983085Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:55.286730174Z",
+  "model": "glm-4.5"
 }

@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 52,
   "ref": "numbers 31:52",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 1002,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20729,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21731
-  },
-  "translation": "כָּל זְהַב הַ\/תְּרוּמָ֗ה אֲשֶׁ֤ר הֵרִ֨ימוּ֙ לַֽ\/יהוָ֔ה שִׁשָּׁ֨ה עָשָׂ֥ר אֶ֛לֶף שְׁבַע מֵא֥וֹת וַ\/חֲמִשִּׁ֖ים שָׁ֑קֶל מֵ\/אֵת֙ שָׂרֵ֣י הָֽ\/אֲלָפִ֔ים וּ\/מֵ\/אֵ֖ת שָׂרֵ֥י הַ\/מֵּאֽוֹת",
+  "translation": "所有举给雅威作为供物的金子,有 一万六千七百五十 舍客勒,是从千夫长⟨את⟩和百夫长⟨את⟩那里来的。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִ֣י כָּל זְהַ֣ב הַ\/תְּרוּמָ֗ה אֲשֶׁ֤ר הֵרִ֨ימוּ֙ לַֽ\/יהוָ֔ה שִׁשָּׁ֨ה עָשָׂ֥ר אֶ֛לֶף שְׁבַע מֵא֥וֹת וַ\/חֲמִשִּׁ֖ים שָׁ֑קֶל מֵ\/אֵת֙ שָׂרֵ֣י הָֽ\/אֲלָפִ֔ים וּ\/מֵ\/אֵ֖ת שָׂרֵ֥י הַ\/מֵּאֽוֹת"
+      "english": "有"
     },
     {
       "surface": "כל",
-      "english": ""
+      "english": "所有"
     },
     {
       "surface": "זהב",
-      "english": ""
+      "english": "金子"
     },
     {
       "surface": "התרומה",
-      "english": ""
+      "english": "作为供物的"
     },
     {
       "surface": "אשר",
-      "english": ""
+      "english": "举给...的"
     },
     {
       "surface": "הרימו",
-      "english": ""
+      "english": "举给"
     },
     {
       "surface": "ליהוה",
-      "english": ""
+      "english": "雅威"
     },
     {
       "surface": "ששה",
-      "english": ""
+      "english": "六"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "english": "十"
     },
     {
       "surface": "אלף",
-      "english": ""
+      "english": "千"
     },
     {
       "surface": "שבע",
-      "english": ""
+      "english": "七"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "english": "百"
     },
     {
       "surface": "וחמשים",
-      "english": ""
+      "english": "和五十"
     },
     {
       "surface": "שקל",
-      "english": ""
+      "english": "舍客勒"
     },
     {
       "surface": "מאת",
-      "english": ""
+      "english": "从"
     },
     {
       "surface": "שרי",
-      "english": ""
+      "english": "千夫长"
     },
     {
       "surface": "האלפים",
@@ -88,17 +77,18 @@
     },
     {
       "surface": "ומאת",
-      "english": "⟨את⟩"
+      "english": "和",
+      "marks": "百夫长"
     },
     {
       "surface": "שרי",
-      "english": ""
+      "english": "百夫长"
     },
     {
       "surface": "המאות",
       "english": ""
     }
   ],
-  "timestamp": "2026-07-17T19:23:10.745418235Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:48.323794835Z",
+  "model": "glm-4.5"
 }

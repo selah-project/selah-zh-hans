@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "joshua 21:26",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17979,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18460
-  },
-  "translation": "כָּל עָרִים עֶשֶׂר וּ\/מִגְרְשֵׁיהֶן לְ\/מִשְׁפְּחוֹת בְּנֵי קְהָת הַ\/נּוֹתָרִים",
+  "translation": "一切城邑共十座,连同城郊 ⟨是⟩给剩下之哥辖子孙家族的",
   "tokens": [
     {
-      "surface": "כָּל",
-      "english": "全"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "עָרִ֥ים",
+      "surface": "ערים",
       "english": "城邑"
     },
     {
-      "surface": "עֶ֖שֶׂר",
-      "english": "十"
+      "surface": "עשר",
+      "english": "共十座"
     },
     {
-      "surface": "וּ\/מִגְרְשֵׁי\/הֶ֑ן",
-      "english": "和它们的郊野"
+      "surface": "וּ\/מִגְרְשֵׁי\/הֶן",
+      "english": "连同城郊"
     },
     {
       "surface": "לְ\/מִשְׁפְּח֥וֹת",
-      "english": "给……的家族"
+      "english": "给...家族"
     },
     {
-      "surface": "בְּנֵֽי",
-      "english": "……的儿子"
+      "surface": "בְּנֵי",
+      "english": "子孙"
     },
     {
-      "surface": "קְהָ֖ת",
-      "english": "可哈"
+      "surface": "קְהָת",
+      "english": "哥辖"
     },
     {
       "surface": "הַ\/נּוֹתָרִֽים",
-      "english": "那剩下的"
+      "english": "剩下之"
     }
   ],
-  "timestamp": "2026-07-17T20:03:25.694501766Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:35.004300665Z",
+  "model": "glm-4.5"
 }

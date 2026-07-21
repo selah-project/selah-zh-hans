@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "ezekiel 36:37",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19710,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20321
-  },
-  "translation": "כֹּה אָמַר אֲדֹנָי יְהוִה: עוֹד זֹאת אֶדְרֹּשׁ מִבֵּית יִשְׂרָאֵל לַעֲשׂוֹת לָהֶם; אַרְבֶּה ⟨אֶתְהֶם כַּצֹּאן אָדָם׃",
+  "translation": "雅威阿多尼如此说：『我还要被以色列家祈求，要为⟨他们⟩行这事；我必使人像羊群一样增多⟨他们⟩。』",
   "tokens": [
     {
       "surface": "כה",
@@ -36,7 +25,7 @@
     },
     {
       "surface": "עוד",
-      "english": "此外 \/ 再者"
+      "english": "还要"
     },
     {
       "surface": "זאת",
@@ -44,7 +33,7 @@
     },
     {
       "surface": "אדרש",
-      "english": "我将被寻求"
+      "english": "被祈求"
     },
     {
       "surface": "לבית",
@@ -56,30 +45,30 @@
     },
     {
       "surface": "לעשות",
-      "english": "去为……行这事"
+      "english": "去行"
     },
     {
       "surface": "להם",
-      "english": "他们"
+      "english": "为……他们"
     },
     {
       "surface": "ארבה",
-      "english": "我将使……增多"
+      "english": "增多"
     },
     {
       "surface": "אתם",
       "english": "⟨את⟩",
-      "marks": "כצאן (如羊群)"
+      "marks": "像羊群一样 (像人-羊群)"
     },
     {
       "surface": "כצאן",
-      "english": "如羊群"
+      "english": "像羊群一样"
     },
     {
       "surface": "אדם",
       "english": "人"
     }
   ],
-  "timestamp": "2026-07-17T23:03:02.792655029Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:44.038157242Z",
+  "model": "glm-4.5"
 }

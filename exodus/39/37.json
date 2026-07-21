@@ -1,40 +1,37 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "exodus 39:37",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 39,
   "usage": {
-    "completion_tokens": 664,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19144,
+    "completion_tokens": 523,
+    "prompt_tokens": 19143,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19808
+    "total_tokens": 19666
   },
-  "translation": "⟨את⟩ הַ\/מְּנֹרָ֨ה הַ\/טְּהֹרָ֜ה ⟨את⟩ נֵרֹתֶ֗י\/הָ נֵרֹת הַ\/מַּֽעֲרָכָ֖ה וְ\/⟨את⟩ כָּל כֵּלֶ֑י\/הָ וְ\/⟨את⟩ שֶׁ֥מֶן הַ\/מָּאֽוֹר",
+  "translation": "纯金的灯台，它的灯，就是排列的灯，和它的一切器皿，以及点灯的油，",
   "tokens": [
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הַ\/מְּנֹרָ֨ה הַ\/טְּהֹרָ֜ה"
+      "marks": "灯台"
     },
     {
-      "surface": "ה\/מנרה",
-      "english": "这灯台"
+      "surface": "המנרה",
+      "english": "灯台"
     },
     {
-      "surface": "ה\/טהרה",
-      "english": "纯净的"
+      "surface": "הטהרה",
+      "english": "纯金的"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "נֵרֹתֶ֗י\/הָ"
+      "marks": "灯"
     },
     {
       "surface": "נרתיה",
@@ -45,13 +42,13 @@
       "english": "灯"
     },
     {
-      "surface": "ה\/מערכה",
-      "english": "排列好的"
+      "surface": "המערכה",
+      "english": "排列的"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "כָּל כֵּלֶ֑י\/הָ"
+      "english": "和⟨את⟩",
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -59,22 +56,22 @@
     },
     {
       "surface": "כליה",
-      "english": "它的器具"
+      "english": "器皿"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "שֶׁ֥מֶן הַ\/מָּאֽוֹר"
+      "english": "和⟨את⟩",
+      "marks": "油"
     },
     {
       "surface": "שמן",
       "english": "油"
     },
     {
-      "surface": "ה\/מאור",
-      "english": "发光用的"
+      "surface": "המאור",
+      "english": "点灯的"
     }
   ],
-  "timestamp": "2026-07-17T18:39:17.840727541Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:40.267557493Z",
+  "model": "glm-4.5"
 }

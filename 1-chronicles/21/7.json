@@ -1,50 +1,47 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "1-chronicles 21:7",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58765,
+    "completion_tokens": 324,
+    "prompt_tokens": 58828,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59275
+    "total_tokens": 59152
   },
-  "translation": "וַ\/הַ\/דָּבָר הַ\/זֶּה הָ\/אֱלֹהִים בְּ\/עֵינֵי\/ם וַ\/יַּךְ אֶת\/ם",
+  "translation": "这事在以罗欣眼中看为恶,祂就击打了⟨את⟩以色列",
   "tokens": [
     {
       "surface": "וירע",
-      "english": "这"
+      "english": "看为恶"
     },
     {
       "surface": "בעיני",
-      "english": "件事"
+      "english": "在…眼中"
     },
     {
       "surface": "האלהים",
-      "english": "在"
-    },
-    {
-      "surface": "על",
       "english": "以罗欣"
     },
     {
+      "surface": "על",
+      "english": "关于"
+    },
+    {
       "surface": "הדבר",
-      "english": "眼中"
+      "english": "这事"
     },
     {
       "surface": "הזה",
-      "english": "看为"
+      "english": "这"
     },
     {
       "surface": "ויך",
-      "english": "恶"
+      "english": "祂就击打了"
     },
     {
       "surface": "את",
@@ -53,9 +50,9 @@
     },
     {
       "surface": "ישראל",
-      "english": "他就击打"
+      "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-18T02:06:37.699553832Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:05.550416886Z",
+  "model": "glm-4.5"
 }

@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "exodus 26:16",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 26,
   "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18555,
+    "completion_tokens": 343,
+    "prompt_tokens": 18554,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19158
+    "total_tokens": 18897
   },
-  "translation": "十肘 ⟨为⟩ הַ\/קָּ֑רֶשׁ 的长度，一肘半 ⟨为⟩ הַ\/קֶּ֥רֶשׁ הָ\/אֶחָֽד 的宽度。",
+  "translation": "十肘 ⟨是⟩ 板的长度,一肘又半肘 ⟨是⟩ 那一个板的宽度",
   "tokens": [
     {
-      "surface": "עֶ֥שֶׂר",
-      "english": "十"
+      "surface": "עשר",
+      "english": "十肘"
     },
     {
-      "surface": "אַמּ֖וֹת",
-      "english": "肘"
+      "surface": "אמות",
+      "english": ""
     },
     {
-      "surface": "אֹ֣רֶךְ",
-      "english": "长度"
+      "surface": "ארך",
+      "english": "板的长度"
     },
     {
-      "surface": "הַ\/קָּ֑רֶשׁ",
-      "english": "הַ\/קָּ֑רֶשׁ (那竖板)"
+      "surface": "הקרש",
+      "english": ""
     },
     {
-      "surface": "וְ\/אַמָּה֙",
-      "english": "与一肘"
+      "surface": "ואמה",
+      "english": "一肘又半肘"
     },
     {
-      "surface": "וַ\/חֲצִ֣י",
-      "english": "半"
+      "surface": "וחצי",
+      "english": ""
     },
     {
-      "surface": "הָֽ\/אַמָּ֔ה",
-      "english": "那肘"
+      "surface": "האמה",
+      "english": ""
     },
     {
-      "surface": "רֹ֖חַב",
-      "english": "宽度"
+      "surface": "רחב",
+      "english": "那一个板的宽度"
     },
     {
-      "surface": "הַ\/קֶּ֥רֶשׁ",
-      "english": "הַ\/קֶּ֥רֶשׁ (那竖板)"
+      "surface": "הקרש",
+      "english": ""
     },
     {
-      "surface": "הָ\/אֶחָֽד",
-      "english": "הָ\/אֶחָֽד (那一)"
+      "surface": "האחד",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:28:28.026005881Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:52.445520631Z",
+  "model": "glm-4.5"
 }

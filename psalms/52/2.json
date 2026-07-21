@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "psalms 52:2",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 52,
   "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64740,
+    "completion_tokens": 418,
+    "prompt_tokens": 64828,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 0
     },
-    "total_tokens": 65355
+    "total_tokens": 65246
   },
-  "translation": "דּוֹאֵג הָ\/אֲדֹמִי בָּא, וַ\/יַּגֵּד לְ\/שָׁאוּל, וַ\/יֹּאמֶר ל֑\/וֹ: דָ֝וִ֗ד בָּ֥א אֶל בֵּ֥ית אֲחִימֶֽלֶךְ׃",
+  "translation": "以东人多益来,告诉扫罗,对他说:大卫到了亚希米勒家。",
   "tokens": [
     {
-      "surface": "בְּ\/ב֤וֹא",
-      "english": "当……来到"
+      "surface": "בבוא",
+      "english": "来"
     },
     {
-      "surface": "דּוֹאֵ֣ג",
+      "surface": "דואג",
       "english": "多益"
     },
     {
-      "surface": "הָ\/אֲדֹמִי֮",
-      "english": "那以东人"
+      "surface": "האדמי",
+      "english": "以东人"
     },
     {
-      "surface": "וַ\/יַּגֵּ֪ד",
-      "english": "他便告诉"
+      "surface": "ויגד",
+      "english": "告诉"
     },
     {
-      "surface": "לְ\/שָׁ֫א֥וּל",
+      "surface": "לשאול",
       "english": "扫罗"
     },
     {
-      "surface": "וַ\/יֹּ֥אמֶר",
-      "english": "他对他说"
+      "surface": "ויאמר",
+      "english": "说"
     },
     {
-      "surface": "ל֑\/וֹ",
-      "english": "⟨向他⟩"
+      "surface": "לו",
+      "english": "对他说"
     },
     {
-      "surface": "בָּ֥א",
-      "english": "来到了"
+      "surface": "בא",
+      "english": "到了"
     },
     {
-      "surface": "דָ֝וִ֗ד",
+      "surface": "דוד",
       "english": "大卫"
     },
     {
-      "surface": "אֶל",
-      "english": "⟨到⟩"
+      "surface": "אל",
+      "english": "亚希米勒"
     },
     {
-      "surface": "בֵּ֥ית",
+      "surface": "בית",
       "english": "家"
     },
     {
-      "surface": "אֲחִימֶֽלֶךְ",
+      "surface": "אחימלך",
       "english": "亚希米勒"
     }
   ],
-  "timestamp": "2026-07-17T23:57:13.671012333Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:22.202054535Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "leviticus 22:12",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19302,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19817
-  },
-  "translation": "וּ\/בַת כֹּהֵ֔ן כִּ֥י תִהְיֶ֖ה לְ\/אִ֣ישׁ זָ֑ר הִ֕וא בִּ\/תְרוּמַ֥ת הַ\/קֳּדָשִׁ֖ים לֹ֥א תֹאכֵֽל",
+  "translation": "祭司的女儿若嫁给一个外人,她就不可以吃那些圣物的举祭。",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "祭司的女儿若"
+      "english": "祭司的女儿"
     },
     {
       "surface": "כהן",
@@ -32,11 +21,11 @@
     },
     {
       "surface": "תהיה",
-      "english": "成为"
+      "english": "是\/嫁给"
     },
     {
       "surface": "לאיש",
-      "english": "给一个"
+      "english": "⟨嫁给⟩一个男人"
     },
     {
       "surface": "זר",
@@ -44,25 +33,25 @@
     },
     {
       "surface": "הוא",
-      "english": "她"
+      "english": "他"
     },
     {
       "surface": "בתרומת",
-      "english": "属举祭"
+      "english": "在举祭中"
     },
     {
       "surface": "הקדשים",
-      "english": "圣物"
+      "english": "那些圣物的"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "english": "不"
     },
     {
       "surface": "תאכל",
-      "english": "吃"
+      "english": "可以吃"
     }
   ],
-  "timestamp": "2026-07-17T18:55:34.369725846Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:48.333538227Z",
+  "model": "glm-4.5"
 }

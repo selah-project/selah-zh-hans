@@ -1,53 +1,50 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "exodus 13:10",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18457,
+    "completion_tokens": 334,
+    "prompt_tokens": 18456,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 18859
+    "total_tokens": 18790
   },
-  "translation": "你要 ⟨את⟩ 守החקה הזאת，在למועדהּ，從יָמִים到יָמִימָה。",
+  "translation": "你 ⟨要⟩ 守 ⟨את⟩ 这条定例 ⟨在⟩ 它的定期，从 日子 〈到〉 日子。",
   "tokens": [
     {
       "surface": "ושמרת",
-      "english": "你要守"
+      "english": "你 ⟨要⟩ 守"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "החקה"
+      "marks": "这条定例"
     },
     {
       "surface": "החקה",
-      "english": "這定例"
+      "english": "这条定例"
     },
     {
       "surface": "הזאת",
-      "english": "這"
+      "english": "这"
     },
     {
       "surface": "למועדה",
-      "english": "在其指定節期"
+      "english": "⟨在⟩ 它的定期"
     },
     {
       "surface": "מימים",
-      "english": "從日子"
+      "english": "从 日子"
     },
     {
       "surface": "ימימה",
-      "english": "到日子"
+      "english": "〈到〉 日子"
     }
   ],
-  "timestamp": "2026-07-17T18:18:49.615250878Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:09.453818121Z",
+  "model": "glm-4.5"
 }

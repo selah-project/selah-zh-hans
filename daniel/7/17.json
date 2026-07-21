@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "daniel 7:17",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18960,
+    "completion_tokens": 509,
+    "prompt_tokens": 18959,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 17536
     },
-    "total_tokens": 19524
+    "total_tokens": 19468
   },
-  "translation": "אֵלּוּ הַחַיָּוֹת הַגְּדוֹלוֹת שֶׁהֵן אַרְבַּע הֵן אַרְבָּעָה מְלָכִים אֲשֶׁר יָקֻמוּ מִן הָאָרֶץ׃",
+  "translation": "这四个大兽，就是四位王，要从地中兴起。",
   "tokens": [
     {
       "surface": "אלין",
-      "english": "这些"
+      "english": "这四个"
     },
     {
       "surface": "חיותא",
-      "english": "巨兽"
+      "english": "大兽"
     },
     {
       "surface": "רברבתא",
-      "english": "大型的"
+      "english": "大"
     },
     {
       "surface": "די",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "אנין",
-      "english": "它们"
+      "english": "⟨有⟩四位"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "english": "四位"
     },
     {
       "surface": "ארבעה",
@@ -48,11 +45,11 @@
     },
     {
       "surface": "מלכין",
-      "english": "君王"
+      "english": "王"
     },
     {
       "surface": "יקומון",
-      "english": "将要起来"
+      "english": "要从...兴起"
     },
     {
       "surface": "מן",
@@ -60,9 +57,9 @@
     },
     {
       "surface": "ארעא",
-      "english": "地上"
+      "english": "地中"
     }
   ],
-  "timestamp": "2026-07-18T01:33:00.029179061Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:18.543234971Z",
+  "model": "glm-4.5"
 }

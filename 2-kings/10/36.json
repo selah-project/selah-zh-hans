@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 36,
   "ref": "2-kings 10:36",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18551,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18943
-  },
-  "translation": "הימים אשר מלך 耶户 על 以色列 עשרים ושמנה שנה 撒玛利亚",
+  "translation": "而耶户在撒玛利亚治理以色列的年日,二十八年",
   "tokens": [
     {
-      "surface": "ו\/ה\/יָּמִים",
-      "english": "והימים"
+      "surface": "והימים",
+      "english": "而…的年日"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "——"
     },
     {
       "surface": "מלך",
-      "english": "מלך"
+      "english": "治理"
     },
     {
       "surface": "יהוא",
@@ -36,7 +25,7 @@
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "在"
     },
     {
       "surface": "ישראל",
@@ -44,21 +33,21 @@
     },
     {
       "surface": "עשרים",
-      "english": "עשרים"
+      "english": "二十"
     },
     {
-      "surface": "ו\/שמנה",
-      "english": "ושמנה"
+      "surface": "ושמנה",
+      "english": "八"
     },
     {
       "surface": "שנה",
-      "english": "שנה"
+      "english": "年"
     },
     {
-      "surface": "ב\/שמרון",
-      "english": "撒玛利亚"
+      "surface": "בשמרון",
+      "english": "在撒玛利亚"
     }
   ],
-  "timestamp": "2026-07-17T21:24:29.721288210Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:28.949169027Z",
+  "model": "glm-4.5"
 }

@@ -1,58 +1,55 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 32,
   "ref": "exodus 28:32",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 28,
   "usage": {
-    "completion_tokens": 873,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19263,
+    "completion_tokens": 759,
+    "prompt_tokens": 19262,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20136
+    "total_tokens": 20021
   },
-  "translation": "⟨它要有一⟩个口在它的中间,שָׂפָה יִֽהְיֶה לְ\/פִ֨י\/ו סָבִ֜יב מַעֲשֵׂ֣ה אֹרֵ֗ג כְּ\/פִ֥י תַחְרָ֛א יִֽהְיֶה לּ֖\/וֹ לֹ֥א יִקָּרֵֽעַ",
+  "translation": "并且袍子顶上 ⟨的⟩ 头口 ⟨要⟩ 在 ⟨其〉 中间；头口 ⟨四围⟩ ⟨要⟩ 有 编织 ⟨的〉 边，像 铠甲 ⟨的〉 领口 ⟨一样⟩；免得 ⟨它⟩ 撕裂。",
   "tokens": [
     {
       "surface": "וְ\/הָיָ֥ה",
-      "english": "⟨它要有⟩"
+      "english": "并且...要"
     },
     {
-      "surface": "פִּֽי",
-      "english": "口"
+      "surface": "פִֽי",
+      "english": "头口"
     },
     {
       "surface": "רֹאשׁ֖\/וֹ",
-      "english": "它的顶部"
+      "english": "〈其〉 的"
     },
     {
       "surface": "בְּ\/תוֹכ֑\/וֹ",
-      "english": "在它的中间"
+      "english": "在...中间"
     },
     {
-      "surface": "שָׂפָה",
-      "english": "边缘"
+      "surface": "שָׂפָ֡ה",
+      "english": "边"
     },
     {
-      "surface": "יִֽהְיֶה",
-      "english": "要成为"
+      "surface": "יִֽהְיֶה֩",
+      "english": "〈要〉 有"
     },
     {
       "surface": "לְ\/פִ֨י\/ו",
-      "english": "它的口"
+      "english": "头口 〈四围〉"
     },
     {
       "surface": "סָבִ֜יב",
-      "english": "周围"
+      "english": "〈四围〉"
     },
     {
       "surface": "מַעֲשֵׂ֣ה",
-      "english": "工"
+      "english": "〈编织〉 的工"
     },
     {
       "surface": "אֹרֵ֗ג",
@@ -60,19 +57,19 @@
     },
     {
       "surface": "כְּ\/פִ֥י",
-      "english": "如同……的口"
+      "english": "像...头口"
     },
     {
-      "surface": "תַּחֲרָא",
+      "surface": "תַחְרָ֛א",
       "english": "铠甲"
     },
     {
-      "surface": "יִֽהְיֶה",
-      "english": "它要成为"
+      "surface": "יִֽהְיֶה֩",
+      "english": "〈一样〉"
     },
     {
       "surface": "לּ֖\/וֹ",
-      "english": "它的"
+      "english": "〈它〉"
     },
     {
       "surface": "לֹ֥א",
@@ -80,9 +77,9 @@
     },
     {
       "surface": "יִקָּרֵֽעַ",
-      "english": "被撕裂"
+      "english": "撕裂"
     }
   ],
-  "timestamp": "2026-07-17T18:30:11.679881841Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:19.057572491Z",
+  "model": "glm-4.5"
 }

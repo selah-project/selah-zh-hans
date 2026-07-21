@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "zechariah 4:12",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 845,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18422,
+    "completion_tokens": 544,
+    "prompt_tokens": 18421,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 18304
     },
-    "total_tokens": 19267
+    "total_tokens": 18965
   },
-  "translation": "וָאֶעֱנָה שֵׁנִית וָאֹמַר אֵלָיו：מָה（אֵלֶּה）שְׁתֵּי שִׁבֲּלֵי הַזֵּיתִים אֲשֶׁר בְּיַד שְׁנֵי צַנְתְּרוֹת הַזָּהָב הַמְרִיקִים מֵעֲלֵיהֶם הַזָּהָב？",
+  "translation": "我第二次回答说、他、那两根橄榄枝、在两个金管旁边、⟨它们是⟩将金油从自己身上倒出来的、⟨这⟩是甚么呢",
   "tokens": [
     {
       "surface": "ואען",
-      "english": "我回应"
+      "english": "我第二次回答说"
     },
     {
       "surface": "שנית",
@@ -28,61 +25,61 @@
     },
     {
       "surface": "ואמר",
-      "english": "说"
+      "english": "回答说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "english": "他"
     },
     {
       "surface": "מה",
-      "english": "是什么"
+      "english": "那两根橄榄枝...是甚么呢"
     },
     {
       "surface": "שתי",
-      "english": "这两"
+      "english": "那两根"
     },
     {
       "surface": "שבלי",
-      "english": "橄榄枝穗"
+      "english": "橄榄枝"
     },
     {
       "surface": "הזיתים",
-      "english": "橄榄的"
+      "english": "橄榄"
     },
     {
       "surface": "אשר",
-      "english": "⟨即⟩"
+      "english": "⟨它们是⟩...的"
     },
     {
       "surface": "ביד",
-      "english": "在……旁边"
+      "english": "在...旁边"
     },
     {
       "surface": "שני",
-      "english": "两"
+      "english": "两个"
     },
     {
       "surface": "צנתרות",
-      "english": "金管子"
+      "english": "金管"
     },
     {
       "surface": "הזהב",
-      "english": "金的"
+      "english": "金"
     },
     {
       "surface": "המריקים",
-      "english": "倾倒出"
+      "english": "将...倒出来的"
     },
     {
       "surface": "מעליהם",
-      "english": "从它们之上"
+      "english": "从自己身上"
     },
     {
       "surface": "הזהב",
-      "english": "金（油）"
+      "english": "金油"
     }
   ],
-  "timestamp": "2026-07-17T23:33:54.474314373Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:17:43.412816440Z",
+  "model": "glm-4.5"
 }

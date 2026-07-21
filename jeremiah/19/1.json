@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "jeremiah 19:1",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19432,
+    "completion_tokens": 525,
+    "prompt_tokens": 19496,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20183
+    "total_tokens": 20021
   },
-  "translation": "כֹּה אָמַר 雅威: הָלוֹךְ וְקָנִיתָ בַקְבֻּק יוֹצֵר חָרֶשׂ, וּמִזִּקְנֵי הָעָם וּמִזִּקְנֵי הַכֹּהֲנִים",
+  "translation": "雅威如此说:你去,从一个陶匠那里买一个陶土的瓶, ⟨并⟩ 带 ⟨上⟩ 百姓的长老,和祭司的长老,",
   "tokens": [
     {
       "surface": "כה",
-      "english": "כֹּה"
+      "english": "如此"
     },
     {
       "surface": "אמר",
-      "english": "אָמַר"
+      "english": "说"
     },
     {
       "surface": "יהוה",
@@ -32,41 +29,41 @@
     },
     {
       "surface": "הלוך",
-      "english": "הָלוֹךְ"
+      "english": "你去"
     },
     {
       "surface": "וקנית",
-      "english": "וְקָנִיתָ"
+      "english": "买"
     },
     {
       "surface": "בקבק",
-      "english": "בַקְבֻּק"
+      "english": "瓶"
     },
     {
       "surface": "יוצר",
-      "english": "יוֹצֵר"
+      "english": "陶匠 ⟨的⟩"
     },
     {
       "surface": "חרש",
-      "english": "חָרֶשׂ"
+      "english": "陶土"
     },
     {
       "surface": "ומזקני",
-      "english": "וּמִזִּקְנֵי"
+      "english": "⟨并⟩ 带 ⟨上⟩"
     },
     {
       "surface": "העם",
-      "english": "הָעָם"
+      "english": "百姓 ⟨的⟩"
     },
     {
       "surface": "ומזקני",
-      "english": "וּמִזִּקְנֵי"
+      "english": "和"
     },
     {
       "surface": "הכהנים",
-      "english": "הַכֹּהֲנִים"
+      "english": "祭司 ⟨的⟩"
     }
   ],
-  "timestamp": "2026-07-17T22:17:47.796920582Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:42.337710457Z",
+  "model": "glm-4.5"
 }

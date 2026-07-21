@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 38,
   "ref": "exodus 29:38",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 29,
   "usage": {
-    "completion_tokens": 671,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18727,
+    "completion_tokens": 371,
+    "prompt_tokens": 18726,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19398
+    "total_tokens": 19097
   },
-  "translation": "וְזֶה אֲשֶׁר תַּעֲשֶׂה עַל הַמִּזְבֵּחַ: כְּבָשִׂים בְּנֵי שָׁנָה שְׁנַיִם לַ\/יּוֹם תָּמִיד",
+  "translation": "这 ⟨是⟩ 你要在 ⟨那⟩ 祭坛上做的: 一岁的公绵羊,每日两只,常献的 ⟨祭⟩",
   "tokens": [
     {
-      "surface": "וְ\/זֶ֕ה",
-      "english": "וזה"
+      "surface": "וזה",
+      "english": "这 ⟨是⟩"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "⟨那⟩"
     },
     {
-      "surface": "תַּעֲשֶׂ֖ה",
-      "english": "תעשה"
+      "surface": "תעשה",
+      "english": "你要...做的"
     },
     {
-      "surface": "עַל",
-      "english": "על"
+      "surface": "על",
+      "english": "在...上"
     },
     {
-      "surface": "הַ\/מִּזְבֵּ֑חַ",
-      "english": "המזבח"
+      "surface": "המזבח",
+      "english": "祭坛"
     },
     {
-      "surface": "כְּבָשִׂ֧ים",
-      "english": "כבשים"
+      "surface": "כבשים",
+      "english": "公绵羊"
     },
     {
-      "surface": "בְּנֵֽי",
-      "english": "בני"
+      "surface": "בני",
+      "english": "一岁的"
     },
     {
-      "surface": "שָׁנָ֛ה",
-      "english": "שנה"
+      "surface": "שנה",
+      "english": "年"
     },
     {
-      "surface": "שְׁנַ֥יִם",
-      "english": "שנים"
+      "surface": "שנים",
+      "english": "两只"
     },
     {
-      "surface": "לַ\/יּ֖וֹם",
-      "english": "ליום"
+      "surface": "ליום",
+      "english": "每日"
     },
     {
-      "surface": "תָּמִֽיד",
-      "english": "תמיד"
+      "surface": "תמיד",
+      "english": "常献的 ⟨祭⟩"
     }
   ],
-  "timestamp": "2026-07-17T18:31:24.237345266Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:38.308785455Z",
+  "model": "glm-4.5"
 }

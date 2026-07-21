@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "ezekiel 41:21",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 674,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18860,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19534
-  },
-  "translation": "הַ\/הֵיכָל —— ⟨其⟩门框 ⟨為⟩方形的;וּ\/פְנֵי הַ\/קֹּדֶשׁ,הַ\/מַּרְאֶה כַּ\/מַּרְאֶה׃",
+  "translation": "至于圣殿，柱子 ⟨是⟩ 方形的，至于至圣所的面，这景象 ⟨如⟩ 那景象。",
   "tokens": [
     {
-      "surface": "הַ\/הֵיכָל",
-      "english": "הַ\/הֵיכָל"
+      "surface": "ההיכל",
+      "english": "至于圣殿"
     },
     {
-      "surface": "מְזוּזַ֣ת",
-      "english": "门框"
+      "surface": "מזוזת",
+      "english": "柱子"
     },
     {
-      "surface": "רְבֻעָ֑ה",
+      "surface": "רבעה",
       "english": "方形的"
     },
     {
-      "surface": "וּ\/פְנֵי",
-      "english": "至于⟨那⟩前面"
+      "surface": "ופני",
+      "english": "至于至圣所的面"
     },
     {
-      "surface": "הַ\/קֹּדֶשׁ",
-      "english": "הַ\/קֹּדֶשׁ"
+      "surface": "הקדש",
+      "english": "至圣所"
     },
     {
-      "surface": "הַ\/מַּרְאֶה",
-      "english": "הַ\/מַּרְאֶה"
+      "surface": "המראה",
+      "english": "这景象"
     },
     {
-      "surface": "כַּ\/מַּרְאֶֽה",
-      "english": "כַּ\/מַּרְאֶה"
+      "surface": "כמראה",
+      "english": "如那景象"
     }
   ],
-  "timestamp": "2026-07-17T23:06:43.387513235Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:41.438097087Z",
+  "model": "glm-4.5"
 }

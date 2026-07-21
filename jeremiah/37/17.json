@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "jeremiah 37:17",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 37,
   "usage": {
-    "completion_tokens": 1165,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20309,
+    "completion_tokens": 628,
+    "prompt_tokens": 20414,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21474
+    "total_tokens": 21042
   },
-  "translation": "西底家 המלך שלח ויקח אֹתוֹ, והמלך שאל אֹתוֹ בביתו בסתר ויאמר: הֲיֵשׁ דָּבָר מֵאֵת יְהוָה? ויאמר יִרְמְיָהוּ: יֵשׁ. ויאמר: בְּיַד מֶלֶךְ בָּבֶל תִּנָּתֵן.",
+  "translation": "西底家王差人去,将他接来,王在自己的宫中秘密地询问他,说:从雅威那里有 ⟨davar⟩ 吗? 耶利米说:有。他又说:你必被交在巴比伦王的手中。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "שלח"
+      "english": "差人去"
     },
     {
       "surface": "המלך",
-      "english": "המלך"
+      "english": "王"
     },
     {
       "surface": "צדקיהו",
@@ -32,39 +29,40 @@
     },
     {
       "surface": "ויקחהו",
-      "english": "ויקח אֹתוֹ"
+      "english": "将他接来"
     },
     {
       "surface": "וישאלהו",
-      "english": "ושאל אֹתוֹ"
+      "english": "询问他"
     },
     {
       "surface": "המלך",
-      "english": "המלך"
+      "english": "王"
     },
     {
       "surface": "בביתו",
-      "english": "בביתו"
+      "english": "在自己的宫中"
     },
     {
       "surface": "בסתר",
-      "english": "בסתר"
+      "english": "秘密地"
     },
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "说"
     },
     {
       "surface": "היש",
-      "english": "הֲיֵשׁ"
+      "english": "有"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "english": "⟨davar⟩",
+      "marks": "从雅威那里有...的话"
     },
     {
       "surface": "מאת",
-      "english": "מֵאֵת"
+      "english": "从"
     },
     {
       "surface": "יהוה",
@@ -72,7 +70,7 @@
     },
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "说"
     },
     {
       "surface": "ירמיהו",
@@ -80,19 +78,19 @@
     },
     {
       "surface": "יש",
-      "english": "יֵשׁ"
+      "english": "有"
     },
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "又说"
     },
     {
       "surface": "ביד",
-      "english": "בְּיַד"
+      "english": "在...手中"
     },
     {
       "surface": "מלך",
-      "english": "מֶלֶךְ"
+      "english": "王"
     },
     {
       "surface": "בבל",
@@ -100,9 +98,9 @@
     },
     {
       "surface": "תנתן",
-      "english": "תִּנָּתֵן"
+      "english": "你必被交"
     }
   ],
-  "timestamp": "2026-07-17T22:29:53.443821897Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:22.524044624Z",
+  "model": "glm-4.5"
 }

@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 35,
   "ref": "psalms 37:35",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 37,
   "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64358,
+    "completion_tokens": 237,
+    "prompt_tokens": 64357,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64805
+    "total_tokens": 64594
   },
-  "translation": "我见过恶人 ⟨有⟩ 凶暴者，וּ\/מִתְעָרֶ֗ה 像本土生长的绿树 כְּ\/אֶזְרָ֥ח רַעֲנָֽן 那样自行扩张。",
+  "translation": "我见过一个强悍的恶人,像一棵繁茂的青葱树一样 ⟨כאזרח⟩",
   "tokens": [
     {
       "surface": "ראיתי",
@@ -28,21 +25,22 @@
     },
     {
       "surface": "עריץ",
-      "english": "凶暴者"
+      "english": "强悍"
     },
     {
       "surface": "ומתערה",
-      "english": "וּ\/自行扩张"
+      "english": "像一棵繁茂的"
     },
     {
       "surface": "כאזרח",
-      "english": "כְּ\/像本土生长的"
+      "english": "⟨כאזרח⟩",
+      "marks": "青葱树"
     },
     {
       "surface": "רענן",
-      "english": "绿树"
+      "english": "青葱树"
     }
   ],
-  "timestamp": "2026-07-17T23:52:04.010883581Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:42.280410407Z",
+  "model": "glm-4.5"
 }

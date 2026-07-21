@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 40,
   "ref": "1-chronicles 9:40",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58795,
+    "completion_tokens": 372,
+    "prompt_tokens": 58905,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59183
+    "total_tokens": 59277
   },
-  "translation": "וּ\/בֶן 约拿单 默里 米力巴力 וּ\/מְרִי 米力巴力 הוֹלִ֥יד אֶת 米迦",
+  "translation": "约拿单的儿子是默里巴力,默里巴力生米迦。",
   "tokens": [
     {
       "surface": "ובן",
-      "english": "וּ\/בֶן"
+      "english": "约拿单的儿子是"
     },
     {
       "surface": "יהונתן",
@@ -32,29 +29,30 @@
     },
     {
       "surface": "בעל",
-      "english": "米力巴力"
+      "english": "巴力"
     },
     {
       "surface": "ומרי",
-      "english": "וּ\/מְרִי"
+      "english": "默里"
     },
     {
       "surface": "בעל",
-      "english": "米力巴力"
+      "english": "巴力"
     },
     {
       "surface": "הוליד",
-      "english": "הוֹלִ֥יד"
+      "english": "生"
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "米迦"
     },
     {
       "surface": "מיכה",
       "english": "米迦"
     }
   ],
-  "timestamp": "2026-07-18T01:59:16.936329460Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:52.646962942Z",
+  "model": "glm-4.5"
 }

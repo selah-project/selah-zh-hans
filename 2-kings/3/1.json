@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-kings 3:1",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 976,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19311,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20287
-  },
-  "translation": "וִ\/יהוֹרָ֣ם בֶּן אַחְאָ֗ב מָלַ֤ךְ עַל 以色列֙ בְּ\/שֹׁ֣מְר֔וֹן בִּ\/שְׁנַת֙ שְׁמֹנֶ֣ה עֶשְׂרֵ֔ה לִ\/יהוֹשָׁפָ֖ט מֶ֣לֶךְ 犹大 וַ\/יִּמְלֹ֖ךְ שְׁתֵּים עֶשְׂרֵ֥ה שָׁנָֽה׃",
+  "translation": "约兰,亚哈的儿子,在撒马利亚作以色列王,是在犹大王约沙法第十八年;他作了十二年王。",
   "tokens": [
     {
       "surface": "ויהורם",
@@ -24,7 +13,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֵּן"
+      "english": "的儿子"
     },
     {
       "surface": "אחאב",
@@ -32,31 +21,31 @@
     },
     {
       "surface": "מלך",
-      "english": "מָלַךְ"
+      "english": "作王"
     },
     {
       "surface": "על",
-      "english": "עַל"
+      "english": "在"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
       "surface": "בשמרון",
-      "english": "撒玛利亚"
+      "english": "在撒马利亚"
     },
     {
       "surface": "בשנת",
-      "english": "בִּ\/שְׁנַת֙"
+      "english": "在...年"
     },
     {
       "surface": "שמנה",
-      "english": "שְׁמֹנֶ֣ה"
+      "english": "十八"
     },
     {
       "surface": "עשרה",
-      "english": "עֶשְׂרֵ֔ה"
+      "english": ""
     },
     {
       "surface": "ליהושפט",
@@ -64,29 +53,29 @@
     },
     {
       "surface": "מלך",
-      "english": "מֶ֣לֶךְ"
+      "english": "王"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
       "surface": "וימלך",
-      "english": "וַ\/יִּמְלֹ֖ךְ"
+      "english": "他作了"
     },
     {
       "surface": "שתים",
-      "english": "שְׁתֵּים"
+      "english": "十二"
     },
     {
       "surface": "עשרה",
-      "english": "עֶשְׂרֵ֥ה"
+      "english": ""
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָֽה"
+      "english": "年"
     }
   ],
-  "timestamp": "2026-07-17T21:18:31.055787110Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:27.843991697Z",
+  "model": "glm-4.5"
 }

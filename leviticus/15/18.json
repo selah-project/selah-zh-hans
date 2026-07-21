@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "leviticus 15:18",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19536,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20211
-  },
-  "translation": "וְ\/אִשָּׁ֕ה אֲשֶׁ֨ר יִשְׁכַּ֥ב אִ֛ישׁ ⟨את⟩ אֹתָ֖\/הּ שִׁכְבַת זָ֑רַע, וְ\/רָחֲצ֣וּ בַ\/מַּ֔יִם וְ\/טָמְא֖וּ עַד הָ\/עָֽרֶב׃",
+  "translation": "若有女人与男人同房 ⟨את⟩ 泄精之寝,他们必用水洗身,并 ⟨是⟩ 不洁直到晚上。",
   "tokens": [
     {
       "surface": "ואשה",
-      "english": "和一个女人"
+      "english": "若有女人"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "english": "与"
     },
     {
       "surface": "ישכב",
-      "english": "躺卧"
+      "english": "同房"
     },
     {
       "surface": "איש",
@@ -37,11 +26,11 @@
     {
       "surface": "אתה",
       "english": "⟨את⟩",
-      "marks": "躺卧泄精"
+      "marks": "泄精之寝"
     },
     {
       "surface": "שכבת",
-      "english": "躺卧"
+      "english": "泄精之寝"
     },
     {
       "surface": "זרע",
@@ -49,15 +38,15 @@
     },
     {
       "surface": "ורחצו",
-      "english": "他们要洗身"
+      "english": "他们必用水洗身"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "english": "用水"
     },
     {
       "surface": "וטמאו",
-      "english": "且不洁净"
+      "english": "并 ⟨是⟩ 不洁"
     },
     {
       "surface": "עד",
@@ -65,9 +54,9 @@
     },
     {
       "surface": "הערב",
-      "english": "傍晚"
+      "english": "晚上"
     }
   ],
-  "timestamp": "2026-07-17T18:50:39.372020886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:29.346943750Z",
+  "model": "glm-4.5"
 }

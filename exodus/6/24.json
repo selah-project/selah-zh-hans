@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 24,
   "ref": "exodus 6:24",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18565,
+    "completion_tokens": 396,
+    "prompt_tokens": 18640,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19069
+    "total_tokens": 19036
   },
-  "translation": "可拉的儿子们：阿斯尔、וְ\/אֶלְקָנָה和וַ\/אֲבִיאָסָף；אֵלֶּה是הַ\/קָּרְחִֽי的宗族。",
+  "translation": "可拉 ⟨的⟩ 儿子 ⟨是⟩ 阿斯尔、以利加拿、亚比亚撒;这些 ⟨是⟩ 可拉族 ⟨的⟩ 宗族。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……的儿子们"
+      "english": "可拉 ⟨的⟩ 儿子"
     },
     {
       "surface": "קרח",
@@ -32,25 +29,25 @@
     },
     {
       "surface": "ואלקנה",
-      "english": "和"
+      "english": "、以利加拿"
     },
     {
       "surface": "ואביאסף",
-      "english": "和אֲבִיאָסָף"
+      "english": "、亚比亚撒"
     },
     {
       "surface": "אלה",
-      "english": "אֵלֶּה（这些）"
+      "english": "这些"
     },
     {
       "surface": "משפחת",
-      "english": "是……的宗族"
+      "english": "⟨是⟩ 可拉族 ⟨的⟩ 宗族"
     },
     {
       "surface": "הקרחי",
-      "english": "הַ\/קָּרְחִֽי（可拉族）"
+      "english": "可拉族"
     }
   ],
-  "timestamp": "2026-07-17T18:13:18.159072169Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:21.464995896Z",
+  "model": "glm-4.5"
 }

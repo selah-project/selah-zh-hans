@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "isaiah 5:12",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 851,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21504,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22355
-  },
-  "translation": "וְהָיָ֨ה כִנּוֹר וָנֶבֶל תֹּף וְחָלִיל וָיַיִן מִשְׁתֵּיהֶם וְאֵת פֹּעַל יְהוָה לֹא יַבִּיטוּ וּמַעֲשֵׂה יָדָיו לֹא רָאוּ׃",
+  "translation": "有琴、瑟、鼓、笛和酒 ⟨在⟩ 他们的宴席中; ⟨他们不看⟩ ⟨את⟩ 雅威的作为,也不 ⟨观看⟩ 他手所做的。",
   "tokens": [
     {
-      "surface": "וְהָיָ֨ה",
+      "surface": "והיה",
       "english": "有"
     },
     {
-      "surface": "כִנּוֹר",
+      "surface": "כנור",
       "english": "琴"
     },
     {
-      "surface": "וָנֶבֶל",
-      "english": "瑟"
+      "surface": "ונבל",
+      "english": "、瑟"
     },
     {
-      "surface": "תֹּף",
-      "english": "手鼓"
+      "surface": "תף",
+      "english": "、鼓"
     },
     {
-      "surface": "וְחָלִיל",
-      "english": "笛"
+      "surface": "וחליל",
+      "english": "、笛"
     },
     {
-      "surface": "וָיַיִן",
-      "english": "酒"
+      "surface": "ויין",
+      "english": "和酒"
     },
     {
-      "surface": "מִשְׁתֵּיהֶם",
-      "english": "⟨是⟩他们的宴饮"
+      "surface": "משתיהם",
+      "english": "⟨在⟩ 他们的宴席中"
     },
     {
-      "surface": "וְאֵת",
+      "surface": "ואת",
       "english": "⟨את⟩",
       "marks": "雅威的作为"
     },
     {
-      "surface": "פֹּעַל",
-      "english": "作为"
+      "surface": "פעל",
+      "english": "雅威的作为"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "לֹא",
-      "english": "不"
+      "surface": "לא",
+      "english": "⟨他们不看⟩"
     },
     {
-      "surface": "יַבִּיטוּ",
-      "english": "他们留意"
+      "surface": "יביטו",
+      "english": "⟨他们不看⟩"
     },
     {
-      "surface": "וּמַעֲשֵׂה",
-      "english": "而……的造作"
+      "surface": "ומעשה",
+      "english": "他手所做的"
     },
     {
-      "surface": "יָדָיו",
+      "surface": "ידיו",
       "english": "他手"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "english": "不"
     },
     {
-      "surface": "רָאוּ",
-      "english": "他们看见"
+      "surface": "ראו",
+      "english": "⟨观看⟩"
     }
   ],
-  "timestamp": "2026-07-17T21:36:40.842545307Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:21.389136837Z",
+  "model": "glm-4.5"
 }

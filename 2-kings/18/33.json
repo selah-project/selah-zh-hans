@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "2-kings 18:33",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 723,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18697,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19420
-  },
-  "translation": "הַ\/הַצֵּ֥ל הִצִּ֛ילוּ אֱלֹהֵ֥י הַ\/גּוֹיִ֖ם אִ֣ישׁ ⟨את⟩ אַרְצ֑\/וֹ מִ\/יַּ֖ד מֶ֥לֶךְ 亚述",
+  "translation": "岂有列国的神明 ⟨曾经⟩ 救 ⟨את⟩ 自己的地脱离亚述王的手吗？",
   "tokens": [
     {
-      "surface": "הַ\/הַצֵּ֥ל",
-      "english": "הַ\/הַצֵּ֥ל"
+      "surface": "ההצל",
+      "english": "岂有... ⟨曾经⟩ 救"
     },
     {
-      "surface": "הִצִּ֛ילוּ",
-      "english": "הִצִּ֛ילוּ"
+      "surface": "הצילו",
+      "english": "救"
     },
     {
-      "surface": "אֱלֹהֵ֥י",
-      "english": "אֱלֹהֵ֥י"
+      "surface": "אלהי",
+      "english": "神明"
     },
     {
-      "surface": "הַ\/גּוֹיִ֖ם",
-      "english": "הַ\/גּוֹיִ֖ם"
+      "surface": "הגוים",
+      "english": "列国的"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "english": "אִ֣ישׁ"
+      "surface": "איש",
+      "english": "岂有... ⟨曾经⟩"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אַרְצ֑\/וֹ"
+      "marks": "自己的地"
     },
     {
-      "surface": "אַרְצ֑\/וֹ",
-      "english": "אַרְצ֑\/וֹ"
+      "surface": "ארצו",
+      "english": "自己的地"
     },
     {
-      "surface": "מִ\/יַּ֖ד",
-      "english": "מִ\/יַּ֖ד"
+      "surface": "מיד",
+      "english": "脱离...的手"
     },
     {
-      "surface": "מֶ֥לֶךְ",
-      "english": "מֶ֥לֶךְ"
+      "surface": "מלך",
+      "english": "王"
     },
     {
-      "surface": "אַשּֽׁוּר",
+      "surface": "אשור",
       "english": "亚述"
     }
   ],
-  "timestamp": "2026-07-17T21:29:54.304136211Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:07.847331084Z",
+  "model": "glm-4.5"
 }

@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "jeremiah 7:33",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 860,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19340,
+    "completion_tokens": 374,
+    "prompt_tokens": 19339,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20200
+    "total_tokens": 19713
   },
-  "translation": "וְֽ\/הָ֨יְתָ֜ה נִבְלַ֨ת הָ\/עָ֤ם הַ\/זֶּה֙ לְ\/מַֽאֲכָ֔ל לְ\/ע֥וֹף הַ\/שָּׁמַ֖יִם וּ\/לְ\/בֶהֱמַ֣ת הָ\/אָ֑רֶץ וְ\/אֵ֖ין מַחֲרִֽיד׃",
+  "translation": "并且这百姓的尸首必给天空的飞鸟和地上的野兽作食物，并且无人惊吓。",
   "tokens": [
     {
-      "surface": "וְֽ\/הָ֨יְתָ֜ה",
-      "english": "וְהָיְתָה"
+      "surface": "והיתה",
+      "english": "并且……必"
     },
     {
-      "surface": "נִבְלַ֨ת",
-      "english": "נִבְלַת"
+      "surface": "נבלת",
+      "english": "尸首"
     },
     {
-      "surface": "הָ\/עָ֤ם",
-      "english": "הָעָם"
+      "surface": "העם",
+      "english": "这百姓"
     },
     {
-      "surface": "הַ\/זֶּה֙",
-      "english": "הַזֶּה"
+      "surface": "הזה",
+      "english": "这"
     },
     {
-      "surface": "לְ\/מַֽאֲכָ֔ל",
-      "english": "לְמַאֲכָל"
+      "surface": "למאכל",
+      "english": "作食物"
     },
     {
-      "surface": "לְ\/ע֥וֹף",
-      "english": "לְעוֹף"
+      "surface": "לעוף",
+      "english": "给……飞鸟"
     },
     {
-      "surface": "הַ\/שָּׁמַ֖יִם",
-      "english": "הַשָּׁמַיִם"
+      "surface": "השמים",
+      "english": "天空"
     },
     {
-      "surface": "וּ\/לְ\/בֶהֱמַ֣ת",
-      "english": "וּלְבֶהֱמַת"
+      "surface": "ולבהמת",
+      "english": "和……野兽"
     },
     {
-      "surface": "הָ\/אָ֑רֶץ",
-      "english": "הָאָרֶץ"
+      "surface": "הארץ",
+      "english": "地上"
     },
     {
-      "surface": "וְ\/אֵ֖ין",
-      "english": "וְאֵין"
+      "surface": "ואין",
+      "english": "并且无人"
     },
     {
-      "surface": "מַחֲרִֽיד",
-      "english": "מַחֲרִיד"
+      "surface": "מחריד",
+      "english": "惊吓"
     }
   ],
-  "timestamp": "2026-07-17T22:11:23.742773877Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:54.179664780Z",
+  "model": "glm-4.5"
 }

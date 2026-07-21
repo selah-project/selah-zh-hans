@@ -1,38 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "isaiah 7:18",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 909,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21321,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22230
-  },
-  "translation": "וְ\/הָיָ֣ה בַּ\/יּ֣וֹם הַ\/ה֗וּא יִשְׁרֹ֤ק 雅威 לַ\/זְּב֔וּב אֲשֶׁ֥ר בִּ\/קְצֵ֖ה יְאֹרֵ֣י 埃及 וְ\/לַ֨\/דְּבוֹרָ֔ה אֲשֶׁ֖ר בְּ\/אֶ֥רֶץ 亚述",
+  "translation": "在那日，雅威必为埃及河尽头的苍蝇吹哨，并 为亚述地的蜜蜂吹哨。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "וְ\/הָיָ֣ה"
+      "english": "必"
     },
     {
       "surface": "ביום",
-      "english": "בַּ\/יּ֣וֹם"
+      "english": "在那日"
     },
     {
       "surface": "ההוא",
-      "english": "הַ\/ה֗וּא"
+      "english": ""
     },
     {
       "surface": "ישרק",
-      "english": "יִשְׁרֹ֤ק"
+      "english": "吹哨"
     },
     {
       "surface": "יהוה",
@@ -40,19 +29,19 @@
     },
     {
       "surface": "לזבוב",
-      "english": "לַ\/זְּב֔וּב"
+      "english": "为苍蝇"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁ֥ר"
+      "english": ""
     },
     {
       "surface": "בקצה",
-      "english": "בִּ\/קְצֵ֖ה"
+      "english": "在...尽头"
     },
     {
       "surface": "יארי",
-      "english": "יְאֹרֵ֣י"
+      "english": "河"
     },
     {
       "surface": "מצרים",
@@ -60,21 +49,21 @@
     },
     {
       "surface": "ולדבורה",
-      "english": "וְ\/לַ֨\/דְּבוֹרָ֔ה"
+      "english": "并 为蜜蜂"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁ֖ר"
+      "english": ""
     },
     {
       "surface": "בארץ",
-      "english": "בְּ\/אֶ֥רֶץ"
+      "english": "地"
     },
     {
       "surface": "אשור",
       "english": "亚述"
     }
   ],
-  "timestamp": "2026-07-17T21:37:44.914077077Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:17.035076380Z",
+  "model": "glm-4.5"
 }

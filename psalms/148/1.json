@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "psalms 148:1",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 148,
   "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64693,
+    "completion_tokens": 475,
+    "prompt_tokens": 64767,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 49792
     },
-    "total_tokens": 65073
+    "total_tokens": 65242
   },
-  "translation": "הללו־雅 הללו את יה威 מן השמים, הללוהו במרומים!",
+  "translation": "你们要赞美雅! 要从诸天赞美 ⟨את⟩ 雅威, 要在高处 ⟨阿多奈⟩ 赞美 ⟨阿多奈⟩。",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "הללו (你们要赞美)"
+      "english": "你们要赞美"
     },
     {
       "surface": "יה",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "הללו",
-      "english": "הללו (你们要赞美)"
+      "english": "要赞美"
     },
     {
       "surface": "את",
@@ -49,13 +46,13 @@
     },
     {
       "surface": "הללוהו",
-      "english": "赞美他"
+      "english": "赞美 ⟨阿多奈⟩"
     },
     {
       "surface": "במרומים",
-      "english": "在极高之处"
+      "english": "在高处 ⟨阿多奈⟩"
     }
   ],
-  "timestamp": "2026-07-18T00:31:57.657578145Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:42.830672879Z",
+  "model": "glm-4.5"
 }

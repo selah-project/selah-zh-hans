@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 38,
   "ref": "1-kings 8:38",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 855,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65190,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66045
-  },
-  "translation": "כָל תְּפִלָּה וְכָל תְּחִנָּה אֲשֶׁר תִּהְיֶה לְכָל הָאָדָם לְכֹל עַמְּךָ יִשְׂרָאֵל, אֲשֶׁר יֵדְעוּן אִישׁ נֶגַע לְבָבוֹ, וּפָרַשׂ כַּפָּיו אֶל הַבַּיִת הַזֶּה:",
+  "translation": "一切祈祷,一切恳求,若⟨是⟩属于任何人,属于你民以色列,当各人知道自己心里的伤痛,并朝这圣殿摊开双手时:",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "english": "一切"
     },
     {
       "surface": "תפלה",
-      "english": "祷告"
+      "english": "祈祷"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "english": "一切"
     },
     {
       "surface": "תחנה",
@@ -36,27 +25,27 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "若"
     },
     {
       "surface": "תהיה",
-      "english": "⟨发生⟩"
+      "english": "⟨是⟩"
     },
     {
       "surface": "לכל",
-      "english": "对于任何人"
+      "english": "属于"
     },
     {
       "surface": "האדם",
-      "english": "⟨人⟩"
+      "english": "任何人"
     },
     {
       "surface": "לכל",
-      "english": "对于你全体"
+      "english": "属于"
     },
     {
       "surface": "עמך",
-      "english": "子民"
+      "english": "你民"
     },
     {
       "surface": "ישראל",
@@ -64,11 +53,11 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "当"
     },
     {
       "surface": "ידעון",
-      "english": "各人知道"
+      "english": "知道"
     },
     {
       "surface": "איש",
@@ -76,33 +65,33 @@
     },
     {
       "surface": "נגע",
-      "english": "病灾"
+      "english": "伤痛"
     },
     {
       "surface": "לבבו",
-      "english": "他自己心里的"
+      "english": "自己心里"
     },
     {
       "surface": "ופרש",
-      "english": "并且伸开"
+      "english": "并摊开"
     },
     {
       "surface": "כפיו",
-      "english": "他的手掌"
+      "english": "双手"
     },
     {
       "surface": "אל",
-      "english": "朝向"
+      "english": "朝"
     },
     {
       "surface": "הבית",
-      "english": "⟨这⟩殿"
+      "english": "这圣殿"
     },
     {
       "surface": "הזה",
-      "english": "⟨这⟩"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T21:03:56.986109851Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:02.902434953Z",
+  "model": "glm-4.5"
 }

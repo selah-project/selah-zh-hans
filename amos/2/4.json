@@ -1,125 +1,114 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "amos 2:4",
   "book": "amos",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 1336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19907,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 21243
-  },
-  "translation": "כֹּה אָמַר יְהוָה: עַל שְׁלֹשָׁה פִּשְׁעֵי יְהוּדָה וְעַל אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ, עַל מָאֳסָם אֶת תּוֹרַת יְהוָה וְחֻקָּיו לֹא שָׁמָרוּ, וַיַּתְעוּם כִּזְבֵיהֶם אֲשֶׁר הָלְכוּ אֲבוֹתָם אַחֲרֵיהֶם",
+  "translation": "雅威如此说：因犹大的三桩过犯,甚至四桩,我必不逆转它,因他们厌弃了雅威的妥拉,也没有遵守祂的条例,他们虚假的事使他们走迷,这是他们列祖追随过的:",
   "tokens": [
     {
-      "surface": "כֹּה",
+      "surface": "כה",
+      "english": "如此"
+    },
+    {
+      "surface": "אמר",
+      "english": "说"
+    },
+    {
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אָמַר",
-      "english": "雅威"
+      "surface": "על",
+      "english": "因"
     },
     {
-      "surface": "יְהוָה",
-      "english": "雅威"
+      "surface": "שלשה",
+      "english": "三桩"
     },
     {
-      "surface": "עַל",
-      "english": "על שלשה"
+      "surface": "פשעי",
+      "english": "过犯"
     },
     {
-      "surface": "שְׁלֹשָׁה",
-      "english": "על שלשה"
-    },
-    {
-      "surface": "פִּשְׁעֵי",
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
-      "surface": "יְהוּדָה",
-      "english": "犹大"
+      "surface": "ועל",
+      "english": "甚至"
     },
     {
-      "surface": "וְ\/עַל",
-      "english": "ועל ארבעה"
+      "surface": "ארבעה",
+      "english": "四桩"
     },
     {
-      "surface": "אַרְבָּעָה",
-      "english": "ועל ארבעה"
+      "surface": "לא",
+      "english": "不"
     },
     {
-      "surface": "לֹא",
-      "english": "לא אשיבנו"
+      "surface": "אשיבנו",
+      "english": "我必不逆转它"
     },
     {
-      "surface": "אֲשִׁיבֶ֑\/נּוּ",
-      "english": "לא אשיבנו"
+      "surface": "על",
+      "english": "因"
     },
     {
-      "surface": "עַֽל",
-      "english": "על מאסם"
+      "surface": "מאסם",
+      "english": "他们厌弃了"
     },
     {
-      "surface": "מָאֳסָ֞\/ם",
-      "english": "על מאסם"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威的妥拉"
     },
     {
-      "surface": "אֶת",
-      "english": "את תורת",
-      "marks": "תורת"
+      "surface": "תורת",
+      "english": "妥拉"
     },
     {
-      "surface": "תּוֹרַ֣ת",
-      "english": "את תורת"
-    },
-    {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "וְ\/חֻקָּי\/ו֙",
-      "english": "וחקיו לא שמרו"
+      "surface": "וחקיו",
+      "english": "祂的条例"
     },
     {
-      "surface": "לֹ֣א",
-      "english": "וחקיו לא שמרו"
+      "surface": "לא",
+      "english": "没有"
     },
     {
-      "surface": "שָׁמָ֔רוּ",
-      "english": "וחקיו לא שמרו"
+      "surface": "שמרו",
+      "english": "遵守"
     },
     {
-      "surface": "וַ\/יַּתְעוּ\/ם֙",
-      "english": "ויתעום כזביהם"
+      "surface": "ויתעום",
+      "english": "使他们走迷"
     },
     {
-      "surface": "כִּזְבֵי\/הֶ֔ם",
-      "english": "ויתעום כזביהם"
+      "surface": "כזביהם",
+      "english": "他们虚假的事"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אשר הלכו אבותם"
+      "surface": "אשר",
+      "english": "这是"
     },
     {
-      "surface": "הָלְכ֥וּ",
-      "english": "אשר הלכו אבותם"
+      "surface": "הלכו",
+      "english": "他们列祖追随过的"
     },
     {
-      "surface": "אֲבוֹתָ֖\/ם",
-      "english": "אשר הלכו אבותם"
+      "surface": "אבותם",
+      "english": "他们列祖"
     },
     {
-      "surface": "אַחֲרֵי\/הֶֽם",
-      "english": "אחריהם"
+      "surface": "אחריהם",
+      "english": "追随过的"
     }
   ],
-  "timestamp": "2026-07-17T23:19:51.711949907Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:41.355841069Z",
+  "model": "glm-4.5"
 }

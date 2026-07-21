@@ -1,46 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "2-kings 18:29",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18987,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19693
-  },
-  "translation": "המלך אומר כך: אל ישיא לכם 希西家, כי לא יוכל להציל ⟨את⟩כם מידו.",
+  "translation": "王如此说:希西家不要迷惑你们,因为他不能将你们从他的手中救出来。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "כה"
+      "english": "如此"
     },
     {
       "surface": "אמר",
-      "english": "אמר"
+      "english": "说"
     },
     {
       "surface": "המלך",
-      "english": "המלך"
+      "english": "王"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "不要"
     },
     {
       "surface": "ישיא",
-      "english": "יַשיא"
+      "english": "迷惑"
     },
     {
       "surface": "לכם",
-      "english": "לכם"
+      "english": "你们"
     },
     {
       "surface": "חזקיהו",
@@ -48,30 +37,30 @@
     },
     {
       "surface": "כי",
-      "english": "כי"
+      "english": "因为"
     },
     {
       "surface": "לא",
-      "english": "לא"
+      "english": "不能"
     },
     {
       "surface": "יוכל",
-      "english": "יוכל"
+      "english": "能"
     },
     {
       "surface": "להציל",
-      "english": "להציל"
+      "english": "将...救出来"
     },
     {
       "surface": "אתכם",
       "english": "⟨את⟩",
-      "marks": "אתכם"
+      "marks": "你们"
     },
     {
       "surface": "מידו",
-      "english": "מידו"
+      "english": "从他的手中"
     }
   ],
-  "timestamp": "2026-07-17T21:29:26.353318786Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:59.642107906Z",
+  "model": "glm-4.5"
 }

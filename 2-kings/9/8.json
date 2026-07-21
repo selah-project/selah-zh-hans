@@ -1,79 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "2-kings 9:8",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 998,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18752,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19750
-  },
-  "translation": "אָבַד כָּל בֵּית אַחְאָב, וְ\/הִכְרַתִּי לְ\/אַחְאָב מַשְׁתִּין בְּ\/קִיר, וְ\/עָצ֥וּר וְ\/עָז֖וּב בְּ\/יִשְׂרָאֵל׃",
+  "translation": "必灭尽亚哈的全家；至于亚哈，我必剪除在墙上撒尿的、被囚的、以及遗留在以色列的。",
   "tokens": [
     {
-      "surface": "וְ\/אָבַ֖ד",
-      "hebrew": "ואבד",
-      "english": "全"
+      "surface": "ואבד",
+      "english": "必灭尽"
     },
     {
-      "surface": "כָּל",
-      "hebrew": "כל",
-      "english": "的"
+      "surface": "כל",
+      "english": "全家"
     },
     {
-      "surface": "בֵּ֣ית",
-      "hebrew": "בית",
+      "surface": "בית",
       "english": "家"
     },
     {
-      "surface": "אַחְאָ֑ב",
-      "hebrew": "אחאב",
+      "surface": "אחאב",
       "english": "亚哈"
     },
     {
-      "surface": "וְ\/הִכְרַתִּ֤י",
-      "hebrew": "והכרתי",
-      "english": "都必灭亡。我必从亚哈剪除"
+      "surface": "והכרתי",
+      "english": "我必剪除"
     },
     {
-      "surface": "לְ\/אַחְאָב֙",
-      "hebrew": "לאחאב",
-      "english": ""
+      "surface": "לאחאב",
+      "english": "至于亚哈"
     },
     {
-      "surface": "מַשְׁתִּ֣ין",
-      "hebrew": "משתין",
-      "english": "向墙撒尿者"
+      "surface": "משתין",
+      "english": "在墙上撒尿的"
     },
     {
-      "surface": "בְּ\/קִ֔יר",
-      "hebrew": "בקיר",
-      "english": ""
+      "surface": "בקיר",
+      "english": "在墙上"
     },
     {
-      "surface": "וְ\/עָצ֥וּר",
-      "hebrew": "ועצור",
-      "english": "以及被拘禁的"
+      "surface": "ועצור",
+      "english": "被囚的"
     },
     {
-      "surface": "וְ\/עָז֖וּב",
-      "hebrew": "ועזוב",
-      "english": "和被放任的"
+      "surface": "ועזוב",
+      "english": "以及遗留的"
     },
     {
-      "surface": "בְּ\/יִשְׂרָאֵֽל",
-      "hebrew": "בישראל",
-      "english": "在以色列中"
+      "surface": "בישראל",
+      "english": "在以色列"
     }
   ],
-  "timestamp": "2026-07-17T21:23:07.518566938Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:24.490198807Z",
+  "model": "glm-4.5"
 }

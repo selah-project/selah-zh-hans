@@ -1,40 +1,37 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "1-chronicles 9:37",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58308,
+    "completion_tokens": 145,
+    "prompt_tokens": 58307,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58608
+    "total_tokens": 58452
   },
-  "translation": "וְ\/גְדֹור וְ\/אַחְיֹו וּ\/זְכַרְיָה וּ\/מִקְלֹות׃",
+  "translation": "以及格多、以及亚希约、以及撒迦利亚、以及米克洛。",
   "tokens": [
     {
-      "surface": "ו\/גדור",
-      "english": "和"
+      "surface": "וגדור",
+      "english": "以及格多"
     },
     {
       "surface": "ואחיו",
-      "english": "和·אַחְיוֹ (Ahio)"
+      "english": "以及亚希约"
     },
     {
       "surface": "וזכריה",
-      "english": "和"
+      "english": "以及撒迦利亚"
     },
     {
       "surface": "ומקלות",
-      "english": "和·מִקְלוֹת (Mikloth)"
+      "english": "以及米克洛"
     }
   ],
-  "timestamp": "2026-07-18T01:59:16.270866253Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:19.802409544Z",
+  "model": "glm-4.5"
 }

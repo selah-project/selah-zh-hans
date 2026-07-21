@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "deuteronomy 20:9",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 767,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19425,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20192
-  },
-  "translation": "⟨事情⟩ הָיָה כְּ\/כַלֹּ֥ת הַ\/שֹּׁטְרִ֖ים לְ\/דַבֵּ֣ר אֶל הָ\/עָ֑ם וּ\/פָֽקְד֛וּ שָׂרֵ֥י צְבָא֖וֹת בְּ\/רֹ֥אשׁ הָ\/עָֽם",
+  "translation": "事情将是这样,当官员们 ⟨已经⟩ 对百姓说完了话,众军长就要被设立在百姓的 ⟨前头⟩。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֛ה",
-      "english": "⟨事情⟩将如此"
+      "surface": "והיה",
+      "english": "事情将是这样"
     },
     {
-      "surface": "כְּ\/כַלֹּ֥ת",
-      "english": "当……完成时"
+      "surface": "ככלת",
+      "english": "当 ⟨已经⟩"
     },
     {
-      "surface": "הַ\/שֹּׁטְרִ֖ים",
-      "english": "官长们"
+      "surface": "השטרים",
+      "english": "官员们"
     },
     {
-      "surface": "לְ\/דַבֵּ֣ר",
-      "english": "对……说话"
+      "surface": "לדבר",
+      "english": "对 ⟨已经⟩ 说完了话"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "english": "对"
     },
     {
-      "surface": "הָ\/עָ֑ם",
-      "english": "那百姓"
+      "surface": "העם",
+      "english": "百姓"
     },
     {
-      "surface": "וּ\/פָֽקְד֛וּ",
-      "english": "就委派"
+      "surface": "ופקדו",
+      "english": "众...就要被设立"
     },
     {
-      "surface": "שָׂרֵ֥י",
-      "english": "首领们"
+      "surface": "שרי",
+      "english": "军长"
     },
     {
-      "surface": "צְבָא֖וֹת",
-      "english": "军队"
+      "surface": "צבאות",
+      "english": "众"
     },
     {
-      "surface": "בְּ\/רֹ֥אשׁ",
-      "english": "在……的头"
+      "surface": "בראש",
+      "english": "在...的 ⟨前头⟩"
     },
     {
-      "surface": "הָ\/עָֽם",
-      "english": "那百姓"
+      "surface": "העם",
+      "english": "百姓"
     }
   ],
-  "timestamp": "2026-07-17T19:40:13.331957226Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:13.505895560Z",
+  "model": "glm-4.5"
 }

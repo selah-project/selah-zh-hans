@@ -1,68 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "ezekiel 11:10",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 1237,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19415,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20652
-  },
-  "translation": "בַּ\/חֶרֶב תִּפֹּלוּ אַתֶּם עַל־גְּבוּל 以色列 וְשָׁפַטְתִּי אֶתְכֶם וִידַעְתֶּם כִּי אֲנִי 雅威׃",
+  "translation": "你们必在刀剑中跌倒,在以色列的边界上 ⟨את⟩ 你们,你们就知道,我 ⟨是⟩ 雅威",
   "tokens": [
     {
-      "surface": "בַּ\/חֶרֶב",
-      "english": "בַּ\/חֶרֶב"
+      "surface": "בחרב",
+      "english": "在刀剑中"
     },
     {
-      "surface": "תִּפֹּלוּ",
-      "english": "תִּפֹּלוּ"
+      "surface": "תפלו",
+      "english": "跌倒"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "在...上"
     },
     {
-      "surface": "גְּבוּל",
-      "english": "גְּבוּל"
+      "surface": "גבול",
+      "english": "边界"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "אֶשְׁפֹּוט",
-      "english": "אֶשְׁפֹּוט"
+      "surface": "אשפוט",
+      "english": "审判"
     },
     {
-      "surface": "אֶתְכֶם",
-      "english": "אֶתְכֶם"
+      "surface": "אתכם",
+      "english": "⟨את⟩",
+      "marks": "你们"
     },
     {
-      "surface": "וִֽ\/יְדַעְתֶּם",
-      "english": "וִֽ\/יְדַעְתֶּם"
+      "surface": "וידעתם",
+      "english": "你们就知道"
     },
     {
-      "surface": "כִּי",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": "就"
     },
     {
-      "surface": "אֲנִי",
-      "english": "אֲנִי"
+      "surface": "אני",
+      "english": "我"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T02:59:04.549224084Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:24.556085358Z",
+  "model": "glm-4.5"
 }

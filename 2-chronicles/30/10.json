@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-chronicles 30:10",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 1335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60375,
+    "completion_tokens": 483,
+    "prompt_tokens": 60452,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61710
+    "total_tokens": 60935
   },
-  "translation": "הרצים（跑者）עברים（经过）从一城到另一城，בְּ\/אֶֽרֶץ（在……地）אֶפְרַ֥יִם（以法莲）和 מְנַשֶּׁ֖ה（玛拿西），וְ\/עַד（直到）זְבֻל֑וּן（西布伦）；他们（对跑者\/信使们）מַשְׂחִיקִ֣ים（嘲笑）וּ\/מַלְעִגִ֖ים（讥讽）בָּֽ\/ם（在他们身上）。",
+  "translation": "于是信使从一座城到一座城经过,在以法莲地和玛拿西地,直到西布伦;百姓却嗤笑他们,戏弄他们。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "וַ\/יִּֽהְי֨וּ（于是，他们成为\/处于——װaw-consecutive\/insequential，引导叙事推进）"
+      "english": "于是"
     },
     {
       "surface": "הרצים",
-      "english": "הָ\/רָצִ֜ים（跑者们——即 הָ\/רָצִ֜ים，源自 רוּץ。指传递信息或诏书的专职使者或快递员）"
+      "english": "信使"
     },
     {
       "surface": "עברים",
-      "english": "עֹבְרִ֨ים（经过，穿过——װ Participle, plural masculine）"
+      "english": "经过"
     },
     {
       "surface": "מעיר",
-      "english": "מֵ\/עִ֧יר（从一城……）"
+      "english": "从一座城"
     },
     {
       "surface": "לעיר",
-      "english": "לָ\/עִ֛יר（……到另一城）"
+      "english": "到一座城"
     },
     {
       "surface": "בארץ",
-      "english": "בְּ\/אֶֽרֶץ（在……的地）"
+      "english": "在...地"
     },
     {
       "surface": "אפרים",
-      "english": "אֶפְרַ֥יִם（以法莲——北方支派\/领地）"
+      "english": "以法莲"
     },
     {
       "surface": "ומנשה",
-      "english": "וּ\/מְנַשֶּׁ֖ה（和玛拿西——北方支派\/领地）"
+      "english": "和玛拿西"
     },
     {
       "surface": "ועד",
-      "english": "וְ\/עַד（直到……）"
+      "english": "直到"
     },
     {
       "surface": "זבלון",
-      "english": "זְבֻל֑וּן（西布伦——北方支派\/领地）"
+      "english": "西布伦"
     },
     {
       "surface": "ויהיו",
-      "english": "וַ\/יִּֽהְיוּ֙（他们[对使者们]是……——这里表示状态，非重复的叙述动作）"
+      "english": "⟨百姓⟩却"
     },
     {
       "surface": "משחיקים",
-      "english": "מַשְׂחִיקִ֣ים（发出笑声\/嘲笑—— participle, plural masculine）"
+      "english": "嗤笑"
     },
     {
       "surface": "עליהם",
-      "english": "עֲלֵי\/הֶ֔ם（向他们\/对他们）"
+      "english": "他们"
     },
     {
       "surface": "ומלעגים",
-      "english": "וּ\/מַלְעִגִ֖ים（嘲弄\/讥笑—— participle, plural masculine）"
+      "english": "戏弄"
     },
     {
       "surface": "בם",
-      "english": "בָּֽ\/ם（在\/对于他们——后缀的 b- 介词）"
+      "english": "他们"
     }
   ],
-  "timestamp": "2026-07-18T02:32:14.293734505Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:25.797430336Z",
+  "model": "glm-4.5"
 }

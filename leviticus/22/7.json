@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "leviticus 22:7",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19174,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19716
-  },
-  "translation": "太阳 ⟨וּ\/בָ֥א⟩ 进来 (落山) וְ\/טָהֵ֑ר ⟨他⟩ 就洁净了, וְ\/אַחַר֙ 之后他可以吃 ⟨מִן⟩ ⟨הַ\/קֳּדָשִׁ֔ים⟩, כִּ֥י לַחְמ֖\/וֹ הֽוּא.",
+  "translation": "并且 ⟨太阳⟩ 已落下，他就洁净了，并且在那之后 ⟨他⟩ 可以吃 ⟨自⟩ 众圣物，因为 ⟨它⟩ 是他的食物。",
   "tokens": [
     {
       "surface": "ובא",
-      "english": "进来 (指太阳落山)"
+      "english": "并且...已落下"
     },
     {
       "surface": "השמש",
-      "english": "太阳"
+      "english": "⟨太阳⟩"
     },
     {
       "surface": "וטהר",
-      "english": "⟨他⟩ 就洁净了"
+      "english": "他就洁净了"
     },
     {
       "surface": "ואחר",
-      "english": "之后"
+      "english": "并且在那之后"
     },
     {
       "surface": "יאכל",
-      "english": "他可以吃"
+      "english": "可以吃"
     },
     {
       "surface": "מן",
-      "english": "⟨מן⟩ (从\/其中)"
+      "english": "⟨自⟩"
     },
     {
       "surface": "הקדשים",
-      "english": "圣物"
+      "english": "众圣物"
     },
     {
       "surface": "כי",
@@ -52,13 +41,13 @@
     },
     {
       "surface": "לחמו",
-      "english": "⟨הוּא⟩ 是他的食物"
+      "english": "是他的食物"
     },
     {
       "surface": "הוא",
-      "english": "⟨הוּא⟩ (强调代词)"
+      "english": "⟨它⟩"
     }
   ],
-  "timestamp": "2026-07-18T02:43:14.128231874Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:48.986455368Z",
+  "model": "glm-4.5"
 }

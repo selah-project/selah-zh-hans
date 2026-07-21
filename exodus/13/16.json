@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "exodus 13:16",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 786,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19079,
+    "completion_tokens": 612,
+    "prompt_tokens": 19143,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19865
+    "total_tokens": 19755
   },
-  "translation": "וְ\/הָיָ֤ה לְ\/אוֹת֙ עַל יָ֣דְ\/כָ֔ה וּ\/לְ\/טוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑י\/ךָ כִּ֚י בְּ\/חֹ֣זֶק יָ֔ד הוֹצִיאָ֥\/נוּ יְהוָ֖ה מִ\/מִּצְרָֽיִם",
+  "translation": "这事必在你手上作记号,在你额上作纪念,因为雅威用大能的手将我们从埃及领出来。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֤ה",
-      "english": "它将作为"
+      "surface": "וְהָיָ֤ה",
+      "english": "这事必"
     },
     {
-      "surface": "לְ\/אוֹת֙",
-      "english": "记号"
+      "surface": "לְאוֹת֙",
+      "english": "作记号"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
-      "surface": "יָ֣דְ\/כָ֔ה",
-      "english": "你的手"
+      "surface": "יָדְכָ֔ה",
+      "english": "你手"
     },
     {
-      "surface": "וּ\/לְ\/טוֹטָפֹ֖ת",
-      "english": "并作为额带"
+      "surface": "וּלְטוֹטָפֹ֖ת",
+      "english": "并作纪念"
     },
     {
       "surface": "בֵּ֣ין",
-      "english": "在……之间"
+      "english": "在...之间"
     },
     {
-      "surface": "עֵינֶ֑י\/ךָ",
-      "english": "你的眼睛"
+      "surface": "עֵינֶ֑יךָ",
+      "english": "你眼"
     },
     {
       "surface": "כִּ֚י",
       "english": "因为"
     },
     {
-      "surface": "בְּ\/חֹ֣זֶק",
-      "english": "以大能"
+      "surface": "בְחֹ֣זֶק",
+      "english": "用大能"
     },
     {
       "surface": "יָ֔ד",
       "english": "手"
     },
     {
-      "surface": "הוֹצִיאָ֥\/נוּ",
-      "english": "领出了"
+      "surface": "הוֹצִיאָ֥נוּ",
+      "english": "将我们...领出来"
     },
     {
       "surface": "יְהוָ֖ה",
       "english": "雅威"
     },
     {
-      "surface": "מִ\/מִּצְרָֽיִם",
-      "english": "我们离开埃及"
+      "surface": "מִמִּצְרָֽיִם",
+      "english": "从埃及"
     }
   ],
-  "timestamp": "2026-07-17T18:18:35.192998468Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:38.861183413Z",
+  "model": "glm-4.5"
 }

@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 66,
   "ref": "psalms 119:66",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 119,
   "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64403,
+    "completion_tokens": 448,
+    "prompt_tokens": 64402,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64867
+    "total_tokens": 64850
   },
-  "translation": "טוּב טַעַם וָ\/דַעַת לַמְּדֵ֑\/נִי כִּ֖י בְ\/מִצְוֺתֶ֣י\/ךָ הֶאֱמָֽנְתִּי",
+  "translation": "Teach me good taste and knowledge, for I have trusted in Your commandments.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "טוּב"
+      "english": "good"
     },
     {
       "surface": "טעם",
-      "english": "טַעַם"
+      "english": "taste"
     },
     {
       "surface": "ודעת",
-      "english": "וָ\/דַעַת"
+      "english": "and knowledge"
     },
     {
       "surface": "למדני",
-      "english": "לַמְּדֵ֑\/נִי"
+      "english": "Teach me"
     },
     {
       "surface": "כי",
-      "english": "כִּ֖י"
+      "english": "for"
     },
     {
       "surface": "במצותיך",
-      "english": "בְ\/מִצְוֺתֶ֣י\/ךָ"
+      "english": "in Your commandments"
     },
     {
       "surface": "האמנתי",
-      "english": "הֶאֱמָֽנְתִּי"
+      "english": "I have trusted"
     }
   ],
-  "timestamp": "2026-07-18T00:23:17.584290121Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:02.162075469Z",
+  "model": "glm-4.5"
 }

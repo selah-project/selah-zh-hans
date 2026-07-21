@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "ezekiel 32:22",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19208,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19798
-  },
-  "translation": "שָׁם אַשּׁוּר וְ\/כָל קְהָלָהּ סְבִיבוֹתָיו קִבְרֹתָיו כֻּלָּם חֲלָלִים הַ\/נֹּפְלִים בֶּ\/חָרֶב",
+  "translation": "在那里 ⟨有⟩ 亚述，和它 ⟨的⟩ 全会众；在它 ⟨的⟩ 四周 ⟨有⟩ 它 ⟨的⟩ 坟墓，全是被杀 ⟨的⟩，就是倒在刀下 ⟨的⟩。",
   "tokens": [
     {
       "surface": "שם",
@@ -24,11 +13,11 @@
     },
     {
       "surface": "אשור",
-      "english": "是亚述"
+      "english": "亚述"
     },
     {
       "surface": "וכל",
-      "english": "与她所有的"
+      "english": "和它 ⟨的⟩ 全"
     },
     {
       "surface": "קהלה",
@@ -36,29 +25,29 @@
     },
     {
       "surface": "סביבותיו",
-      "english": "在他四围"
+      "english": "在它 ⟨的⟩ 四周"
     },
     {
       "surface": "קברתיו",
-      "english": "是⟨他的⟩坟墓"
+      "english": "它 ⟨的⟩ 坟墓"
     },
     {
       "surface": "כלם",
-      "english": "他们全部"
+      "english": "全是"
     },
     {
       "surface": "חללים",
-      "english": "是被刺死的人"
+      "english": "被杀 ⟨的⟩"
     },
     {
       "surface": "הנפלים",
-      "english": "倒下"
+      "english": "就是倒在...下 ⟨的⟩"
     },
     {
       "surface": "בחרב",
-      "english": "在刀剑下"
+      "english": "刀"
     }
   ],
-  "timestamp": "2026-07-17T22:59:39.818824507Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:25.687110496Z",
+  "model": "glm-4.5"
 }

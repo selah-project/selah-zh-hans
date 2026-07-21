@@ -1,50 +1,47 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "exodus 38:15",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 38,
   "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19063,
+    "completion_tokens": 465,
+    "prompt_tokens": 19062,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19711
+    "total_tokens": 19527
   },
-  "translation": "וְ\/לַ\/כָּתֵ֣ף הַ\/שֵּׁנִ֗ית מִ\/זֶּ֤ה וּ\/מִ\/זֶּה֙ לְ\/שַׁ֣עַר הֶֽ\/חָצֵ֔ר קְלָעִ֕ים חֲמֵ֥שׁ עֶשְׂרֵ֖ה אַמָּ֑ה עַמֻּדֵי\/הֶ֣ם שְׁלֹשָׁ֔ה וְ\/אַדְנֵי\/הֶ֖ם שְׁלֹשָֽׁה",
+  "translation": "在院门 ⟨这边和那边⟩ 的第二处：悬挂物 十五 肘，它们的柱子 三个，和 ⟨את⟩ 它们的座 三个",
   "tokens": [
     {
-      "surface": "ו\/ל\/כתף",
-      "english": "至于第二边肩"
+      "surface": "ולכתף",
+      "english": "在...的第二处"
     },
     {
       "surface": "השנית",
-      "english": "（第二边）"
+      "english": "第二"
     },
     {
       "surface": "מזה",
-      "english": "从这边"
+      "english": "这边"
     },
     {
       "surface": "ומזה",
-      "english": "和从那边"
+      "english": "和那边"
     },
     {
       "surface": "לשער",
-      "english": "朝向院子的门"
+      "english": "门 ⟨的⟩"
     },
     {
       "surface": "החצר",
-      "english": "（院子的）"
+      "english": "院"
     },
     {
       "surface": "קלעים",
-      "english": "帷子"
+      "english": "悬挂物"
     },
     {
       "surface": "חמש",
@@ -52,11 +49,11 @@
     },
     {
       "surface": "עשרה",
-      "english": "（加十）"
+      "english": "肘"
     },
     {
       "surface": "אמה",
-      "english": "肘"
+      "english": ""
     },
     {
       "surface": "עמדיהם",
@@ -64,17 +61,17 @@
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "english": "三个"
     },
     {
       "surface": "ואדניהם",
-      "english": "和它们的座"
+      "english": "和 ⟨את⟩ 它们的座"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "english": "三个"
     }
   ],
-  "timestamp": "2026-07-17T18:37:55.619469180Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:45.582398267Z",
+  "model": "glm-4.5"
 }

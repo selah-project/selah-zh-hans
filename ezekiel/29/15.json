@@ -1,42 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "ezekiel 29:15",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19484,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20118
-  },
-  "translation": "מִן ⟨הַ\/מַּמְלָכוֹת֙⟩ תִּהְיֶ֣ה שְׁפָלָ֔ה וְ\/לֹֽא תִתְנַשֵּׂ֥א ע֖וֹד עַל ⟨הַ\/גּוֹיִ֑ם⟩ וְ\/הִ֨מְעַטְתִּ֔י\/ם לְ\/בִלְתִּ֖י רְד֥וֹת בַּ\/גּוֹיִֽם׃",
+  "translation": "在诸国中它将是最卑微的,不再向列国被高举;我也减少他们,免得在列国中统治。",
   "tokens": [
     {
       "surface": "מן",
-      "english": "从"
+      "english": "在...中"
     },
     {
       "surface": "הממלכות",
-      "english": "众国"
+      "english": "诸国"
     },
     {
       "surface": "תהיה",
-      "english": "她将成为"
+      "english": "它将⟨是⟩"
     },
     {
       "surface": "שפלה",
-      "english": "最低微的"
+      "english": "最卑微的"
     },
     {
       "surface": "ולא",
-      "english": "她必不再"
+      "english": "而且不"
     },
     {
       "surface": "תתנשא",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "עוד",
-      "english": "继续"
+      "english": "再"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "english": "向"
     },
     {
       "surface": "הגוים",
@@ -56,21 +45,21 @@
     },
     {
       "surface": "והמעטתים",
-      "english": "我使他们减少"
+      "english": "我也减少他们"
     },
     {
       "surface": "לבלתי",
-      "english": "以致不再"
+      "english": "免得"
     },
     {
       "surface": "רדות",
-      "english": "辖制"
+      "english": "统治"
     },
     {
       "surface": "בגוים",
       "english": "在列国中"
     }
   ],
-  "timestamp": "2026-07-17T22:57:48.548854647Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:15.471552977Z",
+  "model": "glm-4.5"
 }

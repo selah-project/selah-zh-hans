@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 40,
   "ref": "jeremiah 50:40",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 50,
   "usage": {
-    "completion_tokens": 797,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20229,
+    "completion_tokens": 606,
+    "prompt_tokens": 20319,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21026
+    "total_tokens": 20925
   },
-  "translation": "כְּ\/מַהְפֵּכַ֨ת אֱלֹהִ֜ים אֶת סְדֹ֧ם וְ\/אֶת עֲמֹרָ֛ה וְ\/אֶת שְׁכֵנֶ֖י\/הָ נְאֻם יְהוָ֑ה לֹֽא יֵשֵׁ֥ב שָׁם֙ אִ֔ישׁ וְ\/לֹֽא יָג֥וּר בָּ֖\/הּ בֶּן אָדָֽם",
+  "translation": "正如以罗欣倾覆了所多玛、蛾摩拉 ⟨את⟩ 和 ⟨את⟩ 其邻舍,雅威宣告,那里必不再有人居住,人子也不必在其中寄居。",
   "tokens": [
     {
       "surface": "כמהפכת",
-      "english": "正如……的倾覆"
+      "english": "正如…倾覆了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣 (Elohim)"
+      "english": "以罗欣"
     },
     {
       "surface": "את",
@@ -37,7 +34,7 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "english": "⟨את⟩",
       "marks": "蛾摩拉"
     },
     {
@@ -46,16 +43,16 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "她的邻居"
+      "english": "⟨את⟩",
+      "marks": "其邻舍"
     },
     {
       "surface": "שכניה",
-      "english": "她的邻居"
+      "english": "其邻舍"
     },
     {
       "surface": "נאם",
-      "english": "神谕"
+      "english": "宣告"
     },
     {
       "surface": "יהוה",
@@ -75,7 +72,7 @@
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "english": "人"
     },
     {
       "surface": "ולא",
@@ -95,9 +92,9 @@
     },
     {
       "surface": "אדם",
-      "english": "亚当 (人)"
+      "english": "人"
     }
   ],
-  "timestamp": "2026-07-17T22:37:33.933709593Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:08.213356338Z",
+  "model": "glm-4.5"
 }

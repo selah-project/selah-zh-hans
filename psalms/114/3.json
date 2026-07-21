@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "psalms 114:3",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 114,
   "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64248,
+    "completion_tokens": 311,
+    "prompt_tokens": 64247,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64775
+    "total_tokens": 64558
   },
-  "translation": "הים ראה וינס, 约旦河 יסב לאחור׃",
+  "translation": "大海看见,便逃跑;约旦河倒流 ⟨את⟩ 往后退。",
   "tokens": [
     {
       "surface": "הים",
-      "english": "הים"
+      "english": "大海"
     },
     {
       "surface": "ראה",
-      "english": "ראה"
+      "english": "看见"
     },
     {
       "surface": "וינס",
-      "english": "וינס"
+      "english": "便逃跑"
     },
     {
       "surface": "הירדן",
@@ -36,13 +33,13 @@
     },
     {
       "surface": "יסב",
-      "english": "יסב"
+      "english": "倒流"
     },
     {
       "surface": "לאחור",
-      "english": "לאחור"
+      "english": "往后退"
     }
   ],
-  "timestamp": "2026-07-18T00:20:43.916298886Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:04.492698351Z",
+  "model": "glm-4.5"
 }

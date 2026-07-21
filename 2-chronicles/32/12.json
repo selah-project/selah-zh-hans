@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "2-chronicles 32:12",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 32,
   "usage": {
-    "completion_tokens": 951,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60876,
+    "completion_tokens": 553,
+    "prompt_tokens": 60945,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61827
+    "total_tokens": 61498
   },
-  "translation": "הלא הוא 希西家 הסיר ⟨את⟩ במותיו וגם ⟨את⟩ מזבחותיו, ויאמר 犹大 ולירושלים לאמר: לפני מזבח אחד תשתחוו ועליו תקטירו?",
+  "translation": "难道不是这位希西家移除了他的丘坛和祭坛,并指示犹大和耶路撒冷说:你们只当在一个祭坛前敬拜,并在其上献香吗?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "הלא"
+      "english": "难道不是"
     },
     {
       "surface": "הוא",
-      "english": "הוא"
+      "english": "这位"
     },
     {
       "surface": "יחזקיהו",
@@ -32,29 +29,29 @@
     },
     {
       "surface": "הסיר",
-      "english": "הסיר"
+      "english": "移除了"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "במותיו (במותיו)"
+      "marks": "他的丘坛"
     },
     {
       "surface": "במתיו",
-      "english": "במותיו"
+      "english": "他的丘坛"
     },
     {
       "surface": "ואת",
-      "english": "וגם ⟨את⟩",
-      "marks": "מזבחותיו (מזבחותיו)"
+      "english": "和",
+      "marks": "祭坛"
     },
     {
       "surface": "מזבחתיו",
-      "english": "מזבחותיו"
+      "english": "祭坛"
     },
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "并指示"
     },
     {
       "surface": "ליהודה",
@@ -62,37 +59,37 @@
     },
     {
       "surface": "ולירושלם",
-      "english": "ולירושלים"
+      "english": "和耶路撒冷"
     },
     {
       "surface": "לאמר",
-      "english": "לאמר"
+      "english": "说"
     },
     {
       "surface": "לפני",
-      "english": "לפני"
+      "english": "在...前"
     },
     {
       "surface": "מזבח",
-      "english": "מזבח"
+      "english": "祭坛"
     },
     {
       "surface": "אחד",
-      "english": "אחד"
+      "english": "一个"
     },
     {
       "surface": "תשתחוו",
-      "english": "תשתחוו"
+      "english": "敬拜"
     },
     {
       "surface": "ועליו",
-      "english": "ועליו"
+      "english": "并在其上"
     },
     {
       "surface": "תקטירו",
-      "english": "תקטירו"
+      "english": "献香"
     }
   ],
-  "timestamp": "2026-07-18T02:33:21.231287296Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:30:04.135987169Z",
+  "model": "glm-4.5"
 }

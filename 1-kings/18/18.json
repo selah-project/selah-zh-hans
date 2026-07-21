@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "1-kings 18:18",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 750,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65002,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65752
-  },
-  "translation": "וַ\/יֹּאמֶר: לֹא עָכַרְתִּי אֶת יִשְׂרָאֵל, כִּי אִם אַתָּה וּ\/בֵית אָבִי\/ךָ, בְּ\/עָזְבְ\/כֶם אֶת מִצְוֺת יְהוָה וַ\/תֵּלֶךְ אַחֲרֵי הַ\/בְּעָלִים׃",
+  "translation": "他回答说,我没有使以色列遭灾,⟨乃是⟩你和你父家,因为你们离弃了雅威的命令,去追随众巴力",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "他回答说"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "我没有"
     },
     {
       "surface": "עכרתי",
-      "english": "我搅扰了"
+      "english": "使以色列遭灾"
     },
     {
       "surface": "את",
@@ -41,36 +30,36 @@
     },
     {
       "surface": "כי",
-      "english": "而是"
+      "english": "⟨乃是⟩"
     },
     {
       "surface": "אם",
-      "english": "（除……之外）"
+      "english": "你"
     },
     {
       "surface": "אתה",
-      "english": "你和"
+      "english": ""
     },
     {
       "surface": "ובית",
-      "english": "你父的家"
+      "english": "和你父家"
     },
     {
       "surface": "אביך",
-      "english": "你的父亲（的家）"
+      "english": ""
     },
     {
       "surface": "בעזבכם",
-      "english": "在你们离弃"
+      "english": "因为你们离弃了"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "雅威的诫命"
+      "marks": "命令"
     },
     {
       "surface": "מצות",
-      "english": "诫命"
+      "english": "命令"
     },
     {
       "surface": "יהוה",
@@ -78,17 +67,17 @@
     },
     {
       "surface": "ותלך",
-      "english": "你去跟从"
+      "english": "去追随"
     },
     {
       "surface": "אחרי",
-      "english": "之后"
+      "english": ""
     },
     {
       "surface": "הבעלים",
-      "english": "诸巴力"
+      "english": "众巴力"
     }
   ],
-  "timestamp": "2026-07-17T21:12:21.689904939Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:51.893652096Z",
+  "model": "glm-4.5"
 }

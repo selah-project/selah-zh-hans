@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "leviticus 13:12",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 1195,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20110,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 21305
-  },
-  "translation": "כְּשֶׁרַעַת (צָרַעַת) פֹּרֶצֶת וּפְרָחָה בָּעוֹר, וְכִסְּתָה הַצָּרַעַת אֶת כָּל עוֹר הַנֶּגַע מֵרֹאשׁוֹ וְעַד רַגְלָיו, לְכָל מַרְאֵה עֵינֵי הַכֹּהֵן׃",
+  "translation": "而若 צרעת 在皮肤中爆发, צרעת 覆盖⟨了⟩ ⟨את⟩ 受感染之人的所有皮肤,从他的头到他的脚,按祭司眼见的各样外表:",
   "tokens": [
     {
-      "surface": "וְ\/אִם",
-      "english": "וְ\/אִם"
+      "surface": "ואם",
+      "english": "而若"
     },
     {
-      "surface": "פָּר֨וֹחַ",
-      "english": "פָּר֨וֹחַ"
+      "surface": "פרוח",
+      "english": "爆发"
     },
     {
-      "surface": "תִּפְרַ֤חַ",
-      "english": "תִּפְרַ֤חַ"
+      "surface": "תפרח",
+      "english": "爆发"
     },
     {
-      "surface": "הַ\/צָּרַ֨עַת֙",
-      "english": "הַ\/צָּרַ֨עַת֙"
+      "surface": "הצרעת",
+      "english": "צרעת"
     },
     {
-      "surface": "בָּ\/ע֔וֹר",
-      "english": "בָּ\/ע֔וֹר"
+      "surface": "בעור",
+      "english": "在皮肤中"
     },
     {
-      "surface": "וְ\/כִסְּתָ֣ה",
-      "english": "וְ\/כִסְּתָ֣ה"
+      "surface": "וכסתה",
+      "english": "覆盖"
     },
     {
-      "surface": "הַ\/צָּרַ֗עַת",
-      "english": "הַ\/צָּרַ֗עַת"
+      "surface": "הצרעת",
+      "english": "צרעת"
     },
     {
-      "surface": "אֵ֚ת",
-      "english": "אֵ֚ת",
-      "marks": "כָּל"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "所有皮肤"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "所有"
     },
     {
-      "surface": "ע֣וֹר",
-      "english": "ע֣וֹר"
+      "surface": "עור",
+      "english": "皮肤"
     },
     {
-      "surface": "הַ\/נֶּ֔גַע",
-      "english": "הַ\/נֶּ֔גַע"
+      "surface": "הנגע",
+      "english": "受感染之人"
     },
     {
-      "surface": "מֵ\/רֹאשׁ֖\/וֹ",
-      "english": "מֵ\/רֹאשׁ֖\/וֹ"
+      "surface": "מראשו",
+      "english": "从他的头"
     },
     {
-      "surface": "וְ\/עַד",
-      "english": "וְ\/עַד"
+      "surface": "ועד",
+      "english": "到"
     },
     {
-      "surface": "רַגְלָ֑י\/וֹ",
-      "english": "רַגְלָ֑י\/וֹ"
+      "surface": "רגליו",
+      "english": "他的脚"
     },
     {
-      "surface": "לְ\/כָל",
-      "english": "לְ\/כָל"
+      "surface": "לכל",
+      "english": "按各样"
     },
     {
-      "surface": "מַרְאֵ֖ה",
-      "english": "מַרְאֵ֖ה"
+      "surface": "מראה",
+      "english": "外表"
     },
     {
-      "surface": "עֵינֵ֥י",
-      "english": "עֵינֵ֥י"
+      "surface": "עיני",
+      "english": "眼见的"
     },
     {
-      "surface": "הַ\/כֹּהֵֽן",
-      "english": "הַ\/כֹּהֵֽן"
+      "surface": "הכהן",
+      "english": "祭司"
     }
   ],
-  "timestamp": "2026-07-17T18:48:04.681992297Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:30.663293550Z",
+  "model": "glm-4.5"
 }

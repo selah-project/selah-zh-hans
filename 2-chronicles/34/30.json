@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "2-chronicles 34:30",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 1319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61606,
+    "completion_tokens": 824,
+    "prompt_tokens": 61702,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 62925
+    "total_tokens": 62526
   },
-  "translation": "וַ\/יַּ֣עַל הַ\/מֶּ֣לֶךְ בֵּית 雅威 וְ\/כָל אִ֨ישׁ 犹大 וְ\/יֹשְׁבֵ֣י 耶路撒冷 וְ\/הַ\/כֹּֽהֲנִים֙ וְ\/הַ\/לְוִיִּ֔ם וְ\/כָל הָ\/עָ֖ם מִ\/גָּד֣וֹל וְ\/עַד קָטָ֑ן וַ\/יִּקְרָ֣א בְ\/אָזְנֵי\/הֶ֗ם אֶת כָּל דִּבְרֵי֙ סֵ֣פֶר הַ\/בְּרִ֔ית הַ\/נִּמְצָ֖א בֵּ֥ית 雅威׃",
+  "translation": "王上到雅威的殿,以及 犹大的每个人、耶路撒冷的居民、祭司、利未人、从大的直到小的所有 ⟨百姓⟩;王就在他们的耳中 ⟨את⟩ 所有的 ⟨话语⟩,就是在雅威的殿里 ⟨被找到⟩ 的 ⟨布瑞特⟩ 的 ⟨书卷⟩ 上的。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "וַ\/יַּ֣עַל"
+      "english": "王上到"
     },
     {
       "surface": "המלך",
-      "english": "הַ\/מֶּ֣לֶךְ"
+      "english": "王"
     },
     {
       "surface": "בית",
-      "english": "בֵּית"
+      "english": "殿"
     },
     {
       "surface": "יהוה",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "וכל",
-      "english": "וְ\/כָל"
+      "english": "以及"
     },
     {
       "surface": "איש",
-      "english": "אִ֨ישׁ"
+      "english": "每个人"
     },
     {
       "surface": "יהודה",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "וישבי",
-      "english": "וְ\/יֹשְׁבֵ֣י"
+      "english": "居民"
     },
     {
       "surface": "ירושלם",
@@ -56,73 +53,74 @@
     },
     {
       "surface": "והכהנים",
-      "english": "וְ\/הַ\/כֹּֽהֲנִים֙"
+      "english": "祭司"
     },
     {
       "surface": "והלוים",
-      "english": "וְ\/הַ\/לְוִיִּ֔ם"
+      "english": "利未人"
     },
     {
       "surface": "וכל",
-      "english": "וְ\/כָל"
+      "english": "所有"
     },
     {
       "surface": "העם",
-      "english": "הָ\/עָ֖ם"
+      "english": "百姓"
     },
     {
       "surface": "מגדול",
-      "english": "מִ\/גָּד֣וֹל"
+      "english": "大的"
     },
     {
       "surface": "ועד",
-      "english": "וְ\/עַד"
+      "english": "直到"
     },
     {
       "surface": "קטן",
-      "english": "קָטָ֑ן"
+      "english": "小的"
     },
     {
       "surface": "ויקרא",
-      "english": "וַ\/יִּקְרָ֣א"
+      "english": "王就在...宣读"
     },
     {
       "surface": "באזניהם",
-      "english": "בְ\/אָזְנֵי\/הֶ֗ם"
+      "english": "在他们的耳中"
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "所有的话语"
     },
     {
       "surface": "כל",
-      "english": "כָּל"
+      "english": "所有"
     },
     {
       "surface": "דברי",
-      "english": "דִּבְרֵי֙"
+      "english": "话语"
     },
     {
       "surface": "ספר",
-      "english": "סֵ֣פֶר"
+      "english": "书卷"
     },
     {
       "surface": "הברית",
-      "english": "הַ\/בְּרִ֔ית"
+      "english": "布瑞特"
     },
     {
       "surface": "הנמצא",
-      "english": "הַ\/נִּמְצָ֖א"
+      "english": "被找到"
     },
     {
       "surface": "בית",
-      "english": "בֵּ֥ית"
+      "english": "殿"
     },
     {
       "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T02:35:29.787142833Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:55.265364313Z",
+  "model": "glm-4.5"
 }

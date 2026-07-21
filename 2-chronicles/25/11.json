@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "2-chronicles 25:11",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 638,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60443,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61081
-  },
-  "translation": "אמציהו התחזק, ויינהג את עמו וילך אל-גיא המלח, וייך את בני שעיר, עשרת אלפים.",
+  "translation": "亚玛谢 ⟨就⟩ 坚强起来,率领 ⟨他⟩ 的百姓,去往 盐谷,击杀 ⟨את⟩ 西珥 的儿子,一万人。",
   "tokens": [
     {
-      "surface": "וַ\/אֲמַצְיָ֨הוּ֙",
-      "english": "瓦阿מציהו (而亚玛谢)"
+      "surface": "ואמציהו",
+      "english": "亚玛谢"
     },
     {
-      "surface": "הִתְחַזַּ֔ק",
-      "english": "התחזק (使自己强壮\/鼓起勇气)"
+      "surface": "התחזק",
+      "english": "⟨就⟩ 坚强起来"
     },
     {
-      "surface": "וַ\/יִּנְהַג֙",
-      "english": "ויינהג (并引导\/带领)"
+      "surface": "וינהג",
+      "english": "率领"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "עמו (他的军队\/百姓)"
+      "marks": "他 的百姓"
     },
     {
-      "surface": "עַמּ֔\/וֹ",
-      "english": "עמו (他的军队\/百姓)"
+      "surface": "עמו",
+      "english": "他 的百姓"
     },
     {
-      "surface": "וַ\/יֵּ֖לֶךְ",
-      "english": "ויילך (并去\/前往)"
+      "surface": "וילך",
+      "english": "去往"
     },
     {
-      "surface": "גֵּ֣יא",
-      "english": "גיא (谷)"
+      "surface": "גיא",
+      "english": "谷"
     },
     {
-      "surface": "הַמֶּ֑לַח",
-      "english": "המלח (盐的)"
+      "surface": "המלח",
+      "english": "盐"
     },
     {
-      "surface": "וַ\/יַּ֥ךְ",
-      "english": "וייך (并击杀\/攻击)"
+      "surface": "ויך",
+      "english": "击杀"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "בני שעיר (西珥人)"
+      "marks": "西珥 的儿子"
     },
     {
-      "surface": "בְּנֵי",
-      "english": "בני (儿子\/子民)"
+      "surface": "בני",
+      "english": "西珥 的儿子"
     },
     {
-      "surface": "שֵׂעִ֖יר",
+      "surface": "שעיר",
       "english": "西珥"
     },
     {
-      "surface": "עֲשֶׂ֥רֶת",
-      "english": "עשרת (十)"
+      "surface": "עשרת",
+      "english": "一万"
     },
     {
-      "surface": "אֲלָפִֽים",
-      "english": "אלפים (千)"
+      "surface": "אלפים",
+      "english": "[千]"
     }
   ],
-  "timestamp": "2026-07-18T02:28:32.816779079Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:40.670294579Z",
+  "model": "glm-4.5"
 }

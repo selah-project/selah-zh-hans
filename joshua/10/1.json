@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "joshua 10:1",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 2165,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20093,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 22258
-  },
-  "translation": "וַ\/יְהִי֩ כְּ\/שָׁמַע 亚多尼־亚多尼 מֶלֶךְ 耶路撒冷 אֵת אֲשֶׁר 约书亚 לָכַד אֶת־亚雅 וַיַּחֲרִים אוֹתָהּ; כַּאֲשֶׁר עָשָׂה 耶利哥 וּלְמַלְכָּהּ, כֵּן עָשָׂה 亚雅 וּלְמַלְכָּהּ; וַאֲשֶׁר הִשְׁלִימוּ יוֹשְׁבֵי 基遍 אֵת 以色列, וַיִּהְיוּ בְּקִרְבָּם.",
+  "translation": "事情<是这样>发生的：当耶路撒冷王亚多尼-亚多尼听见约书亚攻取了 ⟨את⟩ 艾城，并且<将它>毁灭了——就像他对耶利哥和<它的>王所做<的>那样，他也照样向艾城和<它的>王行<了>——也<因为>基遍的居民与以色列结了约，并且在他们中间。",
   "tokens": [
     {
-      "surface": "ו\/יהי",
-      "english": "וַ\/יְהִי֩"
+      "surface": "והי",
+      "english": "事情<是这样>发生的"
     },
     {
-      "surface": "כ\/שמע",
-      "english": "כְּ\/שָׁמַע"
+      "surface": "כשמע",
+      "english": "当...听见"
     },
     {
       "surface": "אדני",
-      "english": "亚多尼"
+      "english": "亚多尼-"
     },
     {
       "surface": "צדק",
@@ -36,7 +25,7 @@
     },
     {
       "surface": "מלך",
-      "english": "מֶלֶךְ"
+      "english": "王"
     },
     {
       "surface": "ירושלם",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "english": "אֵת אֲשֶׁר"
+      "english": ""
     },
     {
       "surface": "לכד",
-      "english": "לָכַד"
+      "english": "攻取了"
     },
     {
       "surface": "יהושע",
@@ -56,60 +45,60 @@
     },
     {
       "surface": "את",
-      "english": "אֶת",
-      "marks": "הָעַי"
+      "english": "⟨את⟩",
+      "marks": "艾城"
     },
     {
       "surface": "העי",
-      "english": "亚雅"
+      "english": "艾城"
     },
     {
-      "surface": "ו\/יחרימ\/ה",
-      "english": "וַיַּחֲרִים אוֹתָהּ"
+      "surface": "ויחרימה",
+      "english": "并且<将它>毁灭了"
     },
     {
       "surface": "כאשר",
-      "english": "כַּאֲשֶׁר"
+      "english": "就像"
     },
     {
       "surface": "עשה",
-      "english": "עָשָׂה"
+      "english": "他...所做<的>"
     },
     {
       "surface": "ליריחו",
-      "english": "耶利哥"
+      "english": "对耶利哥"
     },
     {
-      "surface": "ו\/ל\/מלכ\/ה",
-      "english": "וּלְמַלְכָּהּ"
+      "surface": "ולמלכה",
+      "english": "和<它的>王"
     },
     {
       "surface": "כן",
-      "english": "כֵּן"
+      "english": "那样"
     },
     {
       "surface": "עשה",
-      "english": "עָשָׂה"
+      "english": "他...行<了>"
     },
     {
       "surface": "לעי",
-      "english": "亚雅"
+      "english": "向艾城"
     },
     {
-      "surface": "ו\/ל\/מלכ\/ה",
-      "english": "וּלְמַלְכָּהּ"
+      "surface": "ולמלכה",
+      "english": "和<它的>王"
     },
     {
-      "surface": "ו\/כי",
-      "english": "וַאֲשֶׁר"
+      "surface": "וכי",
+      "english": "也<因为>"
     },
     {
       "surface": "השלימו",
-      "english": "הִשְׁלִימוּ"
+      "english": "结了约"
     },
     {
       "surface": "ישבי",
-      "english": "יוֹשְׁבֵי"
+      "english": "<的>居民"
     },
     {
       "surface": "גבעון",
@@ -117,22 +106,22 @@
     },
     {
       "surface": "את",
-      "english": "אֵת",
-      "marks": "יִשְׂרָאֵל"
+      "english": "⟨את⟩",
+      "marks": "以色列"
     },
     {
       "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "ו\/יהיו",
-      "english": "וַיִּהְיוּ"
+      "surface": "והיו",
+      "english": "<并且>在"
     },
     {
-      "surface": "ב\/קרב\/ם",
-      "english": "בְּקִרְבָּם"
+      "surface": "בקרבם",
+      "english": "他们中间"
     }
   ],
-  "timestamp": "2026-07-18T02:47:50.191747105Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:08.024773889Z",
+  "model": "glm-4.5"
 }

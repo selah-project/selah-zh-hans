@@ -1,35 +1,32 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "1-chronicles 4:12",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 827,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59464,
+    "completion_tokens": 584,
+    "prompt_tokens": 59602,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60291
+    "total_tokens": 60186
   },
-  "translation": "以实顿 הוֹלִיד אֶת 伯拉法 伯拉法 וְ\/אֶת 帕赛 וְ\/אֶת 提悉拿 אֲבִי 珥拿辖 珥拿辖 אֵ֖לֶּה אַנְשֵׁ֥י 利加׃",
+  "translation": "以施通生下 ⟨את⟩ 伯拉法,和 ⟨את⟩ 帕赛,和 ⟨את⟩ 提悉拿,珥拿辖的父;这些是利加的男子。",
   "tokens": [
     {
       "surface": "ואשתון",
-      "english": "以实顿"
+      "english": "以施通"
     },
     {
       "surface": "הוליד",
-      "english": "הוֹלִיד"
+      "english": "生下"
     },
     {
       "surface": "את",
-      "english": "אֶת",
-      "marks": "בֵּית רָפָא"
+      "english": "⟨את⟩",
+      "marks": "伯拉法"
     },
     {
       "surface": "בית",
@@ -41,8 +38,8 @@
     },
     {
       "surface": "ואת",
-      "english": "וְ\/אֶת",
-      "marks": "פָּסֵחַ"
+      "english": "和 ⟨את⟩",
+      "marks": "帕赛"
     },
     {
       "surface": "פסח",
@@ -50,8 +47,8 @@
     },
     {
       "surface": "ואת",
-      "english": "וְ\/אֶת",
-      "marks": "תְּחִנָּה"
+      "english": "和 ⟨את⟩",
+      "marks": "提悉拿"
     },
     {
       "surface": "תחנה",
@@ -59,7 +56,7 @@
     },
     {
       "surface": "אבי",
-      "english": "אֲבִי"
+      "english": "父"
     },
     {
       "surface": "עיר",
@@ -71,17 +68,17 @@
     },
     {
       "surface": "אלה",
-      "english": "אֵ֖לֶּה"
+      "english": "这些"
     },
     {
       "surface": "אנשי",
-      "english": "אַנְשֵׁ֥י"
+      "english": "男子"
     },
     {
       "surface": "רכה",
       "english": "利加"
     }
   ],
-  "timestamp": "2026-07-18T01:53:40.771339796Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:47.042575240Z",
+  "model": "glm-4.5"
 }

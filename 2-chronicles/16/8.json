@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "2-chronicles 16:8",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 1002,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60386,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61388
-  },
-  "translation": "הכושׁים והלוּבים הָיוּ לְחיל לָרֹב, לְרכֶב וּלְפָרָשׁים לְהַרְבֵּה מְאֹד; וּבְהִשָּׁעֶנְךָ עַל יְהוָה נָתַן אוֹתָם בְּיָדֶךָ?",
+  "translation": "古实人和路比人 ⟨岂不是⟩ 一支庞大的军队,有极多的战车与马兵吗?然而,当你依靠雅威时,⟨他⟩将他们交在你手里。",
   "tokens": [
     {
-      "surface": "הֲ\/לֹ֧א",
-      "english": "岂不"
+      "surface": "הלא",
+      "english": "⟨岂不是⟩"
     },
     {
-      "surface": "הַ\/כּוּשִׁ֣ים",
+      "surface": "הכושים",
       "english": "古实人"
     },
     {
-      "surface": "וְ\/הַ\/לּוּבִ֗ים",
+      "surface": "והלובים",
       "english": "和路比人"
     },
     {
-      "surface": "הָי֨וּ",
+      "surface": "היו",
       "english": "⟨是⟩"
     },
     {
-      "surface": "לְ\/חַ֧יִל",
-      "english": "为大军"
+      "surface": "לחיל",
+      "english": "一支军队"
     },
     {
-      "surface": "לָ\/רֹ֛ב",
-      "english": "极多"
+      "surface": "לרב",
+      "english": "庞大的"
     },
     {
-      "surface": "לְ\/רֶ֥כֶב",
-      "english": "为战车"
+      "surface": "לרכב",
+      "english": "有战车"
     },
     {
-      "surface": "וּ\/לְ\/פָרָשִׁ֖ים",
-      "english": "和骑兵"
+      "surface": "ולפרשים",
+      "english": "与马兵"
     },
     {
-      "surface": "לְ\/הַרְבֵּ֣ה",
+      "surface": "להרבה",
+      "english": "极多的"
+    },
+    {
+      "surface": "מאד",
       "english": "极"
     },
     {
-      "surface": "מְאֹ֑ד",
-      "english": "多"
+      "surface": "ובהשענך",
+      "english": "当你依靠时"
     },
     {
-      "surface": "וּ\/בְ\/הִשָּֽׁעֶנְ\/ךָ֥",
-      "english": "因你依靠"
+      "surface": "על",
+      "english": "依靠"
     },
     {
-      "surface": "עַל",
-      "english": "在……上"
-    },
-    {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "נְתָנָ֥\/ם",
-      "english": "⟨他⟩交付了⟨他们⟩"
+      "surface": "נתנם",
+      "english": "将他们交"
     },
     {
-      "surface": "בְּ\/יָדֶֽ\/ךָ",
-      "english": "入你手中"
+      "surface": "בידך",
+      "english": "在你手里"
     }
   ],
-  "timestamp": "2026-07-18T02:22:56.806853890Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:32.514980667Z",
+  "model": "glm-4.5"
 }

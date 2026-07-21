@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "1-chronicles 6:20",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58618,
+    "completion_tokens": 213,
+    "prompt_tokens": 58716,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59139
+    "total_tokens": 58929
   },
-  "translation": "⟨וְאֶת⟩ תְּשׁוּעָתוֹ יָגִיד: עַל־כָּל־הָאָרֶץ מִדְבַּרְתּוֹ יָדַעְתִּי שֶׁאֵין כָּמוֹנִי: וְכִי־אַתָּה יָדַעְתָּ כָּל־חַיַּי וּמִנְחָתִי רָאִיתָ: הֲשִׁיבֵנִי נָא אֵלֶיךָ וְאָשׁוּבָה",
+  "translation": "本 绪、本 以利加拿、本 玛哈、本 亚玛赛",
   "tokens": [
     {
       "surface": "בן",
-      "english": "子"
+      "english": "本"
     },
     {
       "surface": "ציף",
-      "english": "措弗"
+      "english": "绪"
     },
     {
       "surface": "בן",
-      "english": "子"
+      "english": "本"
     },
     {
       "surface": "אלקנה",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "בן",
-      "english": "子"
+      "english": "本"
     },
     {
       "surface": "מחת",
@@ -44,13 +41,13 @@
     },
     {
       "surface": "בן",
-      "english": "子"
+      "english": "本"
     },
     {
       "surface": "עמשי",
       "english": "亚玛赛"
     }
   ],
-  "timestamp": "2026-07-18T01:55:36.607822724Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:13.979128191Z",
+  "model": "glm-4.5"
 }

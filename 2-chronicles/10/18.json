@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "2-chronicles 10:18",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 10,
   "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61065,
+    "completion_tokens": 817,
+    "prompt_tokens": 61177,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61811
+    "total_tokens": 61994
   },
-  "translation": "המלך רחבעם שלח את ⟨את⟩ הדורם, אשר על המס; ובני ישראל רגמו אותו באבן וימת. והמלך רחבעם התאמץ לעלות במרכבה לנוס ירושלם.",
+  "translation": "王罗波安派遣 ⟨את⟩ 哈多兰,即主管 ⟨是⟩ 贡役的;以色列众子就用石头打他,他就死了。王罗波安急忙上车,逃往耶路撒冷。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "然后……派遣了"
+      "english": "派遣"
     },
     {
       "surface": "המלך",
@@ -33,7 +30,7 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הדרם (哈多兰)"
+      "marks": "哈多兰"
     },
     {
       "surface": "הדרם",
@@ -41,19 +38,19 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "即"
     },
     {
       "surface": "על",
-      "english": "掌管"
+      "english": "主管"
     },
     {
       "surface": "המס",
-      "english": "徭役的"
+      "english": "贡役"
     },
     {
       "surface": "וירגמו",
-      "english": "以色列众子就用石头打他"
+      "english": "用石头打"
     },
     {
       "surface": "בו",
@@ -61,7 +58,7 @@
     },
     {
       "surface": "בני",
-      "english": "……的众子"
+      "english": "众子"
     },
     {
       "surface": "ישראל",
@@ -77,7 +74,7 @@
     },
     {
       "surface": "והמלך",
-      "english": "于是王"
+      "english": "王"
     },
     {
       "surface": "רחבעם",
@@ -85,15 +82,15 @@
     },
     {
       "surface": "התאמץ",
-      "english": "奋力"
+      "english": "急忙"
     },
     {
       "surface": "לעלות",
-      "english": "登上"
+      "english": "上车"
     },
     {
       "surface": "במרכבה",
-      "english": "战车"
+      "english": ""
     },
     {
       "surface": "לנוס",
@@ -104,6 +101,6 @@
       "english": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:19:44.749462313Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:32.822484762Z",
+  "model": "glm-4.5"
 }

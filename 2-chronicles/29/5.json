@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "2-chronicles 29:5",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 745,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60707,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61452
-  },
-  "translation": "וַ\/יֹּאמֶר לָ\/הֶם שְׁמָע֣וּ\/נִי הַ\/לְוִיִּם עַתָּ֣ה הִֽתְקַדְּשׁ֗וּ וְ\/קַדְּשׁוּ֙ אֶת בֵּ֤ית יְהוָה֙ אֱלֹהֵ֣י אֲבֹתֵי\/כֶ֔ם וְ\/הוֹצִ֥יאוּ אֶת הַ\/נִּדָּ֖ה מִן הַ\/קֹּֽדֶשׁ",
+  "translation": "他对他们说:利未人啊,要听从我,现在你们要自洁,也要洁净 ⟨את⟩ 雅威你们祖宗以罗欣的殿,并且把 ⟨את⟩ 污秽之物从圣所里搬出去",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "他对他们说"
     },
     {
       "surface": "להם",
@@ -28,11 +17,11 @@
     },
     {
       "surface": "שמעוני",
-      "english": "听我"
+      "english": "要听从我"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "english": "利未人啊"
     },
     {
       "surface": "עתה",
@@ -44,12 +33,12 @@
     },
     {
       "surface": "וקדשו",
-      "english": "并要洁净"
+      "english": "也要洁净"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "雅威的殿"
+      "marks": "雅威你们祖宗以罗欣的殿"
     },
     {
       "surface": "בית",
@@ -65,11 +54,11 @@
     },
     {
       "surface": "אבתיכם",
-      "english": "你们列祖的"
+      "english": "你们祖宗"
     },
     {
       "surface": "והוציאו",
-      "english": "并要带出"
+      "english": "并且把...搬出去"
     },
     {
       "surface": "את",
@@ -82,13 +71,13 @@
     },
     {
       "surface": "מן",
-      "english": "从"
+      "english": "从...里"
     },
     {
       "surface": "הקדש",
       "english": "圣所"
     }
   ],
-  "timestamp": "2026-07-18T02:31:13.683228650Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:33.063624193Z",
+  "model": "glm-4.5"
 }

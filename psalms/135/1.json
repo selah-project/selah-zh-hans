@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "psalms 135:1",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 135,
   "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64708,
+    "completion_tokens": 355,
+    "prompt_tokens": 64782,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65104
+    "total_tokens": 65137
   },
-  "translation": "הללוּ־יָהּ！הללוּ את שם־雅威；הללוּ 呀，雅威的仆人们，",
+  "translation": "你们要赞美雅,你们要赞美⟨את⟩雅威的名,雅威的仆人们啊,你们要赞美雅威",
   "tokens": [
     {
       "surface": "הללו",
@@ -49,13 +46,13 @@
     },
     {
       "surface": "עבדי",
-      "english": "……的仆人们"
+      "english": "仆人们啊"
     },
     {
       "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T00:27:56.787680188Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:46.866470033Z",
+  "model": "glm-4.5"
 }

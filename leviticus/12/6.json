@@ -1,38 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "leviticus 12:6",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20354,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 21105
-  },
-  "translation": " וּ\/בִ\/מְלֹאת יְמֵי טָהֳרָהּ לְ\/בֵן אוֹ לְ\/בַת תָּבִיא כֶּבֶשׂ בֶּן\/שָׁנָת\/וֹ לְ\/עֹלָה וּ\/בֶן\/יוֹנָה אוֹ תֹּר לְ\/חַטָּאת אֶל פֶּתַח אֹהֶל מוֹעֵד אֶל הַ\/כֹּהֵן: ",
+  "translation": "当 ⟨她⟩ 洁净的日子满足,为子或为女,⟨她⟩ 要带 ⟨一只⟩ 绵羊,一岁的,作燔祭,又带 ⟨一只⟩ 斑鸠或雏鸽,作赎罪祭,到会幕的门口,给祭司。",
   "tokens": [
     {
       "surface": "ובמלאת",
-      "english": "当……满了"
+      "english": "当 ⟨她⟩ ... 满足"
     },
     {
       "surface": "ימי",
-      "english": "……的日子"
+      "english": "的日子"
     },
     {
       "surface": "טהרה",
-      "english": "她的洁净"
+      "english": "洁净"
     },
     {
       "surface": "לבן",
-      "english": "无论是为男孩"
+      "english": "为子"
     },
     {
       "surface": "או",
@@ -40,23 +29,23 @@
     },
     {
       "surface": "לבת",
-      "english": "为女孩"
+      "english": "为女"
     },
     {
       "surface": "תביא",
-      "english": "她要带来"
+      "english": "带"
     },
     {
       "surface": "כבש",
-      "english": "一只羔羊"
+      "english": "绵羊"
     },
     {
       "surface": "בן",
-      "english": "……的崽"
+      "english": "一岁的"
     },
     {
       "surface": "שנתו",
-      "english": "一岁"
+      "english": ""
     },
     {
       "surface": "לעלה",
@@ -64,11 +53,11 @@
     },
     {
       "surface": "ובן",
-      "english": "以及一只雏"
+      "english": "又带 ⟨一只⟩"
     },
     {
       "surface": "יונה",
-      "english": "鸽子"
+      "english": "斑鸠"
     },
     {
       "surface": "או",
@@ -76,7 +65,7 @@
     },
     {
       "surface": "תר",
-      "english": "斑鸠"
+      "english": "雏鸽"
     },
     {
       "surface": "לחטאת",
@@ -88,25 +77,25 @@
     },
     {
       "surface": "פתח",
-      "english": "入口"
+      "english": "门口"
     },
     {
       "surface": "אהל",
-      "english": "帐幕"
-    },
-    {
-      "surface": "מועד",
       "english": "会幕"
     },
     {
+      "surface": "מועד",
+      "english": ""
+    },
+    {
       "surface": "אל",
-      "english": "到"
+      "english": "给"
     },
     {
       "surface": "הכהן",
-      "english": "那祭司"
+      "english": "祭司"
     }
   ],
-  "timestamp": "2026-07-17T18:47:28.725299320Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:20.869663587Z",
+  "model": "glm-4.5"
 }

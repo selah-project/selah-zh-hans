@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 24,
   "ref": "nehemiah 12:24",
   "book": "nehemiah",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 813,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 52260,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 53073
-  },
-  "translation": "וְ\/רָאשֵׁ֣י הַ\/לְוִיִּם חֲשַׁבְיָה שֵׁרֵבְיָה וְ\/יֵשׁ֤וּעַ בֶּן קַדְמִיאֵל וְ\/אַחֵיהֶם לְ\/נֶגְדָּם לְ\/הַלֵּל לְ\/הוֹדוֹת בְּ\/מִצְוַת דָּוִיד אִישׁ הָ\/אֱלֹהִים מִשְׁמָר לְ\/עֻמַּת מִשְׁמָר׃",
+  "translation": "利未人的首领是哈沙比雅、示利比雅和甲篾的儿子耶书亚,以及他们的弟兄们相对而立,为了赞美,为了称谢,照神人大卫的吩咐,班次相对班次。",
   "tokens": [
     {
       "surface": "וראשי",
-      "english": "利未人的领袖有"
+      "english": "首领是"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "english": "利未人的"
     },
     {
       "surface": "חשביה",
@@ -36,11 +25,11 @@
     },
     {
       "surface": "וישוע",
-      "english": "和耶书亚"
+      "english": "和"
     },
     {
       "surface": "בן",
-      "english": "本"
+      "english": "儿子"
     },
     {
       "surface": "קדמיאל",
@@ -48,23 +37,23 @@
     },
     {
       "surface": "ואחיהם",
-      "english": "和他们的弟兄"
+      "english": "以及他们的弟兄们"
     },
     {
       "surface": "לנגדם",
-      "english": "在他们对面"
+      "english": "相对而立"
     },
     {
       "surface": "להלל",
-      "english": "要赞美"
+      "english": "为了赞美"
     },
     {
       "surface": "להודות",
-      "english": "要称谢"
+      "english": "为了称谢"
     },
     {
       "surface": "במצות",
-      "english": "按……的命令"
+      "english": "照...的吩咐"
     },
     {
       "surface": "דויד",
@@ -72,7 +61,7 @@
     },
     {
       "surface": "איש",
-      "english": "仆人"
+      "english": "人"
     },
     {
       "surface": "האלהים",
@@ -84,13 +73,13 @@
     },
     {
       "surface": "לעמת",
-      "english": "对着"
+      "english": "相对"
     },
     {
       "surface": "משמר",
       "english": "班次"
     }
   ],
-  "timestamp": "2026-07-18T01:49:58.575955215Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:08.915788601Z",
+  "model": "glm-4.5"
 }

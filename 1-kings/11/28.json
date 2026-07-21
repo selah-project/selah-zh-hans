@@ -1,98 +1,87 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "1-kings 11:28",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 1431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65062,
-    "prompt_tokens_details": {
-      "cached_tokens": 65024
-    },
-    "total_tokens": 66493
-  },
-  "translation": "וְ\/הָ\/הָאִישׁ 耶罗波安 גִּבּוֹר חַיִל; וַ\/יַּרְא 所罗门 אֶת־הַ\/נַּעַר כִּי־עֹשֶׂה מְלָאכָה הוּא, וַ\/יַּפְקֵד אֹתוֹ לְ\/כָל־סֵבֶל בֵּית 约瑟׃",
+  "translation": "这人耶罗波安是大有能力的勇士;所罗门看见这少年人——因为他 ⟨是⟩ 勤勉的,就派他管理约瑟家的一切重担。",
   "tokens": [
     {
-      "surface": "וְ\/הָ\/אִ֥ישׁ",
-      "english": "וְ\/הָ\/הָאִישׁ"
+      "surface": "והאיש",
+      "english": "这人"
     },
     {
-      "surface": "יָרָבְעָ֖ם",
+      "surface": "ירבעם",
       "english": "耶罗波安"
     },
     {
-      "surface": "גִּבּ֣וֹר",
-      "english": "גִּבּוֹר"
+      "surface": "גבור",
+      "english": "大有能力的"
     },
     {
-      "surface": "חָ֑יִל",
-      "english": "חַיִל"
+      "surface": "חיל",
+      "english": "勇士"
     },
     {
-      "surface": "וַ\/יַּ֨רְא",
-      "english": "וַ\/יַּרְא"
+      "surface": "וירא",
+      "english": "所罗门看见"
     },
     {
-      "surface": "שְׁלֹמֹ֜ה",
+      "surface": "שלמה",
       "english": "所罗门"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הַ\/נַּעַר (הַ\/נַּעַר)"
+      "marks": "这少年人"
     },
     {
-      "surface": "הַ\/נַּ֗עַר",
-      "english": "הַ\/נַּעַר"
+      "surface": "הנער",
+      "english": "这少年人"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כִּי־"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "עֹשֵׂ֤ה",
-      "english": "עֹשֶׂה"
+      "surface": "עשה",
+      "english": "是勤勉的"
     },
     {
-      "surface": "מְלָאכָה֙",
-      "english": "מְלָאכָה"
+      "surface": "מלאכה",
+      "english": ""
     },
     {
-      "surface": "ה֔וּא",
-      "english": "הוּא"
+      "surface": "הוא",
+      "english": "他"
     },
     {
-      "surface": "וַ\/יַּפְקֵ֣ד",
-      "english": "וַ\/יַּפְקֵד"
+      "surface": "ויפקד",
+      "english": "就派他管理"
     },
     {
-      "surface": "אֹת֔\/וֹ",
-      "english": "אֹתוֹ (אֹתוֹ)",
-      "marks": "לְ\/כָל (לְ\/כָל־סֵבֶל)"
+      "surface": "אתו",
+      "english": "⟨את⟩",
+      "marks": "约瑟家的一切重担"
     },
     {
-      "surface": "לְ\/כָל",
-      "english": "לְ\/כָל־"
+      "surface": "לכל",
+      "english": "一切"
     },
     {
-      "surface": "סֵ֖בֶל",
-      "english": "סֵבֶל"
+      "surface": "סבל",
+      "english": "重担"
     },
     {
-      "surface": "בֵּ֥ית",
-      "english": "בֵּית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "יוֹסֵֽף",
+      "surface": "יוסף",
       "english": "约瑟"
     }
   ],
-  "timestamp": "2026-07-18T02:53:10.995086629Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:30.214438967Z",
+  "model": "glm-4.5"
 }

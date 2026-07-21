@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "exodus 23:29",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 23,
   "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18917,
+    "completion_tokens": 421,
+    "prompt_tokens": 18916,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19439
+    "total_tokens": 19337
   },
-  "translation": "לא אֲגָרְשֵׁם מִ\/פָּנֶי\/ךָ בְּ\/שָׁנָה אֶחָת, פֶּן תִּהְיֶה הָ\/אָרֶץ שְׁמָמָה, וְ\/רַבָּה עָלֶי\/ךָ חַיַּת הַ\/שָּׂדֶה.",
+  "translation": "我不⟨会⟩在一年内将他们从你面前赶出，免得地土荒凉，田野的兽⟨就⟩多起来对抗你。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "english": "我不"
     },
     {
       "surface": "אגרשנו",
-      "english": "我必不把他们驱逐"
+      "english": "将他们赶出"
     },
     {
       "surface": "מפניך",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "בשנה",
-      "english": "在一年之内"
+      "english": "在一年内"
     },
     {
       "surface": "אחת",
@@ -44,33 +41,33 @@
     },
     {
       "surface": "תהיה",
-      "english": "⟨变为⟩"
+      "english": "地土...成为"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "english": "地土"
     },
     {
-      "surface": "שממ",
+      "surface": "שממה",
       "english": "荒凉"
     },
     {
       "surface": "ורבה",
-      "english": "增多"
+      "english": "多起来"
     },
     {
       "surface": "עליך",
-      "english": "攻击你"
+      "english": "对抗你"
     },
     {
       "surface": "חית",
-      "english": "野兽"
+      "english": "兽"
     },
     {
       "surface": "השדה",
       "english": "田野的"
     }
   ],
-  "timestamp": "2026-07-17T18:25:57.674821660Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:02.119798800Z",
+  "model": "glm-4.5"
 }

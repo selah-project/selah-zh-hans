@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "nehemiah 11:11",
   "book": "nehemiah",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51852,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 52524
-  },
-  "translation": "שְׂרָיָה בֶן־חִלְקִיָּה בֶן־מְשֻׁלָּם בֶן־צָדוֹק בֶן־מְרָיוֹת בֶן־אֲחִיטוּב,נְגִיד בֵּית הָ\/אֱלֹהִים ——西莱雅,本-希勒家,本-米书兰,本-撒督,本-米拉约,本-亚希突,בֵּית הָ\/אֱלֹהִים (以罗欣的家) 的领袖。",
+  "translation": "西莱雅 ⟨是⟩ 希勒家 ⟨的⟩ ⟨儿子⟩, ⟨是⟩ 米书兰 ⟨的⟩ ⟨儿子⟩, ⟨是⟩ 撒督 ⟨的⟩ ⟨儿子⟩, ⟨是⟩ 米拉约特 ⟨的⟩ ⟨儿子⟩, ⟨是⟩ 亚希突 ⟨的⟩ ⟨儿子⟩, ⟨为⟩ 以罗欣 ⟨的⟩ ⟨殿⟩ ⟨的⟩ 领袖",
   "tokens": [
     {
       "surface": "שריה",
@@ -24,7 +13,7 @@
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "english": "⟨是⟩...⟨的⟩ ⟨儿子⟩"
     },
     {
       "surface": "חלקיה",
@@ -32,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "english": "⟨是⟩...⟨的⟩ ⟨儿子⟩"
     },
     {
       "surface": "משלם",
@@ -40,7 +29,7 @@
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "english": "⟨是⟩...⟨的⟩ ⟨儿子⟩"
     },
     {
       "surface": "צדוק",
@@ -48,15 +37,15 @@
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "english": "⟨是⟩...⟨的⟩ ⟨儿子⟩"
     },
     {
       "surface": "מריות",
-      "english": "米拉约"
+      "english": "米拉约特"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "english": "⟨是⟩...⟨的⟩ ⟨儿子⟩"
     },
     {
       "surface": "אחיטוב",
@@ -64,17 +53,17 @@
     },
     {
       "surface": "נגד",
-      "english": "领袖"
+      "english": "⟨为⟩...⟨的⟩ 领袖"
     },
     {
       "surface": "בית",
-      "english": "……的家"
+      "english": "以罗欣 ⟨的⟩ ⟨殿⟩"
     },
     {
       "surface": "האלהים",
       "english": "以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T01:49:01.567302338Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:05.987370596Z",
+  "model": "glm-4.5"
 }

@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "2-chronicles 36:2",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 36,
   "usage": {
-    "completion_tokens": 669,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59872,
+    "completion_tokens": 394,
+    "prompt_tokens": 59939,
     "prompt_tokens_details": {
-      "cached_tokens": 58496
+      "cached_tokens": 54016
     },
-    "total_tokens": 60541
+    "total_tokens": 60333
   },
-  "translation": "בֶּן־שָׁלוֹשׁ וְ\/עֶשְׂרִים שָׁנָה יוֹאָחָז בְּ\/מָלְכ֑\/וֹ וּ\/שְׁלֹשָׁה חֳדָשִׁים מָלַךְ בִּ\/ירוּשָׁלִָֽם׃",
+  "translation": "约哈斯登基时年二十三岁,在耶路撒冷作王三个月。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "בֶּן (儿子)"
+      "english": "子 \/ 年"
     },
     {
       "surface": "שלוש",
-      "english": "שָׁלוֹשׁ (三)"
+      "english": "二十"
     },
     {
       "surface": "ועשרים",
-      "english": "וְ\/עֶשְׂרִים (和二十)"
+      "english": "三"
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה (岁)"
+      "english": "岁"
     },
     {
       "surface": "יואחז",
-      "english": "约阿哈斯"
+      "english": "约哈斯"
     },
     {
       "surface": "במלכו",
-      "english": "בְּ\/מָלְכוֹ (他作王时)"
+      "english": "登基时 \/ 开始作王"
     },
     {
       "surface": "ושלשה",
-      "english": "וּ\/שְׁלֹשָׁה (三个月)"
+      "english": "三"
     },
     {
       "surface": "חדשים",
-      "english": "חֳדָשִׁים (月)"
+      "english": "个月"
     },
     {
       "surface": "מלך",
-      "english": "מָלַךְ (作王)"
+      "english": "作王 \/ 统治"
     },
     {
       "surface": "בירושלם",
       "english": "在耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:36:42.967175702Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:53.661820453Z",
+  "model": "glm-4.5"
 }

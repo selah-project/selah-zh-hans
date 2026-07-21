@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "1-chronicles 2:31",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58780,
+    "completion_tokens": 310,
+    "prompt_tokens": 58877,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59236
+    "total_tokens": 59187
   },
-  "translation": "亚品的子孙 伊示；וּ\/בְנֵי יִשְׁעִי的子孙 示珊；וּ\/בְנֵי שֵׁשָׁן的子孙 阿赫莱。",
+  "translation": "亚品的儿子 ⟨是⟩ 伊示;伊示的儿子 ⟨是⟩ 示珊;示珊的儿子 ⟨是⟩ 阿赫莱。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "וּ\/בְנֵי的子孙"
+      "english": "亚品的儿子"
     },
     {
       "surface": "אפים",
@@ -28,33 +25,33 @@
     },
     {
       "surface": "ישעי",
-      "english": "伊示"
+      "english": "伊示;伊示的儿子"
     },
     {
       "surface": "ובני",
-      "english": "וּ\/בְנֵי יִשְׁעִי的子孙"
+      "english": "伊示的儿子"
     },
     {
       "surface": "ישעי",
-      "english": "伊示"
+      "english": "伊示;伊示的儿子"
     },
     {
       "surface": "ששן",
-      "english": "示珊"
+      "english": "示珊;示珊的儿子"
     },
     {
       "surface": "ובני",
-      "english": "וּ\/בְנֵי שֵׁשָׁן的子孙"
+      "english": "示珊的儿子"
     },
     {
       "surface": "ששן",
-      "english": "示珊"
+      "english": "示珊;示珊的儿子"
     },
     {
       "surface": "אחלי",
       "english": "阿赫莱"
     }
   ],
-  "timestamp": "2026-07-18T01:52:21.288819694Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:21.725994101Z",
+  "model": "glm-4.5"
 }

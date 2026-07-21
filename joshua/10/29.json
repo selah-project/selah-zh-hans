@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "joshua 10:29",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18187,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18736
-  },
-  "translation": "约书亚过去, וְ\/כָֽל 全以色列 עִמּ֛\/וֹ 从 מַקֵּדָ֖ה 到 לִבְנָ֑ה,וַ\/יִּלָּ֖חֶם עִם לִבְנָֽה.",
+  "translation": "约书亚 和 ⟨凡⟩ 以色列 同他 从玛基大 往立拿 去,与 立拿 争战",
   "tokens": [
     {
-      "surface": "וַיַּעֲבֹ֣ר",
-      "english": "过去"
+      "surface": "ויעבר",
+      "english": "约书亚 ... 去"
     },
     {
-      "surface": "יְהוֹשֻׁעַ",
+      "surface": "יהושע",
       "english": "约书亚"
     },
     {
-      "surface": "וְכָֽל",
-      "english": "和全部"
+      "surface": "וכל",
+      "english": "和 ⟨凡⟩"
     },
     {
-      "surface": "יִשְׂרָאֵ֥ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "עִמּ֛\/וֹ",
-      "english": "与他一起"
+      "surface": "עמו",
+      "english": "同他"
     },
     {
-      "surface": "מִמַּקֵּדָ֖ה",
+      "surface": "ממקדה",
       "english": "从玛基大"
     },
     {
-      "surface": "לִבְנָ֑ה",
-      "english": "到立拿"
+      "surface": "לבנה",
+      "english": "往立拿"
     },
     {
-      "surface": "וַיִּלָּ֖חֶם",
-      "english": "就攻打"
+      "surface": "וילחם",
+      "english": "与 ... 争战"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "english": "与"
     },
     {
-      "surface": "לִבְנָֽה",
+      "surface": "לבנה",
       "english": "立拿"
     }
   ],
-  "timestamp": "2026-07-18T02:47:23.836270891Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:38.095532280Z",
+  "model": "glm-4.5"
 }

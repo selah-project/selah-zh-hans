@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "ezekiel 21:16",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 789,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19581,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20370
-  },
-  "translation": "וַ\/וַיִּתֵּן ⟨את⟩ לְמָרְטָה לִתְפֹּשׂ בַּכָּף; הִיא הוּחַדָּה חֶרֶב וְ\/הִיא מֹרָטָה לָתֵת ⟨את⟩ בְּיַד הוֹרֵג׃",
+  "translation": "把它交给磨光者为 ⟨是⟩ 在手掌中 ⟨被⟩ 把它抛光；它是 ⟨一把⟩ 锋利的剑，并且 ⟨是⟩ 磨光的，把它 ⟨את⟩ 给在杀戮者 ⟨的⟩ 手中。",
   "tokens": [
     {
-      "surface": "וַ\/יִּתֵּן",
-      "english": "他交出"
+      "surface": "ויתן",
+      "english": "把它交给"
     },
     {
-      "surface": "אֹתָ֛\/הּ",
+      "surface": "אתה",
       "english": "⟨את⟩",
-      "marks": "לְמָרְטָה (擦亮)"
+      "marks": "磨光者"
     },
     {
-      "surface": "לְ\/מָרְטָ֖ה",
-      "english": "被擦亮"
+      "surface": "למרטה",
+      "english": "为磨光者"
     },
     {
-      "surface": "לִ\/תְפֹּ֣שׂ",
-      "english": "为要紧握"
-    },
-    {
-      "surface": "בַּ\/כָּ֑ף",
+      "surface": "לתפש",
       "english": "在手掌中"
     },
     {
-      "surface": "הִֽיא",
-      "english": "它"
+      "surface": "בכף",
+      "english": "手掌"
     },
     {
-      "surface": "הוּחַ֤דָּה",
-      "english": "被磨快"
+      "surface": "היא",
+      "english": "它是"
     },
     {
-      "surface": "חֶ֨רֶב֙",
-      "english": "刀剑"
+      "surface": "הוחדה",
+      "english": "被把它抛光"
     },
     {
-      "surface": "וְ\/הִ֣יא",
-      "english": "而它"
+      "surface": "חרב",
+      "english": "锋利的剑"
     },
     {
-      "surface": "מֹרָ֔טָּה",
-      "english": "被擦亮"
+      "surface": "והיא",
+      "english": "并且是"
     },
     {
-      "surface": "לָ\/תֵ֥ת",
-      "english": "为要交"
+      "surface": "מרטה",
+      "english": "磨光的"
     },
     {
-      "surface": "אוֹתָ֖\/הּ",
+      "surface": "לתת",
+      "english": "把"
+    },
+    {
+      "surface": "אותה",
       "english": "⟨את⟩",
-      "marks": "בְּיַד (在……手中)"
+      "marks": "它"
     },
     {
-      "surface": "בְּ\/יַד",
-      "english": "在手中"
+      "surface": "ביד",
+      "english": "在...手中"
     },
     {
-      "surface": "הוֹרֵֽג",
+      "surface": "הורג",
       "english": "杀戮者"
     }
   ],
-  "timestamp": "2026-07-17T22:52:25.345305422Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:45.170169258Z",
+  "model": "glm-4.5"
 }

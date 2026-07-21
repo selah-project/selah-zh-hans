@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "psalms 86:5",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 86,
   "usage": {
-    "completion_tokens": 682,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64624,
+    "completion_tokens": 477,
+    "prompt_tokens": 64623,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65306
+    "total_tokens": 65100
   },
-  "translation": "因为כִּֽי אַתָּ֣ה אֲדֹנָ\/י ט֣וֹב וְ\/סַלָּ֑ח וְ\/רַב חֶ֝֗סֶד לְ\/כָל קֹרְאֶֽי\/ךָ אַתָּ֣ה אֲדֹנָי טוֹב וְסַלָּח וְרַב חֶסֶד לְכָל קֹרְאֶיךָ׃",
+  "translation": "因为 你, 雅威, 是 善良 的 和 宽恕 的, 且 拥有 极大的 *chesed* 给 所有 呼求 ⟨你⟩ 的 ⟨人⟩。",
   "tokens": [
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "אַתָּ֣ה",
+      "surface": "אתה",
       "english": "你"
     },
     {
-      "surface": "אֲדֹנָ\/י",
-      "english": "阿多奈"
+      "surface": "אדני",
+      "english": "雅威"
     },
     {
-      "surface": "ט֣וֹב",
-      "english": "是善的"
+      "surface": "טוב",
+      "english": "是 善良 的"
     },
     {
-      "surface": "וְ\/סַלָּ֑ח",
-      "english": "且宽恕"
+      "surface": "וסלח",
+      "english": "和 宽恕 的"
     },
     {
-      "surface": "וְ\/רַב",
-      "english": "且丰盛"
+      "surface": "ורב",
+      "english": "且 拥有 极大的"
     },
     {
-      "surface": "חֶ֝֗סֶד",
-      "english": "חסד"
+      "surface": "חסד",
+      "english": "*chesed*"
     },
     {
-      "surface": "לְ\/כָל",
-      "english": "对一切"
+      "surface": "לכל",
+      "english": "给 所有"
     },
     {
-      "surface": "קֹרְאֶֽי\/ךָ",
-      "english": "呼求你的人"
+      "surface": "קראיך",
+      "english": "呼求 ⟨你⟩ 的 ⟨人⟩"
     }
   ],
-  "timestamp": "2026-07-18T00:09:58.817415459Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:17.973696139Z",
+  "model": "glm-4.5"
 }

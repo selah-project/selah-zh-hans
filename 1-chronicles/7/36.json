@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 36,
   "ref": "1-chronicles 7:36",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58573,
+    "completion_tokens": 372,
+    "prompt_tokens": 58646,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58866
+    "total_tokens": 59018
   },
-  "translation": "措帕赫的子孙：苏阿、חַרְנֶפֶר、שׁוּעָל、בֵרִי וְ\/יִמְרָֽה",
+  "translation": "措帕 ⟨的⟩ 众子：苏阿，和哈尔尼弗，和书亚，和比利，和伊米拉",
   "tokens": [
     {
       "surface": "בני",
-      "english": "子孙"
+      "english": "措帕 ⟨的⟩ 众子"
     },
     {
       "surface": "צופח",
-      "english": "措帕赫"
+      "english": "措帕"
     },
     {
       "surface": "סוח",
@@ -32,21 +29,21 @@
     },
     {
       "surface": "וחרנפר",
-      "english": "和哈珥纳弗"
+      "english": "和哈尔尼弗"
     },
     {
       "surface": "ושועל",
-      "english": "和书阿勒"
+      "english": "和书亚"
     },
     {
       "surface": "וברי",
-      "english": "和贝里"
+      "english": "和比利"
     },
     {
       "surface": "וימרה",
-      "english": "和伊姆拉"
+      "english": "和伊米拉"
     }
   ],
-  "timestamp": "2026-07-18T01:57:26.335391610Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:59.719882164Z",
+  "model": "glm-4.5"
 }

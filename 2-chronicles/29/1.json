@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-chronicles 29:1",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 713,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60458,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61171
-  },
-  "translation": "חִזְקִיָּהוּ יחזקיהו 登基，⟨他⟩בֶּן עֶשְׂרִים וְחָמֵשׁ שָׁנָה，וְעֶשְׂרִים וָתֵשַׁע שָׁנָה מָלַךְ בִּ\/ירוּשָׁלָ͏ם，וְ\/שֵׁם אִמּ\/וֹ אֲבִיָּה בַּת זְכַרְיָהוּ。",
+  "translation": "希西家 作王 ⟨时⟩ 年 二十五 岁, 在耶路撒冷 作王 二十九 年; 他 母亲 的 名 是 亚比雅, 撒迦利亚 的 ⟨女儿⟩。",
   "tokens": [
     {
       "surface": "יחזקיהו",
@@ -24,19 +13,19 @@
     },
     {
       "surface": "מלך",
-      "english": "登基"
+      "english": "作王"
     },
     {
       "surface": "בן",
-      "english": "בֶּן (……之子)"
+      "english": "⟨时⟩"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "english": "年"
     },
     {
       "surface": "וחמש",
-      "english": "וחמש (及五)"
+      "english": "二十五"
     },
     {
       "surface": "שנה",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "ועשרים",
-      "english": "ועשרים (及二十)"
+      "english": ""
     },
     {
       "surface": "ותשע",
-      "english": "ותשע (及九)"
+      "english": "二十九"
     },
     {
       "surface": "שנה",
@@ -64,25 +53,25 @@
     },
     {
       "surface": "ושם",
-      "english": "ושם (其名)"
+      "english": "; 他"
     },
     {
       "surface": "אמו",
-      "english": "他母亲"
+      "english": "母亲"
     },
     {
       "surface": "אביה",
-      "english": "阿比雅"
+      "english": "的 名 是 亚比雅"
     },
     {
       "surface": "בת",
-      "english": "בַּת (女儿)"
+      "english": ", 撒迦利亚 的 ⟨女儿⟩"
     },
     {
       "surface": "זכריהו",
-      "english": "זְכַרְיָהוּ (撒迦利雅)的女儿"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:30:57.274172501Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:38.578338451Z",
+  "model": "glm-4.5"
 }

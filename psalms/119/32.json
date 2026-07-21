@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 32,
   "ref": "psalms 119:32",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 119,
   "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64324,
+    "completion_tokens": 336,
+    "prompt_tokens": 64323,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 49152
     },
-    "total_tokens": 64695
+    "total_tokens": 64659
   },
-  "translation": "דֶּֽרֶךְ מִצְוֺתֶ֥י\/ךָ אָר֑וּץ כִּ֖י תַרְחִ֣יב לִבִּֽ\/י",
+  "translation": "I will run ⟨in⟩ the way of Your commandments, for You will enlarge my heart.",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "道路"
+      "english": "the way"
     },
     {
       "surface": "מצותיך",
-      "english": "你的诫命"
+      "english": "of Your commandments"
     },
     {
       "surface": "ארוץ",
-      "english": "我奔跑"
+      "english": "I will run"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "english": "for"
     },
     {
       "surface": "תרחיב",
-      "english": "你拓宽"
+      "english": "You will enlarge"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "english": "my heart"
     }
   ],
-  "timestamp": "2026-07-18T00:22:21.933115134Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:28.738717717Z",
+  "model": "glm-4.5"
 }

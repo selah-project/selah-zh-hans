@@ -1,132 +1,123 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "2-chronicles 13:9",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 1445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61688,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 63133
-  },
-  "translation": "הֲלֹ֤א אַתֶּם הִדַּחְתֶּם אֶת כֹּהֲנֵי 雅威 אֶת בְּנֵי 亚伦 וְאֶת הַלְוִיִּם? וַתַּעֲשׂוּ לָכֶם כֹּהֲנִים כְּעַמֵּי הָאֲרָצוֹת? כָּל הַבָּא לְמַלֵּא יָדוֹ בְּפַר בֶּן בָּקָר וְאֵילִם שִׁבְעָה וְהָיָה כֹּהֵן לְלֹא אֱלֹהִים׃",
+  "translation": "难道你们不是驱逐了雅威的祭司、亚伦的儿子和利未人 ⟨את⟩，并且为自己立了祭司，像那些地的民一样吗？凡来以此献祭 ⟨את⟩ —— 用一头公牛犊、七只公羊 —— 填满自己手的人，都可以作那些非以罗欣的祭司。",
   "tokens": [
     {
-      "surface": "הֲלֹ֤א",
-      "english": "הֲלֹ֤א"
+      "surface": "הלא",
+      "english": "难道...吗"
     },
     {
-      "surface": "הִדַּחְתֶּם֙",
-      "english": "הִדַּחְתֶּם֙"
+      "surface": "הדחתם",
+      "english": "驱逐了"
     },
     {
-      "surface": "אֵת",
-      "english": "אֵת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威的祭司"
     },
     {
-      "surface": "כֹּהֲנֵי",
-      "english": "כֹּהֲנֵי"
+      "surface": "כהני",
+      "english": "祭司"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֵת",
-      "english": "אֵת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "亚伦的儿子"
     },
     {
-      "surface": "בְּנֵי",
-      "english": "בְּנֵי"
+      "surface": "בני",
+      "english": "儿子"
     },
     {
-      "surface": "אַהֲרֹן",
+      "surface": "אהרן",
       "english": "亚伦"
     },
     {
-      "surface": "וְהַלְוִיִּם",
-      "english": "וְהַלְוִיִּם"
+      "surface": "והלוים",
+      "english": "和利未人"
     },
     {
-      "surface": "וַתַּעֲשׂוּ",
-      "english": "וַתַּעֲשׂוּ"
+      "surface": "ותעשו",
+      "english": "并且...立了"
     },
     {
-      "surface": "לָכֶם",
-      "english": "לָכֶם"
+      "surface": "לכם",
+      "english": "为自己"
     },
     {
-      "surface": "כֹּהֲנִים",
-      "english": "כֹּהֲנִים"
+      "surface": "כהנים",
+      "english": "祭司"
     },
     {
-      "surface": "כְּעַמֵּי",
-      "english": "כְּעַמֵּי"
+      "surface": "כעמי",
+      "english": "像...民"
     },
     {
-      "surface": "הָאֲרָצוֹת",
-      "english": "הָאֲרָצוֹת"
+      "surface": "הארצות",
+      "english": "那些地的"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "凡"
     },
     {
-      "surface": "הַבָּא",
-      "english": "הַבָּא"
+      "surface": "הבא",
+      "english": "来"
     },
     {
-      "surface": "לְמַלֵּא",
-      "english": "לְמַלֵּא"
+      "surface": "למלא",
+      "english": "以此献祭...填满"
     },
     {
-      "surface": "יָדוֹ",
-      "english": "יָדוֹ"
+      "surface": "ידו",
+      "english": "自己手"
     },
     {
-      "surface": "בְּפַר",
-      "english": "בְּפַר"
+      "surface": "בפר",
+      "english": "用...公牛犊"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "子"
     },
     {
-      "surface": "בָּקָר",
-      "english": "בָּקָר"
+      "surface": "בקר",
+      "english": "牛"
     },
     {
-      "surface": "וְאֵילִם",
-      "english": "וְאֵילִם"
+      "surface": "ואילם",
+      "english": "和七只公羊"
     },
     {
-      "surface": "שִׁבְעָה",
-      "english": "שִׁבְעָה"
+      "surface": "שבעה",
+      "english": "七"
     },
     {
-      "surface": "וְהָיָה",
-      "english": "וְהָיָה"
+      "surface": "והיה",
+      "english": "都可以作"
     },
     {
-      "surface": "כֹּהֵן",
-      "english": "כֹּהֵן"
+      "surface": "כהן",
+      "english": "祭司"
     },
     {
-      "surface": "לְלֹא",
-      "english": "לְלֹא"
+      "surface": "ללא",
+      "english": "那些非"
     },
     {
-      "surface": "אֱלֹהִים",
-      "english": "אֱלֹהִים"
+      "surface": "אלהים",
+      "english": "以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T02:21:28.374363479Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:17.475624014Z",
+  "model": "glm-4.5"
 }

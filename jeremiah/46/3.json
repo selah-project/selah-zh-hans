@@ -1,30 +1,28 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "jeremiah 46:3",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 46,
   "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18761,
+    "completion_tokens": 388,
+    "prompt_tokens": 18760,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 19129
+    "total_tokens": 19148
   },
-  "translation": "排列 ⟨הַ⟩מָגֵן וְ\/צִנָּה，וּ\/גְשׁוּ לַ\/מִּלְחָמָה。",
+  "translation": "列阵 ⟨את⟩ 圆盾和大盾，并逼近战争。",
   "tokens": [
     {
       "surface": "ערכו",
-      "english": "排列"
+      "english": "列阵"
     },
     {
       "surface": "מגן",
-      "english": "盾"
+      "english": "圆盾",
+      "marks": "圆盾和大盾"
     },
     {
       "surface": "וצנה",
@@ -32,13 +30,13 @@
     },
     {
       "surface": "וגשו",
-      "english": "上前"
+      "english": "并逼近"
     },
     {
       "surface": "למלחמה",
-      "english": "迎向战阵"
+      "english": "战争"
     }
   ],
-  "timestamp": "2026-07-17T22:34:02.477984633Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:04.449860272Z",
+  "model": "glm-4.5"
 }

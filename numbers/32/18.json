@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "numbers 32:18",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19821,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20287
-  },
-  "translation": "לא נשוב אל בתינו עד התנחל בני ישראל איש נחלתו׃",
+  "translation": "我们必不回到我们的家，直到以色列的儿女 ⟨各自⟩ 继承了 ⟨他的⟩ 产业，",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "english": "必不"
     },
     {
       "surface": "נשוב",
-      "english": "我们必归回"
+      "english": "回到"
     },
     {
       "surface": "אל",
-      "english": "至"
+      "english": "到"
     },
     {
       "surface": "בתינו",
-      "english": "我们的房屋"
+      "english": "我们的家"
     },
     {
       "surface": "עד",
-      "english": "直等到"
+      "english": "直到"
     },
     {
       "surface": "התנחל",
-      "english": "……取得产业"
+      "english": "继承了"
     },
     {
       "surface": "בני",
-      "english": "……的子"
+      "english": "儿女"
     },
     {
       "surface": "ישראל",
@@ -52,13 +41,13 @@
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "english": "⟨各自⟩"
     },
     {
       "surface": "נחלתו",
-      "english": "他的产业"
+      "english": "⟨他的⟩ 产业"
     }
   ],
-  "timestamp": "2026-07-20T06:59:57.381193551Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:17.071997066Z",
+  "model": "glm-4.5"
 }

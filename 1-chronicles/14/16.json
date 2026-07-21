@@ -1,73 +1,70 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "1-chronicles 14:16",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 14,
   "usage": {
-    "completion_tokens": 908,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59144,
+    "completion_tokens": 451,
+    "prompt_tokens": 59237,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60052
+    "total_tokens": 59688
   },
-  "translation": "大卫 עָשָׂה כַּ\/אֲשֶׁר צִוָּ\/הוּ הָ\/אֱלֹהִים וַ\/יַּכּוּ אֶת מַחֲנֵה 非利士人 基遍 וְ\/עַד גָּזְרָה",
+  "translation": "大卫行 ⟨the⟩ 以罗欣所吩咐他的事,就击打 ⟨the⟩ 非利士人的营,从基遍 ⟨until⟩ 基色",
   "tokens": [
     {
-      "surface": "וַ\/יַּ֣עַשׂ",
-      "english": "וְדָוִיד עָשָׂה"
+      "surface": "ויעש",
+      "english": "大卫行"
     },
     {
-      "surface": "דָּוִ֔יד",
+      "surface": "דויד",
       "english": "大卫"
     },
     {
-      "surface": "כַּֽ\/אֲשֶׁ֥ר",
-      "english": "כַּ\/אֲשֶׁר"
+      "surface": "כאשר",
+      "english": "⟨the⟩"
     },
     {
-      "surface": "צִוָּ֖\/הוּ",
-      "english": "צִוָּ\/הוּ"
+      "surface": "צוהו",
+      "english": "以罗欣所吩咐他的事"
     },
     {
-      "surface": "הָֽ\/אֱלֹהִ֑ים",
-      "english": "הָ\/אֱלֹהִים"
+      "surface": "האלהים",
+      "english": "以罗欣"
     },
     {
-      "surface": "וַ\/יַּכּוּ֙",
-      "english": "וַ\/יַּכּוּ"
+      "surface": "ויכו",
+      "english": "就击打"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת",
-      "marks": "מַחֲנֵה פְלִשְׁתִּים"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "非利士人的营"
     },
     {
-      "surface": "מַחֲנֵ֣ה",
-      "english": "מַחֲנֵה"
+      "surface": "מחנה",
+      "english": "⟨the⟩ 营"
     },
     {
-      "surface": "פְלִשְׁתִּ֔ים",
+      "surface": "פלשתים",
       "english": "非利士人"
     },
     {
-      "surface": "מִ\/גִּבְע֖וֹן",
-      "english": "基遍"
+      "surface": "מגבעון",
+      "english": "从基遍"
     },
     {
-      "surface": "וְ\/עַד",
-      "english": "וְ\/עַד"
+      "surface": "ועד",
+      "english": "⟨until⟩"
     },
     {
-      "surface": "גָּֽזְרָ\/ה",
+      "surface": "גזרה",
       "english": "基色"
     }
   ],
-  "timestamp": "2026-07-18T02:02:46.902831490Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:19.224665397Z",
+  "model": "glm-4.5"
 }

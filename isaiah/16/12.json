@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "isaiah 16:12",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21128,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21776
-  },
-  "translation": "וְ\/הָיָ֧ה כִֽי נִרְאָ֛ה כִּֽי נִלְאָ֥ה מוֹאָ֖ב עַל הַ\/בָּמָ֑ה וּ\/בָ֧א אֶל מִקְדָּשׁ֛\/וֹ לְ\/הִתְפַּלֵּ֖ל וְ\/לֹ֥א יוּכָֽל",
+  "translation": "事必临到,显明摩押在邱坛上劳乏,他进入他的圣所去祷告,却不能得胜。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "必将如此"
+      "english": "事必临到"
     },
     {
       "surface": "כי",
@@ -28,15 +17,15 @@
     },
     {
       "surface": "נראה",
-      "english": "⟨被⟩看见"
+      "english": "显明"
     },
     {
       "surface": "כי",
-      "english": "⟨即⟩"
+      "english": " ⟨是⟩"
     },
     {
       "surface": "נלאה",
-      "english": "精疲力竭"
+      "english": "劳乏"
     },
     {
       "surface": "מואב",
@@ -44,7 +33,7 @@
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "english": "在"
     },
     {
       "surface": "הבמה",
@@ -52,7 +41,7 @@
     },
     {
       "surface": "ובא",
-      "english": "他就进入"
+      "english": "他进入"
     },
     {
       "surface": "אל",
@@ -64,17 +53,17 @@
     },
     {
       "surface": "להתפלל",
-      "english": "去祈求"
+      "english": "去祷告"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "english": "却"
     },
     {
       "surface": "יוכל",
-      "english": "能"
+      "english": "不能得胜"
     }
   ],
-  "timestamp": "2026-07-17T21:42:12.535108409Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:59.270083815Z",
+  "model": "glm-4.5"
 }

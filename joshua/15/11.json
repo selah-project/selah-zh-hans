@@ -1,38 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "joshua 15:11",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 1119,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18990,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 20109
-  },
-  "translation": "וְ\/הַ\/גְּבוּל יָצָא אֶל כֶּתֶף עֶקְרוֹן צָפוֹנָ\/ה; וְ\/תָאַר הַ\/גְּבוּל שִׁכְּרוֹנָ\/ה; וְ\/עָבַר הַר הַֽ\/בַּעֲלָה; וְ\/יָצָא יַבְנְאֵל; וְ\/הָיוּ תֹּצְא֥וֹת הַ\/גְּבוּל יָֽמָּ\/ה.",
+  "translation": "境界从以革伦向 ⟨北⟩ 延伸, ⟨并⟩ 绕到施基仑, ⟨又⟩ 经过巴力山, ⟨且⟩ 出 ⟨至⟩ 雅比聂, ⟨而⟩ 境界的出口 ⟨即⟩ 在海。",
   "tokens": [
     {
-      "surface": "ו\/יצא",
-      "english": "וצא"
+      "surface": "ויצא",
+      "english": "境界...延伸"
     },
     {
       "surface": "הגבול",
-      "english": "הגבול"
+      "english": "境界"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "向"
     },
     {
       "surface": "כתף",
-      "english": "כתף"
+      "english": "坡 \/ 边"
     },
     {
       "surface": "עקרון",
@@ -40,15 +29,15 @@
     },
     {
       "surface": "צפונה",
-      "english": "צפונה"
+      "english": "北"
     },
     {
       "surface": "ותאר",
-      "english": "ותאר"
+      "english": "并绕到"
     },
     {
       "surface": "הגבול",
-      "english": "הגבול"
+      "english": "境界"
     },
     {
       "surface": "שכרונה",
@@ -56,19 +45,24 @@
     },
     {
       "surface": "ועבר",
-      "english": "ועבר"
+      "english": "又经过"
     },
     {
       "surface": "הר",
-      "english": "הר"
+      "english": "山"
     },
     {
       "surface": "הבעלה",
-      "english": "巴拉"
+      "english": "巴力山"
     },
     {
       "surface": "ויצא",
-      "english": "וצא"
+      "english": "且出"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅比聂"
     },
     {
       "surface": "יבנאל",
@@ -76,21 +70,21 @@
     },
     {
       "surface": "והיו",
-      "english": "והיו"
+      "english": "而...即"
     },
     {
       "surface": "תצאות",
-      "english": "תוצאות"
+      "english": "出口"
     },
     {
       "surface": "הגבול",
-      "english": "הגבול"
+      "english": "境界"
     },
     {
       "surface": "ימה",
-      "english": "ימה"
+      "english": "海"
     }
   ],
-  "timestamp": "2026-07-17T19:59:43.354382662Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:36.694866180Z",
+  "model": "glm-4.5"
 }

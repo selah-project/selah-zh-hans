@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "numbers 2:4",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19568,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20052
-  },
-  "translation": "וְ\/צְבָא֖\/וֹ וּ\/פְקֻדֵי\/הֶ֑ם אַרְבָּעָ֧ה וְ\/שִׁבְעִ֛ים אֶ֖לֶף וְ\/שֵׁ֥שׁ מֵאֽוֹת",
+  "translation": "以及他的军兵和他们被数点的总数，是七万四千六百。",
   "tokens": [
     {
-      "surface": "וּ\/צְבָא֖\/וֹ",
-      "english": "וְ\/צְבָא֖\/וֹ"
+      "surface": "וצבאו",
+      "english": "以及他的军兵"
     },
     {
-      "surface": "וּ\/פְקֻדֵי\/הֶ֑ם",
-      "english": "וּ\/פְקֻדֵי\/הֶ֑ם"
+      "surface": "ופקדיהם",
+      "english": "和他们被数点的总数"
     },
     {
-      "surface": "אַרְבָּעָ֧ה",
-      "english": "אַרְבָּעָ֧ה"
+      "surface": "ארבעה",
+      "english": "四"
     },
     {
-      "surface": "וְ\/שִׁבְעִ֛ים",
-      "english": "וְ\/שִׁבְעִ֛ים"
+      "surface": "ושבעים",
+      "english": "七十"
     },
     {
-      "surface": "אֶ֖לֶף",
-      "english": "אֶ֖לֶף"
+      "surface": "אלף",
+      "english": "千"
     },
     {
-      "surface": "וְ\/שֵׁ֥שׁ",
-      "english": "וְ\/שֵׁ֥שׁ"
+      "surface": "ושש",
+      "english": "六"
     },
     {
-      "surface": "מֵאֽוֹת",
-      "english": "מֵאֽוֹת"
+      "surface": "מאות",
+      "english": "百"
     }
   ],
-  "timestamp": "2026-07-17T19:01:14.319673774Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:03.449696302Z",
+  "model": "glm-4.5"
 }

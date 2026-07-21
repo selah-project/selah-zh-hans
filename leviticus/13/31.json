@@ -1,118 +1,107 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "leviticus 13:31",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 959,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20558,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 21517
-  },
-  "translation": "וְ\/כִֽי יִרְאֶ֨ה הַ\/כֹּהֵ֜ן אֶת נֶ֣גַע הַ\/נֶּ֗תֶק וְ\/הִנֵּ֤ה אֵין מַרְאֵ֨\/הוּ֙ עָמֹ֣ק מִן הָ\/ע֔וֹר וְ\/שֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑\/וֹ וְ\/הִסְגִּ֧יר הַ\/כֹּהֵ֛ן אֶת נֶ֥גַע הַ\/נֶּ֖תֶק שִׁבְעַ֥ת יָמִֽים",
+  "translation": "倘若 祭司 看 ⟨את⟩ 患处 ⟨הנתק⟩ 的灾病,看哪,其现象不深于 ⟨the⟩ 皮肉,其中没有黑发,祭司就要将那有 ⟨את⟩ 患处 ⟨הנתק⟩ 的人 关锁 七天。",
   "tokens": [
     {
-      "surface": "וְ\/כִֽי",
-      "english": "若"
+      "surface": "וכי",
+      "english": "倘若"
     },
     {
-      "surface": "יִרְאֶ֨ה",
-      "english": "观看"
+      "surface": "יראה",
+      "english": "看"
     },
     {
-      "surface": "הַ\/כֹּהֵ֜ן",
+      "surface": "הכהן",
       "english": "祭司"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "疮"
+      "marks": "患处 ⟨הנתק⟩ 的灾病"
     },
     {
-      "surface": "נֶ֣גַע",
-      "english": "疮"
+      "surface": "נגע",
+      "english": "患处"
     },
     {
-      "surface": "הַ\/נֶּ֗תֶק",
-      "english": "癣疥的"
+      "surface": "הנתק",
+      "english": "⟨הנתק⟩"
     },
     {
-      "surface": "וְ\/הִנֵּ֤ה",
+      "surface": "והנה",
       "english": "看哪"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
+      "english": "不"
+    },
+    {
+      "surface": "מראהו",
+      "english": "其现象"
+    },
+    {
+      "surface": "עמק",
+      "english": "深于"
+    },
+    {
+      "surface": "מן",
+      "english": ""
+    },
+    {
+      "surface": "העור",
+      "english": "⟨the⟩ 皮肉"
+    },
+    {
+      "surface": "ושער",
+      "english": "发"
+    },
+    {
+      "surface": "שחר",
+      "english": "黑"
+    },
+    {
+      "surface": "אין",
       "english": "没有"
     },
     {
-      "surface": "מַרְאֵ֨\/הוּ֙",
-      "english": "它的外观"
+      "surface": "בו",
+      "english": "其中"
     },
     {
-      "surface": "עָמֹ֣ק",
-      "english": "深"
+      "surface": "והסגיר",
+      "english": "关锁"
     },
     {
-      "surface": "מִן",
-      "english": "于"
-    },
-    {
-      "surface": "הָ\/ע֔וֹר",
-      "english": "皮肤"
-    },
-    {
-      "surface": "וְ\/שֵׂעָ֥ר",
-      "english": "毛发"
-    },
-    {
-      "surface": "שָׁחֹ֖ר",
-      "english": "黑的"
-    },
-    {
-      "surface": "אֵ֣ין",
-      "english": "没有"
-    },
-    {
-      "surface": "בּ֑\/וֹ",
-      "english": "在其中"
-    },
-    {
-      "surface": "וְ\/הִסְגִּ֧יר",
-      "english": "就要隔离"
-    },
-    {
-      "surface": "הַ\/כֹּהֵ֛ן",
+      "surface": "הכהן",
       "english": "祭司"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "癣疥的疮"
+      "marks": "那有 患处 ⟨הנתק⟩ 的人"
     },
     {
-      "surface": "נֶ֥גַע",
-      "english": "疮"
+      "surface": "נגע",
+      "english": "患处"
     },
     {
-      "surface": "הַ\/נֶּ֖תֶק",
-      "english": "癣疥的"
+      "surface": "הנתק",
+      "english": "⟨הנתק⟩"
     },
     {
-      "surface": "שִׁבְעַ֥ת",
+      "surface": "שבעת",
       "english": "七"
     },
     {
-      "surface": "יָמִֽים",
+      "surface": "ימים",
       "english": "天"
     }
   ],
-  "timestamp": "2026-07-17T18:48:20.453886996Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:21.694258855Z",
+  "model": "glm-4.5"
 }

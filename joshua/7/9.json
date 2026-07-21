@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "joshua 7:9",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 1405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18784,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 20189
-  },
-  "translation": "כנעני ישמעו וְכֹל יֹשְׁבֵי הָאָרֶץ וְסָבֻנוּ עָלֵינוּ וְהִכרִיתוּ ⟨אֵת⟩ שְׁמֵנוּ מִן הָאָרֶץ; וּמֶה תַעֲשֶׂה לְשִׁמְךָ הַגָּדוֹל?",
+  "translation": "迦南人和全地⟨的⟩居民必听见,就围困我们,从地上剪除⟨את⟩我们的名;至于你那大名的名,你要⟨行⟩什么?",
   "tokens": [
     {
-      "surface": "וְ\/יִשְׁמְע֣וּ",
-      "english": "וְיִשְׁמְעוּ"
+      "surface": "וישמעו",
+      "english": "必听见"
     },
     {
-      "surface": "הַֽ\/כְּנַעֲנִ֗י",
-      "english": "הַכְּנַעֲנִי"
+      "surface": "הכנעני",
+      "english": "迦南人"
     },
     {
-      "surface": "וְ\/כֹל֙",
-      "english": "וְכֹל"
+      "surface": "וכל",
+      "english": "和全"
     },
     {
-      "surface": "יֹשְׁבֵ֣י",
-      "english": "יֹשְׁבֵי"
+      "surface": "ישבי",
+      "english": "居民"
     },
     {
-      "surface": "הָ\/אָ֔רֶץ",
-      "english": "הָאָרֶץ"
+      "surface": "הארץ",
+      "english": "地"
     },
     {
-      "surface": "וְ\/נָסַ֣בּוּ",
-      "english": "וְנָסַבּוּ"
+      "surface": "ונסבו",
+      "english": "就围困"
     },
     {
-      "surface": "עָלֵ֔י\/נוּ",
-      "english": "עָלֵינוּ"
+      "surface": "עלינו",
+      "english": "我们"
     },
     {
-      "surface": "וְ\/הִכְרִ֥יתוּ",
-      "english": "וְהִכְרִיתוּ"
+      "surface": "והכריתו",
+      "english": "剪除"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "שְׁמֵ֖\/נוּ"
+      "marks": "我们的名"
     },
     {
-      "surface": "שְׁמֵ֖\/נוּ",
-      "english": "שְׁמֵנוּ"
+      "surface": "שמנו",
+      "english": "我们的名"
     },
     {
-      "surface": "מִן",
-      "english": "מִן"
+      "surface": "מן",
+      "english": "从"
     },
     {
-      "surface": "הָ\/אָ֑רֶץ",
-      "english": "הָאָרֶץ"
+      "surface": "הארץ",
+      "english": "地上"
     },
     {
-      "surface": "וּ\/מַֽה",
-      "english": "וּמָה"
+      "surface": "ומה",
+      "english": "什么"
     },
     {
-      "surface": "תַּעֲשֵׂ֖ה",
-      "english": "תַּעֲשֶׂה"
+      "surface": "תעשה",
+      "english": "你要行"
     },
     {
-      "surface": "לְ\/שִׁמְ\/ךָ֥",
-      "english": "לְשִׁמְךָ"
+      "surface": "לשמך",
+      "english": "至于你那大名的名"
     },
     {
-      "surface": "הַ\/גָּדֽוֹל",
-      "english": "הַגָּדוֹל"
+      "surface": "הגדול",
+      "english": "大"
     }
   ],
-  "timestamp": "2026-07-18T03:19:48.198886324Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:51.478140115Z",
+  "model": "glm-4.5"
 }

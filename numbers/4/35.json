@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 35,
   "ref": "numbers 4:35",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20053,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20636
-  },
-  "translation": "מִ\/בֶּן 三十岁 וָ\/מַ֔עְלָ\/ה וְ\/עַ֖ד בֶּן 五十岁，כָּל הַ\/בָּא֙ לַ\/צָּבָ֔א לַ\/עֲבֹדָ֖ה 在会幕里的——",
+  "translation": "从三十岁 ⟨的⟩ ⟨子⟩ 和以上,直到五十岁 ⟨的⟩ ⟨子⟩,一切进入 ⟨在⟩ 军队 ⟨中⟩,在会幕 ⟨里⟩ 服事 ⟨的⟩",
   "tokens": [
     {
       "surface": "מבן",
-      "english": "从……岁"
+      "english": "从三十岁 ⟨的⟩ ⟨子⟩"
     },
     {
       "surface": "שלשים",
-      "english": "三十"
+      "english": "三十岁"
     },
     {
       "surface": "שנה",
@@ -32,7 +21,7 @@
     },
     {
       "surface": "ומעלה",
-      "english": "及以上"
+      "english": "和以上"
     },
     {
       "surface": "ועד",
@@ -40,11 +29,11 @@
     },
     {
       "surface": "בן",
-      "english": "……岁"
+      "english": "五十岁 ⟨的⟩ ⟨子⟩"
     },
     {
       "surface": "חמשים",
-      "english": "五十"
+      "english": "五十岁"
     },
     {
       "surface": "שנה",
@@ -52,29 +41,29 @@
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "一切"
     },
     {
       "surface": "הבא",
-      "english": "前来"
+      "english": "进入 ⟨的⟩"
     },
     {
       "surface": "לצבא",
-      "english": "编入队伍"
+      "english": "⟨在⟩ 军队 ⟨中⟩"
     },
     {
       "surface": "לעבדה",
-      "english": "做服侍"
+      "english": "服事"
     },
     {
       "surface": "באהל",
-      "english": "在帐幕"
+      "english": "在会幕 ⟨里⟩"
     },
     {
       "surface": "מועד",
-      "english": "会面"
+      "english": "会晤"
     }
   ],
-  "timestamp": "2026-07-17T19:03:28.492961685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:38.454248408Z",
+  "model": "glm-4.5"
 }

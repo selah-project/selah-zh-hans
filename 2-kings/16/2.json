@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "2-kings 16:2",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 773,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19394,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20167
-  },
-  "translation": "בֶּן עֶשְׂרִים שָׁנָה 亚哈斯 בְּ\/מָלְכ֔\/וֹ וְ\/שֵׁשׁ עֶשְׂרֵ֣ה שָׁנָ֔ה מָלַ֖ךְ 耶路撒冷 וְ\/לֹא עָשָׂ֣ה הַ\/יָּשָׁ֗ר בְּ\/עֵינֵ֛י 雅威 אֱלֹהָ֖י\/ו 大卫 אָבִֽי\/ו",
+  "translation": "亚哈斯登基的时候年二十岁,在耶路撒冷作王十六年,⟨他⟩没有行雅威他以罗欣眼中看为正的事,像他祖先大卫一样",
   "tokens": [
     {
       "surface": "בן",
-      "english": "בֶּן"
+      "english": "子"
     },
     {
       "surface": "עשרים",
-      "english": "עֶשְׂרִים"
+      "english": "二十"
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה"
+      "english": "岁"
     },
     {
       "surface": "אחז",
@@ -36,43 +25,43 @@
     },
     {
       "surface": "במלכו",
-      "english": "בְּ\/מָלְכ֔\/וֹ"
+      "english": "登基的时候"
     },
     {
       "surface": "ושש",
-      "english": "וְ\/שֵׁשׁ"
+      "english": "十六"
     },
     {
       "surface": "עשרה",
-      "english": "עֶשְׂרֵ֣ה"
+      "english": ""
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָ֔ה"
+      "english": "年"
     },
     {
       "surface": "מלך",
-      "english": "מָלַ֖ךְ"
+      "english": "作王"
     },
     {
       "surface": "בירושלם",
-      "english": "耶路撒冷"
+      "english": "在耶路撒冷"
     },
     {
       "surface": "ולא",
-      "english": "וְ\/לֹא"
+      "english": "没有"
     },
     {
       "surface": "עשה",
-      "english": "עָשָׂ֣ה"
+      "english": "行"
     },
     {
       "surface": "הישר",
-      "english": "הַ\/יָּשָׁ֗ר"
+      "english": "正的事"
     },
     {
       "surface": "בעיני",
-      "english": "בְּ\/עֵינֵ֛י"
+      "english": "眼中"
     },
     {
       "surface": "יהוה",
@@ -80,17 +69,17 @@
     },
     {
       "surface": "אלהיו",
-      "english": "אֱלֹהָ֖י\/ו"
+      "english": "他以罗欣"
     },
     {
       "surface": "כדוד",
-      "english": "大卫"
+      "english": "像大卫"
     },
     {
       "surface": "אביו",
-      "english": "אָבִֽי\/ו"
+      "english": "他祖先"
     }
   ],
-  "timestamp": "2026-07-17T21:27:45.453759680Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:40:02.847168856Z",
+  "model": "glm-4.5"
 }

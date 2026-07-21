@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "jeremiah 44:14",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 44,
   "usage": {
-    "completion_tokens": 1070,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21098,
+    "completion_tokens": 989,
+    "prompt_tokens": 21176,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22168
+    "total_tokens": 22165
   },
-  "translation": "וְלֹא יִהְיֶה פָּלִיט וְשָׂרִיד לִשְׁאֵרִית יְהוּדָה הַבָּאִים לָגוּר שָׁם בְּאֶרֶץ מִצְרַיִם וְלָשׁוּב אֶרֶץ יְהוּדָה אֲשֶׁר הֵמָּה מְנַשְּׂאִים ⟨אֶת⟩ נַפְשָׁם לָשׁוּב לָשֶׁבֶת שָׁם כִּי לֹא יָשׁוּבוּ כִּי אִם פְּלֵטִים׃",
+  "translation": "并且 ⟨没有⟩ 逃脱 ⟨或⟩ 存留 ⟨属于⟩ 犹大 ⟨的⟩ 余剩,进入埃及地要在那里寄居的,甚至要回到犹大地,他们 ⟨正在⟩ 举起 ⟨他们的⟩ 灵魂 ⟨去⟩ 回到那里居住;因为 ⟨他们⟩ 必不回来,除非 ⟨是⟩ 逃脱的人。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "不"
+      "english": "并且 ⟨没有⟩"
     },
     {
       "surface": "יהיה",
-      "english": "将有"
+      "english": "⟨有⟩"
     },
     {
       "surface": "פליט",
-      "english": "逃脱者"
+      "english": "逃脱"
     },
     {
       "surface": "ושריד",
-      "english": "和幸存者"
+      "english": "⟨或⟩ 存留"
     },
     {
       "surface": "לשארית",
-      "english": "给……的余民"
+      "english": "⟨属于⟩ 余剩"
     },
     {
       "surface": "יהודה",
@@ -44,19 +41,19 @@
     },
     {
       "surface": "הבאים",
-      "english": "那些进入"
+      "english": "进入"
     },
     {
       "surface": "לגור",
-      "english": "去寄居"
+      "english": "要在那里寄居的"
     },
     {
       "surface": "שם",
-      "english": "那里"
+      "english": "在那里"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "english": "在...地"
     },
     {
       "surface": "מצרים",
@@ -64,11 +61,11 @@
     },
     {
       "surface": "ולשוב",
-      "english": "和回来"
+      "english": "并且要回到"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "english": "...地"
     },
     {
       "surface": "יהודה",
@@ -76,7 +73,7 @@
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "去那里"
     },
     {
       "surface": "המה",
@@ -89,15 +86,15 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他们的נֶפֶשׁ"
+      "marks": "他们的灵魂"
     },
     {
       "surface": "נפשם",
-      "english": "他们的נֶפֶשׁ (生命\/渴望)"
+      "english": "他们的灵魂"
     },
     {
       "surface": "לשוב",
-      "english": "为要回来"
+      "english": "回到"
     },
     {
       "surface": "לשבת",
@@ -117,11 +114,11 @@
     },
     {
       "surface": "ישובו",
-      "english": "他们必回来"
+      "english": "回来"
     },
     {
       "surface": "כי",
-      "english": "除非"
+      "english": "除了"
     },
     {
       "surface": "אם",
@@ -129,9 +126,9 @@
     },
     {
       "surface": "פלטים",
-      "english": "逃脱者"
+      "english": "逃脱的人"
     }
   ],
-  "timestamp": "2026-07-17T22:33:18.135912750Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:07.706341334Z",
+  "model": "glm-4.5"
 }

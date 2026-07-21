@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "2-chronicles 28:5",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 28,
   "usage": {
-    "completion_tokens": 1066,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 61151,
+    "completion_tokens": 694,
+    "prompt_tokens": 61252,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 62217
+    "total_tokens": 61946
   },
-  "translation": "וַ\/יִּתְּנֵ\/הוּ 雅威 אֱלֹהָי\/וֹ בְּ\/יַד מֶלֶךְ אֲרָם，וַ\/יַּכּוּ בּ\/וֹ，וַ\/יִּשְׁבּוּ מִמֶּ\/נּוּ שִׁבְיָה גְּדוֹלָה，וַ\/יָּבִיאוּ ⟨אוֹתָם⟩ דַּרְמָשֶׂק；וְ\/גַם בְּ\/יַד מֶלֶךְ יִשְׂרָאֵל נִתַּן，וַ\/יַּךְ בּ\/וֹ מַכָּה גְּדוֹלָה׃",
+  "translation": "因此,雅威他的以罗欣将亚哈斯交在亚兰王的手中,击打他,并从 ⟨他⟩ 掳去了 ⟨巨大的⟩ 俘虏,带到 ⟨大马士革⟩。他也 ⟨被⟩ 交在以色列王的手中,击打他 ⟨遭受⟩ ⟨巨大的⟩ 杀戮。",
   "tokens": [
     {
       "surface": "ויתנהו",
-      "english": "所以他将他交入"
+      "english": "将亚哈斯交"
     },
     {
       "surface": "יהוה",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "ביד",
-      "english": "手中"
+      "english": "在...手中"
     },
     {
       "surface": "מלך",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "ויכו",
-      "english": "他们就击打"
+      "english": "击打他"
     },
     {
       "surface": "בו",
@@ -52,23 +49,23 @@
     },
     {
       "surface": "וישבו",
-      "english": "他们掳走"
+      "english": "并从 ⟨他⟩ 掳去"
     },
     {
       "surface": "ממנו",
-      "english": "从他那里"
+      "english": "从 ⟨他⟩"
     },
     {
       "surface": "שביה",
-      "english": "大批俘虏"
+      "english": "俘虏"
     },
     {
       "surface": "גדולה",
-      "english": "极多的"
+      "english": "巨大的"
     },
     {
       "surface": "ויביאו",
-      "english": "他们带到"
+      "english": "带到"
     },
     {
       "surface": "דרמשק",
@@ -80,7 +77,7 @@
     },
     {
       "surface": "ביד",
-      "english": "交入……手中"
+      "english": "在...手中"
     },
     {
       "surface": "מלך",
@@ -92,11 +89,11 @@
     },
     {
       "surface": "נתן",
-      "english": "他被交给"
+      "english": "交"
     },
     {
       "surface": "ויך",
-      "english": "他击打"
+      "english": "击打"
     },
     {
       "surface": "בו",
@@ -104,13 +101,13 @@
     },
     {
       "surface": "מכה",
-      "english": "重击"
+      "english": "杀戮"
     },
     {
       "surface": "גדולה",
-      "english": "沉重的"
+      "english": "巨大的"
     }
   ],
-  "timestamp": "2026-07-18T02:30:38.907291811Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:07.832432948Z",
+  "model": "glm-4.5"
 }

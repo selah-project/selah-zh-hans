@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "numbers 30:4",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 1070,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19927,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20997
-  },
-  "translation": "אִם אִשָּׁה תִדֹּר נֶדֶר 雅威, וְאָסְרָה אִסָּר בְּבֵית אָבִיהָ בִּנְעֻרֶיהָ:",
+  "translation": "或者 ⟨一个⟩ 女子向雅威许愿, ⟨且⟩ ⟨给自己⟩ 定 ⟨一个⟩ 约束, ⟨是在⟩ 她父亲家里 ⟨在⟩ 她的幼年时期:",
   "tokens": [
     {
       "surface": "ואשה",
-      "english": "וְאִשָּׁה"
+      "english": "或者 ⟨一个⟩ 女子"
     },
     {
       "surface": "כי",
-      "english": "כִּי"
+      "english": "⟨且⟩"
     },
     {
       "surface": "תדר",
-      "english": "תִדֹּר"
+      "english": "许愿"
     },
     {
       "surface": "נדר",
-      "english": "נֶדֶר"
+      "english": "⟨一个⟩ 愿"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "english": "向雅威"
     },
     {
       "surface": "ואסרה",
-      "english": "וְאָסְרָה"
+      "english": "⟨且给自己⟩ 定"
     },
     {
       "surface": "אסר",
-      "english": "אִסָּר"
+      "english": "⟨一个⟩ 约束"
     },
     {
       "surface": "בבית",
-      "english": "בְּבֵית"
+      "english": "⟨是在⟩ 她父亲家里"
     },
     {
       "surface": "אביה",
-      "english": "אָבִיהָ"
+      "english": "她父亲"
     },
     {
       "surface": "בנעריה",
-      "english": "בִּנְעֻרֶיהָ"
+      "english": "⟨在⟩ 她的幼年时期"
     }
   ],
-  "timestamp": "2026-07-20T07:00:56.370318224Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:34.456589636Z",
+  "model": "glm-4.5"
 }

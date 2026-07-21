@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "nehemiah 8:4",
   "book": "nehemiah",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 1065,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 53298,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 54363
-  },
-  "translation": "וְ\/עֶזְרָא הַ\/סֹּפֵר עָמַד עַל מִגְדַּל עֵץ אֲשֶׁר עָשׂוּ לַ\/דָּבָר, וְ\/עָמַד אֶצְל֫\/וֹ מַתִּתְיָה וְ\/שֶׁ֫מַע וְ\/עֲנָיָה וְ\/אוּרִיָּה וְ\/חִלְקִיָּה וְ\/מַעֲשֵׂיָה עַל יְמִין֫\/וֹ; וּ\/מִ\/שְּׂמֹאל֗\/וֹ פְּדָיָה וּ\/מִֽישָׁאֵל וּ\/מַלְכִּיָּה וְ\/חָשֻׁם וְ\/חַשְׁבַּדָּנָה זְכַרְיָה מְשֻׁלָּֽם.",
+  "translation": "文士 以斯拉 站在 ⟨他们⟩ 为 ⟨这事⟩ 所做的 木塔 上，在他旁边 站着 玛他提雅、示玛、亚奈雅、乌利亚、希勒家、玛赛雅 在他右边，毗大雅、米沙利、玛基雅、哈顺、哈悉百但、撒迦利亚、米书兰 在他左边。",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "于是站着"
+      "english": "站在"
     },
     {
       "surface": "עזרא",
@@ -28,39 +17,39 @@
     },
     {
       "surface": "הספר",
-      "english": "那文士"
+      "english": "文士"
     },
     {
       "surface": "על",
-      "english": "在……之上"
-    },
-    {
-      "surface": "מגדל",
-      "english": "木台"
-    },
-    {
-      "surface": "עץ",
-      "english": "木头"
-    },
-    {
-      "surface": "אשר",
-      "english": "那是"
-    },
-    {
-      "surface": "עשו",
-      "english": "他们造了"
-    },
-    {
-      "surface": "לדבר",
-      "english": "为这话语"
-    },
-    {
-      "surface": "ויעמד",
       "english": "站在"
     },
     {
+      "surface": "מגדל",
+      "english": "木塔"
+    },
+    {
+      "surface": "עץ",
+      "english": "木"
+    },
+    {
+      "surface": "אשר",
+      "english": "⟨这事⟩"
+    },
+    {
+      "surface": "עשו",
+      "english": "做"
+    },
+    {
+      "surface": "לדבר",
+      "english": "为 ⟨这事⟩"
+    },
+    {
+      "surface": "ויעמד",
+      "english": "站着"
+    },
+    {
       "surface": "אצלו",
-      "english": "他旁边"
+      "english": "在他旁边"
     },
     {
       "surface": "מתתיה",
@@ -68,35 +57,35 @@
     },
     {
       "surface": "ושמע",
-      "english": "和示玛"
+      "english": "示玛"
     },
     {
       "surface": "ועניה",
-      "english": "和亚奈雅"
+      "english": "亚奈雅"
     },
     {
       "surface": "ואוריה",
-      "english": "和乌利亚"
+      "english": "乌利亚"
     },
     {
       "surface": "וחלקיה",
-      "english": "和希勒家"
+      "english": "希勒家"
     },
     {
       "surface": "ומעשיה",
-      "english": "和玛西雅"
+      "english": "玛赛雅"
     },
     {
       "surface": "על",
-      "english": "在"
+      "english": "在他右边"
     },
     {
       "surface": "ימינו",
-      "english": "他的右边"
+      "english": "右边"
     },
     {
       "surface": "ומשמאלו",
-      "english": "以及在他的左边"
+      "english": "在他左边"
     },
     {
       "surface": "פדיה",
@@ -104,19 +93,19 @@
     },
     {
       "surface": "ומישאל",
-      "english": "和米沙利"
+      "english": "米沙利"
     },
     {
       "surface": "ומלכיה",
-      "english": "和玛基雅"
+      "english": "玛基雅"
     },
     {
       "surface": "וחשם",
-      "english": "和哈述"
+      "english": "哈顺"
     },
     {
       "surface": "וחשבדנה",
-      "english": "和哈斯巴但他"
+      "english": "哈悉百但"
     },
     {
       "surface": "זכריה",
@@ -127,6 +116,6 @@
       "english": "米书兰"
     }
   ],
-  "timestamp": "2026-07-18T01:46:59.183235499Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:28.713660576Z",
+  "model": "glm-4.5"
 }

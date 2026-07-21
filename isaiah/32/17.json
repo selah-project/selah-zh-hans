@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "isaiah 32:17",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20810,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21235
-  },
-  "translation": "והיה מעשה הצדקה שלום, ועבודת הצדקה השקט ובטח עד עולם.",
+  "translation": "并且 ⟨这⟩ 公义的作为 ⟨是⟩ 平安,并且 ⟨这⟩ 公义的服事 ⟨是⟩ 安静和信靠,直到永永远远。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "将是"
+      "english": "并且"
     },
     {
       "surface": "מעשה",
-      "english": "作为"
+      "english": "⟨这⟩ 公义的作为"
     },
     {
       "surface": "הצדקה",
-      "english": "公义的"
+      "english": "公义"
     },
     {
       "surface": "שלום",
@@ -36,11 +25,11 @@
     },
     {
       "surface": "ועבדת",
-      "english": "事奉"
+      "english": "并且 ⟨这⟩ 公义的服事"
     },
     {
       "surface": "הצדקה",
-      "english": "公义的"
+      "english": "公义"
     },
     {
       "surface": "השקט",
@@ -48,7 +37,7 @@
     },
     {
       "surface": "ובטח",
-      "english": "与安稳"
+      "english": "和信靠"
     },
     {
       "surface": "עד",
@@ -56,9 +45,9 @@
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "english": "永永远远"
     }
   ],
-  "timestamp": "2026-07-17T21:49:25.842563353Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:57.713661744Z",
+  "model": "glm-4.5"
 }

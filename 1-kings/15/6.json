@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "1-kings 15:6",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 742,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64054,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64796
-  },
-  "translation": "罗波安 (罗波安) וְ\/耶罗波安 (耶罗波安) כָּל יְמֵי חַיָּיו: וּ\/מִלְחָמָה הָיְתָה בֵּין 罗波安 וּ\/בֵין 耶罗波安 כָּל יְמֵי חַיָּיו׃",
+  "translation": "有战争在罗波安和耶罗波安之间,在他一生的所有日子里。",
   "tokens": [
     {
-      "surface": "וּ\/מִלְחָמָ֨ה",
-      "english": "וּ\/מִלְחָמָ֨ה"
+      "surface": "ומלחמה",
+      "english": "有战争"
     },
     {
-      "surface": "הָיְתָ֧ה",
-      "english": "הָיְתָ֧ה"
+      "surface": "היתה",
+      "english": "有"
     },
     {
-      "surface": "בֵין",
-      "english": "בֵּין"
+      "surface": "בין",
+      "english": "在……之间"
     },
     {
-      "surface": "רְחַבְעָ֛ם",
+      "surface": "רחבעם",
       "english": "罗波安"
     },
     {
-      "surface": "וּ\/בֵ֥ין",
-      "english": "וּ\/בֵּין"
+      "surface": "ובין",
+      "english": "和……之间"
     },
     {
-      "surface": "יָרָבְעָ֖ם",
+      "surface": "ירבעם",
       "english": "耶罗波安"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "所有"
     },
     {
-      "surface": "יְמֵ֥י",
-      "english": "יְמֵי"
+      "surface": "ימי",
+      "english": "日子"
     },
     {
-      "surface": "חַיָּֽי\/ו",
-      "english": "חַיָּיו"
+      "surface": "חייו",
+      "english": "他一生的"
     }
   ],
-  "timestamp": "2026-07-17T21:09:50.101113982Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:08.838482604Z",
+  "model": "glm-4.5"
 }

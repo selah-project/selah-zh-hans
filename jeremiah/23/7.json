@@ -1,62 +1,59 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "jeremiah 23:7",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 23,
   "usage": {
-    "completion_tokens": 967,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20070,
+    "completion_tokens": 699,
+    "prompt_tokens": 20160,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21037
+    "total_tokens": 20859
   },
-  "translation": "לָכֵן הִנֵּה יָמִים בָּאִים נְאֻם 雅威, וְ\/לֹא יֹאמְרוּ עוֹד חַי 雅威 אֲשֶׁר הֶעֱלָה ⟨אֵת⟩ בְּנֵי 以色列 מֵ\/אֶרֶץ 埃及.",
+  "translation": "因此,看哪,日子将到,这是雅威说的,他们必不再说:『雅威活着,就是那位将以色列的儿子们从埃及地领上来的』",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "לָכֵן"
+      "english": "因此"
     },
     {
       "surface": "הנה",
-      "english": "הִנֵּה"
+      "english": "看哪"
     },
     {
       "surface": "ימים",
-      "english": "יָמִים"
+      "english": "日子"
     },
     {
       "surface": "באים",
-      "english": "בָּאִים"
+      "english": "将到"
     },
     {
       "surface": "נאם",
-      "english": "נְאֻם יְהוָה"
+      "english": "这是...说的"
     },
     {
       "surface": "יהוה",
-      "english": "—"
+      "english": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "וְ\/לֹא"
+      "english": "并不"
     },
     {
       "surface": "יאמרו",
-      "english": "יֹאמְרוּ"
+      "english": "说"
     },
     {
       "surface": "עוד",
-      "english": "עוֹד"
+      "english": "再"
     },
     {
       "surface": "חי",
-      "english": "חַי"
+      "english": "活着"
     },
     {
       "surface": "יהוה",
@@ -64,20 +61,20 @@
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "就是那位"
     },
     {
       "surface": "העלה",
-      "english": "הֶעֱלָה"
+      "english": "将...领上来的"
     },
     {
       "surface": "את",
-      "english": "⟨אֵת⟩",
-      "marks": "בְּנֵי יִשְׂרָאֵל (以色列子民)"
+      "english": "⟨את⟩",
+      "marks": "以色列的儿子们"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "儿子们"
     },
     {
       "surface": "ישראל",
@@ -85,13 +82,13 @@
     },
     {
       "surface": "מארץ",
-      "english": "מֵ\/אֶרֶץ"
+      "english": "地"
     },
     {
       "surface": "מצרים",
       "english": "埃及"
     }
   ],
-  "timestamp": "2026-07-17T22:19:55.280461414Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:43.844425269Z",
+  "model": "glm-4.5"
 }

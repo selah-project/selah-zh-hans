@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "2-kings 15:14",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 688,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19345,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20033
-  },
-  "translation": "מְנַחֵם בֶּן-גָּדִי 从提尔察上去,来到שֹׁמְרוֹן,在击杀了⟨את⟩沙龙 בֶּן-יָבֵישׁ,杀了他,接替他作王。",
+  "translation": "米拿现,迦底的儿子,从得撒上到撒玛利亚,在撒玛利亚击打沙龙,雅比的儿子,并杀了他,在他死后作王。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "上去"
+      "english": "上到"
     },
     {
       "surface": "מנחם",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֶּן-"
+      "english": "儿子"
     },
     {
       "surface": "גדי",
@@ -36,7 +25,7 @@
     },
     {
       "surface": "מתרצה",
-      "english": "从提尔察"
+      "english": "从得撒"
     },
     {
       "surface": "ויבא",
@@ -48,7 +37,7 @@
     },
     {
       "surface": "ויך",
-      "english": "击杀了"
+      "english": "击打"
     },
     {
       "surface": "את",
@@ -61,7 +50,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֶּן-"
+      "english": "儿子"
     },
     {
       "surface": "יביש",
@@ -69,11 +58,11 @@
     },
     {
       "surface": "בשמרון",
-      "english": "在"
+      "english": "在撒玛利亚"
     },
     {
       "surface": "וימיתהו",
-      "english": "杀了他"
+      "english": "并杀了他"
     },
     {
       "surface": "וימלך",
@@ -81,9 +70,9 @@
     },
     {
       "surface": "תחתיו",
-      "english": "接替他"
+      "english": "在他死后"
     }
   ],
-  "timestamp": "2026-07-17T21:27:10.375183565Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:40.375601586Z",
+  "model": "glm-4.5"
 }

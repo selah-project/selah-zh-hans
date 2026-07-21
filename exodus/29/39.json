@@ -1,39 +1,36 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 39,
   "ref": "exodus 29:39",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 29,
   "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18802,
+    "completion_tokens": 376,
+    "prompt_tokens": 18801,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19361
+    "total_tokens": 19177
   },
-  "translation": "⟨את⟩ הכבש האחד תַּעֲשֶׂה בַ\/בֹּקֶר, וְ\/אֵת֙ הַ\/כֶּ֣בֶשׂ הַ\/שֵּׁנִי תַּעֲשֶׂה בֵּין הָ\/עַרְבָּֽיִם.",
+  "translation": "你要在早晨献⟨את⟩这一只羊，并在黄昏之间献⟨את⟩那一只羊。",
   "tokens": [
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "那只羔羊"
+      "marks": "这一只羊"
     },
     {
       "surface": "הכבש",
-      "english": "那只羔羊"
+      "english": "这一只羊"
     },
     {
       "surface": "האחד",
-      "english": "第一只"
+      "english": "这"
     },
     {
       "surface": "תעשה",
-      "english": "你要献上"
+      "english": "你要...献"
     },
     {
       "surface": "בבקר",
@@ -41,30 +38,30 @@
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
-      "marks": "那只羔羊"
+      "english": "⟨את⟩",
+      "marks": "那一只羊"
     },
     {
       "surface": "הכבש",
-      "english": "那只羔羊"
+      "english": "那一只羊"
     },
     {
       "surface": "השני",
-      "english": "第二只"
+      "english": "那"
     },
     {
       "surface": "תעשה",
-      "english": "你要献上"
+      "english": "你要...献"
     },
     {
       "surface": "בין",
-      "english": "之间"
+      "english": "在...之间"
     },
     {
       "surface": "הערבים",
-      "english": "两个傍晚"
+      "english": "黄昏"
     }
   ],
-  "timestamp": "2026-07-18T02:42:22.680531431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:48.415228960Z",
+  "model": "glm-4.5"
 }

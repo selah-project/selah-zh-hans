@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "exodus 13:15",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 1351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20535,
+    "completion_tokens": 834,
+    "prompt_tokens": 20624,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 21886
+    "total_tokens": 21458
   },
-  "translation": "וַ\/יְהִ֗י כִּֽי הִקְשָׁ֣ה פַרְעֹה֮ לְ\/שַׁלְּחֵ\/נוּ֒ וַ\/יַּהֲרֹ֨ג יְהֹוָ֤ה כָּל בְּכוֹר֙ בְּ\/אֶ֣רֶץ מִצְרַ֔יִם מִ\/בְּכֹ֥ר אָדָ֖ם וְ\/עַד בְּכ֣וֹר בְּהֵמָ֑ה עַל כֵּן֩ אֲנִ֨י זֹבֵ֜חַ לַֽ\/יהוָ֗ה כָּל פֶּ֤טֶר רֶ֨חֶם֙ הַ\/זְּכָרִ֔ים וְ\/כָל בְּכ֥וֹר בָּנַ֖\/י אֶפְדֶּֽה",
+  "translation": "事情 ⟨是⟩ 当法老顽固 ⟨地⟩ 不愿 ⟨让我们⟩ 离开,雅威 ⟨就⟩ 击杀了埃及地 ⟨中⟩ 所有的头生,从人的头生直到牲畜的头生;因此我向雅威献祭 ⟨一切⟩ 破宫 ⟨的⟩ 雄性,但我儿子 ⟨的⟩ 所有的头生,我都救赎",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "发生了这事"
+      "english": "事情 ⟨是⟩"
     },
     {
       "surface": "כי",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "הקשה",
-      "english": "使刚硬"
+      "english": "顽固"
     },
     {
       "surface": "פרעה",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "לשלחנו",
-      "english": "让我们离开"
+      "english": "不愿 ⟨让我们⟩ 离开"
     },
     {
       "surface": "ויהרג",
-      "english": "他击杀了"
+      "english": "雅威 ⟨就⟩ 击杀了"
     },
     {
       "surface": "יהוה",
@@ -48,15 +45,15 @@
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "所有的"
     },
     {
       "surface": "בכור",
-      "english": "首生的"
+      "english": "头生"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "english": "埃及地 ⟨中⟩"
     },
     {
       "surface": "מצרים",
@@ -64,7 +61,7 @@
     },
     {
       "surface": "מבכר",
-      "english": "从……首生的"
+      "english": "从...的头生"
     },
     {
       "surface": "אדם",
@@ -76,7 +73,7 @@
     },
     {
       "surface": "בכור",
-      "english": "首生的"
+      "english": "头生"
     },
     {
       "surface": "בהמה",
@@ -88,7 +85,7 @@
     },
     {
       "surface": "כן",
-      "english": "（固定搭配）"
+      "english": "因此"
     },
     {
       "surface": "אני",
@@ -96,45 +93,45 @@
     },
     {
       "surface": "זבח",
-      "english": "献为祭"
+      "english": "献祭"
     },
     {
       "surface": "ליהוה",
-      "english": "给雅威"
+      "english": "向雅威"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "⟨一切⟩"
     },
     {
       "surface": "פטר",
-      "english": "开"
+      "english": "破宫"
     },
     {
       "surface": "רחם",
-      "english": "子宫的"
+      "english": "破宫 ⟨的⟩"
     },
     {
       "surface": "הזכרים",
-      "english": "雄性的"
+      "english": "雄性"
     },
     {
       "surface": "וכל",
-      "english": "所有"
+      "english": "但我... ⟨的⟩ 所有的"
     },
     {
       "surface": "בכור",
-      "english": "首生的"
+      "english": "头生"
     },
     {
       "surface": "בני",
-      "english": "我众子的"
+      "english": "我儿子"
     },
     {
       "surface": "אפדה",
-      "english": "我都赎回"
+      "english": "我都救赎"
     }
   ],
-  "timestamp": "2026-07-17T18:18:53.806707224Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:36.888101946Z",
+  "model": "glm-4.5"
 }

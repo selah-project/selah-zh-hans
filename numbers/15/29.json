@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "numbers 15:29",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20031,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20645
-  },
-  "translation": "הָ\/אֶזְרָח (本地出生的) בִּ\/בְנֵי יִשְׂרָאֵ֔ל וְ\/לַ\/גֵּר הַ\/גָּ֣ר בְּ\/תוֹכָ֑\/ם תּוֹרָ֤ה אַחַת֙ יִהְיֶ֣ה לָ\/כֶ֔ם לָ\/עֹשֶׂ֖ה בִּ\/שְׁגָגָֽה",
+  "translation": "对于在以色列人中原生的 ⟨他⟩ 和在他们中间寄居的 ⟨外邦人⟩，⟨你们⟩ 要有 ⟨一条⟩ 妥拉，给 ⟨那⟩ 在误犯中 ⟨行事⟩ 的 ⟨人⟩。",
   "tokens": [
     {
       "surface": "האזרח",
-      "english": "本地出生的"
+      "english": "原生的 ⟨他⟩"
     },
     {
       "surface": "בבני",
-      "english": "在……的子孙中"
+      "english": "在以色列人 中"
     },
     {
       "surface": "ישראל",
@@ -32,11 +21,11 @@
     },
     {
       "surface": "ולגר",
-      "english": "以及寄居者"
+      "english": "和 ⟨外邦人⟩"
     },
     {
       "surface": "הגר",
-      "english": "那寄居的"
+      "english": "寄居"
     },
     {
       "surface": "בתוכם",
@@ -48,25 +37,25 @@
     },
     {
       "surface": "אחת",
-      "english": "一条"
+      "english": "⟨一条⟩"
     },
     {
       "surface": "יהיה",
-      "english": "将是"
+      "english": "⟨你们⟩ 要有"
     },
     {
       "surface": "לכם",
-      "english": "给你们的"
+      "english": "给 ⟨那⟩"
     },
     {
       "surface": "לעשה",
-      "english": "给那行的"
+      "english": "在误犯中 ⟨行事⟩ 的"
     },
     {
       "surface": "בשגגה",
-      "english": "出于误犯"
+      "english": "人"
     }
   ],
-  "timestamp": "2026-07-17T19:11:49.692728512Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:55.091143697Z",
+  "model": "glm-4.5"
 }

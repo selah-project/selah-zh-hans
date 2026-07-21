@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "2-chronicles 33:21",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 33,
   "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59845,
+    "completion_tokens": 316,
+    "prompt_tokens": 59906,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60314
+    "total_tokens": 60222
   },
-  "translation": "בֶּן 二十 וּ\/שְׁתַּיִם שָׁנָה אָמוֹן בְּ\/מָלְכוֹ，וּ\/שְׁתַּיִם שָׁנִים מָלַךְ בִּ\/ירוּשָׁלִַם。",
+  "translation": "亚们登基的时候年二十二岁,在耶路撒冷作王二年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "儿子"
+      "english": "子"
     },
     {
       "surface": "עשרים",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "ושתים",
-      "english": "和二"
+      "english": "二"
     },
     {
       "surface": "שנה",
@@ -40,11 +37,11 @@
     },
     {
       "surface": "במלכו",
-      "english": "在他作王时"
+      "english": "登基的时候"
     },
     {
       "surface": "ושתים",
-      "english": "和二"
+      "english": "二"
     },
     {
       "surface": "שנים",
@@ -59,6 +56,6 @@
       "english": "在耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:34:39.376214420Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:10.523024723Z",
+  "model": "glm-4.5"
 }

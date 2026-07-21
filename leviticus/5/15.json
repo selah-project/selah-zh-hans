@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "leviticus 5:15",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 917,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20621,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 21538
-  },
-  "translation": "נֶפֶשׁ, כִּי תִמְעֹל מַעַל וְ\/חָטְאָה בִּ\/שְׁגָגָה מִ\/קָּדְשֵׁי 雅威, וְ\/הֵבִיא אֶת אֲשָׁמוֹ 雅威 אַיִל תָּמִים מִן הַ\/צֹּאן בְּ\/עֶרְכְּ\/ךָ כֶּסֶף שְׁקָלִים בְּ\/שֶֽׁקֶל הַ\/קֹּדֶשׁ לְ\/אָשָֽׁם",
+  "translation": "若一个活人行事不忠,在雅威的圣物上无意犯罪,就要将他的赔罪 ⟨את⟩ 带到雅威面前,从羊群中一只无残疾的公绵羊,按你的估价,圣所的舍客勒,银子几舍客勒,作为赔罪祭。",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "נֶפֶשׁ"
+      "english": "一个活人"
     },
     {
       "surface": "כי",
-      "english": "כִּי"
+      "english": "若"
     },
     {
       "surface": "תמעל",
-      "english": "תִמְעֹל"
+      "english": "行事不忠"
     },
     {
       "surface": "מעל",
-      "english": "מַעַל"
+      "english": "不忠"
     },
     {
       "surface": "וחטאה",
-      "english": "וְ\/חָטְאָה"
+      "english": "犯罪"
     },
     {
       "surface": "בשגגה",
-      "english": "בִּ\/שְׁגָגָה"
+      "english": "无意"
     },
     {
       "surface": "מקדשי",
-      "english": "מִ\/קָּדְשֵׁי"
+      "english": "圣物上"
     },
     {
       "surface": "יהוה",
@@ -52,61 +41,62 @@
     },
     {
       "surface": "והביא",
-      "english": "וְ\/הֵבִיא"
+      "english": "就要将"
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "他的赔罪"
     },
     {
       "surface": "אשמו",
-      "english": "אֲשָׁמוֹ"
+      "english": "赔罪"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "english": "带到雅威面前"
     },
     {
       "surface": "איל",
-      "english": "אַיִל"
+      "english": "公绵羊"
     },
     {
       "surface": "תמים",
-      "english": "תָּמִים"
+      "english": "无残疾的"
     },
     {
       "surface": "מן",
-      "english": "מִן"
+      "english": "从"
     },
     {
       "surface": "הצאן",
-      "english": "הַ\/צֹּאן"
+      "english": "羊群中"
     },
     {
       "surface": "בערכך",
-      "english": "בְּ\/עֶרְכְּ\/ךָ"
+      "english": "按你的估价"
     },
     {
       "surface": "כסף",
-      "english": "כֶּסֶף"
+      "english": "银子"
     },
     {
       "surface": "שקלים",
-      "english": "שְׁקָלִים"
+      "english": "几舍客勒"
     },
     {
       "surface": "בשקל",
-      "english": "בְּ\/שֶֽׁקֶל"
+      "english": "按...舍客勒"
     },
     {
       "surface": "הקדש",
-      "english": "הַ\/קֹּדֶשׁ"
+      "english": "圣所的"
     },
     {
       "surface": "לאשם",
-      "english": "לְ\/אָשָֽׁם"
+      "english": "作为赔罪祭"
     }
   ],
-  "timestamp": "2026-07-17T18:42:24.543988166Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:12.950088697Z",
+  "model": "glm-4.5"
 }

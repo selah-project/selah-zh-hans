@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "ezra 10:27",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46588,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47128
-  },
-  "translation": "וּ\/מִ\/בְּנֵ֖י זַתּ֑וּא: אֶלְיוֹעֵנַ֤י, אֶלְיָשִׁיב֙, מַתַּנְיָ֣ה, וִֽ\/ירֵמ֔וֹת, וְ\/זָבָ֖ד, וַ\/עֲזִיזָֽא׃",
+  "translation": "并从撒突的子孙中：以利约何乃、以利亚实、玛探雅、耶利末、萨拔、阿西萨。",
   "tokens": [
     {
       "surface": "ומבני",
-      "english": "ומבני (ומבני זתוא: ומבני זתוא)"
+      "english": "并从……的子孙中"
     },
     {
       "surface": "זתוא",
@@ -44,13 +33,13 @@
     },
     {
       "surface": "וזבד",
-      "english": "撒拔"
+      "english": "萨拔"
     },
     {
       "surface": "ועזיזא",
-      "english": "ועזיזא"
+      "english": "阿西萨"
     }
   ],
-  "timestamp": "2026-07-18T01:42:14.904095413Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:19.095287271Z",
+  "model": "glm-4.5"
 }

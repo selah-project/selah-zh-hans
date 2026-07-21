@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "1-chronicles 4:6",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 639,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59455,
+    "completion_tokens": 611,
+    "prompt_tokens": 59559,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60094
+    "total_tokens": 60170
   },
-  "translation": "נערה 给他生了 ⟨את⟩אֲחֻזָּם、⟨את⟩חֵפֶר、⟨את⟩תֵּימְנִי 和 ⟨את⟩הָאֲחַשְׁתָּרִי；这些就是 נערה 的儿子们。",
+  "translation": "拿拉为⟨他⟩生了亚户撒,和希弗,和提幔尼,和哈亚施他利;这些⟨是⟩拿拉的儿子。",
   "tokens": [
     {
       "surface": "ותלד",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "english": "为⟨他⟩"
     },
     {
       "surface": "נערה",
@@ -33,7 +30,7 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אֲחֻזָּם (Ahuzzam)"
+      "marks": "亚户撒"
     },
     {
       "surface": "אחזם",
@@ -41,8 +38,8 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "חֵפֶר (Hepher)"
+      "english": "和",
+      "marks": "希弗"
     },
     {
       "surface": "חפר",
@@ -50,8 +47,8 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "תֵּימְנִי (Temeni)"
+      "english": "和",
+      "marks": "提幔尼"
     },
     {
       "surface": "תימני",
@@ -59,12 +56,12 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
-      "marks": "הָאֲחַשְׁתָּרִי (Haahashtari)"
+      "english": "和",
+      "marks": "哈亚施他利"
     },
     {
       "surface": "האחשתרי",
-      "english": "הָאֲחַשְׁתָּרִי (Haahashtari)"
+      "english": "哈亚施他利"
     },
     {
       "surface": "אלה",
@@ -72,13 +69,13 @@
     },
     {
       "surface": "בני",
-      "english": "是……的儿子们"
+      "english": "儿子"
     },
     {
       "surface": "נערה",
       "english": "拿拉"
     }
   ],
-  "timestamp": "2026-07-18T01:53:37.922467089Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:38.707669172Z",
+  "model": "glm-4.5"
 }

@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "ezekiel 14:20",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 770,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19878,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20648
-  },
-  "translation": " וְ\/נֹ֨חַ דָנִיֵּאל וְ\/אִיּוֹב בְּ\/תוֹכָ\/הּ֒ חַי אָ֗נִי נְאֻם֙ אֲדֹנָ֣\/י יְהוִ֔ה אִם בֵּ֥ן אִם בַּ֖ת יַצִּ֑ילוּ הֵ֥מָּה בְ\/צִדְקָתָ֖\/ם יַצִּ֥ילוּ נַפְשָֽׁ\/ם",
+  "translation": "即使挪亚、但以理、约伯在其中，我指着雅威起誓：他们 ⟨不⟩ 救 ⟨儿子⟩ ⟨也⟩ ⟨不⟩ 救 ⟨女儿⟩；他们 ⟨只⟩ 因 ⟨他们的⟩ 义救 ⟨他们自己的⟩ 性命。",
   "tokens": [
     {
       "surface": "ונח",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "ואיוב",
-      "english": "和约伯"
+      "english": "约伯"
     },
     {
       "surface": "בתוכה",
@@ -36,15 +25,15 @@
     },
     {
       "surface": "חי",
-      "english": "我活着"
+      "english": "我指着雅威起誓"
     },
     {
       "surface": "אני",
-      "english": "⟨我⟩"
+      "english": "我"
     },
     {
       "surface": "נאם",
-      "english": "神谕"
+      "english": "说"
     },
     {
       "surface": "אדני",
@@ -56,23 +45,23 @@
     },
     {
       "surface": "אם",
-      "english": "无论是"
+      "english": "⟨不⟩"
     },
     {
       "surface": "בן",
-      "english": "子"
+      "english": "⟨儿子⟩"
     },
     {
       "surface": "אם",
-      "english": "还是"
+      "english": "⟨也⟩ ⟨不⟩"
     },
     {
       "surface": "בת",
-      "english": "女"
+      "english": "⟨女儿⟩"
     },
     {
       "surface": "יצילו",
-      "english": "他们都不能搭救"
+      "english": "救"
     },
     {
       "surface": "המה",
@@ -80,17 +69,17 @@
     },
     {
       "surface": "בצדקתם",
-      "english": "凭自己的公义"
+      "english": "因 ⟨他们的⟩ 义"
     },
     {
       "surface": "יצילו",
-      "english": "只能搭救"
+      "english": "救"
     },
     {
       "surface": "נפשם",
-      "english": "自己的性命"
+      "english": "⟨他们自己的⟩ 性命"
     }
   ],
-  "timestamp": "2026-07-17T22:47:12.201430043Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:54.619384793Z",
+  "model": "glm-4.5"
 }

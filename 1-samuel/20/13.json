@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "1-samuel 20:13",
   "book": "1-samuel",
   "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 1193,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19940,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 21133
-  },
-  "translation": "כֹּֽה יַעֲשֶׂה֩ יְהוָ֨ה לִֽיהוֹנָתָ֜ן וְכֹ֣ה יֹסִ֗יף וְאִם־רָעָ֛ה עָלֶ֔יךָ ט֥וֹבָה בְּעֵינֵֽי אָבִ֖י וְלֹֽא אַגִּ֣ידָה לָּ֑ךְ וְגָלִ֨יתִי֙ אֶת־אָזְנֶ֔ךָ וְשִׁלַּחְתִּ֖יךָ וְהָלַכְתָּ֣ לְשָׁל֑וֹם וִיהִ֤י יְהוָה֙ עִמָּ֔ךְ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־אָבִֽי׃",
+  "translation": "雅威必如此对待约拿单,雅威必再加添;倘若我父亲对你行这恶事 ⟨是⟩ 美好的,我 ⟨必⟩ 揭露 ⟨את⟩ 你的耳朵,并且打发你,使你平安地去;愿雅威与你同在,像与 ⟨他⟩ 与我父亲同在一样。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "愿雅威如此"
+      "english": "如此"
     },
     {
       "surface": "יעשה",
-      "english": "对待"
+      "english": "雅威必...对待"
     },
     {
       "surface": "יהוה",
@@ -32,11 +21,11 @@
     },
     {
       "surface": "ליהונתן",
-      "english": "约拿单"
+      "english": "对待约拿单"
     },
     {
       "surface": "וכה",
-      "english": "也如此"
+      "english": "雅威必再加添"
     },
     {
       "surface": "יסיף",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "כי",
-      "english": "如果"
+      "english": "倘若"
     },
     {
-      "surface": "ייטב",
-      "english": "以为是好的"
+      "surface": "יטב",
+      "english": "行...是美好的"
     },
     {
       "surface": "אל",
@@ -61,19 +50,19 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "那祸患"
+      "marks": "这恶事"
     },
     {
       "surface": "הרעה",
-      "english": "那祸患"
+      "english": "这恶事"
     },
     {
       "surface": "עליך",
-      "english": "临到你"
+      "english": "对你"
     },
     {
       "surface": "וגליתי",
-      "english": "我就揭开"
+      "english": "我必揭露"
     },
     {
       "surface": "את",
@@ -86,19 +75,19 @@
     },
     {
       "surface": "ושלחתיך",
-      "english": "差你走"
+      "english": "并且打发你"
     },
     {
       "surface": "והלכת",
-      "english": "你平平安安地去"
+      "english": "使你...去"
     },
     {
       "surface": "לשלום",
-      "english": "平安"
+      "english": "平安地"
     },
     {
       "surface": "ויהי",
-      "english": "愿"
+      "english": "愿...是"
     },
     {
       "surface": "יהוה",
@@ -110,21 +99,21 @@
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "english": "像"
     },
     {
       "surface": "היה",
-      "english": "⟨他⟩曾与"
+      "english": "与...同在"
     },
     {
       "surface": "עם",
-      "english": "同在"
+      "english": "与"
     },
     {
       "surface": "אבי",
       "english": "我父亲"
     }
   ],
-  "timestamp": "2026-07-17T20:33:37.084109385Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:55.305429202Z",
+  "model": "glm-4.5"
 }

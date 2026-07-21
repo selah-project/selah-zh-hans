@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "1-samuel 25:30",
   "book": "1-samuel",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 830,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18822,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19652
-  },
-  "translation": "וְ\/הָיָ֗ה כִּֽי יַעֲשֶׂ֤ה 雅威 לַֽ\/אדֹנִ֔\/י כְּ\/כֹ֛ל אֲשֶׁר דִּבֶּ֥ר אֶת הַ\/טּוֹבָ֖ה עָלֶ֑י\/ךָ וְ\/צִוְּ\/ךָ֥ לְ\/נָגִ֖יד עַל 以色列",
+  "translation": "这事必 ⟨成立⟩,当雅威对我主行 ⟨一切⟩ 对你 ⟨说⟩过的 ⟨את⟩ 美好事,并且立你 ⟨为⟩ 以色列的领袖时,",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "וְ\/הָיָ֗ה"
+      "english": "这事必 ⟨成立⟩"
     },
     {
       "surface": "כי",
-      "english": "כִּֽי"
+      "english": "当"
     },
     {
       "surface": "יעשה",
-      "english": "יַעֲשֶׂ֤ה"
+      "english": "行"
     },
     {
       "surface": "יהוה",
@@ -36,50 +25,50 @@
     },
     {
       "surface": "לאדני",
-      "english": "לַֽ\/אדֹנִ֔\/י"
+      "english": "对我主"
     },
     {
       "surface": "ככל",
-      "english": "כְּ\/כֹ֛ל"
+      "english": "⟨一切⟩"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "对... ⟨说⟩过的"
     },
     {
       "surface": "דבר",
-      "english": "דִּבֶּ֥ר"
+      "english": "⟨说⟩过的"
     },
     {
       "surface": "את",
-      "english": "אֶת",
-      "marks": "הַ\/טּוֹבָ֖ה"
+      "english": "⟨את⟩",
+      "marks": "美好事"
     },
     {
       "surface": "הטובה",
-      "english": "הַ\/טּוֹבָ֖ה"
+      "english": "美好事"
     },
     {
       "surface": "עליך",
-      "english": "עָלֶ֑י\/ךָ"
+      "english": "对你"
     },
     {
       "surface": "וצוך",
-      "english": "וְ\/צִוְּ\/ךָ֥"
+      "english": "并且立你"
     },
     {
       "surface": "לנגיד",
-      "english": "לְ\/נָגִ֖יד"
+      "english": "⟨为⟩ 领袖"
     },
     {
       "surface": "על",
-      "english": "עַל"
+      "english": "的 (over)"
     },
     {
       "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-17T20:36:34.488601092Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:55.431687477Z",
+  "model": "glm-4.5"
 }

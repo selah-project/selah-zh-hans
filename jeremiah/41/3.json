@@ -1,100 +1,101 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "jeremiah 41:3",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 41,
   "usage": {
-    "completion_tokens": 1056,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20396,
+    "completion_tokens": 654,
+    "prompt_tokens": 20477,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21452
+    "total_tokens": 21131
   },
-  "translation": "וְאֵ֣ת כָּל 犹大人 אֲשֶׁר הָי֨וּ אִתּ֤\/וֹ אֶת 基大利 בַּ\/מִּצְפָּ֔ה וְ\/אֶת 迦勒底人 אֲשֶׁ֣ר נִמְצְאוּ שָׁ֑ם אֵ֚ת אַנְשֵׁ֣י הַ\/מִּלְחָמָ֔ה הִכָּ֖ה 以实玛利",
+  "translation": "也⟨את⟩所有的犹太人，就是同基大利在米斯巴的，并⟨את⟩在那里寻见的迦勒底人，以及⟨את⟩那些战士，以实玛利都击杀了",
   "tokens": [
     {
-      "surface": "וְ\/אֵ֣ת",
-      "english": "וְ\/אֵ֣ת"
+      "surface": "ואת",
+      "english": "也⟨את⟩",
+      "marks": "所有的犹太人"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "所有的"
     },
     {
-      "surface": "הַ\/יְּהוּדִ֗ים",
-      "english": "犹大人"
+      "surface": "היהודים",
+      "english": "犹太人"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": "就是"
     },
     {
-      "surface": "הָי֨וּ",
-      "english": "הָי֨וּ"
+      "surface": "היו",
+      "english": "同"
     },
     {
-      "surface": "אִתּ֤\/וֹ",
-      "english": "אִתּ֤\/וֹ"
-    },
-    {
-      "surface": "אֶת",
-      "english": "אֶת"
-    },
-    {
-      "surface": "גְּדַלְיָ֨הוּ֙",
+      "surface": "אתו",
       "english": "基大利"
     },
     {
-      "surface": "בַּ\/מִּצְפָּ֔ה",
-      "english": "בַּ\/מִּצְפָּ֔ה"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "基大利"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/אֶת"
+      "surface": "גדליהו",
+      "english": "基大利"
     },
     {
-      "surface": "הַ\/כַּשְׂדִּ֖ים",
+      "surface": "במצפה",
+      "english": "在米斯巴"
+    },
+    {
+      "surface": "ואת",
+      "english": "并⟨את⟩",
+      "marks": "迦勒底人"
+    },
+    {
+      "surface": "הכשדים",
       "english": "迦勒底人"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "אֲשֶׁ֣ר"
+      "surface": "אשר",
+      "english": "就是"
     },
     {
-      "surface": "נִמְצְאוּ",
-      "english": "נִמְצְאוּ"
+      "surface": "נמצאו",
+      "english": "寻见的"
     },
     {
-      "surface": "שָׁ֑ם",
-      "english": "שָׁ֑ם"
+      "surface": "שם",
+      "english": "在那里"
     },
     {
-      "surface": "אֵ֚ת",
-      "english": "אֵ֚ת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "战士"
     },
     {
-      "surface": "אַנְשֵׁ֣י",
-      "english": "אַנְשֵׁ֣י"
+      "surface": "אנשי",
+      "english": "那些"
     },
     {
-      "surface": "הַ\/מִּלְחָמָ֔ה",
-      "english": "הַ\/מִּלְחָמָ֔ה"
+      "surface": "המלחמה",
+      "english": "战士"
     },
     {
-      "surface": "הִכָּ֖ה",
-      "english": "הִכָּ֖ה"
+      "surface": "הכה",
+      "english": "击杀"
     },
     {
-      "surface": "יִשְׁמָעֵֽאל",
+      "surface": "ישמעאל",
       "english": "以实玛利"
     }
   ],
-  "timestamp": "2026-07-17T22:31:41.064665464Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:26.923299791Z",
+  "model": "glm-4.5"
 }

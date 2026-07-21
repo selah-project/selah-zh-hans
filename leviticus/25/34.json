@@ -1,64 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 34,
   "ref": "leviticus 25:34",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 761,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19251,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20012
-  },
-  "translation": "וְ\/שָׂדֵה מִגְרַשׁ עָרֵי\/הֶם לֹא יִמָּכֵר כִּי אֲחֻזַּת עוֹלָם הוּא לָ\/הֶם",
+  "translation": "但 他们城市的郊区田地 ⟨不可⟩ 被卖; 因为 ⟨它⟩ 是 他们永远的 ⟨את⟩ 产业。",
   "tokens": [
     {
-      "surface": "וּ\/שְׂדֵ֛ה",
-      "english": "וְ\/שָׂדֵה"
+      "surface": "ושדה",
+      "english": "但 田地"
     },
     {
-      "surface": "מִגְרַ֥שׁ",
-      "english": "מִגְרַשׁ"
+      "surface": "מגרש",
+      "english": "郊区"
     },
     {
-      "surface": "עָרֵי\/הֶ֖ם",
-      "english": "עָרֵיהֶם"
+      "surface": "עריהם",
+      "english": "他们城市的"
     },
     {
-      "surface": "לֹ֣א",
-      "english": "לֹא"
+      "surface": "לא",
+      "english": "⟨不可⟩"
     },
     {
-      "surface": "יִמָּכֵ֑ר",
-      "english": "יִמָּכֵר"
+      "surface": "ימכר",
+      "english": "被卖"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "אֲחֻזַּ֥ת",
-      "english": "אֲחֻזַּת"
+      "surface": "אחזת",
+      "english": "产业"
     },
     {
-      "surface": "עוֹלָ֛ם",
-      "english": "עוֹלָם"
+      "surface": "עולם",
+      "english": "永远的"
     },
     {
-      "surface": "ה֖וּא",
-      "english": "הוּא"
+      "surface": "הוא",
+      "english": "⟨它⟩"
     },
     {
-      "surface": "לָ\/הֶֽם",
-      "english": "לָהֶם"
+      "surface": "להם",
+      "english": "他们 ⟨את⟩",
+      "marks": "产业"
     }
   ],
-  "timestamp": "2026-07-17T18:57:52.852109958Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:13.557842553Z",
+  "model": "glm-4.5"
 }

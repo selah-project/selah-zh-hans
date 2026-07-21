@@ -1,144 +1,133 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "ezekiel 45:7",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 2393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21188,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 23581
-  },
-  "translation": "לַנָשִׂיא (הַנָּגִיד) יִהְיֶה ⟨זֶה⟩ מִצַּד זֶה וּמִצַּד זֶה לִתְרוּמַת הַקֹּדֶשׁ וּלְאֲחֻזַּת הָעִיר, אֶל מֻל פְּנֵי תְרוּמַת הַקֹּדֶשׁ וְאֶל מֻל פְּנֵי אֲחֻזַּת הָעִיר, מִצַּד יָם יָמָּה וּמִצַּד קֵדֶם קָדִימָה; וְהָאֹרֶךְ יִהְיֶה כְּנֶגֶד אַחַד הַחֲלָקִים, מִגְּבוּל יָם עַד גְּבוּל קָדִימָה.",
+  "translation": "And ⟨to the prince from⟩ this side and from this side ⟨of the⟩ contribution of the holy portion and ⟨of the⟩ possession of the city, ⟨before the face of⟩ the contribution of the holy portion and ⟨before the face of⟩ the possession of the city, from the sea-side westward and from the east-side eastward: and the length ⟨shall be⟩ over against one of the portions, from the west border unto the east border.",
   "tokens": [
     {
-      "surface": "וְ\/לַ\/נָּשִׂיא",
-      "english": "וְלַנָּגִיד"
+      "surface": "ולנשיא",
+      "english": "And ⟨to the prince from⟩"
     },
     {
-      "surface": "מִ\/זֶּה",
-      "english": "מִזֶּה"
+      "surface": "מזה",
+      "english": "this side"
     },
     {
-      "surface": "וְ\/מִ\/זֶּה",
-      "english": "וּמִזֶּה"
+      "surface": "ומזה",
+      "english": "and from this side"
     },
     {
-      "surface": "לִ\/תְרוּמַת",
-      "english": "לִתְרוּמַת"
+      "surface": "לתרומת",
+      "english": "⟨of the⟩ contribution of"
     },
     {
-      "surface": "הַ\/קֹּדֶשׁ",
-      "english": "הַקֹּדֶשׁ"
+      "surface": "הקדש",
+      "english": "the holy portion"
     },
     {
-      "surface": "וְ\/לַ\/אֲחֻזַּת",
-      "english": "וּלְאֲחֻזַּת"
+      "surface": "ולאחזת",
+      "english": "and ⟨of the⟩ possession of"
     },
     {
-      "surface": "הָ\/עִיר",
-      "english": "הָעִיר"
+      "surface": "העיר",
+      "english": "the city"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "⟨before the face of⟩"
     },
     {
-      "surface": "פְּנֵי",
-      "english": "מֻל פְּנֵי"
+      "surface": "פני",
+      "english": "the contribution of"
     },
     {
-      "surface": "תְרוּמַת",
-      "english": "תְרוּמַת"
+      "surface": "תרומת",
+      "english": "contribution of"
     },
     {
-      "surface": "הַ\/קֹּדֶשׁ",
-      "english": "הַקֹּדֶשׁ"
+      "surface": "הקדש",
+      "english": "the holy portion"
     },
     {
-      "surface": "וְ\/אֶל",
-      "english": "וְאֶל"
+      "surface": "ואל",
+      "english": "and ⟨before the face of⟩"
     },
     {
-      "surface": "פְּנֵי",
-      "english": "מֻל פְּנֵי"
+      "surface": "פני",
+      "english": "the possession of"
     },
     {
-      "surface": "אֲחֻזַּת",
-      "english": "אֲחֻזַּת"
+      "surface": "אחזת",
+      "english": "possession of"
     },
     {
-      "surface": "הָ\/עִיר",
-      "english": "הָעִיר"
+      "surface": "העיר",
+      "english": "the city"
     },
     {
-      "surface": "מִ\/פְּאַת",
-      "english": "מִצַּד"
+      "surface": "מפאת",
+      "english": "from the side of"
     },
     {
-      "surface": "יָם",
-      "english": "הַיָּם (הַמַּעֲרָב)"
+      "surface": "ים",
+      "english": "the sea"
     },
     {
-      "surface": "יָמָּ\/ה",
-      "english": "מַעֲרָבָּה"
+      "surface": "ימה",
+      "english": "westward"
     },
     {
-      "surface": "וְ\/מִ\/פְּאַת",
-      "english": "וּמִצַּד"
+      "surface": "ומפאת",
+      "english": "and from the side of"
     },
     {
-      "surface": "קֵדְמָ\/ה",
-      "english": "קֵדֶם (הַמִּזְרָח)"
+      "surface": "קדמה",
+      "english": "the east"
     },
     {
-      "surface": "קָדִימָ\/ה",
-      "english": "מִזְרָחָה"
+      "surface": "קדימה",
+      "english": "eastward"
     },
     {
-      "surface": "וְ\/אֹרֶךְ",
-      "english": "וְהָאֹרֶךְ"
+      "surface": "וארך",
+      "english": "and the length"
     },
     {
-      "surface": "לְ\/עֻמּוֹת",
-      "english": "כְּנֶגֶד"
+      "surface": "לעמות",
+      "english": "⟨shall be⟩ over against"
     },
     {
-      "surface": "אֶחָד",
-      "english": "אַחַד"
+      "surface": "אחד",
+      "english": "one of"
     },
     {
-      "surface": "הַ\/חֲלָקִים",
-      "english": "הַחֲלָקִים"
+      "surface": "החלקים",
+      "english": "the portions"
     },
     {
-      "surface": "מִ\/גְּבוּל",
-      "english": "מִגְּבוּל"
+      "surface": "מגבול",
+      "english": "from the border of"
     },
     {
-      "surface": "יָם",
-      "english": "הַיָּם (הַמַּעֲרָב)"
+      "surface": "ים",
+      "english": "the sea"
     },
     {
-      "surface": "אֶל",
-      "english": "עַד"
+      "surface": "אל",
+      "english": "unto"
     },
     {
-      "surface": "גְּבוּל",
-      "english": "גְּבוּל"
+      "surface": "גבול",
+      "english": "the border of"
     },
     {
-      "surface": "קָדִימָ\/ה",
-      "english": "קָדִימָה"
+      "surface": "קדימה",
+      "english": "the east"
     }
   ],
-  "timestamp": "2026-07-18T03:23:05.140581658Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:15.304053478Z",
+  "model": "glm-4.5"
 }

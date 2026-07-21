@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "1-chronicles 8:12",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 828,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59083,
+    "completion_tokens": 769,
+    "prompt_tokens": 59182,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59911
+    "total_tokens": 59951
   },
-  "translation": "וּ\/בְנֵי 埃勒帕阿尔 以伯 וּ\/מִשְׁעָם, 示珥 הוּא בָּנָה ⟨אֶת⟩ 比音 וְ\/אֶת 罗得 וּ\/בְנֹתֶיהָ",
+  "translation": "埃勒帕阿尔的儿子们:以伯,和米沙姆,和沙麦德;他建造了比音,和罗得,以及它的乡镇:",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "וּ\/בְנֵי"
+      "english": "埃勒帕阿尔的儿子们"
     },
     {
       "surface": "אלפעל",
@@ -32,24 +29,24 @@
     },
     {
       "surface": "ומשעם",
-      "english": "וּ\/מִשְׁעָם,"
+      "english": "和米沙姆"
     },
     {
       "surface": "ושמד",
-      "english": "示珥"
+      "english": "和沙麦德"
     },
     {
       "surface": "הוא",
-      "english": "הוּא"
+      "english": "他"
     },
     {
       "surface": "בנה",
-      "english": "בָּנָה"
+      "english": "建造了"
     },
     {
       "surface": "את",
-      "english": "⟨אֶת⟩",
-      "marks": "אוֹנוֹ"
+      "english": "⟨את⟩",
+      "marks": "比音"
     },
     {
       "surface": "אונו",
@@ -57,8 +54,8 @@
     },
     {
       "surface": "ואת",
-      "english": "וְ\/⟨אֶת⟩",
-      "marks": "לֹד"
+      "english": "和⟨את⟩",
+      "marks": "罗得"
     },
     {
       "surface": "לד",
@@ -66,9 +63,9 @@
     },
     {
       "surface": "ובנתיה",
-      "english": "וּ\/בְנֹתֶיהָ"
+      "english": "以及它的乡镇"
     }
   ],
-  "timestamp": "2026-07-18T01:58:02.543119778Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:02.278030756Z",
+  "model": "glm-4.5"
 }

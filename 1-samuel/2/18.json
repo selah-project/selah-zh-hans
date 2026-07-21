@@ -1,39 +1,28 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "1-samuel 2:18",
   "book": "1-samuel",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18215,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18672
-  },
-  "translation": "שְׁמוּאֵל מְשָׁרֵת אֶת פְּנֵי יְהוָה, נַעַר חָגוּר אֵפוֹד בָּד׃",
+  "translation": "然而撒母耳 ⟨是⟩一个孩子,在雅威面前 ⟨את⟩ 侍奉,腰间束着 ⟨一条⟩细麻以弗得。",
   "tokens": [
     {
       "surface": "ושמואל",
-      "english": "撒母耳"
+      "english": "然而撒母耳"
     },
     {
       "surface": "משרת",
-      "english": "事奉着"
+      "english": "侍奉"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "雅威的面"
+      "marks": "在雅威面前"
     },
     {
       "surface": "פני",
-      "english": "面"
+      "english": "在...面前"
     },
     {
       "surface": "יהוה",
@@ -41,7 +30,7 @@
     },
     {
       "surface": "נער",
-      "english": "一个少年人"
+      "english": "一个孩子"
     },
     {
       "surface": "חגור",
@@ -56,6 +45,6 @@
       "english": "细麻"
     }
   ],
-  "timestamp": "2026-07-17T20:22:05.636299550Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:26.846547832Z",
+  "model": "glm-4.5"
 }

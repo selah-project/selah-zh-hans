@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 36,
   "ref": "1-chronicles 8:36",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 748,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59791,
+    "completion_tokens": 671,
+    "prompt_tokens": 59910,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60539
+    "total_tokens": 60581
   },
-  "translation": "וְ\/אָחָז ⟨הוֹלִיד⟩ אֶת יְהוֹעַדָּה; וִ\/יהוֹעַדָּה ⟨הוֹלִיד⟩ אֶת עָלֶמֶת, וְ\/אֶת עַזְמָוֶת, וְ\/אֶת זִמְרִי; וְ\/זִמְרִי ⟨הוֹלִיד⟩ אֶת מוֹצָא.",
+  "translation": "亚哈斯生耶何阿达;耶何阿达生亚尼录,和亚斯玛威,和心玛利;心玛利生摩察",
   "tokens": [
     {
       "surface": "ואחז",
-      "english": "瓦阿哈兹"
+      "english": "亚哈斯"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生"
     },
     {
       "surface": "את",
@@ -37,46 +34,46 @@
     },
     {
       "surface": "ויהועדה",
-      "english": "瓦耶何阿达"
+      "english": "耶何阿达"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "阿勒墨特"
+      "marks": "亚尼录"
     },
     {
       "surface": "עלמת",
-      "english": "阿勒墨特"
+      "english": "亚尼录"
     },
     {
       "surface": "ואת",
-      "english": "瓦⟨את⟩",
-      "marks": "阿兹玛墨特"
+      "english": "和",
+      "marks": "亚斯玛威"
     },
     {
       "surface": "עזמות",
-      "english": "阿兹玛墨特"
+      "english": "亚斯玛威"
     },
     {
       "surface": "ואת",
-      "english": "瓦⟨את⟩",
-      "marks": "兹姆里"
+      "english": "和",
+      "marks": "心玛利"
     },
     {
       "surface": "זמרי",
-      "english": "兹姆里"
+      "english": "心玛利"
     },
     {
       "surface": "וזמרי",
-      "english": "瓦兹姆里"
+      "english": "心玛利"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "english": "生"
     },
     {
       "surface": "את",
@@ -88,6 +85,6 @@
       "english": "摩察"
     }
   ],
-  "timestamp": "2026-07-18T01:58:19.901991591Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:37.680826016Z",
+  "model": "glm-4.5"
 }

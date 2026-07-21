@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "1-chronicles 26:4",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 26,
   "usage": {
-    "completion_tokens": 777,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59184,
+    "completion_tokens": 414,
+    "prompt_tokens": 59289,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59961
+    "total_tokens": 59703
   },
-  "translation": "וּ\/לְ\/עֹבֵד 俄别 הָיוּ בָּנִים: 示玛雅 הַ\/בְּכוֹר, 耶何萨拔 הַ\/שֵּׁנִי, 约阿 הַ\/שְּׁלִשִׁי, 萨卡尔 הָ\/רְבִיעִי, 拿坦业 הַ\/חֲמִישִׁי.",
+  "translation": "至于俄别·以东,⟨有⟩儿子:示玛雅是长子,耶何萨拔是次子,约阿是三子,萨甲是四子,拿坦业是五子。",
   "tokens": [
     {
-      "surface": "וּ\/לְ\/עֹבֵד",
-      "english": "וּלְעֹבֵד"
+      "surface": "ולעבד",
+      "english": "至于俄别"
     },
     {
       "surface": "אדם",
-      "english": "俄别"
+      "english": "以东"
     },
     {
       "surface": "בנים",
-      "english": "בָּנִים"
+      "english": "儿子"
     },
     {
       "surface": "שמעיה",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "הבכור",
-      "english": "הַ\/בְּכוֹר"
+      "english": "是长子"
     },
     {
       "surface": "יהוזבד",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "השני",
-      "english": "הַ\/שֵּׁנִי"
+      "english": "是次子"
     },
     {
       "surface": "יואח",
@@ -52,15 +49,15 @@
     },
     {
       "surface": "השלשי",
-      "english": "הַ\/שְּׁלִשִׁי"
+      "english": "是三子"
     },
     {
       "surface": "ושכר",
-      "english": "萨卡尔"
+      "english": "萨甲"
     },
     {
       "surface": "הרביעי",
-      "english": "הָ\/רְבִיעִי"
+      "english": "是四子"
     },
     {
       "surface": "ונתנאל",
@@ -68,9 +65,9 @@
     },
     {
       "surface": "החמישי",
-      "english": "הַ\/חֲמִישִׁי"
+      "english": "是五子"
     }
   ],
-  "timestamp": "2026-07-18T02:09:54.283548154Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:30.445578898Z",
+  "model": "glm-4.5"
 }

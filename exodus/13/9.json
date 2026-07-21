@@ -1,66 +1,63 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "exodus 13:9",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 1455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19604,
+    "completion_tokens": 614,
+    "prompt_tokens": 19668,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 21059
+    "total_tokens": 20282
   },
-  "translation": "וְהָיָה ⟨זֶה⟩ לְךָ לְאוֹת עַל יָדְךָ וּלְזִכָּרוֹן בֵּין עֵינֶיךָ, לְמַעַן תִּהְיֶה תּוֹרַת 雅威 בְּפִיךָ, כִּי בְּיָד חֲזָקָה הוֹצִיאֲךָ 雅威 埃及.",
+  "translation": "这要在你手上作一个记号,在你眼间作一个纪念,⟨使⟩雅威的妥拉在你口中;因为雅威用大能的手把你从埃及领出来。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "וְהָיָה ⟨זֶה⟩"
+      "english": "这要"
     },
     {
       "surface": "לך",
-      "english": "לְךָ"
+      "english": "在你"
     },
     {
       "surface": "לאות",
-      "english": "לְאוֹת"
+      "english": "手上作一个记号"
     },
     {
       "surface": "על",
-      "english": "עַל"
+      "english": "在"
     },
     {
       "surface": "ידך",
-      "english": "יָדְךָ"
+      "english": "手"
     },
     {
       "surface": "ולזכרון",
-      "english": "וּלְזִכָּרוֹן"
+      "english": "在你眼间作一个纪念"
     },
     {
       "surface": "בין",
-      "english": "בֵּין"
+      "english": "在"
     },
     {
       "surface": "עיניך",
-      "english": "עֵינֶיךָ"
+      "english": "眼间"
     },
     {
       "surface": "למען",
-      "english": "לְמַעַן"
+      "english": "⟨使⟩"
     },
     {
       "surface": "תהיה",
-      "english": "תִּהְיֶה"
+      "english": "⟨是⟩"
     },
     {
       "surface": "תורת",
-      "english": "תּוֹרַת"
+      "english": "妥拉"
     },
     {
       "surface": "יהוה",
@@ -68,23 +65,23 @@
     },
     {
       "surface": "בפיך",
-      "english": "בְּפִיךָ"
+      "english": "在你口中"
     },
     {
       "surface": "כי",
-      "english": "כִּי"
+      "english": "因为"
     },
     {
       "surface": "ביד",
-      "english": "בְּיָד"
+      "english": "用"
     },
     {
       "surface": "חזקה",
-      "english": "חֲזָקָה"
+      "english": "大能的"
     },
     {
       "surface": "הוצאך",
-      "english": "הוֹצִיאֲךָ"
+      "english": "把你...领出来"
     },
     {
       "surface": "יהוה",
@@ -92,9 +89,9 @@
     },
     {
       "surface": "ממצרים",
-      "english": "埃及"
+      "english": "从埃及"
     }
   ],
-  "timestamp": "2026-07-17T18:19:06.336767821Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:40.946998208Z",
+  "model": "glm-4.5"
 }

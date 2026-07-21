@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "jeremiah 28:5",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 28,
   "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19586,
+    "completion_tokens": 573,
+    "prompt_tokens": 19681,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20217
+    "total_tokens": 20254
   },
-  "translation": "耶利米 הַ\/נָּבִיא 对 哈拿尼雅 הַ\/נָּבִיא 说,在 הַ\/כֹּֽהֲנִים 的眼前,也在站在雅威的殿里的全 הָ\/עָם 的眼前:",
+  "translation": "先知耶利米在众祭司面前,并⟨在⟩所有站在雅威殿中之民面前,对先知哈拿尼雅说:",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "הנביא",
-      "english": "那位 naví"
+      "english": "先知"
     },
     {
       "surface": "אל",
@@ -40,27 +37,27 @@
     },
     {
       "surface": "הנביא",
-      "english": "那位 naví"
+      "english": "先知"
     },
     {
       "surface": "לעיני",
-      "english": "在……的眼前"
+      "english": "在……面前"
     },
     {
       "surface": "הכהנים",
-      "english": "那些 כֹּהֲנִים"
+      "english": "众祭司"
     },
     {
       "surface": "ולעיני",
-      "english": "也在……的眼前"
+      "english": "并⟨在⟩……面前"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "english": "所有"
     },
     {
       "surface": "העם",
-      "english": "那民"
+      "english": "民"
     },
     {
       "surface": "העמדים",
@@ -68,13 +65,13 @@
     },
     {
       "surface": "בבית",
-      "english": "在……的殿里"
+      "english": "殿中"
     },
     {
       "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T22:23:12.936373697Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:10.147109007Z",
+  "model": "glm-4.5"
 }

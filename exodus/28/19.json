@@ -1,44 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "exodus 28:19",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 28,
   "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18142,
+    "completion_tokens": 358,
+    "prompt_tokens": 18141,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 18680
+    "total_tokens": 18499
   },
-  "translation": "第三排是 ⟨הַ\/שְּׁלִישִׁי 的定冠词⟩ לֶשֶׁם（紫玛瑙）、שְׁבוּ（玛瑙）和 אַחְלָמָה（紫水晶）。",
+  "translation": "以及第三行是 光鸣石、玛瑙、和紫水晶",
   "tokens": [
     {
-      "surface": "וְ\/הַ\/טּוּר",
-      "english": "第三排"
+      "surface": "והטור",
+      "english": "以及...行"
     },
     {
-      "surface": "הַ\/שְּׁלִישִׁי",
-      "english": "第三（排）"
+      "surface": "השלישי",
+      "english": "第三"
     },
     {
-      "surface": "לֶשֶׁם",
-      "english": "לֶשֶׁם（紫玛瑙）"
+      "surface": "לשם",
+      "english": "是 光鸣石"
     },
     {
-      "surface": "שְׁבוּ",
-      "english": "שְׁבוּ（玛瑙）"
+      "surface": "שבו",
+      "english": "玛瑙"
     },
     {
-      "surface": "וְ\/אַחְלָמָה",
-      "english": "和 אַחְלָמָה（紫水晶）"
+      "surface": "ואחלמה",
+      "english": "和紫水晶"
     }
   ],
-  "timestamp": "2026-07-17T18:29:49.287790675Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:01.034046709Z",
+  "model": "glm-4.5"
 }

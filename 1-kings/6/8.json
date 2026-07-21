@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "1-kings 6:8",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 813,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64589,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65402
-  },
-  "translation": "פֶּ֗תַח הַ\/צֵּלָע֙ הַ\/תִּ֣יכֹנָ֔ה אֶל כֶּ֥תֶף הַ\/בַּ֖יִת הַ\/יְמָנִ֑ית וּ\/בְ\/לוּלִּ֗ים יַֽעֲלוּ֙ עַל הַ\/תִּ֣יכֹנָ֔ה וּ\/מִן הַ\/תִּֽיכֹנָ֖ה אֶל הַ\/שְּׁלִשִֽׁים",
+  "translation": "中层侧室的门在房屋的右肩；借着螺旋楼梯 ⟨他们⟩ 上到中层，并从中层上到第三层。",
   "tokens": [
     {
       "surface": "פתח",
@@ -32,27 +21,27 @@
     },
     {
       "surface": "אל",
-      "english": "向"
+      "english": "在"
     },
     {
       "surface": "כתף",
-      "english": "肩部"
+      "english": "肩"
     },
     {
       "surface": "הבית",
-      "english": "殿宇的"
+      "english": "房屋的"
     },
     {
       "surface": "הימנית",
-      "english": "右侧"
+      "english": "右"
     },
     {
       "surface": "ובלולים",
-      "english": "借着螺旋楼梯"
+      "english": "螺旋楼梯"
     },
     {
       "surface": "יעלו",
-      "english": "他们上去"
+      "english": "上到"
     },
     {
       "surface": "על",
@@ -64,7 +53,7 @@
     },
     {
       "surface": "ומן",
-      "english": "从"
+      "english": "并从"
     },
     {
       "surface": "התיכנה",
@@ -79,6 +68,6 @@
       "english": "第三层"
     }
   ],
-  "timestamp": "2026-07-17T21:01:09.655585656Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:44.189572617Z",
+  "model": "glm-4.5"
 }

@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "2-kings 19:30",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18604,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19250
-  },
-  "translation": "וְ\/יָסְפָה פְּלֵיטַת בֵּית 犹大 הַ\/נִּשְׁאָרָה שֹׁרֶשׁ לְ\/מָטָּה וְ\/עָשָׂה פְּרִי לְ\/מָעְלָה",
+  "translation": "而那从犹大家 ⟨逃脱⟩ 的余民 ⟨必⟩ 向下生根,向上结果。",
   "tokens": [
     {
       "surface": "ויספה",
-      "english": "וְ\/יָסְפָה"
+      "english": "而 ⟨必⟩"
     },
     {
       "surface": "פליטת",
-      "english": "פְּלֵיטַת"
+      "english": "那从… ⟨逃脱⟩ 的"
     },
     {
       "surface": "בית",
-      "english": "בֵּית"
+      "english": "家"
     },
     {
       "surface": "יהודה",
@@ -36,29 +25,29 @@
     },
     {
       "surface": "הנשארה",
-      "english": "הַ\/נִּשְׁאָרָה"
+      "english": "余民"
     },
     {
       "surface": "שרש",
-      "english": "שֹׁרֶשׁ"
+      "english": "生根"
     },
     {
       "surface": "למטה",
-      "english": "לְ\/מָטָּה"
+      "english": "向下"
     },
     {
       "surface": "ועשה",
-      "english": "וְ\/עָשָׂה"
+      "english": "并…"
     },
     {
       "surface": "פרי",
-      "english": "פְּרִי"
+      "english": "结果"
     },
     {
       "surface": "למעלה",
-      "english": "לְ\/מָעְלָה"
+      "english": "向上"
     }
   ],
-  "timestamp": "2026-07-17T21:30:35.466822873Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:59.556674931Z",
+  "model": "glm-4.5"
 }

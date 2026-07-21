@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "joshua 15:14",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 1276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18767,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 20043
-  },
-  "translation": "כלב הוריש משם את שלושת בני הענק: ⟨את⟩ ששי וְאת ⟨את⟩ אחימן וְאת ⟨את⟩ תלמי, ילידי הענק.",
+  "translation": "迦勒从那里赶出了 הָעֲנָק 的三个儿子:⟨את⟩示筛,和 ⟨את⟩亚希幔,和 ⟨את⟩达买,他们是 הָעֲנָק 的后裔。",
   "tokens": [
     {
-      "surface": "וַ\/יֹּרֶשׁ",
-      "english": "וַ\/יֹּרֶשׁ"
+      "surface": "וירש",
+      "english": "赶出了"
     },
     {
-      "surface": "מִ\/שָּׁם",
-      "english": "מִ\/שָּׁם"
+      "surface": "משם",
+      "english": "从那里"
     },
     {
-      "surface": "כָּלֵב",
+      "surface": "כלב",
       "english": "迦勒"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "שלושה"
+      "marks": "三个儿子"
     },
     {
-      "surface": "שְׁלוֹשָׁ֖ה",
-      "english": "שְׁלוֹשָׁ֖ה"
+      "surface": "שלושה",
+      "english": "三个"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "english": "בְּנֵ֣י"
+      "surface": "בני",
+      "english": "儿子"
     },
     {
-      "surface": "הָ\/עֲנָ֑ק",
-      "english": "亚衲"
+      "surface": "הענק",
+      "english": "הָעֲנָק"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "ששי"
+      "marks": "示筛"
     },
     {
-      "surface": "שֵׁשַׁ֤י",
+      "surface": "ששי",
       "english": "示筛"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְאת ⟨את⟩",
-      "marks": "אחימן"
+      "surface": "ואת",
+      "english": "和 ⟨את⟩",
+      "marks": "亚希幔"
     },
     {
-      "surface": "אֲחִימַן֙",
+      "surface": "אחימן",
       "english": "亚希幔"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְאת ⟨את⟩",
-      "marks": "תלמי"
+      "surface": "ואת",
+      "english": "和 ⟨את⟩",
+      "marks": "达买"
     },
     {
-      "surface": "תַּלְמַ֔י",
+      "surface": "תלמי",
       "english": "达买"
     },
     {
-      "surface": "יְלִידֵ֖י",
-      "english": "יְלִידֵ֖י"
+      "surface": "ילידי",
+      "english": "后裔"
     },
     {
-      "surface": "הָ\/עֲנָֽק",
-      "english": "亚衲"
+      "surface": "הענק",
+      "english": "הָעֲנָק"
     }
   ],
-  "timestamp": "2026-07-17T20:00:02.970287954Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:48.089454607Z",
+  "model": "glm-4.5"
 }

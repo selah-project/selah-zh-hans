@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "exodus 20:2",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18561,
+    "completion_tokens": 504,
+    "prompt_tokens": 18639,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19103
+    "total_tokens": 19143
   },
-  "translation": "אָֽנֹכִ֖י (אני) יְהוָ֣ה אֱלֹהֶ֑י\/ךָ (אֱלֹהֶ֑י\/ךָ) אֲשֶׁ֧ר הוֹצֵאתִ֛י\/ךָ מֵ\/אֶ֥רֶץ מִצְרַ֖יִם מִ\/בֵּ֥ית עֲבָדִֽים",
+  "translation": "我是雅威你的以罗欣,⟨他⟩将你从埃及地,从奴仆的家中带出来。",
   "tokens": [
     {
       "surface": "אנכי",
-      "english": "我"
+      "english": "我(是)"
     },
     {
       "surface": "יהוה",
@@ -32,29 +29,29 @@
     },
     {
       "surface": "אשר",
-      "english": "他曾"
+      "english": "⟨他⟩"
     },
     {
       "surface": "הוצאתיך",
-      "english": "领你出"
+      "english": "将你带出来"
     },
     {
       "surface": "מארץ",
-      "english": "从…的地"
+      "english": "从埃及地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "english": "从"
     },
     {
       "surface": "מבית",
-      "english": "从…的家"
+      "english": "从奴仆的家中"
     },
     {
       "surface": "עבדים",
-      "english": "奴隶"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:23:46.068928801Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:32.663822332Z",
+  "model": "glm-4.5"
 }

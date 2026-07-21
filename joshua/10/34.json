@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 34,
   "ref": "joshua 10:34",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 702,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18281,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18983
-  },
-  "translation": "约书亚 passeth 过去,וְ\/כָל 以色列与他一起,从拉吉 ⟨到⟩ עֶגְלֹנָ\/ה,וַ\/יַּחֲנ֣וּ עָלֶ֔י\/הָ,וַ\/יִּֽלָּחֲמ֖וּ עָלֶֽי\/הָ",
+  "translation": "约书亚和⟨同⟩他在一起的以色列人,从拉吉过到伊矶伦,就安营⟨攻打⟩它,与它争战:",
   "tokens": [
     {
-      "surface": "וַ\/יַּעֲבֹ֣ר",
-      "english": "和 passeth 过去"
+      "surface": "ויעבר",
+      "english": "过到"
     },
     {
-      "surface": "יְהוֹשֻׁעַ",
+      "surface": "יהושע",
       "english": "约书亚"
     },
     {
-      "surface": "וְ\/כָל",
-      "english": "和所有的"
+      "surface": "וכל",
+      "english": "和"
     },
     {
-      "surface": "יִשְׂרָאֵ֥ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "עִמּ֛\/וֹ",
-      "english": "与他"
+      "surface": "עמו",
+      "english": "⟨同⟩他在一起的"
     },
     {
-      "surface": "מִ\/לָּכִ֖ישׁ",
-      "english": "从拉吉"
+      "surface": "מלכיש",
+      "english": "拉吉"
     },
     {
-      "surface": "עֶגְלֹ֑נָ\/ה",
-      "english": "到以伦"
+      "surface": "עגלנה",
+      "english": "伊矶伦"
     },
     {
-      "surface": "וַ\/יַּחֲנ֣וּ",
-      "english": "和扎营"
+      "surface": "ויחנו",
+      "english": "安营"
     },
     {
-      "surface": "עָלֶ֔י\/הָ",
-      "english": "对它"
+      "surface": "עליה",
+      "english": "⟨攻打⟩它"
     },
     {
-      "surface": "וַ\/יִּֽלָּחֲמ֖וּ",
-      "english": "和战斗"
+      "surface": "וילחמו",
+      "english": "争战"
     },
     {
-      "surface": "עָלֶֽי\/הָ",
-      "english": "对它"
+      "surface": "עליה",
+      "english": "与它"
     }
   ],
-  "timestamp": "2026-07-17T19:56:45.650236685Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:52.734268015Z",
+  "model": "glm-4.5"
 }

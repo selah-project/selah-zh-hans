@@ -1,84 +1,74 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "numbers 25:14",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 781,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20502,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21283
-  },
-  "translation": "וְ\/שֵׁם֩ אִ֨ישׁ 以色列 הַ\/מֻּכֶּ֗ה אֲשֶׁ֤ר הֻכָּה֙ אֶת 米甸 心玛利 בֶּן 撒路 נְשִׂ֥יא בֵֽית אָ֖ב לַ\/שִּׁמְעֹנִֽי׃",
+  "translation": "那被杀 ⟨את⟩ 米甸女人的以色列人 ⟨是⟩ 心玛利,撒路的 ⟨子⟩,一个西缅支派父家 ⟨的⟩ 首领。",
   "tokens": [
     {
-      "surface": "וְ\/שֵׁם֩",
-      "english": "וְ\/שֵׁם֩"
+      "surface": "ושם",
+      "english": "那...的名字"
     },
     {
-      "surface": "אִ֨ישׁ",
-      "english": "אִ֨ישׁ"
+      "surface": "איש",
+      "english": "人"
     },
     {
-      "surface": "יִשְׂרָאֵ֜ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הַ\/מֻּכֶּ֗ה",
-      "english": "הַ\/מֻּכֶּ֗ה"
+      "surface": "המכה",
+      "english": "被杀"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
-      "english": "אֲשֶׁ֤ר"
+      "surface": "אשר",
+      "english": ""
     },
     {
-      "surface": "הֻכָּה֙",
-      "english": "הֻכָּה֙"
+      "surface": "הכה",
+      "english": "被杀"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "米甸女人"
     },
     {
-      "surface": "הַ\/מִּדְיָנִ֔ית",
-      "english": "米甸"
+      "surface": "המדינית",
+      "english": "米甸女人"
     },
     {
-      "surface": "זִמְרִ֖י",
+      "surface": "זמרי",
       "english": "心玛利"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "子"
     },
     {
-      "surface": "סָל֑וּא",
+      "surface": "סלוא",
       "english": "撒路"
     },
     {
-      "surface": "נְשִׂ֥יא",
-      "english": "נְשִׂ֥יא"
+      "surface": "נשיא",
+      "english": "首领"
     },
     {
-      "surface": "בֵֽית",
-      "english": "בֵֽית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "אָ֖ב",
-      "english": "אָ֖ב"
+      "surface": "אב",
+      "english": "父"
     },
     {
-      "surface": "לַ\/שִּׁמְעֹנִֽי",
-      "english": "לַ\/שִּׁמְעֹנִֽי"
+      "surface": "לשמעני",
+      "english": "西缅"
     }
   ],
-  "timestamp": "2026-07-17T19:18:36.932183314Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:13.276182153Z",
+  "model": "glm-4.5"
 }

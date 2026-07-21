@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "jeremiah 23:31",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 23,
   "usage": {
-    "completion_tokens": 764,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19150,
+    "completion_tokens": 457,
+    "prompt_tokens": 19214,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 19914
+    "total_tokens": 19671
   },
-  "translation": "看哪,我必攻击 ⟨הַ\/נְּבִיאִ֖ם⟩ ⟨הַ\/נָּבִיאִים⟩ —— 雅威的 *na'am* —— ⟨הַ\/נָּבִיאִים⟩ ⟨הַ\/נְּבִיאִ֖ם⟩ ⟨הַ\/לֹּקְחִ֣ים⟩ ⟨לָשׁוֹן⟩ ⟨לָשׁוֹן⟩ ⟨וְ\/הֵם⟩ ⟨אֹמְרִים⟩ ⟨נְאֻם⟩",
+  "translation": "看哪,我对抗那些先知,这是雅威的宣告,就是那些借用自己的舌头说‘这是宣告’的。",
   "tokens": [
     {
-      "surface": "הִנְ\/נִ֥י",
-      "english": "看哪,我在……之上"
+      "surface": "הנני",
+      "english": "看哪,我"
     },
     {
-      "surface": "עַל",
-      "english": "攻击"
+      "surface": "על",
+      "english": "对抗"
     },
     {
-      "surface": "הַ\/נְּבִיאִ֖ם",
-      "english": "先知们"
+      "surface": "הנביאם",
+      "english": "那些先知"
     },
     {
-      "surface": "נְאֻם",
-      "english": "雅威的 *na'am*"
+      "surface": "נאם",
+      "english": "这是雅威的宣告"
     },
     {
-      "surface": "יְהוָ֑ה",
-      "english": "雅威的"
+      "surface": "יהוה",
+      "english": "雅威"
     },
     {
-      "surface": "הַ\/לֹּקְחִ֣ים",
-      "english": "那些盗取"
+      "surface": "הלקחים",
+      "english": "就是那些借用"
     },
     {
-      "surface": "לְשׁוֹנָ֔\/ם",
-      "english": "他们各自的舌头"
+      "surface": "לשונם",
+      "english": "自己的舌头"
     },
     {
-      "surface": "וַֽ\/יִּנְאֲמ֖וּ",
-      "english": "他们宣告"
+      "surface": "וינאמו",
+      "english": "说"
     },
     {
-      "surface": "נְאֻֽם",
-      "english": "*na'am*"
+      "surface": "נאם",
+      "english": "‘这是宣告’的"
     }
   ],
-  "timestamp": "2026-07-17T22:20:04.710396585Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:43.586635027Z",
+  "model": "glm-4.5"
 }

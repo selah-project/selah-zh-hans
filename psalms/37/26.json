@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "psalms 37:26",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 37,
   "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64304,
+    "completion_tokens": 336,
+    "prompt_tokens": 64303,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64672
+    "total_tokens": 64639
   },
-  "translation": "כָּל הַיּוֹם חָנַן וּמַלְוֶה, וְזַרְעוֹ לִבְרָכָה׃",
+  "translation": "终日他施恩并且借贷，而他的后代蒙福。",
   "tokens": [
     {
       "surface": "כל",
@@ -24,25 +21,25 @@
     },
     {
       "surface": "היום",
-      "english": "（整天）"
+      "english": ""
     },
     {
       "surface": "חונן",
-      "english": "施恩"
+      "english": "他施恩"
     },
     {
       "surface": "ומלוה",
-      "english": "且借贷（给人）"
+      "english": "并且借贷"
     },
     {
       "surface": "וזרעו",
-      "english": "他的后裔"
+      "english": "而他的后代"
     },
     {
       "surface": "לברכה",
-      "english": "成为祝福"
+      "english": "蒙福"
     }
   ],
-  "timestamp": "2026-07-17T23:51:34.343481835Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:44.676073280Z",
+  "model": "glm-4.5"
 }

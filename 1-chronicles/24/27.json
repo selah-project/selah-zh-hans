@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "1-chronicles 24:27",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58575,
+    "completion_tokens": 293,
+    "prompt_tokens": 58637,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58894
+    "total_tokens": 58930
   },
-  "translation": "米拉利 (מְרָרִי) 的众子：借 (יעזיהו) 他的儿子，שֹׁהַם 和 和עִבְרִי。",
+  "translation": "米拉利的子孙:通过雅谢亚;比诺,朔含,撒刻,伊比利。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的众子"
+      "english": "子孙"
     },
     {
       "surface": "מררי",
@@ -28,25 +25,25 @@
     },
     {
       "surface": "ליעזיהו",
-      "english": "借"
+      "english": "通过雅谢亚"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "english": "比诺"
     },
     {
       "surface": "ושהם",
-      "english": "和שֹׁהַם"
+      "english": "朔含"
     },
     {
       "surface": "וזכור",
-      "english": "和"
+      "english": "撒刻"
     },
     {
       "surface": "ועברי",
-      "english": "和עִבְרִי"
+      "english": "伊比利"
     }
   ],
-  "timestamp": "2026-07-18T02:08:35.494725353Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:01.228231757Z",
+  "model": "glm-4.5"
 }

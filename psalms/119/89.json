@@ -1,44 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 89,
   "ref": "psalms 119:89",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 119,
   "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64239,
+    "completion_tokens": 427,
+    "prompt_tokens": 64303,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64805
+    "total_tokens": 64730
   },
-  "translation": "לְעוֹלָם יְהוָה דְּבָרְךָ נִצָּב בַּשָּׁמָיִם：雅威啊，你的*davar*（话）永远确立⟨在⟩诸天上。",
+  "translation": "直到永远,雅威啊,你的 *davar* (话) 坚定地设立在诸天中。",
   "tokens": [
     {
-      "surface": "לְעוֹלָ֥ם",
-      "english": "לְעוֹלָם"
+      "surface": "לעולם",
+      "english": "直到永远"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "דְּ֝בָרְ\/ךָ֗",
-      "english": "你的 *davar*"
+      "surface": "דברך",
+      "english": "你的 *davar* (话)"
     },
     {
-      "surface": "נִצָּ֥ב",
-      "english": "确立"
+      "surface": "נצב",
+      "english": "坚定地设立"
     },
     {
-      "surface": "בַּ\/שָּׁמָֽיִם",
-      "english": "⟨在⟩诸天上"
+      "surface": "בשמים",
+      "english": "在诸天中"
     }
   ],
-  "timestamp": "2026-07-18T00:23:44.372074859Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:46.062854576Z",
+  "model": "glm-4.5"
 }

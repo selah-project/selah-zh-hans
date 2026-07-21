@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 60,
   "ref": "ezra 2:60",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46725,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47173
-  },
-  "translation": "דְּלָיָה的子裔、טוֹבִיָּה的子裔、נְקוֹדָא的子裔：六百五十二⟨人⟩。",
+  "translation": "大卫的子孙,多比雅的子孙,尼科达的子孙,六百五十二人。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子裔"
+      "english": "大卫的子孙"
     },
     {
       "surface": "דליה",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "english": "……的子裔"
+      "english": "多比雅的子孙"
     },
     {
       "surface": "טוביה",
@@ -36,7 +25,7 @@
     },
     {
       "surface": "בני",
-      "english": "……的子裔"
+      "english": "尼科达的子孙"
     },
     {
       "surface": "נקודא",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "שש",
-      "english": "六"
+      "english": "六百"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "english": ""
     },
     {
       "surface": "חמשים",
@@ -56,9 +45,9 @@
     },
     {
       "surface": "ושנים",
-      "english": "和二"
+      "english": "二"
     }
   ],
-  "timestamp": "2026-07-18T01:37:41.620700024Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:32.180529960Z",
+  "model": "glm-4.5"
 }

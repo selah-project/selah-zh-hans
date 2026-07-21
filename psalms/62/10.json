@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "psalms 62:10",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 62,
   "usage": {
-    "completion_tokens": 692,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64839,
+    "completion_tokens": 503,
+    "prompt_tokens": 64880,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65531
+    "total_tokens": 65383
   },
-  "translation": "אַךְ הֶבֶל בְּנֵי־אָדָם כָּזָב בְּנֵי־אִישׁ ⟨הֵם⟩ בַּ\/מֹּאזְנַיִם לַ\/עֲלוֹת הֵמָּה מֵ\/הֶבֶל יָחַד׃",
+  "translation": "只是亚当的子民尽是虚空,伟人的儿子尽是谎言;若放在天平上,他们必上升;合起来都比虚空更轻。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "english": "只是"
     },
     {
       "surface": "הבל",
-      "english": "hevel"
+      "english": "虚空"
     },
     {
       "surface": "בני",
-      "english": "……之子"
+      "english": "子民"
     },
     {
       "surface": "אדם",
@@ -36,37 +33,37 @@
     },
     {
       "surface": "כזב",
-      "english": "כָּזָב（谎言）"
+      "english": "谎言"
     },
     {
       "surface": "בני",
-      "english": "……之子"
+      "english": "儿子"
     },
     {
       "surface": "איש",
-      "english": "伊什"
+      "english": "伟人"
     },
     {
       "surface": "במאזנים",
-      "english": "在\/天平上"
+      "english": "若放在天平上"
     },
     {
       "surface": "לעלות",
-      "english": "为要\/上升"
+      "english": "他们必上升"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "english": "合起来"
     },
     {
       "surface": "מהבל",
-      "english": "比\/hevel（虚无）"
+      "english": "比虚空"
     },
     {
       "surface": "יחד",
-      "english": "加在一起（יחד，更轻）"
+      "english": "更轻"
     }
   ],
-  "timestamp": "2026-07-18T00:00:16.540209699Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:33.314256550Z",
+  "model": "glm-4.5"
 }

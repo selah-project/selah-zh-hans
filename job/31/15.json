@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "job 31:15",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 31,
   "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21586,
+    "completion_tokens": 435,
+    "prompt_tokens": 21585,
     "prompt_tokens_details": {
       "cached_tokens": 20608
     },
-    "total_tokens": 22041
+    "total_tokens": 22020
   },
-  "translation": "הֲלֹא בַבֶּטֶן עֹשֵׂנִי עָשָׂהוּ, וַיְכֻנֶּנּוּ בָּרֶחֶם אֶחָד? ⟨难道⟩不是那在腹中造了我的,也造了他?⟨岂不是⟩那一位在子宫里预备了我们?",
+  "translation": "Did not ⟨He who⟩ made me ⟨in⟩ ⟨the⟩ womb make him? And did not One fashion us ⟨in⟩ ⟨the⟩ womb?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不是"
+      "english": "Did not"
     },
     {
       "surface": "בבטן",
-      "english": "在腹中"
+      "english": "⟨in⟩ ⟨the⟩ womb"
     },
     {
       "surface": "עשני",
-      "english": "造了我"
+      "english": "made me"
     },
     {
       "surface": "עשהו",
-      "english": "造了他"
+      "english": "make him"
     },
     {
       "surface": "ויכננו",
-      "english": "预备了我们"
+      "english": "And did not One fashion us"
     },
     {
       "surface": "ברחם",
-      "english": "在子宫里"
+      "english": "⟨in⟩ ⟨the⟩ womb"
     },
     {
       "surface": "אחד",
-      "english": "一位"
+      "english": "One"
     }
   ],
-  "timestamp": "2026-07-18T01:04:13.910536274Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:53.700960790Z",
+  "model": "glm-4.5"
 }

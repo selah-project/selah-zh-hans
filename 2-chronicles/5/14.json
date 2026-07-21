@@ -1,62 +1,59 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "2-chronicles 5:14",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 867,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60227,
+    "completion_tokens": 596,
+    "prompt_tokens": 60291,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61094
+    "total_tokens": 60887
   },
-  "translation": "הכהנים (הכוהנים) לא יכלו לעמוד לשרת מפני הענן, כי מלא כבוד יהוה ⟨את⟩ בית האלהים (האלהים).",
+  "translation": "并且祭司们无法站立去服事,因为雅威的荣光充满了 ⟨את⟩ 以罗欣的殿",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "וְלֹא (ולא)"
+      "english": "并且不"
     },
     {
       "surface": "יכלו",
-      "english": "יָכְלוּ (יכלו)"
+      "english": "能够"
     },
     {
       "surface": "הכהנים",
-      "english": "הַכֹּהֲנִים (הכהנים)"
+      "english": "祭司们"
     },
     {
       "surface": "לעמוד",
-      "english": "לַעֲמֹד (לעמוד)"
+      "english": "站立"
     },
     {
       "surface": "לשרת",
-      "english": "לְשָׁרֵת (לשרת)"
+      "english": "去服事"
     },
     {
       "surface": "מפני",
-      "english": "מִפְּנֵי (מפני)"
+      "english": "因为"
     },
     {
       "surface": "הענן",
-      "english": "הֶעָנָן (הענן)"
+      "english": "云"
     },
     {
       "surface": "כי",
-      "english": "כִּי (כי)"
+      "english": "因为"
     },
     {
       "surface": "מלא",
-      "english": "מָלֵא (מלא)"
+      "english": "充满了"
     },
     {
       "surface": "כבוד",
-      "english": "כְבוֹד (כבוד)"
+      "english": "荣光"
     },
     {
       "surface": "יהוה",
@@ -64,17 +61,18 @@
     },
     {
       "surface": "את",
-      "english": "אֶת (את)"
+      "english": "⟨את⟩",
+      "marks": "以罗欣的殿"
     },
     {
       "surface": "בית",
-      "english": "בֵּית (בית)"
+      "english": "殿"
     },
     {
       "surface": "האלהים",
-      "english": "הָאֱלֹהִים (האלהים)"
+      "english": "以罗欣的"
     }
   ],
-  "timestamp": "2026-07-18T02:16:31.155617897Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:18.799171458Z",
+  "model": "glm-4.5"
 }

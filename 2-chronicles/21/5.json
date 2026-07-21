@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "2-chronicles 21:5",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59878,
+    "completion_tokens": 487,
+    "prompt_tokens": 59944,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60357
+    "total_tokens": 60431
   },
-  "translation": "בֶּן שְׁלֹשִׁים וּ\/שְׁתַּיִם שָׁנָה יְהוֹרָם בְּ\/מָלְכ֑\/וֹ，וּ\/שְׁמוֹנֶה שָׁנִים מָלַךְ בִּ\/ירוּשָׁלִָֽם。",
+  "translation": "约兰登基的时候是三十二岁,在耶路撒冷作王八年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "儿子"
-    },
-    {
-      "surface": "שלשים",
       "english": "三十"
     },
     {
-      "surface": "ושתים",
-      "english": "和二"
+      "surface": "שלשים",
+      "english": "二"
     },
     {
-      "surface": "שנה",
+      "surface": "ושתים",
       "english": "岁"
     },
     {
-      "surface": "יהורם",
+      "surface": "שנה",
       "english": "约兰"
     },
     {
+      "surface": "יהורם",
+      "english": "⟨在⟩"
+    },
+    {
       "surface": "במלכו",
-      "english": "在他登基时"
+      "english": "登基的时候"
     },
     {
       "surface": "ושמונה",
-      "english": "和八"
+      "english": "在耶路撒冷"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "english": "作王"
     },
     {
       "surface": "מלך",
-      "english": "他作王"
+      "english": "八年"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:26:11.503490026Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:19.676829817Z",
+  "model": "glm-4.5"
 }

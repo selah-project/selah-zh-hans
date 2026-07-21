@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 41,
   "ref": "1-kings 22:41",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 752,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64234,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64986
-  },
-  "translation": "וְ\/约沙法 (约沙法) בֶּן (בֶּן) 亚撒 (亚撒) מָלַךְ (מָלַךְ) עַל (עַל) 犹大 (犹大). בִּ\/שְׁנַת (בִּ\/שְׁנַת) אַרְבַּע (אַרְבַּע) 亚哈 (亚哈) מֶלֶךְ (מֶלֶךְ) 以色列 (以色列).",
+  "translation": "约沙法,亚撒之子,在亚哈王统治以色列的第四年,开始统治犹大。",
   "tokens": [
     {
-      "surface": "וִ\/יהֽוֹשָׁפָט",
+      "surface": "ויהושפט",
       "english": "约沙法"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "亚撒之子"
     },
     {
-      "surface": "אָסָ֔א",
+      "surface": "אסא",
       "english": "亚撒"
     },
     {
-      "surface": "מָלַ֖ךְ",
-      "english": "מָלַךְ"
+      "surface": "מלך",
+      "english": "开始统治"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "在"
     },
     {
-      "surface": "יְהוּדָ֑ה",
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
-      "surface": "בִּ\/שְׁנַ֣ת",
-      "english": "בִּ\/שְׁנַת"
+      "surface": "בשנת",
+      "english": "在...年"
     },
     {
-      "surface": "אַרְבַּ֔ע",
-      "english": "אַרְבַּע"
+      "surface": "ארבע",
+      "english": "第四"
     },
     {
-      "surface": "לְ\/אַחְאָ֖ב",
+      "surface": "לאחאב",
       "english": "亚哈"
     },
     {
-      "surface": "מֶ֥לֶךְ",
-      "english": "מֶלֶךְ"
+      "surface": "מלך",
+      "english": "王统治"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-17T21:16:48.046183415Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:05.890497851Z",
+  "model": "glm-4.5"
 }

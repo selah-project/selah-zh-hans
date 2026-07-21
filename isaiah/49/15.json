@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "isaiah 49:15",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 698,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21020,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21718
-  },
-  "translation": "הֲתִשְׁכַּח אִשָּׁה עוּלָהּ, מֵרַחֵם בֶּן בִּטְנָהּ? גַּם אֵלֶּה תִשְׁכַּחְנָה, וְאָנֹכִי לֹא אֶשְׁכָּחֵךְ׃",
+  "translation": "难道 ⟨一个⟩ 女人会忘记 ⟨她的⟩ 吃奶的孩子,不怜悯 ⟨她⟩ 腹中的儿子吗? 即使他们 ⟨可能⟩ 忘记,我却不忘记你。",
   "tokens": [
     {
       "surface": "התשכח",
-      "english": "难道……会忘记"
+      "english": "忘记 ⟨会⟩"
     },
     {
       "surface": "אשה",
@@ -28,35 +17,35 @@
     },
     {
       "surface": "עולה",
-      "english": "她的婴孩"
+      "english": "吃奶的孩子"
     },
     {
       "surface": "מרחם",
-      "english": "不去怜悯"
+      "english": "从"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "english": "怜悯 ⟨有⟩"
     },
     {
       "surface": "בטנה",
-      "english": "她腹中的"
+      "english": "子宫"
     },
     {
-      "surface": "ם",
+      "surface": "גם",
       "english": "即使"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "english": "他们"
     },
     {
       "surface": "תשכחנה",
-      "english": "可能会忘记"
+      "english": "忘记"
     },
     {
       "surface": "ואנכי",
-      "english": "而我"
+      "english": "但我"
     },
     {
       "surface": "לא",
@@ -67,6 +56,6 @@
       "english": "忘记你"
     }
   ],
-  "timestamp": "2026-07-17T21:58:19.349414674Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:35.627711615Z",
+  "model": "glm-4.5"
 }

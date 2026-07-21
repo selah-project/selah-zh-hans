@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "1-chronicles 12:3",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59301,
+    "completion_tokens": 564,
+    "prompt_tokens": 59382,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59896
+    "total_tokens": 59946
   },
-  "translation": "⟨הָרֹ֨אשׁ⟩ אֲחִיעֶזֶר וְ\/יוֹאָשׁ, בְּנֵי הַ\/שְּׁמָעָה הַ\/גִּבְעָתִי; ו\/יזואל וָ\/פֶלֶט, בְּנֵי עַזְמָוֶת; וּ\/בְרָכָה וְ\/יֵהוּא הָ\/עֲנְּתֹתִי׃",
+  "translation": "首领 亚希以谢,还有 约押,就是 基比亚 人 示玛 的儿子们,以及 耶西业 和 比列,就是 亚斯玛威 的儿子们,以及 比拉迦 和 耶户,就是 亚拿突 人。",
   "tokens": [
     {
       "surface": "הראש",
@@ -28,31 +25,31 @@
     },
     {
       "surface": "ויואש",
-      "english": "和约阿施"
+      "english": "还有 约押"
     },
     {
       "surface": "בני",
-      "english": "……的儿子们"
+      "english": "就是 ⟨the⟩ 儿子们"
     },
     {
       "surface": "השמעה",
-      "english": "示玛亚"
+      "english": "示玛"
     },
     {
       "surface": "הגבעתי",
-      "english": "基比亚人"
+      "english": "基比亚 人"
     },
     {
       "surface": "ויזואל",
-      "english": "伊薛"
+      "english": "以及 耶西业"
     },
     {
       "surface": "ופלט",
-      "english": "和比列"
+      "english": "和 比列"
     },
     {
       "surface": "בני",
-      "english": "……的儿子们"
+      "english": "就是 ⟨the⟩ 儿子们"
     },
     {
       "surface": "עזמות",
@@ -60,17 +57,17 @@
     },
     {
       "surface": "וברכה",
-      "english": "和比拉迦"
+      "english": "以及 比拉迦"
     },
     {
       "surface": "ויהוא",
-      "english": "和耶户"
+      "english": "和 耶户"
     },
     {
       "surface": "הענתתי",
-      "english": "亚拿突人"
+      "english": "亚拿突 人"
     }
   ],
-  "timestamp": "2026-07-18T02:01:14.767183842Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:41.478024368Z",
+  "model": "glm-4.5"
 }

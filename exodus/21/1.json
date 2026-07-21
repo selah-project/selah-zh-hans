@@ -1,44 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "exodus 21:1",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18149,
+    "completion_tokens": 309,
+    "prompt_tokens": 18148,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 18595
+    "total_tokens": 18457
   },
-  "translation": "וְ\/אֵ֨לֶּה֙ אֵלֶּה ⟨הַ\/מִּשְׁפָּטִ֔ים הַ\/מִּשְׁפָּטִים⟩ אֲשֶׁר־תָּשִׂים לִ\/פְנֵיהֶם׃",
+  "translation": "现在这些是条例，是你将摆在它们面前的 ⟨את⟩ 审判 ——",
   "tokens": [
     {
-      "surface": "וְ\/אֵ֨לֶּה֙",
-      "english": "וְ\/אֵלֶּה"
+      "surface": "ואלה",
+      "english": "现在这些"
     },
     {
-      "surface": "הַ\/מִּשְׁפָּטִ֔ים",
-      "english": "הַ\/מִּשְׁפָּטִים"
+      "surface": "המשפטים",
+      "english": "条例"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": "——"
     },
     {
-      "surface": "תָּשִׂ֖ים",
-      "english": "תָּשִׂים"
+      "surface": "תשים",
+      "english": "是你将摆在"
     },
     {
-      "surface": "לִ\/פְנֵי\/הֶֽם",
-      "english": "לִ\/פְנֵיהֶם"
+      "surface": "לפניהם",
+      "english": "它们面前的 ⟨את⟩"
     }
   ],
-  "timestamp": "2026-07-17T18:24:12.602112940Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:33.270116262Z",
+  "model": "glm-4.5"
 }

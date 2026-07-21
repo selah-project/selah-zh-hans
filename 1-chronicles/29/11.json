@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "1-chronicles 29:11",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 29,
   "usage": {
-    "completion_tokens": 1154,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59702,
+    "completion_tokens": 665,
+    "prompt_tokens": 59766,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60856
+    "total_tokens": 60431
   },
-  "translation": "לךָ, יְהוָה, הַ\/גְּדֻלָּה וְ\/הַ\/גְּבוּרָה וְ\/הַ\/תִּפְאֶרֶת וְ\/הַ\/נֵּצַח וְ\/הַ\/הוֹד, כִּי כֹל בַּ\/שָּׁמַיִם וּ\/בָ\/אָרֶץ; לךָ, יְהוָה, הַ\/מַּמְלָכָה וְ\/הַ\/מִּתְנַשֵּׂא לְ\/כֹל לְ\/רֹאשׁ.",
+  "translation": "雅威啊,伟大、能力、荣耀、胜利、威严 ⟨是⟩ ⟨你的⟩;因为在天上和在地下,万物 ⟨都⟩ ⟨是⟩ ⟨你的⟩;雅威啊,国度 ⟨是⟩ ⟨你的⟩,并且你被高举 ⟨为⟩ 万有的之首。",
   "tokens": [
     {
       "surface": "לך",
-      "english": "לךָ (לךָ)"
+      "english": "雅威啊 \/ 是你的"
     },
     {
       "surface": "יהוה",
@@ -28,43 +25,43 @@
     },
     {
       "surface": "הגדלה",
-      "english": "הַ\/גְּדֻלָּה (הַ\/גְּדֻלָּה)"
+      "english": "伟大"
     },
     {
       "surface": "והגבורה",
-      "english": "וְ\/הַ\/גְּבוּרָה (וְ\/הַ\/גְּבוּרָה)"
+      "english": "能力"
     },
     {
       "surface": "והתפארת",
-      "english": "וְ\/הַ\/תִּפְאֶרֶת (וְ\/הַ\/תִּפְאֶרֶת)"
+      "english": "荣耀"
     },
     {
       "surface": "והנצח",
-      "english": "וְ\/הַ\/נֵּצַח (וְ\/הַ\/נֵּצַח)"
+      "english": "胜利"
     },
     {
       "surface": "וההוד",
-      "english": "וְ\/הַ\/הוֹד (וְ\/הַ\/הוֹד)"
+      "english": "威严"
     },
     {
       "surface": "כי",
-      "english": "כִּי (כִּי)"
+      "english": "因为"
     },
     {
       "surface": "כל",
-      "english": "כֹל (כֹל)"
+      "english": "万物"
     },
     {
       "surface": "בשמים",
-      "english": "בַּ\/שָּׁמַיִם (בַּ\/שָּׁמַיִם)"
+      "english": "在天上"
     },
     {
       "surface": "ובארץ",
-      "english": "וּ\/בָ\/אָרֶץ (וּ\/בָ\/אָרֶץ)"
+      "english": "和在地下"
     },
     {
       "surface": "לך",
-      "english": "לךָ (לךָ)"
+      "english": "⟨是⟩ ⟨你的⟩"
     },
     {
       "surface": "יהוה",
@@ -72,21 +69,21 @@
     },
     {
       "surface": "הממלכה",
-      "english": "הַ\/מַּמְלָכָה (הַ\/מַּמְלָכָה)"
+      "english": "国度"
     },
     {
       "surface": "והמתנשא",
-      "english": "וְ\/הַ\/מִּתְנַשֵּׂא (וְ\/הַ\/מִּתְנַשֵּׂא)"
+      "english": "并且你被高举 ⟨为⟩"
     },
     {
       "surface": "לכל",
-      "english": "לְ\/כֹל (לְ\/כֹל)"
+      "english": "万有"
     },
     {
       "surface": "לראש",
-      "english": "לְ\/רֹאשׁ (לְ\/רֹאשׁ)"
+      "english": "之首"
     }
   ],
-  "timestamp": "2026-07-18T02:12:24.677490258Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:02.769101039Z",
+  "model": "glm-4.5"
 }

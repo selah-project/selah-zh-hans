@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "jeremiah 28:3",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 28,
   "usage": {
-    "completion_tokens": 977,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20485,
+    "completion_tokens": 601,
+    "prompt_tokens": 20580,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21462
+    "total_tokens": 21181
   },
-  "translation": "בְּעוֹד שְׁנָתַיִם יָמִים, אֲנִי מֵשִׁיב אֶל הַמָּקוֹם הַזֶּה אֶת כָּל כְּלֵי בֵּית יְהוָה אֲשֶׁר לָקַח נְבוּכַדנֶאצַּר מֶלֶךְ בָּבֶל מִן הַמָּקוֹם הַזֶּה וַיְבִיאֵם בָּבֶל. 还有两年的日子,我正将雅威殿的一切器皿带回这地方,就是巴比伦王尼布甲尼撒从这里带走、带去巴比伦的——",
+  "translation": "再过两年,我必带回这地方,雅威殿的一切器皿,就是尼布甲尼撒巴比伦王从这地方取去,带到巴比伦的。",
   "tokens": [
     {
       "surface": "בעוד",
-      "english": "还有"
+      "english": "再过"
     },
     {
       "surface": "שנתים",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "ימים",
-      "english": "的日子"
+      "english": ""
     },
     {
       "surface": "אני",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "משיב",
-      "english": "正带回"
+      "english": "必带回"
     },
     {
       "surface": "אל",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "english": ""
     },
     {
       "surface": "את",
@@ -77,7 +74,7 @@
     },
     {
       "surface": "לקח",
-      "english": "带走"
+      "english": "取去"
     },
     {
       "surface": "נבוכדנאצר",
@@ -101,17 +98,17 @@
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "english": ""
     },
     {
       "surface": "ויביאם",
-      "english": "带去"
+      "english": "带到"
     },
     {
       "surface": "בבל",
       "english": "巴比伦"
     }
   ],
-  "timestamp": "2026-07-17T22:23:15.373652532Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:46.445802649Z",
+  "model": "glm-4.5"
 }

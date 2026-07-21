@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "zechariah 9:1",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 743,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18363,
+    "completion_tokens": 712,
+    "prompt_tokens": 18454,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 18432
     },
-    "total_tokens": 19106
+    "total_tokens": 19166
   },
-  "translation": "מַשָּׂא ⟨דְבַר יְהוָה⟩：בְּ\/אֶרֶץ חַדְרָךְ，וְ\/דַמֶּשֶׂק ⟨הוּא⟩ מְנֻחָת\/וֹ，כִּי לַ\/יי עַיִן אָדָם וְ\/כֹל שִׁבְטֵי יִשְׂרָאֵל。",
+  "translation": "雅威话语的重担 ⟨是⟩ 在哈德拉克地,⟨和⟩大马士革 ⟨是⟩ 他的安息之所;因为 ⟨向着⟩ 雅威 ⟨有⟩ 人的眼,⟨和⟩ 以色列所有的支派。",
   "tokens": [
     {
       "surface": "משא",
-      "english": "默示"
+      "english": "重担"
     },
     {
       "surface": "דבר",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "english": "在...地"
     },
     {
       "surface": "חדרך",
@@ -40,11 +37,11 @@
     },
     {
       "surface": "ודמשק",
-      "english": "和大马士革"
+      "english": "⟨和⟩大马士革"
     },
     {
       "surface": "מנחתו",
-      "english": "其安息之所"
+      "english": "他的安息之所"
     },
     {
       "surface": "כי",
@@ -52,19 +49,19 @@
     },
     {
       "surface": "ליהוה",
-      "english": "属雅威"
+      "english": "⟨向着⟩ 雅威"
     },
     {
       "surface": "עין",
-      "english": "眼目"
+      "english": "眼"
     },
     {
       "surface": "אדם",
-      "english": "人类"
+      "english": "人"
     },
     {
       "surface": "וכל",
-      "english": "以及全部"
+      "english": "⟨和⟩...所有的"
     },
     {
       "surface": "שבטי",
@@ -75,6 +72,6 @@
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-17T23:35:41.959181940Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:17:35.299344787Z",
+  "model": "glm-4.5"
 }

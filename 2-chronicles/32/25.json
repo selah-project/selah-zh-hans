@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "2-chronicles 32:25",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 32,
   "usage": {
-    "completion_tokens": 686,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60298,
+    "completion_tokens": 523,
+    "prompt_tokens": 60380,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60984
+    "total_tokens": 60903
   },
-  "translation": "וְ\/לֹא כִ\/גְמֻל עָלָי\/ו֙ הֵשִׁ֣יב 希西家 כִּ֥י גָבַ֖הּ לִבּ֑\/וֹ וַ\/יְהִ֤י עָלָי\/ו֙ קֶ֔צֶף וְ\/עַל 犹大 耶路撒冷",
+  "translation": "然而,希西家没有照 ⟨那⟩ 施予 ⟨他⟩ 的恩待来报答,因为他的心 ⟨变得⟩ 骄傲,因此有愤怒临到他,也临到犹大和耶路撒冷。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "וְ\/לֹא"
+      "english": "然而,他没有"
     },
     {
       "surface": "כגמל",
-      "english": "כִ\/גְמֻל"
+      "english": "照 ⟨那⟩ 施予 ⟨他⟩ 的恩待来报答"
     },
     {
       "surface": "עליו",
-      "english": "עָלָי\/ו֙"
+      "english": "⟨他⟩"
     },
     {
       "surface": "השיב",
-      "english": "הֵשִׁ֣יב"
+      "english": "来报答"
     },
     {
       "surface": "יחזקיהו",
@@ -40,31 +37,31 @@
     },
     {
       "surface": "כי",
-      "english": "כִּ֥י"
+      "english": "因为"
     },
     {
       "surface": "גבה",
-      "english": "גָבַ֖הּ"
+      "english": "⟨变得⟩ 骄傲"
     },
     {
       "surface": "לבו",
-      "english": "לִבּ֑\/וֹ"
+      "english": "他的心"
     },
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִ֤י"
+      "english": "因此有"
     },
     {
       "surface": "עליו",
-      "english": "עָלָי\/ו֙"
+      "english": "临到他"
     },
     {
       "surface": "קצף",
-      "english": "קֶ֔צֶף"
+      "english": "愤怒"
     },
     {
       "surface": "ועל",
-      "english": "וְ\/עַל"
+      "english": "也临到"
     },
     {
       "surface": "יהודה",
@@ -72,9 +69,9 @@
     },
     {
       "surface": "וירושלם",
-      "english": "耶路撒冷"
+      "english": "和耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:33:32.650839028Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:53.404813437Z",
+  "model": "glm-4.5"
 }

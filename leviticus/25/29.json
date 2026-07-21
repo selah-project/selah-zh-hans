@@ -1,88 +1,78 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "leviticus 25:29",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 852,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19887,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20739
-  },
-  "translation": "וְאִישׁ כִּי יִמְכֹּר בֵּית מוֹשַׁב עִיר חוֹמָה וְ\/הָיְתָה גְּאֻלָּת\/וֹ עַד תֹּם שְׁנַת מִמְכָּר\/וֹ יָמִים תִּהְיֶה גְאֻלָּת\/וֹ",
+  "translation": "若有人卖了在围墙城市的居所,它的赎回是在售卖后的那一整年内,日子,它 ⟨是⟩ 它的赎回 ⟨את⟩",
   "tokens": [
     {
-      "surface": "וְ\/אִ֗ישׁ",
-      "english": "而一個人"
+      "surface": "ואיש",
+      "english": "若有人"
     },
     {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "english": "若"
     },
     {
-      "surface": "יִמְכֹּ֤ר",
-      "english": "賣"
+      "surface": "ימכר",
+      "english": "卖了"
     },
     {
-      "surface": "בֵּית",
-      "english": "房屋"
+      "surface": "בית",
+      "english": "居所"
     },
     {
-      "surface": "מוֹשַׁב֙",
-      "english": "居住的"
+      "surface": "מושב",
+      "english": "居住"
     },
     {
-      "surface": "עִ֣יר",
-      "english": "城"
+      "surface": "עיר",
+      "english": "城市"
     },
     {
-      "surface": "חוֹמָ֔ה",
-      "english": "有牆的"
+      "surface": "חומה",
+      "english": "围墙"
     },
     {
-      "surface": "וְ\/הָיְתָה֙",
-      "english": "則它的"
+      "surface": "והיתה",
+      "english": "它 ⟨是⟩"
     },
     {
-      "surface": "גְּאֻלָּת֔\/וֹ",
-      "english": "贖回權"
+      "surface": "גאלתו",
+      "english": "它的赎回",
+      "marks": "居所的赎回"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "english": "直到"
     },
     {
-      "surface": "תֹּ֖ם",
-      "english": "滿"
+      "surface": "תם",
+      "english": "完整"
     },
     {
-      "surface": "שְׁנַ֣ת",
+      "surface": "שנת",
       "english": "年"
     },
     {
-      "surface": "מִמְכָּר֑\/וֹ",
-      "english": "它的售賣"
+      "surface": "ממכרו",
+      "english": "售卖"
     },
     {
-      "surface": "יָמִ֖ים",
+      "surface": "ימים",
       "english": "日子"
     },
     {
-      "surface": "תִּהְיֶ֥ה",
-      "english": "⟨將是⟩"
+      "surface": "תהיה",
+      "english": "它 ⟨是⟩"
     },
     {
-      "surface": "גְאֻלָּתֽ\/וֹ",
-      "english": "它的贖回"
+      "surface": "גאלתו",
+      "english": "它的赎回"
     }
   ],
-  "timestamp": "2026-07-17T18:57:44.074581850Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:05.519176757Z",
+  "model": "glm-4.5"
 }

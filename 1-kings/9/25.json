@@ -1,105 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "1-kings 9:25",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 1138,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65180,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66318
-  },
-  "translation": "所罗门 העלה שלוש פעמים בשנה עולות ושלמים על המזבח אשר בנה 雅威, והקטיר עליו את אשר לפני 雅威, ושלם את הבית.",
+  "translation": "所罗门一年三次 ⟨在⟩ 坛上 ⟨为⟩ 雅威献上燔祭和平安祭,就是他 ⟨为⟩ 雅威所建的坛,并在 ⟨那⟩ 在雅威 ⟨面前的⟩ 坛上烧香, ⟨并且⟩ 完成 ⟨了⟩ ⟨את⟩ 殿。",
   "tokens": [
     {
-      "surface": "וְ\/הֶעֱלָ֣ה",
-      "english": "והעלה"
+      "surface": "והעלה",
+      "english": "⟨并⟩ 献上"
     },
     {
-      "surface": "שְׁלֹמֹה֡",
+      "surface": "שלמה",
       "english": "所罗门"
     },
     {
-      "surface": "שָׁלֹשׁ֩",
-      "english": "שלוש"
+      "surface": "שלש",
+      "english": "三次"
     },
     {
-      "surface": "פְּעָמִ֨ים",
-      "english": "פעמים"
+      "surface": "פעמים",
+      "english": "一年"
     },
     {
-      "surface": "בַּ\/שָּׁנָ֜ה",
-      "english": "בשנה"
+      "surface": "בשנה",
+      "english": "⟨在⟩"
     },
     {
-      "surface": "עֹל֣וֹת",
-      "english": "עולות"
+      "surface": "עלות",
+      "english": "燔祭"
     },
     {
-      "surface": "וּ\/שְׁלָמִ֗ים",
-      "english": "ושלמים"
+      "surface": "ושלמים",
+      "english": "和平安祭"
     },
     {
-      "surface": "עַל",
-      "english": "על"
+      "surface": "על",
+      "english": "⟨在⟩"
     },
     {
-      "surface": "הַ\/מִּזְבֵּ֨חַ֙",
-      "english": "המזבח"
+      "surface": "המזבח",
+      "english": "坛上"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "就是"
     },
     {
-      "surface": "בָּנָ֣ה",
-      "english": "בנה"
+      "surface": "בנה",
+      "english": "他 ⟨为⟩ 雅威所建的"
     },
     {
-      "surface": "לַ\/יהוָ֔ה",
+      "surface": "ליהוה",
       "english": "雅威"
     },
     {
-      "surface": "וְ\/הַקְטֵ֣יר",
-      "english": "והקטיר"
+      "surface": "והקטיר",
+      "english": "烧香"
     },
     {
-      "surface": "אִתּ֔\/וֹ",
-      "english": "עליו"
+      "surface": "אתו",
+      "english": "⟨其上⟩"
     },
     {
-      "surface": "אֲשֶׁ֖ר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "就是 ⟨那⟩"
     },
     {
-      "surface": "לִ\/פְנֵ֣י",
-      "english": "לפני"
+      "surface": "לפני",
+      "english": "在雅威 ⟨面前的⟩"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "וְ\/שִׁלַּ֖ם",
-      "english": "ושלם"
+      "surface": "ושלם",
+      "english": "完成 ⟨了⟩"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הבית"
+      "marks": "殿"
     },
     {
-      "surface": "הַ\/בָּֽיִת",
-      "english": "הבית"
+      "surface": "הבית",
+      "english": "殿"
     }
   ],
-  "timestamp": "2026-07-17T21:05:10.852610606Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:04.014453996Z",
+  "model": "glm-4.5"
 }

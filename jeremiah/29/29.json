@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "jeremiah 29:29",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 29,
   "usage": {
-    "completion_tokens": 784,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19153,
+    "completion_tokens": 344,
+    "prompt_tokens": 19234,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 19937
+    "total_tokens": 19578
   },
-  "translation": "西番雅 הַכֹּהֵן קָרָא אֶת ⟨אֵת⟩ הַסֵּפֶר הַזֶּה בְּאָזְנֵי 耶利米 הַנָּבִיא׃",
+  "translation": "祭司西番雅⟨在⟩先知耶利米⟨的⟩耳中⟨את⟩这卷书宣读",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "וְקָרָא (וַיִּקְרָא)"
+      "english": "宣读"
     },
     {
       "surface": "צפניה",
@@ -28,24 +25,24 @@
     },
     {
       "surface": "הכהן",
-      "english": "הַכֹּהֵן"
+      "english": "祭司"
     },
     {
       "surface": "את",
-      "english": "⟨אֵת⟩",
-      "marks": "הַסֵּפֶר"
+      "english": "⟨את⟩",
+      "marks": "这卷书"
     },
     {
       "surface": "הספר",
-      "english": "הַסֵּפֶר הַזֶּה"
+      "english": "这卷书"
     },
     {
       "surface": "הזה",
-      "english": "הַזֶּה"
+      "english": "这"
     },
     {
       "surface": "באזני",
-      "english": "בְּאָזְנֵי"
+      "english": "⟨在⟩...⟨的⟩耳中"
     },
     {
       "surface": "ירמיהו",
@@ -53,9 +50,9 @@
     },
     {
       "surface": "הנביא",
-      "english": "הַנָּבִיא"
+      "english": "先知"
     }
   ],
-  "timestamp": "2026-07-17T22:24:08.851375646Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:33.761964479Z",
+  "model": "glm-4.5"
 }

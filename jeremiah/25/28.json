@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "jeremiah 25:28",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 25,
   "usage": {
-    "completion_tokens": 931,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19708,
+    "completion_tokens": 620,
+    "prompt_tokens": 19772,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20639
+    "total_tokens": 20392
   },
-  "translation": "וְהָיָ֗ה כִּ֧י יְמָאֲנ֛וּ לָ\/קַֽחַת הַ\/כּ֥וֹס מִ\/יָּדְ\/ךָ֖ לִ\/שְׁתּ֑וֹת וְ\/אָמַרְתָּ֣ אֲלֵי\/הֶ֗ם כֹּ֥ה אָמַ֛ר 雅威 צְבָא֖וֹת שָׁת֥וֹ תִשְׁתּֽוּ",
+  "translation": "若他们不肯从你手中接过这杯来喝,你就要对他们说:万军之雅威如此说:你们必须喝,定要喝!",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "וְהָיָ֗ה"
+      "surface": "והיה",
+      "english": "若"
     },
     {
-      "surface": "כִּ֧י",
-      "english": "כִּ֧י"
+      "surface": "כי",
+      "english": "⟨他们⟩"
     },
     {
-      "surface": "יְמָאֲנ֛וּ",
-      "english": "יְמָאֲנ֛וּ"
+      "surface": "ימאנו",
+      "english": "不肯"
     },
     {
-      "surface": "לָ\/קַֽחַת",
-      "english": "לָ\/קַֽחַת"
+      "surface": "לקחת",
+      "english": "接过"
     },
     {
-      "surface": "הַ\/כּ֥וֹס",
-      "english": "הַ\/כּ֥וֹס"
+      "surface": "הכוס",
+      "english": "这杯"
     },
     {
-      "surface": "מִ\/יָּדְ\/ךָ֖",
-      "english": "מִ\/יָּדְ\/ךָ֖"
+      "surface": "מידך",
+      "english": "从你手中"
     },
     {
-      "surface": "לִ\/שְׁתּ֑וֹת",
-      "english": "לִ\/שְׁתּ֑וֹת"
+      "surface": "לשתות",
+      "english": "来喝"
     },
     {
-      "surface": "וְ\/אָמַרְתָּ֣",
-      "english": "וְ\/אָמַרְתָּ֣"
+      "surface": "ואמרת",
+      "english": "你就要对他们说"
     },
     {
-      "surface": "אֲלֵי\/הֶ֗ם",
-      "english": "אֲלֵי\/הֶ֗ם"
+      "surface": "אליהם",
+      "english": "对他们"
     },
     {
-      "surface": "כֹּ֥ה",
-      "english": "כֹּ֥ה"
+      "surface": "כה",
+      "english": "如此"
     },
     {
-      "surface": "אָמַ֛ר",
-      "english": "אָמַ֛ר"
+      "surface": "אמר",
+      "english": "说"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "צְבָא֖וֹת",
-      "english": "צְבָא֖וֹת"
+      "surface": "צבאות",
+      "english": "万军之"
     },
     {
-      "surface": "שָׁת֥וֹ",
-      "english": "שָׁת֥וֹ"
+      "surface": "שתו",
+      "english": "你们必须喝"
     },
     {
-      "surface": "תִשְׁתּֽוּ",
-      "english": "תִשְׁתּֽוּ"
+      "surface": "תשתו",
+      "english": "定要喝"
     }
   ],
-  "timestamp": "2026-07-17T22:21:36.646378742Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:10.831745314Z",
+  "model": "glm-4.5"
 }

@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "psalms 71:9",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 71,
   "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64542,
+    "completion_tokens": 332,
+    "prompt_tokens": 64541,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65076
+    "total_tokens": 64873
   },
-  "translation": "אַל תַּשְׁלִיכֵ\/נִי לְ\/עֵת זִקְנָה; כְּ\/כַלּוֹת כֹּחִ\/י, אַל תַּעַזְבֵ\/נִי׃",
+  "translation": "在你老迈之年,不要抛弃我;当我的力量衰竭时,不要离弃我。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "祈求不要"
+      "english": "不要"
     },
     {
       "surface": "תשליכני",
-      "english": "丢弃我"
+      "english": "抛弃我"
     },
     {
       "surface": "לעת",
-      "english": "在……的时候"
+      "english": "在...之年"
     },
     {
       "surface": "זקנה",
-      "english": "老年"
+      "english": "老迈"
     },
     {
       "surface": "ככלות",
-      "english": "当……耗尽之时"
+      "english": "当...衰竭时"
     },
     {
       "surface": "כחי",
@@ -51,6 +48,6 @@
       "english": "离弃我"
     }
   ],
-  "timestamp": "2026-07-18T00:03:34.848872011Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:41.304919837Z",
+  "model": "glm-4.5"
 }

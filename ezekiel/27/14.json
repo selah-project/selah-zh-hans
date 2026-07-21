@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "ezekiel 27:14",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18932,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19536
-  },
-  "translation": "בֵּית-תּוֹגַרְמָה (Bet-陀迦玛 的家) ⟨הֵם⟩ סוּסִים וּ\/פָֽרָשִׁים וּ\/פְרָדִים נָתְנוּ לְ\/עִזְבוֹנָֽי\/ךְ。",
+  "translation": "从陀迦玛的家 ⟨他们给⟩ ⟨你⟩ 马匹、骑兵和骡子 ⟨作为⟩ 你的交易品",
   "tokens": [
     {
-      "surface": "מִ\/בֵּ֖ית",
+      "surface": "מבית",
       "english": "从……家"
     },
     {
-      "surface": "תּוֹגַרְמָ֑ה",
+      "surface": "תוגרמה",
       "english": "陀迦玛"
     },
     {
-      "surface": "סוּסִ֤ים",
-      "english": "马"
+      "surface": "סוסים",
+      "english": "马匹"
     },
     {
-      "surface": "וּ\/פָֽרָשִׁים֙",
-      "english": "和骑兵"
+      "surface": "ופרשים",
+      "english": "骑兵"
     },
     {
-      "surface": "וּ\/פְרָדִ֔ים",
+      "surface": "ופרדים",
       "english": "和骡子"
     },
     {
-      "surface": "נָתְנ֖וּ",
-      "english": "他们给了"
+      "surface": "נתנו",
+      "english": "⟨他们给⟩"
     },
     {
-      "surface": "עִזְבוֹנָֽיִ\/ךְ",
-      "english": "你的交易品"
+      "surface": "עזבוניך",
+      "english": "⟨你⟩……交易品"
     }
   ],
-  "timestamp": "2026-07-17T22:56:34.808268192Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:28.281029619Z",
+  "model": "glm-4.5"
 }

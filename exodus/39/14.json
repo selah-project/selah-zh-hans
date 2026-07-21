@@ -1,96 +1,93 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "exodus 39:14",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 39,
   "usage": {
-    "completion_tokens": 871,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19453,
+    "completion_tokens": 521,
+    "prompt_tokens": 19516,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20324
+    "total_tokens": 20037
   },
-  "translation": "וְהָאֲבָנִים (והאבנים) הֵנָּה (הנה) שְׁתֵּים (שתים) עֶשְׂרֵה (עשרה), עַל (על) שְׁמֹת (שמת) בְּנֵי (בני) יִשְׂרָאֵל (以色列); פִּתּוּחֵי (פתוחי) חֹתָם (חתם), אִישׁ (איש) עַל (על) שְׁמוֹ (שמו), לִשְׁנֵים (לשנים) עָשָׂר (עשר) שָׁבֶט (שבט).",
+  "translation": "石头是按照以色列儿子的名字,十二块,按照他们的名字,像印章的雕刻,每个人按照他的名字,为了十二个支派。",
   "tokens": [
     {
-      "surface": "וְהָאֲבָנִים",
-      "english": "והאבנים"
+      "surface": "והאבנים",
+      "english": "石头"
     },
     {
-      "surface": "עַל",
-      "english": "על"
+      "surface": "על",
+      "english": "是按照"
     },
     {
-      "surface": "שְׁמֹת",
-      "english": "שמת"
+      "surface": "שמת",
+      "english": "名字"
     },
     {
-      "surface": "בְּנֵי",
-      "english": "בני"
+      "surface": "בני",
+      "english": "儿子"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הֵנָּה",
-      "english": "הנה"
+      "surface": "הנה",
+      "english": "十二块"
     },
     {
-      "surface": "שְׁתֵּים",
-      "english": "שתים"
+      "surface": "שתים",
+      "english": ""
     },
     {
-      "surface": "עֶשְׂרֵה",
-      "english": "עשרה"
+      "surface": "עשרה",
+      "english": ""
     },
     {
-      "surface": "עַל",
-      "english": "על"
+      "surface": "על",
+      "english": "按照"
     },
     {
-      "surface": "שְׁמֹתָם",
-      "english": "שמתם"
+      "surface": "שמתם",
+      "english": "他们的名字"
     },
     {
-      "surface": "פִּתּוּחֵי",
-      "english": "פתוחי"
+      "surface": "פתוחי",
+      "english": "雕刻"
     },
     {
-      "surface": "חֹתָם",
-      "english": "חתם"
+      "surface": "חתם",
+      "english": "印章的"
     },
     {
-      "surface": "אִישׁ",
-      "english": "איש"
+      "surface": "איש",
+      "english": "每个人"
     },
     {
-      "surface": "עַל",
-      "english": "על"
+      "surface": "על",
+      "english": "按照"
     },
     {
-      "surface": "שְׁמוֹ",
-      "english": "שמו"
+      "surface": "שמו",
+      "english": "他的名字"
     },
     {
-      "surface": "לִשְׁנֵים",
-      "english": "לשנים"
+      "surface": "לשנים",
+      "english": ""
     },
     {
-      "surface": "עָשָׂר",
-      "english": "עשר"
+      "surface": "עשר",
+      "english": ""
     },
     {
-      "surface": "שָׁבֶט",
-      "english": "שבט"
+      "surface": "שבט",
+      "english": "支派"
     }
   ],
-  "timestamp": "2026-07-17T18:38:39.654138952Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:21.412693021Z",
+  "model": "glm-4.5"
 }

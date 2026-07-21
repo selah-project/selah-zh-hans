@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "1-chronicles 18:16",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58895,
+    "completion_tokens": 513,
+    "prompt_tokens": 58971,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59412
+    "total_tokens": 59484
   },
-  "translation": "וְ\/צָד֧וֹק בֶּן אֲחִיט֛וּב וַ\/אֲבִימֶ֥לֶךְ בֶּן אֶבְיָתָ֖ר כֹּהֲנִ֑ים וְ\/שַׁוְשָׁ֖א סוֹפֵֽר",
+  "translation": "还有撒督,是亚希突的儿子,亚比米勒,是亚比亚他的儿子,作祭司;沙威沙作史官;",
   "tokens": [
     {
-      "surface": "וְ\/צָד֧וֹק",
-      "english": "撒督"
+      "surface": "וצדוק",
+      "english": "还有撒督"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "是...的儿子"
     },
     {
-      "surface": "אֲחִיט֛וּב",
+      "surface": "אחיטוב",
       "english": "亚希突"
     },
     {
-      "surface": "וַ\/אֲבִימֶ֥לֶךְ",
+      "surface": "ואבימלך",
       "english": "亚比米勒"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "是...的儿子"
     },
     {
-      "surface": "אֶבְיָתָ֖ר",
+      "surface": "אביתר",
       "english": "亚比亚他"
     },
     {
-      "surface": "כֹּהֲנִ֑ים",
-      "english": "כהנים"
+      "surface": "כהנים",
+      "english": "作祭司"
     },
     {
-      "surface": "וְ\/שַׁוְשָׁ֖א",
-      "english": "ושושא"
+      "surface": "ושושא",
+      "english": "沙威沙"
     },
     {
-      "surface": "סוֹפֵֽר",
-      "english": "סופר"
+      "surface": "סופר",
+      "english": "作史官"
     }
   ],
-  "timestamp": "2026-07-18T02:05:31.001768260Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:22.728344699Z",
+  "model": "glm-4.5"
 }

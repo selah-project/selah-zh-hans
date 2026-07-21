@@ -1,146 +1,143 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "jeremiah 52:31",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 52,
   "usage": {
-    "completion_tokens": 1383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21364,
+    "completion_tokens": 886,
+    "prompt_tokens": 21493,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22747
+    "total_tokens": 22379
   },
-  "translation": "וַ\/יְהִי בִ\/שְׁלֹשִׁים וָ\/שֶׁבַע שָׁנָה לְ\/גָלוּת יְהוֹיָכִן מֶלֶךְ יְהוּדָה, בִּ\/שְׁנֵים עָשָׂר חֹדֶשׁ, בְּ\/עֶשְׂרִים וַ\/חֲמִשָּׁה לַ\/חֹדֶשׁ, נָשָׂא אֱוִיל מְרֹדַךְ מֶלֶךְ בָּבֶל, בִּ\/שְׁנַת מַלְכֻתוֹ, אֶת רֹאשׁ יְהוֹיָכִין מֶלֶךְ יְהוּדָה, וַ\/יֹּצֵא אוֹתוֹ מִ\/בֵּית הַ\/כְּלִיא.",
+  "translation": "约雅斤王被掳的三十七年,十二月二十五日,巴比伦王以未米罗达在他即位之年,抬举了犹大王约雅斤的头,并⟨את⟩他带出监牢;",
   "tokens": [
     {
-      "surface": "וַ\/יְהִי",
-      "english": "事情发生"
+      "surface": "ויהי",
+      "english": "约雅斤王被掳的"
     },
     {
-      "surface": "בִ\/שְׁלֹשִׁים",
-      "english": "在三十"
+      "surface": "בשלשים",
+      "english": "三"
     },
     {
-      "surface": "וָ\/שֶׁבַע",
-      "english": "和七"
-    },
-    {
-      "surface": "שָׁנָה",
-      "english": "年"
-    },
-    {
-      "surface": "לְ\/גָלוּת",
-      "english": "属于流放"
-    },
-    {
-      "surface": "יְהוֹיָכִן",
-      "english": "约雅斤"
-    },
-    {
-      "surface": "מֶלֶךְ",
-      "english": "王"
-    },
-    {
-      "surface": "יְהוּדָה",
-      "english": "犹大"
-    },
-    {
-      "surface": "בִּ\/שְׁנֵים",
-      "english": "在二"
-    },
-    {
-      "surface": "עָשָׂר",
+      "surface": "ושבע",
       "english": "十"
     },
     {
-      "surface": "חֹדֶשׁ",
-      "english": "月"
+      "surface": "שנה",
+      "english": "七"
     },
     {
-      "surface": "בְּ\/עֶשְׂרִים",
-      "english": "在二十"
+      "surface": "לגלות",
+      "english": "年"
     },
     {
-      "surface": "וַ\/חֲמִשָּׁה",
-      "english": "和五"
-    },
-    {
-      "surface": "לַ\/חֹדֶשׁ",
-      "english": "属于该月"
-    },
-    {
-      "surface": "נָשָׂא",
-      "english": "举起了"
-    },
-    {
-      "surface": "אֱוִיל",
-      "english": "以未"
-    },
-    {
-      "surface": "מְרֹדַךְ",
-      "english": "米罗达"
-    },
-    {
-      "surface": "מֶלֶךְ",
-      "english": "王"
-    },
-    {
-      "surface": "בָּבֶל",
-      "english": "巴比伦"
-    },
-    {
-      "surface": "בִּ\/שְׁנַת",
-      "english": "在……年"
-    },
-    {
-      "surface": "מַלְכֻת\/וֹ",
-      "english": "他的统治"
-    },
-    {
-      "surface": "אֵת",
-      "english": "⟨את⟩",
-      "marks": "约雅斤的头"
-    },
-    {
-      "surface": "רֹאשׁ",
-      "english": "头"
-    },
-    {
-      "surface": "יְהוֹיָכִין",
+      "surface": "יהויכן",
       "english": "约雅斤"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מלך",
       "english": "王"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
+      "english": "被掳的"
+    },
+    {
+      "surface": "בשנים",
+      "english": "十"
+    },
+    {
+      "surface": "עשר",
+      "english": "二"
+    },
+    {
+      "surface": "חדש",
+      "english": "月"
+    },
+    {
+      "surface": "בעשרים",
+      "english": "二十"
+    },
+    {
+      "surface": "וחמשה",
+      "english": "五"
+    },
+    {
+      "surface": "לחדש",
+      "english": "日"
+    },
+    {
+      "surface": "נשא",
+      "english": "抬举了"
+    },
+    {
+      "surface": "אויל",
+      "english": "以未"
+    },
+    {
+      "surface": "מרדך",
+      "english": "米罗达"
+    },
+    {
+      "surface": "מלך",
+      "english": "王"
+    },
+    {
+      "surface": "בבל",
+      "english": "巴比伦"
+    },
+    {
+      "surface": "בשנת",
+      "english": "在"
+    },
+    {
+      "surface": "מלכתו",
+      "english": "即位之年"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "犹大王约雅斤的头"
+    },
+    {
+      "surface": "ראש",
+      "english": "头"
+    },
+    {
+      "surface": "יהויכין",
+      "english": "约雅斤"
+    },
+    {
+      "surface": "מלך",
+      "english": "王"
+    },
+    {
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
-      "surface": "וַ\/יֹּצֵא",
-      "english": "他带出"
+      "surface": "ויצא",
+      "english": "带出"
     },
     {
-      "surface": "אֹת\/וֹ",
-      "english": "⟨את⟩他",
-      "marks": "从监禁之屋"
+      "surface": "אותו",
+      "english": "他",
+      "marks": "监牢"
     },
     {
-      "surface": "מִ\/בֵּית",
-      "english": "从……屋"
+      "surface": "מבית",
+      "english": "监牢"
     },
     {
-      "surface": "הַ\/כְּלִיא",
-      "english": "那监禁"
+      "surface": "הכליא",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T22:39:45.234074376Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:22.118195370Z",
+  "model": "glm-4.5"
 }

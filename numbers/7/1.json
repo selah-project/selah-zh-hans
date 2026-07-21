@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "numbers 7:1",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 945,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21330,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 22275
-  },
-  "translation": "בְּ\/יוֹם כַּלֹּות מֹשֶׁה לְ\/הָקִים אֶת הַ\/מִּשְׁכָּן וַ\/יִּמְשַׁח אֹת\/וֹ וַ\/יְקַדֵּשׁ אֹת\/וֹ וְ\/אֶת כָּל כֵּלָי\/ו וְ\/אֶת הַ\/מִּזְבֵּחַ וְ\/אֶת כָּל כֵּלָי\/ו וַ\/יִּמְשָׁחֵ\/ם וַ\/יְקַדֵּשׁ אֹתָ\/ם׃",
+  "translation": "事情发生⟨在⟩摩西完成竖立会幕的那日,就膏抹⟨את⟩它,分别为圣⟨את⟩它和⟨את⟩它一切器具,又膏抹⟨את⟩祭坛和⟨את⟩它一切器具,并膏抹它们,分别为圣⟨את⟩它们",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生在"
+      "english": "事情发生"
     },
     {
       "surface": "ביום",
-      "english": "在……的那日"
+      "english": "在"
     },
     {
       "surface": "כלות",
@@ -45,30 +34,29 @@
     },
     {
       "surface": "המשכן",
-      "english": "Mishkán (会幕)"
+      "english": "会幕"
     },
     {
       "surface": "וימשח",
-      "english": "他就膏了"
+      "english": "就膏抹"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩它",
-      "marks": "会幕"
+      "english": "⟨את⟩",
+      "marks": "分别为圣"
     },
     {
       "surface": "ויקדש",
-      "english": "将祂分别为圣"
+      "english": "分别为圣"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩它",
-      "marks": "会幕"
+      "english": "⟨את⟩",
+      "marks": "和"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
-      "marks": "一切的器具"
+      "english": "和"
     },
     {
       "surface": "כל",
@@ -76,11 +64,11 @@
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "english": "器具"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "english": "又膏抹",
       "marks": "祭坛"
     },
     {
@@ -89,8 +77,7 @@
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
-      "marks": "一切的器具"
+      "english": "和"
     },
     {
       "surface": "כל",
@@ -98,22 +85,22 @@
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "english": "器具"
     },
     {
       "surface": "וימשחם",
-      "english": "他就膏了它们"
+      "english": "并膏抹它们"
     },
     {
       "surface": "ויקדש",
-      "english": "将它们分别为圣"
+      "english": "分别为圣"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩它们",
-      "marks": "会幕、祭坛与它们一切的器具"
+      "english": "⟨את⟩",
+      "marks": ""
     }
   ],
-  "timestamp": "2026-07-17T19:05:13.316377623Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:44:50.160895956Z",
+  "model": "glm-4.5"
 }

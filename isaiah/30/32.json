@@ -1,114 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 32,
   "ref": "isaiah 30:32",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 1558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21425,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22983
-  },
-  "translation": "׀ וְהָיָה כֹּל מַעֲבַר מַטֵּה מוּסָדָה אֲשֶׁר יָנִיחַ 雅威 עָלָיו בְּתֻפִּים וּבְכִנֹּרוֹת וּבְמִלְחֲמוֹת תְּנוּפָה נִלְחַם בָּהּ׃",
+  "translation": "每当那根基之杖经过的地方——就是雅威将安息在其上的——必伴有铃鼓和竖琴；在挥舞的争战中，雅威与其交锋。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָה",
-      "english": "וְהָיָה",
-      "transliteration": "vehayah",
-      "grammar": "Conjunction + Qal Imperfect 3ms"
+      "surface": "והיה",
+      "english": "每当"
     },
     {
-      "surface": "כֹּל",
-      "english": "כֹּל",
-      "transliteration": "chol",
-      "grammar": "Noun ms"
+      "surface": "כל",
+      "english": "每"
     },
     {
-      "surface": "מַעֲבַר",
-      "english": "מַעֲבַר",
-      "transliteration": "ma'avar",
-      "grammar": "Noun ms"
+      "surface": "מעבר",
+      "english": "经过的地方"
     },
     {
-      "surface": "מַטֵּה",
-      "english": "מַטֵּה",
-      "transliteration": "mateh",
-      "grammar": "Noun ms"
+      "surface": "מטה",
+      "english": "杖"
     },
     {
-      "surface": "מוּסָדָה",
-      "english": "מוּסָדָה",
-      "transliteration": "musadah",
-      "grammar": "Noun fs"
+      "surface": "מוסדה",
+      "english": "根基"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר",
-      "transliteration": "asher",
-      "grammar": "Relative pronoun"
+      "surface": "אשר",
+      "english": "就是"
     },
     {
-      "surface": "יָנִיחַ",
-      "english": "יָנִיחַ",
-      "transliteration": "yaniach",
-      "grammar": "Hifil Imperfect 3ms"
+      "surface": "יניח",
+      "english": "将安息"
     },
     {
-      "surface": "יְהוָה",
-      "english": "雅威",
-      "transliteration": "YHVH",
-      "grammar": "Proper noun"
+      "surface": "יהוה",
+      "english": "雅威"
     },
     {
-      "surface": "עָלָי\/ו",
-      "english": "עָלָיו",
-      "transliteration": "alav",
-      "grammar": "Preposition + 3ms suffix"
+      "surface": "עליו",
+      "english": "在其上"
     },
     {
-      "surface": "בְּ\/תֻפִּים",
-      "english": "בְּתֻפִּים",
-      "transliteration": "betupim",
-      "grammar": "Preposition b + Noun fp"
+      "surface": "בתפים",
+      "english": "伴有铃鼓"
     },
     {
-      "surface": "וּ\/בְ\/כִנֹּרוֹת",
-      "english": "וּבְכִנֹּרוֹת",
-      "transliteration": "uvechinorot",
-      "grammar": "Conjunction w + Preposition b + Noun fp"
+      "surface": "ובכנרות",
+      "english": "和竖琴"
     },
     {
-      "surface": "וּ\/בְ\/מִלְחֲמֹת",
-      "english": "וּבְמִלְחֲמוֹת",
-      "transliteration": "uvemilchamot",
-      "grammar": "Conjunction w + Preposition b + Noun fp"
+      "surface": "ובמלחמות",
+      "english": "在争战中"
     },
     {
-      "surface": "תְּנוּפָה",
-      "english": "תְּנוּפָה",
-      "transliteration": "tenufah",
-      "grammar": "Noun fs"
+      "surface": "תנופה",
+      "english": "挥舞"
     },
     {
-      "surface": "נִלְחָם",
-      "english": "נִלְחָם",
-      "transliteration": "nilcham",
-      "grammar": "Nifal Imperfect 3ms"
+      "surface": "נלחם",
+      "english": "交锋"
     },
     {
-      "surface": "בָּ\/הּ",
-      "english": "בָּהּ",
-      "transliteration": "bah",
-      "grammar": "Preposition b + 3fs suffix"
+      "surface": "בה",
+      "english": "与其"
     }
   ],
-  "timestamp": "2026-07-20T06:59:39.976050390Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:57.794378725Z",
+  "model": "glm-4.5"
 }

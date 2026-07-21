@@ -1,56 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "1-chronicles 24:23",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 979,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58738,
+    "completion_tokens": 433,
+    "prompt_tokens": 58852,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59717
+    "total_tokens": 59285
   },
-  "translation": "וּ\/בְנֵי יְרִיָּהוּ: 亚玛利雅 הַ\/שֵּׁנִי, 雅哈悉 הַ\/שְּׁלִישִׁי, 耶加面 הָ\/רְבִיעִי׃",
+  "translation": "耶利雅的众子: 亚玛利雅是第二, 雅哈悉是第三, 耶加面是第四",
   "tokens": [
     {
-      "surface": "וּ\/בְנָ֖י",
-      "english": "וְ\/בָּנָיו שֶׁל"
+      "surface": "ובני",
+      "english": "耶利雅的众子:"
     },
     {
-      "surface": "יְרִיָּ֑הוּ",
+      "surface": "יריהו",
       "english": "耶利雅"
     },
     {
-      "surface": "אֲמַרְיָ֨הוּ֙",
+      "surface": "אמריהו",
       "english": "亚玛利雅"
     },
     {
-      "surface": "הַ\/שֵּׁנִ֔י",
-      "english": "הַ\/שֵּׁנִי"
+      "surface": "השני",
+      "english": "是第二"
     },
     {
-      "surface": "יַחֲזִיאֵל֙",
+      "surface": "יחזיאל",
       "english": "雅哈悉"
     },
     {
-      "surface": "הַ\/שְּׁלִישִׁ֔י",
-      "english": "הַ\/שְּׁלִישִׁי"
+      "surface": "השלישי",
+      "english": "是第三"
     },
     {
-      "surface": "יְקַמְעָ֖ם",
+      "surface": "יקמעם",
       "english": "耶加面"
     },
     {
-      "surface": "הָ\/רְבִיעִֽי",
-      "english": "הָ\/רְבִיעִי"
+      "surface": "הרביעי",
+      "english": "是第四"
     }
   ],
-  "timestamp": "2026-07-18T02:08:57.785238375Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:52.358821020Z",
+  "model": "glm-4.5"
 }

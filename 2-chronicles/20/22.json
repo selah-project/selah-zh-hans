@@ -1,88 +1,85 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "2-chronicles 20:22",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 1037,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60498,
+    "completion_tokens": 756,
+    "prompt_tokens": 60597,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61535
+    "total_tokens": 61353
   },
-  "translation": "וּבְעֵת הֵחֵלּוּ בְרִנָּה וּתְהִלָּה, נָתַן 雅威 מְאָרְבִים עַל־בְּנֵי 亚扪, 摩押 וְהַר 西珥 הַבָּאִים עַל־יְהוּדָה, וַיִּנָּגֵפוּ. בְּרֶגַע שֶׁהֵחֵלּוּ בְּרִנָּה וּתְהִלָּה, נָתַן 雅威 מַאֲרָב עַל־בְּנֵי 亚扪, 摩押 וְהַר־西珥 הַבָּאִים אֶל־יְהוּדָה, וַיִּנָּגֵפוּ.",
+  "translation": "当他们开始 ⟨发出⟩ 呐喊和赞美时,雅威在来攻击犹大的亚扪人、摩押人和西珥山人中间设下埋伏,他们就被击打",
   "tokens": [
     {
-      "surface": "וּ\/בְ\/עֵת",
-      "english": "בְּעֵת \/ וּבְעֵת"
+      "surface": "ובעת",
+      "english": "当…时"
     },
     {
-      "surface": "הֵחֵלּוּ",
-      "english": "הֵחֵלּוּ"
+      "surface": "החלו",
+      "english": "开始 ⟨发出⟩"
     },
     {
-      "surface": "בְ\/רִנָּה",
-      "english": "בְּרִנָּה"
+      "surface": "ברנה",
+      "english": "呐喊"
     },
     {
-      "surface": "וּ\/תְהִלָּה",
-      "english": "וּתְהִלָּה"
+      "surface": "ותהלה",
+      "english": "和赞美"
     },
     {
-      "surface": "נָתַן",
-      "english": "נָתַן"
+      "surface": "נתן",
+      "english": "设下"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "מְאָֽרְבִים",
-      "english": "מְאָרְבִים"
+      "surface": "מארבים",
+      "english": "埋伏"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "在…中间"
     },
     {
-      "surface": "בְּנֵי",
-      "english": "בְּנֵי"
+      "surface": "בני",
+      "english": "亚扪人"
     },
     {
-      "surface": "עַמּוֹן",
+      "surface": "עמון",
       "english": "亚扪"
     },
     {
-      "surface": "מוֹאָב",
+      "surface": "מואב",
       "english": "摩押"
     },
     {
-      "surface": "וְ\/הַר",
-      "english": "וְהַר"
+      "surface": "והר",
+      "english": "和西珥山"
     },
     {
-      "surface": "שֵׂעִיר",
+      "surface": "שעיר",
       "english": "西珥"
     },
     {
-      "surface": "הַ\/בָּאִים",
-      "english": "הַבָּאִים"
+      "surface": "הבאים",
+      "english": "来攻击的"
     },
     {
-      "surface": "לִֽ\/יְהוּדָה",
+      "surface": "ליהודה",
       "english": "犹大"
     },
     {
-      "surface": "וַ\/יִּנָּגֵֽפוּ",
-      "english": "וַיִּנָּגְפוּ"
+      "surface": "וינגפו",
+      "english": "他们就被击打"
     }
   ],
-  "timestamp": "2026-07-18T02:25:45.548186980Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:30:00.728748206Z",
+  "model": "glm-4.5"
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "numbers 29:3",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19839,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20206
-  },
-  "translation": "וגם מנחתם סולת בלולה בשמן: שלושה עשרונים לפר, שני עשרונים לאיל.",
+  "translation": "并且 ⟨这是⟩ 他们的素祭:细面调油,每头公牛献三十分之一,每只公羊献二十分之一",
   "tokens": [
     {
-      "surface": "ו\/מנחתם",
-      "english": "וגם מנחתם"
+      "surface": "ומנחתם",
+      "english": "并且 ⟨这是⟩ 他们的素祭"
     },
     {
       "surface": "סלת",
-      "english": "סולת"
+      "english": "细面"
     },
     {
       "surface": "בלולה",
-      "english": "בלולה"
+      "english": "调油"
     },
     {
-      "surface": "ב\/שמן",
-      "english": "בשמן"
+      "surface": "בשמן",
+      "english": "油"
     },
     {
       "surface": "שלשה",
-      "english": "שלושה"
+      "english": "三"
     },
     {
       "surface": "עשרנים",
-      "english": "עשרונים"
+      "english": "十分之一"
     },
     {
-      "surface": "ל\/פר",
-      "english": "לפר"
+      "surface": "לפר",
+      "english": "每头公牛"
     },
     {
       "surface": "שני",
-      "english": "שני"
+      "english": "二"
     },
     {
       "surface": "עשרנים",
-      "english": "עשרונים"
+      "english": "十分之一"
     },
     {
-      "surface": "ל\/איל",
-      "english": "לאיל"
+      "surface": "לאיל",
+      "english": "每只公羊"
     }
   ],
-  "timestamp": "2026-07-17T19:21:08.786381593Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:00.957212891Z",
+  "model": "glm-4.5"
 }

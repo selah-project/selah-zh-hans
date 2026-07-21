@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "joshua 12:12",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17644,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17888
-  },
-  "translation": "עֶגְלוֹן 的王，一个；גֶּזֶר 的王，一个。",
+  "translation": "伊矶伦王，一位；基色王，一位；",
   "tokens": [
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מֶ֤לֶךְ",
       "english": "王"
     },
     {
-      "surface": "עֶגְלוֹן",
+      "surface": "עֶגְלוֹן֙",
       "english": "伊矶伦"
     },
     {
-      "surface": "אֶחָד",
-      "english": "一个"
+      "surface": "אֶחָ֔ד",
+      "english": "一位"
     },
     {
-      "surface": "מֶלֶךְ",
+      "surface": "מֶ֥לֶךְ",
       "english": "王"
     },
     {
-      "surface": "גֶּזֶר",
+      "surface": "גֶּ֖זֶר",
       "english": "基色"
     },
     {
-      "surface": "אֶחָד",
-      "english": "一个"
+      "surface": "אֶחָֽד",
+      "english": "一位"
     }
   ],
-  "timestamp": "2026-07-17T19:57:42.878077221Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:33.270008236Z",
+  "model": "glm-4.5"
 }

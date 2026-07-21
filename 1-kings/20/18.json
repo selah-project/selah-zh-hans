@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "1-kings 20:18",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 664,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64289,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64953
-  },
-  "translation": "וַ\/יֹּ֛אמֶר אִם לְ\/שָׁל֥וֹם יָצָ֖אוּ תִּפְשׂ֣וּ\/ם חַיִּ֑ים וְ\/אִ֧ם לְ\/מִלְחָמָ֛ה יָצָ֖אוּ חַיִּ֥ים תִּפְשֽׂוּ\/ם",
+  "translation": "他说:若是为平安出来,你们要活捉他们;若是为争战出来,你们要活捉他们。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -28,19 +17,19 @@
     },
     {
       "surface": "לשלום",
-      "english": "为和平"
+      "english": "为平安"
     },
     {
       "surface": "יצאו",
-      "english": "他们出来"
+      "english": "出来"
     },
     {
       "surface": "תפשום",
-      "english": "你们要捉住他们"
+      "english": "你们要活捉他们"
     },
     {
       "surface": "חיים",
-      "english": "活着"
+      "english": "活⟨着⟩"
     },
     {
       "surface": "ואם",
@@ -52,17 +41,17 @@
     },
     {
       "surface": "יצאו",
-      "english": "他们出来"
+      "english": "出来"
     },
     {
       "surface": "חיים",
-      "english": "活着"
+      "english": "活⟨着⟩"
     },
     {
       "surface": "תפשום",
-      "english": "你们要捉住他们"
+      "english": "你们要活捉他们"
     }
   ],
-  "timestamp": "2026-07-17T21:14:21.968420498Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:22.233576612Z",
+  "model": "glm-4.5"
 }

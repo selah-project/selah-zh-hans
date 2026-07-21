@@ -1,47 +1,44 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "jeremiah 2:17",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19382,
+    "completion_tokens": 432,
+    "prompt_tokens": 19446,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20004
+    "total_tokens": 19878
   },
-  "translation": "הלוא זאת תַּעֲשֶׂה לְךָ, כִּי עֲזָבְךָ אֶת־יְהוָה אֱלֹהֶיךָ, בַּעֵת הוֹלֵךְ אוֹתְךָ בַּדֶּרֶךְ?",
+  "translation": "这不是你自己招致的吗,因为你离弃了雅威你的以罗欣,就是当你被引在路上的那时候?",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "岂不是"
+      "english": "这不是...吗"
     },
     {
       "surface": "זאת",
-      "english": "这事"
+      "english": "这"
     },
     {
       "surface": "תעשה",
-      "english": "给你带来了"
+      "english": "你自己招致的"
     },
     {
       "surface": "לך",
-      "english": "⟨给⟩你"
+      "english": "给\/你自己"
     },
     {
       "surface": "עזבך",
-      "english": "因为⟨你⟩离弃了"
+      "english": "离弃"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "雅威你的以罗欣"
+      "marks": "雅威"
     },
     {
       "surface": "יהוה",
@@ -53,17 +50,17 @@
     },
     {
       "surface": "בעת",
-      "english": "在……的时候"
+      "english": "在...的时候"
     },
     {
       "surface": "מוליכך",
-      "english": "他引导⟨你⟩"
+      "english": "引你"
     },
     {
       "surface": "בדרך",
-      "english": "在⟨那⟩道路上"
+      "english": "在路上"
     }
   ],
-  "timestamp": "2026-07-17T22:06:57.829301820Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:26.335799541Z",
+  "model": "glm-4.5"
 }

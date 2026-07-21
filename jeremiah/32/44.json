@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 44,
   "ref": "jeremiah 32:44",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 32,
   "usage": {
-    "completion_tokens": 1226,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21040,
+    "completion_tokens": 980,
+    "prompt_tokens": 21150,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22266
+    "total_tokens": 22130
   },
-  "translation": "שדות בַּ\/כֶּסֶף יִקְנוּ וְ\/כָת֨וֹב בַּ\/סֵּ֥פֶר וְ\/חָתוֹם֮ וְ\/הָעֵ֣ד עֵדִים֒ בְּ\/אֶ֨רֶץ בִּנְיָמִ֜ן וּ\/בִ\/סְבִיבֵ֣י יְרוּשָׁלִַ֗ם וּ\/בְ\/עָרֵ֤י יְהוּדָה֙ וּ\/בְ\/עָרֵ֣י הָ\/הָ֔ר וּ\/בְ\/עָרֵ֥י הַ\/שְּׁפֵלָ֖ה וּ\/בְ\/עָרֵ֣י הַ\/נֶּ֑גֶב כִּֽי אָשִׁ֥יב אֶת שְׁבוּתָ֖\/ם נְאֻם יְהוָֽה׃",
+  "translation": "田地要⟨用⟩银子买来，写 ⟨在⟩ 书卷上，盖印，叫 ⟨人〉 作见证，在便雅悯地，和 耶路撒冷 四围，在 犹大 的城邑中，在 山地的城邑中，在 低陆 的城邑中，在 南地 的城邑中；因为 ⟨我⟩ 必使他们的被掳 ⟨归回⟩，雅威 宣告。",
   "tokens": [
     {
       "surface": "שדות",
@@ -27,32 +24,32 @@
       "english": "用银子"
     },
     {
-      "surface": "יקננו",
-      "english": "必被买"
+      "surface": "יקנו",
+      "english": "买来"
     },
     {
       "surface": "וכתוב",
-      "english": "并写明"
+      "english": "写"
     },
     {
       "surface": "בספר",
-      "english": "在契约书上"
+      "english": "在 书卷上"
     },
     {
       "surface": "וחתום",
-      "english": "封上"
+      "english": "盖印"
     },
     {
       "surface": "והעד",
-      "english": "并请"
+      "english": "叫 作见证"
     },
     {
       "surface": "עדים",
-      "english": "见证人"
+      "english": "人"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "english": "在 地"
     },
     {
       "surface": "בנימן",
@@ -60,7 +57,7 @@
     },
     {
       "surface": "ובסביבי",
-      "english": "在……周围"
+      "english": "和 四围"
     },
     {
       "surface": "ירושלם",
@@ -68,7 +65,7 @@
     },
     {
       "surface": "ובערי",
-      "english": "在……的城邑"
+      "english": "在 的城邑中"
     },
     {
       "surface": "יהודה",
@@ -76,7 +73,7 @@
     },
     {
       "surface": "ובערי",
-      "english": "在……的城邑"
+      "english": "在 的城邑中"
     },
     {
       "surface": "ההר",
@@ -84,15 +81,15 @@
     },
     {
       "surface": "ובערי",
-      "english": "在……的城邑"
+      "english": "在 的城邑中"
     },
     {
       "surface": "השפלה",
-      "english": "丘陵地带"
+      "english": "低陆"
     },
     {
       "surface": "ובערי",
-      "english": "在……的城邑"
+      "english": "在 的城邑中"
     },
     {
       "surface": "הנגב",
@@ -104,7 +101,7 @@
     },
     {
       "surface": "אשיב",
-      "english": "我必使……转回"
+      "english": "必使 归回"
     },
     {
       "surface": "את",
@@ -124,6 +121,6 @@
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T22:26:59.326702943Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:18.030191547Z",
+  "model": "glm-4.5"
 }

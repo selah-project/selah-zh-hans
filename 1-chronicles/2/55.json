@@ -1,80 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 55,
   "ref": "1-chronicles 2:55",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 872,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59448,
+    "completion_tokens": 572,
+    "prompt_tokens": 59567,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60320
+    "total_tokens": 60139
   },
-  "translation": "וּ\/מִשְׁפְּחֹת סֹפְרִים ישבוּ יַעְבֵּץ——תִּרְעָתִים、שִׁמְעָתִים、שׂוּכָתִים。הֵמָּה ⟨אֶת־⟩הַ\/קֵּינִים הַ\/בָּאִים מֵ\/חַמַּת אֲבִי בֵּית רֵכָב。",
+  "translation": "以及住在雅比斯的文士家族:提拉人、示玛人、苏甲人。这些人就是基尼人,是利甲家族之父哈马的后裔。",
   "tokens": [
     {
-      "surface": "וּ\/מִשְׁפְּחֹת",
-      "english": "以及……的宗族"
+      "surface": "ומשפחות",
+      "english": "以及……的家族"
     },
     {
-      "surface": "סֹפְרִים",
-      "english": "文书"
+      "surface": "ספרים",
+      "english": "文士"
     },
     {
       "surface": "ישבו",
-      "english": "居住在"
+      "english": "住在"
     },
     {
-      "surface": "יַעְבֵּץ",
+      "surface": "יעבץ",
       "english": "雅比斯"
     },
     {
-      "surface": "תִּרְעָתִים",
+      "surface": "תרעתים",
       "english": "提拉人"
     },
     {
-      "surface": "שִׁמְעָתִים",
+      "surface": "שמעתים",
       "english": "示玛人"
     },
     {
-      "surface": "שׂוּכָתִים",
+      "surface": "שוכתים",
       "english": "苏甲人"
     },
     {
-      "surface": "הֵמָּה",
-      "english": "他们就是"
+      "surface": "המה",
+      "english": "这些人就是"
     },
     {
-      "surface": "הַ\/קֵּינִים",
+      "surface": "הקינים",
       "english": "基尼人"
     },
     {
-      "surface": "הַ\/בָּאִים",
-      "english": "那些从……来的"
+      "surface": "הבאים",
+      "english": "……的后裔"
     },
     {
-      "surface": "מֵ\/חַמַּת",
-      "english": "哈末"
+      "surface": "מחמת",
+      "english": "……的"
     },
     {
-      "surface": "אֲבִי",
-      "english": "父亲"
+      "surface": "אבי",
+      "english": "……之父"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "english": "家族"
     },
     {
-      "surface": "רֵכָב",
+      "surface": "רכב",
       "english": "利甲"
     }
   ],
-  "timestamp": "2026-07-18T01:53:02.043102930Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:45.230133903Z",
+  "model": "glm-4.5"
 }

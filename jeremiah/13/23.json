@@ -1,70 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "jeremiah 13:23",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19334,
+    "completion_tokens": 564,
+    "prompt_tokens": 19397,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 19883
+    "total_tokens": 19961
   },
-  "translation": "היהפך 古实人 את-עורו ונמר את-חברברתיו? גם אתם תוכלו להיטיב, למדי הרע?",
+  "translation": "古实人岂能改变 ⟨他的⟩ 皮肤 呢？豹子岂能改变 ⟨它的⟩ 斑点 呢？你们 ⟨也是⟩ 能 行善 的—— 你们 乃是 惯于 行恶 的。",
   "tokens": [
     {
-      "surface": "הֲיַהֲפֹךְ",
-      "english": "היהפך"
+      "surface": "היהפך",
+      "english": "古实人岂能改变 ⟨他的⟩ 皮肤 呢？豹子岂能改变 ⟨它的⟩ 斑点 呢？你们 ⟨也是⟩ 能"
     },
     {
-      "surface": "כוּשִׁי",
+      "surface": "כושי",
       "english": "古实人"
     },
     {
-      "surface": "עוֹרוֹ",
-      "english": "את-עורו",
-      "marks": "עור"
+      "surface": "עורו",
+      "english": "皮肤 呢？豹子岂能改变 ⟨它的⟩ 斑点 呢？你们 ⟨也是⟩ 能"
     },
     {
-      "surface": "וְנָמֵר",
-      "english": "ונמר"
+      "surface": "ונמר",
+      "english": "皮肤 呢？豹子岂能改变 ⟨它的⟩ 斑点 呢？你们 ⟨也是⟩ 能"
     },
     {
-      "surface": "חֲבַרְבֻּרֹתָיו",
-      "english": "את-חברברתיו",
-      "marks": "חברברות"
+      "surface": "חברברתיו",
+      "english": "斑点 呢？你们 ⟨也是⟩ 能"
     },
     {
-      "surface": "גַּם",
-      "english": "גם"
+      "surface": "גם",
+      "english": "你们 ⟨也是⟩ 能"
     },
     {
-      "surface": "אַתֶּם",
-      "english": "אתם"
+      "surface": "אתם",
+      "english": "你们"
     },
     {
-      "surface": "תּוּכְלוּ",
-      "english": "תוכלו"
+      "surface": "תוכלו",
+      "english": "能"
     },
     {
-      "surface": "לְהֵיטִיב",
-      "english": "להיטיב"
+      "surface": "להיטיב",
+      "english": "行善"
     },
     {
-      "surface": "לִמֻּדֵי",
-      "english": "למדי"
+      "surface": "למדי",
+      "english": "惯于"
     },
     {
-      "surface": "הָרָע",
-      "english": "הרע"
+      "surface": "הרע",
+      "english": "行恶"
     }
   ],
-  "timestamp": "2026-07-17T22:14:29.257695249Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:30.696618724Z",
+  "model": "glm-4.5"
 }

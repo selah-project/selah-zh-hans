@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "psalms 139:19",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 139,
   "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64497,
+    "completion_tokens": 435,
+    "prompt_tokens": 64496,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65015
+    "total_tokens": 64931
   },
-  "translation": "אִם תִּקְטֹל אֱלוֹהַּ רָשָׁע, וְאַנְשֵׁי דָמִים סוּרוּ מֶנִּי",
+  "translation": "若你要杀戮，以罗欣啊，恶人和流血的人，就离开我吧：",
   "tokens": [
     {
       "surface": "אם",
-      "english": "愿你"
+      "english": "若"
     },
     {
       "surface": "תקטל",
-      "english": "杀戮"
+      "english": "你要杀戮"
     },
     {
       "surface": "אלוה",
-      "english": "אֱלוֹהַּ"
+      "english": "以罗欣"
     },
     {
       "surface": "רשע",
@@ -36,21 +33,21 @@
     },
     {
       "surface": "ואנשי",
-      "english": "因此, ⟨你⟩ 们"
+      "english": "和"
     },
     {
       "surface": "דמים",
-      "english": "流人血者"
+      "english": "流血的人"
     },
     {
       "surface": "סורו",
-      "english": "离开"
+      "english": "就离开"
     },
     {
       "surface": "מני",
-      "english": "我吧"
+      "english": "我吧："
     }
   ],
-  "timestamp": "2026-07-18T00:29:07.992950173Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:18.546316368Z",
+  "model": "glm-4.5"
 }

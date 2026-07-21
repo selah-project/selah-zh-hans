@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "1-kings 10:11",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 712,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64591,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65303
-  },
-  "translation": "חִירָם的船队（就是那从אוֹפִיר运送זָהָב的）也从אֹפִיר运来了极多的אַלְמֻגִּים木和珍贵的宝石。",
+  "translation": "希兰的船队,就是从俄斐运金子的,也从俄斐运来了极多的檀香木和宝贵的石头",
   "tokens": [
     {
       "surface": "וגם",
@@ -24,7 +13,7 @@
     },
     {
       "surface": "אני",
-      "english": "船队（的）"
+      "english": "船队"
     },
     {
       "surface": "חירם",
@@ -32,11 +21,11 @@
     },
     {
       "surface": "אשר",
-      "english": "就是那"
+      "english": "就是...的"
     },
     {
       "surface": "נשא",
-      "english": "运送了"
+      "english": "运"
     },
     {
       "surface": "זהב",
@@ -56,19 +45,19 @@
     },
     {
       "surface": "עצי",
-      "english": "木头"
+      "english": "木"
     },
     {
       "surface": "אלמגים",
-      "english": "檀木（ almug木 ）"
+      "english": "檀香"
     },
     {
       "surface": "הרבה",
-      "english": "许多"
+      "english": "极多"
     },
     {
       "surface": "מאד",
-      "english": "极"
+      "english": "非常"
     },
     {
       "surface": "ואבן",
@@ -76,9 +65,9 @@
     },
     {
       "surface": "יקרה",
-      "english": "珍贵的"
+      "english": "宝贵的"
     }
   ],
-  "timestamp": "2026-07-17T21:05:46.673128658Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:03.822876685Z",
+  "model": "glm-4.5"
 }

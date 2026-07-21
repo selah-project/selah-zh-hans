@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "jeremiah 30:20",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 862,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19276,
+    "completion_tokens": 448,
+    "prompt_tokens": 19275,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20138
+    "total_tokens": 19723
   },
-  "translation": "וְ\/הָי֤וּ בָנָי\/ו֙ כְּ\/קֶ֔דֶם וַ\/עֲדָת֖\/וֹ לְ\/פָנַ֣\/י תִּכּ֑וֹן וּ\/פָ֣קַדְתִּ֔י עַ֖ל כָּל לֹחֲצָֽי\/ו",
+  "translation": "他的儿子必如起初,他的会众必在我面前立定, ⟨我必惩治⟩ 所有压迫他的人",
   "tokens": [
     {
-      "surface": "וְ\/הָי֤וּ",
-      "english": "וְ\/הָי֤וּ"
+      "surface": "והיו",
+      "english": "必如"
     },
     {
-      "surface": "בָנָי\/ו֙",
-      "english": "בָנָי\/ו֙"
+      "surface": "בניו",
+      "english": "他的儿子"
     },
     {
-      "surface": "כְּ\/קֶ֔דֶם",
-      "english": "כְּ\/קֶ֔דֶם"
+      "surface": "כקדם",
+      "english": "起初"
     },
     {
-      "surface": "וַ\/עֲדָת֖\/וֹ",
-      "english": "וַ\/עֲדָת֖\/וֹ"
+      "surface": "ועדתו",
+      "english": "他的会众"
     },
     {
-      "surface": "לְ\/פָנַ֣\/י",
-      "english": "לְ\/פָנַ֣\/י"
+      "surface": "לפני",
+      "english": "在我面前"
     },
     {
-      "surface": "תִּכּ֑וֹן",
-      "english": "תִּכּ֑וֹן"
+      "surface": "תכון",
+      "english": "立定"
     },
     {
-      "surface": "וּ\/פָ֣קַדְתִּ֔י",
-      "english": "וּ\/פָ֣קַדְתִּ֔י"
+      "surface": "ופקדתי",
+      "english": "⟨我必惩治⟩"
     },
     {
-      "surface": "עַ֖ל",
-      "english": "עַ֖ל"
+      "surface": "על",
+      "english": "所有"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "压迫"
     },
     {
-      "surface": "לֹחֲצָֽי\/ו",
-      "english": "לֹחֲצָֽי\/ו"
+      "surface": "לחציו",
+      "english": "他的人"
     }
   ],
-  "timestamp": "2026-07-17T22:24:29.999275551Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:44.752228980Z",
+  "model": "glm-4.5"
 }

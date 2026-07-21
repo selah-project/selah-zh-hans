@@ -1,112 +1,109 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "exodus 34:29",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 1073,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19651,
+    "completion_tokens": 678,
+    "prompt_tokens": 19724,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20724
+    "total_tokens": 20402
   },
-  "translation": "וַ\/יְהִ֗י בְּ\/רֶ֤דֶת 摩西֙ מֵ\/הַ֣ר סִינַ֔י וּ\/שְׁנֵ֨י לֻחֹ֤ת הָֽ\/עֵדֻת֙ בְּ\/יַד מֹשֶׁ֔ה בְּ\/רִדְתּ֖\/וֹ מִן הָ\/הָ֑ר וּ\/מֹשֶׁ֣ה לֹֽא יָדַ֗ע כִּ֥י קָרַ֛ן ע֥וֹר פָּנָ֖י\/ו בְּ\/דַבְּר֥\/וֹ אִתּֽ\/וֹ",
+  "translation": "摩西从西奈山下来的时候,手里拿着⟨那⟩两块见证的石版,当他从山上下来,却不知道因雅威与他说话,他脸上的皮在发光。",
   "tokens": [
     {
-      "surface": "וַ\/יְהִ֗י",
-      "english": "וַיְהִי"
-    },
-    {
-      "surface": "בְּ\/רֶ֤דֶת",
-      "english": "בְּרֶדֶת"
-    },
-    {
-      "surface": "מֹשֶׁה֙",
+      "surface": "ויהי",
       "english": "摩西"
     },
     {
-      "surface": "מֵ\/הַ֣ר",
-      "english": "מֵהַר"
+      "surface": "ברדת",
+      "english": "从西奈山下来的时候"
     },
     {
-      "surface": "סִינַ֔י",
+      "surface": "משה",
+      "english": "摩西"
+    },
+    {
+      "surface": "מהר",
       "english": "西奈"
     },
     {
-      "surface": "וּ\/שְׁנֵ֨י",
-      "english": "וּשְׁנֵי"
+      "surface": "סיני",
+      "english": "山"
     },
     {
-      "surface": "לֻחֹ֤ת",
-      "english": "לֻחֹת"
+      "surface": "ושני",
+      "english": "手里拿着"
     },
     {
-      "surface": "הָֽ\/עֵדֻת֙",
-      "english": "הָעֵדֻת"
+      "surface": "לחת",
+      "english": "⟨那⟩两块"
     },
     {
-      "surface": "בְּ\/יַד",
-      "english": "בְּיַד"
+      "surface": "העדת",
+      "english": "见证的石版"
     },
     {
-      "surface": "מֹשֶׁ֔ה",
+      "surface": "ביד",
+      "english": "在"
+    },
+    {
+      "surface": "משה",
       "english": "摩西"
     },
     {
-      "surface": "בְּ\/רִדְתּ֖\/וֹ",
-      "english": "בְּרִדְתּוֹ"
+      "surface": "ברדתו",
+      "english": "的手"
     },
     {
-      "surface": "מִן",
-      "english": "מִן"
+      "surface": "מן",
+      "english": "当他"
     },
     {
-      "surface": "הָ\/הָ֑ר",
-      "english": "הָהָר"
+      "surface": "ההר",
+      "english": "从山上下来"
     },
     {
-      "surface": "וּ\/מֹשֶׁ֣ה",
-      "english": "摩西"
+      "surface": "ומשה",
+      "english": "却"
     },
     {
-      "surface": "לֹֽא",
-      "english": "לֹא"
+      "surface": "לא",
+      "english": "不知道"
     },
     {
-      "surface": "יָדַ֗ע",
-      "english": "יָדַע"
+      "surface": "ידע",
+      "english": "知道"
     },
     {
-      "surface": "כִּ֥י",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": "因"
     },
     {
-      "surface": "קָרַ֛ן",
-      "english": "קָרַן"
+      "surface": "קרן",
+      "english": "他脸上的皮在发光"
     },
     {
-      "surface": "ע֥וֹר",
-      "english": "עוֹר"
+      "surface": "עור",
+      "english": "他脸上的皮在发光"
     },
     {
-      "surface": "פָּנָ֖י\/ו",
-      "english": "פָּנָיו"
+      "surface": "פניו",
+      "english": "他脸上的皮在发光"
     },
     {
-      "surface": "בְּ\/דַבְּר֥\/וֹ",
-      "english": "בְּדַבְּרוֹ"
+      "surface": "בדברו",
+      "english": "雅威与他说话"
     },
     {
-      "surface": "אִתּֽ\/וֹ",
-      "english": "אִתּוֹ"
+      "surface": "אתו",
+      "english": "与他"
     }
   ],
-  "timestamp": "2026-07-17T18:35:09.034134616Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:45.922098853Z",
+  "model": "glm-4.5"
 }

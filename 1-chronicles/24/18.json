@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "1-chronicles 24:18",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58484,
+    "completion_tokens": 422,
+    "prompt_tokens": 58483,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58929
+    "total_tokens": 58905
   },
-  "translation": "לִ\/דְלָיָ֨הוּ֙ הַ\/שְּׁלוֹשִׁים וְ\/שָׁלוֹשׁ, לְ\/מַֽעַזְיָ֖הוּ הָ\/אַרְבָּעִים וְ\/אַרְבַּע׃",
+  "translation": "第二十三份归德莱雅,第二十四份归玛阿雅雅威。",
   "tokens": [
     {
-      "surface": "לִ\/דְלָיָ֨הוּ֙",
-      "english": "属于达利亚胡"
+      "surface": "לדליהו",
+      "english": "第二十三份归德莱雅"
     },
     {
-      "surface": "שְׁלֹשָׁ֣ה",
-      "english": "三"
+      "surface": "שלשה",
+      "english": "第二十三"
     },
     {
-      "surface": "וְ\/עֶשְׂרִ֔ים",
-      "english": "和二十"
+      "surface": "ועשרים",
+      "english": ""
     },
     {
-      "surface": "לְ\/מַֽעַזְיָ֖הוּ",
-      "english": "属于玛阿兹雅胡"
+      "surface": "למעזיהו",
+      "english": "第二十四份归玛阿雅雅威"
     },
     {
-      "surface": "אַרְבָּעָ֥ה",
-      "english": "四"
+      "surface": "ארבעה",
+      "english": "第二十四"
     },
     {
-      "surface": "וְ\/עֶשְׂרִֽים",
-      "english": "和二十"
+      "surface": "ועשרים",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:08:51.358895781Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:02.555585096Z",
+  "model": "glm-4.5"
 }

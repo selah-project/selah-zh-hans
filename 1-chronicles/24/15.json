@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "1-chronicles 24:15",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58480,
+    "completion_tokens": 253,
+    "prompt_tokens": 58479,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58887
+    "total_tokens": 58732
   },
-  "translation": "希悉 שִׁבְעָ֣ה עָשָׂ֔ר לְ\/הַ\/פִּצֵּ֖ץ שְׁמוֹנָ֥ה עָשָֽׂר",
+  "translation": "第十七个给希吉尔，第十八个给哈比谢斯，",
   "tokens": [
     {
       "surface": "לחזיר",
-      "english": "希悉"
+      "english": "给希吉尔"
     },
     {
       "surface": "שבעה",
-      "english": "שִׁבְעָ֣ה"
+      "english": "第十七个"
     },
     {
       "surface": "עשר",
-      "english": "עָשָׂ֔ר"
+      "english": ""
     },
     {
       "surface": "להפצץ",
-      "english": "לְ\/הַ\/פִּצֵּ֖ץ"
+      "english": "给哈比谢斯"
     },
     {
       "surface": "שמונה",
-      "english": "שְׁמוֹנָ֥ה"
+      "english": "第十八个"
     },
     {
       "surface": "עשר",
-      "english": "עָשָֽׂר"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:08:44.986596067Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:16.574255155Z",
+  "model": "glm-4.5"
 }

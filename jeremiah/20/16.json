@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "jeremiah 20:16",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 899,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19622,
+    "completion_tokens": 602,
+    "prompt_tokens": 19686,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20521
+    "total_tokens": 20288
   },
-  "translation": "וְ\/הָיָה֙ הָ\/אִ֣ישׁ הַ\/ה֔וּא כֶּֽ\/עָרִ֛ים אֲשֶׁר הָפַ֥ךְ יְהוָ֖ה וְ\/לֹ֣א נִחָ֑ם וְ\/שָׁמַ֤ע זְעָקָה֙ בַּ\/בֹּ֔קֶר וּ\/תְרוּעָ֖ה בְּ\/עֵ֥ת צָהֳרָֽיִם",
+  "translation": "愿那人像雅威所倾覆、并未后悔的诸城,愿他在早晨听见呼喊,在正午听见战号,",
   "tokens": [
     {
-      "surface": "וְ\/הָיָה֙",
+      "surface": "והיה",
       "english": "愿"
     },
     {
-      "surface": "הָ\/אִ֣ישׁ",
+      "surface": "האיש",
       "english": "那人"
     },
     {
-      "surface": "הַ\/ה֔וּא",
-      "english": "⟨就是⟩"
+      "surface": "ההוא",
+      "english": ""
     },
     {
-      "surface": "כֶּֽ\/עָרִ֛ים",
-      "english": "如同那些城邑"
+      "surface": "כערים",
+      "english": "像诸城"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "就是"
+      "surface": "אשר",
+      "english": "⟨that⟩"
     },
     {
-      "surface": "הָפַ֥ךְ",
-      "english": "倾覆了"
+      "surface": "הפך",
+      "english": "雅威所倾覆"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "וְ\/לֹ֣א",
-      "english": "而不"
+      "surface": "ולא",
+      "english": "并未"
     },
     {
-      "surface": "נִחָ֑ם",
-      "english": "施怜悯"
+      "surface": "נחם",
+      "english": "后悔"
     },
     {
-      "surface": "וְ\/שָׁמַ֤ע",
+      "surface": "ושמע",
       "english": "愿他听见"
     },
     {
-      "surface": "זְעָקָה֙",
-      "english": "哀号"
+      "surface": "זעקה",
+      "english": "呼喊"
     },
     {
-      "surface": "בַּ\/בֹּ֔קֶר",
-      "english": "在清晨"
+      "surface": "בבקר",
+      "english": "在早晨"
     },
     {
-      "surface": "וּ\/תְרוּעָ֖ה",
-      "english": "和呼喊声"
+      "surface": "ותרועה",
+      "english": "和战号"
     },
     {
-      "surface": "בְּ\/עֵ֥ת",
-      "english": "在⟨时刻⟩"
+      "surface": "בעת",
+      "english": "在...时"
     },
     {
-      "surface": "צָהֳרָֽיִם",
+      "surface": "צהרים",
       "english": "正午"
     }
   ],
-  "timestamp": "2026-07-17T22:18:15.479065668Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:00.117594479Z",
+  "model": "glm-4.5"
 }

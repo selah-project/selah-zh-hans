@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "2-chronicles 29:33",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59598,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60261
-  },
-  "translation": "וְ\/הַ\/קֳּדָשִׁים: בָּקָר שֵׁשׁ מֵאוֹת וְ\/צֹאן שְׁלֹשֶׁת אֲלָפִים",
+  "translation": "至于奉献之物,是公牛六百只,绵羊三千只。",
   "tokens": [
     {
-      "surface": "וְֽ\/הַ\/קֳּדָשִׁ֑ים",
-      "english": "分别为圣之物 (וְ\/הַ\/קֳּדָשִׁים — 与7,13,26,53,67,137等倍数相关)"
+      "surface": "והקדשים",
+      "english": "至于奉献之物"
     },
     {
-      "surface": "בָּקָר֙",
-      "english": "牛 (בָּקָר)"
+      "surface": "בקר",
+      "english": "是公牛"
     },
     {
-      "surface": "שֵׁ֣שׁ",
-      "english": "六 (שֵׁשׁ)"
+      "surface": "שש",
+      "english": "六百"
     },
     {
-      "surface": "מֵא֔וֹת",
-      "english": "百 (מֵאוֹת)"
+      "surface": "מאות",
+      "english": "只"
     },
     {
-      "surface": "וְ\/צֹ֖אן",
-      "english": "绵羊\/羊群 (וְ\/צֹאן)"
+      "surface": "וצאן",
+      "english": "和绵羊"
     },
     {
-      "surface": "שְׁלֹ֥שֶׁת",
-      "english": "三 (שְׁלֹשֶׁת)"
+      "surface": "שלשת",
+      "english": "三千"
     },
     {
-      "surface": "אֲלָפִֽים",
-      "english": "千 (אֲלָפִים)"
+      "surface": "אלפים",
+      "english": "只"
     }
   ],
-  "timestamp": "2026-07-18T02:31:39.760326620Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:30:50.193649091Z",
+  "model": "glm-4.5"
 }

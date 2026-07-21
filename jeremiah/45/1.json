@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "jeremiah 45:1",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 45,
   "usage": {
-    "completion_tokens": 942,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20665,
+    "completion_tokens": 693,
+    "prompt_tokens": 20782,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21607
+    "total_tokens": 21475
   },
-  "translation": "ה*davar* (הדבר) אשר דבר 耶利米 הנביא אל 巴录 בן 尼利亚, בְּכָתְבוֹ אֶת־הַדְּבָרִים הָאֵלֶּה עַל־סֵפֶר מִפִּי יִרְמְיָהוּ, בַּשָּׁנָה הָרְבִיעִית לִיהוֹיָקִים בֶּן־יֹאשִׁיָּהוּ מֶלֶךְ יְהוּדָה, לֵאמֹר׃",
+  "translation": "耶利米这位先知对尼利亚的儿子巴录所说的话，当他从耶利米口中将 ⟨את⟩ 这些话写在书上时，是在约西亚的儿子犹大王约雅敬第四年，说：",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "ה*davar* (הדבר)"
+      "english": "话"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "……所"
     },
     {
       "surface": "דבר",
-      "english": "דבר"
+      "english": "说"
     },
     {
       "surface": "ירמיהו",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "הנביא",
-      "english": "הנביא"
+      "english": "这位先知"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "对"
     },
     {
       "surface": "ברוך",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "בן",
-      "english": "בן"
+      "english": "儿子"
     },
     {
       "surface": "נריה",
@@ -56,32 +53,32 @@
     },
     {
       "surface": "בכתבו",
-      "english": "בכתבו"
+      "english": "当他写时"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הדברים"
+      "marks": "这些话"
     },
     {
       "surface": "הדברים",
-      "english": "הדברים"
+      "english": "这些话"
     },
     {
       "surface": "האלה",
-      "english": "האלה"
+      "english": "这"
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "在……上"
     },
     {
       "surface": "ספר",
-      "english": "ספר"
+      "english": "书"
     },
     {
       "surface": "מפי",
-      "english": "מפי"
+      "english": "从……口中"
     },
     {
       "surface": "ירמיהו",
@@ -89,11 +86,11 @@
     },
     {
       "surface": "בשנה",
-      "english": "בשנה"
+      "english": "在……年"
     },
     {
       "surface": "הרבעית",
-      "english": "הרבעית"
+      "english": "第四"
     },
     {
       "surface": "ליהויקים",
@@ -101,7 +98,7 @@
     },
     {
       "surface": "בן",
-      "english": "בן"
+      "english": "儿子"
     },
     {
       "surface": "יאשיהו",
@@ -109,7 +106,7 @@
     },
     {
       "surface": "מלך",
-      "english": "מלך"
+      "english": "王"
     },
     {
       "surface": "יהודה",
@@ -117,9 +114,9 @@
     },
     {
       "surface": "לאמר",
-      "english": "לאמר"
+      "english": "说"
     }
   ],
-  "timestamp": "2026-07-20T06:43:53.244155941Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:18.936465983Z",
+  "model": "glm-4.5"
 }

@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "joshua 21:12",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 689,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18252,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18941
-  },
-  "translation": "וְ\/אֶת שְׂדֵה הָ\/עִיר וְ\/אֶת חֲצֵרֶיהָ נָתְנוּ 迦勒 בֶּן 耶孚尼 בַּ\/אֲחֻזָּתוֹ׃",
+  "translation": "只是⟨את⟩那城的田地和⟨את⟩属城的村庄,他们给了迦勒,耶孚尼的儿子,作他的产业。",
   "tokens": [
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/אֶת",
-      "marks": "שְׂדֵה הָ\/עִיר (שְׂדֵה הָעִיר)"
+      "surface": "ואת",
+      "english": "只是⟨את⟩",
+      "marks": "那城的田地"
     },
     {
-      "surface": "שְׂדֵה",
-      "english": "שְׂדֵה"
+      "surface": "שדה",
+      "english": "那城的田地"
     },
     {
-      "surface": "הָ\/עִיר",
-      "english": "הָ\/עִיר"
+      "surface": "העיר",
+      "english": "那城的"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/אֶת",
-      "marks": "חֲצֵרֶיהָ"
+      "surface": "ואת",
+      "english": "和⟨את⟩",
+      "marks": "属城的村庄"
     },
     {
-      "surface": "חֲצֵרֶיהָ",
-      "english": "חֲצֵרֶיהָ"
+      "surface": "חצריה",
+      "english": "属城的村庄"
     },
     {
-      "surface": "נָתְנוּ",
-      "english": "נָתְנוּ"
+      "surface": "נתנו",
+      "english": "他们给了"
     },
     {
-      "surface": "לְ\/כָלֵב",
+      "surface": "לכלב",
       "english": "迦勒"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "耶孚尼的儿子"
     },
     {
-      "surface": "יְפֻנֶּה",
+      "surface": "יפנה",
       "english": "耶孚尼"
     },
     {
-      "surface": "בַּ\/אֲחֻזָּתוֹ",
-      "english": "בַּ\/אֲחֻזָּתוֹ"
+      "surface": "באחזתו",
+      "english": "作他的产业"
     }
   ],
-  "timestamp": "2026-07-18T02:48:04.397942176Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:38.952875366Z",
+  "model": "glm-4.5"
 }

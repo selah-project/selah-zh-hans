@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "ezekiel 1:9",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 771,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19397,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20168
-  },
-  "translation": "חָבְרֹת אִשָּׁה אֶל-אֲחוֹתָהּ כַּנְפֵיהֶם；לֹא יִסַּבּוּ בְּלֶכֶתְנָה；אִישׁ אֶל-עֵבֶר פָּנָיו יֵלֵכוּ׃",
+  "translation": "她们的翅膀彼此相接;她们行走的时候并不转身,各自向前面行。",
   "tokens": [
     {
-      "surface": "חֹֽבְרֹ֛ת",
-      "english": "相连"
+      "surface": "חברת",
+      "english": "相接"
     },
     {
-      "surface": "אִשָּׁ֥הּ",
-      "english": "各(翅膀)"
+      "surface": "אשה",
+      "english": "翅膀"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
+      "english": "彼此"
+    },
+    {
+      "surface": "אחותה",
       "english": "向"
     },
     {
-      "surface": "אֲחוֹתָ֖\/הּ",
-      "english": "其邻舍"
+      "surface": "כנפיהם",
+      "english": "一个"
     },
     {
-      "surface": "כַּנְפֵי\/הֶ֑ם",
-      "english": "它们的翅膀"
-    },
-    {
-      "surface": "לֹא",
+      "surface": "לא",
       "english": "不"
     },
     {
-      "surface": "יִסַּ֣בּוּ",
-      "english": "转向"
+      "surface": "יסבו",
+      "english": "转身"
     },
     {
-      "surface": "בְּ\/לֶכְתָּ֔\/ן",
-      "english": "在它们行走时"
+      "surface": "בלכתן",
+      "english": "⟨当⟩她们行走的时候"
     },
     {
-      "surface": "אִ֛ישׁ",
-      "english": "每一个"
+      "surface": "איש",
+      "english": "各自"
     },
     {
-      "surface": "אֶל",
-      "english": "朝着"
+      "surface": "אל",
+      "english": "向"
     },
     {
-      "surface": "עֵ֥בֶר",
-      "english": "⟨对面的⟩方向"
+      "surface": "עבר",
+      "english": "前面"
     },
     {
-      "surface": "פָּנָ֖י\/ו",
-      "english": "它脸的"
+      "surface": "פניו",
+      "english": "她的脸"
     },
     {
-      "surface": "יֵלֵֽכוּ",
-      "english": "⟨它们⟩行走"
+      "surface": "ילכו",
+      "english": "行"
     }
   ],
-  "timestamp": "2026-07-17T22:40:08.883272701Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:43.007817485Z",
+  "model": "glm-4.5"
 }

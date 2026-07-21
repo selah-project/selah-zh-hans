@@ -1,80 +1,70 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "leviticus 4:26",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 811,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19797,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20608
-  },
-  "translation": "וְ\/⟨את⟩ כָּל־חֶלְבּוֹ יַקְטִיר הַ\/מִּזְבֵּחָ\/ה כְּ\/חֵלֶב זֶבַח הַ\/שְּׁלָמִים, וְ\/כִפֶּר עָלָיו הַ\/כֹּהֵן מֵ\/חַטָּאתוֹ, וְ\/נִסְלַח לוֹ.",
+  "translation": "并要把⟨את⟩它所有的脂油在坛上焚烧,如同平安祭的脂油;祭司要为他遮盖,因他的罪,他必蒙赦免。",
   "tokens": [
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/⟨את⟩"
+      "surface": "ואת",
+      "english": "并要把⟨את⟩",
+      "marks": "它所有的"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "所有的"
     },
     {
-      "surface": "חֶלְבּוֹ",
-      "english": "חֶלְבּוֹ"
+      "surface": "חלבו",
+      "english": "它的脂油"
     },
     {
-      "surface": "יַקְטִיר",
-      "english": "יַקְטִיר"
+      "surface": "יקטיר",
+      "english": "在坛上焚烧"
     },
     {
-      "surface": "הַ\/מִּזְבֵּחָ\/ה",
-      "english": "הַ\/מִּזְבֵּחָ\/ה"
+      "surface": "המזבחה",
+      "english": "坛上"
     },
     {
-      "surface": "כְּ\/חֵלֶב",
-      "english": "כְּ\/חֵלֶב"
+      "surface": "כחלב",
+      "english": "如同...脂油"
     },
     {
-      "surface": "זֶבַח",
-      "english": "זֶבַח"
+      "surface": "זבח",
+      "english": "祭"
     },
     {
-      "surface": "הַ\/שְּׁלָמִים",
-      "english": "הַ\/שְּׁלָמִים"
+      "surface": "השלמים",
+      "english": "平安"
     },
     {
-      "surface": "וְ\/כִפֶּר",
-      "english": "וְ\/כִפֶּר"
+      "surface": "וכפר",
+      "english": "要为他遮盖"
     },
     {
-      "surface": "עָלָיו",
-      "english": "עָלָיו"
+      "surface": "עליו",
+      "english": "为"
     },
     {
-      "surface": "הַ\/כֹּהֵן",
-      "english": "הַ\/כֹּהֵן"
+      "surface": "הכהן",
+      "english": "祭司"
     },
     {
-      "surface": "מֵ\/חַטָּאתוֹ",
-      "english": "מֵ\/חַטָּאתוֹ"
+      "surface": "מחטאתו",
+      "english": "因他的罪"
     },
     {
-      "surface": "וְ\/נִסְלַח",
-      "english": "וְ\/נִסְלַח"
+      "surface": "ונסלח",
+      "english": "他必蒙赦免"
     },
     {
-      "surface": "לוֹ",
-      "english": "לוֹ"
+      "surface": "לו",
+      "english": "他"
     }
   ],
-  "timestamp": "2026-07-17T18:41:59.519786164Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:26.313317007Z",
+  "model": "glm-4.5"
 }

@@ -1,77 +1,68 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "ezekiel 20:23",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 1194,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19640,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20834
-  },
-  "translation": "גַּם אֲנִי נָשָׂאתִי ⟨את⟩ יָדִי לָהֶם בַּמִּדְבָּר לְהָפִיץ אֹתָם בַּגּוֹיִם וּלְזָרוֹת אוֹתָם בָּאֲרָצוֹת׃",
+  "translation": "我也在旷野中向他们举手,意要⟨将⟩他们⟨את⟩分散在列国中,并流散他们到各地。",
   "tokens": [
     {
-      "surface": "גַּם",
-      "english": "גַּם"
+      "surface": "גם",
+      "english": "也"
     },
     {
-      "surface": "אֲנִ֗י",
-      "english": "אֲנִי"
+      "surface": "אני",
+      "english": "我"
     },
     {
-      "surface": "נָשָׂאתִי",
-      "english": "נָשָׂאתִי"
+      "surface": "נשאתי",
+      "english": "举手"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "יָדִי"
+      "marks": "他们"
     },
     {
-      "surface": "יָדִי",
-      "english": "יָדִי"
+      "surface": "ידי",
+      "english": "手"
     },
     {
-      "surface": "לָהֶם",
-      "english": "לָהֶם"
+      "surface": "להם",
+      "english": "向他们"
     },
     {
-      "surface": "בַּמִּדְבָּר",
-      "english": "בַּמִּדְבָּר"
+      "surface": "במדבר",
+      "english": "在旷野中"
     },
     {
-      "surface": "לְהָפִיץ",
-      "english": "לְהָפִיץ"
+      "surface": "להפיץ",
+      "english": "分散"
     },
     {
-      "surface": "אֹתָם",
-      "english": "אֹתָם"
+      "surface": "אתם",
+      "english": "⟨את⟩",
+      "marks": "列国中"
     },
     {
-      "surface": "בַּגּוֹיִם",
-      "english": "בַּגּוֹיִם"
+      "surface": "בגוים",
+      "english": "在列国中"
     },
     {
-      "surface": "וּלְזָרוֹת",
-      "english": "וּלְזָרוֹת"
+      "surface": "ולזרות",
+      "english": "并流散"
     },
     {
-      "surface": "אוֹתָם",
-      "english": "אוֹתָם"
+      "surface": "אותם",
+      "english": "⟨את⟩",
+      "marks": "各地"
     },
     {
-      "surface": "בָּאֲרָצוֹת",
-      "english": "בָּאֲרָצוֹת"
+      "surface": "בארצות",
+      "english": "到各地"
     }
   ],
-  "timestamp": "2026-07-17T22:51:29.559472270Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:48.016866151Z",
+  "model": "glm-4.5"
 }

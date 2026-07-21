@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "1-chronicles 5:6",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 627,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59007,
+    "completion_tokens": 364,
+    "prompt_tokens": 59108,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 0
     },
-    "total_tokens": 59634
+    "total_tokens": 59472
   },
-  "translation": "备拉 בְנ\/וֹ: 亚述 הֶגְלָה 提革拉 提革拉 מֶלֶךְ 亚述 ה֥וּא נָשִׂיא לָ\/רֽאוּבֵנִֽי",
+  "translation": "备拉是他的儿子;被亚述王提革拉-毗列色掳去;他是流便支派的领袖。",
   "tokens": [
     {
       "surface": "בארה",
@@ -24,15 +21,15 @@
     },
     {
       "surface": "בנו",
-      "english": "בְנ\/וֹ:"
+      "english": "是他的儿子"
     },
     {
       "surface": "אשר",
-      "english": "亚述"
+      "english": "被"
     },
     {
       "surface": "הגלה",
-      "english": "הֶגְלָה"
+      "english": "掳去"
     },
     {
       "surface": "תלגת",
@@ -40,11 +37,11 @@
     },
     {
       "surface": "פלנאסר",
-      "english": "提革拉"
+      "english": "-毗列色"
     },
     {
       "surface": "מלך",
-      "english": "מֶלֶךְ"
+      "english": "王"
     },
     {
       "surface": "אשר",
@@ -52,17 +49,17 @@
     },
     {
       "surface": "הוא",
-      "english": "ה֥וּא"
+      "english": "他是"
     },
     {
       "surface": "נשיא",
-      "english": "נָשִׂיא"
+      "english": "领袖"
     },
     {
       "surface": "לראובני",
-      "english": "לָ\/רֽאוּבֵנִֽי"
+      "english": "流便支派的"
     }
   ],
-  "timestamp": "2026-07-18T01:54:34.759838638Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:44.930449370Z",
+  "model": "glm-4.5"
 }

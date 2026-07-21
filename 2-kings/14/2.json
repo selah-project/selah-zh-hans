@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "2-kings 14:2",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 917,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19213,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20130
-  },
-  "translation": "⟨他⟩ twenty 五 岁 时 בְ\/מָלְכ֔\/וֹ ,וְ\/עֶשְׂרִ֤ים וָ\/תֵ֨שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּ\/ירוּשָׁלִָ֑ם。וְ\/שֵׁ֣ם אִמּ֔\/וֹ יְהוֹעַדִּין מִן 耶路撒冷。",
+  "translation": "他登基的时候年二十五岁,在耶路撒冷作王二十九年。他母亲的名是约阿丁,是耶路撒冷人。",
   "tokens": [
     {
-      "surface": "בֶּן",
-      "english": "子"
+      "surface": "בן",
+      "english": "二十五岁"
     },
     {
-      "surface": "עֶשְׂרִ֨ים",
+      "surface": "עשרים",
       "english": "二十"
     },
     {
-      "surface": "וְ\/חָמֵ֤שׁ",
+      "surface": "וחמש",
       "english": "和五"
     },
     {
-      "surface": "שָׁנָה֙",
-      "english": "岁"
-    },
-    {
-      "surface": "הָיָ֣ה",
-      "english": "时"
-    },
-    {
-      "surface": "בְ\/מָלְכ֔\/וֹ",
-      "english": "他作王"
-    },
-    {
-      "surface": "וְ\/עֶשְׂרִ֤ים",
-      "english": "二十"
-    },
-    {
-      "surface": "וָ\/תֵ֨שַׁע֙",
-      "english": "和九"
-    },
-    {
-      "surface": "שָׁנָ֔ה",
+      "surface": "שנה",
       "english": "年"
     },
     {
-      "surface": "מָלַ֖ךְ",
-      "english": "他作王"
+      "surface": "היה",
+      "english": "他"
     },
     {
-      "surface": "בִּ\/ירוּשָׁלִָ֑ם",
+      "surface": "במלכו",
+      "english": "登基的时候"
+    },
+    {
+      "surface": "ועשרים",
+      "english": "二十"
+    },
+    {
+      "surface": "ותשע",
+      "english": "和九"
+    },
+    {
+      "surface": "שנה",
+      "english": "年"
+    },
+    {
+      "surface": "מלך",
+      "english": "作王"
+    },
+    {
+      "surface": "בירושלם",
       "english": "在耶路撒冷"
     },
     {
-      "surface": "וְ\/שֵׁ֣ם",
-      "english": "至于名字"
+      "surface": "ושם",
+      "english": "名"
     },
     {
-      "surface": "אִמּ֔\/וֹ",
-      "english": "他母亲"
+      "surface": "אמו",
+      "english": "他母亲的"
     },
     {
       "surface": "יהועדין",
       "english": "约阿丁"
     },
     {
-      "surface": "מִן",
-      "english": "来自"
+      "surface": "מן",
+      "english": "是...人"
     },
     {
-      "surface": "יְרוּשָׁלִָֽם",
+      "surface": "ירושלם",
       "english": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-17T21:26:34.740433390Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:40:11.570294464Z",
+  "model": "glm-4.5"
 }

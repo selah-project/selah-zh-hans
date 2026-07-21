@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "zechariah 14:9",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 14,
   "usage": {
-    "completion_tokens": 807,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18112,
+    "completion_tokens": 529,
+    "prompt_tokens": 18176,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 16512
     },
-    "total_tokens": 18919
+    "total_tokens": 18705
   },
-  "translation": "וְ\/הָיָ֧ה יְהוָ֛ה לְ\/מֶ֖לֶךְ עַל כָּל הָ\/אָ֑רֶץ בַּ\/יּ֣וֹם הַ\/ה֗וּא יִהְיֶ֧ה יְהוָ֛ה אֶחָ֖ד וּ\/שְׁמ֥\/וֹ אֶחָֽד",
+  "translation": "雅威必作全地的王,在那日,雅威必是独一的,祂的名也是独一的",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨将⟩是"
+      "english": "必"
     },
     {
       "surface": "יהוה",
@@ -32,27 +29,27 @@
     },
     {
       "surface": "על",
-      "english": "治理"
-    },
-    {
-      "surface": "כל",
       "english": "全"
     },
     {
-      "surface": "הארץ",
+      "surface": "כל",
       "english": "地"
     },
     {
+      "surface": "הארץ",
+      "english": "的"
+    },
+    {
       "surface": "ביום",
-      "english": "在⟨那⟩日"
+      "english": "在那日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "english": ""
     },
     {
       "surface": "יהיה",
-      "english": "必有"
+      "english": "必是"
     },
     {
       "surface": "יהוה",
@@ -64,13 +61,13 @@
     },
     {
       "surface": "ושמו",
-      "english": "他的名"
+      "english": "祂的名"
     },
     {
       "surface": "אחד",
-      "english": "独一的"
+      "english": "也是独一的"
     }
   ],
-  "timestamp": "2026-07-17T23:37:56.497541467Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:25.486048913Z",
+  "model": "glm-4.5"
 }

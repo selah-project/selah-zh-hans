@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-chronicles 34:1",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59825,
+    "completion_tokens": 432,
+    "prompt_tokens": 59891,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60325
+    "total_tokens": 60323
   },
-  "translation": "בֶּן 八 שָׁנִים יֹאשִׁיָּהוּ בְ\/מָלְכ֑\/וֹ，וּ\/שְׁלֹשִׁים וְ\/אַחַת שָׁנָה מָלַךְ בִּ\/ירוּשָׁלִָֽם。",
+  "translation": "约西亚登基时年八岁,在耶路撒冷作王三十一年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "儿子"
+      "english": "年"
     },
     {
       "surface": "שמונה",
@@ -28,15 +25,15 @@
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "english": "岁"
     },
     {
-      "surface": "יֹאשִׁיָּהוּ",
+      "surface": "יאשיהו",
       "english": "约西亚"
     },
     {
       "surface": "במלכו",
-      "english": "在他登基时"
+      "english": "登基时"
     },
     {
       "surface": "ושלשים",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "ואחת",
-      "english": "和一"
+      "english": "一"
     },
     {
       "surface": "שנה",
@@ -59,6 +56,6 @@
       "english": "在耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:34:53.112706128Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:18.455439834Z",
+  "model": "glm-4.5"
 }

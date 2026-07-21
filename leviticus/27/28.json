@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "leviticus 27:28",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 906,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20542,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 21448
-  },
-  "translation": "אַךְ כָּל חֵרֶם אֲשֶׁר יַחֲרִם אִישׁ לַ\/יהוָה מִ\/כָּל אֲשֶׁר ל֗\/וֹ מֵ\/אָדָם וּ\/בְהֵמָה וּ\/מִ\/שְּׂדֵה אֲחֻזָּת\/וֹ לֹא יִמָּכֵר וְ\/לֹא יִגָּאֵל כָּל חֵרֶם קֹדֶשׁ קָדָשִׁים הוּא לַ\/יהוָה׃",
+  "translation": "惟独凡人奉给雅威为*cherem*（禁物）的，从人、牲畜、以及他承受的田地，都不可卖，也不可赎；凡奉为*cherem*（禁物）的，是归给雅威为至圣的。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "只不過"
+      "english": "惟独"
     },
     {
       "surface": "כל",
@@ -28,67 +17,71 @@
     },
     {
       "surface": "חרם",
-      "english": "永獻之物"
+      "english": "*cherem*（禁物）"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "⟨that⟩"
     },
     {
       "surface": "יחרם",
-      "english": "人永獻"
+      "english": "人奉给"
     },
     {
       "surface": "איש",
-      "english": "人所"
+      "english": "人"
     },
     {
       "surface": "ליהוה",
-      "english": "歸雅威"
+      "english": "给雅威"
     },
     {
       "surface": "מכל",
-      "english": "從凡"
+      "english": "从"
     },
     {
       "surface": "אשר",
-      "english": "所有的"
+      "english": "⟨that⟩"
     },
     {
       "surface": "לו",
-      "english": "屬於他的"
+      "english": "他"
     },
     {
       "surface": "מאדם",
-      "english": "從人"
+      "english": "人"
     },
     {
       "surface": "ובהמה",
-      "english": "和牲畜"
+      "english": "牲畜"
     },
     {
       "surface": "ומשדה",
-      "english": "以及從"
+      "english": "田地"
     },
     {
       "surface": "אחזתו",
-      "english": "他的產業田地"
+      "english": "⟨the field of⟩ 他承受"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "english": "不"
     },
     {
       "surface": "ימכר",
-      "english": "被賣"
+      "english": "可卖"
     },
     {
       "surface": "ולא",
-      "english": "也不可"
+      "english": "也"
+    },
+    {
+      "surface": "לא",
+      "english": "不"
     },
     {
       "surface": "יגאל",
-      "english": "被贖回"
+      "english": "可赎"
     },
     {
       "surface": "כל",
@@ -96,25 +89,25 @@
     },
     {
       "surface": "חרם",
-      "english": "永獻之物"
+      "english": "*cherem*（禁物）"
     },
     {
       "surface": "קדש",
-      "english": "是聖"
+      "english": "至圣"
     },
     {
       "surface": "קדשים",
-      "english": "中之聖"
+      "english": "圣物"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "english": "是"
     },
     {
       "surface": "ליהוה",
-      "english": "歸雅威"
+      "english": "归给雅威"
     }
   ],
-  "timestamp": "2026-07-17T18:59:57.827287858Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:46.885721131Z",
+  "model": "glm-4.5"
 }

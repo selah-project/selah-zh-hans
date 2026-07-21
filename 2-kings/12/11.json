@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "2-kings 12:11",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 1269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19544,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20813
-  },
-  "translation": "וַ\/יְהִי כִּ\/רְאוֹתָ\/ם כִּי רַב הַ\/כֶּסֶף בָּ\/אָרוֹן, וַ\/יַּעַל סֹפֵר הַ\/מֶּלֶךְ וְ\/הַ\/כֹּהֵן הַ\/גָּדוֹל, וַ\/יָּצֻרוּ וַ\/יִּמְנוּ ⟨אֵת⟩ הַ\/כֶּסֶף הַ\/נִּמְצָא בֵּית 雅威׃",
+  "translation": "当他们看见箱子里有许多银子时,王的书记和大祭司就上来,把在雅威殿里发现的银子都捆好并点数了 ⟨את⟩ 那些银子",
   "tokens": [
     {
-      "surface": "וַֽ\/יְהִי֙",
-      "english": "וַ\/יְהִי"
+      "surface": "ויהי",
+      "english": "当他们"
     },
     {
-      "surface": "כִּ\/רְאוֹתָ֔\/ם",
-      "english": "כִּ\/רְאוֹתָ\/ם"
+      "surface": "כראותם",
+      "english": "看见"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": "时"
     },
     {
-      "surface": "רַ֥ב",
-      "english": "רַב"
+      "surface": "רב",
+      "english": "许多"
     },
     {
-      "surface": "הַ\/כֶּ֖סֶף",
-      "english": "הַ\/כֶּסֶף"
+      "surface": "הכסף",
+      "english": "银子"
     },
     {
-      "surface": "בָּֽ\/אָר֑וֹן",
-      "english": "בָּ\/אָרוֹן"
+      "surface": "בארון",
+      "english": "在箱子里"
     },
     {
-      "surface": "וַ\/יַּ֨עַל",
-      "english": "וַ\/יַּעַל"
+      "surface": "ויעל",
+      "english": "就上来"
     },
     {
-      "surface": "סֹפֵ֤ר",
-      "english": "סֹפֵר"
+      "surface": "ספר",
+      "english": "书记"
     },
     {
-      "surface": "הַ\/מֶּ֨לֶךְ֙",
-      "english": "הַ\/מֶּלֶךְ"
+      "surface": "המלך",
+      "english": "王的"
     },
     {
-      "surface": "וְ\/הַ\/כֹּהֵ֣ן",
-      "english": "וְ\/הַ\/כֹּהֵן"
+      "surface": "והכהן",
+      "english": "和大祭司"
     },
     {
-      "surface": "הַ\/גָּד֔וֹל",
-      "english": "הַ\/גָּדוֹל"
+      "surface": "הגדול",
+      "english": "大"
     },
     {
-      "surface": "וַ\/יָּצֻ֨רוּ֙",
-      "english": "וַ\/יָּצֻרוּ"
+      "surface": "ויצרו",
+      "english": "把...捆好"
     },
     {
-      "surface": "וַ\/יִּמְנ֔וּ",
-      "english": "וַ\/יִּמְנוּ"
+      "surface": "וימנו",
+      "english": "并点数了"
     },
     {
-      "surface": "אֶת",
-      "english": "אֵת",
-      "marks": "הַ\/כֶּסֶף"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "那些银子"
     },
     {
-      "surface": "הַ\/כֶּ֖סֶף",
-      "english": "הַ\/כֶּסֶף"
+      "surface": "הכסף",
+      "english": "那些银子"
     },
     {
-      "surface": "הַ\/נִּמְצָ֥א",
-      "english": "הַ\/נִּמְצָא"
+      "surface": "הנמצא",
+      "english": "发现的"
     },
     {
-      "surface": "בֵית",
-      "english": "בֵּית"
+      "surface": "בית",
+      "english": "在...殿里"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T21:25:21.078810908Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:22.792103426Z",
+  "model": "glm-4.5"
 }

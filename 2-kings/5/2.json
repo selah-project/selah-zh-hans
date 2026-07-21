@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "2-kings 5:2",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 887,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18882,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19769
-  },
-  "translation": "亚兰 יָצְאוּ גְדוּדִים וַ\/יִּשְׁבּ֛וּ מֵ\/אֶ֥רֶץ יִשְׂרָאֵ֖ל נַעֲרָ֣ה קְטַנָּ֑ה וַ\/תְּהִ֕י לִ\/פְנֵ֖י אֵ֥שֶׁת נַעֲמָֽן",
+  "translation": "亚兰人成队出去,从以色列地掳去⟨一个⟩小女子,她在乃缦妻子面前伺候。",
   "tokens": [
     {
-      "surface": "וַ\/אֲרָם֙",
-      "english": "亚兰"
+      "surface": "וארם",
+      "english": "亚兰人"
     },
     {
-      "surface": "יָצְא֣וּ",
-      "english": "יָצְאוּ"
+      "surface": "יצאו",
+      "english": "成队出去"
     },
     {
-      "surface": "גְדוּדִ֔ים",
-      "english": "גְדוּדִים"
+      "surface": "גדודים",
+      "english": "成队"
     },
     {
-      "surface": "וַ\/יִּשְׁבּ֛וּ",
-      "english": "וַ\/יִּשְׁבּ֛וּ"
+      "surface": "וישבו",
+      "english": "掳去"
     },
     {
-      "surface": "מֵ\/אֶ֥רֶץ",
-      "english": "מֵ\/אֶ֥רֶץ"
+      "surface": "מארץ",
+      "english": "从...地"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "נַעֲרָ֣ה",
-      "english": "נַעֲרָה"
+      "surface": "נערה",
+      "english": "小女子"
     },
     {
-      "surface": "קְטַנָּ֑ה",
-      "english": "קְטַנָּה"
+      "surface": "קטנה",
+      "english": "小"
     },
     {
-      "surface": "וַ\/תְּהִ֕י",
-      "english": "וַ\/תְּהִ֕י"
+      "surface": "ותהי",
+      "english": "她在..."
     },
     {
-      "surface": "לִ\/פְנֵ֖י",
-      "english": "לִ\/פְנֵ֖י"
+      "surface": "לפני",
+      "english": "面前"
     },
     {
-      "surface": "אֵ֥שֶׁת",
-      "english": "אֵ֥שֶׁת"
+      "surface": "אשת",
+      "english": "妻子"
     },
     {
-      "surface": "נַעֲמָֽן",
+      "surface": "נעמן",
       "english": "乃缦"
     }
   ],
-  "timestamp": "2026-07-17T21:20:17.160147508Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:03.016118505Z",
+  "model": "glm-4.5"
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "amos 5:25",
   "book": "amos",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 807,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18115,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18922
-  },
-  "translation": "הַזְּבָחִים וּמִנְחָה הִגַּשְׁתֶּם לִי בַּמִּדְבָּר אַרְבָּעִים שָׁנָה, בֵּית 以色列?",
+  "translation": "你们将祭物和素祭带给我了吗,在旷野四十年,以色列家?",
   "tokens": [
     {
-      "surface": "הַ\/זְּבָחִים",
-      "english": "הזְּבָחִים"
+      "surface": "הזבחים",
+      "english": "祭物"
     },
     {
-      "surface": "וּ\/מִנְחָה",
-      "english": "וּמִנְחָה"
+      "surface": "ומנחה",
+      "english": "和素祭"
     },
     {
-      "surface": "הִגַּשְׁתֶּם",
-      "english": "הִגַּשְׁתֶּם"
+      "surface": "הגשתם",
+      "english": "你们带给我了吗"
     },
     {
-      "surface": "לִ\/י",
-      "english": "לִי"
+      "surface": "לי",
+      "english": "给我"
     },
     {
-      "surface": "בַ\/מִּדְבָּר",
-      "english": "בַּמִּדְבָּר"
+      "surface": "במדבר",
+      "english": "在旷野"
     },
     {
-      "surface": "אַרְבָּעִים",
-      "english": "אַרְבָּעִים"
+      "surface": "ארבעים",
+      "english": "四十"
     },
     {
-      "surface": "שָׁנָה",
-      "english": "שָׁנָה"
+      "surface": "שנה",
+      "english": "年"
     },
     {
-      "surface": "בֵּית",
-      "english": "בֵּית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-17T23:21:04.769539285Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:08.382026055Z",
+  "model": "glm-4.5"
 }

@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "jeremiah 24:5",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 1076,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20448,
+    "completion_tokens": 758,
+    "prompt_tokens": 20552,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21524
+    "total_tokens": 21310
   },
-  "translation": "כֹּֽה אָמַ֤ר 雅威 אֱלֹהֵ֣י 以色列：כַּ\/תְּאֵנִ֥ים הַ\/טֹּב֖וֹת הָ\/אֵ֑לֶּה —— כֵּֽן אַכִּ֞יר ⟨אֶת⟩ גָּל֣וּת 犹大 אֲשֶׁ֨ר שִׁלַּ֜חְתִּי מִן הַ\/מָּק֥וֹם הַ\/זֶּ֛ה אֶ֥רֶץ 迦勒底人 לְ\/טוֹבָֽה׃",
+  "translation": "雅威 以色列 的以罗欣 如此 说：‘像这些 好无花果 一样，我必以此 确认 ⟨את⟩ 犹大 的被掳 的人，就是我 从 这 地方 打发 到 迦勒底人 地 去，为 好处。’",
   "tokens": [
     {
       "surface": "כה",
-      "english": "כֹּֽה"
+      "english": "如此"
     },
     {
       "surface": "אמר",
-      "english": "אָמַ֤ר"
+      "english": "说"
     },
     {
       "surface": "יהוה",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "אלהי",
-      "english": "אֱלֹהֵ֣י"
+      "english": "以罗欣"
     },
     {
       "surface": "ישראל",
@@ -40,32 +37,32 @@
     },
     {
       "surface": "כתאנים",
-      "english": "כַּ\/תְּאֵנִ֥ים"
+      "english": "无花果"
     },
     {
       "surface": "הטבות",
-      "english": "הַ\/טֹּב֖וֹת"
+      "english": "好的"
     },
     {
       "surface": "האלה",
-      "english": "הָ\/אֵ֑לֶּה"
+      "english": "这些"
     },
     {
       "surface": "כן",
-      "english": "כֵּֽן"
+      "english": "一样，我必以此"
     },
     {
       "surface": "אכיר",
-      "english": "אַכִּ֞יר"
+      "english": "确认"
     },
     {
       "surface": "את",
-      "english": "⟨אֶת⟩",
-      "marks": "גָּל֣וּת"
+      "english": "⟨את⟩",
+      "marks": "犹大 的被掳 的人"
     },
     {
       "surface": "גלות",
-      "english": "גָּל֣וּת"
+      "english": "被掳"
     },
     {
       "surface": "יהודה",
@@ -73,27 +70,27 @@
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁ֨ר"
+      "english": "的，就是"
     },
     {
       "surface": "שלחתי",
-      "english": "שִׁלַּ֜חְתִּי"
+      "english": "打发"
     },
     {
       "surface": "מן",
-      "english": "מִן"
+      "english": "从"
     },
     {
       "surface": "המקום",
-      "english": "הַ\/מָּק֥וֹם"
+      "english": "这 地方"
     },
     {
       "surface": "הזה",
-      "english": "הַ\/זֶּ֛ה"
+      "english": "这"
     },
     {
       "surface": "ארץ",
-      "english": "אֶ֥רֶץ"
+      "english": "地"
     },
     {
       "surface": "כשדים",
@@ -101,9 +98,9 @@
     },
     {
       "surface": "לטובה",
-      "english": "לְ\/טוֹבָֽה"
+      "english": "为 好处"
     }
   ],
-  "timestamp": "2026-07-17T22:20:53.682065358Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:03.487214135Z",
+  "model": "glm-4.5"
 }

@@ -1,52 +1,43 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "ezekiel 37:20",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18891,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19527
-  },
-  "translation": "והיו העצים אשר תכתוב עליהם בידך לעיניהם׃",
+  "translation": "而那些 ⟨你⟩ 在 ⟨上面⟩ 书写 ⟨את⟩ 木头，必 ⟨在⟩ 你手中，在他们的眼前。",
   "tokens": [
     {
-      "surface": "וְ\/הָי֨וּ",
-      "english": "והיו"
+      "surface": "והיו",
+      "english": "而"
     },
     {
-      "surface": "הָ\/עֵצִ֜ים",
-      "english": "העצים"
+      "surface": "העצים",
+      "english": "那些 木头",
+      "marks": "sticks"
     },
     {
-      "surface": "אֲֽשֶׁר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "⟨你⟩ 在 ⟨上面⟩ 书写"
     },
     {
-      "surface": "תִּכְתֹּ֧ב",
-      "english": "תכתוב"
+      "surface": "תכתב",
+      "english": "书写",
+      "marks": "those sticks"
     },
     {
-      "surface": "עֲלֵי\/הֶ֛ם",
-      "english": "עליהם"
+      "surface": "עליהם",
+      "english": "在 ⟨上面⟩"
     },
     {
-      "surface": "בְּ\/יָדְ\/ךָ֖",
-      "english": "בידך"
+      "surface": "בידך",
+      "english": "⟨在⟩ 你手中"
     },
     {
-      "surface": "לְ\/עֵינֵי\/הֶֽם",
-      "english": "לעיניהם"
+      "surface": "לעיניהם",
+      "english": "在他们的眼前"
     }
   ],
-  "timestamp": "2026-07-17T23:03:39.722282230Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:57.487790940Z",
+  "model": "glm-4.5"
 }

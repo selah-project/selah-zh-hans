@@ -1,100 +1,89 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 49,
   "ref": "ezekiel 40:49",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 1155,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19950,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 21105
-  },
-  "translation": "הָ\/אֻלָם (הַ\/אוּלָם) 的 ⟨אֹרֶךְ⟩ (长度) 是二十 אַמָּה，וְ\/רֹחַב (宽度) 是 עַשְׁתֵּי עֶשְׂרֵה (十一) אַמָּה；וּ\/בַּ\/מַּעֲלוֹת (台阶) אֲשֶׁר יַעֲלוּ (他们借此上去) אֵלָיו (到它那里) ⟨:⟩ וְ\/עַמּוּדִים (柱子) אֶל (挨着) הָ\/אֵילִים (门柱)，אֶחָד (一根) מִ\/פֹּה (这边)וְ\/אֶחָד (一根) מִ\/פֹּה (那边)。",
+  "translation": "廊子的长二十肘,宽十一肘,又有 ⟨他们⟩ 上去 ⟨它的⟩ 台阶;柱子在 ⟨柱子旁⟩,在这边一 ⟨个⟩,在那边一 ⟨个⟩。",
   "tokens": [
     {
-      "surface": "אֹ֣רֶךְ",
-      "english": "长度"
+      "surface": "ארך",
+      "english": "廊子的长"
     },
     {
-      "surface": "הָ\/אֻלָ֞ם",
-      "english": "廊子的"
+      "surface": "האלם",
+      "english": "廊子"
     },
     {
-      "surface": "עֶשְׂרִ֣ים",
+      "surface": "עשרים",
       "english": "二十"
     },
     {
-      "surface": "אַמָּ֗ה",
-      "english": "אַמָּה"
+      "surface": "אמה",
+      "english": "肘"
     },
     {
-      "surface": "וְ\/רֹ֨חַב֙",
-      "english": "和宽度"
+      "surface": "ורחב",
+      "english": "宽"
     },
     {
-      "surface": "עַשְׁתֵּ֣י",
-      "english": "十"
+      "surface": "עשתי",
+      "english": "十一"
     },
     {
-      "surface": "עֶשְׂרֵ֣ה",
-      "english": "一"
+      "surface": "עשרה",
+      "english": ""
     },
     {
-      "surface": "אַמָּ֔ה",
-      "english": "אַמָּה"
+      "surface": "אמה",
+      "english": "肘"
     },
     {
-      "surface": "וּ\/בַֽ\/מַּעֲל֔וֹת",
-      "english": "在台阶旁"
+      "surface": "ובמעלות",
+      "english": "又有台阶"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
-      "english": "那是"
+      "surface": "אשר",
+      "english": "—"
     },
     {
-      "surface": "יַעֲל֖וּ",
+      "surface": "יעלו",
       "english": "他们上去"
     },
     {
-      "surface": "אֵלָ֑י\/ו",
-      "english": "到它那里"
+      "surface": "אליו",
+      "english": "它的"
     },
     {
-      "surface": "וְ\/עַמֻּדִים֙",
-      "english": "和柱子"
+      "surface": "ועמדים",
+      "english": "柱子"
     },
     {
-      "surface": "אֶל",
-      "english": "挨着"
+      "surface": "אל",
+      "english": "在…旁"
     },
     {
-      "surface": "הָ֣\/אֵילִ֔ים",
-      "english": "门柱"
+      "surface": "האילים",
+      "english": "柱子"
     },
     {
-      "surface": "אֶחָ֥ד",
-      "english": "一根"
+      "surface": "אחד",
+      "english": "一"
     },
     {
-      "surface": "מִ\/פֹּ֖ה",
-      "english": "这边"
+      "surface": "מפה",
+      "english": "个"
     },
     {
-      "surface": "וְ\/אֶחָ֥ד",
-      "english": "和一根"
+      "surface": "ואחד",
+      "english": "一"
     },
     {
-      "surface": "מִ\/פֹּֽה",
-      "english": "那边"
+      "surface": "מפה",
+      "english": "个"
     }
   ],
-  "timestamp": "2026-07-17T23:06:32.005020686Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:54.150297296Z",
+  "model": "glm-4.5"
 }

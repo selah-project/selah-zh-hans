@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "job 18:1",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 247,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21223,
+    "completion_tokens": 267,
+    "prompt_tokens": 21287,
     "prompt_tokens_details": {
       "cached_tokens": 20608
     },
-    "total_tokens": 21470
+    "total_tokens": 21554
   },
-  "translation": "比勒达 הַ\/שֻּׁחִי ⟨השחי人⟩ 回答,说。",
+  "translation": "比勒达书亚人回答, ⟨他⟩说:",
   "tokens": [
     {
       "surface": "ויען",
@@ -35,6 +32,6 @@
       "english": "说"
     }
   ],
-  "timestamp": "2026-07-18T00:57:48.996110395Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:49.464125771Z",
+  "model": "glm-4.5"
 }

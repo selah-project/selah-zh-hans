@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "psalms 111:10",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 111,
   "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64855,
+    "completion_tokens": 536,
+    "prompt_tokens": 64919,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65288
+    "total_tokens": 65455
   },
-  "translation": "יְרֵאת 雅威 הִיא רֵאשִׁית חָכְמָה; שֵׂכֶל טוֹב לְכָל עֹשֵׂיהֶם; תְּהִלָּתוֹ עֹמֶדֶת לָעַד.",
+  "translation": "智慧的起初是对雅威的敬畏；凡实行它们的人都有美好的悟性；对他的称颂永远长存。",
   "tokens": [
     {
       "surface": "ראשית",
-      "english": "רֵאשִׁית"
+      "english": "智慧的起初"
     },
     {
       "surface": "חכמה",
-      "english": "חָכְמָה"
+      "english": "智慧"
     },
     {
       "surface": "יראת",
-      "english": "יִרְאַת"
+      "english": "对雅威的敬畏"
     },
     {
       "surface": "יהוה",
@@ -36,33 +33,33 @@
     },
     {
       "surface": "שכל",
-      "english": "שֵׂכֶל"
+      "english": "悟性"
     },
     {
       "surface": "טוב",
-      "english": "טוֹב"
+      "english": "美好的"
     },
     {
       "surface": "לכל",
-      "english": "לְכָל"
+      "english": "凡...的人"
     },
     {
       "surface": "עשיהם",
-      "english": "עֹשֵׂיהֶם"
+      "english": "实行它们"
     },
     {
       "surface": "תהלתו",
-      "english": "תְּהִלָּתוֹ"
+      "english": "对他的称颂"
     },
     {
       "surface": "עמדת",
-      "english": "עֹמֶדֶת"
+      "english": "长存"
     },
     {
       "surface": "לעד",
-      "english": "לָעַד"
+      "english": "永远"
     }
   ],
-  "timestamp": "2026-07-18T00:20:04.183729698Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:19.816779445Z",
+  "model": "glm-4.5"
 }

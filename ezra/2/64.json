@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 64,
   "ref": "ezra 2:64",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46487,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46983
-  },
-  "translation": "כָּל הַ\/קָּהָ֖ל כְּ\/אֶחָ֑ד אַרְבַּ֣ע רִבּ֔וֹא אַלְפַּ֖יִם שְׁלֹשׁ מֵא֥וֹת שִׁשִּֽׁים׃",
+  "translation": "全会众,作为一个整体,是四万二千三百六十人,",
   "tokens": [
     {
       "surface": "כל",
-      "english": "全体"
+      "english": "全"
     },
     {
       "surface": "הקהל",
@@ -28,33 +17,33 @@
     },
     {
       "surface": "כאחד",
-      "english": "如同一人"
+      "english": "作为一个整体"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "english": "四万"
     },
     {
       "surface": "רבוא",
-      "english": "万"
-    },
-    {
-      "surface": "אלפים",
       "english": "二千"
     },
     {
+      "surface": "אלפים",
+      "english": "三百"
+    },
+    {
       "surface": "שלש",
-      "english": "三"
+      "english": "六十"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "english": "人"
     },
     {
       "surface": "ששים",
-      "english": "六十"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T01:37:48.662519662Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:03.920812932Z",
+  "model": "glm-4.5"
 }

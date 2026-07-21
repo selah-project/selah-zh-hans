@@ -1,55 +1,52 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "psalms 31:8",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 31,
   "usage": {
-    "completion_tokens": 714,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64909,
+    "completion_tokens": 368,
+    "prompt_tokens": 64937,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65623
+    "total_tokens": 65305
   },
-  "translation": "我要大大欢喜,且要快乐,在⟨你的⟩חֶסֶד (חַסְדְּךָ) חַסֶד חֶסֶד חֶסֶד חֶסֶד חֶסֶד חֶסֶד חֶסֶד (你的 חֶסֶד) בְּחַסְדֶּךָ אֲשֶׁר רָאִיתָ אֶת עָנְיִי יָדַעְתָּ בְּצָרוֹת נַפְשִׁי׃",
+  "translation": "我要欢呼,因你的恩典而快乐,因你看见了我的苦难;你在患难中知道我的生命。",
   "tokens": [
     {
       "surface": "אגילה",
-      "english": "我要大大欢喜"
+      "english": "我要欢呼"
     },
     {
       "surface": "ואשמחה",
-      "english": "且要快乐"
+      "english": "因你的恩典而快乐"
     },
     {
       "surface": "בחסדך",
-      "english": "在你的 חֶסֶד 中"
+      "english": "因你的恩典"
     },
     {
       "surface": "אשר",
-      "english": "因为"
+      "english": "因"
     },
     {
       "surface": "ראית",
-      "english": "⟨你⟩看见了"
+      "english": "看见"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "我的困苦"
+      "marks": "我的苦难"
     },
     {
       "surface": "עניי",
-      "english": "我的困苦"
+      "english": "我的苦难"
     },
     {
       "surface": "ידעת",
-      "english": "你认识了"
+      "english": "知道"
     },
     {
       "surface": "בצרות",
@@ -57,9 +54,9 @@
     },
     {
       "surface": "נפשי",
-      "english": "我的 nefesh"
+      "english": "我的生命"
     }
   ],
-  "timestamp": "2026-07-17T23:49:07.855177784Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:34.519442379Z",
+  "model": "glm-4.5"
 }

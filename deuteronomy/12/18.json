@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "deuteronomy 12:18",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 1206,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21197,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 22403
-  },
-  "translation": "כִּי אִם לִ\/פְנֵי֩ יְהוָ֨ה אֱלֹהֶ֜י\/ךָ תֹּאכְלֶ֗\/נּוּ בַּ\/מָּקוֹם֙ אֲשֶׁ֨ר יִבְחַ֜ר יְהוָ֣ה אֱלֹהֶי\/ךָ֮ בּ\/וֹ֒ אַתָּ֨ה וּ\/בִנְ\/ךָ֤ וּ\/בִתֶּ֨\/ךָ֙ וְ\/עַבְדְּ\/ךָ֣ וַ\/אֲמָתֶ֔\/ךָ וְ\/הַ\/לֵּוִ֖י אֲשֶׁ֣ר בִּ\/שְׁעָרֶ֑י\/ךָ וְ\/שָׂמַחְתָּ֗ לִ\/פְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔י\/ךָ בְּ\/כֹ֖ל מִשְׁלַ֥ח יָדֶֽ\/ךָ",
+  "translation": "唯有在雅威你的以罗欣面前,你要在雅威你的以罗欣所选择的地方吃它,你,和你的儿子,和你的女儿,和你的男仆,和你的婢女,以及在你城门内的利未人;你要在雅威你的以罗欣面前,在你手所办的一切事上 ⟨都⟩ 喜乐。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "而是"
+      "english": "唯有"
     },
     {
       "surface": "אם",
-      "english": "（若）"
+      "english": "(限制词)"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "english": "在...面前"
     },
     {
       "surface": "יהוה",
@@ -44,15 +33,15 @@
     },
     {
       "surface": "במקום",
-      "english": "在……地方"
+      "english": "在...地方"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "(关系代词)"
     },
     {
       "surface": "יבחר",
-      "english": "所选择的"
+      "english": "所选择"
     },
     {
       "surface": "יהוה",
@@ -64,7 +53,7 @@
     },
     {
       "surface": "בו",
-      "english": "在其中"
+      "english": "在那里"
     },
     {
       "surface": "אתה",
@@ -72,31 +61,31 @@
     },
     {
       "surface": "ובנך",
-      "english": "你的儿子"
+      "english": "和你的儿子"
     },
     {
       "surface": "ובתך",
-      "english": "你的女儿"
+      "english": "和你的女儿"
     },
     {
       "surface": "ועבדך",
-      "english": "你的仆人"
+      "english": "和你的男仆"
     },
     {
       "surface": "ואמתך",
-      "english": "你的婢女"
+      "english": "和你的婢女"
     },
     {
       "surface": "והלוי",
-      "english": "和那利未人"
+      "english": "和利未人"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "(关系代词)"
     },
     {
       "surface": "בשעריך",
-      "english": "在你城门内的"
+      "english": "在你城门内"
     },
     {
       "surface": "ושמחת",
@@ -104,7 +93,7 @@
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "english": "在...面前"
     },
     {
       "surface": "יהוה",
@@ -116,17 +105,17 @@
     },
     {
       "surface": "בכל",
-      "english": "在凡"
+      "english": "在...一切"
     },
     {
       "surface": "משלח",
-      "english": "所发的"
+      "english": "手所办"
     },
     {
       "surface": "ידך",
-      "english": "你手中的"
+      "english": "你的手"
     }
   ],
-  "timestamp": "2026-07-17T19:35:40.638414399Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:33:20.398662109Z",
+  "model": "glm-4.5"
 }

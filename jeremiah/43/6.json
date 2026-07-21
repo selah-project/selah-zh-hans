@@ -1,83 +1,80 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "jeremiah 43:6",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 43,
   "usage": {
-    "completion_tokens": 1258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21645,
+    "completion_tokens": 839,
+    "prompt_tokens": 21781,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22903
+    "total_tokens": 22620
   },
-  "translation": "⟨את⟩ הגברים וְ⟨את⟩ הנשים וְ⟨את⟩ הטף וְ⟨את⟩ בנות המלך, וְ⟨את⟩ כל הנפש אשר הניח 尼布撒 רב טבחים אִת־基大利 בן 亚希甘 בן שפן; וְ⟨את⟩ 耶利米 הנביא וְ⟨את⟩ 巴录 בן 尼利亚׃",
+  "translation": "男人们，和女人们，和孩童，和王的女儿们，以及尼布撒护卫长曾留下与基大利——亚希甘的儿子、沙番的儿子——在一起的每一个人，以及先知耶利米，和尼利亚的儿子巴录。",
   "tokens": [
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "הגברים (男人们)"
+      "marks": "男人们"
     },
     {
       "surface": "הגברים",
-      "english": "הגברים (男人们)"
+      "english": "男人们"
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "הנשים (女人们)"
+      "english": "和⟨את⟩",
+      "marks": "女人们"
     },
     {
       "surface": "הנשים",
-      "english": "הנשים (女人们)"
+      "english": "女人们"
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "הטף (孩童)"
+      "english": "和⟨את⟩",
+      "marks": "孩童"
     },
     {
       "surface": "הטף",
-      "english": "הטף (孩童)"
+      "english": "孩童"
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "בנות (女儿们)"
+      "english": "和⟨את⟩",
+      "marks": "女儿们"
     },
     {
       "surface": "בנות",
-      "english": "בנות (女儿们)"
+      "english": "女儿们"
     },
     {
       "surface": "המלך",
-      "english": "המלך (王的)"
+      "english": "王的"
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "כל הנפש (所有人)"
+      "english": "以及⟨את⟩",
+      "marks": "每一个"
     },
     {
       "surface": "כל",
-      "english": "כל (所有)"
+      "english": "每一个"
     },
     {
       "surface": "הנפש",
-      "english": "הנפש (生命体 \/ 人)"
+      "english": "人"
     },
     {
       "surface": "אשר",
-      "english": "אשר (即)"
+      "english": "——"
     },
     {
       "surface": "הניח",
-      "english": "הניח (所留下的)"
+      "english": "曾留下"
     },
     {
       "surface": "נבוזראדן",
@@ -85,16 +82,16 @@
     },
     {
       "surface": "רב",
-      "english": "רב (长官 \/ 总督)"
+      "english": "护卫长"
     },
     {
       "surface": "טבחים",
-      "english": "טבחים (护卫长 \/ 屠夫)"
+      "english": ""
     },
     {
       "surface": "את",
-      "english": "אִת (与 \/ 同)",
-      "marks": "גדליהו (基大利)"
+      "english": "与⟨את⟩",
+      "marks": "基大利"
     },
     {
       "surface": "גדליהו",
@@ -102,7 +99,7 @@
     },
     {
       "surface": "בן",
-      "english": "בן (儿子)"
+      "english": "——"
     },
     {
       "surface": "אחיקם",
@@ -110,29 +107,29 @@
     },
     {
       "surface": "בן",
-      "english": "בן (儿子)"
+      "english": "的儿子"
     },
     {
       "surface": "שפן",
-      "english": "שפן"
+      "english": "沙番"
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "ירמיהו הנביא (先知耶利米)"
+      "english": "以及⟨את⟩",
+      "marks": "先知耶利米"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "english": "先知耶利米"
     },
     {
       "surface": "הנביא",
-      "english": "הנביא (先知)"
+      "english": ""
     },
     {
       "surface": "ואת",
-      "english": "וְ⟨את⟩",
-      "marks": "ברוך (巴录)"
+      "english": "和⟨את⟩",
+      "marks": "巴录"
     },
     {
       "surface": "ברוך",
@@ -140,13 +137,13 @@
     },
     {
       "surface": "בן",
-      "english": "בן (儿子)"
+      "english": "——"
     },
     {
       "surface": "נריהו",
-      "english": "尼利亚"
+      "english": "尼利亚的儿子"
     }
   ],
-  "timestamp": "2026-07-17T22:32:51.716773968Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:14.834417755Z",
+  "model": "glm-4.5"
 }

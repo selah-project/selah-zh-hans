@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-kings 15:1",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18879,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19507
-  },
-  "translation": "בִּ\/שְׁנַ֨ת עֶשְׂרִ֤ים וָ\/שֶׁ֨בַע֙ שָׁנָ֔ה לְ\/יָרָבְעָ֖ם מֶ֣לֶךְ יִשְׂרָאֵ֑ל מָלַ֛ךְ עֲזַרְיָ֥ה בֶן אֲמַצְיָ֖ה מֶ֥לֶךְ יְהוּדָֽה",
+  "translation": "在以色列王耶罗波安第二十七年,犹大王亚玛谢的儿子亚撒利雅作王。",
   "tokens": [
     {
-      "surface": "בִּ\/שְׁנַ֨ת",
-      "english": "在……之年"
+      "surface": "בשנת",
+      "english": "在...年"
     },
     {
-      "surface": "עֶשְׂרִ֤ים",
+      "surface": "עשרים",
       "english": "二十"
     },
     {
-      "surface": "וָ\/שֶׁ֨בַע֙",
-      "english": "又七"
+      "surface": "ושבע",
+      "english": "和七"
     },
     {
-      "surface": "שָׁנָ֔ה",
+      "surface": "שנה",
       "english": "年"
     },
     {
-      "surface": "לְ\/יָרָבְעָ֖ם",
-      "english": "属耶罗波安"
+      "surface": "לירבעם",
+      "english": "耶罗波安"
     },
     {
-      "surface": "מֶ֣לֶךְ",
+      "surface": "מלך",
       "english": "王"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "מָלַ֛ךְ",
-      "english": "登基作王"
+      "surface": "מלך",
+      "english": "作王"
     },
     {
-      "surface": "עֲזַרְיָ֥ה",
+      "surface": "עזריה",
       "english": "亚撒利雅"
     },
     {
-      "surface": "בֶן",
-      "english": "儿子"
+      "surface": "בן",
+      "english": "子"
     },
     {
-      "surface": "אֲמַצְיָ֖ה",
+      "surface": "אמציה",
       "english": "亚玛谢"
     },
     {
-      "surface": "מֶ֥לֶךְ",
+      "surface": "מלך",
       "english": "王"
     },
     {
-      "surface": "יְהוּדָֽה",
+      "surface": "יהודה",
       "english": "犹大"
     }
   ],
-  "timestamp": "2026-07-17T21:26:59.812409832Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:07.137339541Z",
+  "model": "glm-4.5"
 }

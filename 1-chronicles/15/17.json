@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "1-chronicles 15:17",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 671,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59798,
+    "completion_tokens": 538,
+    "prompt_tokens": 59940,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60469
+    "total_tokens": 60478
   },
-  "translation": "לְוִיִּם מִינוּ אֶת הֵימָן בֶּן יוֹאֵל, וּמֵאֶחָיו אָסָף בֶּן בֶּרֶכְיָהוּ, וּמִבְּנֵי מְרָרִי אֲחֵיהֶם אֵיתָן בֶּן קוּשָׁיָהוּ׃",
+  "translation": "利未人安立了⟨את⟩希幔,约珥的本-;并从他的兄弟们,亚萨,比勒基雅的本-;并从米拉利的儿子们,他们的兄弟们,以探,古沙雅的本-",
   "tokens": [
     {
       "surface": "ויעמידו",
-      "english": "利未人指派了"
+      "english": "安立了"
     },
     {
       "surface": "הלוים",
-      "english": ""
+      "english": "利未人"
     },
     {
       "surface": "את",
@@ -37,7 +34,7 @@
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "english": "本-"
     },
     {
       "surface": "יואל",
@@ -45,11 +42,11 @@
     },
     {
       "surface": "ומן",
-      "english": "以及从"
+      "english": "并从"
     },
     {
       "surface": "אחיו",
-      "english": "他的弟兄"
+      "english": "他的兄弟们"
     },
     {
       "surface": "אסף",
@@ -57,19 +54,19 @@
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "english": "本-"
     },
     {
       "surface": "ברכיהו",
-      "english": "比利家"
+      "english": "比勒基雅"
     },
     {
       "surface": "ומן",
-      "english": "以及从"
+      "english": "并从"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "english": "儿子们"
     },
     {
       "surface": "מררי",
@@ -77,7 +74,7 @@
     },
     {
       "surface": "אחיהם",
-      "english": "他们的弟兄"
+      "english": "他们的兄弟们"
     },
     {
       "surface": "איתן",
@@ -85,13 +82,13 @@
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "english": "本-"
     },
     {
       "surface": "קושיהו",
       "english": "古沙雅"
     }
   ],
-  "timestamp": "2026-07-18T02:03:08.051874487Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:27.542674536Z",
+  "model": "glm-4.5"
 }

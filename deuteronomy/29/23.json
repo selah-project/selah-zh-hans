@@ -1,46 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "deuteronomy 29:23",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 671,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19988,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20659
-  },
-  "translation": "כל הַ\/גּוֹיִם יאמרו על מֶה עָשָׂה יְהוָ֛ה כָּ֖כָה לָ\/אָ֣רֶץ הַ\/זֹּ֑את מֶה חֳרִי הָ\/אַ֥ף הַ\/גָּד֖וֹל הַ\/זֶּֽה",
+  "translation": "列国必说,雅威为何向这地行 ⟨这⟩ 事?这 ⟨大⟩ 怒气 ⟨和⟩ 盛怒 ⟨是⟩ 何意?",
   "tokens": [
     {
       "surface": "ואמרו",
-      "english": "凡"
+      "english": "列国必说"
     },
     {
       "surface": "כל",
-      "english": "הַ\/גּוֹיִם"
+      "english": "列国"
     },
     {
       "surface": "הגוים",
-      "english": "都会说"
+      "english": "列国"
     },
     {
       "surface": "על",
-      "english": "关于"
-    },
-    {
-      "surface": "מה",
       "english": "为何"
     },
     {
+      "surface": "מה",
+      "english": "何"
+    },
+    {
       "surface": "עשה",
-      "english": "做了"
+      "english": "行"
     },
     {
       "surface": "יהוה",
@@ -48,37 +37,37 @@
     },
     {
       "surface": "ככה",
-      "english": "如此"
+      "english": "⟨这⟩ 事"
     },
     {
       "surface": "לארץ",
-      "english": "对这地"
+      "english": "向这地"
     },
     {
       "surface": "הזאת",
-      "english": ""
+      "english": "这"
     },
     {
       "surface": "מה",
-      "english": "是什么"
+      "english": "何"
     },
     {
       "surface": "חרי",
-      "english": "烈怒的燃烧"
+      "english": "怒气"
     },
     {
       "surface": "האף",
-      "english": ""
+      "english": "盛怒"
     },
     {
       "surface": "הגדול",
-      "english": "大"
+      "english": "⟨大⟩"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "english": "⟨是⟩ 何意"
     }
   ],
-  "timestamp": "2026-07-17T19:46:39.720430455Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:52.769450864Z",
+  "model": "glm-4.5"
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "leviticus 18:19",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18993,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19532
-  },
-  "translation": "אַל נָא תִקְרַב אֶל-אִשָּׁה בִּימֵי נִדָּתָהּ וְלֹא תְגַלֶּה אֶת-עֶרְוָתָהּ.",
+  "translation": "And to a woman in the separation of her impurity, do not approach to uncover ⟨her⟩ nakedness.",
   "tokens": [
     {
-      "surface": "וְאֶל",
-      "english": "וְאֶל"
+      "surface": "ואל",
+      "english": "And to"
     },
     {
-      "surface": "אִשָּׁה",
-      "english": "אִשָּׁה"
+      "surface": "אשה",
+      "english": "a woman"
     },
     {
-      "surface": "בִּנְדַּת",
-      "english": "בִּנְדַּת"
+      "surface": "בנדת",
+      "english": "in the separation of"
     },
     {
-      "surface": "טֻמְאָתָהּ",
-      "english": "טֻמְאָתָהּ"
+      "surface": "טמאתה",
+      "english": "her impurity"
     },
     {
-      "surface": "לֹא",
-      "english": "לֹא"
+      "surface": "לא",
+      "english": "do not"
     },
     {
-      "surface": "תִּקְרַב",
-      "english": "תִּקְרַב"
+      "surface": "תקרב",
+      "english": "approach"
     },
     {
-      "surface": "לְגַלּוֹת",
-      "english": "לְגַלּוֹת"
+      "surface": "לגלות",
+      "english": "to uncover"
     },
     {
-      "surface": "עֶרְוָתָהּ",
-      "english": "עֶרְוָתָהּ"
+      "surface": "ערותה",
+      "english": "nakedness"
     }
   ],
-  "timestamp": "2026-07-17T18:52:44.768863869Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:07.855689438Z",
+  "model": "glm-4.5"
 }

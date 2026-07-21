@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "job 10:14",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 10,
   "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21601,
+    "completion_tokens": 278,
+    "prompt_tokens": 21600,
     "prompt_tokens_details": {
       "cached_tokens": 20608
     },
-    "total_tokens": 22139
+    "total_tokens": 21878
   },
-  "translation": "אִם (אם) חָטָאתִי (חטאתי) וְ\/שָׁמַרְתָּנִי (ושמרתני) וּ\/מֵ\/עֲוֺנִי (ומעוני) לֹא (לא) תְנַקֵּנִי (תנקני).",
+  "translation": "若我犯了罪,而你就看守我,并不赦免我的过犯,",
   "tokens": [
     {
       "surface": "אם",
-      "english": "אם"
+      "english": "若"
     },
     {
       "surface": "חטאתי",
-      "english": "חטאתי"
+      "english": "我犯了罪"
     },
     {
       "surface": "ושמרתני",
-      "english": "ושמרתני"
+      "english": "而你就看守我"
     },
     {
       "surface": "ומעוני",
-      "english": "ומעוני"
+      "english": "并不我的过犯"
     },
     {
       "surface": "לא",
-      "english": "לא"
+      "english": "不"
     },
     {
       "surface": "תנקני",
-      "english": "תנקני"
+      "english": "赦免我"
     }
   ],
-  "timestamp": "2026-07-18T00:54:20.352048520Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:37.017056132Z",
+  "model": "glm-4.5"
 }

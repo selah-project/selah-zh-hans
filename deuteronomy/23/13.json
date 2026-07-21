@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "deuteronomy 23:13",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19215,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19632
-  },
-  "translation": "וְ\/יָד תִּהְיֶה לְ\/ךָ מִ\/ח֖וּץ לַֽ\/מַּחֲנֶ֑ה וְ\/יָצָאתָ שָׁ֖מָּ\/ה חֽוּץ",
+  "translation": "并且 ⟨一个⟩ 处所 要归 ⟨你⟩ 在 营外, 并且 你要 出去 往 ⟨那里⟩, 在 外面",
   "tokens": [
     {
-      "surface": "ויד",
-      "english": "וְ\/יָד"
+      "surface": "ואד",
+      "english": "并且 ⟨一个⟩ 处所"
     },
     {
       "surface": "תהיה",
-      "english": "תִּהְיֶה"
+      "english": "要归"
     },
     {
       "surface": "לך",
-      "english": "לְ\/ךָ"
+      "english": "⟨你⟩"
     },
     {
       "surface": "מחוץ",
-      "english": "מִ\/ח֖וּץ"
+      "english": "在 营外"
     },
     {
       "surface": "למחנה",
-      "english": "לַֽ\/מַּחֲנֶ֑ה"
+      "english": "在 营外"
     },
     {
-      "surface": "ויצאת",
-      "english": "וְ\/יָצָאתָ"
+      "surface": "ואצאת",
+      "english": "并且 你要 出去"
     },
     {
       "surface": "שמה",
-      "english": "שָׁ֖מָּ\/ה"
+      "english": "往 ⟨那里⟩"
     },
     {
       "surface": "חוץ",
-      "english": "חֽוּץ"
+      "english": "在 外面"
     }
   ],
-  "timestamp": "2026-07-17T19:42:08.844244719Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:17.913361093Z",
+  "model": "glm-4.5"
 }

@@ -1,46 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "isaiah 10:9",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20844,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21372
-  },
-  "translation": "כַרְכְּמִישׁ כַּלְנֹו כְּמוֹ? הֲלֹא אַרְפַּד כְּמוֹ חֲמָת? דַּמֶּשֶׂק כְּמוֹ שֹׁמְרוֹן?",
+  "translation": "甲尼 ⟨不⟩ 是像迦基米施吗？哈马 ⟨不⟩ 是像阿尔帕德吗？撒玛利亚 ⟨不⟩ 是像大马士革吗？",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "难道"
+      "english": "⟨不⟩"
     },
     {
       "surface": "ככרכמיש",
-      "english": "迦基米施"
+      "english": "像迦基米施吗"
     },
     {
       "surface": "כלנו",
-      "english": "像甲尼"
+      "english": "甲尼"
     },
     {
       "surface": "אם",
-      "english": "岂非"
+      "english": ""
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "⟨不⟩"
     },
     {
       "surface": "כארפד",
-      "english": "像亚珥拔"
+      "english": "像阿尔帕德吗"
     },
     {
       "surface": "חמת",
@@ -48,21 +37,21 @@
     },
     {
       "surface": "אם",
-      "english": "岂非"
+      "english": ""
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "⟨不⟩"
     },
     {
       "surface": "כדמשק",
-      "english": "像大马士革"
+      "english": "像大马士革吗"
     },
     {
       "surface": "שמרון",
-      "english": "撒马利亚"
+      "english": "撒玛利亚"
     }
   ],
-  "timestamp": "2026-07-18T02:55:04.648030416Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:33.973807547Z",
+  "model": "glm-4.5"
 }

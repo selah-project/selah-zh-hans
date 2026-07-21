@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "1-chronicles 27:22",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 27,
   "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58682,
+    "completion_tokens": 474,
+    "prompt_tokens": 58774,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59202
+    "total_tokens": 59248
   },
-  "translation": "但:亚萨列 בֶּן־耶罗罕。אֵ֕לֶּה ⟨הֵם⟩ שָׂרֵ֖י שִׁבְטֵ֥י 以色列。",
+  "translation": "管理但 ⟨的是⟩ 亚萨列,耶罗罕的儿子;这些 ⟨就是⟩ 以色列支派的领袖。",
   "tokens": [
     {
       "surface": "לדן",
-      "english": "但"
+      "english": "管理但"
     },
     {
       "surface": "עזראל",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֶּן"
+      "english": "耶罗罕的儿子"
     },
     {
       "surface": "ירחם",
@@ -36,21 +33,21 @@
     },
     {
       "surface": "אלה",
-      "english": "אֵ֕לֶּה"
+      "english": "这些"
     },
     {
       "surface": "שרי",
-      "english": "שָׂרֵ֖י"
+      "english": "领袖"
     },
     {
       "surface": "שבטי",
-      "english": "שִׁבְטֵ֥י"
+      "english": "支派的"
     },
     {
       "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-18T02:10:32.554545486Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:09.297039294Z",
+  "model": "glm-4.5"
 }

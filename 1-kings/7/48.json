@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 48,
   "ref": "1-kings 7:48",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 847,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65065,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65912
-  },
-  "translation": "所罗门 עשה את כל הכלים אשר ⟨ב⟩בית 雅威: ⟨את⟩ מזבח הזהב, ואת השלחן אשר עליו לחם הפנים — זהב.",
+  "translation": "所罗门造了雅威殿里的一切器皿:金坛,和陈设饼桌的金,就是供饼所在的桌子:",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "ושלמה עשה"
+      "english": "造了"
     },
     {
       "surface": "שלמה",
@@ -29,23 +18,23 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "כל"
+      "marks": "一切器皿"
     },
     {
       "surface": "כל",
-      "english": "את כל"
+      "english": "一切"
     },
     {
       "surface": "הכלים",
-      "english": "הכלים"
+      "english": "器皿"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "所"
     },
     {
       "surface": "בית",
-      "english": "בית"
+      "english": "殿里"
     },
     {
       "surface": "יהוה",
@@ -54,45 +43,46 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "מזבח"
+      "marks": "金坛"
     },
     {
       "surface": "מזבח",
-      "english": "מזבח"
+      "english": "坛"
     },
     {
       "surface": "הזהב",
-      "english": "הזהב"
+      "english": "金"
     },
     {
       "surface": "ואת",
-      "english": "ואת"
+      "english": "和 ⟨את⟩",
+      "marks": "陈设饼桌"
     },
     {
       "surface": "השלחן",
-      "english": "השלחן"
+      "english": "桌子"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "就是"
     },
     {
       "surface": "עליו",
-      "english": "עליו"
+      "english": "在它上面"
     },
     {
       "surface": "לחם",
-      "english": "לחם"
+      "english": "饼"
     },
     {
       "surface": "הפנים",
-      "english": "הפנים"
+      "english": "陈设的"
     },
     {
       "surface": "זהב",
-      "english": "זהב"
+      "english": "金"
     }
   ],
-  "timestamp": "2026-07-17T21:02:47.860996038Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:36.073682410Z",
+  "model": "glm-4.5"
 }

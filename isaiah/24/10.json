@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "isaiah 24:10",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20484,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20765
-  },
-  "translation": "נִשְׁבְּרָ֖ה קִרְיַת תֹּ֑הוּ סֻגַּ֥ר כָּל בַּ֖יִת מִ\/בּֽוֹא",
+  "translation": "虚妄的城被拆毁;家家都封闭,不准人进来。",
   "tokens": [
     {
       "surface": "נשברה",
-      "english": "崩溃了"
+      "english": "被拆毁"
     },
     {
       "surface": "קרית",
@@ -28,25 +17,25 @@
     },
     {
       "surface": "תהו",
-      "english": "荒凉"
+      "english": "虚妄"
     },
     {
       "surface": "סגר",
-      "english": "关闭"
+      "english": "封闭"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "english": "家家"
     },
     {
       "surface": "בית",
-      "english": "房屋"
+      "english": "都"
     },
     {
       "surface": "מבוא",
-      "english": "进入"
+      "english": "不准人进来"
     }
   ],
-  "timestamp": "2026-07-17T21:45:10.598469988Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:54.969931779Z",
+  "model": "glm-4.5"
 }

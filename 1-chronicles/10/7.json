@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "1-chronicles 10:7",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 10,
   "usage": {
-    "completion_tokens": 920,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59781,
+    "completion_tokens": 498,
+    "prompt_tokens": 59872,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60701
+    "total_tokens": 60370
   },
-  "translation": " valley, בעמק כָּל אִ֨ישׁ יִשְׂרָאֵ֤ל אֲשֶׁר בָּ\/עֵ֨מֶק כִּ֣י נָ֔סוּ וְ\/כִי מֵ֖תוּ 扫罗 וּ\/בָנָ֑י\/ו וַ\/יַּעַזְב֤וּ עָרֵי\/הֶם֙ וַ\/יָּנֻ֔סוּ וַ\/יָּבֹ֣אוּ 非利士人 וַ\/יֵּשְׁב֖וּ בָּ\/הֶֽם",
+  "translation": "在山谷的众以色列人见他们逃跑、扫罗和他众子死了,就离弃他们的城市逃跑,非利士人就来住在其中。",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": " valley, בעמק"
+      "english": "见"
     },
     {
       "surface": "כל",
-      "english": "כָּל"
+      "english": "众"
     },
     {
       "surface": "איש",
-      "english": "אִ֨ישׁ"
+      "english": "人"
     },
     {
       "surface": "ישראל",
@@ -36,65 +33,65 @@
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": ""
     },
     {
       "surface": "בעמק",
-      "english": "בָּ\/עֵ֨מֶק"
+      "english": "在山谷的"
     },
     {
       "surface": "כי",
-      "english": "כִּ֣י"
+      "english": ""
     },
     {
       "surface": "נסו",
-      "english": "נָ֔סוּ"
+      "english": "他们逃跑"
     },
     {
       "surface": "וכי",
-      "english": "וְ\/כִי"
+      "english": "、"
     },
     {
       "surface": "מתו",
-      "english": "מֵ֖תוּ"
+      "english": "扫罗和他众子死了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "english": ""
     },
     {
       "surface": "ובניו",
-      "english": "וּ\/בָנָ֑י\/ו"
+      "english": ""
     },
     {
       "surface": "ויעזבו",
-      "english": "וַ\/יַּעַזְב֤וּ"
+      "english": "就离弃"
     },
     {
       "surface": "עריהם",
-      "english": "עָרֵי\/הֶם֙"
+      "english": "他们的城市"
     },
     {
       "surface": "וינסו",
-      "english": "וַ\/יָּנֻ֔סוּ"
+      "english": "逃跑"
     },
     {
       "surface": "ויבאו",
-      "english": "וַ\/יָּבֹ֣אוּ"
+      "english": "非利士人就来"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "english": ""
     },
     {
       "surface": "וישבו",
-      "english": "וַ\/יֵּשְׁב֖וּ"
+      "english": "住在"
     },
     {
       "surface": "בהם",
-      "english": "בָּ\/הֶֽם"
+      "english": "其中"
     }
   ],
-  "timestamp": "2026-07-18T01:59:45.874112655Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:50.672913972Z",
+  "model": "glm-4.5"
 }

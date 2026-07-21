@@ -1,152 +1,147 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "jeremiah 21:4",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 1707,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21379,
+    "completion_tokens": 1103,
+    "prompt_tokens": 21465,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 23086
+    "total_tokens": 22568
   },
-  "translation": "כֹּה אָמַר 雅威 אֱלֹהֵי 以色列: הִנְ\/נִי מֵסֵב אֶת כְּלֵי הַ\/מִּלְחָמָה אֲשֶׁר בְּ\/יֶדְ\/כֶם, אֲשֶׁר אַתֶּם נִלְחָמִים בָּ\/ם אֶת מֶלֶךְ 巴比伦 וְ\/אֶת 迦勒底人 הַ\/צָּרִים עֲלֵי\/כֶם מִ\/ח֖וּץ לַֽ\/חוֹמָה, וְ\/אָסַפְתִּי אוֹתָ\/ם אֶל תּ֖וֹךְ הָ\/עִיר הַ\/זֹּאת.",
+  "translation": "雅威 以色列 的 以罗欣 如此 说:看哪,我必将 你们 手 中 所有的 战争 器具,即 你们 用 ⟨את⟩ 它们 与 巴比伦 王 和 加尔底亚 人 争战的 — 围困 你们 的 人在 城墙 外面 — 我 必 将 它们 聚集 在 这 城 的 中间。",
   "tokens": [
     {
-      "surface": "כֹּה",
-      "english": "כֹּה"
+      "surface": "כה",
+      "english": "如此"
     },
     {
-      "surface": "אָמַר",
-      "english": "אָמַר"
+      "surface": "אמר",
+      "english": "说"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֵי",
-      "english": "אֱלֹהֵי"
+      "surface": "אלהי",
+      "english": "以罗欣"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הִנְ\/נִי",
-      "english": "הִנְ\/נִי"
+      "surface": "הנני",
+      "english": "看哪"
     },
     {
-      "surface": "מֵסֵב",
-      "english": "מֵסֵב"
-    },
-    {
-      "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "כלי המלחמה"
-    },
-    {
-      "surface": "כְּלֵי",
-      "english": "כְּלֵי"
-    },
-    {
-      "surface": "הַ\/מִּלְחָמָה",
-      "english": "הַ\/מִּלְחָמָה"
-    },
-    {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
-    },
-    {
-      "surface": "בְּ\/יֶדְ\/כֶם",
-      "english": "בְּ\/יֶדְ\/כֶם"
-    },
-    {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
-    },
-    {
-      "surface": "אַתֶּם",
-      "english": "אַתֶּם"
-    },
-    {
-      "surface": "נִלְחָמִים",
-      "english": "נִלְחָמִים"
-    },
-    {
-      "surface": "בָּ\/ם",
-      "english": "בָּ\/ם"
+      "surface": "מסב",
+      "english": "我必将...转回\/转向"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "מלך בבל"
+      "marks": "器具"
     },
     {
-      "surface": "מֶלֶךְ",
-      "english": "מֶלֶךְ"
+      "surface": "כלי",
+      "english": "器具"
     },
     {
-      "surface": "בָּבֶל",
+      "surface": "המלחמה",
+      "english": "战争"
+    },
+    {
+      "surface": "אשר",
+      "english": "即"
+    },
+    {
+      "surface": "בידכם",
+      "english": "在你们手中"
+    },
+    {
+      "surface": "אשר",
+      "english": "即"
+    },
+    {
+      "surface": "אתם",
+      "english": "你们"
+    },
+    {
+      "surface": "נלחמים",
+      "english": "争战"
+    },
+    {
+      "surface": "בם",
+      "english": "用"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "巴比伦王"
+    },
+    {
+      "surface": "מלך",
+      "english": "王"
+    },
+    {
+      "surface": "בבל",
       "english": "巴比伦"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "וְ\/⟨את⟩",
-      "marks": "הכשדים"
+      "surface": "ואת",
+      "english": "和"
     },
     {
-      "surface": "הַ\/כַּשְׂדִּים",
-      "english": "迦勒底人"
+      "surface": "הכשדים",
+      "english": "加尔底亚人"
     },
     {
-      "surface": "הַ\/צָּרִים",
-      "english": "הַ\/צָּרִים"
+      "surface": "הצרים",
+      "english": "围困...的"
     },
     {
-      "surface": "עֲלֵי\/כֶם",
-      "english": "עֲלֵי\/כֶם"
+      "surface": "עליכם",
+      "english": "你们"
     },
     {
-      "surface": "מִ\/חוּץ",
-      "english": "מִ\/חוּץ"
+      "surface": "מחוץ",
+      "english": "外面"
     },
     {
-      "surface": "לַ\/חוֹמָה",
-      "english": "לַ\/חוֹמָה"
+      "surface": "לחומה",
+      "english": "城墙"
     },
     {
-      "surface": "וְ\/אָסַפְתִּי",
-      "english": "וְ\/אָסַפְתִּי"
+      "surface": "ואספתי",
+      "english": "我必将...聚集"
     },
     {
-      "surface": "אוֹתָ\/ם",
-      "english": "אוֹתָ\/ם",
-      "marks": "אל תוך העיר"
+      "surface": "אותם",
+      "english": "它们"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "在...里"
     },
     {
-      "surface": "תּוֹךְ",
-      "english": "תּוֹךְ"
+      "surface": "תוך",
+      "english": "中间"
     },
     {
-      "surface": "הָ\/עִיר",
-      "english": "הָ\/עִיר"
+      "surface": "העיר",
+      "english": "这城"
     },
     {
-      "surface": "הַ\/זֹּאת",
-      "english": "הַ\/זֹּאת"
+      "surface": "הזאת",
+      "english": "这"
     }
   ],
-  "timestamp": "2026-07-18T03:22:19.833235161Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:05.597052821Z",
+  "model": "glm-4.5"
 }

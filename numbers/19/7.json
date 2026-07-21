@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "numbers 19:7",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 684,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20131,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20815
-  },
-  "translation": "הַ\/כֹּהֵן יִבֶן אֶת־בְּגָדָיו וְ\/רָחַץ אֶת־בְּשָׂרוֹ בַּ\/מַּיִם וְ\/אַחַר יָבֹא אֶל הַ\/מַּחֲנֶה וְ\/טָמֵא הַ\/כֹּהֵן עַד הָ\/עָרֶב׃",
+  "translation": "祭司要洗他的衣服,用水洗身,然后进营里,祭司到晚上是不洁净的。",
   "tokens": [
     {
-      "surface": "וְ\/כִבֶּ֨ס",
-      "english": "然后要洗"
+      "surface": "וכבס",
+      "english": "祭司要洗"
     },
     {
-      "surface": "בְּגָדָ֜י\/ו",
+      "surface": "בגדיו",
       "english": "他的衣服"
     },
     {
-      "surface": "הַ\/כֹּהֵ֗ן",
-      "english": "那祭司"
+      "surface": "הכהן",
+      "english": "祭司"
     },
     {
-      "surface": "וְ\/רָחַ֤ץ",
-      "english": "并要在水中洗"
+      "surface": "ורחץ",
+      "english": "⟨并⟩洗"
     },
     {
-      "surface": "בְּשָׂר\/וֹ֙",
-      "english": "他的身体"
+      "surface": "בשרו",
+      "english": "身"
     },
     {
-      "surface": "בַּ\/מַּ֔יִם",
-      "english": "在水中"
+      "surface": "במים",
+      "english": "用水"
     },
     {
-      "surface": "וְ\/אַחַ֖ר",
+      "surface": "ואחר",
       "english": "然后"
     },
     {
-      "surface": "יָב֣וֹא",
-      "english": "⟨他⟩才可以进"
+      "surface": "יבוא",
+      "english": "进"
     },
     {
       "surface": "אל",
       "english": "入"
     },
     {
-      "surface": "הַ\/מַּחֲנֶ֑ה",
-      "english": "营"
+      "surface": "המחנה",
+      "english": "营里"
     },
     {
-      "surface": "וְ\/טָמֵ֥א",
-      "english": "而且不洁净"
+      "surface": "וטמא",
+      "english": "是不洁净的"
     },
     {
-      "surface": "הַ\/כֹּהֵ֖ן",
-      "english": "那祭司"
+      "surface": "הכהן",
+      "english": "祭司"
     },
     {
-      "surface": "עַד",
+      "surface": "עד",
       "english": "直到"
     },
     {
-      "surface": "הָ\/עָֽרֶב",
+      "surface": "הערב",
       "english": "晚上"
     }
   ],
-  "timestamp": "2026-07-17T19:14:38.861956934Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:25.506380058Z",
+  "model": "glm-4.5"
 }

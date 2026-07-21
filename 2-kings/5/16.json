@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "2-kings 5:16",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18849,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19402
-  },
-  "translation": "וַ\/יֹּאמֶר: חַי יְהוָ֛ה אֲשֶׁר עָמַ֥דְתִּי לְ\/פָנָ֖י\/ו, אִם אֶקָּ֑ח! וַ\/יִּפְצַר בּ֥\/וֹ לָ\/קַ֖חַת, וַ\/יְמָאֵֽן.",
+  "translation": "但他<是>说:雅威<正在>活着,就是我站在其<面前>的那位,若我接受<礼物>。他强迫他接受,但他拒绝。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "但他<是>说"
     },
     {
       "surface": "חי",
-      "english": "⟨永生⟩"
+      "english": "雅威<正在>活着"
     },
     {
       "surface": "יהוה",
@@ -36,23 +25,23 @@
     },
     {
       "surface": "עמדתי",
-      "english": "我所侍立的"
+      "english": "我站在"
     },
     {
       "surface": "לפניו",
-      "english": "在他面前"
+      "english": "其<面前>"
     },
     {
       "surface": "אם",
-      "english": "⟨绝不⟩（若……我必）"
+      "english": "若"
     },
     {
       "surface": "אקח",
-      "english": "收取"
+      "english": "我接受<礼物>"
     },
     {
       "surface": "ויפצר",
-      "english": "他极力催促"
+      "english": "他强迫"
     },
     {
       "surface": "בו",
@@ -60,13 +49,13 @@
     },
     {
       "surface": "לקחת",
-      "english": "收取"
+      "english": "接受"
     },
     {
       "surface": "וימאן",
-      "english": "他拒绝"
+      "english": "但他拒绝"
     }
   ],
-  "timestamp": "2026-07-17T21:20:35.294597043Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:03.394583765Z",
+  "model": "glm-4.5"
 }

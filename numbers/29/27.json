@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "numbers 29:27",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19659,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20149
-  },
-  "translation": "וְ\/הַ\/מִּנְחָתָם וְ\/נִסְכֵיהֶם לַ\/פָּרִים לָ\/אֵילִים וּ\/לַ\/כְּבָשִׂים בְּ\/מִסְפָּרָם כַּ\/מִּשְׁפָּט",
+  "translation": "和 ⟨他们的⟩ 素祭,以及 ⟨他们的⟩ 饮祭,为公牛,为公绵羊,和 ⟨为⟩ 绵羊羔,按 ⟨他们的⟩ 数目,照 ⟨定例⟩",
   "tokens": [
     {
-      "surface": "ומנחתם",
-      "english": "和他们的素祭"
+      "surface": "וּמִנְחָתָם",
+      "english": "和 ⟨他们的⟩ 素祭"
     },
     {
-      "surface": "ונסכיהם",
-      "english": "以及他们的奠祭"
+      "surface": "וְנִסְכֵּיהֶם",
+      "english": "以及 ⟨他们的⟩ 饮祭"
     },
     {
-      "surface": "לפרים",
-      "english": "给公牛"
+      "surface": "לַפָּרִים",
+      "english": "为公牛"
     },
     {
-      "surface": "לאילם",
-      "english": "给公绵羊"
+      "surface": "לָאֵילִם",
+      "english": "为公绵羊"
     },
     {
-      "surface": "ולכבשים",
-      "english": "和给羊羔"
+      "surface": "וְלַכְּבָשִׂים",
+      "english": "和 ⟨为⟩ 绵羊羔"
     },
     {
-      "surface": "במספרם",
-      "english": "按它们的数目"
+      "surface": "בְּמִסְפָּרָם",
+      "english": "按 ⟨他们的⟩ 数目"
     },
     {
-      "surface": "כמשפט",
-      "english": "照典章"
+      "surface": "כַּמִּשְׁפָּט",
+      "english": "照 ⟨定例⟩"
     }
   ],
-  "timestamp": "2026-07-17T19:21:29.883474554Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:28.554666707Z",
+  "model": "glm-4.5"
 }

@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "2-chronicles 7:21",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 775,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60613,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61388
-  },
-  "translation": "וְ\/הַ\/בַּיִת הַ\/זֶּה אֲשֶׁר הָיָה עֶלְיָיו לְ\/כָל עֹבֵר עָלָיו יִשֹּׁם וְ\/אָמַר בַּ\/מֶּה עָשָׂה יְהוָה כָּכָה לָ\/אָרֶץ הַ\/זֹּאת וְ\/לַ\/בַּיִת הַ\/זֶּה",
+  "translation": "这殿——本是崇高的——必使每一个从它旁边经过的人感到惊骇,并且说:雅威为何这样待这地和这殿呢?",
   "tokens": [
     {
-      "surface": "וְ\/הַ\/בַּ֤יִת",
-      "english": "而这殿宇"
+      "surface": "והבית",
+      "english": "这殿"
     },
     {
-      "surface": "הַ\/זֶּה֙",
-      "english": "这"
+      "surface": "הזה",
+      "english": "——"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "⟨那⟩"
+      "surface": "אשר",
+      "english": "本是"
     },
     {
-      "surface": "הָיָ֣ה",
-      "english": "曾是"
-    },
-    {
-      "surface": "עֶלְי֔וֹן",
+      "surface": "היה",
       "english": "崇高的"
     },
     {
-      "surface": "לְ\/כָל",
-      "english": "对每一个"
+      "surface": "עליון",
+      "english": "——"
     },
     {
-      "surface": "עֹבֵ֥ר",
-      "english": "经过的人"
+      "surface": "לכל",
+      "english": "每一个"
     },
     {
-      "surface": "עָלָ֖י\/ו",
-      "english": "从它旁边"
+      "surface": "עבר",
+      "english": "从"
     },
     {
-      "surface": "יִשֹּׁ֑ם",
-      "english": "必成为荒废"
+      "surface": "עליו",
+      "english": "它旁边经过的"
     },
     {
-      "surface": "וְ\/אָמַ֗ר",
-      "english": "⟨他⟩必说"
+      "surface": "ישם",
+      "english": "人"
     },
     {
-      "surface": "בַּ\/מֶּ֨ה",
-      "english": "凭什么"
+      "surface": "ואמר",
+      "english": "感到惊骇,并且说"
     },
     {
-      "surface": "עָשָׂ֤ה",
-      "english": "行了"
+      "surface": "במה",
+      "english": "为何"
     },
     {
-      "surface": "יְהוָה֙",
+      "surface": "עשה",
+      "english": "这样待"
+    },
+    {
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "כָּ֔כָה",
-      "english": "这样"
+      "surface": "ככה",
+      "english": "——"
     },
     {
-      "surface": "לָ\/אָ֥רֶץ",
-      "english": "对这地"
+      "surface": "לארץ",
+      "english": "这地"
     },
     {
-      "surface": "הַ\/זֹּ֖את",
-      "english": "这"
+      "surface": "הזאת",
+      "english": "和"
     },
     {
-      "surface": "וְ\/לַ\/בַּ֥יִת",
-      "english": "和⟨对⟩这殿宇"
+      "surface": "ולבית",
+      "english": "这殿"
     },
     {
-      "surface": "הַ\/זֶּֽה",
-      "english": "这"
+      "surface": "הזה",
+      "english": "呢"
     }
   ],
-  "timestamp": "2026-07-18T02:17:46.372295005Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:10.998629426Z",
+  "model": "glm-4.5"
 }

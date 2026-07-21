@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "exodus 36:37",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 36,
   "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18901,
+    "completion_tokens": 585,
+    "prompt_tokens": 18900,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19525
+    "total_tokens": 19485
   },
-  "translation": "他造了会幕 ⟨ה\/אֹהֶל⟩ 入口 לְ\/פֶ֫תַח 的帘幕 מָסָךְ,用蓝紫色料 תְּכֵ֨לֶת、紫红色料 וְ\/אַרְגָּמָ֛ן、朱红色虫染料 וְ\/תוֹלַ֥עַת שָׁנִ֖י,以及捻的细麻 וְ\/שֵׁ֣שׁ מָשְׁזָ֑ר,是绣花匠的手艺 מַעֲשֵׂ֖ה רֹקֵֽם。",
+  "translation": "他做了帐棚入口的帘子,是蓝色、紫色、朱红色,和捻的细麻,刺绣的工",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "english": "他做了"
     },
     {
       "surface": "מסך",
-      "english": "帘幕"
+      "english": "帘子"
     },
     {
       "surface": "לפתח",
-      "english": "入口"
+      "english": "入口的"
     },
     {
       "surface": "האהל",
-      "english": "会幕"
+      "english": "帐棚"
     },
     {
       "surface": "תכלת",
-      "english": "蓝紫色料"
+      "english": "蓝色"
     },
     {
       "surface": "וארגמן",
-      "english": "紫红色料"
+      "english": "紫色"
     },
     {
       "surface": "ותולעת",
-      "english": "虫染料"
-    },
-    {
-      "surface": "שני",
       "english": "朱红色"
     },
     {
+      "surface": "שני",
+      "english": ""
+    },
+    {
       "surface": "ושש",
-      "english": "和细麻"
+      "english": "和捻的细麻"
     },
     {
       "surface": "משזר",
-      "english": "捻的"
+      "english": "刺绣的"
     },
     {
       "surface": "מעשה",
-      "english": "手艺"
+      "english": "工"
     },
     {
       "surface": "רקם",
-      "english": "绣花匠"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:37:07.372978780Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:12.362916395Z",
+  "model": "glm-4.5"
 }

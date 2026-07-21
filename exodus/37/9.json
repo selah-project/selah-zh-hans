@@ -1,96 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "exodus 37:9",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 37,
   "usage": {
-    "completion_tokens": 640,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19467,
+    "completion_tokens": 653,
+    "prompt_tokens": 19466,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20107
+    "total_tokens": 20119
   },
-  "translation": "כרובים היו פורשׂי כנפיים למעלה, סוככים בכנפיהם על ⟨ה⟩כפורת; ופניהם ⟨היו⟩ איש אל אחיו — אל ⟨ה⟩כפורת היו פני ⟨ה⟩כרובים׃",
+  "translation": "基路伯 ⟨有⟩ 展翅向上，用翅膀遮掩施恩座，它们的面彼此相对；朝向施恩座，⟨是⟩ 基路伯的面。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "היו"
+      "english": "基路伯 ⟨有⟩"
     },
     {
       "surface": "הכרבים",
-      "english": "הכרובים"
+      "english": "基路伯"
     },
     {
       "surface": "פרשי",
-      "english": "פורשׂי"
+      "english": "展"
     },
     {
       "surface": "כנפים",
-      "english": "כנפיים"
+      "english": "翅"
     },
     {
       "surface": "למעלה",
-      "english": "למעלה"
+      "english": "向上"
     },
     {
       "surface": "סככים",
-      "english": "סוככים"
+      "english": "遮掩"
     },
     {
       "surface": "בכנפיהם",
-      "english": "בכנפיהם"
+      "english": "用翅膀"
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "⟨את⟩",
+      "marks": "施恩座"
     },
     {
       "surface": "הכפרת",
-      "english": "הכפורת"
+      "english": "施恩座"
     },
     {
       "surface": "ופניהם",
-      "english": "ופניהם"
+      "english": "它们的面"
     },
     {
       "surface": "איש",
-      "english": "איש"
+      "english": "彼此"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "相对"
     },
     {
       "surface": "אחיו",
-      "english": "אחיו"
+      "english": ""
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "朝向"
     },
     {
       "surface": "הכפרת",
-      "english": "הכפורת"
+      "english": "施恩座"
     },
     {
       "surface": "היו",
-      "english": "היו"
+      "english": "⟨是⟩"
     },
     {
       "surface": "פני",
-      "english": "פני"
+      "english": "面"
     },
     {
       "surface": "הכרבים",
-      "english": "הכרובים"
+      "english": "基路伯"
     }
   ],
-  "timestamp": "2026-07-18T02:42:18.285809738Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:57.796262933Z",
+  "model": "glm-4.5"
 }

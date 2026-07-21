@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "1-kings 8:11",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 854,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64514,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65368
-  },
-  "translation": "הכהנים לא יכלו לעמוד לשרת מפני הענן, כי מלא כבוד 雅威 ⟨את⟩ בית 雅威.",
+  "translation": "祭司们不能站立服事,因为云;因为雅威的荣耀充满了⟨את⟩雅威的殿。",
   "tokens": [
     {
-      "surface": "וְ\/לֹֽא",
-      "english": "ולא"
+      "surface": "ולא",
+      "english": "不能"
     },
     {
-      "surface": "יָכְל֧וּ",
-      "english": "יכלו"
+      "surface": "יכלו",
+      "english": "站立"
     },
     {
-      "surface": "הַ\/כֹּהֲנִ֛ים",
-      "english": "הכהנים"
+      "surface": "הכהנים",
+      "english": "祭司们"
     },
     {
-      "surface": "לַ\/עֲמֹ֥ד",
-      "english": "לעמוד"
+      "surface": "לעמד",
+      "english": "站立"
     },
     {
-      "surface": "לְ\/שָׁרֵ֖ת",
-      "english": "לשרת"
+      "surface": "לשרת",
+      "english": "服事"
     },
     {
-      "surface": "מִ\/פְּנֵ֥י",
-      "english": "מפני"
+      "surface": "מפני",
+      "english": "因为"
     },
     {
-      "surface": "הֶֽ\/עָנָ֑ן",
-      "english": "הענן"
+      "surface": "הענן",
+      "english": "云"
     },
     {
-      "surface": "כִּי",
-      "english": "כי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "מָלֵ֥א",
-      "english": "מלא"
+      "surface": "מלא",
+      "english": "充满了"
     },
     {
-      "surface": "כְבוֹד",
-      "english": "כבוד"
+      "surface": "כבוד",
+      "english": "荣耀"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֶת",
-      "english": "את",
-      "marks": "בית"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威的殿"
     },
     {
-      "surface": "בֵּ֥ית",
-      "english": "בית"
+      "surface": "בית",
+      "english": "殿"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T21:03:16.302173288Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:12.598717326Z",
+  "model": "glm-4.5"
 }

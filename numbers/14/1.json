@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "numbers 14:1",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19755,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20212
-  },
-  "translation": "全 ⟨הָעֵדָה⟩ 就放声大哭,⟨הָעָם⟩ 在 הַ\/לַּיְלָה הַ\/הֽוּא 哭号。",
+  "translation": "全会众就抬 ⟨起⟩ ⟨他们的⟩ ⟨את⟩ 声音,并且在那夜那 ⟨个⟩ ⟨时候⟩,众民哭号。",
   "tokens": [
     {
       "surface": "ותשא",
-      "english": "就放声（举起）"
+      "english": "就抬 ⟨起⟩"
     },
     {
       "surface": "כל",
@@ -32,24 +21,24 @@
     },
     {
       "surface": "ויתנו",
-      "english": "发出"
+      "english": "并且 ⟨发出⟩"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他们的声音（קולם）"
+      "marks": "声音"
     },
     {
       "surface": "קולם",
-      "english": "他们的声音"
+      "english": "⟨他们的⟩ 声音"
     },
     {
       "surface": "ויבכו",
-      "english": "哭号"
+      "english": "并且哭号"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "english": "众民"
     },
     {
       "surface": "בלילה",
@@ -57,9 +46,9 @@
     },
     {
       "surface": "ההוא",
-      "english": "那个"
+      "english": "那 ⟨个⟩"
     }
   ],
-  "timestamp": "2026-07-17T19:10:35.041892814Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:58.720669898Z",
+  "model": "glm-4.5"
 }

@@ -1,76 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "daniel 4:19",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 694,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19434,
+    "completion_tokens": 513,
+    "prompt_tokens": 19433,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 17536
     },
-    "total_tokens": 20128
+    "total_tokens": 19946
   },
-  "translation": "אַנְתָּה הוּא מַלְכָּ֔א דִּי רְבַ֖ית וּ\/תְקֵ֑פְתְּ וּ\/רְבוּתָ֤\/ךְ רְבָת֙ וּ\/מְטָ֣ת לִ\/שְׁמַיָּ֔\/א וְ\/שָׁלְטָנָ֖\/ךְ לְ\/ס֥וֹף אַרְעָֽ\/א",
+  "translation": "就是你,王啊,你已成为伟大的并且有力,你的伟大已经增长并且达到 ⟨את⟩ 天,并且你的权柄达到地的地极",
   "tokens": [
     {
       "surface": "אנתה",
-      "english": "你"
+      "english": "就是你"
     },
     {
       "surface": "הוא",
-      "english": "⟨就是⟩"
+      "english": "——"
     },
     {
       "surface": "מלכא",
-      "english": "那位王"
+      "english": "王啊"
     },
     {
       "surface": "די",
-      "english": "—— ⟨那⟩"
+      "english": "——"
     },
     {
       "surface": "רבית",
-      "english": "尊大"
+      "english": "你已成为伟大的"
     },
     {
       "surface": "ותקפת",
-      "english": "变得强壮"
+      "english": "并且有力"
     },
     {
       "surface": "ורבותך",
-      "english": "你的尊大"
+      "english": "你的伟大已经增长"
     },
     {
       "surface": "רבת",
-      "english": "增长"
+      "english": "——"
     },
     {
       "surface": "ומטת",
-      "english": "达到"
+      "english": "并且达到"
     },
     {
       "surface": "לשמיא",
-      "english": "诸天"
+      "english": "⟨את⟩"
     },
     {
-      "surface": "ושלטנך",
-      "english": "你的统治权"
+      "surface": "ו",
+      "english": "并且"
+    },
+    {
+      "surface": "שלטנך",
+      "english": "你的权柄"
     },
     {
       "surface": "לסוף",
-      "english": "尽头"
+      "english": "达到"
     },
     {
       "surface": "ארעא",
-      "english": "全地"
+      "english": "地的地极"
     }
   ],
-  "timestamp": "2026-07-18T01:30:53.880002560Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:15.273360145Z",
+  "model": "glm-4.5"
 }

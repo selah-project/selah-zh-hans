@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "psalms 118:21",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 118,
   "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64306,
+    "completion_tokens": 283,
+    "prompt_tokens": 64305,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64654
+    "total_tokens": 64588
   },
-  "translation": "我要称谢כִּי (你) עניתָנִי, וַ\/תְּהִי לִי לִ\/ישׁוּעָה。",
+  "translation": "我要称谢你,因为你应允了我,并且成了我的拯救。",
   "tokens": [
     {
       "surface": "אודך",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "ותהי",
-      "english": "你就成为"
+      "english": "并且成了"
     },
     {
       "surface": "לי",
@@ -43,6 +40,6 @@
       "english": "拯救"
     }
   ],
-  "timestamp": "2026-07-18T00:21:47.519780541Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:35.958316305Z",
+  "model": "glm-4.5"
 }

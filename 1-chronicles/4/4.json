@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "1-chronicles 4:4",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 1125,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59219,
+    "completion_tokens": 390,
+    "prompt_tokens": 59338,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60344
+    "total_tokens": 59728
   },
-  "translation": "וּ\/פְנוּאֵל אֲבִי גְדֹר, 以斯勒 אֲבִי 户沙. אֵלֶּה בְּנֵי 户珥, בְּכוֹר 以法他, אֲבִי 伯 伯.",
+  "translation": "比努埃尔是基多的父亲,以折是户沙的父亲。这些是户珥的儿子,他是以法他的长子,伯利恒的父亲。",
   "tokens": [
     {
       "surface": "ופנואל",
-      "english": "毗努伊勒"
+      "english": "比努埃尔"
     },
     {
       "surface": "אבי",
-      "english": "אֲבִי"
+      "english": "父亲"
     },
     {
       "surface": "גדר",
@@ -32,11 +29,11 @@
     },
     {
       "surface": "ועזר",
-      "english": "以斯勒"
+      "english": "以折"
     },
     {
       "surface": "אבי",
-      "english": "אֲבִי"
+      "english": "父亲"
     },
     {
       "surface": "חושה",
@@ -44,11 +41,11 @@
     },
     {
       "surface": "אלה",
-      "english": "אֵלֶּה"
+      "english": "这些"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "儿子"
     },
     {
       "surface": "חור",
@@ -56,7 +53,7 @@
     },
     {
       "surface": "בכור",
-      "english": "בְּכוֹר"
+      "english": "长子"
     },
     {
       "surface": "אפרתה",
@@ -64,7 +61,7 @@
     },
     {
       "surface": "אבי",
-      "english": "אֲבִי"
+      "english": "父亲"
     },
     {
       "surface": "בית",
@@ -72,9 +69,9 @@
     },
     {
       "surface": "לחם",
-      "english": "伯"
+      "english": "利恒"
     }
   ],
-  "timestamp": "2026-07-18T01:53:52.535295609Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:01.141429045Z",
+  "model": "glm-4.5"
 }

@@ -1,31 +1,20 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "ezekiel 44:3",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 704,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19825,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20529
-  },
-  "translation": "⟨את⟩ הנשיא：נשיא הוא，יֵשֵׁב בּוֹ לֶאֱכוֹל לֶחֶם לִפְנֵי יְהוָה；מִדֶּרֶךְ אוּלָם הַשַּׁעַר יָבוֹא，וּמִדַּרְכּוֹ יֵצֵא׃",
+  "translation": "这⟨是⟩首领；首领要坐在其中,在雅威面前吃饼；要从门廊的道进来,并从他的道出去。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "这首领 (הנשיא)"
+      "english": "⟨是⟩",
+      "marks": "这⟨是⟩首领"
     },
     {
       "surface": "הנשיא",
-      "english": "这首领"
+      "english": "首领"
     },
     {
       "surface": "נשיא",
@@ -33,19 +22,19 @@
     },
     {
       "surface": "הוא",
-      "english": "是他"
+      "english": "他"
     },
     {
       "surface": "ישב",
-      "english": "要坐在"
+      "english": "要坐"
     },
     {
       "surface": "בו",
-      "english": "其中"
+      "english": "在其中"
     },
     {
       "surface": "לאכול",
-      "english": "为要吃"
+      "english": "吃"
     },
     {
       "surface": "לחם",
@@ -53,7 +42,7 @@
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "english": "在...面前"
     },
     {
       "surface": "יהוה",
@@ -61,7 +50,7 @@
     },
     {
       "surface": "מדרך",
-      "english": "从……的路"
+      "english": "从...道"
     },
     {
       "surface": "אלם",
@@ -69,21 +58,21 @@
     },
     {
       "surface": "השער",
-      "english": "这门"
+      "english": "门"
     },
     {
       "surface": "יבוא",
-      "english": "他要进入"
+      "english": "进来"
     },
     {
       "surface": "ומדרכו",
-      "english": "从原路"
+      "english": "并从他的道"
     },
     {
       "surface": "יצא",
-      "english": "他要出去"
+      "english": "出去"
     }
   ],
-  "timestamp": "2026-07-17T23:08:26.283828568Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:07.405796087Z",
+  "model": "glm-4.5"
 }

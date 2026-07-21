@@ -1,117 +1,106 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "deuteronomy 28:15",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 1153,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20704,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 21857
-  },
-  "translation": "וְהָיָה אִם לֹא תִּשְׁמַע לְקוֹל יְהוָה אֱלֹהֶיךָ, לִשְׁמֹר לַעֲשׂוֹת אֶת כָּל מִצְוֺתָיו וְחֻקֹּתָיו אֲשֶׁר אָנֹכִי מְצַוְּךָ הַיּוֹם, וּבָאוּ עָלֶיךָ כָּל הַקְּלָלוֹת הָאֵלֶּה וְהִשִּׂיגוּךָ׃",
+  "translation": "但这若发生,如果你不听从雅威你以罗欣的声音,去谨守遵行我今天吩咐你的一切命令和律例,这一切咒诅就必临到你身上,追上你。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "事将如此"
+      "surface": "והיה",
+      "english": "但这若发生"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "english": "如果"
     },
     {
-      "surface": "לֹ֤א",
+      "surface": "לא",
       "english": "不"
     },
     {
-      "surface": "תִּשְׁמַע֙",
-      "english": "你听从"
+      "surface": "תשמע",
+      "english": "听从"
     },
     {
-      "surface": "בְּ\/קוֹל֙",
+      "surface": "בקול",
       "english": "声音"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֶ֔י\/ךָ",
-      "english": "你的以罗欣"
+      "surface": "אלהיך",
+      "english": "你以罗欣"
     },
     {
-      "surface": "לִ\/שְׁמֹ֤ר",
+      "surface": "לשמר",
       "english": "去谨守"
     },
     {
-      "surface": "לַ\/עֲשׂוֹת֙",
-      "english": "去遵行"
+      "surface": "לעשות",
+      "english": "遵行"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他一切的诫命"
+      "marks": "一切"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "english": "一切"
     },
     {
-      "surface": "מִצְוֺתָ֣י\/ו",
-      "english": "他的诫命"
+      "surface": "מצותיו",
+      "english": "命令"
     },
     {
-      "surface": "וְ\/חֻקֹּתָ֔י\/ו",
-      "english": "和他的律例"
+      "surface": "וחקתיו",
+      "english": "和律例"
     },
     {
-      "surface": "אֲשֶׁ֛ר",
-      "english": "就是"
+      "surface": "אשר",
+      "english": "⟨关系代词⟩"
     },
     {
-      "surface": "אָנֹכִ֥י",
+      "surface": "אנכי",
       "english": "我"
     },
     {
-      "surface": "מְצַוְּ\/ךָ֖",
-      "english": "今日吩咐你的"
+      "surface": "מצוך",
+      "english": "吩咐"
     },
     {
-      "surface": "הַ\/יּ֑וֹם",
-      "english": "今日"
+      "surface": "היום",
+      "english": "今天"
     },
     {
-      "surface": "וּ\/בָ֧אוּ",
+      "surface": "ובאו",
       "english": "就必临到"
     },
     {
-      "surface": "עָלֶ֛י\/ךָ",
-      "english": "在你身上"
+      "surface": "עליך",
+      "english": "你身上"
     },
     {
-      "surface": "כָּל",
-      "english": "这一切的"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "הַ\/קְּלָל֥וֹת",
+      "surface": "הקללות",
       "english": "咒诅"
     },
     {
-      "surface": "הָ\/אֵ֖לֶּה",
+      "surface": "האלה",
       "english": "这些"
     },
     {
-      "surface": "וְ\/הִשִּׂיגֽוּ\/ךָ",
-      "english": "并追上你"
+      "surface": "והשיגוך",
+      "english": "追上你"
     }
   ],
-  "timestamp": "2026-07-17T19:45:11.882751105Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:59.656619170Z",
+  "model": "glm-4.5"
 }

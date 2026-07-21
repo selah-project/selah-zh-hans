@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "numbers 2:26",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19550,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20051
-  },
-  "translation": "וְ\/צְבָא֖\/וֹ וּ\/פְקֻדֵי\/הֶ֑ם שְׁנַ֧יִם וְ\/שִׁשִּׁ֛ים אֶ֖לֶף וּ\/שְׁבַ֥ע מֵאֽוֹת",
+  "translation": "和 他的 军队 以及 ⟨他们被数点⟩ 的 是 六万二千 七百",
   "tokens": [
     {
-      "surface": "וּ\/צְבָא֖\/וֹ",
-      "english": "וצבאו"
+      "surface": "וצבאו",
+      "english": "和 他的 军队"
     },
     {
-      "surface": "וּ\/פְקֻדֵי\/הֶ֑ם",
-      "english": "ופקדיהם"
+      "surface": "ופקדיהם",
+      "english": "以及 ⟨他们被数点⟩ 的"
     },
     {
-      "surface": "שְׁנַ֧יִם",
-      "english": "שנים"
+      "surface": "שנים",
+      "english": "两万"
     },
     {
-      "surface": "וְ\/שִׁשִּׁ֛ים",
-      "english": "וששים"
+      "surface": "וששים",
+      "english": "六千"
     },
     {
-      "surface": "אֶ֖לֶף",
-      "english": "אלף"
+      "surface": "אלף",
+      "english": "千"
     },
     {
-      "surface": "וּ\/שְׁבַ֥ע",
-      "english": "ושבע"
+      "surface": "ושבע",
+      "english": "七"
     },
     {
-      "surface": "מֵאֽוֹת",
-      "english": "מאות"
+      "surface": "מאות",
+      "english": "百"
     }
   ],
-  "timestamp": "2026-07-17T19:01:23.757394600Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:03.516115056Z",
+  "model": "glm-4.5"
 }

@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-chronicles 32:10",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 32,
   "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60051,
+    "completion_tokens": 411,
+    "prompt_tokens": 60127,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60557
+    "total_tokens": 60538
   },
-  "translation": "כֹּה אָמַר סַנְחֵרִיב מֶלֶךְ אַשּׁוּר:עַל מָה אַתֶּם בֹּטְחִים,וְ\/יֹשְׁבִים בְּ\/מָצוֹר בִּ\/ירוּשָׁלִַֽם?",
+  "translation": "西拿基立王,亚述王如此说:你们倚靠什么,而安坐在耶路撒冷的围困中?",
   "tokens": [
     {
       "surface": "כה",
@@ -40,7 +37,7 @@
     },
     {
       "surface": "על",
-      "english": "关于"
+      "english": "倚靠"
     },
     {
       "surface": "מה",
@@ -52,11 +49,11 @@
     },
     {
       "surface": "בטחים",
-      "english": "⟨如此⟩信任"
+      "english": "⟨是⟩倚靠"
     },
     {
       "surface": "וישבים",
-      "english": "并且停留"
+      "english": "而安坐"
     },
     {
       "surface": "במצור",
@@ -67,6 +64,6 @@
       "english": "在耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:33:14.257030952Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:46.091543904Z",
+  "model": "glm-4.5"
 }

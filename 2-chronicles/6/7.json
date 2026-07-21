@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "2-chronicles 6:7",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59883,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60497
-  },
-  "translation": "וכך היה עם לבב 大卫 אבי, לבנות בית לשם 雅威 אלהי 以色列׃",
+  "translation": "只是,这事在⟨他⟩心里,就是我父大卫,要为雅威——以色列的以罗欣的名建造殿宇。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וכך היה"
+      "english": "只是,这事"
     },
     {
       "surface": "עם",
-      "english": "עם"
+      "english": "在"
     },
     {
       "surface": "לבב",
-      "english": "לבב"
+      "english": "⟨他⟩心里"
     },
     {
       "surface": "דויד",
@@ -36,19 +25,19 @@
     },
     {
       "surface": "אבי",
-      "english": "אבי"
+      "english": "我父"
     },
     {
       "surface": "לבנות",
-      "english": "לבנות"
+      "english": "要建造"
     },
     {
       "surface": "בית",
-      "english": "בית"
+      "english": "殿宇"
     },
     {
       "surface": "לשם",
-      "english": "לשם"
+      "english": "为...的名"
     },
     {
       "surface": "יהוה",
@@ -56,13 +45,13 @@
     },
     {
       "surface": "אלהי",
-      "english": "אלהי"
+      "english": "以罗欣"
     },
     {
       "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-18T02:16:45.454358578Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:46.119871762Z",
+  "model": "glm-4.5"
 }

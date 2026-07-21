@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "ezra 7:15",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 1046,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46944,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47990
-  },
-  "translation": "וְ\/לְ\/הֵיבֵל ⟨אֶת⟩ הַ\/כֶּסֶף וְ\/אֶת הַ\/זָּהָב אֲשֶׁר הַ\/מֶּלֶךְ וְ\/יֹעֲצָיו הִתְנַדְּבוּ 以罗欣 以色列 אֲשֶׁר 耶路撒冷 מִשְׁכַּנ־",
+  "translation": "并且搬运银子与金子，就是王和他的谋士自愿献给在耶路撒冷有居所的以色列之 以罗欣 的",
   "tokens": [
     {
-      "surface": "ו\/ל\/היבלה",
-      "english": "וְ\/לְ\/הֵבִיא"
+      "surface": "ולהיבלה",
+      "english": "并且搬运"
     },
     {
       "surface": "כסף",
-      "english": "הַ\/כֶּסֶף"
+      "english": "银子"
     },
     {
       "surface": "ודהב",
-      "english": "וְ\/אֶת הַ\/זָּהָב"
+      "english": "与金子"
     },
     {
       "surface": "די",
-      "english": "אֲשֶׁר"
+      "english": "就是"
     },
     {
       "surface": "מלכא",
-      "english": "הַ\/מֶּלֶךְ"
+      "english": "王"
     },
     {
       "surface": "ויעטוהי",
-      "english": "וְ\/יֹעֲצָיו"
+      "english": "和他的谋士"
     },
     {
       "surface": "התנדבו",
-      "english": "הִתְנַדְּבוּ"
+      "english": "自愿献给"
     },
     {
       "surface": "לאלה",
-      "english": "以罗欣"
+      "english": "以罗欣 的"
     },
     {
       "surface": "ישראל",
@@ -56,17 +45,17 @@
     },
     {
       "surface": "די",
-      "english": "אֲשֶׁר"
+      "english": "的"
     },
     {
       "surface": "בירושלם",
-      "english": "耶路撒冷"
+      "english": "在耶路撒冷"
     },
     {
       "surface": "משכנה",
-      "english": "מִשְׁכַּן־"
+      "english": "有居所"
     }
   ],
-  "timestamp": "2026-07-18T01:40:19.985674342Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:48.679292357Z",
+  "model": "glm-4.5"
 }

@@ -1,104 +1,101 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "jeremiah 17:19",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 17,
   "usage": {
-    "completion_tokens": 961,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20132,
+    "completion_tokens": 820,
+    "prompt_tokens": 20228,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21093
+    "total_tokens": 21048
   },
-  "translation": "כֹּה אָמַר יְהוָה אֵלַי: הָלֹךְ וְעָמַדְתָּ בְּשַׁעַר בְּנֵי־עַם אֲשֶׁר יָבֹאוּ בוֹ מַלְכֵי יְהוּדָה וַאֲשֶׁר יֵצְאוּ בוֹ, וּבְכֹל שַׁעֲרֵי יְרוּשָׁלִָם׃",
+  "translation": "雅威如此对我 ⟨说⟩:你 ⟨要⟩ 去, ⟨且⟩ 站在民众之子 ⟨的⟩ 门 ⟨中⟩, 犹大 ⟨的⟩ 诸王 ⟨从⟩ 那里 ⟨进入⟩, ⟨并⟩ ⟨从⟩ 那里 ⟨出去⟩, ⟨且⟩ 在耶路撒冷 ⟨的⟩ 众门 ⟨中⟩。",
   "tokens": [
     {
-      "surface": "כֹּה",
-      "english": "כֹּה אָמַר יְהוָה אֵלַי: הָלֹךְ וְעָמַדְתָּ בְּשַׁעַר בְּנֵי־עַם אֲשֶׁר יָבֹאוּ בוֹ מַלְכֵי יְהוּדָה וַאֲשֶׁר יֵצְאוּ בוֹ, וּבְכֹל שַׁעֲרֵי יְרוּשָׁלִָם׃"
+      "surface": "כה",
+      "english": "如此"
     },
     {
-      "surface": "אָמַר",
-      "english": ""
+      "surface": "אמר",
+      "english": "⟨说⟩"
     },
     {
-      "surface": "יְהוָה",
-      "english": ""
+      "surface": "יהוה",
+      "english": "雅威"
     },
     {
-      "surface": "אֵלַי",
-      "english": ""
+      "surface": "אלי",
+      "english": "对我"
     },
     {
-      "surface": "הָלֹךְ",
-      "english": ""
+      "surface": "הלך",
+      "english": "你 ⟨要⟩ 去"
     },
     {
-      "surface": "וְעָמַדְתָּ",
-      "english": ""
+      "surface": "ועמדת",
+      "english": "⟨且⟩ 站"
     },
     {
-      "surface": "בְּשַׁעַר",
-      "english": ""
+      "surface": "בשער",
+      "english": "在...门 ⟨中⟩"
     },
     {
-      "surface": "בְּנֵי",
-      "english": ""
+      "surface": "בני",
+      "english": "民众之子 ⟨的⟩"
     },
     {
-      "surface": "עַם",
-      "english": ""
+      "surface": "עם",
+      "english": "民众"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": ""
+      "surface": "אשר",
+      "english": "⟨...⟩"
     },
     {
-      "surface": "יָבֹאוּ",
-      "english": ""
+      "surface": "יבאו",
+      "english": "⟨从⟩ 那里 ⟨进入⟩"
     },
     {
-      "surface": "בוֹ",
-      "english": ""
+      "surface": "בו",
+      "english": "⟨从⟩ 那里"
     },
     {
-      "surface": "מַלְכֵי",
-      "english": ""
+      "surface": "מלכי",
+      "english": "犹大 ⟨的⟩ 诸王"
     },
     {
-      "surface": "יְהוּדָה",
-      "english": ""
+      "surface": "יהודה",
+      "english": "犹大"
     },
     {
-      "surface": "וַאֲשֶׁר",
-      "english": ""
+      "surface": "ואשר",
+      "english": "⟨并⟩ ⟨...⟩"
     },
     {
-      "surface": "יֵצְאוּ",
-      "english": ""
+      "surface": "יצאו",
+      "english": "⟨从⟩ 那里 ⟨出去⟩"
     },
     {
-      "surface": "בוֹ",
-      "english": ""
+      "surface": "בו",
+      "english": "⟨从⟩ 那里"
     },
     {
-      "surface": "וּבְכֹל",
-      "english": ""
+      "surface": "ובכל",
+      "english": "⟨且⟩ 在...众门 ⟨中⟩"
     },
     {
-      "surface": "שַׁעֲרֵי",
-      "english": ""
+      "surface": "שערי",
+      "english": "...众门 ⟨的⟩"
     },
     {
-      "surface": "יְרוּשָׁלִַם",
-      "english": ""
+      "surface": "ירושלם",
+      "english": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-17T22:16:49.405218523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:50.707665604Z",
+  "model": "glm-4.5"
 }

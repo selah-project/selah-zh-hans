@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "isaiah 35:7",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 850,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21080,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21930
-  },
-  "translation": "והיה השרב לאגם, וצמאון למבועי מים; בנוה תנים רבצה חציר לקנה וגמא。צמאון将变为水池⟨את⟩，干渴之地变为泉水之源；在תנים的住处——其伏卧之处——必有חציר，לקנה与גמא。",
+  "translation": "灼热之地 ⟨将⟩ 变为水池,干渴之地 ⟨变为⟩ 水泉;在 *tanín* 野兽的住处,那是它躺卧的 ⟨处所⟩, ⟨有⟩ 草、芦苇和蒲草。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֤ה",
-      "english": "והיה"
+      "surface": "והיה",
+      "english": "⟨将⟩ 变为"
     },
     {
-      "surface": "הַ\/שָּׁרָב֙",
-      "english": "那灼热的旱地"
+      "surface": "השרב",
+      "english": "灼热之地"
     },
     {
-      "surface": "לַ\/אֲגַ֔ם",
+      "surface": "לאגם",
       "english": "变为水池"
     },
     {
-      "surface": "וְ\/צִמָּא֖וֹן",
+      "surface": "וצמאון",
       "english": "干渴之地"
     },
     {
-      "surface": "לְ\/מַבּ֣וּעֵי",
-      "english": "变为泉水之源"
+      "surface": "למבועי",
+      "english": "⟨变为⟩ 水泉"
     },
     {
-      "surface": "מָ֑יִם",
+      "surface": "מים",
       "english": "水"
     },
     {
-      "surface": "בִּ\/נְוֵ֤ה",
-      "english": "在住处"
+      "surface": "בנוה",
+      "english": "在...的住处"
     },
     {
-      "surface": "תַנִּים֙",
-      "english": "תנים（豺狼\/海怪）"
+      "surface": "תנים",
+      "english": "*tanín* 野兽"
     },
     {
-      "surface": "רִבְצָ֔\/הּ",
-      "english": "其伏卧之处"
+      "surface": "רבצה",
+      "english": "那是它躺卧的 ⟨处所⟩"
     },
     {
-      "surface": "חָצִ֖יר",
-      "english": "必有חציר（青草）"
+      "surface": "חציר",
+      "english": "草"
     },
     {
-      "surface": "לְ\/קָנֶ֥ה",
-      "english": "לקנה（芦苇）"
+      "surface": "לקנה",
+      "english": "芦苇"
     },
     {
-      "surface": "וָ\/גֹֽמֶא",
-      "english": "与גמא（蒲草）"
+      "surface": "וגמא",
+      "english": "和蒲草"
     }
   ],
-  "timestamp": "2026-07-17T21:50:47.839282493Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:35.464979954Z",
+  "model": "glm-4.5"
 }

@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "psalms 97:11",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 97,
   "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64302,
+    "completion_tokens": 349,
+    "prompt_tokens": 64301,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64751
+    "total_tokens": 64650
   },
-  "translation": "אור זרוע לצדיק，ולישרי לב שמחה。",
+  "translation": "光 ⟨被⟩播撒给义人,给心里正直的 ⟨是⟩ 喜乐。",
   "tokens": [
     {
       "surface": "אור",
-      "english": "אור (光)"
+      "english": "光"
     },
     {
       "surface": "זרע",
-      "english": "זרוע (被播撒)"
+      "english": "⟨被⟩播撒"
     },
     {
       "surface": "לצדיק",
-      "english": "לצדיק (为义人)"
+      "english": "给义人"
     },
     {
       "surface": "ולישרי",
-      "english": "ולישרי (并为正直的人)"
+      "english": "给心里正直的"
     },
     {
       "surface": "לב",
-      "english": "לב (心的)"
+      "english": "心里"
     },
     {
       "surface": "שמחה",
-      "english": "שמחה (喜乐)"
+      "english": "喜乐"
     }
   ],
-  "timestamp": "2026-07-18T00:13:55.533086895Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:58.849648225Z",
+  "model": "glm-4.5"
 }

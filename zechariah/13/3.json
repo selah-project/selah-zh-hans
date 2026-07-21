@@ -1,112 +1,109 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "zechariah 13:3",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 1147,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19213,
+    "completion_tokens": 806,
+    "prompt_tokens": 19277,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 16512
     },
-    "total_tokens": 20360
+    "total_tokens": 20083
   },
-  "translation": "וְהָיָה כִּי אִם יִנָּבֵא אִישׁ עוֹד, וְ\/אָמְרוּ אֵלָיו אָבִיו וְ\/אִמּוֹ יֹלְדָיו: לֹא תִחְיֶה, כִּי שֶׁקֶר דִּבַּרְתָּ בְּ\/שֵׁם יְהוָה; וּ\/דְקָרֻהוּ אָבִיו וְ\/אִמּוֹ יֹלְדָיו בְּ\/הִנָּבְאוֹ.",
+  "translation": "这事必发生:若还有人再说预言,他的生他的父和他的母 ⟨必⟩ 对他说:你 ⟨必⟩ 不得存活;因为你 ⟨托⟩ 雅威的名说谎言;在他 ⟨说⟩ 预言的时候,他的父他的生他的 ⟨必⟩ 刺透他。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "事情将如此"
+      "surface": "והיה",
+      "english": "这事必发生"
     },
     {
-      "surface": "כִּֽי",
-      "english": "当"
+      "surface": "כי",
+      "english": "若"
     },
     {
-      "surface": "יִנָּבֵ֣א",
-      "english": "说预言"
+      "surface": "ינבא",
+      "english": "还有人再说预言"
     },
     {
-      "surface": "אִישׁ֮",
-      "english": "一个男人"
+      "surface": "איש",
+      "english": ""
     },
     {
-      "surface": "עוֹד֒",
-      "english": "再"
+      "surface": "עוד",
+      "english": ""
     },
     {
-      "surface": "וְ\/אָמְר֣וּ",
-      "english": "说"
+      "surface": "ואמרו",
+      "english": "他的生他的父和他的母 ⟨必⟩ 对他说"
     },
     {
-      "surface": "אֵ֠לָיו",
-      "english": "对他"
+      "surface": "אליו",
+      "english": ""
     },
     {
-      "surface": "אָבִ֨יו",
-      "english": "他的父亲"
+      "surface": "אביו",
+      "english": ""
     },
     {
-      "surface": "וְ\/אִמּ֤וֹ",
-      "english": "和生他的母亲"
+      "surface": "ואמו",
+      "english": ""
     },
     {
-      "surface": "יֹלְדָיו֙",
-      "english": "和生他的母亲"
+      "surface": "ילדיו",
+      "english": ""
     },
     {
-      "surface": "לֹ֣א",
-      "english": "不"
+      "surface": "לא",
+      "english": "你 ⟨必⟩ 不得"
     },
     {
-      "surface": "תִּֽחְיֶ֔ה",
-      "english": "你不得存活"
+      "surface": "תחיה",
+      "english": "存活"
     },
     {
-      "surface": "כִּ֛י",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "שֶׁ֥קֶר",
+      "surface": "שקר",
       "english": "谎言"
     },
     {
-      "surface": "דִּבַּ֖רְתָּ",
-      "english": "你讲了"
+      "surface": "דברת",
+      "english": "说你 ⟨托⟩"
     },
     {
-      "surface": "בְּ\/שֵׁ֣ם",
-      "english": "奉……的名"
+      "surface": "בשם",
+      "english": ""
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "וּ\/דְקָרֻ֜\/הוּ",
-      "english": "刺透他"
+      "surface": "ודקרהו",
+      "english": "他的父他的生他的 ⟨必⟩ 刺透他"
     },
     {
-      "surface": "אָבִ֧י\/הוּ",
-      "english": "他的父亲"
+      "surface": "אביהו",
+      "english": ""
     },
     {
-      "surface": "וְ\/אִמּ֛\/וֹ",
-      "english": "和生他的母亲"
+      "surface": "ואמו",
+      "english": ""
     },
     {
-      "surface": "יֹלְדָ֖י\/ו",
-      "english": "和生他的母亲"
+      "surface": "ילדיו",
+      "english": ""
     },
     {
-      "surface": "בְּ\/הִנָּבְאֽ\/וֹ",
-      "english": "在他预言时"
+      "surface": "בהנבאו",
+      "english": "在他 ⟨说⟩ 预言的时候"
     }
   ],
-  "timestamp": "2026-07-17T23:37:22.283469451Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:10.795527095Z",
+  "model": "glm-4.5"
 }

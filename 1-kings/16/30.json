@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "1-kings 16:30",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64126,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64607
-  },
-  "translation": "אחאב בֶּן־暗利 עָשָׂה הָרַע בְּעֵינֵי 雅威, מִכֹּל אֲשֶׁר לְפָנָיו׃",
+  "translation": "亚哈本暗利 ⟨在雅威眼中⟩ 行恶,超过在他以前的一切人。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行了"
+      "english": "行"
     },
     {
       "surface": "אחאב",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֶּן־"
+      "english": "本"
     },
     {
       "surface": "עמרי",
@@ -36,11 +25,11 @@
     },
     {
       "surface": "הרע",
-      "english": "הָרַע"
+      "english": "恶"
     },
     {
       "surface": "בעיני",
-      "english": "בְּעֵינֵי"
+      "english": "在眼中"
     },
     {
       "surface": "יהוה",
@@ -48,17 +37,17 @@
     },
     {
       "surface": "מכל",
-      "english": "מִכֹּל"
+      "english": "超过"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "一切"
     },
     {
       "surface": "לפניו",
-      "english": "לְפָנָיו"
+      "english": "在他以前的"
     }
   ],
-  "timestamp": "2026-07-17T21:10:52.713090649Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:20.194627274Z",
+  "model": "glm-4.5"
 }

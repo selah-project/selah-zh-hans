@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-chronicles 33:1",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 33,
   "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59903,
+    "completion_tokens": 411,
+    "prompt_tokens": 59967,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 60461
+    "total_tokens": 60378
   },
-  "translation": "בֶּן שְׁתַּיִם עֶשְׂרֵה שָׁנָה 玛拿西 בְּ\/מָלְכוֹ; וַ\/חֲמִשִּׁים וְ\/חָמֵשׁ שָׁנָה מָלַךְ 耶路撒冷׃",
+  "translation": "玛拿西 ⟨是⟩ 十二岁 ⟨时开始⟩ 作王,在耶路撒冷作王五十五年",
   "tokens": [
     {
       "surface": "בן",
-      "english": "בֶּן"
+      "english": "子"
     },
     {
       "surface": "שתים",
-      "english": "שְׁתַּיִם"
+      "english": "十二"
     },
     {
       "surface": "עשרה",
-      "english": "עֶשְׂרֵה"
+      "english": "岁"
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה"
+      "english": "年"
     },
     {
       "surface": "מנשה",
@@ -40,29 +37,33 @@
     },
     {
       "surface": "במלכו",
-      "english": "בְּ\/מָלְכוֹ"
+      "english": "⟨时开始⟩ 作王"
     },
     {
-      "surface": "וחמשים",
-      "english": "וַ\/חֲמִשִּׁים"
+      "surface": "ו",
+      "english": "⟨and⟩"
     },
     {
-      "surface": "וחמש",
-      "english": "וְ\/חָמֵשׁ"
+      "surface": "חמשים",
+      "english": "五十"
+    },
+    {
+      "surface": "חמש",
+      "english": "五"
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה"
+      "english": "年"
     },
     {
       "surface": "מלך",
-      "english": "מָלַךְ"
+      "english": "作王"
     },
     {
       "surface": "בירושלם",
-      "english": "耶路撒冷"
+      "english": "在耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T02:34:18.202370533Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:58.035686687Z",
+  "model": "glm-4.5"
 }

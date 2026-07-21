@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "amos 1:11",
   "book": "amos",
   "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 970,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19523,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 20493
-  },
-  "translation": "כֹּה אָמַר יְהוָה: עַל שְׁלֹשָׁה פִּשְׁעֵי אֱדוֹם וְעַל אַרְבָּעָה לֹא אֲשִׁיבֶנּוּ, עַל רָדְפוֹ בַחֶרֶב אָחִיו וְשִׁחֵת רַחֲמָיו, וַיִּטְרֹף לָעַד אַפּוֹ וְעֶבְרָתוֹ שְׁמָרָה נָצַח.",
+  "translation": "雅威如此说：因以东的三桩过犯，甚至四桩，我必不撤销 ⟨其⟩ 刑罚；因 ⟨他⟩ 拿刀追赶 ⟨其⟩ 弟兄，竟毁弃 ⟨自己的⟩ 怜悯，且 ⟨他的⟩ 怒气永远撕裂，将 ⟨他的⟩ 愤怒保守到底。",
   "tokens": [
     {
       "surface": "כה",
@@ -32,15 +21,15 @@
     },
     {
       "surface": "על",
-      "english": "因着"
+      "english": "因"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "english": "三桩"
     },
     {
       "surface": "פשעי",
-      "english": "罪过"
+      "english": "过犯"
     },
     {
       "surface": "אדום",
@@ -48,11 +37,11 @@
     },
     {
       "surface": "ועל",
-      "english": "以及因着"
+      "english": "甚至"
     },
     {
       "surface": "ארבעה",
-      "english": "四"
+      "english": "四桩"
     },
     {
       "surface": "לא",
@@ -60,57 +49,62 @@
     },
     {
       "surface": "אשיבנו",
-      "english": "我将不撤回它"
+      "english": "撤销 ⟨其⟩ 刑罚",
+      "marks": "其刑罚"
     },
     {
       "surface": "על",
-      "english": "因为"
+      "english": "因"
     },
     {
       "surface": "רדפו",
-      "english": "他追逐"
+      "english": "追赶"
     },
     {
       "surface": "בחרב",
-      "english": "用刀剑"
+      "english": "拿刀"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "english": "⟨其⟩ 弟兄",
+      "marks": "其弟兄"
     },
     {
       "surface": "ושחת",
-      "english": "且毁坏了"
+      "english": "竟毁弃"
     },
     {
       "surface": "רחמיו",
-      "english": "他的怜悯"
+      "english": "⟨自己的⟩ 怜悯",
+      "marks": "自己的怜悯"
     },
     {
       "surface": "ויטרף",
-      "english": "且撕裂"
+      "english": "撕裂"
     },
     {
       "surface": "לעד",
-      "english": "不断地"
+      "english": "永远"
     },
     {
       "surface": "אפו",
-      "english": "他的怒气"
+      "english": "⟨他的⟩ 怒气",
+      "marks": "他的怒气"
     },
     {
       "surface": "ועברתו",
-      "english": "他的暴怒"
+      "english": "将 ⟨他的⟩ 愤怒",
+      "marks": "他的愤怒"
     },
     {
       "surface": "שמרה",
-      "english": "他守住"
+      "english": "保守"
     },
     {
       "surface": "נצח",
-      "english": "永远"
+      "english": "到底"
     }
   ],
-  "timestamp": "2026-07-17T23:19:26.752031139Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:38.525084084Z",
+  "model": "glm-4.5"
 }

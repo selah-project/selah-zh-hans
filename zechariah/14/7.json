@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "zechariah 14:7",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 14,
   "usage": {
-    "completion_tokens": 911,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18227,
+    "completion_tokens": 533,
+    "prompt_tokens": 18226,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 16512
     },
-    "total_tokens": 19138
+    "total_tokens": 18759
   },
-  "translation": "וְ\/הָיָ֣ה יוֹם אֶחָ֗ד ה֛וּא יִוָּדַ֥ע לַֽ\/יהוָ֖ה לֹא י֣וֹם וְ\/לֹא לָ֑יְלָה וְ\/הָיָ֥ה לְ\/עֵֽת עֶ֖רֶב יִֽהְיֶה אֽוֹר",
+  "translation": "那必是 ⟨一⟩日，⟨这⟩是被雅威 ⟨所⟩知 ⟨的⟩，不是白昼，也不是黑夜；到了晚上的时候，必有光。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "将是"
+      "english": "那必是"
     },
     {
       "surface": "יום",
@@ -28,23 +25,23 @@
     },
     {
       "surface": "אחד",
-      "english": "独一"
+      "english": "一"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "english": "这是"
     },
     {
       "surface": "יודע",
-      "english": "被认识"
+      "english": "被...所知"
     },
     {
       "surface": "ליהוה",
-      "english": "归于雅威"
+      "english": "雅威"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "不是"
     },
     {
       "surface": "יום",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "english": "也不是"
     },
     {
       "surface": "לילה",
@@ -60,25 +57,25 @@
     },
     {
       "surface": "והיה",
-      "english": "并将是"
+      "english": "必有"
     },
     {
       "surface": "לעת",
-      "english": "在……时"
+      "english": "到了...的时候"
     },
     {
       "surface": "ערב",
-      "english": "傍晚"
+      "english": "晚上"
     },
     {
       "surface": "יהיה",
-      "english": "将有"
+      "english": "有"
     },
     {
       "surface": "אור",
       "english": "光"
     }
   ],
-  "timestamp": "2026-07-17T23:37:47.990071412Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:05.935425084Z",
+  "model": "glm-4.5"
 }

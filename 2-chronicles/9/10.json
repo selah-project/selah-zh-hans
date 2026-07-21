@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-chronicles 9:10",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 852,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60215,
+    "completion_tokens": 513,
+    "prompt_tokens": 60289,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61067
+    "total_tokens": 60802
   },
-  "translation": "וְ\/גַם עַבְדֵ֤י 希兰 וְ\/עַבְדֵ֣י 所罗门 אֲשֶׁר הֵבִ֥יאוּ זָהָ֖ב 俄斐 הֵבִ֛יאוּ עֲצֵ֥י אַלְגּוּמִּ֖ים וְ\/אֶ֥בֶן יְקָרָֽה",
+  "translation": "希兰的仆人和所罗门的仆人,就是从俄斐带来金子的,也带来珍贵木和宝石",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "וְ\/גַם"
+      "english": "也"
     },
     {
       "surface": "עבדי",
-      "english": "עַבְדֵ֤י"
+      "english": "仆人"
     },
     {
       "surface": "חירם",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "ועבדי",
-      "english": "וְ\/עַבְדֵ֣י"
+      "english": "和仆人"
     },
     {
       "surface": "שלמה",
@@ -40,41 +37,41 @@
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "就是"
     },
     {
       "surface": "הביאו",
-      "english": "הֵבִ֥יאוּ"
+      "english": "带来"
     },
     {
       "surface": "זהב",
-      "english": "זָהָ֖ב"
+      "english": "金子"
     },
     {
       "surface": "מאופיר",
-      "english": "俄斐"
+      "english": "从俄斐"
     },
     {
       "surface": "הביאו",
-      "english": "הֵבִ֛יאוּ"
+      "english": "带来"
     },
     {
       "surface": "עצי",
-      "english": "עֲצֵ֥י"
+      "english": "珍贵木"
     },
     {
       "surface": "אלגומים",
-      "english": "אַלְגּוּמִּ֖ים"
+      "english": ""
     },
     {
       "surface": "ואבן",
-      "english": "וְ\/אֶ֥בֶן"
+      "english": "和宝石"
     },
     {
       "surface": "יקרה",
-      "english": "יְקָרָֽה"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T03:10:37.950514409Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:26.448686098Z",
+  "model": "glm-4.5"
 }

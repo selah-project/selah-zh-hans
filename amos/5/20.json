@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "amos 5:20",
   "book": "amos",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 714,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18096,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18810
-  },
-  "translation": "הלא איננו חשך יום יהוה, ולא אור, ואפל ולא נוגה לו?",
+  "translation": "雅威的日子 ⟨岂不是⟩ 黑暗,而不是光吗? ⟨岂不是⟩ 幽暗,而且 ⟨对他而言⟩ 没有光辉吗?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "הלא \/ האם לא"
+      "english": "⟨岂不是⟩"
     },
     {
       "surface": "חשך",
-      "english": "חושך"
+      "english": "黑暗"
     },
     {
       "surface": "יום",
-      "english": "יום"
+      "english": "日子"
     },
     {
       "surface": "יהוה",
@@ -36,29 +25,29 @@
     },
     {
       "surface": "ולא",
-      "english": "ולא"
+      "english": "而不是"
     },
     {
       "surface": "אור",
-      "english": "אור"
+      "english": "光"
     },
     {
       "surface": "ואפל",
-      "english": "ואפלה"
+      "english": "幽暗"
     },
     {
       "surface": "ולא",
-      "english": "ולא"
+      "english": "而且...没有"
     },
     {
       "surface": "נגה",
-      "english": "זוהר"
+      "english": "光辉"
     },
     {
       "surface": "לו",
-      "english": "לו \/ בתוכו"
+      "english": "⟨对他而言⟩"
     }
   ],
-  "timestamp": "2026-07-17T23:21:03.208271171Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:06.205916761Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "1-chronicles 7:8",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 712,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59462,
+    "completion_tokens": 388,
+    "prompt_tokens": 59539,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60174
+    "total_tokens": 59927
   },
-  "translation": "בֶּכֶר (בָּכֶר) 的子是：זְמִירָה、וְ\/יוֹעָשׁ、וֶ\/אֱלִיעֶזֶר、וְ\/אֶלְיוֹעֵינַי、וְ\/עָמְרִי、וִ\/ירֵמוֹת、וַ\/אֲבִיָּה、וַ\/עֲנָתוֹת וְ\/עָלָמֶת；כָּל אֵלֶּה 是 בָּכֶר 的子。",
+  "translation": "比结的众子:细米拉、约阿施、以利以谢、以利约乃、暗利、耶摩特、亚比雅、亚拿突、亚拉麦。这一切 ⟨都是⟩ 比结的儿子。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "和……的子"
+      "english": "比结的众子"
     },
     {
       "surface": "בכר",
@@ -32,39 +29,39 @@
     },
     {
       "surface": "ויועש",
-      "english": "和"
+      "english": "约阿施"
     },
     {
       "surface": "ואליעזר",
-      "english": "和"
+      "english": "以利以谢"
     },
     {
       "surface": "ואליועיני",
-      "english": "和"
+      "english": "以利约乃"
     },
     {
       "surface": "ועמרי",
-      "english": "和"
+      "english": "暗利"
     },
     {
       "surface": "וירמות",
-      "english": "和"
+      "english": "耶摩特"
     },
     {
       "surface": "ואביה",
-      "english": "和"
+      "english": "亚比雅"
     },
     {
       "surface": "וענתות",
-      "english": "和"
+      "english": "亚拿突"
     },
     {
       "surface": "ועלמת",
-      "english": "和"
+      "english": "亚拉麦"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "english": "这一切"
     },
     {
       "surface": "אלה",
@@ -72,13 +69,13 @@
     },
     {
       "surface": "בני",
-      "english": "的子"
+      "english": "儿子"
     },
     {
       "surface": "בכר",
       "english": "比结"
     }
   ],
-  "timestamp": "2026-07-18T03:09:59.446032340Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:05.287010041Z",
+  "model": "glm-4.5"
 }

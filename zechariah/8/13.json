@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "zechariah 8:13",
   "book": "zechariah",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 883,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18988,
+    "completion_tokens": 608,
+    "prompt_tokens": 19064,
     "prompt_tokens_details": {
-      "cached_tokens": 16576
+      "cached_tokens": 16512
     },
-    "total_tokens": 19871
+    "total_tokens": 19672
   },
-  "translation": "וְ\/הָיָ֡ה כַּ\/אֲשֶׁר֩ הֱיִיתֶ֨ם קְלָלָ֜ה בַּ\/גּוֹיִ֗ם בֵּ֤ית יְהוּדָה֙ וּ\/בֵ֣ית יִשְׂרָאֵ֔ל כֵּ֚ן אוֹשִׁ֣יעַ ⟨את⟩כֶ֔ם וִ\/הְיִיתֶ֖ם בְּרָכָ֑ה אַל תִּירָ֖אוּ תֶּחֱזַ֥קְנָה יְדֵי\/כֶֽם׃",
+  "translation": "这事 ⟨将要⟩ 成就:从前你们在列国中 ⟨是⟩ 诅咒,犹大家和以色列家 ⟨啊⟩,照样 ⟨我必⟩ 拯救 ⟨את⟩ 你们,你们 ⟨必⟩ 成为祝福;不要惧怕,你们的手 ⟨要⟩ 刚强。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "事情将要发生，正如……"
+      "english": "这事 ⟨将要⟩ 成就"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "english": "从前"
     },
     {
       "surface": "הייתם",
-      "english": "你们曾是"
+      "english": "你们 ⟨是⟩"
     },
     {
       "surface": "קללה",
-      "english": "咒诅"
+      "english": "诅咒"
     },
     {
       "surface": "בגוים",
@@ -60,15 +57,16 @@
     },
     {
       "surface": "אושיע",
-      "english": "我将拯救"
+      "english": "⟨我必⟩ 拯救"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩你们"
+      "english": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "והייתם",
-      "english": "你们将成为"
+      "english": "你们 ⟨必⟩ 成为"
     },
     {
       "surface": "ברכה",
@@ -80,17 +78,17 @@
     },
     {
       "surface": "תיראו",
-      "english": "恐惧"
+      "english": "惧怕"
     },
     {
       "surface": "תחזקנה",
-      "english": "愿它们坚固"
+      "english": "你们的手 ⟨要⟩ 刚强"
     },
     {
       "surface": "ידיכם",
-      "english": "你们的手"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T03:03:50.584564207Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:48.306400489Z",
+  "model": "glm-4.5"
 }

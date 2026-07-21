@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "exodus 38:23",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 38,
   "usage": {
-    "completion_tokens": 754,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19203,
+    "completion_tokens": 603,
+    "prompt_tokens": 19294,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19957
+    "total_tokens": 19897
   },
-  "translation": "וְ\/אִתּ֗\/וֹ אָהֳלִיאָ֞ב בֶּן אֲחִיסָמָ֛ךְ לְ\/מַטֵּה דָ֖ן חָרָ֣שׁ וְ\/חֹשֵׁ֑ב וְ\/רֹקֵ֗ם בַּ\/תְּכֵ֨לֶת֙ וּ\/בָֽ\/אַרְגָּמָ֔ן וּ\/בְ\/תוֹלַ֥עַת הַ\/שָּׁנִ֖י וּ\/בַ\/שֵּֽׁשׁ",
+  "translation": "以及与他同在的,是但支派亚希撒玛的儿子阿何利亚巴,他是雕刻匠,又是精巧的工匠,并且是在蓝色、紫色、朱红色和细麻中做刺绣工的。",
   "tokens": [
     {
       "surface": "ואתו",
-      "english": "与⟨他⟩一起"
+      "english": "以及与他同在的"
     },
     {
       "surface": "אהליאב",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "בן",
-      "english": "本"
+      "english": "儿子"
     },
     {
       "surface": "אחיסמך",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "למטה",
-      "english": "属但支派"
+      "english": "支派"
     },
     {
       "surface": "דן",
@@ -44,37 +41,37 @@
     },
     {
       "surface": "חרש",
-      "english": "工匠"
+      "english": "雕刻匠"
     },
     {
       "surface": "וחשב",
-      "english": "与设计师"
+      "english": "又是精巧的工匠"
     },
     {
       "surface": "ורקם",
-      "english": "与绣花匠"
+      "english": "并且是...做刺绣工的"
     },
     {
       "surface": "בתכלת",
-      "english": "用蓝线"
+      "english": "在蓝色"
     },
     {
       "surface": "ובארגמן",
-      "english": "用紫线"
+      "english": "紫色"
     },
     {
       "surface": "ובתולעת",
-      "english": "用朱红色线"
+      "english": "朱红色"
     },
     {
       "surface": "השני",
-      "english": "朱红"
+      "english": "细麻"
     },
     {
       "surface": "ובשש",
-      "english": "用细麻"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:38:06.005895587Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:40.937114697Z",
+  "model": "glm-4.5"
 }

@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "1-kings 9:20",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 648,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64530,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65178
-  },
-  "translation": "כל העם הנותר מן 亚摩利 赫人女子 הפרזי החוי והיבוסי אשר לא מבני 以色列 המה",
+  "translation": "凡剩下 ⟨的⟩ 亚摩利人、赫人、比利洗人、希未人和耶布斯人,不 ⟨是⟩ 以色列 ⟨子⟩ 的 民 — 他们",
   "tokens": [
     {
-      "surface": "כָּל",
-      "english": "כל"
+      "surface": "כל",
+      "english": "凡"
     },
     {
-      "surface": "הָ\/עָם",
-      "english": "העם"
+      "surface": "העם",
+      "english": "的 民"
     },
     {
-      "surface": "הַ\/נּוֹתָר",
-      "english": "הנותר"
+      "surface": "הנותר",
+      "english": "剩下"
     },
     {
-      "surface": "מִן",
-      "english": "מן"
+      "surface": "מן",
+      "english": ""
     },
     {
-      "surface": "הָ\/אֱמֹרִי",
-      "english": "亚摩利"
+      "surface": "האמרי",
+      "english": "亚摩利人"
     },
     {
-      "surface": "הַ\/חִתִּי",
-      "english": "赫人女子"
+      "surface": "החתי",
+      "english": "赫人"
     },
     {
-      "surface": "הַ\/פְּרִזִּי",
-      "english": "הפרזי"
+      "surface": "הפרזי",
+      "english": "比利洗人"
     },
     {
-      "surface": "הַ\/חִוִּי",
-      "english": "החוי"
+      "surface": "החוי",
+      "english": "希未人"
     },
     {
-      "surface": "וְ\/הַ\/יְבוּסִי",
-      "english": "והיבוסי"
+      "surface": "והיבוסי",
+      "english": "和耶布斯人"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": ""
     },
     {
-      "surface": "לֹא",
-      "english": "לא"
+      "surface": "לא",
+      "english": "不 ⟨是⟩"
     },
     {
-      "surface": "מִ\/בְּנֵי",
-      "english": "מבני"
+      "surface": "מבני",
+      "english": "以色列 ⟨子⟩ 的"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הֵֽמָּה",
-      "english": "המה"
+      "surface": "המה",
+      "english": "他们"
     }
   ],
-  "timestamp": "2026-07-17T21:04:53.493016722Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:47:58.022903478Z",
+  "model": "glm-4.5"
 }

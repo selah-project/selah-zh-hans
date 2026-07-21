@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "1-kings 12:20",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 1115,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65819,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66934
-  },
-  "translation": "כל 以色列 היה שומע כי 耶罗波安 שב, וישלחו ויקראו לו אל העדה, וימליכו אותו על כל 以色列. לא היה איש אחרי בית 大卫 זולתי שבט 犹大 לבדו.",
+  "translation": "这事发生以后,以色列全家听见耶罗波安回来了,就派人去,召他到会众面前,立他作以色列全家的王;跟随大卫家的,只有犹大支派独自一人。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "ויהי"
+      "english": "这事发生以后"
     },
     {
       "surface": "כשמע",
-      "english": "בשמע"
+      "english": "听见"
     },
     {
       "surface": "כל",
-      "english": "כל"
+      "english": "全家"
     },
     {
       "surface": "ישראל",
@@ -36,11 +25,11 @@
     },
     {
       "surface": "כי",
-      "english": "כי"
+      "english": ""
     },
     {
       "surface": "שב",
-      "english": "שב"
+      "english": "回来了"
     },
     {
       "surface": "ירבעם",
@@ -48,41 +37,41 @@
     },
     {
       "surface": "וישלחו",
-      "english": "וישלחו"
+      "english": "就派人去"
     },
     {
       "surface": "ויקראו",
-      "english": "ויקראו"
+      "english": "召他"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
-      "marks": "אל"
+      "english": "",
+      "marks": "到...面前"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "到"
     },
     {
       "surface": "העדה",
-      "english": "העדה"
+      "english": "会众"
     },
     {
       "surface": "וימליכו",
-      "english": "וימליכו"
+      "english": "立他作"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
-      "marks": "על"
+      "english": "",
+      "marks": "以色列全家的王"
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "作...的王"
     },
     {
       "surface": "כל",
-      "english": "כל"
+      "english": "全家"
     },
     {
       "surface": "ישראל",
@@ -90,19 +79,19 @@
     },
     {
       "surface": "לא",
-      "english": "לא"
+      "english": "没有"
     },
     {
       "surface": "היה",
-      "english": "היה"
+      "english": ""
     },
     {
       "surface": "אחרי",
-      "english": "אחרי"
+      "english": "跟随"
     },
     {
       "surface": "בית",
-      "english": "בית"
+      "english": "家"
     },
     {
       "surface": "דוד",
@@ -110,11 +99,11 @@
     },
     {
       "surface": "זולתי",
-      "english": "זולתי"
+      "english": "除了"
     },
     {
       "surface": "שבט",
-      "english": "שבט"
+      "english": "支派"
     },
     {
       "surface": "יהודה",
@@ -122,9 +111,9 @@
     },
     {
       "surface": "לבדו",
-      "english": "לבדו"
+      "english": "独自一人"
     }
   ],
-  "timestamp": "2026-07-17T21:07:34.166799579Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:36.481058779Z",
+  "model": "glm-4.5"
 }

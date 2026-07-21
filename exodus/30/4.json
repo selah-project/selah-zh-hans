@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "exodus 30:4",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 778,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19628,
+    "completion_tokens": 639,
+    "prompt_tokens": 19627,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 20406
+    "total_tokens": 20266
   },
-  "translation": "וְשְׁתֵּי טַבְּעֹת זָהָב תַּעֲשֶׂה־לּוֹ מִתַּחַת לְזֵרוֹ עַל שְׁתֵּי צַלְעֹתָיו תַּעֲשֶׂה אוֹתָן עַל שְׁנֵי צִדָּיו וְהָיוּ לְבָתִּים לְבַדִּים לָשֵׂאת אֶת־הַמִּזְבֵּחַ בָּהֵם׃",
+  "translation": "你要为它做两个金环 ⟨在⟩ 它的冠冕 ⟨之下⟩，在它的两个翘边上，在它的两侧，你要做它们；它们要作为杆子的座 ⟨用它们⟩ 来抬它。",
   "tokens": [
     {
       "surface": "ושתי",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "טבעת",
-      "english": "环"
+      "english": "金环"
     },
     {
       "surface": "זהב",
@@ -32,15 +29,15 @@
     },
     {
       "surface": "תעשה",
-      "english": "你应做"
+      "english": "你要做"
     },
     {
       "surface": "לו",
-      "english": "给它"
+      "english": "为它"
     },
     {
       "surface": "מתחת",
-      "english": "在……之下"
+      "english": "⟨在⟩...⟨之下⟩"
     },
     {
       "surface": "לזרו",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
       "surface": "שתי",
@@ -56,15 +53,15 @@
     },
     {
       "surface": "צלעתיו",
-      "english": "它的侧板"
+      "english": "它的翘边"
     },
     {
       "surface": "תעשה",
-      "english": "你应做"
+      "english": "你要做"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
       "surface": "שני",
@@ -72,23 +69,23 @@
     },
     {
       "surface": "צדיו",
-      "english": "它的边"
+      "english": "两侧"
     },
     {
       "surface": "והיה",
-      "english": "它们就作为"
+      "english": "它们要成为"
     },
     {
       "surface": "לבתים",
-      "english": "插座"
+      "english": "座"
     },
     {
       "surface": "לבדים",
-      "english": "杠"
+      "english": "给杆子"
     },
     {
       "surface": "לשאת",
-      "english": "用来抬"
+      "english": "来抬"
     },
     {
       "surface": "אתו",
@@ -100,6 +97,6 @@
       "english": "用它们"
     }
   ],
-  "timestamp": "2026-07-17T18:32:18.849064249Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:25.335842884Z",
+  "model": "glm-4.5"
 }

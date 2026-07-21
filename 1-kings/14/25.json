@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "1-kings 14:25",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64255,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64721
-  },
-  "translation": "וַ\/יְהִ֛י בַּ\/שָּׁנָ֥ה הַ\/חֲמִישִׁ֖ית לַ\/מֶּ֣לֶךְ רְחַבְעָ֑ם עָלָ֛ה שושק מֶֽלֶךְ מִצְרַ֖יִם עַל יְרוּשָׁלִָֽם",
+  "translation": "罗波安王第五年,埃及王示撒上来攻击耶路撒冷",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "发生了"
+      "english": "⟨那时⟩"
     },
     {
       "surface": "בשנה",
-      "english": "在……年"
+      "english": "⟨在⟩...年"
     },
     {
       "surface": "החמישית",
@@ -32,7 +21,7 @@
     },
     {
       "surface": "למלך",
-      "english": "作王的"
+      "english": "⟨属于⟩...王"
     },
     {
       "surface": "רחבעם",
@@ -56,13 +45,13 @@
     },
     {
       "surface": "על",
-      "english": "进攻"
+      "english": "攻击"
     },
     {
       "surface": "ירושלם",
       "english": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-17T21:09:19.519415429Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:18.755759032Z",
+  "model": "glm-4.5"
 }

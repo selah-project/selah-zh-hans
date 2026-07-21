@@ -1,47 +1,36 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "1-kings 2:37",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 872,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64754,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65626
-  },
-  "translation": "והיה ביום צאתך ועברת את נחל 汲沦, ידע תדע כי מות תמות; דמך יהיה בראשך. (בְּיוֹם צֵאתְךָ וְעָבַרְתָּ אֶת־נַחַל קִדְרוֹן, יָדֹעַ תֵּדַע כִּי־מוֹת תָּמוּת; דָּמְךָ יִהְיֶה בְּרֹאשֶׁךָ׃)",
+  "translation": "在你出去的日子,你过汲沦溪,你必确实知道:你必死,你的血必在你自己的头上。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "והיה"
+      "english": "在……的日子"
     },
     {
       "surface": "ביום",
-      "english": "ביום"
+      "english": "在你出去的日子"
     },
     {
       "surface": "צאתך",
-      "english": "צאתך"
+      "english": "你出去"
     },
     {
       "surface": "ועברת",
-      "english": "ועברת"
+      "english": "你过"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "נחל (הנחל)"
+      "marks": "汲沦溪"
     },
     {
       "surface": "נחל",
-      "english": "נחל"
+      "english": "汲沦溪"
     },
     {
       "surface": "קדרון",
@@ -49,37 +38,37 @@
     },
     {
       "surface": "ידע",
-      "english": "ידע"
+      "english": "你必确实知道"
     },
     {
       "surface": "תדע",
-      "english": "תדע"
+      "english": "你必确实知道"
     },
     {
       "surface": "כי",
-      "english": "כי"
+      "english": "知道:你必"
     },
     {
       "surface": "מות",
-      "english": "מות"
+      "english": "你必死"
     },
     {
       "surface": "תמות",
-      "english": "תמות"
+      "english": "你必死"
     },
     {
       "surface": "דמך",
-      "english": "דמך"
+      "english": "你的血"
     },
     {
       "surface": "יהיה",
-      "english": "יהיה"
+      "english": "必在你"
     },
     {
       "surface": "בראשך",
-      "english": "בראשך"
+      "english": "你自己的头上"
     }
   ],
-  "timestamp": "2026-07-17T20:58:38.710919207Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:59.400613299Z",
+  "model": "glm-4.5"
 }

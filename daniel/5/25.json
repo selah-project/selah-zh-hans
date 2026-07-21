@@ -1,56 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "daniel 5:25",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18644,
+    "completion_tokens": 516,
+    "prompt_tokens": 18643,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 17536
     },
-    "total_tokens": 19261
+    "total_tokens": 19159
   },
-  "translation": "这就是那文字的记录:מְנֵא מְנֵא תְּקֵל וּ\/פַרְסִין。",
+  "translation": "而这 ⟨是⟩ 被写下的 ⟨את⟩ 字迹：מנא מנא תקל ופרסין",
   "tokens": [
     {
-      "surface": "וּ\/דְנָ֥ה",
-      "english": "而⟨这是⟩"
+      "surface": "ודנה",
+      "english": "而这"
     },
     {
-      "surface": "כְתָבָ֖\/א",
-      "english": "那文字"
+      "surface": "כתבא",
+      "english": "被写下的"
     },
     {
-      "surface": "דִּ֣י",
-      "english": "那"
+      "surface": "די",
+      "english": "⟨是⟩"
     },
     {
-      "surface": "רְשִׁ֑ים",
-      "english": "被记录"
+      "surface": "רשים",
+      "english": "⟨את⟩",
+      "marks": "字迹"
     },
     {
-      "surface": "מְנֵ֥א",
-      "english": "מְנֵא"
+      "surface": "מנא",
+      "english": "מנא"
     },
     {
-      "surface": "מְנֵ֖א",
-      "english": "מְנֵא"
+      "surface": "מנא",
+      "english": "מנא"
     },
     {
-      "surface": "תְּקֵ֥ל",
-      "english": "תְּקֵל"
+      "surface": "תקל",
+      "english": "תקל"
     },
     {
-      "surface": "וּ\/פַרְסִֽין",
-      "english": "וּ\/פַרְסִין"
+      "surface": "ופרסין",
+      "english": "ופרסין"
     }
   ],
-  "timestamp": "2026-07-18T01:31:57.529242785Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:10.461722930Z",
+  "model": "glm-4.5"
 }

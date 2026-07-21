@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "isaiah 27:5",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 846,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20720,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21566
-  },
-  "translation": "א֚וֹ יַחֲזֵ֣ק בְּמָעוּזִּ֔י יַעֲשֶׂ֥ה שָׁל֖וֹם לִ֑י שָׁל֖וֹם יַֽעֲשֶׂה לִּֽי׃",
+  "translation": "抑或让他紧紧抓住我的力量,好与我和睦;他必与我和睦,与我和睦。",
   "tokens": [
     {
       "surface": "או",
-      "english": "אוֹ"
+      "english": "抑或"
     },
     {
-      "surface": "יַחֲזֵ֣ק",
-      "english": "יַחֲזֵ֣ק"
+      "surface": "יחזק",
+      "english": "让他紧紧抓住"
     },
     {
-      "surface": "בְּ\/מָעוּזִּ֔\/י",
-      "english": "בְּ\/מָעוּזִּ֔\/י"
+      "surface": "במעוזי",
+      "english": "我的力量"
     },
     {
-      "surface": "יַעֲשֶׂ֥ה",
-      "english": "יַעֲשֶׂ֥ה"
+      "surface": "יעשה",
+      "english": "好...做"
     },
     {
-      "surface": "שָׁל֖וֹם",
-      "english": "שָׁל֖וֹם"
+      "surface": "שלום",
+      "english": "和睦"
     },
     {
-      "surface": "לִ֑\/י",
-      "english": "לִ֑\/י"
+      "surface": "לי",
+      "english": "与我"
     },
     {
-      "surface": "שָׁל֖וֹם",
-      "english": "שָׁל֖וֹם"
+      "surface": "שלום",
+      "english": "和睦"
     },
     {
-      "surface": "יַֽעֲשֶׂה",
-      "english": "יַֽעֲשֶׂה"
+      "surface": "יעשה",
+      "english": "他必做"
     },
     {
-      "surface": "לִּֽ\/י",
-      "english": "לִּֽ\/י"
+      "surface": "לי",
+      "english": "与我"
     }
   ],
-  "timestamp": "2026-07-17T21:46:28.293180519Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:58.190928409Z",
+  "model": "glm-4.5"
 }

@@ -1,69 +1,66 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "1-chronicles 18:12",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59071,
+    "completion_tokens": 464,
+    "prompt_tokens": 59147,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59730
+    "total_tokens": 59611
   },
-  "translation": "亚比筛 בֶּן 洗鲁雅 הִכָּה ⟨את⟩ 以东 בְּ\/גֵיא הַמֶּלַח שְׁמוֹנָה עָשָׂר אָלֶף",
+  "translation": "亚比筛,洗鲁雅的儿子,在盐谷击打⟨了⟩以东,一万八千。",
   "tokens": [
     {
-      "surface": "וְ\/אַבְשַׁי",
+      "surface": "ואבשי",
       "english": "亚比筛"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֵּן"
+      "surface": "בן",
+      "english": "……的儿子"
     },
     {
-      "surface": "צְרוּיָה",
+      "surface": "צרויה",
       "english": "洗鲁雅"
     },
     {
-      "surface": "הִכָּה",
-      "english": "הִכָּה"
+      "surface": "הכה",
+      "english": "击打"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אֱדוֹם"
+      "marks": "以东"
     },
     {
-      "surface": "אֱדוֹם",
+      "surface": "אדום",
       "english": "以东"
     },
     {
-      "surface": "בְּ\/גֵיא",
-      "english": "בְּ\/גֵיא"
+      "surface": "בגיא",
+      "english": "在盐谷"
     },
     {
-      "surface": "הַמֶּלַח",
-      "english": "הַמֶּלַח"
+      "surface": "המלח",
+      "english": "盐"
     },
     {
-      "surface": "שְׁמוֹנָה",
-      "english": "שְׁמוֹנָה"
+      "surface": "שמונה",
+      "english": "一万八"
     },
     {
-      "surface": "עָשָׂר",
-      "english": "עָשָׂר"
+      "surface": "עשר",
+      "english": "十"
     },
     {
-      "surface": "אָלֶף",
-      "english": "אָלֶף"
+      "surface": "אלף",
+      "english": "千"
     }
   ],
-  "timestamp": "2026-07-18T02:05:33.485059380Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:31.351173132Z",
+  "model": "glm-4.5"
 }

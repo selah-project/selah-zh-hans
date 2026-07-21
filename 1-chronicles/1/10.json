@@ -1,61 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "1-chronicles 1:10",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 1,
   "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58792,
+    "completion_tokens": 353,
+    "prompt_tokens": 58855,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59387
+    "total_tokens": 59208
   },
-  "translation": "וְ\/כֽוּשׁ יָלַ֥ד אֶת־נִמְרֹ֖ד ה֥וּא הֵחֵ֛ל לִ\/הְי֥וֹת גִּבֹּ֖ר בָּ\/אָֽרֶץ׃",
+  "translation": "古实生了 ⟨את⟩ 宁录;他开始在地上成为强盛 ⟨者⟩。",
   "tokens": [
     {
-      "surface": "וְ\/כֽוּשׁ",
-      "english": "וְ\/כֽוּשׁ"
+      "surface": "וכוש",
+      "english": "古实"
     },
     {
-      "surface": "יָלַ֥ד",
-      "english": "יָלַ֥ד"
+      "surface": "ילד",
+      "english": "生了"
     },
     {
-      "surface": "אֶת־",
-      "english": "אֶת־",
-      "marks": "נִמְרֹ֖ד"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "宁录"
     },
     {
-      "surface": "נִמְרֹ֖ד",
-      "english": "נִמְרֹ֖ד"
+      "surface": "נמרוד",
+      "english": "宁录"
     },
     {
-      "surface": "ה֥וּא",
-      "english": "ה֥וּא"
+      "surface": "הוא",
+      "english": "他"
     },
     {
-      "surface": "הֵחֵ֛ל",
-      "english": "הֵחֵ֛ל"
+      "surface": "החל",
+      "english": "开始"
     },
     {
-      "surface": "לִ\/הְי֥וֹת",
-      "english": "לִ\/הְי֥וֹת"
+      "surface": "להיות",
+      "english": "成为"
     },
     {
-      "surface": "גִּבֹּ֖ר",
-      "english": "גִּבֹּ֖ר"
+      "surface": "גבור",
+      "english": "强盛 ⟨者⟩"
     },
     {
-      "surface": "בָּ\/אָֽרֶץ",
-      "english": "בָּ\/אָֽרֶץ"
+      "surface": "בארץ",
+      "english": "在地上"
     }
   ],
-  "timestamp": "2026-07-18T01:51:37.846776504Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:01.052371573Z",
+  "model": "glm-4.5"
 }

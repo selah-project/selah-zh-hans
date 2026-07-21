@@ -1,58 +1,55 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "1-chronicles 2:37",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58720,
+    "completion_tokens": 216,
+    "prompt_tokens": 58797,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59124
+    "total_tokens": 59013
   },
-  "translation": "וְ\/זָבָד הוֹלִיד אֶת אֶפְלָל, וְ\/אֶפְלָל הוֹלִיד אֶת עוֹבֵד.",
+  "translation": "撒巴得生⟨את⟩以弗拉勒,以弗拉勒生⟨את⟩俄备得,",
   "tokens": [
     {
-      "surface": "וְ\/זָבָד",
-      "english": "撒拔"
+      "surface": "וזבד",
+      "english": "撒巴得"
     },
     {
-      "surface": "הוֹלִיד",
-      "english": "生了"
+      "surface": "הוליד",
+      "english": "生"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
       "marks": "以弗拉勒"
     },
     {
-      "surface": "אֶפְלָל",
+      "surface": "אפלל",
       "english": "以弗拉勒"
     },
     {
-      "surface": "וְ\/אֶפְלָל",
+      "surface": "ואפלל",
       "english": "以弗拉勒"
     },
     {
-      "surface": "הוֹלִיד",
-      "english": "生了"
+      "surface": "הוליד",
+      "english": "生"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
       "marks": "俄备得"
     },
     {
-      "surface": "עוֹבֵד",
+      "surface": "עובד",
       "english": "俄备得"
     }
   ],
-  "timestamp": "2026-07-18T01:52:44.470188621Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:20.990996830Z",
+  "model": "glm-4.5"
 }

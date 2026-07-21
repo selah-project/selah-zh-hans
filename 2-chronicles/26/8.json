@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "2-chronicles 26:8",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60122,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60667
-  },
-  "translation": "亚扪人 ⟨העמונים⟩ 向乌西雅 לעזיהוּ 进贡 מנחה，他 לשמוֹ 的名传到埃及的入口 עד לבוא מצרים，因为他 כי החזיק 极其强盛 עד למעלה。",
+  "translation": "亚扪人给乌西雅进贡,他的名声传到埃及的入口,因为他变得极其强盛。",
   "tokens": [
     {
       "surface": "ויתנו",
-      "english": "他们就献上 \/ 他们就交出"
+      "english": "给"
     },
     {
       "surface": "העמונים",
@@ -28,27 +17,27 @@
     },
     {
       "surface": "מנחה",
-      "english": "贡品"
+      "english": "进贡"
     },
     {
       "surface": "לעזיהו",
-      "english": "给乌西雅"
+      "english": "乌西雅"
     },
     {
       "surface": "וילך",
-      "english": "⟨他的⟩名声就传开"
+      "english": "传到"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "english": "他的名声"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "english": "到"
     },
     {
       "surface": "לבוא",
-      "english": "进入"
+      "english": "埃及的入口"
     },
     {
       "surface": "מצרים",
@@ -60,17 +49,17 @@
     },
     {
       "surface": "החזיק",
-      "english": "他强盛"
+      "english": "变得"
     },
     {
       "surface": "עד",
-      "english": "到极点"
+      "english": "极其"
     },
     {
       "surface": "למעלה",
-      "english": "最高处"
+      "english": "强盛"
     }
   ],
-  "timestamp": "2026-07-18T02:29:23.757005788Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:07.278910905Z",
+  "model": "glm-4.5"
 }

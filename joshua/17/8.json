@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "joshua 17:8",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18230,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18823
-  },
-  "translation": "לְ玛拿西 הָיְתָה אֶרֶץ 塔普亚; וְתַפּוּחַ אֶל גְּבוּל 玛拿西 לִבְנֵי 以法莲׃",
+  "translation": "归玛拿西的⟨是⟩塔普亚地,但塔普亚——靠近玛拿西的边界——⟨属于⟩以法莲的子孙。",
   "tokens": [
     {
       "surface": "למנשה",
-      "english": "玛拿西"
+      "english": "归玛拿西"
     },
     {
       "surface": "היתה",
-      "english": "הָיְתָה"
+      "english": "⟨是⟩"
     },
     {
       "surface": "ארץ",
-      "english": "אֶרֶץ"
+      "english": "塔普亚地"
     },
     {
       "surface": "תפוח",
@@ -36,15 +25,15 @@
     },
     {
       "surface": "ותפוח",
-      "english": "וְתַפּוּחַ"
+      "english": "但塔普亚"
     },
     {
       "surface": "אל",
-      "english": "אֶל"
+      "english": "靠近"
     },
     {
       "surface": "גבול",
-      "english": "גְּבוּל"
+      "english": "边界"
     },
     {
       "surface": "מנשה",
@@ -52,13 +41,13 @@
     },
     {
       "surface": "לבני",
-      "english": "לִבְנֵי"
+      "english": "⟨属于⟩...的子孙"
     },
     {
       "surface": "אפרים",
       "english": "以法莲"
     }
   ],
-  "timestamp": "2026-07-17T20:00:58.739868655Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:47:05.699349507Z",
+  "model": "glm-4.5"
 }

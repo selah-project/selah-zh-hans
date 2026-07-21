@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "job 21:22",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21464,
+    "completion_tokens": 346,
+    "prompt_tokens": 21463,
     "prompt_tokens_details": {
       "cached_tokens": 20608
     },
-    "total_tokens": 22049
+    "total_tokens": 21809
   },
-  "translation": "האם לְאֵל ⟨יְלַמֶּד⟩ דָּעַת, וְהוּא רָמִים יִשְׁפּוֹט?",
+  "translation": "岂有人以此教导以罗欣知识？⟨祂⟩审判那些高处的。",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "האם לְאֵל"
+      "english": "岂有人以此教导以罗欣"
     },
     {
       "surface": "ילמד",
-      "english": "⟨יְלַמֶּד⟩"
+      "english": "教导"
     },
     {
       "surface": "דעת",
-      "english": "דָּעַת"
+      "english": "知识"
     },
     {
       "surface": "והוא",
-      "english": "וְהוּא"
+      "english": "⟨祂⟩"
     },
     {
       "surface": "רמים",
-      "english": "רָמִים"
+      "english": "那些高处的"
     },
     {
       "surface": "ישפוט",
-      "english": "יִשְׁפּוֹט"
+      "english": "审判"
     }
   ],
-  "timestamp": "2026-07-18T00:59:20.748128870Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:54.568325670Z",
+  "model": "glm-4.5"
 }

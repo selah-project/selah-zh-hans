@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "daniel 11:12",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 11,
   "usage": {
-    "completion_tokens": 876,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18778,
+    "completion_tokens": 431,
+    "prompt_tokens": 18777,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 17536
     },
-    "total_tokens": 19654
+    "total_tokens": 19208
   },
-  "translation": "וְהַהָמוֹן יִשָּׂא אֶת־לְבָבוֹ וְהִפִּיל רִבֹּאוֹת וְלֹא־יָעֽוֹז׃",
+  "translation": "并且 ⟨他⟩ 必提走 ⟨那⟩ 群众，他的心必高傲；他必击倒 万千，但 ⟨他⟩ 必不致强盛。",
   "tokens": [
     {
-      "surface": "וְ\/נִשָּׂא",
-      "hebrew": "וְנִשָּׂא",
-      "english": "וְנִשָּׂא"
+      "surface": "ונשא",
+      "english": "并且 ⟨他⟩ 必提走"
     },
     {
-      "surface": "הֶ\/הָמוֹן",
-      "hebrew": "הֲמוֹן",
-      "english": "הֲמוֹן"
+      "surface": "ההמון",
+      "english": "⟨那⟩ 群众"
     },
     {
-      "surface": "יָרוּם",
-      "hebrew": "יָרוּם",
-      "english": "יָרוּם"
+      "surface": "ירום",
+      "english": "他的心必高傲"
     },
     {
-      "surface": "לְבָב\/וֹ",
-      "hebrew": "לְבָבִי",
-      "english": "לִבִּי"
+      "surface": "לבבו",
+      "english": ""
     },
     {
-      "surface": "וְ\/הִפִּיל",
-      "hebrew": "וְהִפִּיל",
-      "english": "וְהִפִּיל"
+      "surface": "והפיל",
+      "english": "他必击倒"
     },
     {
-      "surface": "רִבֹּאוֹת",
-      "hebrew": "רִבֹּאוֹת",
-      "english": "רִבֹּאוֹת"
+      "surface": "רבאות",
+      "english": "万千"
     },
     {
-      "surface": "וְ\/לֹא",
-      "hebrew": "וְלֹא",
-      "english": "וְלֹא"
+      "surface": "ולא",
+      "english": "但"
     },
     {
-      "surface": "יָעֽוֹז",
-      "hebrew": "יָעוֹז",
-      "english": "יָעוֹז"
+      "surface": "יעוז",
+      "english": "⟨他⟩ 必不致强盛"
     }
   ],
-  "timestamp": "2026-07-18T01:35:31.616037046Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:12.506030389Z",
+  "model": "glm-4.5"
 }

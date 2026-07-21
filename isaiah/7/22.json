@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "isaiah 7:22",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 736,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21128,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21864
-  },
-  "translation": "והיה מרב עשות חלב יאכל חמאה כי חמאה ודבש יאכל כל הנותר בקרב הארץ",
+  "translation": "事情将要发生：由于出产的乳丰富，他要吃凝乳；因为所有在 雅威之地中央剩下的人都要吃凝乳和蜜。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "והיה (והיה → יהוה 在本书折叠中四次相配,分数15)"
+      "surface": "והיה",
+      "english": "事情将要发生"
     },
     {
-      "surface": "מֵ\/רֹ֛ב",
-      "english": "מרב"
+      "surface": "מרב",
+      "english": "由于...丰富"
     },
     {
-      "surface": "עֲשׂ֥וֹת",
-      "english": "עשות"
+      "surface": "עשות",
+      "english": "出产的"
     },
     {
-      "surface": "חָלָ֖ב",
-      "english": "חלב"
+      "surface": "חלב",
+      "english": "乳"
     },
     {
-      "surface": "יֹאכַ֣ל",
-      "english": "יאכל"
+      "surface": "יאכל",
+      "english": "他要吃"
     },
     {
-      "surface": "חֶמְאָ֑ה",
-      "english": "חמאה"
+      "surface": "חמאה",
+      "english": "凝乳"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "חֶמְאָ֤ה",
-      "english": "חמאה"
+      "surface": "חמאה",
+      "english": "凝乳"
     },
     {
-      "surface": "וּ\/דְבַשׁ֙",
-      "english": "ודבש"
+      "surface": "ודבש",
+      "english": "和蜜"
     },
     {
-      "surface": "יֹאכֵ֔ל",
-      "english": "יאכל"
+      "surface": "יאכל",
+      "english": "都要吃"
     },
     {
-      "surface": "כָּל",
-      "english": "כל"
+      "surface": "כל",
+      "english": "所有"
     },
     {
-      "surface": "הַ\/נּוֹתָ֖ר",
-      "english": "הנותר"
+      "surface": "הנותר",
+      "english": "剩下的人"
     },
     {
-      "surface": "בְּ\/קֶ֥רֶב",
-      "english": "בקרב"
+      "surface": "בקרב",
+      "english": "在...中央"
     },
     {
-      "surface": "הָ\/אָֽרֶץ",
-      "english": "הארץ"
+      "surface": "הארץ",
+      "english": "雅威之地"
     }
   ],
-  "timestamp": "2026-07-17T21:37:52.475977946Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:10.297360654Z",
+  "model": "glm-4.5"
 }

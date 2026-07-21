@@ -1,56 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "daniel 3:4",
   "book": "daniel",
   "lang": "zh-Hans",
   "chapter": 3,
   "usage": {
-    "completion_tokens": 897,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18751,
+    "completion_tokens": 444,
+    "prompt_tokens": 18873,
     "prompt_tokens_details": {
-      "cached_tokens": 17600
+      "cached_tokens": 4864
     },
-    "total_tokens": 19648
+    "total_tokens": 19317
   },
-  "translation": "וְ\/כָרוֹזָ֖\/א (传令官) קָרֵ֣א (呼叫) בְ\/חָ֑יִל (大能): לְ\/כ֤וֹן (对你们) אָֽמְרִין֙ (说) —— ⟨呼召⟩ עַֽמְמַיָּ֔\/א (各族)、אֻמַּיָּ֖\/א (各邦) וְ\/לִשָּׁנַיָּֽ\/א (各方言的民):",
+  "translation": "有传令官大声宣告:众民啊、邦国啊、语言啊,这是对你们发出的命令 ⟨כון⟩:",
   "tokens": [
     {
-      "surface": "וְ\/כָרוֹזָ֖\/א",
-      "english": "וְ\/כָרוֹזָ֖\/א (传令官)"
+      "surface": "וכרוזא",
+      "english": "有传令官"
     },
     {
-      "surface": "קָרֵ֣א",
-      "english": "קָרֵ֣א (呼叫)"
+      "surface": "קרא",
+      "english": "大声宣告"
     },
     {
-      "surface": "בְ\/חָ֑יִל",
-      "english": "בְ\/חָ֑יִל (大能)"
+      "surface": "בחיל",
+      "english": "用力量"
     },
     {
-      "surface": "לְ\/כ֤וֹן",
-      "english": "לְ\/כ֤וֹן (对你们)"
+      "surface": "לכון",
+      "english": "כון",
+      "marks": "听吧 \/ 听着"
     },
     {
-      "surface": "אָֽמְרִין֙",
-      "english": "אָֽמְרִין֙ (说)"
+      "surface": "אמרין",
+      "english": "这是 ⟨命令⟩"
     },
     {
-      "surface": "עַֽמְמַיָּ֔\/א",
-      "english": "עַֽמְמַיָּ֔\/א (各族)"
+      "surface": "עממיא",
+      "english": "众民啊"
     },
     {
-      "surface": "אֻמַּיָּ֖\/א",
-      "english": "אֻמַּיָּ֖\/א (各邦)"
+      "surface": "אמיא",
+      "english": "邦国啊"
     },
     {
-      "surface": "וְ\/לִשָּׁנַיָּֽ\/א",
-      "english": "וְ\/לִשָּׁנַיָּֽ\/א (各方言的民)"
+      "surface": "ולשניא",
+      "english": "语言啊"
     }
   ],
-  "timestamp": "2026-07-18T01:29:50.350980578Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:28:07.573547200Z",
+  "model": "glm-4.5"
 }

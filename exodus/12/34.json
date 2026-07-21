@@ -1,69 +1,66 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 34,
   "ref": "exodus 12:34",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 835,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18956,
+    "completion_tokens": 467,
+    "prompt_tokens": 18955,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19791
+    "total_tokens": 19422
   },
-  "translation": "⟨וַיִּשָּׂא⟩ 百姓 ⟨את⟩ 他们的面团,⟨טֶרֶם⟩ ⟨יֶחְמָץ⟩;他们的揉面盆 ⟨צְרֻרֹת⟩ 在 ⟨בְּ\/שִׂמְלֹתָם⟩ 中,⟨עַל⟩ ⟨שְׁכָמָם⟩。",
+  "translation": "百姓就把他们的面团的⟨את⟩在它变酸之前,他们的揉面盆包在衣服里,在他们的肩头上",
   "tokens": [
     {
-      "surface": "וַ\/יִּשָּׂא",
-      "english": "⟨וַיִּשָּׂא⟩"
+      "surface": "וישא",
+      "english": "百姓就把"
     },
     {
-      "surface": "הָ\/עָם",
+      "surface": "העם",
       "english": "百姓"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他们的面团"
+      "marks": "面团"
     },
     {
-      "surface": "בְּצֵקוֹ",
+      "surface": "בצקו",
       "english": "他们的面团"
     },
     {
-      "surface": "טֶרֶם",
-      "english": "⟨טֶרֶם⟩"
+      "surface": "טרם",
+      "english": "在...之前"
     },
     {
-      "surface": "יֶחְמָץ",
-      "english": "⟨יֶחְמָץ⟩"
+      "surface": "יחמץ",
+      "english": "它变酸"
     },
     {
-      "surface": "מִשְׁאֲרֹתָם",
+      "surface": "משארתם",
       "english": "他们的揉面盆"
     },
     {
-      "surface": "צְרֻרֹת",
-      "english": "⟨צְרֻרֹת⟩"
+      "surface": "צררת",
+      "english": "包"
     },
     {
-      "surface": "בְּ\/שִׂמְלֹתָם",
-      "english": "⟨בְּ\/שִׂמְלֹתָם⟩ 中"
+      "surface": "בשמלתם",
+      "english": "在衣服里"
     },
     {
-      "surface": "עַל",
-      "english": "⟨עַל⟩"
+      "surface": "על",
+      "english": "在...上"
     },
     {
-      "surface": "שִׁכְמָם",
-      "english": "⟨שְׁכָמָם⟩"
+      "surface": "שכמם",
+      "english": "他们的肩头"
     }
   ],
-  "timestamp": "2026-07-17T18:18:18.194352952Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:07.041013070Z",
+  "model": "glm-4.5"
 }

@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "ezra 4:8",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 746,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 47048,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47794
-  },
-  "translation": "רחום (利宏)、בעל טעם (בעל טעם) וספרא שמשי (שמשי) כתבו אגרה חדה על 耶路撒冷 לארתחששתא מלכא, כנמא:",
+  "translation": "利宏 — 那位长官,和示米沙 — 那位书记,写了一封指控耶路撒冷的信给亚达薛西王,内容如下:",
   "tokens": [
     {
       "surface": "רחום",
@@ -24,35 +13,35 @@
     },
     {
       "surface": "בעל",
-      "english": "主人"
+      "english": "— 那位长官"
     },
     {
       "surface": "טעם",
-      "english": "裁断"
+      "english": "和"
     },
     {
       "surface": "ושמשי",
-      "english": "和שמשי (Shimshai)"
+      "english": "示米沙"
     },
     {
       "surface": "ספרא",
-      "english": "ספרא (书记)"
+      "english": "— 那位书记"
     },
     {
       "surface": "כתבו",
-      "english": "写了"
+      "english": "写了一封"
     },
     {
       "surface": "אגרה",
-      "english": "אגרה (信件)"
+      "english": "信"
     },
     {
       "surface": "חדה",
-      "english": "一封"
+      "english": "指控"
     },
     {
       "surface": "על",
-      "english": "反对"
+      "english": "的"
     },
     {
       "surface": "ירושלם",
@@ -60,7 +49,7 @@
     },
     {
       "surface": "לארתחששתא",
-      "english": "给"
+      "english": "给亚达薛西"
     },
     {
       "surface": "מלכא",
@@ -68,9 +57,9 @@
     },
     {
       "surface": "כנמא",
-      "english": "כנמא (如此):"
+      "english": "内容如下:"
     }
   ],
-  "timestamp": "2026-07-18T01:38:51.807094885Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:22.016193903Z",
+  "model": "glm-4.5"
 }

@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "1-chronicles 9:16",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 774,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59511,
+    "completion_tokens": 671,
+    "prompt_tokens": 59642,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60285
+    "total_tokens": 60313
   },
-  "translation": "ועבדיה בן שמעיה בן גלל בן ידותון; וברכיה בן אסא בן אלקנה היושב בחצרי 尼托法特׃",
+  "translation": "俄巴底亚,是示玛雅的儿子,迦拉的儿子,耶杜顿的儿子;比利家,是亚撒的儿子,以利加拿的儿子,就是住在尼托法特村庄的。",
   "tokens": [
     {
-      "surface": "וְ\/עֹבַדְיָה֙",
-      "english": "俄巴底雅"
+      "surface": "ועבדיה",
+      "english": "俄巴底亚"
     },
     {
-      "surface": "בֶּֽן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "是...的儿子"
     },
     {
-      "surface": "שְׁמַֽעְיָ֔ה",
+      "surface": "שמעיה",
       "english": "示玛雅"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "...的儿子"
     },
     {
-      "surface": "גָּלָ֖ל",
-      "english": "גלל (加拉勒)"
+      "surface": "גלל",
+      "english": "迦拉"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "...的儿子"
     },
     {
-      "surface": "יְדוּת֑וּן",
+      "surface": "ידותון",
       "english": "耶杜顿"
     },
     {
-      "surface": "וּ\/בֶרֶכְיָ֤ה",
-      "english": "比勒基雅"
+      "surface": "וברכיה",
+      "english": "比利家"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "是...的儿子"
     },
     {
-      "surface": "אָסָא֙",
+      "surface": "אסא",
       "english": "亚撒"
     },
     {
-      "surface": "בֶּן",
-      "english": "בן"
+      "surface": "בן",
+      "english": "...的儿子"
     },
     {
-      "surface": "אֶלְקָנָ֔ה",
+      "surface": "אלקנה",
       "english": "以利加拿"
     },
     {
-      "surface": "הַ\/יּוֹשֵׁ֖ב",
-      "english": "היושב"
+      "surface": "היושב",
+      "english": "就是...住的"
     },
     {
-      "surface": "בְּ\/חַצְרֵ֥י",
-      "english": "בחצרי"
+      "surface": "בחצרי",
+      "english": "在...村庄"
     },
     {
-      "surface": "נְטוֹפָתִֽי",
+      "surface": "נטופתי",
       "english": "尼托法特"
     }
   ],
-  "timestamp": "2026-07-18T01:58:54.390089521Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:08.305028917Z",
+  "model": "glm-4.5"
 }

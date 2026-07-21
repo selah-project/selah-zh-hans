@@ -1,56 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "psalms 56:6",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 56,
   "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64560,
+    "completion_tokens": 367,
+    "prompt_tokens": 64547,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64978
+    "total_tokens": 64914
   },
-  "translation": "כָל הַיּוֹם דְּבָרַי יְעַצֵּבוּ עָלַי；כָל מַחְשְׁבֹתָם לְרָע。",
+  "translation": "整天他们扭曲我的话；他们 ⟨是⟩ 对着我的心意尽 ⟨是⟩ 恶。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "כָל"
+      "english": "整天"
     },
     {
       "surface": "היום",
-      "english": "הַיּוֹם"
+      "english": "他们"
     },
     {
       "surface": "דברי",
-      "english": "דְּבָרַי"
+      "english": "扭曲我的话"
     },
     {
       "surface": "יעצבו",
-      "english": "יְעַצֵּבוּ"
+      "english": "；"
     },
     {
       "surface": "עלי",
-      "english": "עָלַי"
+      "english": "对着我的"
     },
     {
       "surface": "כל",
-      "english": "כָל"
+      "english": "心意尽"
     },
     {
       "surface": "מחשבתם",
-      "english": "מַחְשְׁבֹתָם"
+      "english": " ⟨是⟩ 恶。"
     },
     {
       "surface": "לרע",
-      "english": "לְרָע"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T23:58:23.403431283Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:36.605798701Z",
+  "model": "glm-4.5"
 }

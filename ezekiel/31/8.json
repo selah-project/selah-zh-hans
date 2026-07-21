@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "ezekiel 31:8",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 1033,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20292,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 21325
-  },
-  "translation": "אֲרָזִים לֹֽא עֲמָמֻ\/הוּ֮ בְּ\/גַן אֱלֹהִים֒ בְּרוֹשִׁ֗ים לֹ֤א דָמוּ֙ אֶל סְעַפֹּתָ֔י\/ו וְ\/עַרְמֹנִ֥ים לֹֽא הָי֖וּ כְּ\/פֹֽארֹתָ֑י\/ו כָּל עֵץ֙ בְּ\/גַן אֱלֹהִ֔ים לֹא דָמָ֥ה אֵלָ֖י\/ו בְּ\/יָפְיֽ\/וֹ",
+  "translation": "香柏树并未在以罗欣的园子中遮蔽他，柏树不能与他的枝条相比，栗树也不像他的树枝；以罗欣园子中所有的树，都不像他的美丽。",
   "tokens": [
     {
       "surface": "ארזים",
@@ -24,15 +13,15 @@
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "并未"
     },
     {
       "surface": "עממהו",
-      "english": "遮蔽它"
+      "english": "在...中遮蔽他"
     },
     {
       "surface": "בגן",
-      "english": "在园中"
+      "english": "在以罗欣的园子中"
     },
     {
       "surface": "אלהים",
@@ -44,11 +33,11 @@
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "不能"
     },
     {
       "surface": "דמו",
-      "english": "比拟"
+      "english": "与...相比"
     },
     {
       "surface": "אל",
@@ -56,27 +45,27 @@
     },
     {
       "surface": "סעפתיו",
-      "english": "它的枝条"
+      "english": "他的枝条"
     },
     {
       "surface": "וערמנים",
-      "english": "梧桐树"
+      "english": "栗树"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "也不"
     },
     {
       "surface": "היו",
-      "english": "⟨有⟩"
+      "english": "像"
     },
     {
       "surface": "כפארתיו",
-      "english": "如它的枝子"
+      "english": "他的树枝"
     },
     {
       "surface": "כל",
-      "english": "凡……都"
+      "english": "所有的"
     },
     {
       "surface": "עץ",
@@ -84,7 +73,7 @@
     },
     {
       "surface": "בגן",
-      "english": "在园中"
+      "english": "在以罗欣的园子中"
     },
     {
       "surface": "אלהים",
@@ -92,21 +81,21 @@
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "都不"
     },
     {
       "surface": "דמה",
-      "english": "比拟"
+      "english": "像"
     },
     {
       "surface": "אליו",
-      "english": "它"
+      "english": "他"
     },
     {
       "surface": "ביפיו",
-      "english": "在它的华美中"
+      "english": "在他的美丽中"
     }
   ],
-  "timestamp": "2026-07-17T22:58:51.062681395Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:31.384742556Z",
+  "model": "glm-4.5"
 }

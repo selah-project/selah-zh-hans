@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "exodus 9:28",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19079,
+    "completion_tokens": 586,
+    "prompt_tokens": 19143,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19693
+    "total_tokens": 19729
   },
-  "translation": "你们要向雅威恳求,⟨ אֵת ⟩ וְ\/רַ֕ב מִֽ\/הְיֹ֛ת קֹלֹ֥ת אֱלֹהִ֖ים וּ\/בָרָ֑ד,我就遣送 ⟨את⟩你们,你们不可再停留。”",
+  "translation": "恳求雅威,这就够了;要⟨有⟩以罗欣雷鸣和冰雹不再,我必让你们走,你们就不必再留下了。",
   "tokens": [
     {
       "surface": "העתירו",
-      "english": "你们要恳求"
+      "english": "恳求"
     },
     {
       "surface": "אל",
@@ -32,19 +29,19 @@
     },
     {
       "surface": "ורב",
-      "english": "因为已经够了"
+      "english": "这就够了"
     },
     {
       "surface": "מהית",
-      "english": "不再有"
+      "english": "要"
     },
     {
       "surface": "קלת",
-      "english": "雷声"
+      "english": "雷鸣"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣的"
+      "english": "以罗欣"
     },
     {
       "surface": "וברד",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "ואשלחה",
-      "english": "我就遣送"
+      "english": "我必让你们走"
     },
     {
       "surface": "אתכם",
@@ -61,7 +58,7 @@
     },
     {
       "surface": "ולא",
-      "english": "不可"
+      "english": "并不"
     },
     {
       "surface": "תספון",
@@ -69,9 +66,9 @@
     },
     {
       "surface": "לעמד",
-      "english": "停留"
+      "english": "留下"
     }
   ],
-  "timestamp": "2026-07-17T18:15:12.693610785Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:01.733819675Z",
+  "model": "glm-4.5"
 }

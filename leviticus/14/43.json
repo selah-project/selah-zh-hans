@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 43,
   "ref": "leviticus 14:43",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 956,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19805,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20761
-  },
-  "translation": "כְּשֶׁהַנֶּגַע יָשׁוּב וְיִפְרַח בַּבַּיִת אַחֲרֵי שֶׁחִלֵּץ אֶת הָאֲבָנִים, וְאַחֲרֵי שֶׁהִקְצִית אֶת הַבַּיִת, וְאַחֲרֵי שֶׁהֻטַּח׃",
+  "translation": "若灾病在房子里又发作，是在拔去石头、刮房子、粉刷以后，",
   "tokens": [
     {
-      "surface": "ו\/אם",
-      "english": "וְאִם"
+      "surface": "ואם",
+      "english": "若"
     },
     {
-      "surface": "יָשׁוּב",
-      "english": "יָשׁוּב"
+      "surface": "ישוב",
+      "english": "又发作"
     },
     {
-      "surface": "ה\/נֶּגַע",
-      "english": "הַנֶּגַע"
+      "surface": "הנגע",
+      "english": "灾病"
     },
     {
-      "surface": "ו\/פָרַח",
-      "english": "וּפָרַח"
+      "surface": "ופרח",
+      "english": "又发作"
     },
     {
-      "surface": "ב\/בַּיִת",
-      "english": "בַּבַּיִת"
+      "surface": "בבית",
+      "english": "在房子里"
     },
     {
-      "surface": "אַחַר",
-      "english": "אַחֲרֵי"
+      "surface": "אחר",
+      "english": "在...以后"
     },
     {
-      "surface": "חִלֵּץ",
-      "english": "שֶׁחִלֵּץ"
-    },
-    {
-      "surface": "את",
-      "english": "אֶת",
-      "marks": "הָאֲבָנִים"
-    },
-    {
-      "surface": "ה\/אֲבָנִים",
-      "english": "הָאֲבָנִים"
-    },
-    {
-      "surface": "ו\/אַחֲרֵי",
-      "english": "וְאַחֲרֵי"
-    },
-    {
-      "surface": "הִקְצֹות",
-      "english": "שֶׁהִקְצִית"
+      "surface": "חלץ",
+      "english": "拔去"
     },
     {
       "surface": "את",
-      "english": "אֶת",
-      "marks": "הַבַּיִת"
+      "english": "⟨את⟩",
+      "marks": "石头"
     },
     {
-      "surface": "ה\/בַּיִת",
-      "english": "הַבַּיִת"
+      "surface": "האבנים",
+      "english": "石头"
     },
     {
-      "surface": "ו\/אַחֲרֵי",
-      "english": "וְאַחֲרֵי"
+      "surface": "ואחרי",
+      "english": "并在...以后"
     },
     {
-      "surface": "הִטֹּוחַ",
-      "english": "שֶׁהֻטַּח"
+      "surface": "הקצות",
+      "english": "刮"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "房子"
+    },
+    {
+      "surface": "הבית",
+      "english": "房子"
+    },
+    {
+      "surface": "ואחרי",
+      "english": "并在...以后"
+    },
+    {
+      "surface": "הטוח",
+      "english": "粉刷"
     }
   ],
-  "timestamp": "2026-07-17T18:49:50.822738102Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:38.802020959Z",
+  "model": "glm-4.5"
 }

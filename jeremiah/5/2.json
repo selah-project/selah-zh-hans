@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "jeremiah 5:2",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18916,
+    "completion_tokens": 323,
+    "prompt_tokens": 18980,
     "prompt_tokens_details": {
-      "cached_tokens": 17920
+      "cached_tokens": 4864
     },
-    "total_tokens": 19505
+    "total_tokens": 19303
   },
-  "translation": "וְאִם יאמרוּ: \"חַי 雅威\", לָכֵן לַ\/שֶּׁקֶר יִשָּׁבֵעוּ。",
+  "translation": "虽然他们说‘雅威活着’,却确实指着虚妄起誓",
   "tokens": [
     {
-      "surface": "וְ\/אִ֥ם",
-      "english": "וְאִם"
+      "surface": "ואם",
+      "english": "虽然"
     },
     {
-      "surface": "חַי",
-      "english": "חַי"
+      "surface": "חי",
+      "english": "活着"
     },
     {
-      "surface": "יְהֹוָ֖ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "יֹאמֵ֑רוּ",
-      "english": "יאמרוּ"
+      "surface": "יאמרו",
+      "english": "他们说"
     },
     {
-      "surface": "לָ\/כֵ֥ן",
-      "english": "לָכֵן"
+      "surface": "לכן",
+      "english": "却确实"
     },
     {
-      "surface": "לַ\/שֶּׁ֖קֶר",
-      "english": "לַ\/שֶּׁקֶר"
+      "surface": "לשקר",
+      "english": "指着虚妄"
     },
     {
-      "surface": "יִשָּׁבֵֽעוּ",
-      "english": "יִשָּׁבֵעוּ"
+      "surface": "ישבעו",
+      "english": "起誓"
     }
   ],
-  "timestamp": "2026-07-17T22:09:16.765206968Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:00.350249656Z",
+  "model": "glm-4.5"
 }

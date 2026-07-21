@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "joshua 13:17",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18198,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18814
-  },
-  "translation": "希实本 וְ\/כָל עָרֶיהָ אֲשֶׁר בַּ\/מִּישֹׁר: 底本 וּ\/בָמוֹת 伯特 וּ\/בֵית 伯特 伯特׃",
+  "translation": "希实本,和其平原上的诸城;底本,和巴末巴力,和伯特巴力美翁;",
   "tokens": [
     {
-      "surface": "חֶשְׁבּ֥וֹן",
+      "surface": "חשבון",
       "english": "希实本"
     },
     {
-      "surface": "וְ\/כָל",
-      "english": "和\/所有"
+      "surface": "וכל",
+      "english": "和"
     },
     {
-      "surface": "עָרֶ֖י\/הָ",
-      "english": "⟨她的⟩\/城市"
+      "surface": "עריה",
+      "english": "其平原上的诸城"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "就是"
+      "surface": "אשר",
+      "english": "——"
     },
     {
-      "surface": "בַּ\/מִּישֹׁ֑ר",
-      "english": "在\/高原上"
+      "surface": "במישר",
+      "english": "——"
     },
     {
-      "surface": "דִּיבוֹן֙",
+      "surface": "דיבון",
       "english": "底本"
     },
     {
-      "surface": "וּ\/בָמ֣וֹת",
-      "english": "和"
+      "surface": "ובמות",
+      "english": "和巴末"
     },
     {
-      "surface": "בַּ֔עַל",
-      "english": "伯特"
+      "surface": "בעל",
+      "english": "巴力"
     },
     {
-      "surface": "וּ\/בֵ֖ית",
-      "english": "和"
+      "surface": "ובית",
+      "english": "和伯特"
     },
     {
-      "surface": "בַּ֥עַל",
-      "english": "伯特"
+      "surface": "בעל",
+      "english": "巴力"
     },
     {
-      "surface": "מְעֽוֹן",
-      "english": "伯特"
+      "surface": "מעון",
+      "english": "美翁"
     }
   ],
-  "timestamp": "2026-07-17T19:58:38.067686143Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:54.610712594Z",
+  "model": "glm-4.5"
 }

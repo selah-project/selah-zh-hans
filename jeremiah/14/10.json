@@ -1,100 +1,116 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "jeremiah 14:10",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 14,
   "usage": {
-    "completion_tokens": 1072,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20123,
+    "completion_tokens": 812,
+    "prompt_tokens": 20187,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21195
+    "total_tokens": 20999
   },
-  "translation": "כֹּֽה אָמַ֨ר ׀ 雅威 לָ\/עָ֣ם הַ\/זֶּ֗ה：כֵּ֤ן אָֽהֲבוּ֙ לָ\/נ֔וּעַ，רַגְלֵי\/הֶ֖ם לֹ֣א חָשָׂ֑כוּ；וַ\/יהוָה֙ לֹ֣א רָצָ֔\/ם；עַתָּה֙ יִזְכֹּ֣ר עֲוֺנָ֔\/ם，וְ\/יִפְקֹ֖ד חַטֹּאתָֽ\/ם。",
+  "translation": "雅威如此说 ⟨关于⟩ 这民:他们喜爱这样徘徊,没有禁戒 ⟨他们的⟩ 脚,所以雅威不喜悦 ⟨他们⟩;现在 ⟨他⟩ 必记念 ⟨他们的〉罪孽,并探察 ⟨他们的〉罪过。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "כֹּֽה"
+      "english": "如此",
+      "marks": ""
     },
     {
       "surface": "אמר",
-      "english": "אָמַ֨ר"
+      "english": "说",
+      "marks": ""
     },
     {
-      "surface": "יְהוָה",
-      "english": "雅威"
+      "surface": "יהוה",
+      "english": "雅威",
+      "marks": ""
     },
     {
       "surface": "לעם",
-      "english": "לָ\/עָ֣ם"
+      "english": "⟨关于⟩ 这民",
+      "marks": "这民"
     },
     {
       "surface": "הזה",
-      "english": "הַ\/זֶּ֗ה"
+      "english": "这",
+      "marks": ""
     },
     {
       "surface": "כן",
-      "english": "כֵּ֤ן"
+      "english": "这样",
+      "marks": ""
     },
     {
       "surface": "אהבו",
-      "english": "אָֽהֲבוּ֙"
+      "english": "喜爱",
+      "marks": "徘徊"
     },
     {
       "surface": "לנוע",
-      "english": "לָ\/נ֔וּעַ"
+      "english": "徘徊",
+      "marks": ""
     },
     {
       "surface": "רגליהם",
-      "english": "רַגְלֵי\/הֶ֖ם"
+      "english": "⟨他们的⟩ 脚",
+      "marks": "脚"
     },
     {
       "surface": "לא",
-      "english": "לֹ֣א"
+      "english": "没有",
+      "marks": ""
     },
     {
       "surface": "חשכו",
-      "english": "חָשָׂ֑כוּ"
+      "english": "禁戒",
+      "marks": "脚"
     },
     {
       "surface": "ויהוה",
-      "english": "雅威"
+      "english": "所以 雅威",
+      "marks": ""
     },
     {
       "surface": "לא",
-      "english": "לֹ֣א"
+      "english": "不",
+      "marks": ""
     },
     {
       "surface": "רצם",
-      "english": "רָצָ֔\/ם"
+      "english": "喜悦 ⟨他们⟩",
+      "marks": "他们"
     },
     {
       "surface": "עתה",
-      "english": "עַתָּה֙"
+      "english": "现在",
+      "marks": ""
     },
     {
       "surface": "יזכר",
-      "english": "יִזְכֹּ֣ר"
+      "english": "⟨他⟩ 必记念",
+      "marks": "罪孽"
     },
     {
       "surface": "עונם",
-      "english": "עֲוֺנָ֔\/ם"
+      "english": "⟨他们的〉罪孽",
+      "marks": "罪孽"
     },
     {
       "surface": "ויפקד",
-      "english": "וְ\/יִפְקֹ֖ד"
+      "english": "并探察",
+      "marks": "罪过"
     },
     {
       "surface": "חטאתם",
-      "english": "חַטֹּאתָֽ\/ם"
+      "english": "⟨他们的〉罪过",
+      "marks": "罪过"
     }
   ],
-  "timestamp": "2026-07-17T22:15:01.431286101Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:47.980709830Z",
+  "model": "glm-4.5"
 }

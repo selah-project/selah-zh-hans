@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 46,
   "ref": "joshua 19:46",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17824,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18346
-  },
-  "translation": "和 מֵי־הַיַּרְק֖וֹן（美雅尔孔）以及 הָרַקּ֑וֹן（拉孔），连同面向 יָפֽוֹ（雅法）的边界：",
+  "translation": "以及美雅尔孔，和拉孔，带着面对雅法的边界。",
   "tokens": [
     {
-      "surface": "וּ\/מֵ֥י",
-      "english": "和……的水"
+      "surface": "ומי",
+      "english": "以及"
     },
     {
-      "surface": "הַ\/יַּרְק֖וֹן",
-      "english": "雅尔孔（美雅尔孔）"
+      "surface": "הירקון",
+      "english": "美雅尔孔"
     },
     {
-      "surface": "וְ\/הָֽ\/רַקּ֑וֹן",
-      "english": "以及拉孔"
+      "surface": "והרקון",
+      "english": "和拉孔"
     },
     {
-      "surface": "עִֽם",
-      "english": "连同"
+      "surface": "עם",
+      "english": "带着"
     },
     {
-      "surface": "הַ\/גְּב֖וּל",
+      "surface": "הגבול",
       "english": "边界"
     },
     {
-      "surface": "מ֥וּל",
-      "english": "面向"
+      "surface": "מול",
+      "english": "面对"
     },
     {
-      "surface": "יָפֽוֹ",
+      "surface": "יפו",
       "english": "雅法"
     }
   ],
-  "timestamp": "2026-07-17T20:02:35.399136497Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:30.387617549Z",
+  "model": "glm-4.5"
 }

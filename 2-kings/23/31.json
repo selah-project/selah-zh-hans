@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "2-kings 23:31",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 768,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19289,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20057
-  },
-  "translation": "בן עשרים ושלש שנה יהואחז במלכו ושלשה חדשים מלך בירושלם ושם אמו חמוטל בת ירמיהו מלבנה׃",
+  "translation": "约哈斯登基的时候年二十三岁,在耶路撒冷作王三个月;他母亲名叫哈慕塔,是利比拿人、耶利米的女儿。",
   "tokens": [
     {
-      "surface": "בֶּן",
-      "english": "二十三"
+      "surface": "בן",
+      "english": "年"
     },
     {
-      "surface": "עֶשְׂרִ֨ים",
+      "surface": "עשרים",
+      "english": "二十"
+    },
+    {
+      "surface": "ושלש",
+      "english": "三"
+    },
+    {
+      "surface": "שנה",
       "english": "岁"
     },
     {
-      "surface": "וְ\/שָׁלֹ֤שׁ",
-      "english": "⟨时⟩"
+      "surface": "יהואחז",
+      "english": "约哈斯"
     },
     {
-      "surface": "שָׁנָה֙",
-      "english": "约阿哈斯"
+      "surface": "במלכו",
+      "english": "登基的时候"
     },
     {
-      "surface": "יְהוֹאָחָ֣ז",
-      "english": "登基"
+      "surface": "ושלשה",
+      "english": "三"
     },
     {
-      "surface": "בְּ\/מָלְכ֔\/וֹ",
-      "english": "三个月"
+      "surface": "חדשים",
+      "english": "个月"
     },
     {
-      "surface": "וּ\/שְׁלֹשָׁ֣ה",
-      "english": "⟨他⟩"
-    },
-    {
-      "surface": "חֳדָשִׁ֔ים",
+      "surface": "מלך",
       "english": "作王"
     },
     {
-      "surface": "מָלַ֖ךְ",
+      "surface": "בירושלם",
       "english": "在耶路撒冷"
     },
     {
-      "surface": "בִּ\/ירוּשָׁלִָ֑ם",
-      "english": "他母亲的名字"
+      "surface": "ושם",
+      "english": "名"
     },
     {
-      "surface": "וְ\/שֵׁ֣ם",
+      "surface": "אמו",
+      "english": "他母亲"
+    },
+    {
+      "surface": "חמוטל",
       "english": "哈慕塔"
     },
     {
-      "surface": "אִמּ֔\/וֹ",
-      "english": "立拿人"
+      "surface": "בת",
+      "english": "女儿"
     },
     {
-      "surface": "חֲמוּטַ֥ל",
+      "surface": "ירמיהו",
       "english": "耶利米"
     },
     {
-      "surface": "בַּֽת",
-      "english": "的女儿"
-    },
-    {
-      "surface": "יִרְמְיָ֖הוּ",
-      "english": "⟨的⟩"
-    },
-    {
-      "surface": "מִ\/לִּבְנָֽה",
-      "english": "⟨是⟩"
+      "surface": "מלבנה",
+      "english": "从利比拿"
     }
   ],
-  "timestamp": "2026-07-17T21:32:49.035329008Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:07.923201244Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "2-chronicles 18:23",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 1314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60812,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 62126
-  },
-  "translation": "西底家 בֶּן 基拿拿 הִתְקָרֵב וַיַּךְ 米该雅 עַל הַלְּחִי, וַיֹּאמֶר: אֵי זֶה הַדֶּרֶךְ עָבַר רוּחַ 雅威 מֵאִתִּי לְדַבֵּר ⟨אֵת⟩ךָ?",
+  "translation": "西底家 基拿拿的儿子 上前,击打 米该雅 的面颊,说:雅威的 鲁阿 是 ⟨从⟩ 我这里 哪条路经过 去 对你说话?",
   "tokens": [
     {
       "surface": "ויגש",
-      "english": "צִדְקִיָּהוּ בֶּן כְּנַעֲנָה הִתְקָרֵב"
+      "english": "上前"
     },
     {
       "surface": "צדקיהו",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "בן",
-      "english": "בֶּן"
+      "english": "基拿拿的儿子"
     },
     {
       "surface": "כנענה",
@@ -36,12 +25,12 @@
     },
     {
       "surface": "ויך",
-      "english": "וַיַּךְ"
+      "english": "击打"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אֶת מִיכָיְהוּ"
+      "marks": "米该雅"
     },
     {
       "surface": "מיכיהו",
@@ -49,35 +38,35 @@
     },
     {
       "surface": "על",
-      "english": "עַל"
+      "english": "的面颊"
     },
     {
       "surface": "הלחי",
-      "english": "הַלְּחִי"
+      "english": "面颊"
     },
     {
       "surface": "ויאמר",
-      "english": "וַיֹּאמֶר"
+      "english": "说"
     },
     {
       "surface": "אי",
-      "english": "אֵי"
+      "english": "哪条"
     },
     {
       "surface": "זה",
-      "english": "זֶה"
+      "english": "路"
     },
     {
       "surface": "הדרך",
-      "english": "הַדֶּרֶךְ"
+      "english": "路"
     },
     {
       "surface": "עבר",
-      "english": "עָבַר"
+      "english": "经过"
     },
     {
       "surface": "רוח",
-      "english": "רוּחַ"
+      "english": "鲁阿"
     },
     {
       "surface": "יהוה",
@@ -85,17 +74,18 @@
     },
     {
       "surface": "מאתי",
-      "english": "מֵאִתִּי"
+      "english": "从 我这里"
     },
     {
       "surface": "לדבר",
-      "english": "לְדַבֵּר"
+      "english": "去 对你说话"
     },
     {
       "surface": "אתך",
-      "english": "⟨אֵת⟩ךָ"
+      "english": "⟨את⟩",
+      "marks": "你"
     }
   ],
-  "timestamp": "2026-07-18T02:24:20.762664207Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:34:47.797672794Z",
+  "model": "glm-4.5"
 }

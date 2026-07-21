@@ -1,104 +1,103 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "jeremiah 12:16",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 1247,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20361,
+    "completion_tokens": 820,
+    "prompt_tokens": 20425,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21608
+    "total_tokens": 21245
   },
-  "translation": "וְהָיָה אִם לָמֹד יִלְמְדוּ אֶת דַּרְכֵי עַמִּי לְהִשָּׁבֵעַ בְּשִׁמִּי חַי 雅威 כַּאֲשֶׁר לִמְּדוּ אֶת עַמִּי לְהִשָּׁבֵעַ בַּבַּעַל וְנִבְנוּ בְּתוֹךְ עַמִּי׃",
+  "translation": "并且 ⟨这⟩必发生,倘若他们认真地 ⟨要⟩教⟨את⟩我民的路,指着我的名起誓,‘雅威活着’,正如他们教我民指着巴力起誓,他们就要被建立在我民中间。",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֡ה",
-      "english": "וְהָיָה"
+      "surface": "והיה",
+      "english": "并且 ⟨这⟩必发生"
     },
     {
-      "surface": "אִם",
-      "english": "אִם"
+      "surface": "אם",
+      "english": "倘若"
     },
     {
-      "surface": "לָמֹ֣ד",
-      "english": "לָמֹד"
+      "surface": "למד",
+      "english": "认真地"
     },
     {
-      "surface": "יִלְמְדוּ֩",
-      "english": "יִלְמְדוּ"
+      "surface": "ילמדו",
+      "english": "⟨要⟩教"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "我民的路"
     },
     {
-      "surface": "דַּֽרְכֵ֨י",
-      "english": "דַּרְכֵי"
+      "surface": "דרכי",
+      "english": "我民的路"
     },
     {
-      "surface": "עַמִּ֜\/י",
-      "english": "עַמִּי"
+      "surface": "עמי",
+      "english": "我民"
     },
     {
-      "surface": "לְ\/הִשָּׁבֵ֤עַ",
-      "english": "לְהִשָּׁבֵעַ"
+      "surface": "להשבע",
+      "english": "指着……起誓"
     },
     {
-      "surface": "בִּ\/שְׁמִ\/י֙",
-      "english": "בְּשִׁמִּי"
+      "surface": "בשמי",
+      "english": "我的名"
     },
     {
-      "surface": "חַי",
-      "english": "חַי"
+      "surface": "חי",
+      "english": "活着"
     },
     {
-      "surface": "יְהוָ֔ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "כַּ\/אֲשֶׁ֤ר",
-      "english": "כַּאֲשֶׁר"
+      "surface": "כאשר",
+      "english": "正如"
     },
     {
-      "surface": "לִמְּדוּ֙",
-      "english": "לִמְּדוּ"
+      "surface": "למדו",
+      "english": "他们教"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "我民"
     },
     {
-      "surface": "עַמִּ֔\/י",
-      "english": "עַמִּי"
+      "surface": "עמי",
+      "english": "我民"
     },
     {
-      "surface": "לְ\/הִשָּׁבֵ֖עַ",
-      "english": "לְהִשָּׁבֵעַ"
+      "surface": "להשבע",
+      "english": "指着……起誓"
     },
     {
-      "surface": "בַּ\/בָּ֑עַל",
-      "english": "בַּבַּעַל"
+      "surface": "בבעל",
+      "english": "巴力"
     },
     {
-      "surface": "וְ\/נִבְנ֖וּ",
-      "english": "וְנִבְנוּ"
+      "surface": "ונבנו",
+      "english": "他们就要被建立"
     },
     {
-      "surface": "בְּ\/ת֥וֹךְ",
-      "english": "בְּתוֹךְ"
+      "surface": "בתוך",
+      "english": "在……中间"
     },
     {
-      "surface": "עַמִּֽ\/י",
-      "english": "עַמִּי"
+      "surface": "עמי",
+      "english": "我民"
     }
   ],
-  "timestamp": "2026-07-17T22:14:10.938812518Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:42.128115324Z",
+  "model": "glm-4.5"
 }

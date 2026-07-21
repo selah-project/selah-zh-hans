@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "leviticus 13:11",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 1069,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19475,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20544
-  },
-  "translation": "צרעת כרונית היא בְּעוֹר בְּשָׂרוֹ; וְטִמֶּא אֶתְמוֹ הַכֹּהֵן, לֹא יַסְגִּירֶנּוּ, כִּי טָמֵא הוּא׃",
+  "translation": "这是他肉皮上的旧大麻病,祭司要宣告他不洁净,不必将他隔离,因为他是不洁净的。",
   "tokens": [
     {
-      "surface": "צָרַ֨עַת",
-      "english": "צרעת"
+      "surface": "צרעת",
+      "english": "大麻病"
     },
     {
-      "surface": "נוֹשֶׁ֤נֶת",
-      "english": "כרונית"
+      "surface": "נושנת",
+      "english": "旧"
     },
     {
-      "surface": "הִוא֙",
-      "english": "היא"
+      "surface": "הוא",
+      "english": "这是"
     },
     {
-      "surface": "בְּ\/ע֣וֹר",
-      "english": "בעור"
+      "surface": "בעור",
+      "english": "皮"
     },
     {
-      "surface": "בְּשָׂר֔\/וֹ",
-      "english": "בשרו"
+      "surface": "בשרו",
+      "english": "他的肉"
     },
     {
-      "surface": "וְ\/טִמְּא֖\/וֹ",
-      "english": "וטימא אתו"
+      "surface": "וטמאו",
+      "english": "并且宣告他不洁净"
     },
     {
-      "surface": "הַ\/כֹּהֵ֑ן",
-      "english": "הכהן"
+      "surface": "הכהן",
+      "english": "祭司"
     },
     {
-      "surface": "לֹ֣א",
-      "english": "לא"
+      "surface": "לא",
+      "english": "不"
     },
     {
-      "surface": "יַסְגִּרֶ֔\/נּוּ",
-      "english": "יסגירנו"
+      "surface": "יסגרנו",
+      "english": "将他隔离"
     },
     {
-      "surface": "כִּ֥י",
-      "english": "כי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "טָמֵ֖א",
-      "english": "טמא"
+      "surface": "טמא",
+      "english": "不洁净"
     },
     {
-      "surface": "הֽוּא",
-      "english": "הוא"
+      "surface": "הוא",
+      "english": "他是"
     }
   ],
-  "timestamp": "2026-07-17T18:47:53.923186557Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:17.181189060Z",
+  "model": "glm-4.5"
 }

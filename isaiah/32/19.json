@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "isaiah 32:19",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 721,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20396,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21117
-  },
-  "translation": "וּבָרַד יֵרֵד עִם הַיָּעַר, וּבַשִׁפְלָה תִּשְׁפַּל הָעִיר.",
+  "translation": "但有冰雹在树林降下时，这城必在低处被降卑。",
   "tokens": [
     {
-      "surface": "וּ\/בָרַד",
-      "english": "וּבָרַד"
+      "surface": "וברד",
+      "english": "但有冰雹"
     },
     {
-      "surface": "בְּ\/רֶדֶת",
-      "english": "בְּרֶדֶת"
+      "surface": "ברדת",
+      "english": "在...降下时"
     },
     {
-      "surface": "הַ\/יָּעַר",
-      "english": "הַיָּעַר"
+      "surface": "היער",
+      "english": "树林"
     },
     {
-      "surface": "וּ\/בַ\/שִׁפְלָה",
-      "english": "וּבַשִׁפְלָה"
+      "surface": "ובשפלה",
+      "english": "这城必在低处"
     },
     {
-      "surface": "תִּשְׁפַּל",
-      "english": "תִּשְׁפַּל"
+      "surface": "תשפל",
+      "english": "被降卑"
     },
     {
-      "surface": "הָ\/עִיר",
-      "english": "הָעִיר"
+      "surface": "העיר",
+      "english": "城"
     }
   ],
-  "timestamp": "2026-07-17T21:49:34.389212775Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:23.544198269Z",
+  "model": "glm-4.5"
 }

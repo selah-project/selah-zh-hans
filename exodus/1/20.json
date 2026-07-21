@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "exodus 1:20",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 1,
   "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18348,
+    "completion_tokens": 363,
+    "prompt_tokens": 18347,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 18784
+    "total_tokens": 18710
   },
-  "translation": "以罗欣恩待 ⟨הָ\/עָם⟩ הָ\/עָם",
+  "translation": "以罗欣待 ⟨接生婆⟩ 很好，并且 ⟨那⟩ 百姓多起来，且 ⟨变得⟩ 极其强盛。",
   "tokens": [
     {
-      "surface": "ו\/יֵּיטֶב",
-      "english": "恩待"
+      "surface": "וייטב",
+      "english": "待...很好"
     },
     {
-      "surface": "אֱלֹהִים",
+      "surface": "אלהים",
       "english": "以罗欣"
     },
     {
-      "surface": "לַ\/מְיַלְּדֹת",
-      "english": "收生婆们"
+      "surface": "למילדת",
+      "english": "⟨接生婆⟩"
     },
     {
-      "surface": "וַ\/יִּרֶב",
-      "english": "增多"
+      "surface": "וירב",
+      "english": "并且...多起来"
     },
     {
-      "surface": "הָ\/עָם",
-      "english": "那百姓"
+      "surface": "העם",
+      "english": "⟨那⟩ 百姓"
     },
     {
-      "surface": "וַ\/יַּעַצְמוּ",
-      "english": "极其强盛"
+      "surface": "ויעצמו",
+      "english": "且 ⟨变得⟩ 极其强盛"
     },
     {
-      "surface": "מְאֹד",
-      "english": "非常"
+      "surface": "מאד",
+      "english": "极其"
     }
   ],
-  "timestamp": "2026-07-17T18:09:48.567869451Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:24:00.791109012Z",
+  "model": "glm-4.5"
 }

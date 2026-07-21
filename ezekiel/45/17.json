@@ -1,136 +1,125 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "ezekiel 45:17",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 1584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21246,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 22830
-  },
-  "translation": "ועל הנשיא (הנסיך) יהיה העולות (העולות) והמנחה (והמנחה) והנסך (והנסך) בחגים (בחגים) ובחדשים (ובחדשים) ובשבתות (ובשבתות) בכל (בכל) מועדי (מועדי) בית 以色列. הוא (הוא) יעשה (יעשה) את החטאת (החטאת) ואת המנחה (והמנחה) ואת העולה (והעולה) ואת השלמים (והשלמים), לכפר (לכפר) בעד (בעד) בית 以色列.",
+  "translation": "在节期、月朔、安息日，在以色列家的一切定例上，祭司都要将燔祭、素祭和奠祭归在首领身上；他要献上赎罪祭、素祭、燔祭和平安祭，为以色列家遮盖。",
   "tokens": [
     {
-      "surface": "וְ\/עַֽל",
-      "english": "על"
+      "surface": "ועל",
+      "english": "在……上"
     },
     {
-      "surface": "הַ\/נָּשִׂ֣יא",
-      "english": "הנסיך"
+      "surface": "הנשיא",
+      "english": "首领"
     },
     {
-      "surface": "יִהְיֶ֗ה",
-      "english": "יהיה"
+      "surface": "יהיה",
+      "english": "要归在"
     },
     {
-      "surface": "הָ\/עוֹל֣וֹת",
-      "english": "העולות"
+      "surface": "העולות",
+      "english": "燔祭"
     },
     {
-      "surface": "וְ\/הַ\/מִּנְחָה֮",
-      "english": "והמנחה"
+      "surface": "והמנחה",
+      "english": "和素祭"
     },
     {
-      "surface": "וְ\/הַ\/נֵּסֶךְ֒",
-      "english": "והנסך"
+      "surface": "והנסך",
+      "english": "和奠祭"
     },
     {
-      "surface": "בַּ\/חַגִּ֤ים",
-      "english": "בחגים"
+      "surface": "בחגים",
+      "english": "在节期"
     },
     {
-      "surface": "וּ\/בֶ\/חֳדָשִׁים֙",
-      "english": "ובחדשים"
+      "surface": "ובחדשים",
+      "english": "和在月朔"
     },
     {
-      "surface": "וּ\/בַ\/שַׁבָּת֔וֹת",
-      "english": "ובשבתות"
+      "surface": "ובשבתות",
+      "english": "和在安息日"
     },
     {
-      "surface": "בְּ\/כָֽל",
-      "english": "בכל"
+      "surface": "בכל",
+      "english": "在一切"
     },
     {
-      "surface": "מוֹעֲדֵ֖י",
-      "english": "מועדי"
+      "surface": "מועדי",
+      "english": "定例"
     },
     {
-      "surface": "בֵּ֣ית",
-      "english": "בית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "יִשְׂרָאֵ֑ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הֽוּא",
-      "english": "הוא"
+      "surface": "הוא",
+      "english": "他"
     },
     {
-      "surface": "יַעֲשֶׂ֞ה",
-      "english": "יעשה"
+      "surface": "יעשה",
+      "english": "要献上"
     },
     {
-      "surface": "אֶת",
-      "english": "את",
-      "marks": "החטאת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "赎罪祭"
     },
     {
-      "surface": "הַ\/חַטָּ֣את",
-      "english": "החטאת"
+      "surface": "החטאת",
+      "english": "赎罪祭"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "ואת",
-      "marks": "המנחה"
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "素祭"
     },
     {
-      "surface": "הַ\/מִּנְחָ֗ה",
-      "english": "המנחה"
+      "surface": "המנחה",
+      "english": "素祭"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "ואת",
-      "marks": "העולה"
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "燔祭"
     },
     {
-      "surface": "הָֽ\/עוֹלָה֙",
-      "english": "העולה"
+      "surface": "העולה",
+      "english": "燔祭"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "ואת",
-      "marks": "השלמים"
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "平安祭"
     },
     {
-      "surface": "הַ\/שְּׁלָמִ֔ים",
-      "english": "השלמים"
+      "surface": "השלמים",
+      "english": "平安祭"
     },
     {
-      "surface": "לְ\/כַפֵּ֖ר",
-      "english": "לכפר"
+      "surface": "לכפר",
+      "english": "为遮盖"
     },
     {
-      "surface": "בְּעַ֥ד",
-      "english": "בעד"
+      "surface": "בעד",
+      "english": "为"
     },
     {
-      "surface": "בֵּֽית",
-      "english": "בית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "יִשְׂרָאֵֽל",
+      "surface": "ישראל",
       "english": "以色列"
     }
   ],
-  "timestamp": "2026-07-18T03:00:16.271036660Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:45.850275513Z",
+  "model": "glm-4.5"
 }

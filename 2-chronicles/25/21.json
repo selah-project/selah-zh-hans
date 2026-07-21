@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "2-chronicles 25:21",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60285,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60834
-  },
-  "translation": "יוֹאָשׁ מֶלֶךְ יִשְׂרָאֵל 上去，他和אֲמַצְיָהוּ מֶלֶךְ יְהוּדָה 面对面互相观看，在בֵּית שֶׁמֶשׁ，⟨那⟩属于יְהוּדָה。",
+  "translation": "于是,约阿施,以色列的王,上去; 他们彼此当面看见,就是他和犹大王亚玛谢,在属于犹大的伯示麦。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "上去"
+      "english": "于是…上去"
     },
     {
       "surface": "יואש",
@@ -36,15 +25,15 @@
     },
     {
       "surface": "ויתראו",
-      "english": "他们互相观看"
+      "english": "他们…看见"
     },
     {
       "surface": "פנים",
-      "english": "脸面"
+      "english": "当面"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "english": "就是他"
     },
     {
       "surface": "ואמציהו",
@@ -60,7 +49,7 @@
     },
     {
       "surface": "בבית",
-      "english": "在……ם"
+      "english": "在伯"
     },
     {
       "surface": "שמש",
@@ -75,6 +64,6 @@
       "english": "犹大"
     }
   ],
-  "timestamp": "2026-07-18T02:28:41.047177270Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:33.650323403Z",
+  "model": "glm-4.5"
 }

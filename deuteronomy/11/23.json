@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "deuteronomy 11:23",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 780,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19697,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20477
-  },
-  "translation": "雅威必从你们面前赶出 ⟨את⟩ ⟨הַ\/גּוֹיִם הָ\/אֵ֖לֶּה⟩ כָּל הַ\/גּוֹיִם הָ\/אֵ֖לֶּה — וְ\/הוֹרִ֧ישׁ וִֽ\/ירִשְׁתֶּ֣ם גּוֹיִם גְּדֹלִ֥ים וַ\/עֲצֻמִ֖ים מִ\/כֶּֽם",
+  "translation": "雅威必 ⟨将⟩ ⟨את⟩ 这一切的国民从你们面前赶出去,你们 ⟨就⟩ 必承受比你们更大更强的国民。",
   "tokens": [
     {
-      "surface": "וְ\/הוֹרִ֧ישׁ",
-      "english": "雅威必赶出"
+      "surface": "והוריש",
+      "english": "必 ⟨将⟩...赶出去"
     },
     {
-      "surface": "יְהוָ֛ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "所有这些国家"
+      "marks": "这一切的国民"
     },
     {
-      "surface": "כָּל",
-      "english": "所有"
+      "surface": "כל",
+      "english": "一切的"
     },
     {
-      "surface": "הַ\/גּוֹיִ֥ם",
-      "english": "这些国家"
+      "surface": "הגוים",
+      "english": "国民"
     },
     {
-      "surface": "הָ\/אֵ֖לֶּה",
-      "english": "这些"
+      "surface": "האלה",
+      "english": "这"
     },
     {
-      "surface": "מִ\/לִּ\/פְנֵי\/כֶ֑ם",
+      "surface": "מלפניכם",
       "english": "从你们面前"
     },
     {
-      "surface": "וִֽ\/ירִשְׁתֶּ֣ם",
-      "english": "而你们将占据"
+      "surface": "וירשתם",
+      "english": "你们 ⟨就⟩ 必承受"
     },
     {
-      "surface": "גּוֹיִם",
-      "english": "国家"
+      "surface": "גוים",
+      "english": "国民"
     },
     {
-      "surface": "גְּדֹלִ֥ים",
-      "english": "更大"
+      "surface": "גדלים",
+      "english": "更大的"
     },
     {
-      "surface": "וַ\/עֲצֻמִ֖ים",
-      "english": "更强"
+      "surface": "ועצמים",
+      "english": "更强的"
     },
     {
-      "surface": "מִ\/כֶּֽם",
+      "surface": "מכם",
       "english": "比你们"
     }
   ],
-  "timestamp": "2026-07-17T19:34:55.516345731Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:35.342307004Z",
+  "model": "glm-4.5"
 }

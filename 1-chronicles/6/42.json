@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 42,
   "ref": "1-chronicles 6:42",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 711,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59924,
+    "completion_tokens": 586,
+    "prompt_tokens": 60037,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60635
+    "total_tokens": 60623
   },
-  "translation": "ולבני 亚伦 נתנו את ערי המקלט: את 希伯仑 ואת 立拿 ואת מגרשיה, ואת 雅帖 ואת 实特莫 ואת מגרשיה׃",
+  "translation": "他们把逃城,希伯仑;和立拿,以及其郊野;和雅帖,以及实特莫,及其郊野,给了亚伦的儿子。",
   "tokens": [
     {
       "surface": "ולבני",
-      "english": "ולבני"
+      "english": "给...儿子"
     },
     {
       "surface": "אהרן",
@@ -28,25 +25,25 @@
     },
     {
       "surface": "נתנו",
-      "english": "נתנו"
+      "english": "他们把...给了"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "ערי"
+      "marks": "逃城,希伯仑;和立拿,以及其郊野;和雅帖,以及实特莫,及其郊野"
     },
     {
       "surface": "ערי",
-      "english": "ערי"
+      "english": "城"
     },
     {
       "surface": "המקלט",
-      "english": "המקלט"
+      "english": "逃"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "חברון"
+      "marks": "希伯仑"
     },
     {
       "surface": "חברון",
@@ -54,8 +51,8 @@
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "לבנה"
+      "english": "⟨和⟩",
+      "marks": "立拿"
     },
     {
       "surface": "לבנה",
@@ -63,17 +60,17 @@
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "מגרשיה"
+      "english": "⟨以及⟩",
+      "marks": "郊野"
     },
     {
       "surface": "מגרשיה",
-      "english": "מגרשיה"
+      "english": "其郊野"
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "יתר"
+      "english": "⟨和⟩",
+      "marks": "雅帖"
     },
     {
       "surface": "יתר",
@@ -81,8 +78,8 @@
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "אשתמע"
+      "english": "⟨以及⟩",
+      "marks": "实特莫"
     },
     {
       "surface": "אשתמע",
@@ -90,14 +87,14 @@
     },
     {
       "surface": "ואת",
-      "english": "ואת",
-      "marks": "מגרשיה"
+      "english": "⟨以及⟩",
+      "marks": "郊野"
     },
     {
       "surface": "מגרשיה",
-      "english": "מגרשיה"
+      "english": "其郊野"
     }
   ],
-  "timestamp": "2026-07-18T01:56:01.704285581Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:56.455016018Z",
+  "model": "glm-4.5"
 }

@@ -1,74 +1,64 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "ezra 6:15",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 874,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 47037,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47911
-  },
-  "translation": "וְ\/שֵׁיצִיא֙ בַּיְתָ֣\/ה דְנָ֔ה עַ֛ד י֥וֹם תְּלָתָ֖ה לִ\/ירַ֣ח אֲדָ֑ר דִּי הִ֣יא שְׁנַת שֵׁ֔ת לְ\/מַלְכ֖וּת דָּרְיָ֥וֶשׁ מַלְכָּֽ\/א",
+  "translation": "这殿就在亚达月初三日,完成了,那是在大流士王在位的第六年。",
   "tokens": [
     {
       "surface": "ושיציא",
-      "english": "ושיציא (ביתה)"
+      "english": "完成",
+      "notes": "字面义:出去;此处引申为工程竣工、完毕。"
     },
     {
       "surface": "ביתה",
-      "english": "(ביתה)"
+      "english": "这殿"
     },
     {
       "surface": "דנה",
-      "english": "זה"
+      "english": "⟨是⟩"
     },
     {
       "surface": "עד",
-      "english": "עד"
+      "english": "在…(时)"
     },
     {
       "surface": "יום",
-      "english": "יום"
+      "english": "日"
     },
     {
       "surface": "תלתה",
-      "english": "השלישי"
+      "english": "第三"
     },
     {
       "surface": "לירח",
-      "english": "(לירח)"
+      "english": "月"
     },
     {
       "surface": "אדר",
-      "english": "(אדר)"
+      "english": "亚达"
     },
     {
       "surface": "די",
-      "english": "אשר"
+      "english": "⟨那⟩"
     },
     {
       "surface": "היא",
-      "english": "היא"
+      "english": "是"
     },
     {
       "surface": "שנת",
-      "english": "שנת"
+      "english": "年"
     },
     {
       "surface": "שת",
-      "english": "שש"
+      "english": "第六"
     },
     {
       "surface": "למלכות",
-      "english": "(למלכות)"
+      "english": "在位"
     },
     {
       "surface": "דריוש",
@@ -76,9 +66,9 @@
     },
     {
       "surface": "מלכא",
-      "english": "(מלכא)"
+      "english": "王"
     }
   ],
-  "timestamp": "2026-07-18T01:39:40.349675808Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:34.302954683Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "joshua 15:4",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 826,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18576,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19402
-  },
-  "translation": "וְ\/עָבַ֣ר 押们 וְ\/יָצָא֙ נַ֣חַל 埃及 ו\/היה תֹּצְא֥וֹת הַ\/גְּב֖וּל יָ֑מָּ\/ה זֶה יִהְיֶ֥ה לָ\/כֶ֖ם גְּב֥וּל נֶֽגֶב",
+  "translation": "它从押们经过,出到埃及溪,这边界的尽头是海;这⟨必是⟩你们南方的边界。",
   "tokens": [
     {
       "surface": "ועבר",
-      "english": "וְ\/עָבַ֣ר"
+      "english": "它从……经过"
     },
     {
       "surface": "עצמונה",
@@ -28,11 +17,11 @@
     },
     {
       "surface": "ויצא",
-      "english": "וְ\/יָצָא֙"
+      "english": "出到"
     },
     {
       "surface": "נחל",
-      "english": "נַ֣חַל"
+      "english": "溪"
     },
     {
       "surface": "מצרים",
@@ -40,41 +29,41 @@
     },
     {
       "surface": "והיה",
-      "english": "ו\/היה"
+      "english": "是"
     },
     {
       "surface": "תצאות",
-      "english": "תֹּצְא֥וֹת"
+      "english": "尽头"
     },
     {
       "surface": "הגבול",
-      "english": "הַ\/גְּב֖וּל"
+      "english": "这边界"
     },
     {
       "surface": "ימה",
-      "english": "יָ֑מָּ\/ה"
+      "english": "海"
     },
     {
       "surface": "זה",
-      "english": "זֶה"
+      "english": "这"
     },
     {
       "surface": "יהיה",
-      "english": "יִהְיֶ֥ה"
+      "english": "⟨必是⟩"
     },
     {
       "surface": "לכם",
-      "english": "לָ\/כֶ֖ם"
+      "english": "你们"
     },
     {
       "surface": "גבול",
-      "english": "גְּב֥וּל"
+      "english": "边界"
     },
     {
       "surface": "נגב",
-      "english": "נֶֽגֶב"
+      "english": "南方"
     }
   ],
-  "timestamp": "2026-07-17T19:59:28.798783531Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:37.476389756Z",
+  "model": "glm-4.5"
 }

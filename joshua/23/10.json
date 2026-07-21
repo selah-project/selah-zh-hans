@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "joshua 23:10",
   "book": "joshua",
   "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 757,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18407,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19164
-  },
-  "translation": "אִישׁ אֶחָד מִ\/כֶּם יִרְדָּף אָ֑לֶף כִּ֣י יְהוָ֣ה אֱלֹהֵי\/כֶ֗ם ה֚וּא הַ\/נִּלְחָ֣ם לָ\/כֶ֔ם כַּ\/אֲשֶׁ֖ר דִּבֶּ֥ר לָ\/כֶֽם",
+  "translation": "你们中一人必追赶一千人,因为雅威你们以罗欣,他 ⟨是⟩ ⟨那⟩ 为你们争战的,正如他 ⟨对⟩ 你们说过的 ⟨davar⟩。",
   "tokens": [
     {
       "surface": "איש",
-      "english": "一个人"
+      "english": "一人"
     },
     {
       "surface": "אחד",
@@ -28,15 +17,15 @@
     },
     {
       "surface": "מכם",
-      "english": "你们中间的"
+      "english": "你们中"
     },
     {
       "surface": "ירדף",
-      "english": "能追赶"
+      "english": "必追赶"
     },
     {
       "surface": "אלף",
-      "english": "一千"
+      "english": "一千人"
     },
     {
       "surface": "כי",
@@ -48,19 +37,19 @@
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "english": "你们以罗欣"
     },
     {
       "surface": "הוא",
-      "english": "⟨是⟩他"
+      "english": "他"
     },
     {
       "surface": "הנלחם",
-      "english": "⟨那⟩为你们争战的"
+      "english": "⟨那⟩ 为你们争战的"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "english": "为你们"
     },
     {
       "surface": "כאשר",
@@ -68,13 +57,13 @@
     },
     {
       "surface": "דבר",
-      "english": "他对你们所说的话(*davar*)"
+      "english": "说过的 ⟨davar⟩"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "english": "⟨对⟩ 你们"
     }
   ],
-  "timestamp": "2026-07-17T20:04:46.441177113Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:46:43.304576857Z",
+  "model": "glm-4.5"
 }

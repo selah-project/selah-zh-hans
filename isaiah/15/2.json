@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "isaiah 15:2",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 1062,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21537,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22599
-  },
-  "translation": "ה\/בית (那殿) וְ\/דִיבֹן (和底本) עָלָה (上到) הַ\/בָּמוֹת (那高處) לְ\/בֶכִי (去哭泣)。עַל נְבוֹ (為尼波) וְ\/עַל מֵידְבָא (和為米底巴)，מוֹאָב (摩押) יְיֵלִיל (嚎啕)。בְּ\/כָל רֹאשָׁי\/ו (它每一個頭上) קָרְחָה (是禿頂)，כָּל זָקָן (每一根鬍鬚) גְּרוּעָה (被剃除)。",
+  "translation": "巴伊特 和底本 ⟨上到⟩ 丘坛 去哭号; 摩押 在尼波 和米底巴 ⟨之上⟩ 哀嚎。 ⟨在⟩ 它所有的头 ⟨上⟩ 都有秃斑, 每一个胡须 都被剃净。",
   "tokens": [
     {
-      "surface": "עָלָה",
-      "english": "上到"
+      "surface": "עלה",
+      "english": "巴伊特"
     },
     {
-      "surface": "הַ\/בַּיִת",
-      "english": "那殿"
-    },
-    {
-      "surface": "וְ\/דִיבֹן",
+      "surface": "הבית",
       "english": "和底本"
     },
     {
-      "surface": "הַ\/בָּמוֹת",
-      "english": "那高處"
+      "surface": "ודיבן",
+      "english": "丘坛"
     },
     {
-      "surface": "לְ\/בֶכִי",
-      "english": "去哭泣"
+      "surface": "הבמות",
+      "english": "去哭号"
     },
     {
-      "surface": "עַל",
-      "english": "為"
-    },
-    {
-      "surface": "נְבוֹ",
-      "english": "尼波"
-    },
-    {
-      "surface": "וְ\/עַל",
-      "english": "和為"
-    },
-    {
-      "surface": "מֵידְבָא",
-      "english": "米底巴"
-    },
-    {
-      "surface": "מוֹאָב",
+      "surface": "לבכי",
       "english": "摩押"
     },
     {
-      "surface": "יְיֵלִיל",
-      "english": "嚎啕"
+      "surface": "על",
+      "english": "尼波"
     },
     {
-      "surface": "בְּ\/כָל",
-      "english": "在所有"
+      "surface": "נבו",
+      "english": "和米底巴"
     },
     {
-      "surface": "רֹאשָׁי\/ו",
-      "english": "它的頭上"
+      "surface": "ועל",
+      "english": "哀嚎"
     },
     {
-      "surface": "קָרְחָה",
-      "english": "禿頂"
+      "surface": "מידבא",
+      "english": "摩押"
     },
     {
-      "surface": "כָּל",
-      "english": "所有"
+      "surface": "מואב",
+      "english": "哀嚎"
     },
     {
-      "surface": "זָקָן",
-      "english": "鬍鬚"
+      "surface": "ייליל",
+      "english": "在"
     },
     {
-      "surface": "גְּרוּעָה",
-      "english": "被剃除"
+      "surface": "בכל",
+      "english": "它所有的头"
+    },
+    {
+      "surface": "ראשיו",
+      "english": "都有秃斑"
+    },
+    {
+      "surface": "קרחה",
+      "english": "每一个胡须"
+    },
+    {
+      "surface": "כל",
+      "english": "都被剃净"
+    },
+    {
+      "surface": "זקן",
+      "english": "都被剃净"
+    },
+    {
+      "surface": "גרועה",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T21:41:50.713380110Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:43:31.491845609Z",
+  "model": "glm-4.5"
 }

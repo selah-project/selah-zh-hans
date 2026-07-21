@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "2-kings 18:1",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 1366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18978,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20344
-  },
-  "translation": "בשנת שלש להושע בן אלה מלך ישראל מלך חזקיה בן אחז מלך יהודה —— בִּ\/שְׁנַת שָׁלֹשׁ לְ\/הוֹשֵׁעַ בֶּן־אֵלָה מֶלֶךְ יִשְׂרָאֵל，מָלַךְ חִזְקִיָּהוּ בֶּן־אָחָז מֶלֶךְ יְהוּדָה׃",
+  "translation": "事情发生在何细亚、以拉之子、以色列王的第三年,希西家、亚哈斯之子、犹大王作王。",
   "tokens": [
     {
-      "surface": "וֽ\/יְהִי",
-      "english": "וַ\/יְהִי 发生了"
+      "surface": "ויהי",
+      "english": "事情发生在"
     },
     {
-      "surface": "בִּ\/שְׁנַת",
-      "english": "בְּ\/שָׁנַת (在)……年"
+      "surface": "בשנת",
+      "english": "在……年"
     },
     {
-      "surface": "שָׁלֹשׁ",
-      "english": "שָׁלֹשׁ 三"
+      "surface": "שלש",
+      "english": "第三"
     },
     {
-      "surface": "לְ\/הוֹשֵׁעַ",
-      "english": "לְ\/הוֹשֵׁעַ 属于何细阿"
+      "surface": "להושע",
+      "english": "何细亚"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֵּן 子"
+      "surface": "בן",
+      "english": "之子"
     },
     {
-      "surface": "אֵלָה",
+      "surface": "אלה",
       "english": "以拉"
     },
     {
-      "surface": "מֶלֶךְ",
-      "english": "מֶלֶךְ 王"
+      "surface": "מלך",
+      "english": "王"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "מָלַךְ",
-      "english": "מָלַךְ 作王"
+      "surface": "מלך",
+      "english": "作王"
     },
     {
-      "surface": "חִזְקִיָּה",
+      "surface": "חזקיה",
       "english": "希西家"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֵּן 子"
+      "surface": "בן",
+      "english": "之子"
     },
     {
-      "surface": "אָחָז",
-      "english": "אָחָז 亚哈斯"
+      "surface": "אחז",
+      "english": "亚哈斯"
     },
     {
-      "surface": "מֶלֶךְ",
-      "english": "מֶלֶךְ 王"
+      "surface": "מלך",
+      "english": "王"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "english": "犹大"
     }
   ],
-  "timestamp": "2026-07-17T21:29:23.979778820Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:27.585408968Z",
+  "model": "glm-4.5"
 }

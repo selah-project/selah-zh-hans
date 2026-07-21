@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "exodus 27:15",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 27,
   "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18649,
+    "completion_tokens": 407,
+    "prompt_tokens": 18648,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19225
+    "total_tokens": 19055
   },
-  "translation": "לְכָתֵף הַשֵּׁנִית חֲמֵשׁ-עֶשְׂרֵה קְלָעִים עַמּוּדֵיהֶם שְׁלֹשָׁה וְאַדְנֵיהֶם שְׁלֹשָׁה",
+  "translation": "以及在第 二 侧 ⟨要为⟩ 十五 ⟨肘⟩ 的幔子,它们的柱子 三 根,以及 ⟨它们⟩ 的卯座 三 个",
   "tokens": [
     {
       "surface": "ולכתף",
-      "english": "ולכתף השנית"
+      "english": "以及在第 二 侧"
     },
     {
       "surface": "השנית",
-      "english": ""
+      "english": "侧"
     },
     {
       "surface": "חמש",
-      "english": "חמש"
+      "english": "十五"
     },
     {
       "surface": "עשרה",
-      "english": "-עשרה"
+      "english": "⟨肘⟩ 的"
     },
     {
       "surface": "קלעים",
-      "english": "קלעים"
+      "english": "幔子"
     },
     {
       "surface": "עמדיהם",
-      "english": "עמודיהם"
+      "english": "它们的柱子 三 根"
     },
     {
       "surface": "שלשה",
-      "english": "שלושה"
+      "english": "三"
     },
     {
       "surface": "ואדניהם",
-      "english": "ואדניהם"
+      "english": "以及 ⟨它们⟩ 的卯座"
     },
     {
       "surface": "שלשה",
-      "english": "שלושה"
+      "english": "三 个"
     }
   ],
-  "timestamp": "2026-07-17T18:29:14.334459465Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:54.904017093Z",
+  "model": "glm-4.5"
 }

@@ -1,38 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "numbers 18:22",
   "book": "numbers",
   "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19844,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20369
-  },
-  "translation": "בני ישראל לא יקרבו עוד אל אוהל מועד, לשאת חטא, למות.",
+  "translation": "以色列人 ⟨再⟩ 也不可接近会幕,⟨免得⟩ 担当罪孽 ⟨而⟩ 死。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "ולא"
+      "english": "⟨再⟩ 也不可"
     },
     {
       "surface": "יקרבו",
-      "english": "יִקְרְבוּ"
+      "english": "接近"
     },
     {
       "surface": "עוד",
-      "english": "עוֹד"
+      "english": "⟨再⟩"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "人"
     },
     {
       "surface": "ישראל",
@@ -40,29 +29,29 @@
     },
     {
       "surface": "אל",
-      "english": "אֶל"
+      "english": "到"
     },
     {
       "surface": "אהל",
-      "english": "אֹהֶל"
+      "english": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "מוֹעֵד"
+      "english": "会面"
     },
     {
       "surface": "לשאת",
-      "english": "לָשֵׂאת"
+      "english": "⟨免得⟩ 担当"
     },
     {
       "surface": "חטא",
-      "english": "חֵטְא"
+      "english": "罪孽"
     },
     {
       "surface": "למות",
-      "english": "לָמוּת"
+      "english": "⟨而⟩ 死"
     }
   ],
-  "timestamp": "2026-07-18T03:18:54.619194096Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:45:08.024828281Z",
+  "model": "glm-4.5"
 }

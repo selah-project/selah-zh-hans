@@ -1,80 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "jeremiah 48:27",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 48,
   "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19568,
+    "completion_tokens": 703,
+    "prompt_tokens": 19631,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20147
+    "total_tokens": 20334
   },
-  "translation": "כִּי לֹא הָיָה 以色列 לְךָ לִלְעַג, אִם בְּגַנָּבִים נִמְצָא, כִּי מִדֵּי דַבֶּרְךָ בּוֹ תָּנוּד.",
+  "translation": "因为以色列 ⟨岂不是⟩ ⟨被⟩你 ⟨作为⟩ 嘲笑 ⟨吗⟩? ⟨他⟩ ⟨岂是⟩ 在窃贼中间 ⟨被⟩ 找着 ⟨吗⟩? 因为由于你的 ⟨davar⟩ 有关他的,你 ⟨必⟩ 摇头。",
   "tokens": [
     {
-      "surface": "כִּי",
-      "english": "כִּי"
+      "surface": "ואם",
+      "english": "因为"
     },
     {
-      "surface": "לֹא",
-      "english": "לֹא"
+      "surface": "לוא",
+      "english": "⟨岂不是⟩"
     },
     {
-      "surface": "הָיָה",
-      "english": "הָיָה"
+      "surface": "השחק",
+      "english": "⟨被⟩你 ⟨作为⟩ 嘲笑"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "היה",
+      "english": "⟨岂是⟩"
+    },
+    {
+      "surface": "לך",
+      "english": "⟨被⟩你"
+    },
+    {
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "לְךָ",
-      "english": "לְךָ"
+      "surface": "אם",
+      "english": "⟨吗⟩?"
     },
     {
-      "surface": "לִלְעַג",
-      "english": "לִלְעַג"
+      "surface": "בגנבים",
+      "english": "在窃贼中间"
     },
     {
-      "surface": "אִם",
-      "english": "אִם"
+      "surface": "נמצאה",
+      "english": "⟨被⟩ 找着"
     },
     {
-      "surface": "בְּגַנָּבִים",
-      "english": "בְּגַנָּבִים"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "נִמְצָא",
-      "english": "נִמְצָא"
+      "surface": "מדי",
+      "english": "由于"
     },
     {
-      "surface": "כִּי",
-      "english": "כִּי"
+      "surface": "דבריך",
+      "english": "你的 ⟨davar⟩"
     },
     {
-      "surface": "מִדֵּי",
-      "english": "מִדֵּי"
+      "surface": "בו",
+      "english": "有关他的"
     },
     {
-      "surface": "דַבֶּרְךָ",
-      "english": "דַבֶּרְךָ"
-    },
-    {
-      "surface": "בּוֹ",
-      "english": "בּוֹ"
-    },
-    {
-      "surface": "תָּנוּד",
-      "english": "תָּנוּד"
+      "surface": "תתנודד",
+      "english": "你 ⟨必⟩ 摇头"
     }
   ],
-  "timestamp": "2026-07-20T06:39:54.657176252Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:35.666689156Z",
+  "model": "glm-4.5"
 }

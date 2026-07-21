@@ -1,50 +1,47 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "jeremiah 31:22",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 31,
   "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19589,
+    "completion_tokens": 555,
+    "prompt_tokens": 19653,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20234
+    "total_tokens": 20208
   },
-  "translation": "הבת השובבה עַד מָתַי תִּתְחַמָּקִי\/ן, כִּי בָרָא יְהוָה חֲדָשָׁה בָּ\/אָרֶץ, נְקֵבָה תְּסוֹבֵב גָּבֶר",
+  "translation": "你要徘徊多久,你这背道的女儿呢?因为雅威在地上创造了一件新事:女子护卫男子。",
   "tokens": [
     {
-      "surface": "הבת",
-      "english": "הבת"
-    },
-    {
-      "surface": "השובבה",
-      "english": "השובבה"
-    },
-    {
       "surface": "עד",
-      "english": "עד"
+      "english": "你要徘徊多久"
     },
     {
       "surface": "מתי",
-      "english": "מתי"
+      "english": "你要徘徊多久"
     },
     {
       "surface": "תתחמקין",
-      "english": "תתחמקין"
+      "english": "你要徘徊多久"
+    },
+    {
+      "surface": "הבת",
+      "english": "女儿"
+    },
+    {
+      "surface": "השובבה",
+      "english": "这背道的"
     },
     {
       "surface": "כי",
-      "english": "כי"
+      "english": "因为"
     },
     {
       "surface": "ברא",
-      "english": "ברא"
+      "english": "创造"
     },
     {
       "surface": "יהוה",
@@ -52,25 +49,25 @@
     },
     {
       "surface": "חדשה",
-      "english": "חדשה"
+      "english": "一件新事"
     },
     {
       "surface": "בארץ",
-      "english": "בארץ"
+      "english": "在地上"
     },
     {
       "surface": "נקבה",
-      "english": "נקבה"
+      "english": "女子"
     },
     {
       "surface": "תסובב",
-      "english": "תסובב"
+      "english": "护卫"
     },
     {
       "surface": "גבר",
-      "english": "גבר"
+      "english": "男子"
     }
   ],
-  "timestamp": "2026-07-17T22:25:19.253685182Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:21:30.659814824Z",
+  "model": "glm-4.5"
 }

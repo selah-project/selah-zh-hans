@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "psalms 92:4",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 92,
   "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64462,
+    "completion_tokens": 440,
+    "prompt_tokens": 64437,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64892
+    "total_tokens": 64877
   },
-  "translation": "在十弦琴上,和在נֶבֶל上,在כִנּוֹר上伴著深沉的הִגָּיוֹן。",
+  "translation": "用十弦的乐器和拿弗尔琴，用默想的声音和基奴尔琴。",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "在……之上"
+      "english": "用"
     },
     {
       "surface": "עשור",
-      "english": "十弦琴"
+      "english": "十弦的乐器"
     },
     {
       "surface": "ועלי",
-      "english": "和在……之上"
+      "english": "和用"
     },
     {
       "surface": "נבל",
-      "english": "נֶבֶל"
+      "english": "拿弗尔琴"
     },
     {
       "surface": "עלי",
-      "english": "在……之上"
+      "english": "用"
     },
     {
       "surface": "הגיון",
-      "english": "הִגָּיוֹן"
+      "english": "默想的声音"
     },
     {
       "surface": "בכנור",
-      "english": "伴著כִנּוֹר"
+      "english": "基奴尔琴"
     }
   ],
-  "timestamp": "2026-07-18T00:12:16.730030978Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:13.736152833Z",
+  "model": "glm-4.5"
 }

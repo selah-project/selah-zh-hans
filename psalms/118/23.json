@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "psalms 118:23",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 118,
   "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64408,
+    "completion_tokens": 360,
+    "prompt_tokens": 64472,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64809
+    "total_tokens": 64832
   },
-  "translation": "מִ\/אֵת יְהוָה הָיְתָה זֹאת הִיא נִפְלָאת בְּ\/עֵינֵינוּ",
+  "translation": "这是雅威的所作所为；在我们眼中看为奇妙。",
   "tokens": [
     {
       "surface": "מאת",
-      "english": "这是"
+      "english": "这是从...出来"
     },
     {
       "surface": "יהוה",
@@ -28,25 +25,25 @@
     },
     {
       "surface": "היתה",
-      "english": "所行的"
+      "english": "的所作所为"
     },
     {
       "surface": "זאת",
-      "english": "这事"
+      "english": "这是"
     },
     {
       "surface": "היא",
-      "english": "⟨这⟩"
+      "english": "它"
     },
     {
       "surface": "נפלאת",
-      "english": "奇妙"
+      "english": "看为奇妙"
     },
     {
       "surface": "בעינינו",
       "english": "在我们眼中"
     }
   ],
-  "timestamp": "2026-07-18T00:21:55.402571366Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:29.277223807Z",
+  "model": "glm-4.5"
 }

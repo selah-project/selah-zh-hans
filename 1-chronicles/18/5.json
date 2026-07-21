@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "1-chronicles 18:5",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59242,
+    "completion_tokens": 379,
+    "prompt_tokens": 59342,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59868
+    "total_tokens": 59721
   },
-  "translation": "אֲרָם דַּמֶּשֶׂק (大马士革的阿拉米) 来援助צוֹבָה (琐巴)王הֲדַדְעֶזֶר (哈大底谢)，דָּוִיד (大卫)击杀了בְּאֲרָם (阿拉米)二万二千אִישׁ (人)。",
+  "translation": "当大马士革的亚兰人出来帮助琐巴王哈达底谢时,大卫击杀了亚兰人二万二千人。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "于是来了"
+      "english": "当...出来"
     },
     {
       "surface": "ארם",
-      "english": "阿拉米"
+      "english": "亚兰人"
     },
     {
       "surface": "דרמשק",
-      "english": "大马士革"
+      "english": "大马士革的"
     },
     {
       "surface": "לעזור",
-      "english": "援助"
+      "english": "帮助"
     },
     {
       "surface": "להדדעזר",
-      "english": "给哈大底谢"
+      "english": "哈达底谢"
     },
     {
       "surface": "מלך",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "ויך",
-      "english": "于是击杀了"
+      "english": "大卫击杀了"
     },
     {
       "surface": "דויד",
@@ -56,25 +53,25 @@
     },
     {
       "surface": "בארם",
-      "english": "阿拉米人"
+      "english": "亚兰人"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "english": "二万"
     },
     {
       "surface": "ושנים",
-      "english": "二"
+      "english": "二千"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "english": "人"
     },
     {
       "surface": "איש",
       "english": "人"
     }
   ],
-  "timestamp": "2026-07-18T02:05:23.398345760Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:38.107937635Z",
+  "model": "glm-4.5"
 }

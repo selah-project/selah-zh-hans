@@ -1,80 +1,77 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "exodus 37:18",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 37,
   "usage": {
-    "completion_tokens": 656,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19073,
+    "completion_tokens": 385,
+    "prompt_tokens": 19072,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19729
+    "total_tokens": 19457
   },
-  "translation": "וְשִׁשָּׁה קָנִים יֹצְאִים מִצִּדֶּיהָ: שְׁלֹשָׁה קְנֵי מְנֹרָה מִצִּדָּהּ הָאֶחָד, וּשְׁלֹשָׁה קְנֵי מְנֹרָה מִצִּדָּהּ הַשֵּׁנִי׃",
+  "translation": "以及六根枝子从它的旁边发出；灯台的三根枝子从它的这一边，以及灯台的三根枝子从它的那一边发出。",
   "tokens": [
     {
       "surface": "וששה",
-      "english": "וְשִׁשָּׁה"
+      "english": "以及六根"
     },
     {
       "surface": "קנים",
-      "english": "קָנִים"
+      "english": "枝子"
     },
     {
       "surface": "יצאים",
-      "english": "יֹצְאִים"
+      "english": "从它的旁边发出"
     },
     {
       "surface": "מצדיה",
-      "english": "מִצִּדֶּיהָ"
+      "english": "从它的旁边"
     },
     {
       "surface": "שלשה",
-      "english": "שְׁלֹשָׁה"
+      "english": "三根"
     },
     {
       "surface": "קני",
-      "english": "קְנֵי"
+      "english": "枝子"
     },
     {
       "surface": "מנרה",
-      "english": "מְנֹרָה"
+      "english": "灯台"
     },
     {
       "surface": "מצדה",
-      "english": "מִצִּדָּהּ"
+      "english": "从它的"
     },
     {
       "surface": "האחד",
-      "english": "הָאֶחָד"
+      "english": "这一边"
     },
     {
       "surface": "ושלשה",
-      "english": "וּשְׁלֹשָׁה"
+      "english": "以及三根"
     },
     {
       "surface": "קני",
-      "english": "קְנֵי"
+      "english": "枝子"
     },
     {
       "surface": "מנרה",
-      "english": "מְנֹרָה"
+      "english": "灯台"
     },
     {
       "surface": "מצדה",
-      "english": "מִצִּדָּהּ"
+      "english": "从它的"
     },
     {
       "surface": "השני",
-      "english": "הַשֵּׁנִי"
+      "english": "那一边"
     }
   ],
-  "timestamp": "2026-07-17T18:37:35.756170918Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:55.611556270Z",
+  "model": "glm-4.5"
 }

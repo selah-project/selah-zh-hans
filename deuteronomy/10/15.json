@@ -1,34 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "deuteronomy 10:15",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19874,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20492
-  },
-  "translation": "רק בַּ\/אֲבֹתֶ֛י\/ךָ חָשַׁ֥ק יְהוָ֖ה לְ\/אַהֲבָ֣ה אוֹתָ֑\/ם וַ\/יִּבְחַ֞ר בְּ\/זַרְעָ֣\/ם אַחֲרֵי\/הֶ֗ם בָּ\/כֶ֛ם מִ\/כָּל הָ\/עַמִּ֖ים כַּ\/יּ֥וֹם הַ\/זֶּה",
+  "translation": "唯独你的祖先，雅威以此爱他们而喜悦，并在他们之后选择了他们的后裔 ⟨את⟩ 你们，在万民之中，正如今日。",
   "tokens": [
     {
       "surface": "רק",
-      "english": "רק"
+      "english": "唯独"
     },
     {
       "surface": "באבתיך",
-      "english": "באבתיך"
+      "english": "你的祖先"
     },
     {
       "surface": "חשק",
-      "english": "חשק"
+      "english": "以此...喜悦"
     },
     {
       "surface": "יהוה",
@@ -36,45 +25,46 @@
     },
     {
       "surface": "לאהבה",
-      "english": "לאהבה"
+      "english": "爱他们"
     },
     {
       "surface": "אותם",
-      "english": "אותם"
+      "english": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "ויבחר",
-      "english": "ויבחר"
+      "english": "并...选择了"
     },
     {
       "surface": "בזרעם",
-      "english": "בזרעם"
+      "english": "他们的后裔"
     },
     {
       "surface": "אחריהם",
-      "english": "אחריהם"
+      "english": "在他们之后"
     },
     {
       "surface": "בכם",
-      "english": "בכם"
+      "english": "在你们"
     },
     {
       "surface": "מכל",
-      "english": "מכל"
+      "english": "从...万民"
     },
     {
       "surface": "העמים",
-      "english": "העמים"
+      "english": "万民"
     },
     {
       "surface": "כיום",
-      "english": "כיום"
+      "english": "正如今日"
     },
     {
       "surface": "הזה",
-      "english": "הזה"
+      "english": "这"
     }
   ],
-  "timestamp": "2026-07-17T19:34:33.138291064Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:33:17.639859481Z",
+  "model": "glm-4.5"
 }

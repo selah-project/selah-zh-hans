@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 24,
   "ref": "1-chronicles 6:24",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58819,
+    "completion_tokens": 367,
+    "prompt_tokens": 58909,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59374
+    "total_tokens": 59276
   },
-  "translation": "他的兄弟 אסף (亚萨)，⟨那⟩站立的，在他的右手边；אסף (亚萨)，בֶּן (בֶּרֶכְיָהוּ \/ בֶּן שִׁמְעָא) 的儿子（בֶּרֶכְיָהוּ 是 שִׁמְעָא 的儿子）。",
+  "translation": "和他的兄弟亚萨,⟨他⟩站在他右边——亚萨是比勒基雅的儿子,示玛的儿子",
   "tokens": [
     {
-      "surface": "וְ\/אָחִ֣י\/וֹ",
+      "surface": "ואחיו",
       "english": "和他的兄弟"
     },
     {
-      "surface": "אָסָ֔ף",
+      "surface": "אסף",
       "english": "亚萨"
     },
     {
-      "surface": "הָ\/עֹמֵ֖ד",
-      "english": "⟨那⟩站立的"
+      "surface": "העמד",
+      "english": "⟨他⟩站在"
     },
     {
-      "surface": "עַל",
+      "surface": "על",
       "english": "在"
     },
     {
-      "surface": "יְמִינ֑\/וֹ",
-      "english": "他的右手边"
+      "surface": "ימינו",
+      "english": "他右边"
     },
     {
-      "surface": "אָסָ֥ף",
-      "english": "亚萨"
+      "surface": "אסף",
+      "english": "——亚萨"
     },
     {
-      "surface": "בֶּן",
-      "english": "儿子"
+      "surface": "בן",
+      "english": "是……的儿子"
     },
     {
-      "surface": "בֶּרֶכְיָ֖הוּ",
-      "english": "比列雅户"
+      "surface": "ברכיהו",
+      "english": "比勒基雅"
     },
     {
-      "surface": "בֶּן",
-      "english": "儿子"
+      "surface": "בן",
+      "english": "……的儿子"
     },
     {
-      "surface": "שִׁמְעָֽא",
-      "english": "示米亚"
+      "surface": "שמעא",
+      "english": "示玛"
     }
   ],
-  "timestamp": "2026-07-18T01:55:28.563814564Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:22.350295256Z",
+  "model": "glm-4.5"
 }

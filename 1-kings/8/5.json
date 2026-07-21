@@ -1,100 +1,89 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "1-kings 8:5",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 1182,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65001,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66183
-  },
-  "translation": "המלך 所罗门 וכל עדת 以色列 הנועדים אליו, היו אתו לפני הארון, מקריבים צאן ובקר אשר לא ניתן למנותם ולא לספור מרוב",
+  "translation": "王所罗门,和聚集到他那里的以色列全会众,陪他到约柜前,献上羊群和牛群,多得不可计数,也无法清点,因为众多。",
   "tokens": [
     {
-      "surface": "וְ\/הַ\/מֶּ֣לֶךְ",
-      "english": "והמלך"
+      "surface": "והמלך",
+      "english": "王"
     },
     {
-      "surface": "שְׁלֹמֹ֗ה",
+      "surface": "שלמה",
       "english": "所罗门"
     },
     {
-      "surface": "וְ\/כָל",
-      "english": "וכל"
+      "surface": "וכל",
+      "english": "和"
     },
     {
-      "surface": "עֲדַ֤ת",
-      "english": "עדת"
+      "surface": "עדת",
+      "english": "会众"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הַ\/נּוֹעָדִ֣ים",
-      "english": "הנועדים"
+      "surface": "הנועדים",
+      "english": "聚集的"
     },
     {
-      "surface": "עָלָ֔י\/וֹ",
-      "english": "אליו"
+      "surface": "עליו",
+      "english": "到他那里"
     },
     {
-      "surface": "אִתּ֖\/וֹ",
-      "english": "אתו"
+      "surface": "אתו",
+      "english": "陪他"
     },
     {
-      "surface": "לִ\/פְנֵ֣י",
-      "english": "לפני"
+      "surface": "לפני",
+      "english": "到...前"
     },
     {
-      "surface": "הָֽ\/אָר֑וֹן",
-      "english": "הארון"
+      "surface": "הארון",
+      "english": "约柜"
     },
     {
-      "surface": "מְזַבְּחִים֙",
-      "english": "מקריבים"
+      "surface": "מזבחים",
+      "english": "献上"
     },
     {
-      "surface": "צֹ֣אן",
-      "english": "צאן"
+      "surface": "צאן",
+      "english": "羊群"
     },
     {
-      "surface": "וּ\/בָקָ֔ר",
-      "english": "ובקר"
+      "surface": "ובקר",
+      "english": "和牛群"
     },
     {
-      "surface": "אֲשֶׁ֧ר",
-      "english": "אשר"
+      "surface": "אשר",
+      "english": "多得"
     },
     {
-      "surface": "לֹֽא",
-      "english": "לא"
+      "surface": "לא",
+      "english": "不"
     },
     {
-      "surface": "יִסָּפְר֛וּ",
-      "english": "ניתן למנותם"
+      "surface": "יספרו",
+      "english": "可计数"
     },
     {
-      "surface": "וְ\/לֹ֥א",
-      "english": "ולא"
+      "surface": "ולא",
+      "english": "也"
     },
     {
-      "surface": "יִמָּנ֖וּ",
-      "english": "לספור"
+      "surface": "ימנו",
+      "english": "无法清点"
     },
     {
-      "surface": "מֵ\/רֹֽב",
-      "english": "מרוב"
+      "surface": "מרב",
+      "english": "因为众多"
     }
   ],
-  "timestamp": "2026-07-17T21:03:23.875479375Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:49:01.075674649Z",
+  "model": "glm-4.5"
 }

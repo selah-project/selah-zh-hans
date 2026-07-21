@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "1-chronicles 16:21",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 16,
   "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58510,
+    "completion_tokens": 346,
+    "prompt_tokens": 58509,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58836
+    "total_tokens": 58855
   },
-  "translation": "לֹא הִנִּיחַ לְ\/אִישׁ לְ\/עָשְׁקָ\/ם וַ\/יּוֹכַח עֲלֵי\/הֶם מְלָכִֽים",
+  "translation": "没有 ⟨人⟩ 去 ⟨这⟩ 亏负 ⟨他们⟩, ⟨雅威⟩ 指责 ⟨诸王⟩ 为了 ⟨他们⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "english": "没有"
     },
     {
       "surface": "הניח",
-      "english": "他容让"
+      "english": "去 ⟨这⟩"
     },
     {
       "surface": "לאיש",
-      "english": "任何人"
+      "english": "⟨人⟩"
     },
     {
       "surface": "לעשקם",
-      "english": "欺压他们"
+      "english": "亏负 ⟨他们⟩"
     },
     {
       "surface": "ויוכח",
-      "english": "他责备"
+      "english": "⟨雅威⟩ 指责"
     },
     {
       "surface": "עליהם",
-      "english": "为他们"
+      "english": "为了 ⟨他们⟩"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "english": "⟨诸王⟩"
     }
   ],
-  "timestamp": "2026-07-18T02:04:05.161951928Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:03.858948038Z",
+  "model": "glm-4.5"
 }

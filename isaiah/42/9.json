@@ -1,94 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "isaiah 42:9",
   "book": "isaiah",
   "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 956,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20950,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21906
-  },
-  "translation": "הראשנות, הִנֵּה בָ֑אוּ; וְ\/חֲדָשׁוֹת֙ אֲנִי מַגִּ֔יד; בְּ\/טֶ֥רֶם תִּצְמַ֖חְנָה, אַשְׁמִ֥יעַ אֶתְ\/כֶֽם׃",
+  "translation": "看哪,起初的事已经发生,新的事我要宣告;在它们发生之前,我使你们听见。",
   "tokens": [
     {
-      "surface": "הָ\/רִֽאשֹׁנ֖וֹת",
-      "english": "הדברים הקודמים",
-      "lemma": "רִאשׁוֹן",
-      "morph": "Aampa",
-      "freq": 152
+      "surface": "הראשנות",
+      "english": "起初的事"
     },
     {
-      "surface": "הִנֵּה",
-      "english": "הנה",
-      "lemma": "הִנֵּה",
-      "morph": "Tc",
-      "freq": 998
+      "surface": "הנה",
+      "english": "看哪"
     },
     {
-      "surface": "בָ֑אוּ",
-      "english": "הגיעו",
-      "lemma": "בּוֹא",
-      "morph": "Vqp3cp",
-      "freq": 1001
+      "surface": "באו",
+      "english": "已经发生"
     },
     {
-      "surface": "וְ\/חֲדָשׁוֹת֙",
-      "english": "ודברים חדשים",
-      "lemma": "חָדָשׁ",
-      "morph": "C\/Aafpa",
-      "freq": 135
+      "surface": "וחדשות",
+      "english": "新的事"
     },
     {
-      "surface": "אֲנִ֣י",
-      "english": "אני",
-      "lemma": "אֲנִי",
-      "morph": "Pp1cs",
-      "freq": 788
+      "surface": "אני",
+      "english": "我要"
     },
     {
-      "surface": "מַגִּ֔יד",
-      "english": "מגלה",
-      "lemma": "נָגַד",
-      "morph": "Vhrmsa",
-      "freq": 368
+      "surface": "מגיד",
+      "english": "宣告"
     },
     {
-      "surface": "בְּ\/טֶ֥רֶם",
-      "english": "לפני ש",
-      "lemma": "טֶרֶם",
-      "morph": "Rd",
-      "freq": 24
+      "surface": "בטרם",
+      "english": "在...之前"
     },
     {
-      "surface": "תִּצְמַ֖חְנָה",
-      "english": "יצמחו",
-      "lemma": "צָמַח",
-      "morph": "Vqi3fp",
-      "freq": 33
+      "surface": "תצמחנה",
+      "english": "它们发生"
     },
     {
-      "surface": "אַשְׁמִ֥יעַ",
-      "english": "אשמיע",
-      "lemma": "שָׁמַע",
-      "morph": "Vhi1cs",
-      "freq": 1160
+      "surface": "אשמיע",
+      "english": "我使你们听见"
     },
     {
-      "surface": "אֶתְ\/כֶֽם",
-      "english": "אותכם",
-      "lemma": "אֵת",
-      "morph": "To\/Sp2mp",
-      "freq": 7773
+      "surface": "אתכם",
+      "english": "⟨את⟩",
+      "marks": "你们"
     }
   ],
-  "timestamp": "2026-07-17T21:54:33.462793915Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:42:52.249244510Z",
+  "model": "glm-4.5"
 }

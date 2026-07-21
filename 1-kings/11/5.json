@@ -1,26 +1,15 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "1-kings 11:5",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 688,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64246,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64934
-  },
-  "translation": "所罗门去追随 שְׁלֹמֹה אַחֲרֵי עַשְׁתֹּרֶת אֱלֹהֵי צִידֹנִים וְ\/אַחֲרֵי מַלְכֹּם שִׁקּוּץ עַמּוֹנִים׃",
+  "translation": "因为所罗门随从西顿人的女神阿施塔特,又随从亚扪人的可憎之物米尔共。",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "去"
+      "english": "随从"
     },
     {
       "surface": "שלמה",
@@ -28,7 +17,7 @@
     },
     {
       "surface": "אחרי",
-      "english": "追随"
+      "english": "随从"
     },
     {
       "surface": "עשתרת",
@@ -40,11 +29,11 @@
     },
     {
       "surface": "צדנים",
-      "english": "西顿人的"
+      "english": "西顿人"
     },
     {
       "surface": "ואחרי",
-      "english": "以及追随"
+      "english": "又随从"
     },
     {
       "surface": "מלכם",
@@ -56,9 +45,9 @@
     },
     {
       "surface": "עמנים",
-      "english": "亚扪人的"
+      "english": "亚扪人"
     }
   ],
-  "timestamp": "2026-07-17T21:06:11.622746232Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:28.592088324Z",
+  "model": "glm-4.5"
 }

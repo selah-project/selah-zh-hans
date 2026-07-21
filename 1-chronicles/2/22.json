@@ -1,69 +1,66 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "1-chronicles 2:22",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59009,
+    "completion_tokens": 465,
+    "prompt_tokens": 59073,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59641
+    "total_tokens": 59538
   },
-  "translation": "וְ\/שֵׂגוּב הוֹלִיד אֶת 雅亿 וַ\/יְהִי ל֗\/וֹ עֶשְׂרִים וְ\/שָׁלוֹשׁ עָרִים בְּ\/אֶרֶץ הַ\/גִּלְעָֽד",
+  "translation": "西户 ⟨את⟩ 雅亿,他有二十三座城,在基列地。",
   "tokens": [
     {
-      "surface": "וּ\/שְׂג֖וּב",
-      "english": "西割"
+      "surface": "ושגוב",
+      "english": "西户"
     },
     {
-      "surface": "הוֹלִ֣יד",
-      "english": "הוֹלִיד"
+      "surface": "הוליד",
+      "english": "⟨是...的父亲⟩"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת",
-      "marks": "יָאִיר"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅亿"
     },
     {
-      "surface": "יָאִ֑יר",
+      "surface": "יאיר",
       "english": "雅亿"
     },
     {
-      "surface": "וַֽ\/יְהִי",
-      "english": "וַֽ\/יְהִי"
+      "surface": "ויהי",
+      "english": "他有"
     },
     {
-      "surface": "ל֗\/וֹ",
-      "english": "ל֗\/וֹ"
+      "surface": "לו",
+      "english": ""
     },
     {
-      "surface": "עֶשְׂרִ֤ים",
-      "english": "עֶשְׂרִים"
+      "surface": "עשרים",
+      "english": "二十"
     },
     {
-      "surface": "וְ\/שָׁלוֹשׁ֙",
-      "english": "וְ\/שָׁלוֹשׁ"
+      "surface": "ושלוש",
+      "english": "三"
     },
     {
-      "surface": "עָרִ֔ים",
-      "english": "עָרִים"
+      "surface": "ערים",
+      "english": "座城"
     },
     {
-      "surface": "בְּ\/אֶ֖רֶץ",
-      "english": "בְּ\/אֶרֶץ"
+      "surface": "בארץ",
+      "english": "在...地"
     },
     {
-      "surface": "הַ\/גִּלְעָֽד",
+      "surface": "הגלעד",
       "english": "基列"
     }
   ],
-  "timestamp": "2026-07-18T01:52:19.596186858Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:43.251452557Z",
+  "model": "glm-4.5"
 }

@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "2-chronicles 20:27",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60462,
+    "completion_tokens": 589,
+    "prompt_tokens": 60558,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 61228
+    "total_tokens": 61147
   },
-  "translation": "וַ֠\/יָּשֻׁבוּ כָּל אִ֨ישׁ יְהוּדָ֤ה וִֽ\/ירוּשָׁלִַ֨ם֙ וִֽ\/יהוֹשָׁפָ֣ט בְּ\/רֹאשָׁ֔\/ם לָ\/שׁ֥וּב אֶל יְרוּשָׁלִַ֖ם בְּ\/שִׂמְחָ֑ה כִּֽי שִׂמְּחָ֥\/ם יְהוָ֖ה מֵֽ\/אוֹיְבֵי\/הֶֽם",
+  "translation": "犹大和耶路撒冷的众人,以及约沙法在他们前面,都欢喜地回到耶路撒冷,因为雅威使他们 ⟨在⟩仇敌面前欢喜。",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "于是他们返回"
+      "english": "都...回到"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "众人"
     },
     {
       "surface": "איש",
-      "english": "的人"
+      "english": "〈者\/人〉"
     },
     {
       "surface": "יהודה",
@@ -40,19 +37,19 @@
     },
     {
       "surface": "ויהושפט",
-      "english": "和约沙法"
+      "english": "以及约沙法"
     },
     {
       "surface": "בראשם",
-      "english": "在他们前头"
+      "english": "在他们前面"
     },
     {
       "surface": "לשוב",
-      "english": "要回去"
+      "english": "回到"
     },
     {
       "surface": "אל",
-      "english": "往"
+      "english": "到"
     },
     {
       "surface": "ירושלם",
@@ -60,7 +57,7 @@
     },
     {
       "surface": "בשמחה",
-      "english": "带着欢乐"
+      "english": "欢喜地"
     },
     {
       "surface": "כי",
@@ -68,7 +65,7 @@
     },
     {
       "surface": "שמחם",
-      "english": "使他们欢乐"
+      "english": "使他们欢喜"
     },
     {
       "surface": "יהוה",
@@ -76,9 +73,9 @@
     },
     {
       "surface": "מאויביהם",
-      "english": "脱离他们的仇敌"
+      "english": "⟨在⟩仇敌面前"
     }
   ],
-  "timestamp": "2026-07-18T02:25:40.812508400Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:29:44.116541464Z",
+  "model": "glm-4.5"
 }

@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "2-kings 5:8",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 1400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20226,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 21626
-  },
-  "translation": "וַ\/יְהִ֞י כִּ\/שְׁמֹ֣עַ 以利沙 אִישׁ הָ\/אֱלֹהִ֗ים כִּֽי קָרַ֤ע מֶֽלֶךְ 以色列 אֶת בְּגָדָ֔י\/ו וַ\/יִּשְׁלַח֙ אֶל הַ\/מֶּ֣לֶךְ לֵ\/אמֹ֔ר לָ֥\/מָּה קָרַ֖עְתָּ בְּגָדֶ֑י\/ךָ יָבֹֽא נָ֣א אֵלַ֔\/י וְ\/יֵדַ֕ע כִּ֛י יֵ֥שׁ נָבִ֖יא 以色列",
+  "translation": "以利沙——那位 神的人——听见以色列王撕裂了⟨他的⟩衣服,就打发人去见王,说:“你为什么撕裂⟨你的⟩衣服呢?让他现在到我这里来,他就知道以色列有一位先知。”",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִ֞י"
+      "english": "以利沙——那位 神的人——听见"
     },
     {
       "surface": "כשמע",
-      "english": "כִּ\/שְׁמֹ֣עַ"
+      "english": "以利沙——那位 神的人——听见"
     },
     {
       "surface": "אלישע",
@@ -32,23 +21,23 @@
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "english": "人"
     },
     {
       "surface": "האלהים",
-      "english": "הָ\/אֱלֹהִ֗ים"
+      "english": "神的"
     },
     {
       "surface": "כי",
-      "english": "כִּֽי"
+      "english": ""
     },
     {
       "surface": "קרע",
-      "english": "קָרַ֤ע"
+      "english": "撕裂了"
     },
     {
       "surface": "מלך",
-      "english": "מֶֽלֶךְ"
+      "english": "王"
     },
     {
       "surface": "ישראל",
@@ -56,73 +45,74 @@
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "他的衣服"
     },
     {
       "surface": "בגדיו",
-      "english": "בְּגָדָ֔י\/ו"
+      "english": "衣服"
     },
     {
       "surface": "וישלח",
-      "english": "וַ\/יִּשְׁלַח֙"
+      "english": "就打发人去见"
     },
     {
       "surface": "אל",
-      "english": "אֶל"
+      "english": "去见"
     },
     {
       "surface": "המלך",
-      "english": "הַ\/מֶּ֣לֶךְ"
+      "english": "王"
     },
     {
       "surface": "לאמר",
-      "english": "לֵ\/אמֹ֔ר"
+      "english": "说"
     },
     {
       "surface": "למה",
-      "english": "לָ֥\/מָּה"
+      "english": "为什么"
     },
     {
       "surface": "קרעת",
-      "english": "קָרַ֖עְתָּ"
+      "english": "撕裂了"
     },
     {
       "surface": "בגדיך",
-      "english": "בְּגָדֶ֑י\/ךָ"
+      "english": "衣服"
     },
     {
       "surface": "יבא",
-      "english": "יָבֹֽא"
+      "english": "来"
     },
     {
       "surface": "נא",
-      "english": "נָ֣א"
+      "english": "就"
     },
     {
       "surface": "אלי",
-      "english": "אֵלַ֔\/י"
+      "english": "到我这里"
     },
     {
       "surface": "וידע",
-      "english": "וְ\/יֵדַ֕ע"
+      "english": "知道"
     },
     {
       "surface": "כי",
-      "english": "כִּ֛י"
+      "english": "有"
     },
     {
       "surface": "יש",
-      "english": "יֵ֥שׁ"
+      "english": "有"
     },
     {
       "surface": "נביא",
-      "english": "נָבִ֖יא"
+      "english": "一位先知"
     },
     {
       "surface": "בישראל",
-      "english": "以色列"
+      "english": "在以色列"
     }
   ],
-  "timestamp": "2026-07-17T21:20:32.171834456Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:38.249390714Z",
+  "model": "glm-4.5"
 }

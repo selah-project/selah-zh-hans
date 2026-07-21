@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "jeremiah 38:19",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 38,
   "usage": {
-    "completion_tokens": 952,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20229,
+    "completion_tokens": 630,
+    "prompt_tokens": 20311,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21181
+    "total_tokens": 20941
   },
-  "translation": "西底家 המלך אמר אל 耶利米: אני דואג את 犹大人 אשר נפלו אל 迦勒底人, פן ייתנו אותי בידם ויתעללו בי.",
+  "translation": "西底家王对耶利米说:我惧怕那些已经归降加色底人的犹太人,恐怕他们把我交在他们的手中,以此戏弄我。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "说"
     },
     {
       "surface": "המלך",
-      "english": "המלך"
+      "english": "王"
     },
     {
       "surface": "צדקיהו",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "对"
     },
     {
       "surface": "ירמיהו",
@@ -40,63 +37,63 @@
     },
     {
       "surface": "אני",
-      "english": "אני"
+      "english": "我"
     },
     {
       "surface": "דאג",
-      "english": "דואג"
+      "english": "惧怕"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "היהודים"
+      "marks": "那些已经归降加色底人的犹太人"
     },
     {
       "surface": "היהודים",
-      "english": "犹大人"
+      "english": "犹太人"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "已经"
     },
     {
       "surface": "נפלו",
-      "english": "נפלו"
+      "english": "归降"
     },
     {
       "surface": "אל",
-      "english": "אל"
+      "english": "到"
     },
     {
       "surface": "הכשדים",
-      "english": "迦勒底人"
+      "english": "加色底人"
     },
     {
       "surface": "פן",
-      "english": "פן"
+      "english": "恐怕"
     },
     {
       "surface": "יתנו",
-      "english": "ייתנו"
+      "english": "他们把...交在"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
-      "marks": "בידם"
+      "english": "我",
+      "marks": "在他们的手中"
     },
     {
       "surface": "בידם",
-      "english": "בידם"
+      "english": "在他们的手中"
     },
     {
       "surface": "והתעללו",
-      "english": "ויתעללו"
+      "english": "戏弄"
     },
     {
       "surface": "בי",
-      "english": "בי"
+      "english": "我"
     }
   ],
-  "timestamp": "2026-07-20T06:42:20.577223618Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:48.242999260Z",
+  "model": "glm-4.5"
 }

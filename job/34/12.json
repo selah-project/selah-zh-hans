@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "job 34:12",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 34,
   "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21728,
+    "completion_tokens": 473,
+    "prompt_tokens": 21727,
     "prompt_tokens_details": {
       "cached_tokens": 20608
     },
-    "total_tokens": 22195
+    "total_tokens": 22200
   },
-  "translation": "诚然,אֵל 必不作恶,ושַׁדַּי 必不扭曲מִשְׁפָּט。",
+  "translation": "Indeed, truly, El ⟨will⟩ not do wickedly, and Shaddai ⟨will⟩ not pervert judgment.",
   "tokens": [
     {
-      "surface": "אַף",
-      "english": "诚然"
+      "surface": "אף",
+      "english": "Indeed"
     },
     {
-      "surface": "אָמְנָם",
-      "english": "确实"
+      "surface": "אמנם",
+      "english": "truly"
     },
     {
-      "surface": "אֵל",
-      "english": "אֵל (大能者)"
+      "surface": "אל",
+      "english": "El"
     },
     {
-      "surface": "לֹא",
-      "english": "必不"
+      "surface": "לא",
+      "english": "not"
     },
     {
-      "surface": "יַרְשִׁיעַ",
-      "english": "行恶"
+      "surface": "ירשיע",
+      "english": "do wickedly"
     },
     {
-      "surface": "וְ\/שַׁדַּי",
-      "english": "ושַׁדַּי (全能者)"
+      "surface": "ושדי",
+      "english": "and Shaddai"
     },
     {
-      "surface": "לֹא",
-      "english": "必不"
+      "surface": "לא",
+      "english": "not"
     },
     {
-      "surface": "יְעַוֵּת",
-      "english": "扭曲"
+      "surface": "יעות",
+      "english": "pervert"
     },
     {
-      "surface": "מִשְׁפָּט",
-      "english": "מִשְׁפָּט (审判\/公正)"
+      "surface": "משפט",
+      "english": "judgment"
     }
   ],
-  "timestamp": "2026-07-18T01:05:53.236745863Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:49.325697758Z",
+  "model": "glm-4.5"
 }

@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "leviticus 15:16",
   "book": "leviticus",
   "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 704,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19674,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20378
-  },
-  "translation": "וְ\/אִ֕ישׁ כִּֽי תֵצֵ֥א מִמֶּ֖\/נּוּ שִׁכְבַת זָ֑רַע וְ\/רָחַ֥ץ בַּ\/מַּ֛יִם ⟨את⟩ כָּל בְּשָׂר֖\/וֹ וְ\/טָמֵ֥א עַד הָ\/עָֽרֶב׃",
+  "translation": "若男人的种子流出 ⟨从他⟩，他就要在水中洗 ⟨⟨את⟩⟩ 全身，直到晚上都 ⟨是⟩ 不洁净的。",
   "tokens": [
     {
-      "surface": "ו\/איש",
-      "english": "וְ\/אִ֕ישׁ"
+      "surface": "ואיש",
+      "english": "若男人"
     },
     {
       "surface": "כי",
-      "english": "כִּֽי"
+      "english": "若"
     },
     {
       "surface": "תצא",
-      "english": "תֵצֵ֥א"
+      "english": "流出"
     },
     {
       "surface": "ממנו",
-      "english": "מִמֶּ֖\/נּוּ"
+      "english": "⟨从他⟩"
     },
     {
       "surface": "שכבת",
-      "english": "שִׁכְבַת"
+      "english": "交媾的"
     },
     {
       "surface": "זרע",
-      "english": "זָ֑רַע"
+      "english": "种子"
     },
     {
       "surface": "ורחץ",
-      "english": "וְ\/רָחַ֥ץ"
+      "english": "就要洗"
     },
     {
       "surface": "במים",
-      "english": "בַּ\/מַּ֛יִם"
+      "english": "在水中"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
-      "marks": "כל"
+      "english": "⟨⟨את⟩⟩",
+      "marks": "全身"
     },
     {
       "surface": "כל",
-      "english": "כָּל"
+      "english": "全身"
     },
     {
       "surface": "בשרו",
-      "english": "בְּשָׂר֖\/וֹ"
+      "english": "肉体"
     },
     {
       "surface": "וטמא",
-      "english": "וְ\/טָמֵ֥א"
+      "english": "不洁净"
     },
     {
       "surface": "עד",
-      "english": "עַד"
+      "english": "直到"
     },
     {
       "surface": "הערב",
-      "english": "הָ\/עָֽרֶב"
+      "english": "晚上"
     }
   ],
-  "timestamp": "2026-07-17T18:50:41.084845381Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:49.479267649Z",
+  "model": "glm-4.5"
 }

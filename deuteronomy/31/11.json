@@ -1,102 +1,91 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "deuteronomy 31:11",
   "book": "deuteronomy",
   "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 1051,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20436,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 21487
-  },
-  "translation": "כְּ\/ב֣וֹא כָל יִשְׂרָאֵל לֵ\/רָאוֹת֙ אֶת פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔י\/ךָ בַּ\/מָּק֖וֹם אֲשֶׁ֣ר יִבְחָ֑ר תִּקְרָ֞א אֶת הַ\/תּוֹרָ֥ה הַ\/זֹּ֛את נֶ֥גֶד כָּל יִשְׂרָאֵ֖ל בְּ\/אָזְנֵי\/הֶֽם: 当全以色列来朝见雅威你的以罗欣的面，在⟨他⟩所选择的地方，你要在全体以色列面前、在他们耳中宣读⟨את⟩这妥拉。",
+  "translation": "当 ⟨这⟩ 全 以色列 来 ⟨要⟩ 见 ⟨את⟩ 雅威 你 ⟨那⟩ 以罗欣 的 面,在 ⟨他⟩ 所 拣选 的 地方,你 就 要 在 全 以色列 耳边 宣读 ⟨את⟩ 这 妥拉",
   "tokens": [
     {
-      "surface": "בְּ\/ב֣וֹא",
-      "english": "当……来"
+      "surface": "בבוא",
+      "english": "当...来"
     },
     {
-      "surface": "כָל",
+      "surface": "כל",
       "english": "全"
     },
     {
-      "surface": "יִשְׂרָאֵ֗ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "לֵ\/רָאוֹת֙",
-      "english": "朝见"
+      "surface": "לראות",
+      "english": "⟨要⟩ 见"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "雅威的面"
+      "marks": "面"
     },
     {
-      "surface": "פְּנֵי֙",
-      "english": "……的面"
+      "surface": "פני",
+      "english": "面"
     },
     {
-      "surface": "יְהוָ֣ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֶ֔י\/ךָ",
-      "english": "你的以罗欣"
+      "surface": "אלהיך",
+      "english": "你 ⟨那⟩ 以罗欣"
     },
     {
-      "surface": "בַּ\/מָּק֖וֹם",
-      "english": "在……地方"
+      "surface": "במקום",
+      "english": "在...地方"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "⟨那⟩"
+      "surface": "אשר",
+      "english": "⟨他⟩ 所...的"
     },
     {
-      "surface": "יִבְחָ֑ר",
-      "english": "他必选择"
+      "surface": "יבחר",
+      "english": "拣选"
     },
     {
-      "surface": "תִּקְרָ֞א",
-      "english": "你要宣读"
+      "surface": "תקרא",
+      "english": "宣读"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "这妥拉"
+      "marks": "妥拉"
     },
     {
-      "surface": "הַ\/תּוֹרָ֥ה",
+      "surface": "התורה",
       "english": "妥拉"
     },
     {
-      "surface": "הַ\/זֹּ֛את",
+      "surface": "הזאת",
       "english": "这"
     },
     {
-      "surface": "נֶ֥גֶד",
-      "english": "在……面前"
+      "surface": "נגד",
+      "english": "在...耳边"
     },
     {
-      "surface": "כָּל",
-      "english": "全体"
+      "surface": "כל",
+      "english": "全"
     },
     {
-      "surface": "יִשְׂרָאֵ֖ל",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "בְּ\/אָזְנֵי\/הֶֽם",
-      "english": "在他们耳中"
+      "surface": "באזניהם",
+      "english": "耳边"
     }
   ],
-  "timestamp": "2026-07-17T19:47:48.805170041Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:35:22.164416291Z",
+  "model": "glm-4.5"
 }

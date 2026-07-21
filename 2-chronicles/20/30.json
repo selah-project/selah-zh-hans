@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "2-chronicles 20:30",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59578,
+    "completion_tokens": 398,
+    "prompt_tokens": 59647,
     "prompt_tokens_details": {
       "cached_tokens": 58496
     },
-    "total_tokens": 59983
+    "total_tokens": 60045
   },
-  "translation": "וְ\/הָיְתָה מַלְכוּת יְהוֹשָׁפָט שׁוֹקֶטֶת, וַ\/יָּנַח לוֹ אֱלֹהָיו מִ\/סָּבִיב׃",
+  "translation": "于是,约沙法的国 ⟨就⟩ 得享太平;因为他的以罗欣 ⟨已⟩ 使他从四围 ⟨都⟩ 得 ⟨安息⟩。",
   "tokens": [
     {
-      "surface": "ו\/תשקט",
-      "english": "于是平息了"
+      "surface": "ותשקט",
+      "english": "于是,得享太平"
     },
     {
       "surface": "מלכות",
-      "english": "国权"
+      "english": "国"
     },
     {
       "surface": "יהושפט",
@@ -32,11 +29,11 @@
     },
     {
       "surface": "וינח",
-      "english": "赐……安息"
+      "english": "使...得 ⟨安息⟩"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "english": "从... ⟨都⟩"
     },
     {
       "surface": "אלהיו",
@@ -44,9 +41,9 @@
     },
     {
       "surface": "מסביב",
-      "english": "四面环绕"
+      "english": "四围"
     }
   ],
-  "timestamp": "2026-07-18T02:25:36.133878198Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:30:01.211320026Z",
+  "model": "glm-4.5"
 }

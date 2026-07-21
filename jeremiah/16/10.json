@@ -1,142 +1,139 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "jeremiah 16:10",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 16,
   "usage": {
-    "completion_tokens": 1363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21157,
+    "completion_tokens": 830,
+    "prompt_tokens": 21221,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22520
+    "total_tokens": 22051
   },
-  "translation": "וְ\/הָיָ֗ה כִּ֤י תַגִּיד֙ לָ\/עָ֣ם הַ\/זֶּ֔ה אֵ֥ת כָּל הַ\/דְּבָרִ֖ים הָ\/אֵ֑לֶּה וְ\/אָמְר֣וּ אֵלֶ֗י\/ךָ עַל מֶה֩ דִבֶּ֨ר יְהוָ֤ה עָלֵ֨י\/נוּ֙ אֵ֣ת כָּל הָ\/רָעָ֤ה הַ\/גְּדוֹלָה֙ הַ\/זֹּ֔את וּ\/מֶ֤ה עֲוֺנֵ֨\/נוּ֙ וּ\/מֶ֣ה חַטָּאתֵ֔\/נוּ אֲשֶׁ֥ר חָטָ֖אנוּ לַֽ\/יהוָ֥ה אֱלֹהֵֽי\/נוּ",
+  "translation": "这事必成就,当你将这一切话宣告给这民,他们必对你说:雅威为何对我们宣告这一切大灾祸呢?我们的罪孽 ⟨是⟩什么?我们的罪,就是我们向雅威我们的以罗欣所犯的,⟨是⟩什么?",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "事情將是，當"
+      "surface": "והיה",
+      "english": "这事必成就"
     },
     {
-      "surface": "כִּ֤י",
-      "english": "當"
+      "surface": "כי",
+      "english": "当"
     },
     {
-      "surface": "תַגִּיד֙",
-      "english": "你告訴"
+      "surface": "תגיד",
+      "english": "宣告"
     },
     {
-      "surface": "לָ\/עָ֣ם",
-      "english": "這"
+      "surface": "לעם",
+      "english": "给这民"
     },
     {
-      "surface": "הַ\/זֶּ֔ה",
-      "english": "百姓"
+      "surface": "הזה",
+      "english": "这"
     },
     {
-      "surface": "אֵ֥ת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "這一切"
+      "marks": "这一切话"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "english": "一切"
     },
     {
-      "surface": "הַ\/דְּבָרִ֖ים",
-      "english": "話語"
+      "surface": "הדברים",
+      "english": "话"
     },
     {
-      "surface": "הָ\/אֵ֑לֶּה",
-      "english": "這些"
+      "surface": "האלה",
+      "english": "这"
     },
     {
-      "surface": "וְ\/אָמְר֣וּ",
-      "english": "他們必對"
+      "surface": "ואמרו",
+      "english": "他们必说"
     },
     {
-      "surface": "אֵלֶ֗י\/ךָ",
-      "english": "你說"
+      "surface": "אליך",
+      "english": "对你"
     },
     {
-      "surface": "עַל",
-      "english": "緣於"
+      "surface": "על",
+      "english": "为何"
     },
     {
-      "surface": "מֶה֩",
-      "english": "什麼"
+      "surface": "מה",
+      "english": "什么"
     },
     {
-      "surface": "דִבֶּ֨ר",
-      "english": "宣告了"
+      "surface": "דבר",
+      "english": "宣告"
     },
     {
-      "surface": "יְהוָ֤ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "עָלֵ֨י\/נוּ֙",
-      "english": "針對我們"
+      "surface": "עלינו",
+      "english": "对我们"
     },
     {
-      "surface": "אֵ֣ת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "這一切大災禍"
+      "marks": "这一切大灾祸"
     },
     {
-      "surface": "כָּל",
+      "surface": "כל",
       "english": "一切"
     },
     {
-      "surface": "הָ\/רָעָ֤ה",
-      "english": "災禍"
+      "surface": "הרעה",
+      "english": "大灾祸"
     },
     {
-      "surface": "הַ\/גְּדוֹלָה֙",
-      "english": "大的"
+      "surface": "הגדולה",
+      "english": "大"
     },
     {
-      "surface": "הַ\/זֹּ֔את",
-      "english": "這"
+      "surface": "הזאת",
+      "english": "这"
     },
     {
-      "surface": "וּ\/מֶ֤ה",
-      "english": "又是什麼"
+      "surface": "ומה",
+      "english": "我们的罪孽 ⟨是⟩ 什么"
     },
     {
-      "surface": "עֲוֺנֵ֨\/נוּ֙",
-      "english": "我們的罪孽"
+      "surface": "עוננו",
+      "english": "罪孽"
     },
     {
-      "surface": "וּ\/מֶ֣ה",
-      "english": "又是什麼"
+      "surface": "ומה",
+      "english": "我们的罪... ⟨是⟩ 什么"
     },
     {
-      "surface": "חַטָּאתֵ֔\/נוּ",
-      "english": "我們的罪"
+      "surface": "חטאתנו",
+      "english": "罪"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "english": "就是"
     },
     {
-      "surface": "חָטָ֖אנוּ",
-      "english": "我們犯了罪"
+      "surface": "חטאנו",
+      "english": "所犯的"
     },
     {
-      "surface": "לַֽ\/יהוָ֥ה",
-      "english": "得罪了雅威"
+      "surface": "ליהוה",
+      "english": "向雅威"
     },
     {
-      "surface": "אֱלֹהֵֽי\/נוּ",
-      "english": "我們的以羅欣"
+      "surface": "אלהינו",
+      "english": "我们的以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T02:57:05.265314566Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:47.758350400Z",
+  "model": "glm-4.5"
 }

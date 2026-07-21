@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "1-chronicles 2:28",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58735,
+    "completion_tokens": 404,
+    "prompt_tokens": 58821,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59138
+    "total_tokens": 59225
   },
-  "translation": "וְ\/הָיוּ בְּנֵי 阿南 示迈 雅达, וּ\/בְנֵי 示迈 拿答 阿比舒尔׃",
+  "translation": "阿南的众子是示迈和雅大。示迈的众子是拿答和亚比舒。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "וְ\/הָיוּ"
+      "english": "阿南的众子是"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "众子是"
     },
     {
       "surface": "אונם",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "וידע",
-      "english": "雅达"
+      "english": "和雅大"
     },
     {
       "surface": "ובני",
-      "english": "וּ\/בְנֵי"
+      "english": "示迈的众子是"
     },
     {
       "surface": "שמי",
@@ -52,9 +49,9 @@
     },
     {
       "surface": "ואבישור",
-      "english": "阿比舒尔"
+      "english": "和亚比舒"
     }
   ],
-  "timestamp": "2026-07-18T01:52:20.146749576Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:28.575149283Z",
+  "model": "glm-4.5"
 }

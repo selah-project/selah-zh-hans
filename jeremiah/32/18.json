@@ -1,88 +1,85 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "jeremiah 32:18",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 32,
   "usage": {
-    "completion_tokens": 805,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19854,
+    "completion_tokens": 692,
+    "prompt_tokens": 19918,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 20659
+    "total_tokens": 20610
   },
-  "translation": "向千代施行חֶסֶד,将父辈的罪孽报应在他们后裔的怀中⟨כִּי אֵל גָּדוֹל גִּבּוֹר יְהוָה צְבָאוֹת שְׁמוֹ⟩",
+  "translation": "你施 *ḥésed* (慈爱) 给千千万万人，并且将父亲的罪孽报应到他们子孙的怀中，在他们以后。那位大能者、大力的 *El* (以罗)、万军之雅威是祂的名。",
   "tokens": [
     {
-      "surface": "עֹ֤שֶׂה",
-      "english": "施行"
+      "surface": "עשה",
+      "english": "施"
     },
     {
-      "surface": "חֶ֨סֶד֙",
-      "english": "חֶסֶד"
+      "surface": "חסד",
+      "english": "*ḥésed* (慈爱)"
     },
     {
-      "surface": "לַֽ\/אֲלָפִ֔ים",
-      "english": "向千代"
+      "surface": "לאלפים",
+      "english": "给千千万万人"
     },
     {
-      "surface": "וּ\/מְשַׁלֵּם֙",
-      "english": "并报偿"
+      "surface": "ומשלם",
+      "english": "并且将"
     },
     {
-      "surface": "עֲוֺ֣ן",
+      "surface": "עון",
       "english": "罪孽"
     },
     {
-      "surface": "אָב֔וֹת",
-      "english": "父辈的"
+      "surface": "אבות",
+      "english": "父亲"
     },
     {
-      "surface": "אֶל",
-      "english": "进入"
+      "surface": "אל",
+      "english": "到"
     },
     {
-      "surface": "חֵ֥יק",
+      "surface": "חיק",
       "english": "怀中"
     },
     {
-      "surface": "בְּנֵי\/הֶ֖ם",
-      "english": "他们的子嗣"
+      "surface": "בניהם",
+      "english": "他们子孙"
     },
     {
-      "surface": "אַחֲרֵי\/הֶ֑ם",
-      "english": "在他们之后"
+      "surface": "אחריהם",
+      "english": "在他们以后"
     },
     {
-      "surface": "הָ\/אֵ֤ל",
-      "english": "以罗欣"
+      "surface": "האל",
+      "english": "那位大能者、大力的 *El* (以罗)"
     },
     {
-      "surface": "הַ\/גָּדוֹל֙",
-      "english": "至大者"
-    },
-    {
-      "surface": "הַ\/גִּבּ֔וֹר",
+      "surface": "הגדול",
       "english": "大能者"
     },
     {
-      "surface": "יְהוָ֥ה",
+      "surface": "הגבור",
+      "english": "大力的"
+    },
+    {
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "צְבָא֖וֹת",
+      "surface": "צבאות",
       "english": "万军之"
     },
     {
-      "surface": "שְׁמֽ\/וֹ",
-      "english": "他的名"
+      "surface": "שמו",
+      "english": "是祂的名"
     }
   ],
-  "timestamp": "2026-07-17T22:26:01.718835859Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:18:54.679934662Z",
+  "model": "glm-4.5"
 }

@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "proverbs 25:18",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 25,
   "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54554,
+    "completion_tokens": 411,
+    "prompt_tokens": 54553,
     "prompt_tokens_details": {
-      "cached_tokens": 53376
+      "cached_tokens": 54016
     },
-    "total_tokens": 55066
+    "total_tokens": 54964
   },
-  "translation": "מֵפִיץ (大槌)、וְ\/חֶרֶב (刀剑)、וְ\/חֵץ שָׁנ֑וּן (锐利的箭)——向同伴作 ⟨עֵד שָֽׁקֶר⟩ (虚假见证) 的 ⟨אִ֥ישׁ⟩ (人)。",
+  "translation": "如同一根大棒、一把刀和一支尖锐的箭,是一个对他同伴作假见证的人。",
   "tokens": [
     {
       "surface": "מפיץ",
-      "english": "大槌"
+      "english": "如同一根大棒"
     },
     {
       "surface": "וחרב",
-      "english": "和刀剑"
+      "english": "一把刀"
     },
     {
       "surface": "וחץ",
-      "english": "和箭"
+      "english": "一支尖锐的箭"
     },
     {
       "surface": "שנון",
-      "english": "锐利的"
+      "english": "尖锐的"
     },
     {
       "surface": "איש",
@@ -40,21 +37,21 @@
     },
     {
       "surface": "ענה",
-      "english": "作见证"
+      "english": "作"
     },
     {
       "surface": "ברעהו",
-      "english": "对他的同伴"
+      "english": "对他同伴"
     },
     {
       "surface": "עד",
-      "english": "⟨עֵד⟩"
+      "english": "见证"
     },
     {
       "surface": "שקר",
-      "english": "虚假的"
+      "english": "假"
     }
   ],
-  "timestamp": "2026-07-18T00:46:00.152118491Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:17:22.843316456Z",
+  "model": "glm-4.5"
 }

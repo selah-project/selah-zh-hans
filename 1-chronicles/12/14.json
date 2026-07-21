@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "1-chronicles 12:14",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58513,
+    "completion_tokens": 232,
+    "prompt_tokens": 58596,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 58784
+    "total_tokens": 58828
   },
-  "translation": "耶利米 הָ\/עֲשִׂירִי העשירי，玛克班那人 מכבני，第十 一。",
+  "translation": "耶利米是第十个,玛克班那人,第十一个,",
   "tokens": [
     {
       "surface": "ירמיהו",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "העשירי",
-      "english": "הָ\/עֲשִׂירִי 第十"
+      "english": "是第十个"
     },
     {
       "surface": "מכבני",
@@ -32,13 +29,13 @@
     },
     {
       "surface": "עשתי",
-      "english": "第十一"
+      "english": "第十一个"
     },
     {
       "surface": "עשר",
-      "english": "(十一的一部分)"
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-18T02:01:29.124161959Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:20.854881845Z",
+  "model": "glm-4.5"
 }

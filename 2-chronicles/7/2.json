@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "2-chronicles 7:2",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 1007,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60261,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61268
-  },
-  "translation": "הכהנים לא יכלו לבוא אל בית יהוה, כי מלא כבוד יהוה את בית יהוה׃",
+  "translation": "而众祭司 ⟨不能⟩ 进入到雅威的殿里,因为雅威的荣耀 ⟨已⟩ 充满 ⟨了⟩ 雅威 ⟨את⟩ 殿",
   "tokens": [
     {
-      "surface": "וְ\/לֹ֤א",
-      "english": "而……不"
+      "surface": "ולא",
+      "english": "而...⟨不能⟩"
     },
     {
-      "surface": "יָֽכְלוּ֙",
-      "english": "能"
+      "surface": "יכלו",
+      "english": "进入"
     },
     {
-      "surface": "הַ\/כֹּ֣הֲנִ֔ים",
-      "english": "כהנים"
+      "surface": "הכהנים",
+      "english": "众祭司"
     },
     {
-      "surface": "לָ\/ב֖וֹא",
-      "english": "לָבוֹא"
+      "surface": "לבוא",
+      "english": "进入到"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "...里"
     },
     {
-      "surface": "בֵּ֣ית",
-      "english": "בֵּית"
+      "surface": "בית",
+      "english": "殿"
     },
     {
-      "surface": "יְהוָ֑ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "מָלֵ֥א",
-      "english": "מָלֵא"
+      "surface": "מלא",
+      "english": "⟨已⟩ 充满 ⟨了⟩"
     },
     {
-      "surface": "כְבוֹד",
-      "english": "כְבוֹד"
+      "surface": "כבוד",
+      "english": "荣耀"
     },
     {
-      "surface": "יְהוָ֖ה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "כְּבוֹד יְהוָ֔ה"
+      "marks": "雅威 殿"
     },
     {
-      "surface": "בֵּ֥ית",
-      "english": "בֵּית"
+      "surface": "בית",
+      "english": "殿"
     },
     {
-      "surface": "יְהוָֽה",
+      "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T02:18:05.061634760Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:31:06.728098847Z",
+  "model": "glm-4.5"
 }

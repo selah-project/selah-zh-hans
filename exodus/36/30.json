@@ -1,84 +1,82 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 30,
   "ref": "exodus 36:30",
   "book": "exodus",
   "lang": "zh-Hans",
   "chapter": 36,
   "usage": {
-    "completion_tokens": 861,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19052,
+    "completion_tokens": 567,
+    "prompt_tokens": 19051,
     "prompt_tokens_details": {
-      "cached_tokens": 17344
+      "cached_tokens": 17280
     },
-    "total_tokens": 19913
+    "total_tokens": 19618
   },
-  "translation": "וְ\/הָיוּ שְׁמֹנָה קְרָשִׁים, וְ\/אַדְנֵי\/הֶם כֶּסֶף — שִׁשָּׁה עָשָׂר אֲדָנִים; שְׁנֵי אֲדָנִים, שְׁנֵי אֲדָנִים תַּחַת הַ\/קֶּרֶשׁ הָ\/אֶחָד.",
+  "translation": "并有八块板, ⟨את⟩ 它们的十六个银座,每块板底下有两个座",
   "tokens": [
     {
-      "surface": "וְ\/הָיוּ",
-      "english": "וְ\/הָיוּ"
+      "surface": "והיו",
+      "english": "并有"
     },
     {
-      "surface": "שְׁמֹנָה",
-      "english": "שְׁמֹנָה"
+      "surface": "שמנה",
+      "english": "八块"
     },
     {
-      "surface": "קְרָשִׁים",
-      "english": "קְרָשִׁים"
+      "surface": "קרשים",
+      "english": "板"
     },
     {
-      "surface": "וְ\/אַדְנֵי\/הֶם",
-      "english": "וְ\/אַדְנֵי\/הֶם"
+      "surface": "ואדניהם",
+      "english": "⟨את⟩",
+      "marks": "它们的十六个银座"
     },
     {
-      "surface": "כָּסֶף",
-      "english": "כָּסֶף"
+      "surface": "כסף",
+      "english": "银"
     },
     {
-      "surface": "שִׁשָּׁה",
-      "english": "שִׁשָּׁה"
+      "surface": "ששה",
+      "english": "十六"
     },
     {
-      "surface": "עָשָׂר",
-      "english": "עָשָׂר"
+      "surface": "עשר",
+      "english": "个"
     },
     {
-      "surface": "אֲדָנִים",
-      "english": "אֲדָנִים"
+      "surface": "אדנים",
+      "english": "座"
     },
     {
-      "surface": "שְׁנֵי",
-      "english": "שְׁנֵי"
+      "surface": "שני",
+      "english": "两个"
     },
     {
-      "surface": "אֲדָנִים",
-      "english": "אֲדָנִים"
+      "surface": "אדנים",
+      "english": "座"
     },
     {
-      "surface": "שְׁנֵי",
-      "english": "שְׁנֵי"
+      "surface": "שני",
+      "english": "两个"
     },
     {
-      "surface": "אֲדָנִים",
-      "english": "אֲדָנִים"
+      "surface": "אדנים",
+      "english": "座"
     },
     {
-      "surface": "תַּחַת",
-      "english": "תַּחַת"
+      "surface": "תחת",
+      "english": "底下"
     },
     {
-      "surface": "הַ\/קֶּרֶשׁ",
-      "english": "הַ\/קֶּרֶשׁ"
+      "surface": "הקרש",
+      "english": "每块板"
     },
     {
-      "surface": "הָ\/אֶחָד",
-      "english": "הָ\/אֶחָד"
+      "surface": "האחד",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:36:30.756224321Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:23:05.496843080Z",
+  "model": "glm-4.5"
 }

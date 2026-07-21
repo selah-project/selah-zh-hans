@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 40,
   "ref": "ezra 2:40",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46486,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46809
-  },
-  "translation": "הלוים:בני ישוע וקדמיאל,לבני הודויה,שבעים וארבעה。",
+  "translation": "利未人:耶书亚的子孙、和 קדמיאל (Kadmiel)、何达威雅的子孙,七十四。",
   "tokens": [
     {
       "surface": "הלוים",
-      "english": "利未人:"
+      "english": "利未人"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "english": "的子孙"
     },
     {
       "surface": "ישוע",
@@ -32,11 +21,11 @@
     },
     {
       "surface": "וקדמיאל",
-      "english": "和甲篾"
+      "english": "和 קדמיאל (Kadmiel)"
     },
     {
       "surface": "לבני",
-      "english": "属……的子孙"
+      "english": "的子孙"
     },
     {
       "surface": "הודויה",
@@ -44,13 +33,13 @@
     },
     {
       "surface": "שבעים",
-      "english": "七十四"
+      "english": "七十"
     },
     {
       "surface": "וארבעה",
-      "english": "名"
+      "english": "四"
     }
   ],
-  "timestamp": "2026-07-18T01:37:29.734317449Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:35.503803756Z",
+  "model": "glm-4.5"
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "nehemiah 12:9",
   "book": "nehemiah",
   "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50878,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51315
-  },
-  "translation": "בַּקְבֻּקְיָה וְעֻנּוֹ וְאַחֵיהֶם ⟨הָיוּ לְנֶגְדָּם לְמִשְׁמָרוֹת׃",
+  "translation": "巴巴库雅和乌尼,以及他们的弟兄,在他们的轮班中站在他们对面。",
   "tokens": [
     {
       "surface": "ובקבקיה",
-      "english": "以及 בַּקְבֻּקְיָה"
+      "english": "巴巴库雅"
     },
     {
       "surface": "וענו",
-      "english": "和 עֻנּוֹ"
+      "english": "和乌尼"
     },
     {
       "surface": "אחיהם",
-      "english": "他们的弟兄"
+      "english": "以及他们的弟兄"
     },
     {
       "surface": "לנגדם",
-      "english": "在他们对面"
+      "english": "在他们的……对面"
     },
     {
       "surface": "למשמרות",
-      "english": " ⟨负责⟩ 守卫班次"
+      "english": "轮班"
     }
   ],
-  "timestamp": "2026-07-18T01:49:52.118926639Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:41:56.446329259Z",
+  "model": "glm-4.5"
 }

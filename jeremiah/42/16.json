@@ -1,113 +1,110 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "jeremiah 42:16",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 42,
   "usage": {
-    "completion_tokens": 1441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20586,
+    "completion_tokens": 671,
+    "prompt_tokens": 20651,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22027
+    "total_tokens": 21322
   },
-  "translation": "והייתה ⟨ה־⟩חֶרֶב אֲשֶׁר אַתֶּם יְרֵאִים מִמֶּ\/נָּה שָׁם תַּשִּׂיג אֶתְ\/כֶם בְּ\/אֶרֶץ מִצְרָיִם, וְ\/הָ\/רָעָב אֲשֶׁר אַתֶּם דֹּאֲגִים מִמֶּ\/נּוּ שָׁם יִדְבַּק אַחֲרֵי\/כֶם מִצְרַיִם, וְ\/שָׁם תָּמֻֽתוּ.",
+  "translation": "那么你们所惧怕的刀剑必在那里在埃及地赶上你们，你们所忧虑的饥荒必在那里在埃及紧紧跟随你们，你们必在那里死亡。",
   "tokens": [
     {
-      "surface": "וְ\/הָיְתָ֣ה",
-      "english": "וְ\/הָיְתָ֣ה"
+      "surface": "והיתה",
+      "english": "那么"
     },
     {
-      "surface": "הַ\/חֶ֗רֶב",
-      "english": "הַ\/חֶ֗רֶב"
+      "surface": "החרב",
+      "english": "你们所惧怕的刀剑"
     },
     {
-      "surface": "אֲשֶׁ֤ר",
-      "english": "אֲשֶׁ֤ר"
+      "surface": "אשר",
+      "english": "所"
     },
     {
-      "surface": "אַתֶּם֙",
-      "english": "אַתֶּם֙"
+      "surface": "אתם",
+      "english": "你们"
     },
     {
-      "surface": "יְרֵאִ֣ים",
-      "english": "יְרֵאִ֣ים"
+      "surface": "יראים",
+      "english": "惧怕"
     },
     {
-      "surface": "מִמֶּ֔\/נָּה",
-      "english": "מִמֶּ֔\/נָּה"
+      "surface": "ממנה",
+      "english": "的"
     },
     {
-      "surface": "שָׁ֛ם",
-      "english": "שָׁ֛ם"
+      "surface": "שם",
+      "english": "必在那里"
     },
     {
-      "surface": "תַּשִּׂ֥יג",
-      "english": "תַּשִּׂ֥יג"
+      "surface": "תשיג",
+      "english": "赶上"
     },
     {
-      "surface": "אֶתְ\/כֶ֖ם",
-      "english": "אֶתְ\/כֶ֖ם",
-      "marks": "בְּ\/אֶ֣רֶץ"
+      "surface": "אתכם",
+      "english": "⟨את⟩",
+      "marks": "你们"
     },
     {
-      "surface": "בְּ\/אֶ֣רֶץ",
-      "english": "בְּ\/אֶ֣רֶץ"
+      "surface": "בארץ",
+      "english": "在埃及地"
     },
     {
-      "surface": "מִצְרָ֑יִם",
+      "surface": "מצרים",
       "english": "埃及"
     },
     {
-      "surface": "וְ\/הָ\/רָעָ֞ב",
-      "english": "וְ\/הָ\/רָעָ֞ב"
+      "surface": "והרעב",
+      "english": "你们所忧虑的饥荒"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": "所"
     },
     {
-      "surface": "אַתֶּ֣ם",
-      "english": "אַתֶּ֣ם"
+      "surface": "אתם",
+      "english": "你们"
     },
     {
-      "surface": "דֹּאֲגִ֣ים",
-      "english": "דֹּאֲגִ֣ים"
+      "surface": "דאגים",
+      "english": "忧虑"
     },
     {
-      "surface": "מִמֶּ֗\/נּוּ",
-      "english": "מִמֶּ֗\/נּוּ"
+      "surface": "ממנו",
+      "english": "的"
     },
     {
-      "surface": "שָׁ֣ם",
-      "english": "שָׁ֣ם"
+      "surface": "שם",
+      "english": "必在那里"
     },
     {
-      "surface": "יִדְבַּ֧ק",
-      "english": "יִדְבַּ֧ק"
+      "surface": "ידבק",
+      "english": "紧紧跟随"
     },
     {
-      "surface": "אַחֲרֵי\/כֶ֛ם",
-      "english": "אַחֲרֵי\/כֶ֛ם"
+      "surface": "אחריכם",
+      "english": "你们"
     },
     {
-      "surface": "מִצְרַ֖יִם",
+      "surface": "מצרים",
       "english": "埃及"
     },
     {
-      "surface": "וְ\/שָׁ֥ם",
-      "english": "וְ\/שָׁ֥ם"
+      "surface": "ושם",
+      "english": "在那里"
     },
     {
-      "surface": "תָּמֻֽתוּ",
-      "english": "תָּמֻֽתוּ"
+      "surface": "תמתו",
+      "english": "你们必死亡"
     }
   ],
-  "timestamp": "2026-07-18T02:58:06.003689730Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:19:16.782970992Z",
+  "model": "glm-4.5"
 }

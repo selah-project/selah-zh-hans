@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "1-chronicles 19:16",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 1119,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59966,
+    "completion_tokens": 640,
+    "prompt_tokens": 60056,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 61085
+    "total_tokens": 60696
   },
-  "translation": "ארם ראתה כי ⟨היא⟩ נִגְפָה לְפָנִים לְ以色列, וַ\/יִּשְׁלְחוּ מַלְאָכִים, וַ\/יּוֹצִיאוּ אֶת־亚兰 אֲשֶׁר מֵ\/עֵבֶר הַ\/נָּהָר, 舒帕克 שַׂר צְבָא 哈大底谢 לְפָנֵיהֶם׃",
+  "translation": "亚兰人见自己被击败在以色列面前,就差遣使者,并召集河那边的亚兰人;哈大底谢军队的元帅朔法在他们前头。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "ארם ראתה"
+      "english": "见"
     },
     {
       "surface": "ארם",
-      "english": ""
+      "english": "亚兰人"
     },
     {
       "surface": "כי",
-      "english": "כי"
+      "english": "自己"
     },
     {
       "surface": "נגפו",
-      "english": "היא נִגְפָה"
+      "english": "被击败"
     },
     {
       "surface": "לפני",
-      "english": "לְפָנִים לְ"
+      "english": "在……面前"
     },
     {
       "surface": "ישראל",
@@ -44,48 +41,48 @@
     },
     {
       "surface": "וישלחו",
-      "english": "וַ\/יִּשְׁלְחוּ"
+      "english": "就差遣"
     },
     {
       "surface": "מלאכים",
-      "english": "מַלְאָכִים"
+      "english": "使者"
     },
     {
       "surface": "ויוציאו",
-      "english": "וַ\/יּוֹצִיאוּ"
+      "english": "并召集"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "ארם"
+      "marks": "亚兰人"
     },
     {
       "surface": "ארם",
-      "english": "亚兰"
+      "english": "亚兰人"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "那"
     },
     {
       "surface": "מעבר",
-      "english": "מֵ\/עֵבֶר"
+      "english": "那边"
     },
     {
       "surface": "הנהר",
-      "english": "הַ\/נָּהָר"
+      "english": "河"
     },
     {
       "surface": "ושופך",
-      "english": "舒帕克"
+      "english": "朔法"
     },
     {
       "surface": "שר",
-      "english": "שַׂר"
+      "english": "元帅"
     },
     {
       "surface": "צבא",
-      "english": "צְבָא"
+      "english": "军队"
     },
     {
       "surface": "הדדעזר",
@@ -93,9 +90,9 @@
     },
     {
       "surface": "לפניהם",
-      "english": "לְפָנֵיהֶם"
+      "english": "在他们前头"
     }
   ],
-  "timestamp": "2026-07-18T02:06:06.245284657Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:57.703557126Z",
+  "model": "glm-4.5"
 }

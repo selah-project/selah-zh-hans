@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 24,
   "ref": "2-kings 4:24",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 896,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18997,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19893
-  },
-  "translation": "她备上驴,对她的仆人说:赶牲口,走吧!不可为我放慢 ⟨הָרְכִּיבָה⟩ ⟨אֶל־נַעֲרָהּ⟩ ⟨כִּי אִם אָמַרְתִּי לָךְ⟩",
+  "translation": "她就给驴备上鞍,对她的仆人说:赶车,去罢!不要因为我而迟延行程,除非我吩咐你。",
   "tokens": [
     {
-      "surface": "וַֽתַּחֲבֹשׁ֙",
-      "english": "她备上"
+      "surface": "ותחבש",
+      "english": "她就备上"
     },
     {
-      "surface": "הָֽאָת֔וֹן",
-      "english": "驴"
+      "surface": "האתון",
+      "english": "驴的鞍"
     },
     {
-      "surface": "וַ\/תֹּ֥אמֶר",
-      "english": "她⟨说⟩"
+      "surface": "ותאמר",
+      "english": "并说"
     },
     {
-      "surface": "אֶֽל",
+      "surface": "אל",
       "english": "对"
     },
     {
-      "surface": "נַעֲרָ֖\/הּ",
+      "surface": "נערה",
       "english": "她的仆人"
     },
     {
-      "surface": "נְהַ֣ג",
-      "english": "赶牲口"
+      "surface": "נהג",
+      "english": "赶车"
     },
     {
-      "surface": "וָ\/לֵ֑ךְ",
-      "english": "走吧!"
+      "surface": "ולך",
+      "english": "去罢"
     },
     {
-      "surface": "אַל",
-      "english": "不可"
+      "surface": "אל",
+      "english": "不"
     },
     {
-      "surface": "תַּעֲצָר",
-      "english": "你放慢"
+      "surface": "תעצר",
+      "english": "迟延"
     },
     {
-      "surface": "לִ֣\/י",
-      "english": "为我"
+      "surface": "לי",
+      "english": "为了我"
     },
     {
-      "surface": "לִ\/רְכֹּ֔ב",
-      "english": "骑乘"
+      "surface": "לרכב",
+      "english": "行程"
     },
     {
-      "surface": "כִּ֖י",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "אִם",
-      "english": "若不"
+      "surface": "אם",
+      "english": "除非"
     },
     {
-      "surface": "אָמַ֥רְתִּי",
-      "english": "我对你说"
+      "surface": "אמרתי",
+      "english": "我吩咐"
     },
     {
-      "surface": "לָֽ\/ךְ",
+      "surface": "לך",
       "english": "你"
     }
   ],
-  "timestamp": "2026-07-17T21:19:36.947332569Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:08.548059070Z",
+  "model": "glm-4.5"
 }

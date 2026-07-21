@@ -1,110 +1,107 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "jeremiah 43:1",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 43,
   "usage": {
-    "completion_tokens": 920,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20370,
+    "completion_tokens": 580,
+    "prompt_tokens": 20450,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 21290
+    "total_tokens": 21030
   },
-  "translation": "וַ\/יְהִי֩ כְּ\/כַלּ֨וֹת יִרְמְיָ֜הוּ לְ\/דַבֵּ֣ר אֶל כָּל הָ\/עָ֗ם אֶת כָּל דִּבְרֵי֙ יְהוָ֣ה אֱלֹהֵי\/הֶ֔ם אֲשֶׁ֧ר שְׁלָח֛\/וֹ יְהוָ֥ה אֱלֹהֵי\/הֶ֖ם אֲלֵי\/הֶ֑ם אֵ֥ת כָּל הַ\/דְּבָרִ֖ים הָ\/אֵֽלֶּה׃",
+  "translation": "这事发生，在耶利米向众民说完了雅威他们的以罗欣打发他到他们那里的一切 *davar*，就是这一切 *davar* 的时候，",
   "tokens": [
     {
-      "surface": "וַיְהִי",
-      "english": "事情发生"
+      "surface": "ויהי",
+      "english": "这事发生"
     },
     {
-      "surface": "כְּכַלּוֹת",
-      "english": "当……说完时"
+      "surface": "ככלות",
+      "english": "在...说完了"
     },
     {
-      "surface": "יִרְמְיָהוּ",
+      "surface": "ירמיהו",
       "english": "耶利米"
     },
     {
-      "surface": "לְדַבֵּר",
-      "english": "对……说话"
+      "surface": "לדבר",
+      "english": "说"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "english": "向"
     },
     {
-      "surface": "כָּל",
-      "english": "所有"
+      "surface": "כל",
+      "english": "众"
     },
     {
-      "surface": "הָעָם",
-      "english": "百姓"
+      "surface": "העם",
+      "english": "民"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "所有的话"
+      "marks": "一切 *davar*"
     },
     {
-      "surface": "כָּל",
-      "english": "所有"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "דִּבְרֵי",
-      "english": "话 (davar)"
+      "surface": "דברי",
+      "english": "*davar*"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֵיהֶם",
+      "surface": "אלהיהם",
       "english": "他们的以罗欣"
     },
     {
-      "surface": "אֲשֶׁר",
+      "surface": "אשר",
       "english": "就是"
     },
     {
-      "surface": "שְׁלָחוֹ",
-      "english": "差遣他"
+      "surface": "שלחו",
+      "english": "打发"
     },
     {
-      "surface": "יְהוָה",
+      "surface": "יהוה",
       "english": "雅威"
     },
     {
-      "surface": "אֱלֹהֵיהֶם",
+      "surface": "אלהיהם",
       "english": "他们的以罗欣"
     },
     {
-      "surface": "אֲלֵיהֶם",
-      "english": "到他们那里"
+      "surface": "אליהם",
+      "english": "他到他们"
     },
     {
-      "surface": "אֵת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "所有这些话"
+      "marks": "这一切 *davar*"
     },
     {
-      "surface": "כָּל",
-      "english": "所有"
+      "surface": "כל",
+      "english": "这一切"
     },
     {
-      "surface": "הַדְּבָרִים",
-      "english": "这些话"
+      "surface": "הדברים",
+      "english": "*davar*"
     },
     {
-      "surface": "הָאֵלֶּה",
-      "english": "这些"
+      "surface": "האלה",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T22:32:40.357310148Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:56.571227253Z",
+  "model": "glm-4.5"
 }

@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 39,
   "ref": "1-chronicles 8:39",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58794,
+    "completion_tokens": 388,
+    "prompt_tokens": 58882,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59272
+    "total_tokens": 59270
   },
-  "translation": "וּ\/בְנֵי עֵשֶׂק אָחִי\/ו הָיוּ אוּלָם בְּכֹר\/וֹ יְעוּשׁ הַ\/שֵּׁנִי וְ\/אֱלִיפֶלֶט הַ\/שְּׁלִשִׁי׃",
+  "translation": "以斯克他哥哥的 ⟨众⟩ 子是 乌兰 ⟨是⟩ 他的长子,耶乌施 ⟨是⟩ 第二个,以利法列 ⟨是⟩ 第三个",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……的儿子们"
+      "english": "以斯克他哥哥的 ⟨众⟩ 子是"
     },
     {
       "surface": "עשק",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "english": "他哥哥的"
     },
     {
       "surface": "אולם",
@@ -36,7 +33,7 @@
     },
     {
       "surface": "בכרו",
-      "english": "他的长子"
+      "english": "⟨是⟩ 他的长子"
     },
     {
       "surface": "יעוש",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "השני",
-      "english": "第二"
+      "english": "⟨是⟩ 第二个"
     },
     {
       "surface": "ואליפלט",
@@ -52,9 +49,9 @@
     },
     {
       "surface": "השלשי",
-      "english": "第三"
+      "english": "⟨是⟩ 第三个"
     }
   ],
-  "timestamp": "2026-07-18T01:58:16.453050962Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:00.116672178Z",
+  "model": "glm-4.5"
 }

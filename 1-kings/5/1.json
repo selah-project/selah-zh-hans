@@ -1,105 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "1-kings 5:1",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 1332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65145,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66477
-  },
-  "translation": "所罗门 הָיָה מוֹשֵׁל בְּכָל הַמַּמְלָכוֹת מִן הַנָּהָר אֶרֶץ 非利士人 וְעַד גְּבוּל מִצְרָיִם；הֵם מַגִּישִׁים מִנְחָה וְעֹבְדִים אֶת 所罗门 כָּל יְמֵי חַיָּיו。",
+  "translation": "所罗门是统治者,在所有诸国,从那河,非利士人的地,直到埃及的边界,都进贡,并服事所罗门,在他一切活着的日子",
   "tokens": [
     {
-      "surface": "וּ\/שְׁלֹמֹה",
+      "surface": "ושלמה",
       "english": "所罗门"
     },
     {
-      "surface": "הָיָה",
-      "english": "הָיָה"
+      "surface": "היה",
+      "english": "是统治者"
     },
     {
-      "surface": "מוֹשֵׁל",
-      "english": "מוֹשֵׁל"
+      "surface": "מושל",
+      "english": ""
     },
     {
-      "surface": "בְּ\/כָל",
-      "english": "בְּכָל"
+      "surface": "בכל",
+      "english": "在所有"
     },
     {
-      "surface": "הַ\/מַּמְלָכוֹת",
-      "english": "הַמַּמְלָכוֹת"
+      "surface": "הממלכות",
+      "english": "诸国"
     },
     {
-      "surface": "מִן",
-      "english": "מִן"
+      "surface": "מן",
+      "english": "从"
     },
     {
-      "surface": "הַ\/נָּהָר",
-      "english": "הַנָּהָר"
+      "surface": "הנהר",
+      "english": "那河"
     },
     {
-      "surface": "אֶרֶץ",
-      "english": "אֶרֶץ"
+      "surface": "ארץ",
+      "english": "地"
     },
     {
-      "surface": "פְּלִשְׁתִּים",
+      "surface": "פלשתים",
       "english": "非利士人"
     },
     {
-      "surface": "וְ\/עַד",
-      "english": "וְעַד"
+      "surface": "ועד",
+      "english": "直到"
     },
     {
-      "surface": "גְּבוּל",
-      "english": "גְּבוּל"
+      "surface": "גבול",
+      "english": "边界"
     },
     {
-      "surface": "מִצְרָיִם",
+      "surface": "מצרים",
       "english": "埃及"
     },
     {
-      "surface": "מַגִּשִׁים",
-      "english": "מַגִּישִׁים"
+      "surface": "מגשים",
+      "english": "都进贡"
     },
     {
-      "surface": "מִנְחָה",
-      "english": "מִנְחָה"
+      "surface": "מנחה",
+      "english": ""
     },
     {
-      "surface": "וְ\/עֹבְדִים",
-      "english": "וְעֹבְדִים"
+      "surface": "ועבדים",
+      "english": "并服事"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "שְׁלֹמֹה"
+      "marks": "所罗门"
     },
     {
-      "surface": "שְׁלֹמֹה",
-      "english": "所罗门"
+      "surface": "שלמה",
+      "english": ""
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "יְמֵי",
-      "english": "יְמֵי"
+      "surface": "ימי",
+      "english": "日子"
     },
     {
-      "surface": "חַיָּי\/ו",
-      "english": "חַיָּיו"
+      "surface": "חייו",
+      "english": "他活着"
     }
   ],
-  "timestamp": "2026-07-17T21:00:10.510796214Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:48:06.471562014Z",
+  "model": "glm-4.5"
 }

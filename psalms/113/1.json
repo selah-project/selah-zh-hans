@@ -1,78 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "psalms 113:1",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 113,
   "usage": {
-    "completion_tokens": 727,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64697,
+    "completion_tokens": 437,
+    "prompt_tokens": 64771,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65424
+    "total_tokens": 65208
   },
-  "translation": "הללוּ אֶת־יָהּ! הַלְלוּ, עֲבָדָיו שֶׁל יְהֹוָה; הַלְלוּ אֶת שֵׁם יְהֹוָה!",
+  "translation": "你们要赞美雅！雅威的仆人们啊，你们要赞美，要赞美 ⟨את⟩ 雅威的名。",
   "tokens": [
     {
-      "source": "הַ֭לְלוּ",
-      "translit": "הַלְלוּ",
-      "grammar": "ציווי, קל, ז׳, זכר",
-      "semitic": "הלל"
+      "surface": "הללו",
+      "english": "你们要赞美"
     },
     {
-      "source": "יָ֨הּ",
-      "translit": "יָהּ",
-      "grammar": "שם עצם, פרטי, זכר",
-      "semitic": null
+      "surface": "יה",
+      "english": "雅"
     },
     {
-      "source": "הַ֥לְלוּ",
-      "translit": "הַלְלוּ",
-      "grammar": "ציווי, קל, ז׳, זכר",
-      "semitic": "הלל"
+      "surface": "הללו",
+      "english": "你们要赞美"
     },
     {
-      "source": "עַבְדֵ֣י",
-      "translit": "עַבְדֵי",
-      "grammar": "שם עצם, כללי, זכר, נסמך",
-      "semitic": "עבד"
+      "surface": "עבדי",
+      "english": "雅威的仆人们啊"
     },
     {
-      "source": "יְהוָ֑ה",
-      "translit": "יְהֹוָה",
-      "grammar": "שם עצם, פרטי",
-      "semitic": null
+      "surface": "יהוה",
+      "english": "雅威"
     },
     {
-      "source": "הַֽ֝לְלוּ",
-      "translit": "הַלְלוּ",
-      "grammar": "ציווי, קל, ז׳, זכר",
-      "semitic": "הלל"
+      "surface": "הללו",
+      "english": "你们要赞美"
     },
     {
-      "source": "אֶת",
-      "translit": "אֶת",
-      "grammar": "מילית אובייקט ישיר",
-      "semitic": null
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威的名"
     },
     {
-      "source": "שֵׁ֥ם",
-      "translit": "שֵׁם",
-      "grammar": "שם עצם, כללי, זכר, נסמך",
-      "semitic": "שם"
+      "surface": "שם",
+      "english": "名"
     },
     {
-      "source": "יְהוָֽה",
-      "translit": "יְהֹוָה",
-      "grammar": "שם עצם, פרטי",
-      "semitic": null
+      "surface": "יהוה",
+      "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T00:20:33.171261933Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:25.596055421Z",
+  "model": "glm-4.5"
 }

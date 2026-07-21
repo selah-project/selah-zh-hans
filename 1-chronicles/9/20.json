@@ -1,50 +1,47 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "1-chronicles 9:20",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58848,
+    "completion_tokens": 376,
+    "prompt_tokens": 58925,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 59523
+    "total_tokens": 59301
   },
-  "translation": "פִּינְחָ֣ס בֶּן אֶלְעָזָ֗ר נָגִ֨יד הָיָ֧ה עֲלֵי\/הֶ֛ם לְ\/פָנִ֖ים 雅威 עִמּֽ\/וֹ",
+  "translation": "非尼哈,以利亚撒的子,以前是他们的领袖,雅威与他同在。",
   "tokens": [
     {
-      "surface": "ו\/פינחס",
-      "english": "非尼哈"
+      "surface": "ופינחס",
+      "english": "非尼哈,"
     },
     {
       "surface": "בן",
-      "english": "בֶּן"
+      "english": "子,"
     },
     {
       "surface": "אלעזר",
-      "english": "以利亚撒"
+      "english": "以利亚撒的"
     },
     {
       "surface": "נגיד",
-      "english": "נָגִיד"
+      "english": "领袖"
     },
     {
       "surface": "היה",
-      "english": "הָיָ֧ה"
+      "english": "是"
     },
     {
       "surface": "עליהם",
-      "english": "עֲלֵי\/הֶ֛ם"
+      "english": "他们的"
     },
     {
       "surface": "לפנים",
-      "english": "לְ\/פָנִ֖ים"
+      "english": "以前"
     },
     {
       "surface": "יהוה",
@@ -52,9 +49,9 @@
     },
     {
       "surface": "עמו",
-      "english": "עִמּֽ\/וֹ"
+      "english": "与他同在。"
     }
   ],
-  "timestamp": "2026-07-18T01:58:48.462089570Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:25:24.776304370Z",
+  "model": "glm-4.5"
 }

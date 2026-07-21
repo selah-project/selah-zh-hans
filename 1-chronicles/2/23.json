@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "1-chronicles 2:23",
   "book": "1-chronicles",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 836,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59867,
+    "completion_tokens": 719,
+    "prompt_tokens": 59982,
     "prompt_tokens_details": {
-      "cached_tokens": 57536
+      "cached_tokens": 57472
     },
-    "total_tokens": 60703
+    "total_tokens": 60701
   },
-  "translation": "基述 וַ\/אֲרָם取了雅亿的חַוֺּת ⟨אֶת⟩ מֵ\/אִתָּ\/ם ⟨אֶת⟩ 刻纳特 וְ\/⟨אֶת⟩ בְּנֹתֶי\/הָ —— שִׁשִּׁים עִ֔יר。כָּל אֵ֕לֶּה ⟨הָיוּ⟩ בְּנֵי 玛吉 אֲבִי גִלְעָֽד。",
+  "translation": "基述和亚兰从他们那里夺取了雅亿的村落,以及刻纳特和其周围的乡镇,共六十座城。这一切 ⟨את⟩ 玛吉 ⟨是⟩ 基列的父亲 ⟨儿子⟩。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "取了"
+      "english": "夺取了"
     },
     {
       "surface": "גשור",
@@ -28,16 +25,16 @@
     },
     {
       "surface": "וארם",
-      "english": "和"
+      "english": "和亚兰"
     },
     {
       "surface": "את",
-      "english": "⟨אֶת⟩",
-      "marks": "חַוֺּת יָאִיר"
+      "english": "⟨את⟩",
+      "marks": "雅亿的村落"
     },
     {
       "surface": "חות",
-      "english": "游牧村落"
+      "english": "雅亿的村落"
     },
     {
       "surface": "יאיר",
@@ -45,12 +42,12 @@
     },
     {
       "surface": "מאתם",
-      "english": "从他们手中"
+      "english": "从他们那里"
     },
     {
       "surface": "את",
-      "english": "⟨אֶת⟩",
-      "marks": "קְנָת"
+      "english": "⟨את⟩",
+      "marks": "刻纳特"
     },
     {
       "surface": "קנת",
@@ -58,12 +55,12 @@
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨אֶת⟩",
-      "marks": "בְּנֹתֶי\/הָ"
+      "english": "以及",
+      "marks": "其周围的乡镇"
     },
     {
       "surface": "בנתיה",
-      "english": "其附属城镇"
+      "english": "其周围的乡镇"
     },
     {
       "surface": "ששים",
@@ -75,15 +72,15 @@
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "这一切"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "english": "⟨את⟩"
     },
     {
       "surface": "בני",
-      "english": "都是……的后裔"
+      "english": "儿子"
     },
     {
       "surface": "מכיר",
@@ -91,13 +88,13 @@
     },
     {
       "surface": "אבי",
-      "english": "אֲבִי"
+      "english": "父亲"
     },
     {
       "surface": "גלעד",
       "english": "基列"
     }
   ],
-  "timestamp": "2026-07-18T01:52:35.809028021Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:26:49.070193945Z",
+  "model": "glm-4.5"
 }

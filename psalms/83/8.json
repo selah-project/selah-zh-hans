@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "psalms 83:8",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 83,
   "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64461,
+    "completion_tokens": 277,
+    "prompt_tokens": 64555,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 64883
+    "total_tokens": 64832
   },
-  "translation": "גְּבָ֣ל וְ֭\/עַמּוֹן וַ\/עֲמָלֵ֑ק פְּלֶשֶׁת עִם יֹ֥שְׁבֵי צֽוֹר",
+  "translation": "迦巴勒、亚扪、亚玛力,非利士人与推罗的居民",
   "tokens": [
     {
       "surface": "גבל",
-      "english": "基别"
+      "english": "迦巴勒"
     },
     {
       "surface": "ועמון",
-      "english": "亚扪"
+      "english": "、亚扪"
     },
     {
       "surface": "ועמלק",
-      "english": "和 עֲמָלֵק (亚玛力)"
+      "english": "、亚玛力"
     },
     {
       "surface": "פלשת",
-      "english": "非利士"
+      "english": "非利士人"
     },
     {
       "surface": "עם",
@@ -44,9 +41,9 @@
     },
     {
       "surface": "צור",
-      "english": "צֹר (推罗)的"
+      "english": "推罗"
     }
   ],
-  "timestamp": "2026-07-18T00:08:56.290076040Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:32.782131892Z",
+  "model": "glm-4.5"
 }

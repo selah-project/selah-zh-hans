@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "ezra 10:23",
   "book": "ezra",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 875,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46789,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47664
-  },
-  "translation": "וּ\/מִן הַ\/לְוִיִּם 约萨拔 示每 וְ\/קֵלִיָּה ה֣וּא 基利他 毗他希雅 犹大 以利以谢׃",
+  "translation": "利未人中:约萨拔、示米雅、基利雅 (他叫基利他)、毗他希雅、犹大、以利以谢。",
   "tokens": [
     {
-      "surface": "וּמִן",
-      "english": "ומִן"
+      "surface": "ומן",
+      "english": "利未人中:"
     },
     {
-      "surface": "הַלְוִיִּם",
-      "english": "利未"
+      "surface": "הלוים",
+      "english": "利未人中:"
     },
     {
-      "surface": "יוֹזָבָד",
+      "surface": "יוזבד",
       "english": "约萨拔"
     },
     {
-      "surface": "וְשִׁמְעִי",
-      "english": "示每"
+      "surface": "ושמעי",
+      "english": "示米雅"
     },
     {
-      "surface": "וְקֵלִיָּה",
-      "english": "וְ\/קֵלִיָּה"
+      "surface": "וקליה",
+      "english": "基利雅"
     },
     {
-      "surface": "ה֣וּא",
-      "english": "ה֣וּא"
+      "surface": "הוא",
+      "english": "(他叫"
     },
     {
-      "surface": "קְלִיטָא",
-      "english": "基利他"
+      "surface": "קליטא",
+      "english": "基利他)"
     },
     {
-      "surface": "פְּתַחְיָה",
+      "surface": "פתחיה",
       "english": "毗他希雅"
     },
     {
-      "surface": "יְהוּדָה",
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
-      "surface": "וְאֱלִיעֶזֶר",
+      "surface": "ואליעזר",
       "english": "以利以谢"
     }
   ],
-  "timestamp": "2026-07-18T01:42:17.883959707Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:38:13.640135790Z",
+  "model": "glm-4.5"
 }

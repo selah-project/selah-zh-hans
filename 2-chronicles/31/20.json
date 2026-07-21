@@ -1,30 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "2-chronicles 31:20",
   "book": "2-chronicles",
   "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60098,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60776
-  },
-  "translation": "וַ\/יַּ֧עַשׂ כָּ\/זֹ֛את יְחִזְקִיָּ֖הוּ בְּ\/כָל יְהוּדָ֑ה וַ\/יַּ֨עַשׂ הַ\/טּ֤וֹב וְ\/הַ\/יָּשָׁר֙ וְ\/הָ֣\/אֱמֶ֔ת לִ\/פְנֵ֖י יְהוָ֥ה אֱלֹהָֽי\/ו",
+  "translation": "希西家在犹大全地就这样行,行⟨了⟩善、正、真,在雅威他的以罗欣面前。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他如此行"
+      "english": "行"
     },
     {
       "surface": "כזאת",
-      "english": "像这样"
+      "english": "就这样"
     },
     {
       "surface": "יחזקיהו",
@@ -32,7 +21,7 @@
     },
     {
       "surface": "בכל",
-      "english": "在全部"
+      "english": "在...全地"
     },
     {
       "surface": "יהודה",
@@ -40,23 +29,23 @@
     },
     {
       "surface": "ויעש",
-      "english": "他做了"
+      "english": "行"
     },
     {
       "surface": "הטוב",
-      "english": "那善"
+      "english": "善"
     },
     {
       "surface": "והישר",
-      "english": "与那正直"
+      "english": "正"
     },
     {
       "surface": "והאמת",
-      "english": "与那真理"
+      "english": "真"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "english": "在...面前"
     },
     {
       "surface": "יהוה",
@@ -67,6 +56,6 @@
       "english": "他的以罗欣"
     }
   ],
-  "timestamp": "2026-07-20T06:50:40.191056804Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:32:01.956061057Z",
+  "model": "glm-4.5"
 }

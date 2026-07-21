@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "job 36:19",
   "book": "job",
   "lang": "zh-Hans",
   "chapter": 36,
   "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21524,
+    "completion_tokens": 380,
+    "prompt_tokens": 21523,
     "prompt_tokens_details": {
-      "cached_tokens": 20608
+      "cached_tokens": 4864
     },
-    "total_tokens": 22224
+    "total_tokens": 21903
   },
-  "translation": "האם יָעֲרֹךְ אֶת־שְׁוֹעֲךָ? לֹא בְּצַר; וְכָל מַאֲמַצֵי כֹחַ׃",
+  "translation": "Will your riches avail without distress, and all the forces of your strength?",
   "tokens": [
     {
-      "surface": "הֲ\/יַעֲרֹ֣ךְ",
-      "english": "האם יָעֲרֹךְ"
+      "surface": "היערך",
+      "english": "Will your riches avail"
     },
     {
-      "surface": "שׁ֭וּעֲ\/ךָ",
-      "english": "אֶת־שְׁוֹעֲךָ"
+      "surface": "שועך",
+      "english": "cry"
     },
     {
-      "surface": "לֹ֣א",
-      "english": "לֹא"
+      "surface": "לא",
+      "english": "not"
     },
     {
-      "surface": "בְ\/צָ֑ר",
-      "english": "בְּצַר"
+      "surface": "בצר",
+      "english": "in distress"
     },
     {
-      "surface": "וְ֝\/כֹ֗ל",
-      "english": "וְכָל"
+      "surface": "וכל",
+      "english": "and all"
     },
     {
-      "surface": "מַאֲמַצֵּי",
-      "english": "מַאֲמַצֵי"
+      "surface": "מאמצי",
+      "english": "forces"
     },
     {
-      "surface": "כֹֽחַ",
-      "english": "כֹחַ"
+      "surface": "כח",
+      "english": "of strength"
     }
   ],
-  "timestamp": "2026-07-18T01:07:08.752085071Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:27:37.906979976Z",
+  "model": "glm-4.5"
 }

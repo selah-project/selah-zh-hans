@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "lamentations 3:17",
   "book": "lamentations",
   "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33426,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 34030
-  },
-  "translation": "וַ\/תִּזְנַ֧ח מִ\/שָּׁל֛וֹם נַפְשִׁ֖\/י נָשִׁ֥יתִי טוֹבָֽה",
+  "translation": "并且你使我的生命远离平安，我已忘记 ⟨好的事⟩。",
   "tokens": [
     {
-      "surface": "וַ\/תִּזְנַ֧ח",
-      "english": "你弃绝了"
+      "surface": "ותזנח",
+      "english": "并且你使……远离"
     },
     {
-      "surface": "מִ\/שָּׁל֛וֹם",
+      "surface": "משלום",
       "english": "平安"
     },
     {
-      "surface": "נַפְשִׁ֖\/י",
-      "english": "我的灵魂"
+      "surface": "נפשי",
+      "english": "我的生命"
     },
     {
-      "surface": "נָשִׁ֥יתִי",
-      "english": "我忘记了"
+      "surface": "נשיתי",
+      "english": "我已忘记"
     },
     {
-      "surface": "טוֹבָֽה",
-      "english": "美好"
+      "surface": "טובה",
+      "english": "好的事"
     }
   ],
-  "timestamp": "2026-07-18T01:16:43.573069055Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:48.624450187Z",
+  "model": "glm-4.5"
 }

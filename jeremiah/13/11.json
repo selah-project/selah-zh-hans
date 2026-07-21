@@ -1,33 +1,30 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "jeremiah 13:11",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 1213,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21150,
+    "completion_tokens": 995,
+    "prompt_tokens": 21239,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 22363
+    "total_tokens": 22234
   },
-  "translation": "כִּי כַּ\/אֲשֶׁר יִדְבַּק הָ\/אֵזוֹר אֶל מָתְנֵי אִישׁ כֵּן הִדְבַּקְתִּי אֵ֠לַ\/י אֶת כָּל בֵּית יִשְׂרָאֵל וְ\/אֶת כָּל בֵּית יְהוּדָה נְאֻם יְהוָה לִ\/הְיוֹת לִ\/י לְ\/עָם וּ\/לְ\/שֵׁם וְ\/לִ\/תְהִלָּה וּ\/לְ\/תִפְאָרֶת וְ\/לֹא שָׁמֵֽעוּ",
+  "translation": "因为腰带紧贴在人的腰间,照样,我使以色列全家和犹大全家紧贴我,这是雅威说的,⟨את⟩好叫他们归我为子民,为名号,为赞美,为荣耀,他们却不听。",
   "tokens": [
     {
-      "surface": "כִּי",
+      "surface": "כי",
       "english": "因为"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "english": "照样"
     },
     {
-      "surface": "יִדְבַּק",
+      "surface": "ידבק",
       "english": "紧贴"
     },
     {
@@ -36,7 +33,7 @@
     },
     {
       "surface": "אל",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
       "surface": "מתני",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "איש",
-      "english": "一个人的"
+      "english": "人"
     },
     {
       "surface": "כן",
@@ -52,11 +49,11 @@
     },
     {
       "surface": "הדבקתי",
-      "english": "我使……紧贴"
+      "english": "我使...紧贴"
     },
     {
       "surface": "אלי",
-      "english": "归向我"
+      "english": "归我"
     },
     {
       "surface": "את",
@@ -65,7 +62,7 @@
     },
     {
       "surface": "כל",
-      "english": "整个"
+      "english": "全"
     },
     {
       "surface": "בית",
@@ -77,12 +74,12 @@
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "english": "⟨את⟩",
       "marks": "犹大全家"
     },
     {
       "surface": "כל",
-      "english": "整个"
+      "english": "全"
     },
     {
       "surface": "בית",
@@ -94,7 +91,7 @@
     },
     {
       "surface": "נאם",
-      "english": "……的神谕"
+      "english": "这是...说的"
     },
     {
       "surface": "יהוה",
@@ -102,19 +99,19 @@
     },
     {
       "surface": "להיות",
-      "english": "为要成为"
+      "english": "好叫"
     },
     {
       "surface": "לי",
-      "english": "属我的"
+      "english": "我"
     },
     {
       "surface": "לעם",
-      "english": "子民"
+      "english": "为子民"
     },
     {
       "surface": "ולשם",
-      "english": "为名声"
+      "english": "为名号"
     },
     {
       "surface": "ולתהלה",
@@ -122,17 +119,17 @@
     },
     {
       "surface": "ולתפארת",
-      "english": "为华美"
+      "english": "为荣耀"
     },
     {
       "surface": "ולא",
-      "english": "却没有"
+      "english": "却"
     },
     {
       "surface": "שמעו",
-      "english": "听从"
+      "english": "他们不听"
     }
   ],
-  "timestamp": "2026-07-17T22:14:29.001765127Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:22:02.202014292Z",
+  "model": "glm-4.5"
 }

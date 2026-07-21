@@ -1,22 +1,11 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "ezekiel 38:17",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 883,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20328,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 21211
-  },
-  "translation": "כֹּֽה אָמַ֞ר אֲדֹנָ֣\/י יְהוִ֗ה הַֽ\/אַתָּה ה֨וּא אֲשֶׁר דִּבַּ֜רְתִּי בְּ\/יָמִ֣ים קַדְמוֹנִ֗ים בְּ\/יַד֙ עֲבָדַ\/י֙ נְבִיאֵ֣י יִשְׂרָאֵ֔ל הַֽ\/נִּבְּאִ֛ים בַּ\/יָּמִ֥ים הָ\/הֵ֖ם שָׁנִ֑ים לְ\/הָבִ֥יא אֹתְ\/ךָ֖ עֲלֵי\/הֶֽם",
+  "translation": "雅威阿多奈如此说:你就是我在古时,借我仆人——那些在往年许多年间说预言的以色列众先知——所发言的那一位,要引你来攻击他们。",
   "tokens": [
     {
       "surface": "כה",
@@ -36,39 +25,39 @@
     },
     {
       "surface": "האתה",
-      "english": "你"
+      "english": "你就是"
     },
     {
       "surface": "הוא",
-      "english": "就是"
+      "english": "那位"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "english": "的"
     },
     {
       "surface": "דברתי",
-      "english": "我曾论及"
+      "english": "我所发言"
     },
     {
       "surface": "בימים",
-      "english": "在日子"
+      "english": "在……时"
     },
     {
       "surface": "קדמונים",
-      "english": "从前的"
+      "english": "古时"
     },
     {
       "surface": "ביד",
-      "english": "借着手"
+      "english": "借"
     },
     {
       "surface": "עבדי",
-      "english": "仆人"
+      "english": "我仆人"
     },
     {
       "surface": "נביאי",
-      "english": "先知"
+      "english": "以色列众先知"
     },
     {
       "surface": "ישראל",
@@ -76,11 +65,11 @@
     },
     {
       "surface": "הנבאים",
-      "english": "他们发预言"
+      "english": "说预言的"
     },
     {
       "surface": "בימים",
-      "english": "在日子"
+      "english": "在……时"
     },
     {
       "surface": "ההם",
@@ -88,22 +77,22 @@
     },
     {
       "surface": "שנים",
-      "english": "多年"
+      "english": "年"
     },
     {
       "surface": "להביא",
-      "english": "要领"
+      "english": "引"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
-      "marks": "你 (你攻击他们)"
+      "english": "你",
+      "marks": "来攻击他们"
     },
     {
       "surface": "עליהם",
       "english": "攻击他们"
     }
   ],
-  "timestamp": "2026-07-17T23:04:17.638981395Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:37:33.871046873Z",
+  "model": "glm-4.5"
 }

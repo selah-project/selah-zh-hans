@@ -1,31 +1,20 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "ezekiel 34:3",
   "book": "ezekiel",
   "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19422,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20081
-  },
-  "translation": "⟨את⟩ הַ\/חֵ֤לֶב תֹּאכֵ֨לוּ֙ וְ\/⟨את⟩ הַ\/צֶּ֣מֶר תִּלְבָּ֔שׁוּ הַ\/בְּרִיאָ֖ה תִּזְבָּ֑חוּ הַ\/צֹּ֖אן לֹ֥א תִרְעֽוּ",
+  "translation": "你们吃 ⟨את⟩ 脂油,穿 ⟨את⟩ 羊毛,宰杀 ⟨是⟩ 肥壮的,却 ⟨不⟩ 牧养 ⟨羊群⟩。",
   "tokens": [
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "החלב (脂肪)"
+      "marks": "החלב (脂油)"
     },
     {
       "surface": "החלב",
-      "english": "脂肪"
+      "english": "脂油"
     },
     {
       "surface": "תאכלו",
@@ -42,15 +31,15 @@
     },
     {
       "surface": "תלבשו",
-      "english": "你们穿"
+      "english": "穿"
     },
     {
       "surface": "הבריאה",
       "english": "肥壮的"
     },
     {
-      "surface": "תזבחu",
-      "english": "你们宰杀"
+      "surface": "תזבחו",
+      "english": "宰杀"
     },
     {
       "surface": "הצאן",
@@ -62,9 +51,9 @@
     },
     {
       "surface": "תרעו",
-      "english": "你们牧养"
+      "english": "牧养"
     }
   ],
-  "timestamp": "2026-07-17T23:01:03.229411520Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:36:31.549599560Z",
+  "model": "glm-4.5"
 }

@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "jeremiah 16:1",
   "book": "jeremiah",
   "lang": "zh-Hans",
   "chapter": 16,
   "usage": {
-    "completion_tokens": 202,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18594,
+    "completion_tokens": 223,
+    "prompt_tokens": 18658,
     "prompt_tokens_details": {
       "cached_tokens": 17920
     },
-    "total_tokens": 18796
+    "total_tokens": 18881
   },
-  "translation": "וַ\/יְהִ֥י דְבַר 雅威 אֵלַ֥\/י לֵ\/אמֹֽר",
+  "translation": "雅威的*话*也临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִ֥י"
+      "english": "于是"
     },
     {
       "surface": "דבר",
-      "english": "דְבַר"
+      "english": "话"
     },
     {
       "surface": "יהוה",
@@ -32,13 +29,13 @@
     },
     {
       "surface": "אלי",
-      "english": "אֵלַ֥\/י"
+      "english": "到我"
     },
     {
       "surface": "לאמר",
-      "english": "לֵ\/אמֹֽר"
+      "english": "说"
     }
   ],
-  "timestamp": "2026-07-18T02:56:28.679903799Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:20:00.973639586Z",
+  "model": "glm-4.5"
 }

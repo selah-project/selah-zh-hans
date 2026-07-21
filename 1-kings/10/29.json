@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 29,
   "ref": "1-kings 10:29",
   "book": "1-kings",
   "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 1307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64896,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 66203
-  },
-  "translation": "וַ\/תַּעֲלֶה וַ\/תֵּצֵא מֶרְכָּבָה מִ\/מִּצְרַיִם בְּ\/שֵׁשׁ מֵאוֹת ⟨כֶּסֶף⟩ וְ\/סוּס בַּ\/חֲמִשִּׁים וּ\/מֵאָה, וְ\/כֵן לְ\/כָל מַלְכֵי הַ\/חִתִּים וּ\/לְ\/מַלְכֵי אֲרָם; בְּ\/יָדָם יֹצִאוּ.",
+  "translation": "一辆战车从埃及上来并出去,为六百舍客勒银子,一匹马为一百五十;藉着他们的手,众赫梯人的王和众亚兰的王也同样把它们带出来。",
   "tokens": [
     {
       "surface": "וַתַּעֲלֶה",
-      "english": "וַ\/תַּעֲלֶה (wə-taʿalɛ́) — 升上来"
+      "english": "上来"
     },
     {
       "surface": "וַתֵּצֵא",
-      "english": "וַ\/תֵּצֵא (wə-tḗṣē) — 出去"
+      "english": "并出去"
     },
     {
-      "surface": "מרכבה",
-      "english": "merkāḇā́ (מֶרְכָּבָה) — 战车"
+      "surface": "מֶרְכָּבָה",
+      "english": "一辆战车"
     },
     {
-      "surface": "ממצרים",
-      "english": "埃及"
+      "surface": "מִמִּצְרַיִם",
+      "english": "从埃及"
     },
     {
-      "surface": "בשש",
-      "english": "bə \/ šēš (בְּ\/שֵׁשׁ) — 以 \/ 六"
+      "surface": "בְּשֵׁשׁ",
+      "english": "为六"
     },
     {
-      "surface": "מאות",
-      "english": "mēʾṓṯ (מֵאוֹת) — 百"
+      "surface": "מֵאוֹת",
+      "english": "百"
     },
     {
-      "surface": "כסף",
-      "english": "kɛ́sɛp̄ (כֶּסֶף) — 银子 \/ 银价"
+      "surface": "כֶּסֶף",
+      "english": "舍客勒银子"
     },
     {
-      "surface": "וסוס",
-      "english": "wə-sū́s (וְ\/סוּס) — 而一匹马"
+      "surface": "וְסוּס",
+      "english": "和一匹马"
     },
     {
-      "surface": "בחמשים",
-      "english": "bə \/ ḥămīššî́m (בַּ\/חֲמִשִּׁים) — 以 \/ 五十"
+      "surface": "בַּחֲמִשִּׁים",
+      "english": "为五十"
     },
     {
-      "surface": "ומאה",
-      "english": "ū-mēʾā́ (וּ\/מֵאָה) — 和一百"
+      "surface": "וּמֵאָה",
+      "english": "和一百"
     },
     {
-      "surface": "וכן",
-      "english": "wə-ḵḗn (וְ\/כֵן) — 同样"
+      "surface": "וְכֵן",
+      "english": "也同样"
     },
     {
-      "surface": "לכל",
-      "english": "lə \/ kōl (לְ\/כָל) — 给 \/ 所有"
+      "surface": "לְכָל",
+      "english": "为众"
     },
     {
-      "surface": "מלכי",
-      "english": "malkə̂ (מַלְכֵי) — ……的诸王"
+      "surface": "מַלְכֵי",
+      "english": "王"
     },
     {
-      "surface": "החתים",
-      "english": "赫人"
+      "surface": "הַחִתִּים",
+      "english": "赫梯人"
     },
     {
-      "surface": "ולמלכי",
-      "english": "ū-ləmalkə̂ (וּ\/לְ\/מַלְכֵי) — 和 \/ 给 \/ ……的诸王"
+      "surface": "וּלְמַלְכֵי",
+      "english": "和众王"
     },
     {
-      "surface": "ארם",
+      "surface": "אֲרָם",
       "english": "亚兰"
     },
     {
-      "surface": "בידם",
-      "english": "bə \/ yāḏām (בְּ\/יָדָ\/ם) — 借 \/ 他们的手"
+      "surface": "בְּיָדָם",
+      "english": "藉着他们的手"
     },
     {
-      "surface": "יצאו",
-      "english": "yōṣəʾū́ (יֹצִאוּ) — (他们) 带出来"
+      "surface": "יֹצִאוּ",
+      "english": "把它们带出来"
     }
   ],
-  "timestamp": "2026-07-17T21:05:51.819746797Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:47:52.098984727Z",
+  "model": "glm-4.5"
 }

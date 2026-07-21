@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-kings 13:10",
   "book": "2-kings",
   "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 824,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19312,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20136
-  },
-  "translation": "בִּ\/שְׁנַ֨ת שְׁלֹשִׁ֤ים וָ\/שֶׁ֨בַע֙ שָׁנָ֔ה לְ\/יוֹאָ֖שׁ מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ יְהוֹאָ֨שׁ בֶּן־יְהוֹאָחָ֤ז עַל־יִשְׂרָאֵל֙ בְּ\/שֹׁ֣מְר֔וֹן שֵׁ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃",
+  "translation": "犹大王约阿施三十七年,约哈斯之子约阿施在撒马利亚登基作以色列王,共十六年。",
   "tokens": [
     {
-      "surface": "בִּ\/שְׁנַ֨ת",
-      "english": "在……年"
+      "surface": "בשנת",
+      "english": "在…年"
     },
     {
-      "surface": "שְׁלֹשִׁ֤ים",
+      "surface": "שלשים",
       "english": "三十"
     },
     {
-      "surface": "וָ\/שֶׁ֨בַע֙",
-      "english": "又七"
+      "surface": "ושבע",
+      "english": "七"
     },
     {
-      "surface": "שָׁנָ֔ה",
+      "surface": "שנה",
       "english": "年"
     },
     {
-      "surface": "לְ\/יוֹאָ֖שׁ",
+      "surface": "ליואש",
       "english": "约阿施"
     },
     {
-      "surface": "מֶ֣לֶךְ",
-      "english": "犹大王的"
+      "surface": "מלך",
+      "english": "王"
     },
     {
-      "surface": "יְהוּדָ֑ה",
+      "surface": "יהודה",
       "english": "犹大"
     },
     {
-      "surface": "מָ֠לַךְ",
-      "english": "登基"
+      "surface": "מלך",
+      "english": "登基作王"
     },
     {
-      "surface": "יְהוֹאָ֨שׁ",
-      "english": "约哈斯之子约阿施"
+      "surface": "יהואש",
+      "english": "约阿施"
     },
     {
-      "surface": "בֶּן",
-      "english": "的儿子"
+      "surface": "בן",
+      "english": "子"
     },
     {
-      "surface": "יְהוֹאָחָ֤ז",
+      "surface": "יהואחז",
       "english": "约哈斯"
     },
     {
-      "surface": "עַל",
-      "english": "治理"
+      "surface": "על",
+      "english": "作…王"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "בְּ\/שֹׁ֣מְר֔וֹן",
-      "english": "在撒玛利亚"
+      "surface": "בשמרון",
+      "english": "在撒马利亚"
     },
     {
-      "surface": "שֵׁ֥שׁ",
-      "english": "六"
+      "surface": "שש",
+      "english": "十六"
     },
     {
-      "surface": "עֶשְׂרֵ֖ה",
+      "surface": "עשרה",
       "english": "十"
     },
     {
-      "surface": "שָׁנָֽה",
+      "surface": "שנה",
       "english": "年"
     }
   ],
-  "timestamp": "2026-07-17T21:25:48.861457436Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:39:31.433092040Z",
+  "model": "glm-4.5"
 }
