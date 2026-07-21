@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "2-samuel 2:18",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 960,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19504,
+    "completion_tokens": 487,
+    "prompt_tokens": 19583,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 20464
+    "total_tokens": 20070
   },
-  "translation": "וְשָׁם הָיוּ שְׁלוֹשָׁה בְּנֵי צְרוּיָה: יוֹאב וַאֲבִישַׁי וַעֲשָׂהאֵל; וְעֲשָׂהאֵל הָיָה קַל בְּרַגְלָיו כְּאַחַד הַצְּבָיִם אֲשֶׁר בַּשָּׂדֶה׃",
+  "translation": "那里有洗鲁雅的三个儿子:约押、亚比筛和亚撒黑;亚撒黑脚力轻快,如同田野⟨中⟩的野鹿一般。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "וְהָיוּ"
+      "english": "那里有"
     },
     {
       "surface": "שם",
-      "english": "שָׁם"
+      "english": "那里"
     },
     {
       "surface": "שלשה",
-      "english": "שְׁלוֹשָׁה"
+      "english": "三个"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "儿子"
     },
     {
       "surface": "צרויה",
-      "english": "צְרוּיָה"
+      "english": "洗鲁雅"
     },
     {
       "surface": "יואב",
-      "english": "יוֹאָב"
+      "english": "约押"
     },
     {
       "surface": "ואבישי",
-      "english": "וְאַבְשַׁי"
+      "english": "亚比筛"
     },
     {
       "surface": "ועשהאל",
-      "english": "וַעֲשָׂהאֵל"
+      "english": "和亚撒黑"
     },
     {
       "surface": "ועשהאל",
-      "english": "וְעֲשָׂהאֵל"
+      "english": "和亚撒黑"
     },
     {
       "surface": "קל",
-      "english": "קַל"
+      "english": "轻快"
     },
     {
       "surface": "ברגליו",
-      "english": "בְּרַגְלָיו"
+      "english": "脚力"
     },
     {
       "surface": "כאחד",
-      "english": "כְּאַחַד"
+      "english": "如同...一般"
     },
     {
       "surface": "הצבים",
-      "english": "הַצְּבָיִם"
+      "english": "野鹿"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "⟨中⟩"
     },
     {
       "surface": "בשדה",
-      "english": "בַּשָּׂדֶה"
+      "english": "田野"
     }
   ],
-  "timestamp": "2026-07-17T20:40:49.226229812Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:19.006932136Z",
+  "model": "glm-4.5"
 }

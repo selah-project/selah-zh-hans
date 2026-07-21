@@ -1,38 +1,35 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "genesis 18:25",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 878,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24018,
+    "completion_tokens": 679,
+    "prompt_tokens": 24017,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24896
+    "total_tokens": 24696
   },
-  "translation": "חָלִלָה לְךָ מֵעֲשֹׂת כַּ\/דָּבָר הַ\/זֶּה לְהָמִית צַדִּיק עִם רָשָׁע וְ\/הָיָה כַ\/צַּדִּיק כָּ\/רָשָׁע חָלִלָה לָּ\/ךְ הֲ\/שֹׁפֵט כָּל הָ\/אָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט",
+  "translation": "愿这事远离你，杀义人与恶人 ⟨一⟩ 起，让义人仿佛恶人 ⟨一⟩ 样；愿这事远离你。审判全地的 ⟨主⟩ 岂不 ⟨做⟩ 公义吗？",
   "tokens": [
     {
       "surface": "חללה",
-      "english": "断乎不可"
+      "english": "愿这事远离你"
     },
     {
       "surface": "לך",
-      "english": "对你"
+      "english": "愿这事远离你"
     },
     {
       "surface": "מעשת",
-      "english": "去做"
+      "english": "做"
     },
     {
       "surface": "כדבר",
-      "english": "像这话语"
+      "english": "这事"
     },
     {
       "surface": "הזה",
@@ -40,7 +37,7 @@
     },
     {
       "surface": "להמית",
-      "english": "把……处死"
+      "english": "杀"
     },
     {
       "surface": "צדיק",
@@ -48,35 +45,37 @@
     },
     {
       "surface": "עם",
-      "english": "与……一起"
+      "english": "与"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "english": "恶人 ⟨一⟩ 起",
+      "marks": "恶人 ⟨一⟩ 起"
     },
     {
       "surface": "והיה",
-      "english": "⟨以致⟩"
+      "english": "让"
     },
     {
       "surface": "כצדיק",
-      "english": "像义人"
+      "english": "仿佛义人 ⟨一⟩ 样"
     },
     {
       "surface": "כרשע",
-      "english": "像恶人"
+      "english": "仿佛恶人 ⟨一⟩ 样",
+      "marks": "仿佛恶人 ⟨一⟩ 样"
     },
     {
       "surface": "חללה",
-      "english": "断乎不可"
+      "english": "愿这事远离你"
     },
     {
       "surface": "לך",
-      "english": "对你"
+      "english": "愿这事远离你"
     },
     {
       "surface": "השפט",
-      "english": "⟨那⟩审判者"
+      "english": "审判"
     },
     {
       "surface": "כל",
@@ -84,7 +83,7 @@
     },
     {
       "surface": "הארץ",
-      "english": "地的"
+      "english": "地"
     },
     {
       "surface": "לא",
@@ -92,13 +91,13 @@
     },
     {
       "surface": "יעשה",
-      "english": "施行"
+      "english": "做"
     },
     {
       "surface": "משפט",
-      "english": "公正吗"
+      "english": "公义"
     }
   ],
-  "timestamp": "2026-07-17T17:43:29.746290447Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:18.026308312Z",
+  "model": "glm-4.5"
 }

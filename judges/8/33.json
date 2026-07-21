@@ -1,84 +1,86 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "judges 8:33",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 1624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18478,
+    "completion_tokens": 570,
+    "prompt_tokens": 18574,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 20102
+    "total_tokens": 19144
   },
-  "translation": "גִּדְעוֹן מֵת וְ\/הָיָה כַּ\/אֲשֶׁר בְּנֵי יִשְׂרָאֵל שָׁבוּ וְ\/הִזְנוּ אַחֲרֵי הַ\/בְּעָלִים וַ\/יָּשִׂימוּ לָ\/הֶם בַּעַל בְּרִית לְ\/אֱלֹהִים׃",
+  "translation": "事情⟨是⟩这样,基甸一死,以色列子民就转回,在巴力们后面行淫,把巴力-布瑞特当作他们的以罗欣",
   "tokens": [
     {
-      "surface": "ו\/יהי",
-      "english": "כַּ\/אֲשֶׁר הָיָה"
+      "surface": "ויהי",
+      "english": "事情⟨是⟩这样"
     },
     {
-      "surface": "כ\/אשר",
-      "english": "כַּ\/אֲשֶׁר"
+      "surface": "כאשר",
+      "english": "一"
     },
     {
       "surface": "מת",
-      "english": "מֵת"
+      "english": "死"
     },
     {
       "surface": "גדעון",
-      "english": "גִּדְעוֹן"
+      "english": "基甸"
     },
     {
-      "surface": "ו\/ישובו",
-      "english": "שָׁבוּ"
+      "surface": "וישובו",
+      "english": "就转回"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי"
+      "english": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "יִשְׂרָאֵל"
+      "english": "以色列"
     },
     {
-      "surface": "ו\/יזנו",
-      "english": "וְ\/הִזְנוּ"
+      "surface": "ואחרי",
+      "english": "在...后面"
     },
     {
-      "surface": "אחרי",
-      "english": "אַחֲרֵי"
+      "surface": "הבעלים",
+      "english": "巴力们"
     },
     {
-      "surface": "ה\/בעלים",
-      "english": "הַ\/בְּעָלִים"
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "巴力-布瑞特"
     },
     {
-      "surface": "ו\/ישימו",
-      "english": "וַ\/יָּשִׂימוּ"
+      "surface": "יזנו",
+      "english": "行淫"
     },
     {
-      "surface": "ל\/הם",
-      "english": "לָ\/הֶם"
+      "surface": "וישימו",
+      "english": "把...当作"
+    },
+    {
+      "surface": "להם",
+      "english": "他们的"
     },
     {
       "surface": "בעל",
-      "english": "בַּעַל"
+      "english": "巴力"
     },
     {
       "surface": "ברית",
-      "english": "בְּרִית"
+      "english": "布瑞特"
     },
     {
-      "surface": "ל\/אלהים",
-      "english": "לְ\/אֱלֹהִים"
+      "surface": "לאלהים",
+      "english": "以罗欣"
     }
   ],
-  "timestamp": "2026-07-18T02:49:12.148054029Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:54.210601674Z",
+  "model": "glm-4.5"
 }

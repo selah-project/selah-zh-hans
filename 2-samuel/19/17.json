@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "2-samuel 19:17",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 831,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19509,
+    "completion_tokens": 515,
+    "prompt_tokens": 19618,
     "prompt_tokens_details": {
-      "cached_tokens": 17664
+      "cached_tokens": 17408
     },
-    "total_tokens": 20340
+    "total_tokens": 20133
   },
-  "translation": "שִׁמְעִי בֶּן־גֵּרָא בֶּן־הַ\/יְמִינִי אֲשֶׁר מִ\/בַּחוּרִים הִמְהִיר וַ\/יֵּרֶד עִם אִישׁ יְהוּדָה לִ\/קְרַאת הַ\/מֶּלֶךְ דָּוִֽד",
+  "translation": "示每——基拉的儿子、来自巴户琳的便雅悯人——急忙下来，同犹大的一人去迎接君王大卫。",
   "tokens": [
     {
-      "surface": "וַ\/יְמַהֵר",
-      "english": "急忙赶来"
+      "surface": "וימהר",
+      "english": "急忙"
     },
     {
-      "surface": "שִׁמְעִי",
-      "english": "שִׁמְעִי"
+      "surface": "שמעי",
+      "english": "示每"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "——基拉的儿子"
     },
     {
-      "surface": "גֵּרָא",
-      "english": "גֵּרָא"
+      "surface": "גרא",
+      "english": "基拉"
     },
     {
-      "surface": "בֶּן",
-      "english": "בֶּן"
+      "surface": "בן",
+      "english": "、"
     },
     {
-      "surface": "הַ\/יְמִינִי",
-      "english": "הַ\/יְמִינִי"
+      "surface": "הימיני",
+      "english": "便雅悯人"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": "——来自"
     },
     {
-      "surface": "מִ\/בַּחוּרִים",
-      "english": "מִ\/בַּחוּרִים"
+      "surface": "מבחורים",
+      "english": "巴户琳的"
     },
     {
-      "surface": "וַ\/יֵּרֶד",
-      "english": "下来"
+      "surface": "וירד",
+      "english": "急忙下来"
     },
     {
-      "surface": "עִם",
-      "english": "עִם"
+      "surface": "עם",
+      "english": "同"
     },
     {
-      "surface": "אִישׁ",
-      "english": "אִישׁ"
+      "surface": "איש",
+      "english": "一人"
     },
     {
-      "surface": "יְהוּדָה",
-      "english": "יְהוּדָה"
+      "surface": "יהודה",
+      "english": "犹大"
     },
     {
-      "surface": "לִ\/קְרַאת",
-      "english": "迎接"
+      "surface": "לקראת",
+      "english": "去迎接"
     },
     {
-      "surface": "הַ\/מֶּלֶךְ",
-      "english": "הַ\/מֶּלֶךְ"
+      "surface": "המלך",
+      "english": "君王"
     },
     {
-      "surface": "דָּוִד",
-      "english": "דָּוִד"
+      "surface": "דוד",
+      "english": "大卫"
     }
   ],
-  "timestamp": "2026-07-17T20:51:26.616981766Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:10:49.985376473Z",
+  "model": "glm-4.5"
 }

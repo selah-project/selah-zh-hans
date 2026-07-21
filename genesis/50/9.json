@@ -1,64 +1,61 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "genesis 50:9",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 50,
   "usage": {
-    "completion_tokens": 804,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23135,
+    "completion_tokens": 459,
+    "prompt_tokens": 23134,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23939
+    "total_tokens": 23593
   },
-  "translation": "וַ\/יַּ֣עַל עִמּ֔\/וֹ גַּם רֶ֖כֶב גַּם פָּרָשִׁ֑ים וַ\/יְהִ֥י הַֽ\/מַּחֲנֶ֖ה כָּבֵ֥ד מְאֹֽד",
+  "translation": "并且也有战车与骑兵和他一同上去，并且营队是非常尊贵的。",
   "tokens": [
     {
-      "surface": "וַ\/יַּ֣עַל",
-      "english": "וַ\/וַיַּ֣עַל"
+      "surface": "ויעל",
+      "english": "并且……上去"
     },
     {
-      "surface": "עִמּ֔\/וֹ",
-      "english": "עִמּ֔\/עִמּ֔\/וֹ"
+      "surface": "עמו",
+      "english": "和他一同"
     },
     {
-      "surface": "גַּם",
-      "english": "גַּם"
+      "surface": "גם",
+      "english": "也有"
     },
     {
-      "surface": "רֶ֖כֶב",
-      "english": "רֶ֖רֶכֶב"
+      "surface": "רכב",
+      "english": "战车"
     },
     {
-      "surface": "גַּם",
-      "english": "גַּם"
+      "surface": "גם",
+      "english": "与"
     },
     {
-      "surface": "פָּרָשִׁ֑ים",
-      "english": "פָּרָשִׁ֑פָּרָשִׁ֑ים"
+      "surface": "פרשים",
+      "english": "骑兵"
     },
     {
-      "surface": "וַ\/יְהִ֥י",
-      "english": "וַ\/וַיְהִ֥י"
+      "surface": "ויהי",
+      "english": "并且……是"
     },
     {
-      "surface": "הַֽ\/מַּחֲנֶ֖ה",
-      "english": "הַֽ\/הַֽ\/מַּחֲנֶ֖ה"
+      "surface": "המחנה",
+      "english": "营队"
     },
     {
-      "surface": "כָּבֵ֥ד",
-      "english": "כָּבֵ֥כָּבֵ֥ד"
+      "surface": "כבד",
+      "english": "尊贵的"
     },
     {
-      "surface": "מְאֹֽד",
-      "english": "מְאֹֽמְאֹֽד"
+      "surface": "מאד",
+      "english": "非常"
     }
   ],
-  "timestamp": "2026-07-20T06:36:43.740419770Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:23.258229442Z",
+  "model": "glm-4.5"
 }

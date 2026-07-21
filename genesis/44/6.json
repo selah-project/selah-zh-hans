@@ -1,49 +1,46 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "genesis 44:6",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 44,
   "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22817,
+    "completion_tokens": 290,
+    "prompt_tokens": 22816,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23369
+    "total_tokens": 23106
   },
-  "translation": "וַיַּשִּׂגֵם, וַיְדַבֵּר אֲלֵיהֶם ⟨אֶת⟩ הַדְּבָרִים הָאֵלֶּה׃",
+  "translation": "他追上了他们,并 ⟨向⟩ 他们说了这些话",
   "tokens": [
     {
-      "surface": "וַֽיַּשִּׂגֵ֑ם",
+      "surface": "וישגם",
       "english": "他追上了他们"
     },
     {
-      "surface": "וַ\/יְדַבֵּ֣ר",
-      "english": "便对他们说"
+      "surface": "ודבר",
+      "english": "并说了"
     },
     {
-      "surface": "אֲלֵ\/הֶ֔ם",
-      "english": "对他们"
+      "surface": "אלהם",
+      "english": "⟨向⟩ 他们"
     },
     {
-      "surface": "אֶת",
-      "english": "⟨אֶת⟩",
-      "marks": "这些话 (הַדְּבָרִים)"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "这些话"
     },
     {
-      "surface": "הַ\/דְּבָרִ֖ים",
-      "english": "这些事 (这些话)"
+      "surface": "הדברים",
+      "english": "这些话"
     },
     {
-      "surface": "הָ\/אֵֽלֶּה",
-      "english": "这些"
+      "surface": "האלה",
+      "english": ""
     }
   ],
-  "timestamp": "2026-07-17T18:04:30.318094299Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:19.923388253Z",
+  "model": "glm-4.5"
 }

@@ -1,56 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "proverbs 18:12",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54469,
+    "completion_tokens": 292,
+    "prompt_tokens": 54468,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 55056
+    "total_tokens": 54760
   },
-  "translation": "לפני שבר יגבה לב אישׁ, ולפני כבוד ענוה׃",
+  "translation": "在毁灭之前,人的心 ⟨是⟩ 骄傲的;在荣耀 ⟨之前⟩, ⟨有⟩ 谦卑。",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "לפני"
+      "english": "在...之前"
     },
     {
       "surface": "שבר",
-      "english": "שבר"
+      "english": "毁灭"
     },
     {
-      "surface": "יגבבה",
-      "english": "יגבה"
+      "surface": "יגבה",
+      "english": "骄傲的"
     },
     {
       "surface": "לב",
-      "english": "לב"
+      "english": "心"
     },
     {
-      "surface": "אישׁ",
-      "english": "אישׁ"
+      "surface": "איש",
+      "english": "人"
     },
     {
       "surface": "ולפני",
-      "english": "ולפני"
+      "english": "在...之前"
     },
     {
       "surface": "כבוד",
-      "english": "כבוד"
+      "english": "荣耀"
     },
     {
       "surface": "ענוה",
-      "english": "ענוה"
+      "english": "谦卑"
     }
   ],
-  "timestamp": "2026-07-18T00:41:56.911324321Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:37.484008874Z",
+  "model": "glm-4.5"
 }

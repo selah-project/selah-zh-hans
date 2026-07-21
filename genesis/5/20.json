@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "genesis 5:20",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 551,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23085,
+    "completion_tokens": 365,
+    "prompt_tokens": 23148,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23636
+    "total_tokens": 23513
   },
-  "translation": "וְ\/כָל יְמֵי יָרֵד הָיוּ שְׁתַּיִם וְ\/שִׁשִּׁים שָׁנָה וּ\/תְשַׁע מֵאוֹת שָׁנָה, וַ\/יָּמָת.",
+  "translation": "雅列一切 ⟨的⟩ 日子 ⟨是⟩ 九百六十二年,并且他死了",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "וַ\/יְהִי"
+      "english": "⟨是⟩"
     },
     {
       "surface": "כל",
-      "english": "כָּל"
+      "english": "一切"
     },
     {
       "surface": "ימי",
-      "english": "יְמֵי"
+      "english": "⟨的⟩ 日子"
     },
     {
       "surface": "ירד",
-      "english": "יֶרֶד"
+      "english": "雅列"
     },
     {
       "surface": "שתים",
-      "english": "שְׁתַּיִם"
+      "english": "九百"
     },
     {
       "surface": "וששים",
-      "english": "וְ\/שִׁשִּׁים"
+      "english": "六十"
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה"
+      "english": "年"
     },
     {
       "surface": "ותשע",
-      "english": "וּ\/תְשַׁע"
+      "english": "二"
     },
     {
       "surface": "מאות",
-      "english": "מֵאוֹת"
+      "english": ""
     },
     {
       "surface": "שנה",
-      "english": "שָׁנָה"
+      "english": ""
     },
     {
       "surface": "וימת",
-      "english": "וַ\/יָּמָת"
+      "english": "并且他死了"
     }
   ],
-  "timestamp": "2026-07-17T17:35:52.477215354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:01.622278476Z",
+  "model": "glm-4.5"
 }

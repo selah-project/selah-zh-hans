@@ -1,61 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "genesis 13:5",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 13,
   "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23049,
+    "completion_tokens": 399,
+    "prompt_tokens": 23112,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23504
+    "total_tokens": 23511
   },
-  "translation": "וְגַם לְלוֹט הַהֹלֵךְ אֶת אַבְרָם, הָיָה צֹאן וּבָקָר וְאֹהָלִים׃",
+  "translation": "与亚伯兰同行的罗得 ⟨也有⟩ 羊群、牛群和帐棚,",
   "tokens": [
     {
-      "surface": "וְגַם",
-      "english": "也"
+      "surface": "וגם",
+      "english": "与...也"
     },
     {
-      "surface": "לְלוֹט",
+      "surface": "ללוט",
       "english": "罗得"
     },
     {
-      "surface": "הַהֹלֵךְ",
-      "english": "与……同行的"
+      "surface": "ההלך",
+      "english": "同行的"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אַבְרָם"
+      "marks": "亚伯兰"
     },
     {
-      "surface": "אַבְרָם",
+      "surface": "אברם",
       "english": "亚伯兰"
     },
     {
-      "surface": "הָיָה",
-      "english": "有"
+      "surface": "היה",
+      "english": "⟨也有⟩"
     },
     {
-      "surface": "צֹאן",
+      "surface": "צאן",
       "english": "羊群"
     },
     {
-      "surface": "וּבָקָר",
-      "english": "牛群"
+      "surface": "ובקר",
+      "english": "、牛群"
     },
     {
-      "surface": "וְאֹהָלִים",
-      "english": "帐篷"
+      "surface": "ואהלים",
+      "english": "和帐棚"
     }
   ],
-  "timestamp": "2026-07-17T17:40:20.897913208Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:28.137578390Z",
+  "model": "glm-4.5"
 }

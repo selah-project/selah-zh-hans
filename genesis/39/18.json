@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "genesis 39:18",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 39,
   "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23010,
+    "completion_tokens": 481,
+    "prompt_tokens": 23009,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23408
+    "total_tokens": 23490
   },
-  "translation": "וַ\/יְהִ֕י כַּ\/הֲרִימִ֥\/י קוֹלִ֖\/י וָ\/אֶקְרָ֑א וַ\/יַּעֲזֹ֥ב בִּגְד֛\/וֹ אֶצְלִ֖\/י וַ\/יָּ֥נָס הַ\/חֽוּצָ\/ה",
+  "translation": "这事发生,当我举起我的声音并呼喊,他就把他的衣服留在我旁边,逃到外面去。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事发"
+      "english": "这事发生"
     },
     {
       "surface": "כהרימי",
-      "english": "当我提高"
+      "english": "当我举起"
     },
     {
       "surface": "קולי",
@@ -32,11 +29,11 @@
     },
     {
       "surface": "ואקרא",
-      "english": "而我呼叫时"
+      "english": "并呼喊"
     },
     {
       "surface": "ויעזב",
-      "english": "他就撇下"
+      "english": "他就把"
     },
     {
       "surface": "בגדו",
@@ -44,17 +41,17 @@
     },
     {
       "surface": "אצלי",
-      "english": "在我身旁"
+      "english": "留在我旁边"
     },
     {
       "surface": "וינס",
-      "english": "逃到"
+      "english": "逃"
     },
     {
       "surface": "החוצה",
-      "english": "外面"
+      "english": "到外面去"
     }
   ],
-  "timestamp": "2026-07-17T18:00:17.635646333Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:05.895574226Z",
+  "model": "glm-4.5"
 }

@@ -1,84 +1,96 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "haggai 2:19",
   "book": "haggai",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 647,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21420,
+    "completion_tokens": 678,
+    "prompt_tokens": 21419,
     "prompt_tokens_details": {
-      "cached_tokens": 19648
+      "cached_tokens": 19584
     },
-    "total_tokens": 22067
+    "total_tokens": 22097
   },
-  "translation": "העוד הזרע במגורה ועד הגפן והתאנה והרמון ועץ הזית לא נשא? מן היום הזה אברך׃",
+  "translation": "这 ⟨את⟩ 种子还在谷仓里吗？以及这 ⟨את⟩ 葡萄树、无花果树、石榴树、橄榄树——尚未结果：从这一天起，我必赐福给你们。",
   "tokens": [
     {
       "surface": "העוד",
-      "english": "种子是否仍在"
+      "english": "还在",
+      "marks": "还在"
     },
     {
       "surface": "הזרע",
-      "english": "种子"
+      "english": "这 ⟨את⟩ 种子",
+      "marks": "种子"
     },
     {
       "surface": "במגורה",
-      "english": "谷仓里"
+      "english": "在谷仓里",
+      "marks": "谷仓"
     },
     {
       "surface": "ועד",
-      "english": "连"
+      "english": "吗？以及",
+      "marks": null
     },
     {
       "surface": "הגפן",
-      "english": "葡萄树"
+      "english": "这 ⟨את⟩ 葡萄树",
+      "marks": "葡萄树"
     },
     {
       "surface": "והתאנה",
-      "english": "无花果树"
+      "english": "无花果树",
+      "marks": "无花果树"
     },
     {
       "surface": "והרמון",
-      "english": "石榴树"
+      "english": "石榴树",
+      "marks": "石榴树"
     },
     {
       "surface": "ועץ",
-      "english": "和树"
+      "english": "和……树",
+      "marks": null
     },
     {
       "surface": "הזית",
-      "english": "橄榄"
+      "english": "橄榄",
+      "marks": "橄榄"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "尚未",
+      "marks": null
     },
     {
       "surface": "נשא",
-      "english": "结果"
+      "english": "结果",
+      "marks": null
     },
     {
       "surface": "מן",
-      "english": "从"
+      "english": "从",
+      "marks": null
     },
     {
       "surface": "היום",
-      "english": "这日子起"
+      "english": "这一天",
+      "marks": null
     },
     {
       "surface": "הזה",
-      "english": "这个"
+      "english": "起",
+      "marks": null
     },
     {
       "surface": "אברך",
-      "english": "我必赐福"
+      "english": "我必赐福给你们",
+      "marks": null
     }
   ],
-  "timestamp": "2026-07-17T23:32:06.816332149Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:16.561933092Z",
+  "model": "glm-4.5"
 }

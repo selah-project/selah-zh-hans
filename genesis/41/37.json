@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 37,
   "ref": "genesis 41:37",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 41,
   "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22772,
+    "completion_tokens": 283,
+    "prompt_tokens": 22834,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23236
+    "total_tokens": 23117
   },
-  "translation": "וְהַ*davar* הַ*davar* בְּעֵינֵי פַרְעֹה וּבְעֵינֵי כָּל עֲבָדָיו׃",
+  "translation": "这事在法老眼中看为好，也在他众仆人眼中看为好",
   "tokens": [
     {
       "surface": "וייטב",
-      "english": "וַ\/"
+      "english": "看为好"
     },
     {
       "surface": "הדבר",
-      "english": "*davar*"
+      "english": "这事"
     },
     {
       "surface": "בעיני",
-      "english": "הַ\/"
+      "english": "在法老眼中"
     },
     {
       "surface": "פרעה",
-      "english": "*davar*"
+      "english": "法老"
     },
     {
       "surface": "ובעיני",
-      "english": "בְּ\/עֵינֵ֣י"
+      "english": "在他众仆人眼中"
     },
     {
       "surface": "כל",
-      "english": "פַרְעֹ֑ה"
+      "english": "众"
     },
     {
       "surface": "עבדיו",
-      "english": "וּ\/בְ\/עֵינֵ֖י"
+      "english": "仆人"
     }
   ],
-  "timestamp": "2026-07-17T18:01:47.561076649Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:25.876152922Z",
+  "model": "glm-4.5"
 }

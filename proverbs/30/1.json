@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "proverbs 30:1",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 30,
   "usage": {
-    "completion_tokens": 640,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54701,
+    "completion_tokens": 490,
+    "prompt_tokens": 54779,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 55341
+    "total_tokens": 55269
   },
-  "translation": "דברי אגור בן-יקה המשא: נאם הגבר לאיתיאל, לאיתיאל ואוכל׃",
+  "translation": "雅科之子阿古尔的话语,即负载。那人对以铁、以铁和乌甲说:",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "……的话"
+      "english": "话语"
     },
     {
       "surface": "אגור",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "בן",
-      "english": "……之子"
+      "english": "子"
     },
     {
       "surface": "יקה",
@@ -36,11 +33,11 @@
     },
     {
       "surface": "המשא",
-      "english": "默示"
+      "english": "即负载"
     },
     {
       "surface": "נאם",
-      "english": "神谕"
+      "english": "说"
     },
     {
       "surface": "הגבר",
@@ -48,17 +45,17 @@
     },
     {
       "surface": "לאיתיאל",
-      "english": "向伊提伊勒"
+      "english": "以铁"
     },
     {
       "surface": "לאיתיאל",
-      "english": "向伊提伊勒"
+      "english": "以铁"
     },
     {
       "surface": "ואכל",
-      "english": "与乌甲"
+      "english": "和乌甲"
     }
   ],
-  "timestamp": "2026-07-18T00:48:42.405069400Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:54.762484104Z",
+  "model": "glm-4.5"
 }

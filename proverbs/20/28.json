@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "proverbs 20:28",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54377,
+    "completion_tokens": 427,
+    "prompt_tokens": 54376,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54854
+    "total_tokens": 54803
   },
-  "translation": "חֶסֶד וֶאֱמֶת יִצְּרוּ מֶלֶךְ, וּבְחֶסֶד יִסְעַד כִּסְאוֹ.",
+  "translation": "慈爱和真实保守君王, ⟨他的⟩宝座因慈爱 ⟨被⟩扶持。",
   "tokens": [
     {
       "surface": "חסד",
-      "english": "חֶסֶד"
+      "english": "慈爱"
     },
     {
       "surface": "ואמת",
-      "english": "וֶאֱמֶת"
+      "english": "和真实"
     },
     {
       "surface": "יצרו",
-      "english": "יִצְּרוּ"
+      "english": "保守"
     },
     {
       "surface": "מלך",
-      "english": "מֶלֶךְ"
+      "english": "君王"
     },
     {
       "surface": "וסעד",
-      "english": "וּסָעַד"
+      "english": "和 ⟨被⟩扶持"
     },
     {
       "surface": "בחסד",
-      "english": "בְּחֶסֶד"
+      "english": "因慈爱"
     },
     {
       "surface": "כסאו",
-      "english": "כִּסְאוֹ"
+      "english": "⟨他的⟩宝座"
     }
   ],
-  "timestamp": "2026-07-18T00:42:57.919924651Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:11.132438825Z",
+  "model": "glm-4.5"
 }

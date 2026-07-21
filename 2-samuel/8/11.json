@@ -1,85 +1,82 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 11,
   "ref": "2-samuel 8:11",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 755,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19622,
+    "completion_tokens": 533,
+    "prompt_tokens": 19683,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 20377
+    "total_tokens": 20216
   },
-  "translation": "גַּם אֹתָ֕\/ם הִקְדִּ֛ישׁ הַ\/מֶּ֥לֶךְ דָּוִ֖ד לַֽ\/יהוָ֑ה, עִם הַ\/כֶּ֤סֶף וְ\/הַ\/זָּהָב֙ אֲשֶׁ֣ר הִקְדִּ֔ישׁ מִ\/כָּל הַ\/גּוֹיִ֖ם אֲשֶׁ֥ר כִּבֵּֽשׁ",
+  "translation": "这些 ⟨也⟩ 大卫王分别 ⟨为圣⟩ 给雅威,连同 ⟨这⟩ 银子和金子,就是他分别 ⟨为圣⟩ 来自 ⟨这⟩ 众民的,就是他所征服 ⟨的⟩。",
   "tokens": [
     {
-      "surface": "גַּם",
-      "english": "也"
+      "surface": "גם",
+      "english": "这些 ⟨也⟩"
     },
     {
-      "surface": "אֹתָ֕\/ם",
+      "surface": "אתם",
       "english": "⟨את⟩",
-      "marks": "这些（战利品）"
+      "marks": "大卫王分别 为圣 的对象"
     },
     {
-      "surface": "הִקְדִּ֛ישׁ",
-      "english": "献给了"
+      "surface": "הקדיש",
+      "english": "大卫王分别 ⟨为圣⟩"
     },
     {
-      "surface": "הַ\/מֶּ֥לֶךְ",
-      "english": "王"
+      "surface": "המלך",
+      "english": "大卫王"
     },
     {
-      "surface": "דָּוִ֖ד",
+      "surface": "דוד",
       "english": "大卫"
     },
     {
-      "surface": "לַֽ\/יהוָ֑ה",
+      "surface": "ליהוה",
       "english": "给雅威"
     },
     {
-      "surface": "עִם",
+      "surface": "עם",
       "english": "连同"
     },
     {
-      "surface": "הַ\/כֶּ֤סֶף",
-      "english": "银子"
+      "surface": "הכסף",
+      "english": "⟨这⟩ 银子"
     },
     {
-      "surface": "וְ\/הַ\/זָּהָב֙",
+      "surface": "והזהב",
       "english": "和金子"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
+      "surface": "אשר",
       "english": "就是"
     },
     {
-      "surface": "הִקְדִּ֔ישׁ",
-      "english": "他献给了"
+      "surface": "הקדיש",
+      "english": "他分别 ⟨为圣⟩"
     },
     {
-      "surface": "מִ\/כָּל",
-      "english": "从所有"
+      "surface": "מכל",
+      "english": "来自 ⟨这⟩"
     },
     {
-      "surface": "הַ\/גּוֹיִ֖ם",
-      "english": "外邦"
+      "surface": "הגוים",
+      "english": "众民"
     },
     {
-      "surface": "אֲשֶׁ֥ר",
+      "surface": "אשר",
       "english": "就是"
     },
     {
-      "surface": "כִּבֵּֽשׁ",
-      "english": "他所征服的"
+      "surface": "כבש",
+      "english": "他所征服"
     }
   ],
-  "timestamp": "2026-07-17T20:44:16.808083044Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:05.671183509Z",
+  "model": "glm-4.5"
 }

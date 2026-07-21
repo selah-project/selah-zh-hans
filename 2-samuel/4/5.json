@@ -1,97 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "2-samuel 4:5",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 982,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19931,
+    "completion_tokens": 456,
+    "prompt_tokens": 20022,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 20913
+    "total_tokens": 20478
   },
-  "translation": "וַ\/יֵּלְכוּ בְּנֵי רִמּוֹן הַ\/בְּאֵרֹתִי רֵכָב וּ\/בַעֲנָה וַ\/יָּבֹאוּ כְּ\/חֹם הַ\/יּוֹם אֶל בֵּית אִישׁ בֹּשֶׁת וְ\/הוּא שֹׁכֵב ⟨אֵת⟩ מִשְׁכַּב הַ\/צָּהֳרָיִם:",
+  "translation": "于是临门比罗录人利甲和巴拿去了,在正午的热度中来到伊施·伊施的家,而他正躺在⟨את⟩午睡的床上",
   "tokens": [
     {
-      "surface": "וַ\/יֵּלְכוּ",
-      "english": "于是走了"
+      "surface": "וילכו",
+      "english": "于是……去了"
     },
     {
-      "surface": "בְּנֵי",
-      "english": "儿子们"
+      "surface": "בני",
+      "english": "人"
     },
     {
-      "surface": "רִמּוֹן",
-      "english": "临门的"
+      "surface": "רמון",
+      "english": "临门"
     },
     {
-      "surface": "הַ\/בְּאֵרֹתִי",
-      "english": "那比罗特人"
+      "surface": "הבארתי",
+      "english": "比罗录"
     },
     {
-      "surface": "רֵכָב",
+      "surface": "רכב",
       "english": "利甲"
     },
     {
-      "surface": "וּ\/בַעֲנָה",
-      "english": "与巴拿"
+      "surface": "ובענה",
+      "english": "和巴拿"
     },
     {
-      "surface": "וַ\/יָּבֹאוּ",
-      "english": "就来了"
+      "surface": "ויבאו",
+      "english": "来到"
     },
     {
-      "surface": "כְּ",
-      "english": "在……之时"
+      "surface": "כחם",
+      "english": "热度"
     },
     {
-      "surface": "חֹם",
-      "english": "炎热"
+      "surface": "היום",
+      "english": "日"
     },
     {
-      "surface": "הַ\/יּוֹם",
-      "english": "那日"
-    },
-    {
-      "surface": "אֶל",
+      "surface": "אל",
       "english": "到"
     },
     {
-      "surface": "בֵּית",
+      "surface": "בית",
       "english": "家"
     },
     {
-      "surface": "אִישׁ־בֹּשֶׁת",
-      "english": "伊施·波设"
+      "surface": "איש",
+      "english": "伊施"
     },
     {
-      "surface": "וְ\/הוּא",
-      "english": "他"
+      "surface": "בשת",
+      "english": "伊施"
     },
     {
-      "surface": "שֹׁכֵב",
-      "english": "正躺卧"
+      "surface": "והוא",
+      "english": "而他"
     },
     {
-      "surface": "אֵת",
+      "surface": "שכב",
+      "english": "躺着"
+    },
+    {
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "床铺"
+      "marks": "午睡的床"
     },
     {
-      "surface": "מִשְׁכָּב",
-      "english": "床铺"
+      "surface": "משכב",
+      "english": "床"
     },
     {
-      "surface": "הַ\/צָּהֳרָיִם",
-      "english": "那正午"
+      "surface": "הצהרים",
+      "english": "午睡"
     }
   ],
-  "timestamp": "2026-07-17T20:42:04.045764701Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:10:58.874651089Z",
+  "model": "glm-4.5"
 }

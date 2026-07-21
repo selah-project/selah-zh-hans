@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "genesis 9:26",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22974,
+    "completion_tokens": 308,
+    "prompt_tokens": 23060,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23508
+    "total_tokens": 23368
   },
-  "translation": "וַ\/יֹּאמֶר（他说）：בָּר֥וּךְ（可称颂的）יְהֹוָ֖ה（雅威）אֱלֹ֣הֵי（以罗欣）שֵׁ֑ם（闪的）！וִ\/יהִ֥י（愿）כְנַ֖עַן（迦南）עֶ֥בֶד（作仆人）לָֽ\/מוֹ（给他们）。",
+  "translation": "他说:雅威——闪的以罗欣——是当受颂赞的;愿迦南做他的仆人。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "ברוך",
-      "english": "可称颂的"
+      "english": "是当受颂赞的"
     },
     {
       "surface": "יהוה",
@@ -32,7 +29,7 @@
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "english": "——闪的以罗欣——"
     },
     {
       "surface": "שם",
@@ -40,7 +37,7 @@
     },
     {
       "surface": "ויהי",
-      "english": "愿……"
+      "english": "愿"
     },
     {
       "surface": "כנען",
@@ -48,13 +45,13 @@
     },
     {
       "surface": "עבד",
-      "english": "仆人"
+      "english": "做他的仆人"
     },
     {
       "surface": "למו",
-      "english": "给（复数）他们"
+      "english": "他的"
     }
   ],
-  "timestamp": "2026-07-17T17:38:15.299081310Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:55.152591856Z",
+  "model": "glm-4.5"
 }

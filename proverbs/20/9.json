@@ -1,80 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "proverbs 20:9",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 805,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54311,
+    "completion_tokens": 355,
+    "prompt_tokens": 54310,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 55116
+    "total_tokens": 54665
   },
-  "translation": "מִי יֹאמַר זִכִּיתִי לִבִּ\/י טָהַרְתִּי מֵ\/חַטָּאתִֽ\/י",
+  "translation": "谁能说：我洁净了我的心，我脱离我的罪 ⟨纯净⟩？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "מִי",
-      "transliteration": "mi",
-      "grammar": "interrogative pronoun, masculine singular",
-      "gloss": "מִי",
-      "literal_meaning": "who?",
-      "strongs": "H4310"
+      "english": "谁能"
     },
     {
       "surface": "יאמר",
-      "english": "יֹאמַר",
-      "transliteration": "yomar",
-      "grammar": "verb, qal, imperfect, 3rd person masculine singular",
-      "gloss": "יֹאמַר",
-      "literal_meaning": "he will say \/ can say",
-      "strongs": "H559"
+      "english": "说"
     },
     {
       "surface": "זכיתי",
-      "english": "זִכִּיתִי",
-      "transliteration": "zikiti",
-      "grammar": "verb, hiphil, perfect, 1st person common singular (cohortative shortened)",
-      "gloss": "זִכִּיתִי",
-      "literal_meaning": "I have made clean \/ I have purified",
-      "strongs": "H2141"
+      "english": "我洁净了"
     },
     {
       "surface": "לבי",
-      "english": "לִבִּ\/י",
-      "transliteration": "libbi",
-      "grammar": "noun, masculine singular construct + 1st person common singular suffix",
-      "gloss": "לִבִּ\/י",
-      "literal_meaning": "my heart",
-      "morphology": "לֵב (H3820) + י suffix (H3145)",
-      "strongs": "H3820"
+      "english": "我的心"
     },
     {
       "surface": "טהרתי",
-      "english": "טָהַרְתִּי",
-      "transliteration": "taharti",
-      "grammar": "verb, qal, perfect, 1st person common singular (cohortative shortened)",
-      "gloss": "טָהַרְתִּי",
-      "literal_meaning": "I am pure \/ I have become clean",
-      "strongs": "H2891"
+      "english": "我……纯净"
     },
     {
       "surface": "מחטאתי",
-      "english": "מֵ\/חַטָּאתִֽ\/י",
-      "transliteration": "mechatati",
-      "grammar": "preposition + noun, feminine singular + 1st person common singular suffix",
-      "gloss": "מֵ\/חַטָּאתִֽ\/י",
-      "literal_meaning": "from my sin",
-      "morphology": "מִן (H4480) + חַטָּאת (H2403) + י suffix (H3145)",
-      "strongs": "H4480"
+      "english": "脱离我的罪"
     }
   ],
-  "timestamp": "2026-07-18T00:42:50.464497742Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:27.641467271Z",
+  "model": "glm-4.5"
 }

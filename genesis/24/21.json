@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "genesis 24:21",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23131,
+    "completion_tokens": 481,
+    "prompt_tokens": 23195,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23686
+    "total_tokens": 23676
   },
-  "translation": "וְהָאִישׁ מִשְׁתָּאֵ֖ה לָ֑\/הּ מַחֲרִ֕ישׁ לָ\/דַ֗עַת הַֽ\/הִצְלִ֧יחַ יְהוָ֛ה דַּרְכּ֖\/וֹ אִם לֹֽא",
+  "translation": "那人 ⟨对此⟩ 惊奇, 沉默 ⟨着⟩, ⟨要⟩ 知道 雅威 ⟨是否⟩ ⟨已⟩ 使 ⟨他的⟩ 路 亨通, ⟨或⟩ 没 ⟨有⟩。",
   "tokens": [
     {
       "surface": "והאיש",
@@ -24,23 +21,23 @@
     },
     {
       "surface": "משתאה",
-      "english": "惊奇地注视着她"
+      "english": "惊奇"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "english": "对此"
     },
     {
       "surface": "מחריש",
-      "english": "默然无声"
+      "english": "沉默"
     },
     {
       "surface": "לדעת",
-      "english": "为要得知"
+      "english": "知道"
     },
     {
       "surface": "ההצליח",
-      "english": "是否使……顺利"
+      "english": "亨通"
     },
     {
       "surface": "יהוה",
@@ -48,7 +45,7 @@
     },
     {
       "surface": "דרכו",
-      "english": "他的旅程"
+      "english": "路"
     },
     {
       "surface": "אם",
@@ -56,9 +53,9 @@
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "没有"
     }
   ],
-  "timestamp": "2026-07-17T17:47:05.307814431Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:37.083970243Z",
+  "model": "glm-4.5"
 }

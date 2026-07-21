@@ -1,25 +1,22 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "genesis 44:10",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 44,
   "usage": {
-    "completion_tokens": 660,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23596,
+    "completion_tokens": 574,
+    "prompt_tokens": 23595,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24256
+    "total_tokens": 24169
   },
-  "translation": "וַ\/יֹּאמֶר גַּם עַתָּ֥ה כְ\/דִבְרֵי\/כֶ֖ם כֶּן ה֑וּא אֲשֶׁ֨ר יִמָּצֵ֤א אִתּ\/וֹ֙ יִהְיֶה לִּ֣\/י עָ֔בֶד וְ\/אַתֶּ֖ם תִּהְי֥וּ נְקִיִּֽם.",
+  "translation": "他说,现在也 ⟨正如⟩ 你们的话,它 ⟨是这样⟩:在 ⟨他那里⟩ 被发现 ⟨的⟩,要作我的仆人,你们 ⟨要被⟩ 算为无辜。",
   "tokens": [
     {
-      "surface": "ו\/יאמר",
+      "surface": "ויאמר",
       "english": "他说"
     },
     {
@@ -31,20 +28,20 @@
       "english": "现在"
     },
     {
-      "surface": "כ\/דבריכם",
-      "english": "照你们的话"
+      "surface": "כדבריכם",
+      "english": "⟨正如⟩ 你们的话"
     },
     {
       "surface": "כן",
-      "english": "这样"
+      "english": "它 ⟨是这样⟩"
     },
     {
       "surface": "הוא",
-      "english": "⟨就是⟩"
+      "english": ""
     },
     {
       "surface": "אשר",
-      "english": "与谁"
+      "english": "⟨的⟩"
     },
     {
       "surface": "ימצא",
@@ -52,14 +49,15 @@
     },
     {
       "surface": "אתו",
-      "english": "在他那里"
+      "english": "⟨在⟩ 他 ⟨那里⟩",
+      "marks": "在他那里"
     },
     {
       "surface": "יהיה",
-      "english": "⟨他⟩就作"
+      "english": "要作"
     },
     {
-      "surface": "ל\/י",
+      "surface": "לי",
       "english": "我的"
     },
     {
@@ -67,18 +65,18 @@
       "english": "仆人"
     },
     {
-      "surface": "ו\/אתם",
-      "english": "至于你们"
+      "surface": "ואתם",
+      "english": "你们"
     },
     {
       "surface": "תהיו",
-      "english": "⟨将作为⟩"
+      "english": "⟨要被⟩ 算为"
     },
     {
       "surface": "נקים",
-      "english": "无辜的"
+      "english": "无辜"
     }
   ],
-  "timestamp": "2026-07-17T18:04:21.434714482Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:08.153580980Z",
+  "model": "glm-4.5"
 }

@@ -1,112 +1,131 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 14,
   "ref": "2-samuel 19:14",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 898,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20014,
+    "completion_tokens": 704,
+    "prompt_tokens": 20078,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 20912
+    "total_tokens": 20782
   },
-  "translation": "而向亚玛撒你们要说：你不是我的骨、我的肉吗？ ⟨雅威⟩⟨וְכֹה⟩⟨יוֹסִיף⟩⟨אִם⟩⟨לֹא⟩⟨שַׂר⟩⟨צָבָא⟩⟨תִּהְיֶה⟩⟨לְפָנַי⟩⟨כָל⟩⟨הַיָּמִים⟩⟨תַּחַת⟩⟨יוֹאָב⟩׃",
+  "translation": "你们要对暗撒说:你不是我的骨肉吗?愿以罗欣如此待我,加倍地待我,若你不作常在我面前的军长,代替约押。",
   "tokens": [
     {
-      "surface": "וְ\/לַֽ\/עֲמָשָׂא",
-      "english": "而向亚玛撒"
+      "surface": "ולעמשא",
+      "english": "你们要对暗撒说",
+      "marks": null
     },
     {
-      "surface": "תֹּמְרוּ",
-      "english": "你们要说"
+      "surface": "תמרו",
+      "english": "你们要对暗撒说",
+      "marks": null
     },
     {
-      "surface": "הֲ\/לוֹא",
-      "english": "难道不"
+      "surface": "הלוא",
+      "english": "你不是...吗?",
+      "marks": null
     },
     {
-      "surface": "עַצְמִ֥\/י",
-      "english": "我的骨"
+      "surface": "עצמי",
+      "english": "我的骨",
+      "marks": null
     },
     {
-      "surface": "וּ\/בְשָׂרִ֖\/י",
-      "english": "我的肉"
+      "surface": "ובשרי",
+      "english": "我的肉",
+      "marks": null
     },
     {
-      "surface": "אָ֑תָּה",
-      "english": "你"
+      "surface": "אתה",
+      "english": "你",
+      "marks": null
     },
     {
-      "surface": "כֹּה",
-      "english": "这样愿"
+      "surface": "כה",
+      "english": "如此",
+      "marks": null
     },
     {
-      "surface": "יַֽעֲשֶׂה",
-      "english": "以罗欣对我行"
+      "surface": "יעשה",
+      "english": "待",
+      "marks": null
     },
     {
-      "surface": "לִּ\/י",
-      "english": "对我"
+      "surface": "לי",
+      "english": "我",
+      "marks": null
     },
     {
-      "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "surface": "אלהים",
+      "english": "以罗欣",
+      "marks": null
     },
     {
-      "surface": "וְ\/כֹה",
-      "english": "并且这样"
+      "surface": "וכה",
+      "english": "加倍地",
+      "marks": null
     },
     {
-      "surface": "יוֹסִיף",
-      "english": "愿他加增"
+      "surface": "יוסיף",
+      "english": "加倍地",
+      "marks": null
     },
     {
-      "surface": "אִם",
-      "english": "如果"
+      "surface": "אם",
+      "english": "若",
+      "marks": null
     },
     {
-      "surface": "לֹא",
-      "english": "不"
+      "surface": "לא",
+      "english": "不",
+      "marks": null
     },
     {
-      "surface": "שַׂר",
-      "english": "统帅"
+      "surface": "שר",
+      "english": "军长",
+      "marks": null
     },
     {
-      "surface": "צָבָא",
-      "english": "军队"
+      "surface": "צבא",
+      "english": "军",
+      "marks": null
     },
     {
-      "surface": "תִּהְיֶה",
-      "english": "你将是"
+      "surface": "תהיה",
+      "english": "作",
+      "marks": null
     },
     {
-      "surface": "לְ\/פָנַ֛\/י",
-      "english": "在我面前"
+      "surface": "לפני",
+      "english": "在...面前",
+      "marks": null
     },
     {
-      "surface": "כָּל",
-      "english": "所有的"
+      "surface": "כל",
+      "english": "常",
+      "marks": null
     },
     {
-      "surface": "הַ\/יָּמִים",
-      "english": "日子"
+      "surface": "הימים",
+      "english": "常",
+      "marks": null
     },
     {
-      "surface": "תַּחַת",
-      "english": "代替"
+      "surface": "תחת",
+      "english": "代替",
+      "marks": null
     },
     {
-      "surface": "יוֹאָב",
-      "english": "约押"
+      "surface": "יואב",
+      "english": "约押",
+      "marks": null
     }
   ],
-  "timestamp": "2026-07-17T20:51:41.398879354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:30.623619854Z",
+  "model": "glm-4.5"
 }

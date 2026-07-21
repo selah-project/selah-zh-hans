@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "esther 3:1",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 3,
   "usage": {
-    "completion_tokens": 718,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20515,
+    "completion_tokens": 726,
+    "prompt_tokens": 20608,
     "prompt_tokens_details": {
-      "cached_tokens": 18112
+      "cached_tokens": 18048
     },
-    "total_tokens": 21233
+    "total_tokens": 21334
   },
-  "translation": "这些*davar*之后，הַ\/מֶּלֶךְ אֲחַשְׁוֵרוֹשׁ 擢升了 ⟨את⟩ הָמָן בֶּן הַמְּדָתָא הָ\/אֲגָגִי，高举他，并将 ⟨את⟩ 他的宝座设在所有与他同在的首领之上。",
+  "translation": "这些事以后，亚哈随鲁王将哈曼——哈米大他〈是〉亚甲族人的儿子——抬举，并使他高升，设立⟨את⟩他的位在众臣宰之上，就是与他同在的。",
   "tokens": [
     {
       "surface": "אחר",
-      "english": "之后"
+      "english": "以后"
     },
     {
       "surface": "הדברים",
-      "english": "这些*davar*"
+      "english": "这些事"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "english": "〈是〉"
     },
     {
       "surface": "גדל",
-      "english": "擢升了"
+      "english": "将...抬举"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "english": "亚哈随鲁王"
     },
     {
       "surface": "אחשורוש",
@@ -53,7 +50,7 @@
     },
     {
       "surface": "בן",
-      "english": "本"
+      "english": "儿子"
     },
     {
       "surface": "המדתא",
@@ -61,46 +58,46 @@
     },
     {
       "surface": "האגגי",
-      "english": "那亚甲人"
+      "english": "亚甲族人的"
     },
     {
-      "surface": "וינשאהו",
-      "english": "高举他"
+      "surface": "ונשאהו",
+      "english": "并使他高升"
     },
     {
       "surface": "וישם",
-      "english": "并设立"
+      "english": "设立"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他的宝座"
+      "marks": "他的位"
     },
     {
       "surface": "כסאו",
-      "english": "他的宝座"
+      "english": "他的位"
     },
     {
       "surface": "מעל",
-      "english": "在……之上"
+      "english": "在...之上"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "english": "众"
     },
     {
       "surface": "השרים",
-      "english": "首领"
+      "english": "臣宰"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "english": "就是"
     },
     {
       "surface": "אתו",
       "english": "与他同在的"
     }
   ],
-  "timestamp": "2026-07-18T01:24:58.206340944Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:23.301237608Z",
+  "model": "glm-4.5"
 }

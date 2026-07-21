@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "genesis 46:27",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 46,
   "usage": {
-    "completion_tokens": 1081,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23613,
+    "completion_tokens": 535,
+    "prompt_tokens": 23707,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24694
+    "total_tokens": 24242
   },
-  "translation": "יוֹסֵף之子，即生给他בְ\/מִצְרַיִם的，נֶפֶשׁ שְׁנָיִם。כֹּל הַ\/נֶּפֶשׁ לְ\/בֵֽית יַעֲקֹב הַ\/בָּאָה מִצְרַיְמָ\/ה，שִׁבְעִֽים。",
+  "translation": "至于约瑟在埃及生给他的 ⟨两个⟩ 人:雅各家 ⟨所有⟩ 去埃及的 ⟨人⟩ 是七十个。",
   "tokens": [
     {
-      "surface": "וּ\/בְנֵ֥י",
-      "english": "וּ\/בְנֵ֥י"
+      "surface": "ובני",
+      "english": "至于...的子"
     },
     {
-      "surface": "יוֹסֵ֛ף",
-      "english": "יוֹסֵכַּ"
+      "surface": "יוסף",
+      "english": "约瑟"
     },
     {
-      "surface": "אֲשֶׁר",
-      "english": "אֲשֶׁר"
+      "surface": "אשר",
+      "english": ""
     },
     {
-      "surface": "יֻלַּד",
-      "english": "יֻלַּד"
+      "surface": "ילד",
+      "english": "生"
     },
     {
-      "surface": "ל֥\/וֹ",
-      "english": "ל֥\/וֹ"
+      "surface": "לו",
+      "english": "给他"
     },
     {
-      "surface": "בְ\/מִצְרַ֖יִם",
-      "english": "בְּ\/מִצְרַ֖יִם"
+      "surface": "במצרים",
+      "english": "在埃及"
     },
     {
-      "surface": "נֶ֣פֶשׁ",
-      "english": "נֶ֣פֶשׁ"
+      "surface": "נפש",
+      "english": "人"
     },
     {
-      "surface": "שְׁנָ֑יִם",
-      "english": "שְׁנָ֑יִם"
+      "surface": "שנים",
+      "english": "⟨两个⟩"
     },
     {
-      "surface": "כָּל",
-      "english": "כָּל"
+      "surface": "כל",
+      "english": "⟨所有⟩"
     },
     {
-      "surface": "הַ\/נֶּ֧פֶשׁ",
-      "english": "הַ\/נֶּ֧פֶשׁ"
+      "surface": "הנפש",
+      "english": "⟨人⟩"
     },
     {
-      "surface": "לְ\/בֵֽית",
-      "english": "לְ\/בֵֽית"
+      "surface": "לבית",
+      "english": "雅各家"
     },
     {
-      "surface": "יַעֲקֹ֛ב",
-      "english": "יַעֲקֹ֛ב"
+      "surface": "יעקב",
+      "english": "雅各"
     },
     {
-      "surface": "הַ\/בָּ֥אָה",
-      "english": "הַ\/בָּ֥אָה"
+      "surface": "הבאה",
+      "english": "去"
     },
     {
-      "surface": "מִצְרַ֖יְמָ\/ה",
-      "english": "מִצְרַ֖יִם"
+      "surface": "מצרימה",
+      "english": "埃及"
     },
     {
-      "surface": "שִׁבְעִֽים",
-      "english": "שִׁבְעִֽים"
+      "surface": "שבעים",
+      "english": "七十个"
     }
   ],
-  "timestamp": "2026-07-17T18:06:14.892212016Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:58.846558411Z",
+  "model": "glm-4.5"
 }

@@ -1,97 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "ecclesiastes 11:8",
   "book": "ecclesiastes",
   "lang": "zh-Hans",
   "chapter": 11,
   "usage": {
-    "completion_tokens": 1071,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20036,
+    "completion_tokens": 561,
+    "prompt_tokens": 20035,
     "prompt_tokens_details": {
-      "cached_tokens": 17856
+      "cached_tokens": 17792
     },
-    "total_tokens": 21107
+    "total_tokens": 20596
   },
-  "translation": "כִּי אִם שָׁנִים הַרְבֵּה הָאָדָם יִחְיֶה, בְּ\/כֻלָּם יִשְׂמָח; וְ\/יִזְכֹּר ⟨את⟩ יְמֵי הַ\/חֹשֶׁךְ, כִּי הַרְבֵּה יִהְיוּ; כֹּל שֶׁ\/בָּא הָבֶל. פֵּרוּשׁ: 即使人活了多年,在这一切之中也当喜乐;但他要记念黑暗的日子,因为它们 ⟨将⟩ 许多;凡 ⟨将来⟩ 之事 ⟨都⟩ 是蒸汽。",
+  "translation": "但若人活多年,在 ⟨这一切⟩ 中当喜乐,也当 ⟨记念⟩ 黑暗 ⟨את⟩ 日子,因为 ⟨那⟩ 必多,一切 ⟨所⟩ 来的 ⟨都⟩ 是虚空。",
   "tokens": [
     {
-      "surface": "כִּ֣י",
-      "english": "即使"
+      "surface": "כי",
+      "english": "但"
     },
     {
-      "surface": "אִם",
+      "surface": "אם",
       "english": "若"
     },
     {
-      "surface": "שָׁנִ֥ים",
-      "english": "年日"
+      "surface": "שנים",
+      "english": "多年"
     },
     {
-      "surface": "הַרְבֵּ֛ה",
-      "english": "许多"
+      "surface": "הרבה",
+      "english": "活"
     },
     {
-      "surface": "יִחְיֶ֥ה",
-      "english": "活了"
+      "surface": "יחיה",
+      "english": "人"
     },
     {
-      "surface": "הָ\/אָדָ֖ם",
-      "english": "那人"
+      "surface": "האדם",
+      "english": "在"
     },
     {
-      "surface": "בְּ\/כֻלָּ֣\/ם",
-      "english": "在这一切之中"
+      "surface": "בכלם",
+      "english": "这一切"
     },
     {
-      "surface": "יִשְׂמָ֑ח",
-      "english": "他当喜乐"
+      "surface": "ישמח",
+      "english": "中当喜乐"
     },
     {
-      "surface": "וְ\/יִזְכֹּר֙",
-      "english": "而他当记念"
+      "surface": "ויזכר",
+      "english": "也当记念"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "黑暗的日子"
+      "marks": "日子"
     },
     {
-      "surface": "יְמֵ֣י",
+      "surface": "ימי",
+      "english": "黑暗"
+    },
+    {
+      "surface": "החשך",
       "english": "日子"
     },
     {
-      "surface": "הַ\/חֹ֔שֶׁךְ",
-      "english": "黑暗的"
-    },
-    {
-      "surface": "כִּֽי",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "הַרְבֵּ֥ה",
-      "english": "许多"
+      "surface": "הרבה",
+      "english": "那必"
     },
     {
-      "surface": "יִהְי֖וּ",
-      "english": "它们将⟨是⟩"
+      "surface": "יהיו",
+      "english": "多"
     },
     {
-      "surface": "כָּל",
-      "english": "凡"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "שֶׁ\/בָּ֥א",
-      "english": "来到之事"
+      "surface": "שבא",
+      "english": "所来的"
     },
     {
-      "surface": "הָֽבֶל",
-      "english": "蒸汽"
+      "surface": "הבל",
+      "english": "都是虚空"
     }
   ],
-  "timestamp": "2026-07-18T01:23:14.353982422Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:10.634575909Z",
+  "model": "glm-4.5"
 }

@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "proverbs 2:3",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54363,
+    "completion_tokens": 404,
+    "prompt_tokens": 54362,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54753
+    "total_tokens": 54766
   },
-  "translation": "כי אם לבינה תקרא, ולתבונה תתן קולך,",
+  "translation": "是的,倘若你为 *biná* (明辨) 呼求,并向 *tevuná* (洞察) 发出 ⟨你的⟩声音",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "english": "是的"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "english": "倘若"
     },
     {
-      "surface": "ל\/בינה",
-      "english": "向בינה"
+      "surface": "לבינה",
+      "english": "为 *biná* (明辨)"
     },
     {
       "surface": "תקרא",
-      "english": "你呼唤"
+      "english": "呼求"
     },
     {
-      "surface": "ל\/תבונה",
-      "english": "向תבונה"
+      "surface": "לתבונה",
+      "english": "向 *tevuná* (洞察)"
     },
     {
       "surface": "תתן",
-      "english": "你发出"
+      "english": "发出"
     },
     {
       "surface": "קולך",
-      "english": "你的声音"
+      "english": "⟨你的⟩声音"
     }
   ],
-  "timestamp": "2026-07-18T00:33:09.194528484Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:05.855699326Z",
+  "model": "glm-4.5"
 }

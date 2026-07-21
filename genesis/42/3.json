@@ -1,52 +1,50 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "genesis 42:3",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 42,
   "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22774,
+    "completion_tokens": 320,
+    "prompt_tokens": 22839,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23277
+    "total_tokens": 23159
   },
-  "translation": "约瑟的十个兄弟 ⟨下⟩ 去מִמִּצְרָיִם (从מִצְרָיִם) 买בָּר (谷物)。",
+  "translation": "于是,约瑟的十个弟兄下到埃及去买 ⟨את⟩ 粮食",
   "tokens": [
     {
-      "surface": "וַ\/יֵּרְדוּ",
-      "english": "于是他们下到"
+      "surface": "וירדו",
+      "english": "于是,……下到"
     },
     {
-      "surface": "אֲחֵי",
-      "english": "……的兄弟们"
+      "surface": "אחי",
+      "english": "弟兄"
     },
     {
-      "surface": "יוֹסֵף",
+      "surface": "יוסף",
       "english": "约瑟"
     },
     {
-      "surface": "עֲשָׂרָה",
-      "english": "十"
+      "surface": "עשרה",
+      "english": "十个"
     },
     {
-      "surface": "לִ\/שְׁבֹּר",
+      "surface": "לשבר",
       "english": "去买"
     },
     {
-      "surface": "בָּר",
-      "english": "谷物"
+      "surface": "בר",
+      "english": "粮食",
+      "marks": "粮食"
     },
     {
-      "surface": "מִ\/מִּצְרָיִם",
-      "english": "从מִּצְרָיִם (埃及)"
+      "surface": "ממצרים",
+      "english": "埃及"
     }
   ],
-  "timestamp": "2026-07-17T18:02:26.081981354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:21.002323683Z",
+  "model": "glm-4.5"
 }

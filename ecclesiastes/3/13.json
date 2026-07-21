@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "ecclesiastes 3:13",
   "book": "ecclesiastes",
   "lang": "zh-Hans",
   "chapter": 3,
   "usage": {
-    "completion_tokens": 767,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19290,
+    "completion_tokens": 585,
+    "prompt_tokens": 19289,
     "prompt_tokens_details": {
-      "cached_tokens": 17856
+      "cached_tokens": 17792
     },
-    "total_tokens": 20057
+    "total_tokens": 19874
   },
-  "translation": "גם כל האדם, שיאכל ושתה ויראה טוב בכל עמלו —— היא מתת אלהים היא.",
+  "translation": "并且人人都吃喝，在他一切的劳碌中看见美善，这是以罗欣的恩赐。",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "גם"
+      "english": "并且"
     },
     {
       "surface": "כל",
-      "english": "כל"
+      "english": "人人"
     },
     {
       "surface": "האדם",
-      "english": "האדם"
+      "english": ""
     },
     {
       "surface": "שיאכל",
-      "english": "שיאכל"
+      "english": "吃喝"
     },
     {
       "surface": "ושתה",
-      "english": "ושתה"
+      "english": ""
     },
     {
       "surface": "וראה",
-      "english": "ויראה"
+      "english": "看见"
     },
     {
       "surface": "טוב",
-      "english": "טוב"
+      "english": "美善"
     },
     {
       "surface": "בכל",
-      "english": "בכל"
+      "english": "在他一切的"
     },
     {
       "surface": "עמלו",
-      "english": "עמלו"
+      "english": "劳碌中"
     },
     {
       "surface": "מתת",
-      "english": "מתת"
+      "english": "恩赐"
     },
     {
       "surface": "אלהים",
-      "english": "אלהים"
+      "english": "以罗欣"
     },
     {
       "surface": "היא",
-      "english": "היא"
+      "english": "这是"
     }
   ],
-  "timestamp": "2026-07-18T01:19:42.954264639Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:04.740597824Z",
+  "model": "glm-4.5"
 }

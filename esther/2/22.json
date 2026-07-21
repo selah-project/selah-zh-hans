@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "esther 2:22",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 790,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19601,
+    "completion_tokens": 476,
+    "prompt_tokens": 19658,
     "prompt_tokens_details": {
-      "cached_tokens": 18112
+      "cached_tokens": 18048
     },
-    "total_tokens": 20391
+    "total_tokens": 20134
   },
-  "translation": "וְ\/הַ\/דָּבָר נוֹדַע לְ\/מָרְדֳּכַי, וַ\/יַּגֵּד לְ\/אֶסְתֵּר הַ\/מַּלְכָּה, וַ\/תֹּאמֶר אֶסְתֵּר לַ\/מֶּלֶךְ בְּ\/שֵׁם מָרְדֳּכָי:",
+  "translation": "这事被末底改知道了,他告诉⟨了⟩王后以斯帖,以斯帖奉末底改的名将这事禀报⟨给⟩王。",
   "tokens": [
     {
       "surface": "ויודע",
-      "english": "וְ\/נוֹדַע"
+      "english": "这事被末底改知道了"
     },
     {
       "surface": "הדבר",
-      "english": "הַ\/*davar* (הַ\/דָּבָר)"
+      "english": "这事"
     },
     {
       "surface": "למרדכי",
-      "english": "לְ\/מָרְדֳּכַי"
+      "english": "被末底改"
     },
     {
       "surface": "ויגד",
-      "english": "וַ\/יַּגֵּד"
+      "english": "他告诉⟨了⟩"
     },
     {
       "surface": "לאסתר",
-      "english": "לְ\/אֶסְתֵּר"
+      "english": "王后以斯帖"
     },
     {
       "surface": "המלכה",
-      "english": "הַ\/מַּלְכָּה"
+      "english": "王后"
     },
     {
       "surface": "ותאמר",
-      "english": "וַ\/תֹּאמֶר"
+      "english": "以斯帖...禀报"
     },
     {
       "surface": "אסתר",
-      "english": "אֶסְתֵּר"
+      "english": "以斯帖"
     },
     {
       "surface": "למלך",
-      "english": "לַ\/מֶּלֶךְ"
+      "english": "⟨给⟩王"
     },
     {
       "surface": "בשם",
-      "english": "בְּ\/שֵׁם"
+      "english": "奉...的名"
     },
     {
       "surface": "מרדכי",
-      "english": "מָרְדֳּכָי"
+      "english": "末底改"
     }
   ],
-  "timestamp": "2026-07-18T01:24:43.317933682Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:01.447245594Z",
+  "model": "glm-4.5"
 }

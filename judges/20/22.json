@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "judges 20:22",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18316,
+    "completion_tokens": 411,
+    "prompt_tokens": 18379,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 18864
+    "total_tokens": 18790
   },
-  "translation": "הָעָם אִישׁ יִשְׂרָאֵל וַיֹּסִפוּ לַעֲרֹךְ מִלְחָמָה בַּמָּקוֹם אֲשֶׁר עָרְכוּ שָׁם בַּיּוֹם הָרִאשׁוֹן׃",
+  "translation": "百姓,就是以色列人,使 ⟨自己⟩ 坚强,并 ⟨继续⟩ 在 ⟨他们⟩ 头一日 ⟨在那⟩ 摆列 ⟨ themselves in array⟩ 的地方 安排 战阵。",
   "tokens": [
     {
       "surface": "ויתחזק",
-      "english": "וַיִּתְחַזֵּק"
+      "english": "使 ⟨自己⟩ 坚强"
     },
     {
       "surface": "העם",
-      "english": "הָעָם"
+      "english": "百姓"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "english": "人"
     },
     {
       "surface": "ישראל",
-      "english": "יִשְׂרָאֵל"
+      "english": "以色列"
     },
     {
       "surface": "ויספו",
-      "english": "וַיֹּסִיפוּ"
+      "english": "并 ⟨继续⟩"
     },
     {
       "surface": "לערך",
-      "english": "לַעֲרֹךְ"
+      "english": "安排"
     },
     {
       "surface": "מלחמה",
-      "english": "מִלְחָמָה"
+      "english": "战阵"
     },
     {
       "surface": "במקום",
-      "english": "בַּמָּקוֹם"
+      "english": "在...地方"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "⟨在那⟩"
     },
     {
       "surface": "ערכו",
-      "english": "עָרְכוּ"
+      "english": "摆列"
     },
     {
       "surface": "שם",
-      "english": "שָׁם"
+      "english": "那里"
     },
     {
       "surface": "ביום",
-      "english": "בַּיּוֹם"
+      "english": "在...日"
     },
     {
       "surface": "הראשון",
-      "english": "הָרִאשׁוֹן"
+      "english": "头一日"
     }
   ],
-  "timestamp": "2026-07-17T20:19:35.474425356Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:54.802700846Z",
+  "model": "glm-4.5"
 }

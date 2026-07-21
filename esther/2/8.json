@@ -1,120 +1,117 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "esther 2:8",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 1756,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20778,
+    "completion_tokens": 731,
+    "prompt_tokens": 20869,
     "prompt_tokens_details": {
-      "cached_tokens": 4928
+      "cached_tokens": 4864
     },
-    "total_tokens": 22534
+    "total_tokens": 21600
   },
-  "translation": "בְּ\/הִשָּׁמַ֤ע דְּבַר הַ\/מֶּ֨לֶךְ֙ וְ\/דָת֔\/וֹ וּֽ\/בְ\/הִקָּבֵ֞ץ נְעָר֥וֹת רַבּ֛וֹת אֶל שׁוּשַׁ֥ן הַ\/בִּירָ֖ה אֶל יַ֣ד הֵגָ֑י וַ\/תִּלָּקַ֤ח אֶסְתֵּר֙ אֶל בֵּ֣ית הַ\/מֶּ֔לֶךְ אֶל יַ֥ד הֵגַ֖י שֹׁמֵ֥ר הַ\/נָּשִֽׁים",
+  "translation": "这事在王的 *davar* 和他的 *dat* 被听见时发生,许多少女被聚集到书珊 ⟨那⟩ 城堡,到海该的手中,以斯帖也被取到王的家,到海该的手中,⟨那⟩ 看守妇女的,",
   "tokens": [
     {
-      "surface": "וַ\/יְהִ֗י",
-      "english": "וַיְהִי"
+      "surface": "ויהי",
+      "english": "这事在……时发生"
     },
     {
-      "surface": "בְּ\/הִשָּׁמַ֤ע",
-      "english": "בְּ\/הִשָּׁמַ֤ע"
+      "surface": "בהשמע",
+      "english": "被听见"
     },
     {
-      "surface": "דְּבַר",
-      "english": "דְּבַר"
+      "surface": "דבר",
+      "english": "*davar*"
     },
     {
-      "surface": "הַ\/מֶּ֨לֶךְ֙",
-      "english": "הַ\/מֶּ֨לֶךְ֙"
+      "surface": "המלך",
+      "english": "王的"
     },
     {
-      "surface": "וְ\/דָת֔\/וֹ",
-      "english": "וְ\/דָת֔\/וֹ"
+      "surface": "ודתו",
+      "english": "和他的 *dat*"
     },
     {
-      "surface": "וּֽ\/בְ\/הִקָּבֵ֞ץ",
-      "english": "וּֽ\/בְ\/הִקָּבֵ֞ץ"
+      "surface": "ובהקבץ",
+      "english": "被聚集"
     },
     {
-      "surface": "נְעָר֥וֹת",
-      "english": "נְעָר֥וֹת"
+      "surface": "נערות",
+      "english": "少女"
     },
     {
-      "surface": "רַבּ֛וֹת",
-      "english": "רַבּ֛וֹת"
+      "surface": "רבות",
+      "english": "许多"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "到"
     },
     {
-      "surface": "שׁוּשַׁ֥ן",
-      "english": "שׁוּשַׁ֥ן"
+      "surface": "שושן",
+      "english": "书珊"
     },
     {
-      "surface": "הַ\/בִּירָ֖ה",
-      "english": "הַ\/בִּירָ֖ה"
+      "surface": "הבירה",
+      "english": "⟨那⟩ 城堡"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "到"
     },
     {
-      "surface": "יַ֣ד",
-      "english": "יַ֣ד"
+      "surface": "יד",
+      "english": "手中"
     },
     {
-      "surface": "הֵגָ֑י",
-      "english": "הֵגָ֑י"
+      "surface": "הגי",
+      "english": "海该"
     },
     {
-      "surface": "וַ\/תִּלָּקַ֤ח",
-      "english": "וַ\/תִּלָּקַ֤ח"
+      "surface": "ותלקח",
+      "english": "被取"
     },
     {
-      "surface": "אֶסְתֵּר֙",
-      "english": "אֶסְתֵּר֙"
+      "surface": "אסתר",
+      "english": "以斯帖"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "到"
     },
     {
-      "surface": "בֵּ֣ית",
-      "english": "בֵּ֣ית"
+      "surface": "בית",
+      "english": "家"
     },
     {
-      "surface": "הַ\/מֶּ֔לֶךְ",
-      "english": "הַ\/מֶּ֔לֶךְ"
+      "surface": "המלך",
+      "english": "王的"
     },
     {
-      "surface": "אֶל",
-      "english": "אֶל"
+      "surface": "אל",
+      "english": "到"
     },
     {
-      "surface": "יַ֥ד",
-      "english": "יַ֥ד"
+      "surface": "יד",
+      "english": "手中"
     },
     {
-      "surface": "הֵגַ֖י",
-      "english": "הֵגַ֖י"
+      "surface": "הגי",
+      "english": "海该"
     },
     {
-      "surface": "שֹׁמֵ֥ר",
-      "english": "שֹׁמֵ֥ר"
+      "surface": "שמר",
+      "english": "看守"
     },
     {
-      "surface": "הַ\/נָּשִֽׁים",
-      "english": "הַ\/נָּשִֽׁים"
+      "surface": "הנשים",
+      "english": "妇女的"
     }
   ],
-  "timestamp": "2026-07-18T03:08:19.761712604Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:40.061359387Z",
+  "model": "glm-4.5"
 }

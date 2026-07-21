@@ -1,65 +1,62 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "genesis 17:25",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 17,
   "usage": {
-    "completion_tokens": 682,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23194,
+    "completion_tokens": 385,
+    "prompt_tokens": 23193,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23876
+    "total_tokens": 23578
   },
-  "translation": "יִשְׁמָעֵאל בְּנ֔\/וֹ בֶּן שְׁלֹ֥שׁ עֶשְׂרֵ֖ה שָׁנָ֑ה בְּ\/הִ֨מֹּל֔\/וֹ אֵ֖ת בְּשַׂ֥ר עָרְלָתֽ\/וֹ",
+  "translation": "以实玛利,他的儿子,是十三岁,在 ⟨את⟩ 他阳皮肉上受割礼的时候",
   "tokens": [
     {
-      "surface": "וְ\/יִשְׁמָעֵ֣אל",
-      "english": "וישמעאל"
+      "surface": "וישמעאל",
+      "english": "以实玛利"
     },
     {
-      "surface": "בְּנ֔\/וֹ",
+      "surface": "בנו",
       "english": "他的儿子"
     },
     {
-      "surface": "בֶּן",
-      "english": "时"
+      "surface": "בן",
+      "english": "是...岁"
     },
     {
-      "surface": "שְׁלֹ֥שׁ",
-      "english": "三"
+      "surface": "שלש",
+      "english": "十三"
     },
     {
-      "surface": "עֶשְׂרֵ֖ה",
-      "english": "十"
+      "surface": "עשרה",
+      "english": ""
     },
     {
-      "surface": "שָׁנָ֑ה",
-      "english": "岁"
+      "surface": "שנה",
+      "english": ""
     },
     {
-      "surface": "בְּ\/הִ֨מֹּל֔\/וֹ",
-      "english": "他受割礼时"
+      "surface": "בהמלו",
+      "english": "受割礼的时候"
     },
     {
-      "surface": "אֵ֖ת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "他包皮的肉"
+      "marks": "他阳皮肉"
     },
     {
-      "surface": "בְּשַׂ֥ר",
+      "surface": "בשר",
       "english": "肉"
     },
     {
-      "surface": "עָרְלָתֽ\/וֹ",
-      "english": "他的包皮"
+      "surface": "ערלתו",
+      "english": "他阳皮"
     }
   ],
-  "timestamp": "2026-07-17T17:42:40.153630702Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:34.196047016Z",
+  "model": "glm-4.5"
 }

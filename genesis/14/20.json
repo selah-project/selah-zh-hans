@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 20,
   "ref": "genesis 14:20",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 14,
   "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23182,
+    "completion_tokens": 618,
+    "prompt_tokens": 23181,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23697
+    "total_tokens": 23799
   },
-  "translation": "ברוך אֵל עליון אשר מגן את צריך בידך; ויתן לו מעשר מכל.",
+  "translation": "并且 ⟨愿⟩ 至高以罗欣 受称颂,祂将你的仇敌交在你手中;亚伯兰 ⟨就⟩ 把万物 的十分之一 给 ⟨了⟩ 他。",
   "tokens": [
     {
       "surface": "וברוך",
-      "english": "וברוך"
+      "english": "并且 ⟨愿⟩...受称颂"
     },
     {
       "surface": "אל",
-      "english": "אֵל"
+      "english": "以罗欣"
     },
     {
       "surface": "עליון",
-      "english": "עליון"
+      "english": "至高"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "祂"
     },
     {
       "surface": "מגן",
-      "english": "מגן"
+      "english": "将...交"
     },
     {
       "surface": "צריך",
-      "english": "צריך"
+      "english": "你的仇敌"
     },
     {
       "surface": "בידך",
-      "english": "בידך"
+      "english": "在你手中"
     },
     {
       "surface": "ויתן",
-      "english": "ויתן"
+      "english": "亚伯兰 ⟨就⟩...给 ⟨了⟩"
     },
     {
       "surface": "לו",
-      "english": "לו"
+      "english": "他"
     },
     {
       "surface": "מעשר",
-      "english": "מעשר"
+      "english": "十分之一"
     },
     {
       "surface": "מכל",
-      "english": "מכל"
+      "english": "万物"
     }
   ],
-  "timestamp": "2026-07-17T17:40:56.811151528Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:36.732276299Z",
+  "model": "glm-4.5"
 }

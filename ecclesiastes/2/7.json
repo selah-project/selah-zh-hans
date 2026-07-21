@@ -1,96 +1,93 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "ecclesiastes 2:7",
   "book": "ecclesiastes",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 958,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19888,
+    "completion_tokens": 477,
+    "prompt_tokens": 19887,
     "prompt_tokens_details": {
-      "cached_tokens": 17856
+      "cached_tokens": 17792
     },
-    "total_tokens": 20846
+    "total_tokens": 20364
   },
-  "translation": "我 acquiring 了 עבדים ושפחות ובני בית — היה לִ\/י. גם מקנה בקר וצאן הרבה היה לִ\/י, מִ\/כֹּל שֶׁ\/הָיוּ לְ\/פָנַ\/י בִּ\/ירוּשָׁלִָם.",
+  "translation": "我买了奴仆和婢女,并且家中也有奴婢;我也有许多牛群羊群,胜过以前在耶路撒冷众人所有的。",
   "tokens": [
     {
-      "surface": "קָנִ֨יתִי֙",
-      "english": "我 acquiring 了"
+      "surface": "קניתי",
+      "english": "我买了"
     },
     {
-      "surface": "עֲבָדִ֣ים",
-      "english": "仆人"
+      "surface": "עבדים",
+      "english": "奴仆"
     },
     {
-      "surface": "וּ\/שְׁפָח֔וֹת",
-      "english": "和使女"
+      "surface": "ושפחות",
+      "english": "和婢女"
     },
     {
-      "surface": "וּ\/בְנֵי",
-      "english": "和……之子"
+      "surface": "ובני",
+      "english": "并且"
     },
     {
-      "surface": "בַ֖יִת",
-      "english": "家"
+      "surface": "בית",
+      "english": "家中"
     },
     {
-      "surface": "הָ֣יָה",
-      "english": "⟨有⟩了"
+      "surface": "היה",
+      "english": "也有"
     },
     {
-      "surface": "לִ֑\/י",
-      "english": "归于我"
+      "surface": "לי",
+      "english": ""
     },
     {
-      "surface": "גַּ֣ם",
-      "english": "也"
+      "surface": "גם",
+      "english": ""
     },
     {
-      "surface": "מִקְנֶה֩",
-      "english": "牲畜产业"
+      "surface": "מקנה",
+      "english": "许多"
     },
     {
-      "surface": "בָקָ֨ר",
+      "surface": "בקר",
       "english": "牛群"
     },
     {
-      "surface": "וָ\/צֹ֤אן",
-      "english": "与羊群"
+      "surface": "וצאן",
+      "english": "羊群"
     },
     {
-      "surface": "הַרְבֵּה֙",
-      "english": "大量"
+      "surface": "הרבה",
+      "english": ""
     },
     {
-      "surface": "הָ֣יָה",
-      "english": "⟨存在⟩"
+      "surface": "היה",
+      "english": "胜过"
     },
     {
-      "surface": "לִ֔\/י",
-      "english": "归于我"
+      "surface": "לי",
+      "english": "我"
     },
     {
-      "surface": "מִ\/כֹּ֛ל",
-      "english": "超过一切"
+      "surface": "מכל",
+      "english": "以前在耶路撒冷众人所有的"
     },
     {
-      "surface": "שֶֽׁ\/הָי֥וּ",
-      "english": "所……存在的"
+      "surface": "שהיו",
+      "english": "所有"
     },
     {
-      "surface": "לְ\/פָנַ֖\/י",
-      "english": "在我以先"
+      "surface": "לפני",
+      "english": "以前在"
     },
     {
-      "surface": "בִּ\/ירוּשָׁלִָֽם",
-      "english": "在 耶路撒冷"
+      "surface": "בירושלם",
+      "english": "耶路撒冷"
     }
   ],
-  "timestamp": "2026-07-18T01:19:00.837677723Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:36.387884Z",
+  "model": "glm-4.5"
 }

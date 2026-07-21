@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 5,
   "ref": "genesis 44:5",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 44,
   "usage": {
-    "completion_tokens": 905,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23372,
+    "completion_tokens": 644,
+    "prompt_tokens": 23371,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24277
+    "total_tokens": 24015
   },
-  "translation": "הֲלוֹא זֶה אֲשֶׁר יִשְׁתֶּה אֲדֹנִי בּוֹ וְהוּא נַחֵשׁ יְנַחֵשׁ בּוֹ הֲרֵעֹתֶם אֲשֶׁר עֲשִׂיתֶם",
+  "translation": "这不是我主 ⟨用来⟩ 饮用的 ⟨那个⟩ 吗,并且它 ⟨确实⟩ 占卜、用它占卜;你们所做的 ⟨这事⟩ 是恶。",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "הֲלוֹא"
+      "english": "这不是"
     },
     {
       "surface": "זה",
-      "english": "זֶה"
+      "english": "⟨那个⟩"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "⟨用来⟩"
     },
     {
       "surface": "ישתה",
-      "english": "יִשְׁתֶּה"
+      "english": "饮用"
     },
     {
       "surface": "אדני",
-      "english": "אֲדֹנִי"
+      "english": "我主"
     },
     {
       "surface": "בו",
-      "english": "בּוֹ"
+      "english": "⟨那个⟩"
     },
     {
       "surface": "והוא",
-      "english": "וְהוּא"
+      "english": "并且它"
     },
     {
       "surface": "נחש",
-      "english": "נַחֵשׁ"
+      "english": "占卜"
     },
     {
       "surface": "ינחש",
-      "english": "יְנַחֵשׁ"
+      "english": "用它占卜"
     },
     {
       "surface": "בו",
-      "english": "בּוֹ"
+      "english": "用它"
     },
     {
       "surface": "הרעתם",
-      "english": "הֲרֵעֹתֶם"
+      "english": "是恶"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "english": "⟨这事⟩"
     },
     {
       "surface": "עשיתם",
-      "english": "עֲשִׂיתֶם"
+      "english": "你们所做的"
     }
   ],
-  "timestamp": "2026-07-17T18:04:26.758410445Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:26.866702431Z",
+  "model": "glm-4.5"
 }

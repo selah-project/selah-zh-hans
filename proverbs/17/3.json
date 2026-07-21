@@ -1,52 +1,49 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "proverbs 17:3",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 17,
   "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54387,
+    "completion_tokens": 395,
+    "prompt_tokens": 54451,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54788
+    "total_tokens": 54846
   },
-  "translation": "מַצְרֵף לַ֭\/כֶּסֶף וְ\/כ֣וּר לַ\/זָּהָ֑ב וּ\/בֹחֵ֖ן לִבּ֣וֹת יְהוָֽה",
+  "translation": "银⟨有⟩试银的坩埚,金⟨有⟩炼金的熔炉,雅威试验人心。",
   "tokens": [
     {
       "surface": "מצרף",
-      "english": "提炼炉"
+      "english": "试银的坩埚"
     },
     {
       "surface": "לכסף",
-      "english": "为银子"
+      "english": "银"
     },
     {
       "surface": "וכור",
-      "english": "和熔炉"
+      "english": "炼金的熔炉"
     },
     {
       "surface": "לזהב",
-      "english": "为金子"
+      "english": "金"
     },
     {
       "surface": "ובחן",
-      "english": "而察验"
+      "english": "雅威试验"
     },
     {
       "surface": "לבות",
-      "english": "心"
+      "english": "人心"
     },
     {
       "surface": "יהוה",
       "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-18T00:41:16.115487425Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:51.319222192Z",
+  "model": "glm-4.5"
 }

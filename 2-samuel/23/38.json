@@ -1,40 +1,37 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 38,
   "ref": "2-samuel 23:38",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 23,
   "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18370,
+    "completion_tokens": 294,
+    "prompt_tokens": 18443,
     "prompt_tokens_details": {
-      "cached_tokens": 17664
+      "cached_tokens": 17408
     },
-    "total_tokens": 18751
+    "total_tokens": 18737
   },
-  "translation": "以拉 ⟨הַ\/יִּתְרִי⟩，迦勒 ⟨הַ\/יִּתְרִי⟩",
+  "translation": "以拉，耶特里人；迦勒，耶特里人；",
   "tokens": [
     {
-      "surface": "עִירָא",
+      "surface": "עירא",
       "english": "以拉"
     },
     {
-      "surface": "הַ\/יִּתְרִי",
-      "english": "⟨הַ\/יִּתְרִי⟩"
+      "surface": "היתרי",
+      "english": "耶特里人"
     },
     {
-      "surface": "גָּרֵב",
+      "surface": "גרב",
       "english": "迦勒"
     },
     {
-      "surface": "הַ\/יִּתְרִי",
-      "english": "⟨הַ\/יִּתְרִי⟩"
+      "surface": "היתרי",
+      "english": "耶特里人"
     }
   ],
-  "timestamp": "2026-07-17T20:55:29.243536479Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:10:42.725271496Z",
+  "model": "glm-4.5"
 }

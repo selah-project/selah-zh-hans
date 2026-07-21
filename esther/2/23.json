@@ -1,76 +1,74 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "esther 2:23",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 920,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19649,
+    "completion_tokens": 447,
+    "prompt_tokens": 19731,
     "prompt_tokens_details": {
-      "cached_tokens": 18112
+      "cached_tokens": 18048
     },
-    "total_tokens": 20569
+    "total_tokens": 20178
   },
-  "translation": "הַ*davar* נִבְדַּק וְנִמְצָא, וַיִּתְלוּ שְׁנֵיהֶם עַל־עֵץ; וַיִּכָּתֵב בְּסֵפֶר דִּבְרֵי הַיָּמִים לִפְנֵי הַמֶּלֶךְ׃",
+  "translation": "这事被查究,被发觉,就把二人挂在木头上,且写在年代记书上,在王面前。",
   "tokens": [
     {
-      "surface": "וַ\/יְבֻקַּשׁ",
-      "english": "וְנִחְקַר"
+      "surface": "ויבקש",
+      "english": "被查究"
     },
     {
-      "surface": "הַ\/דָּבָר",
-      "english": "הַ*davar*"
+      "surface": "הדבר",
+      "english": "这事",
+      "marks": "这事"
     },
     {
-      "surface": "וַ\/יִּמָּצֵא",
-      "english": "וְנִמְצָא"
+      "surface": "וימצא",
+      "english": "被发觉"
     },
     {
-      "surface": "וַ\/יִּתָּלוּ",
-      "english": "וַיִּתְלוּ"
+      "surface": "ויתלו",
+      "english": "就把……挂在"
     },
     {
-      "surface": "שְׁנֵי\/הֶם",
-      "english": "שְׁנֵיהֶם"
+      "surface": "שניהם",
+      "english": "二人"
     },
     {
-      "surface": "עַל",
-      "english": "עַל"
+      "surface": "על",
+      "english": "在……上"
     },
     {
-      "surface": "עֵץ",
-      "english": "עֵץ"
+      "surface": "עץ",
+      "english": "木头"
     },
     {
-      "surface": "וַ\/יִּכָּתֵב",
-      "english": "וַיִּכָּתֵב"
+      "surface": "ויכתב",
+      "english": "且写"
     },
     {
-      "surface": "בְּ\/סֵפֶר",
-      "english": "בְּסֵפֶר"
+      "surface": "בספר",
+      "english": "在书上"
     },
     {
-      "surface": "דִּבְרֵי",
-      "english": "דִּבְרֵי"
+      "surface": "דברי",
+      "english": "……的记录"
     },
     {
-      "surface": "הַ\/יָּמִים",
-      "english": "הַיָּמִים"
+      "surface": "הימים",
+      "english": "日子"
     },
     {
-      "surface": "לִ\/פְנֵי",
-      "english": "לִפְנֵי"
+      "surface": "לפני",
+      "english": "在……面前"
     },
     {
-      "surface": "הַ\/מֶּלֶךְ",
-      "english": "הַמֶּלֶךְ"
+      "surface": "המלך",
+      "english": "王"
     }
   ],
-  "timestamp": "2026-07-18T01:24:45.300624018Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:27.884206393Z",
+  "model": "glm-4.5"
 }

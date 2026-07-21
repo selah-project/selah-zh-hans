@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "genesis 15:9",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23383,
+    "completion_tokens": 501,
+    "prompt_tokens": 23382,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23942
+    "total_tokens": 23883
   },
-  "translation": "וַ\/יֹּ֣אמֶר אֵלָ֗י\/ו קְחָ֥\/ה לִ\/י֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְ\/עֵ֥ז מְשֻׁלֶּ֖שֶׁת וְ\/אַ֣יִל מְשֻׁלָּ֑שׁ וְ\/תֹ֖ר וְ\/גוֹזָֽל",
+  "translation": "祂说⟨给⟩他:⟨要⟩带⟨给⟩我⟨一头⟩三岁的母牛,和⟨一头⟩三岁的母山羊,和⟨一头⟩三岁的公绵羊,和一只斑鸠,和一只雏鸽。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "祂说"
     },
     {
       "surface": "אליו",
-      "english": "给他"
+      "english": "⟨给⟩他"
     },
     {
       "surface": "קחה",
-      "english": "取"
+      "english": "⟨要⟩带"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "english": "⟨给⟩我"
     },
     {
       "surface": "עגלה",
-      "english": "一头母牛犊"
+      "english": "⟨一头⟩三岁的母牛"
     },
     {
       "surface": "משלשת",
@@ -44,7 +41,7 @@
     },
     {
       "surface": "ועז",
-      "english": "一只母山羊"
+      "english": "和⟨一头⟩三岁的母山羊"
     },
     {
       "surface": "משלשת",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "ואיל",
-      "english": "一只公绵羊"
+      "english": "和⟨一头⟩三岁的公绵羊"
     },
     {
       "surface": "משלש",
@@ -60,13 +57,13 @@
     },
     {
       "surface": "ותר",
-      "english": "一只斑鸠"
+      "english": "和一只斑鸠"
     },
     {
       "surface": "וגוזל",
-      "english": "一只雏鸽"
+      "english": "和一只雏鸽"
     }
   ],
-  "timestamp": "2026-07-17T17:41:32.312270717Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:29.487667561Z",
+  "model": "glm-4.5"
 }

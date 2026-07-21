@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 6,
   "ref": "judges 21:6",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 946,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18188,
+    "completion_tokens": 579,
+    "prompt_tokens": 18265,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 19134
+    "total_tokens": 18844
   },
-  "translation": "בני ישראל נחמו על בנימן אחיהם ויאמרו נגזר היום שבט אחד מישראל׃",
+  "translation": "以色列 ⟨的⟩ 儿子们 为 便雅悯 ⟨他们的⟩ 兄弟 感到 难过, 说: 今日 有 一个 支派 被 从 以色列 剪除 ⟨了⟩",
   "tokens": [
     {
-      "surface": "וַ\/יִּנָּֽחֲמוּ֙",
-      "english": "ויינחמו"
+      "surface": "וינחמו",
+      "english": "感到 难过"
     },
     {
-      "surface": "בְּנֵ֣י",
-      "english": "בני"
+      "surface": "בני",
+      "english": "儿子们"
     },
     {
-      "surface": "יִשְׂרָאֵ֔ל",
-      "english": "ישראל"
+      "surface": "ישראל",
+      "english": "以色列"
     },
     {
-      "surface": "אֶל",
-      "english": "על"
+      "surface": "אל",
+      "english": "为"
     },
     {
-      "surface": "בִּנְיָמִ֖ן",
-      "english": "בנימן"
+      "surface": "בנימן",
+      "english": "便雅悯"
     },
     {
-      "surface": "אָחִ֑י\/ו",
-      "english": "אחיהם"
+      "surface": "אחיו",
+      "english": "兄弟"
     },
     {
-      "surface": "וַ\/יֹּ֣אמְר֔וּ",
-      "english": "ויאמרו"
+      "surface": "ויאמרו",
+      "english": "说"
     },
     {
-      "surface": "נִגְדַּ֥ע",
-      "english": "נגזר"
+      "surface": "נגדע",
+      "english": "被 剪除"
     },
     {
-      "surface": "הַ\/יּ֛וֹם",
-      "english": "היום"
+      "surface": "היום",
+      "english": "今日"
     },
     {
-      "surface": "שֵׁ֥בֶט",
-      "english": "שבט"
+      "surface": "שבט",
+      "english": "支派"
     },
     {
-      "surface": "אֶחָ֖ד",
-      "english": "אחד"
+      "surface": "אחד",
+      "english": "一个"
     },
     {
-      "surface": "מִ\/יִּשְׂרָאֵֽל",
-      "english": "מישראל"
+      "surface": "מישראל",
+      "english": "从 以色列"
     }
   ],
-  "timestamp": "2026-07-17T20:20:42.757504877Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:25.379755549Z",
+  "model": "glm-4.5"
 }

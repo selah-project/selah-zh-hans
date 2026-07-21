@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 4,
   "ref": "genesis 27:4",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 27,
   "usage": {
-    "completion_tokens": 796,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23406,
+    "completion_tokens": 633,
+    "prompt_tokens": 23405,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24202
+    "total_tokens": 24038
   },
-  "translation": "וְעָשָׂה לִּי מַטְעַמִּים כַּאֲשֶׁר אָהַבְתִּי וְהָבִיאָה לִּי וְאֹכֵלָה בַּעֲבוּר תְּבָרֶכְךָ נַפְשִׁי בְּטֶרֶם אָמוּת׃",
+  "translation": "并为我做成美味,如我所爱,⟨且⟩带到我这里来,⟨且⟩我吃,⟨好⟩我的⟨生命⟩给你祝福,在我未死之先。",
   "tokens": [
     {
-      "surface": "וַ\/עֲשֵׂה",
-      "english": "你要为我做"
+      "surface": "ועשה",
+      "english": "并为我做成"
     },
     {
-      "surface": "לִ֨\/י",
-      "english": "给我"
+      "surface": "לי",
+      "english": "为我"
     },
     {
-      "surface": "מַטְעַמִּ֜ים",
+      "surface": "מטעמים",
       "english": "美味"
     },
     {
-      "surface": "כַּ\/אֲשֶׁ֥ר",
+      "surface": "כאשר",
       "english": "如"
     },
     {
-      "surface": "אָהַבְתִּ֛י",
-      "english": "我所爱的"
+      "surface": "אהבתי",
+      "english": "我所爱"
     },
     {
-      "surface": "וְ\/הָבִ֥יאָ\/ה",
-      "english": "你把它带来"
+      "surface": "והביאה",
+      "english": "带"
     },
     {
-      "surface": "לִּ֖\/י",
-      "english": "给我"
+      "surface": "לי",
+      "english": "到我这里来"
     },
     {
-      "surface": "וְ\/אֹכֵ֑לָה",
-      "english": "我就吃"
+      "surface": "ואכלה",
+      "english": "且我吃"
     },
     {
-      "surface": "בַּ\/עֲב֛וּר",
-      "english": "好使"
+      "surface": "בעבור",
+      "english": "⟨好⟩"
     },
     {
-      "surface": "תְּבָרֶכְ\/ךָ֥",
-      "english": "它祝福你"
+      "surface": "תברכך",
+      "english": "我的⟨生命⟩给你祝福"
     },
     {
-      "surface": "נַפְשִׁ֖\/י",
-      "english": "我的生命"
+      "surface": "נפשי",
+      "english": "⟨生命⟩"
     },
     {
-      "surface": "בְּ\/טֶ֥רֶם",
-      "english": "在……之前"
+      "surface": "בטרם",
+      "english": "在...未死之先"
     },
     {
-      "surface": "אָמֽוּת",
-      "english": "我死"
+      "surface": "אמות",
+      "english": "未死"
     }
   ],
-  "timestamp": "2026-07-17T17:50:01.962764678Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:09.848992327Z",
+  "model": "glm-4.5"
 }

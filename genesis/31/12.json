@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "genesis 31:12",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 31,
   "usage": {
-    "completion_tokens": 863,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24267,
+    "completion_tokens": 626,
+    "prompt_tokens": 24330,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 25130
+    "total_tokens": 24956
   },
-  "translation": "וַ\/יֹּאמֶר: שָׂא נָא עֵינֶי\/ךָ וּ\/רְאֵה כָּל הָ\/עַתֻּדִים הָ\/עֹלִים עַל הַ\/צֹּאן עֲקֻדִּים נְקֻדִּים וּ\/בְרֻדִּים, כִּי רָאִיתִי ⟨את⟩ כָּל אֲשֶׁר לָבָן עֹשֶׂה לָּ\/ךְ.",
+  "translation": "他说:你且举目,看所有在母羊身上爬着的公山羊,都是有纹的、有点的、有斑的;因为我 ⟨את⟩ 凡拉班向你所做的都看见了。",
   "tokens": [
     {
-      "surface": "ו\/יאמר",
-      "english": "说"
+      "surface": "ויאמר",
+      "english": "他说"
     },
     {
       "surface": "שא",
-      "english": "举起"
+      "english": "举"
     },
     {
       "surface": "נא",
-      "english": "现在"
+      "english": "且"
     },
     {
       "surface": "עיניך",
-      "english": "你的眼"
+      "english": "目"
     },
     {
       "surface": "וראה",
-      "english": "观看"
+      "english": "看"
     },
     {
       "surface": "כל",
@@ -48,15 +45,15 @@
     },
     {
       "surface": "העלים",
-      "english": "跳上的"
+      "english": "爬着"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "english": "在"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "english": "母羊身上"
     },
     {
       "surface": "עקדים",
@@ -81,15 +78,15 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "拉班对你所做的一切"
+      "marks": "凡"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "english": "凡"
     },
     {
       "surface": "אשר",
-      "english": "……的事"
+      "english": "所"
     },
     {
       "surface": "לבן",
@@ -101,9 +98,9 @@
     },
     {
       "surface": "לך",
-      "english": "对你"
+      "english": "向你"
     }
   ],
-  "timestamp": "2026-07-17T17:53:46.013298222Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:05.136756481Z",
+  "model": "glm-4.5"
 }

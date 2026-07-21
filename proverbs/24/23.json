@@ -1,56 +1,53 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "proverbs 24:23",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54470,
+    "completion_tokens": 376,
+    "prompt_tokens": 54469,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54937
+    "total_tokens": 54845
   },
-  "translation": "גַּם אֵ֥לֶּה לַֽ\/חֲכָמִ֑ים הַֽכֵּר פָּנִ֖ים בְּ\/מִשְׁפָּ֣ט בַּל טֽוֹב",
+  "translation": "这些事也是给智慧人的:在审判中察看情面 ⟨是⟩ 不好 ⟨的⟩。",
   "tokens": [
     {
       "surface": "גם",
-      "english": "גַּם"
+      "english": "也是"
     },
     {
       "surface": "אלה",
-      "english": "אֵלֶּה"
+      "english": "这些事"
     },
     {
       "surface": "לחכמים",
-      "english": "לַחֲכָמִים"
+      "english": "给智慧人的"
     },
     {
       "surface": "הכר",
-      "english": "הַכֵּר"
+      "english": "察看"
     },
     {
       "surface": "פנים",
-      "english": "פָּנִים"
+      "english": "情面"
     },
     {
       "surface": "במשפט",
-      "english": "בְּמִשְׁפָּט"
+      "english": "在审判中"
     },
     {
       "surface": "בל",
-      "english": "בַּל"
+      "english": "不好"
     },
     {
       "surface": "טוב",
-      "english": "טוֹב"
+      "english": "⟨是⟩ ⟨的⟩"
     }
   ],
-  "timestamp": "2026-07-18T00:45:36.664662955Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:51.927760058Z",
+  "model": "glm-4.5"
 }

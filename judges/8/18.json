@@ -1,66 +1,63 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "judges 8:18",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 671,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18652,
+    "completion_tokens": 608,
+    "prompt_tokens": 18732,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 19323
+    "total_tokens": 19340
   },
-  "translation": "他问西巴，又问撒慕拿：⟨וַיֹּאמֶר אֶל זֶבַח וְאֶל צַלְמֻנָּע⟩「你们在⟨אֵיפֹה⟩他泊山所杀的那些人，形貌如何？」他们回答：「他们像你一样，个个如同王的儿子⟨כְּתֹאַר בְּנֵי הַמֶּלֶךְ⟩。」",
+  "translation": "他对撒布赫和萨幔拿说：你们在他泊山所杀的人⟨是⟩什么样⟨的⟩？他们回答说：像你一样，他们像王子的样子，每个人都一样。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他问"
+      "english": "他对……说"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "english": "对"
     },
     {
       "surface": "זבח",
-      "english": "西巴"
+      "english": "撒布赫"
     },
     {
       "surface": "ואל",
-      "english": "又向"
+      "english": "和对"
     },
     {
       "surface": "צלמנע",
-      "english": "撒慕拿"
+      "english": "萨幔拿"
     },
     {
       "surface": "איפה",
-      "english": "哪里"
+      "english": "什么样⟨的⟩"
     },
     {
       "surface": "האנשים",
-      "english": "那些人"
+      "english": "人"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "〈关系代词，省略〉"
     },
     {
       "surface": "הרגתם",
-      "english": "你们所杀的"
+      "english": "你们所杀"
     },
     {
       "surface": "בתבור",
-      "english": "在他泊"
+      "english": "在他泊山"
     },
     {
       "surface": "ויאמרו",
-      "english": "他们回答"
+      "english": "他们回答说"
     },
     {
       "surface": "כמוך",
@@ -76,17 +73,17 @@
     },
     {
       "surface": "כתאר",
-      "english": "如同……的容貌"
+      "english": "样子"
     },
     {
       "surface": "בני",
-      "english": "儿子"
+      "english": "王子"
     },
     {
       "surface": "המלך",
       "english": "王"
     }
   ],
-  "timestamp": "2026-07-17T20:11:15.399808416Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:57.850477149Z",
+  "model": "glm-4.5"
 }

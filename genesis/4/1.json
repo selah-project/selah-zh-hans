@@ -1,80 +1,80 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "genesis 4:1",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 977,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23629,
+    "completion_tokens": 497,
+    "prompt_tokens": 23713,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24606
+    "total_tokens": 24210
   },
-  "translation": "וְהָאָדָם יָדַע אֶת־חַוָּה אִשְׁתּוֹ, וַתַּהַר וַתֵּלֶד אֶת־קַיִן, וַתֹּאמֶר: קָנִיתִי אִישׁ אֶת־יְהוָה.",
+  "translation": "那人认识⟨את⟩夏娃,他的妻子,她怀孕,生下⟨את⟩该隐,就说:我用雅威获得了一个男子。",
   "tokens": [
     {
-      "surface": "וְ\/הָ֣\/אָדָ֔ם",
-      "english": "וְהָאָדָם"
+      "surface": "והאדם",
+      "english": "那人"
     },
     {
-      "surface": "יָדַ֖ע",
-      "english": "יָדַע"
+      "surface": "ידע",
+      "english": "认识"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "夏娃"
     },
     {
-      "surface": "חַוָּ֣ה",
-      "english": "חַוָּה"
+      "surface": "חוה",
+      "english": "夏娃"
     },
     {
-      "surface": "אִשְׁתּ֑\/וֹ",
-      "english": "אִשְׁתּוֹ"
+      "surface": "אשתו",
+      "english": "他的妻子"
     },
     {
-      "surface": "וַ\/תַּ֨הַר֙",
-      "english": "וַתַּהַר"
+      "surface": "ותהר",
+      "english": "她怀孕"
     },
     {
-      "surface": "וַ\/תֵּ֣לֶד",
-      "english": "וַתֵּלֶד"
+      "surface": "ותלד",
+      "english": "生下"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "该隐"
     },
     {
-      "surface": "קַ֔יִן",
-      "english": "קַיִן"
+      "surface": "קין",
+      "english": "该隐"
     },
     {
-      "surface": "וַ\/תֹּ֕אמֶר",
-      "english": "וַתֹּאמֶר"
+      "surface": "ותאמר",
+      "english": "就说"
     },
     {
-      "surface": "קָנִ֥יתִי",
-      "english": "קָנִיתִי"
+      "surface": "קניתי",
+      "english": "我用...获得了"
     },
     {
-      "surface": "אִ֖ישׁ",
-      "english": "אִישׁ"
+      "surface": "איש",
+      "english": "一个男子"
     },
     {
-      "surface": "אֶת",
-      "english": "אֶת"
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威"
     },
     {
-      "surface": "יְהוָֽה",
-      "english": "יְהוָה"
+      "surface": "יהוה",
+      "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T17:35:13.482104669Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:23.156975542Z",
+  "model": "glm-4.5"
 }

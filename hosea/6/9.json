@@ -1,68 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "hosea 6:9",
   "book": "hosea",
   "lang": "zh-Hans",
   "chapter": 6,
   "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21452,
+    "completion_tokens": 439,
+    "prompt_tokens": 21515,
     "prompt_tokens_details": {
       "cached_tokens": 19968
     },
-    "total_tokens": 21956
+    "total_tokens": 21954
   },
-  "translation": "וּ\/כְ\/חַכֵּ֨י אִ֜ישׁ גְּדוּדִ֗ים חֶ֚בֶר כֹּֽהֲנִ֔ים דֶּ֖רֶךְ יְרַצְּחוּ שֶׁ֑כְמָ\/ה כִּ֥י זִמָּ֖ה עָשֽׂוּ",
+  "translation": "如强盗埋伏人一般,祭司的团伙在往示剑的路上杀人,因为他们做了阴谋。",
   "tokens": [
     {
-      "surface": "וּ\/כְ\/חַכֵּ֨י",
-      "english": "וכחכי"
+      "surface": "וכחכי",
+      "english": "如……一般"
     },
     {
-      "surface": "אִ֜ישׁ",
-      "english": "איש"
+      "surface": "איש",
+      "english": "人"
     },
     {
-      "surface": "גְּדוּדִ֗ים",
-      "english": "גדודים"
+      "surface": "גדודים",
+      "english": "强盗"
     },
     {
-      "surface": "חֶ֚בֶר",
-      "english": "חבר"
+      "surface": "חבר",
+      "english": "团伙"
     },
     {
-      "surface": "כֹּֽהֲנִ֔ים",
-      "english": "כהנים"
+      "surface": "כהנים",
+      "english": "祭司的"
     },
     {
-      "surface": "דֶּ֖רֶךְ",
-      "english": "דרך"
+      "surface": "דרך",
+      "english": "路上"
     },
     {
-      "surface": "יְרַצְּחוּ",
-      "english": "ירצחו"
+      "surface": "ירצחו",
+      "english": "杀人"
     },
     {
-      "surface": "שֶׁ֑כְמָ\/ה",
-      "english": "שכמה"
+      "surface": "שכמה",
+      "english": "示剑"
     },
     {
-      "surface": "כִּ֥י",
-      "english": "כי"
+      "surface": "כי",
+      "english": "因为"
     },
     {
-      "surface": "זִמָּ֖ה",
-      "english": "זמה"
+      "surface": "זמה",
+      "english": "阴谋"
     },
     {
-      "surface": "עָשֽׂוּ",
-      "english": "עשו"
+      "surface": "עשו",
+      "english": "做了"
     }
   ],
-  "timestamp": "2026-07-17T23:13:58.161329433Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:20.636867421Z",
+  "model": "glm-4.5"
 }

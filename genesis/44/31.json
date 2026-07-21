@@ -1,80 +1,78 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 31,
   "ref": "genesis 44:31",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 44,
   "usage": {
-    "completion_tokens": 1023,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23590,
+    "completion_tokens": 580,
+    "prompt_tokens": 23653,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24613
+    "total_tokens": 24233
   },
-  "translation": "וְ\/הָיָ֗ה כִּ\/רְאוֹת֛\/וֹ כִּי אֵ֥ין הַ\/נַּ֖עַר וָ\/מֵ֑ת, וְ\/הוֹרִ֨ידוּ עֲבָדֶ֜י\/ךָ אֶת שֵׂיבַ֨ת עַבְדְּ\/ךָ֥ אָבִ֛י\/נוּ בְּ\/יָג֖וֹן שְׁאֹֽלָ\/ה",
+  "translation": "这事 ⟨必⟩ 临到,当他看见少年人 ⟨不⟩ 在 ⟨我们⟩ 中间,就死了,你的仆人们也要将你仆人我们父亲的灰发,带下到阴间去,悲痛着",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "וְ\/הָיָ֗ה"
+      "english": "这事 ⟨必⟩ 临到"
     },
     {
       "surface": "כראותו",
-      "english": "כִּ\/רְאוֹת֛\/וֹ"
+      "english": "当他看见"
     },
     {
       "surface": "כי",
-      "english": "כִּי"
+      "english": "⟨即⟩"
     },
     {
       "surface": "אין",
-      "english": "אֵ֥ין"
+      "english": "⟨不⟩"
     },
     {
       "surface": "הנער",
-      "english": "הַ\/נַּ֖עַר"
+      "english": "少年人"
     },
     {
       "surface": "ומת",
-      "english": "וָ\/מֵ֑ת"
+      "english": "在 ⟨我们⟩ 中间,就死了"
     },
     {
       "surface": "והורידו",
-      "english": "וְ\/הוֹרִ֨ידוּ"
+      "english": "你的仆人们也要将...带下到"
     },
     {
       "surface": "עבדיך",
-      "english": "עֲבָדֶ֜י\/ךָ"
+      "english": "你仆人"
     },
     {
       "surface": "את",
-      "english": "אֶת"
+      "english": "⟨את⟩",
+      "marks": "灰发"
     },
     {
       "surface": "שיבת",
-      "english": "שֵׂיבַ֨ת"
+      "english": "灰发"
     },
     {
       "surface": "עבדך",
-      "english": "עַבְדְּ\/ךָ֥"
+      "english": "你仆人"
     },
     {
       "surface": "אבינו",
-      "english": "אָבִ֛י\/נוּ"
+      "english": "我们父亲"
     },
     {
       "surface": "ביגון",
-      "english": "בְּ\/יָג֖וֹן"
+      "english": "悲痛着"
     },
     {
       "surface": "שאלה",
-      "english": "שְׁאֹֽלָ\/ה"
+      "english": "阴间"
     }
   ],
-  "timestamp": "2026-07-17T18:04:24.087411573Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:08.177602465Z",
+  "model": "glm-4.5"
 }

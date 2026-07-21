@@ -1,42 +1,39 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 8,
   "ref": "judges 20:8",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18241,
+    "completion_tokens": 561,
+    "prompt_tokens": 18240,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 18800
+    "total_tokens": 18801
   },
-  "translation": "כָּל הָעָם קָם כְּאִישׁ אֶחָד לֵאמֹר: לֹא נֵלֵךְ אִישׁ לְאָהֳלוֹ וְלֹא נָסוּר אִישׁ לְבֵיתוֹ׃",
+  "translation": "众民都起来,如同一人,说:我们 ⟨不⟩ 要有人回 ⟨את⟩ 自己的帐棚,我们 ⟨不⟩ 要有人转回 ⟨את⟩ 自己的家。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "于是起来"
+      "english": "众民都起来"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "english": "都"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "english": "众民"
     },
     {
       "surface": "כאיש",
-      "english": "如一人"
+      "english": "如同一人"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "english": "一"
     },
     {
       "surface": "לאמר",
@@ -44,37 +41,39 @@
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "⟨不⟩"
     },
     {
       "surface": "נלך",
-      "english": "我们回"
+      "english": "要有人回"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "english": "有人"
     },
     {
       "surface": "לאהלו",
-      "english": "到他的帐篷"
+      "english": "⟨את⟩",
+      "marks": "自己的帐棚"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "english": "我们 ⟨不⟩ 要"
     },
     {
       "surface": "נסור",
-      "english": "我们退"
+      "english": "有人转回"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "english": "有人"
     },
     {
       "surface": "לביתו",
-      "english": "到他的家"
+      "english": "⟨את⟩",
+      "marks": "自己的家"
     }
   ],
-  "timestamp": "2026-07-17T20:19:26.198955164Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:40.290185336Z",
+  "model": "glm-4.5"
 }

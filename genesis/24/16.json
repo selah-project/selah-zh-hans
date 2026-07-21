@@ -1,76 +1,73 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "genesis 24:16",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 763,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23480,
+    "completion_tokens": 445,
+    "prompt_tokens": 23479,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24243
+    "total_tokens": 23924
   },
-  "translation": "וְהַנַּעֲרָה (הנַּעֲרָה) טוֹבַת־מַרְאֶה מְאֹד, בְּתוּלָה, וְאִישׁ לֹא יְדָעָהּ; וַתֵּרֶד הָעַיְנָה וַתְּמַלֵּא כַדָּהּ וַתָּעַל׃",
+  "translation": "那少女容貌极美, ⟨是⟩ 童女, 未被任何男子 ⟨所⟩ 认识; 她下到泉边, 盛满她的罐子, 又上来。",
   "tokens": [
     {
-      "surface": "וְ\/הַֽ\/נַּעֲרָ֗",
+      "surface": "והנער",
       "english": "那少女"
     },
     {
-      "surface": "טֹבַ֤ת",
-      "english": "极美的"
+      "surface": "טבת",
+      "english": "容貌极美"
     },
     {
-      "surface": "מַרְאֶה֙",
+      "surface": "מראה",
       "english": "容貌"
     },
     {
-      "surface": "מְאֹ֔ד",
-      "english": "非常"
+      "surface": "מאד",
+      "english": "极"
     },
     {
-      "surface": "בְּתוּלָ֕ה",
+      "surface": "בתולה",
       "english": "童女"
     },
     {
-      "surface": "וְ\/אִ֖ישׁ",
-      "english": "任何男人"
+      "surface": "ואיש",
+      "english": "未被任何男子"
     },
     {
-      "surface": "לֹ֣א",
-      "english": "未曾"
+      "surface": "לא",
+      "english": "未"
     },
     {
-      "surface": "יְדָעָ֑\/הּ",
-      "english": "认识她"
+      "surface": "ידעה",
+      "english": "认识"
     },
     {
-      "surface": "וַ\/תֵּ֣רֶד",
+      "surface": "ותרד",
       "english": "她下到"
     },
     {
-      "surface": "הָ\/עַ֔יְנָ\/ה",
-      "english": "那泉"
+      "surface": "העינה",
+      "english": "泉边"
     },
     {
-      "surface": "וַ\/תְּמַלֵּ֥א",
-      "english": "她装满了"
+      "surface": "ותמלא",
+      "english": "盛满"
     },
     {
-      "surface": "כַדָּ֖\/הּ",
-      "english": "她的水罐"
+      "surface": "כדה",
+      "english": "她的罐子"
     },
     {
-      "surface": "וַ\/תָּֽעַל",
-      "english": "她就上来"
+      "surface": "ותעל",
+      "english": "又上来"
     }
   ],
-  "timestamp": "2026-07-17T17:47:20.493365063Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:27.325160899Z",
+  "model": "glm-4.5"
 }

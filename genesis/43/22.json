@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 22,
   "ref": "genesis 43:22",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 43,
   "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23339,
+    "completion_tokens": 435,
+    "prompt_tokens": 23338,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24079
+    "total_tokens": 23773
   },
-  "translation": "וְ\/כֶ֧סֶף אַחֵ֛ר הוֹרַ֥דְנוּ בְ\/יָדֵ֖\/נוּ לִ\/שְׁבָּר אֹ֑כֶל לֹ֣א יָדַ֔עְנוּ מִי שָׂ֥ם כַּסְפֵּ֖\/נוּ בְּ\/אַמְתְּחֹתֵֽי\/נוּ",
+  "translation": "我们还带下了其他的银子 在我们的手里 去买食物; 我们不知道 谁 把我们的银子 放在我们的 袋子 里。",
   "tokens": [
     {
-      "surface": "וְ\/כֶ֧סֶף",
-      "english": "וְ\/כֶ֧סֶף"
+      "surface": "וכסף",
+      "english": "我们还带下了其他的银子"
     },
     {
       "surface": "אחר",
-      "english": "אחר"
+      "english": "其他的"
     },
     {
       "surface": "הורדנו",
-      "english": "הורדנו"
+      "english": "带下了"
     },
     {
       "surface": "בידנו",
-      "english": "בְ\/יָדֵ֖\/נוּ"
+      "english": "在我们的手里"
     },
     {
       "surface": "לשבר",
-      "english": "לִ\/שְׁבָּר"
+      "english": "去买"
     },
     {
       "surface": "אכל",
-      "english": "אֹ֑כֶל"
+      "english": "食物"
     },
     {
       "surface": "לא",
-      "english": "לֹ֣א"
+      "english": "不"
     },
     {
       "surface": "ידענו",
-      "english": "יָדַ֔עְנוּ"
+      "english": "知道"
     },
     {
       "surface": "מי",
-      "english": "מִי"
+      "english": "谁"
     },
     {
       "surface": "שם",
-      "english": "שָׂ֥ם"
+      "english": "放"
     },
     {
       "surface": "כספנו",
-      "english": "כַּסְפֵּ֖\/נוּ"
+      "english": "我们的银子"
     },
     {
       "surface": "באמתחתינו",
-      "english": "בְּ\/אַמְתְּחֹתֵֽי\/נוּ"
+      "english": "在我们的袋子 里"
     }
   ],
-  "timestamp": "2026-07-17T18:03:53.937658463Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:00.137777660Z",
+  "model": "glm-4.5"
 }

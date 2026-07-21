@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "genesis 46:3",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 46,
   "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23494,
+    "completion_tokens": 457,
+    "prompt_tokens": 23560,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24037
+    "total_tokens": 24017
   },
-  "translation": "כי אמר: אנכי האל (El), אלהי (Elohim) אביך; אל תירא מרדה מצרימה, כי לגוי גדול אשימך שם.",
+  "translation": "祂说:我是 以罗欣,你父亲 的以罗欣;不要惧怕下到埃及去,因为我必使你在那里成为大国。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "english": "祂说"
     },
     {
       "surface": "אנכי",
@@ -28,15 +25,15 @@
     },
     {
       "surface": "האל",
-      "english": "那El（神）"
+      "english": "以罗欣"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣（神）"
+      "english": "你父亲 的以罗欣"
     },
     {
       "surface": "אביך",
-      "english": "你父亲的"
+      "english": "你父亲"
     },
     {
       "surface": "אל",
@@ -44,11 +41,11 @@
     },
     {
       "surface": "תירא",
-      "english": "害怕"
+      "english": "惧怕"
     },
     {
       "surface": "מרדה",
-      "english": "下去"
+      "english": "下到"
     },
     {
       "surface": "מצרימה",
@@ -60,7 +57,7 @@
     },
     {
       "surface": "לגוי",
-      "english": "成国"
+      "english": "成为大国"
     },
     {
       "surface": "גדול",
@@ -68,13 +65,13 @@
     },
     {
       "surface": "אשימך",
-      "english": "我必将你立"
+      "english": "我必使你"
     },
     {
       "surface": "שם",
-      "english": "那里"
+      "english": "在那里"
     }
   ],
-  "timestamp": "2026-07-17T18:05:59.288219930Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:57.740615120Z",
+  "model": "glm-4.5"
 }

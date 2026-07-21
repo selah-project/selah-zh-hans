@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 25,
   "ref": "proverbs 12:25",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54416,
+    "completion_tokens": 273,
+    "prompt_tokens": 54415,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54783
+    "total_tokens": 54688
   },
-  "translation": "דאגה בלב איש ישחנה ודבר טוב ישמחנה׃",
+  "translation": "忧虑在人的心中使他 bowed down, but a good word makes him glad.",
   "tokens": [
     {
       "surface": "דאגה",
@@ -24,29 +21,29 @@
     },
     {
       "surface": "בלב",
-      "english": "在……的心中"
+      "english": "在人的心中"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "english": "人"
     },
     {
       "surface": "ישחנה",
-      "english": "使它屈下"
+      "english": "使他 bowed down"
     },
     {
       "surface": "ודבר",
-      "english": "而一个好的*davar*"
+      "english": "but a good word"
     },
     {
       "surface": "טוב",
-      "english": "好的"
+      "english": "good"
     },
     {
       "surface": "ישמחנה",
-      "english": "使它喜乐"
+      "english": "makes him glad"
     }
   ],
-  "timestamp": "2026-07-18T00:38:25.790067904Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:33.260445758Z",
+  "model": "glm-4.5"
 }

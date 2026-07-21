@@ -1,61 +1,58 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "proverbs 26:19",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 26,
   "usage": {
-    "completion_tokens": 783,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54618,
+    "completion_tokens": 251,
+    "prompt_tokens": 54617,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 55401
+    "total_tokens": 54868
   },
-  "translation": "כֵּן ⟨הוּא⟩ אִישׁ רִמָּה אֶת רֵעֵהוּ וְאָמַר הֲלֹא מְשַׂחֵק אָנִי",
+  "translation": "这样,人欺骗了⟨את⟩他的邻舍,并说:我不是在玩耍吗?",
   "tokens": [
     {
       "surface": "כן",
-      "english": "כֵּן"
+      "english": "这样"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "english": "人"
     },
     {
       "surface": "רמה",
-      "english": "רִמָּה"
+      "english": "欺骗了"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "רֵעֵהוּ"
+      "marks": "他的邻舍"
     },
     {
       "surface": "רעהו",
-      "english": "רֵעֵהוּ"
+      "english": "他的邻舍"
     },
     {
-      "surface": "ויאמר",
-      "english": "וְאָמַר"
+      "surface": "ואמר",
+      "english": "并说"
     },
     {
       "surface": "הלא",
-      "english": "הֲלֹא"
+      "english": "我不是...吗"
     },
     {
       "surface": "משחק",
-      "english": "מְשַׂחֵק"
+      "english": "在玩耍"
     },
     {
       "surface": "אני",
-      "english": "אָנִי"
+      "english": "我"
     }
   ],
-  "timestamp": "2026-07-18T00:46:41.060924101Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:12.668867612Z",
+  "model": "glm-4.5"
 }

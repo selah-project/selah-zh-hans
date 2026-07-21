@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 27,
   "ref": "proverbs 20:27",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54487,
+    "completion_tokens": 502,
+    "prompt_tokens": 54551,
     "prompt_tokens_details": {
-      "cached_tokens": 53376
+      "cached_tokens": 0
     },
-    "total_tokens": 55023
+    "total_tokens": 55053
   },
-  "translation": "נֵר יְהֹוָה נִשְׁמַת אָדָם，חֹפֵשׂ כָּל חַדְרֵי בָֽטֶן。",
+  "translation": "人的 鲁阿 ⟨是⟩ 雅威 的 灯, ⟨它⟩ 搜察 ⟨一切⟩ 腹中的 ⟨隐秘⟩ 部位。",
   "tokens": [
     {
       "surface": "נר",
@@ -28,7 +25,7 @@
     },
     {
       "surface": "נשמת",
-      "english": "人的鲁阿"
+      "english": "人的 鲁阿"
     },
     {
       "surface": "אדם",
@@ -36,21 +33,21 @@
     },
     {
       "surface": "חפש",
-      "english": "搜寻"
+      "english": "⟨它⟩ 搜察"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "english": "⟨一切⟩"
     },
     {
       "surface": "חדרי",
-      "english": "内室"
+      "english": " ⟨隐秘⟩ 部位"
     },
     {
       "surface": "בטן",
-      "english": "腹"
+      "english": "腹中"
     }
   ],
-  "timestamp": "2026-07-18T00:43:07.114912402Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:51.525598286Z",
+  "model": "glm-4.5"
 }

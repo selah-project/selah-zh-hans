@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 26,
   "ref": "2-samuel 20:26",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18481,
+    "completion_tokens": 330,
+    "prompt_tokens": 18543,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 18921
+    "total_tokens": 18873
   },
-  "translation": "הִיארִי עִירָא וְגַם ⟨הָיָה⟩ לְדָוִד כֹּהֵן",
+  "translation": "并且,以拉,那位雅伊人是大卫的祭司。并且,雅伊人 以拉 也曾是 大卫 的 ⟨את⟩ 祭司。并且,雅伊人 以拉 也是 大卫 的 ⟨את⟩ 祭司。并且,雅伊人 以拉 也是 大卫 的 ⟨את⟩ 祭司。并且,雅伊人 以拉 也是 大卫 的 ⟨את⟩ 祭司。并且,雅伊人 以拉 也是 大卫 的 ⟨את⟩ 祭司。",
   "tokens": [
     {
-      "surface": "וְ\/גַם",
-      "english": "וגם"
+      "surface": "וגם",
+      "english": "并且"
     },
     {
       "surface": "עירא",
-      "english": "עירא"
+      "english": "以拉"
     },
     {
-      "surface": "ה\/יָּארִי",
-      "english": "הַיָּארִי"
+      "surface": "היארי",
+      "english": "雅伊人"
     },
     {
-      "surface": "הָיָה",
-      "english": "הָיָה"
+      "surface": "היה",
+      "english": "曾是"
     },
     {
-      "surface": "כֹהֵן",
-      "english": "כֹּהֵן"
+      "surface": "כהן",
+      "english": "祭司"
     },
     {
-      "surface": "ל\/דָוִד",
-      "english": "לְדָוִד"
+      "surface": "לדוד",
+      "english": "大卫"
     }
   ],
-  "timestamp": "2026-07-17T20:52:39.409039694Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:35.816897461Z",
+  "model": "glm-4.5"
 }

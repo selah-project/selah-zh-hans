@@ -1,30 +1,27 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "hosea 11:1",
   "book": "hosea",
   "lang": "zh-Hans",
   "chapter": 11,
   "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21021,
+    "completion_tokens": 380,
+    "prompt_tokens": 21084,
     "prompt_tokens_details": {
       "cached_tokens": 19968
     },
-    "total_tokens": 21424
+    "total_tokens": 21464
   },
-  "translation": "כִּ֛י נַ֥עַר יִשְׂרָאֵ֖ל וָ\/אֹהֲבֵ֑\/הוּ וּ\/מִ\/מִּצְרַ֖יִם קָרָ֥אתִי לִ\/בְנִֽ\/י",
+  "translation": "因为 以色列 ⟨是⟩ 幼童,我 ⟨就⟩ 爱他;从 埃及,我 ⟨已⟩ 召 ⟨我的⟩ 儿子。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "当"
+      "english": "因为"
     },
     {
       "surface": "נער",
-      "english": "年幼时"
+      "english": "幼童"
     },
     {
       "surface": "ישראל",
@@ -32,21 +29,21 @@
     },
     {
       "surface": "ואהבהו",
-      "english": "我就爱他"
+      "english": "我 ⟨就⟩ 爱他"
     },
     {
       "surface": "וממצרים",
-      "english": "从埃及"
+      "english": "从 埃及"
     },
     {
       "surface": "קראתי",
-      "english": "我呼召了"
+      "english": "我 ⟨已⟩ 召"
     },
     {
       "surface": "לבני",
-      "english": "我的子"
+      "english": "⟨我的⟩ 儿子"
     }
   ],
-  "timestamp": "2026-07-17T23:15:52.042158950Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:55.148335724Z",
+  "model": "glm-4.5"
 }

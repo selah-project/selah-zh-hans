@@ -1,101 +1,98 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "esther 2:17",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 2,
   "usage": {
-    "completion_tokens": 1136,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20415,
+    "completion_tokens": 623,
+    "prompt_tokens": 20476,
     "prompt_tokens_details": {
-      "cached_tokens": 18112
+      "cached_tokens": 18048
     },
-    "total_tokens": 21551
+    "total_tokens": 21099
   },
-  "translation": "המלך אהב את אסתר מכל הנשים, ותשא חן וחסד לפניו מכל הבתולות; וישם כתר המלכות על ראשה והמליכה תחת ושתי.",
+  "translation": "王爱以斯帖 ⟨את⟩ 胜过众女子,她在王面前 ⟨是⟩ 蒙恩宠 ⟨和⟩ 得恩慈的,胜过众处女;王将王后的冠冕戴在她头上,立她为后,代替瓦实提。",
   "tokens": [
     {
       "surface": "ויאהב",
-      "english": "וַ\/יֶּאֱהַ֨ב"
+      "english": "王爱"
     },
     {
       "surface": "המלך",
-      "english": "הַ\/מֶּ֤לֶךְ"
+      "english": "王"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "אֶסְתֵּר"
+      "marks": "以斯帖"
     },
     {
       "surface": "אסתר",
-      "english": "אֶסְתֵּר"
+      "english": "以斯帖"
     },
     {
       "surface": "מכל",
-      "english": "מִ\/כָּל"
+      "english": "胜过"
     },
     {
       "surface": "הנשים",
-      "english": "הַ\/נָּשִׁים"
+      "english": "众女子"
     },
     {
       "surface": "ותשא",
-      "english": "וַ\/תִּשָּׂא"
+      "english": "她在...是"
     },
     {
       "surface": "חן",
-      "english": "חֵן"
+      "english": "蒙恩宠"
     },
     {
       "surface": "וחסד",
-      "english": "וָ\/חֶ֛סֶד"
+      "english": "和得恩慈"
     },
     {
       "surface": "לפניו",
-      "english": "לְ\/פָנָ֖י\/ו"
+      "english": "在王面前"
     },
     {
       "surface": "מכל",
-      "english": "מִ\/כָּל"
+      "english": "胜过"
     },
     {
       "surface": "הבתולת",
-      "english": "הַ\/בְּתוּלֹ֑ת"
+      "english": "众处女"
     },
     {
       "surface": "וישם",
-      "english": "וַ\/יָּ֤שֶׂם"
+      "english": "王...将"
     },
     {
       "surface": "כתר",
-      "english": "כֶּֽתֶר"
+      "english": "冠冕"
     },
     {
       "surface": "מלכות",
-      "english": "מַלְכוּת"
+      "english": "王后"
     },
     {
       "surface": "בראשה",
-      "english": "בְּ\/רֹאשָׁ֔\/הּ"
+      "english": "戴在她头上"
     },
     {
       "surface": "וימליכה",
-      "english": "וַ\/יַּמְלִיכֶ֖\/הָ"
+      "english": "立她为后"
     },
     {
       "surface": "תחת",
-      "english": "תַּ֥חַת"
+      "english": "代替"
     },
     {
       "surface": "ושתי",
-      "english": "וַשְׁתִּֽי"
+      "english": "瓦实提"
     }
   ],
-  "timestamp": "2026-07-18T01:24:31.433645772Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:23.448928356Z",
+  "model": "glm-4.5"
 }

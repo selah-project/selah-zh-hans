@@ -1,53 +1,50 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 33,
   "ref": "proverbs 16:33",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 16,
   "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54468,
+    "completion_tokens": 400,
+    "prompt_tokens": 54467,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54943
+    "total_tokens": 54867
   },
-  "translation": "⟨הַ\/גּוֹרָל⟩ בַּ֭\/חֵיק יוּטַל אֶת וּמֵ\/יְהוָ֗ה כָּל מִשְׁפָּטֽ\/וֹ.",
+  "translation": "籤被投入怀里，但它的一切判决都是从雅威来的。",
   "tokens": [
     {
-      "surface": "בַּ֭\/חֵיק",
-      "english": "在怀中"
+      "surface": "בחיק",
+      "english": "怀里"
     },
     {
-      "surface": "יוּטַ֣ל",
-      "english": "被掷出"
+      "surface": "יוטל",
+      "english": "被投入"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "阄"
+      "marks": "籤"
     },
     {
-      "surface": "הַ\/גּוֹרָ֑ל",
-      "english": "阄"
+      "surface": "הגורל",
+      "english": "籤"
     },
     {
-      "surface": "וּ֝\/מֵ\/יְהוָ֗ה",
-      "english": "从雅威"
+      "surface": "ומיהוה",
+      "english": "但都是从雅威来的"
     },
     {
-      "surface": "כָּל",
-      "english": "每一"
+      "surface": "כל",
+      "english": "一切"
     },
     {
-      "surface": "מִשְׁפָּטֽ\/וֹ",
-      "english": "⟨וֹ⟩判决"
+      "surface": "משפטו",
+      "english": "判决"
     }
   ],
-  "timestamp": "2026-07-18T00:41:07.344712005Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:15.742570200Z",
+  "model": "glm-4.5"
 }

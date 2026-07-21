@@ -1,97 +1,94 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "2-samuel 21:16",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 21,
   "usage": {
-    "completion_tokens": 1133,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19930,
+    "completion_tokens": 553,
+    "prompt_tokens": 20003,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 21063
+    "total_tokens": 20556
   },
-  "translation": "וישבו-בנב, אשר ⟨הוא⟩ מבני הרפה, ומשקל קינו ⟨היה⟩ שלש מאות משקל נחשת, והוא חגור חדשה, ויאמר להכות ⟨את⟩ דוד.",
+  "translation": "以实比比诺,他是 ⟨את⟩ 拉法子孙之一,他枪头的铜重三百舍客勒,且佩带着新 ⟨的⟩, ⟨他⟩ 以为可以击杀 ⟨את⟩ 大卫。",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "וישבו-בנב"
+      "english": "以实比比比诺"
     },
     {
       "surface": "בנב",
-      "english": "(בנב)"
+      "english": "以实比比诺"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "他是"
     },
     {
       "surface": "בילידי",
-      "english": "מבני"
+      "english": "⟨את⟩"
     },
     {
       "surface": "הרפה",
-      "english": "הרפה"
+      "english": "拉法子孙之一"
     },
     {
       "surface": "ומשקל",
-      "english": "ומשקל"
+      "english": "他枪头的铜"
     },
     {
       "surface": "קינו",
-      "english": "קינו"
+      "english": "枪头"
     },
     {
       "surface": "שלש",
-      "english": "שלש"
+      "english": "三百"
     },
     {
       "surface": "מאות",
-      "english": "מאות"
+      "english": ""
     },
     {
       "surface": "משקל",
-      "english": "משקל"
+      "english": "舍客勒"
     },
     {
       "surface": "נחשת",
-      "english": "נחשת"
+      "english": "铜"
     },
     {
       "surface": "והוא",
-      "english": "והוא"
+      "english": "且"
     },
     {
       "surface": "חגור",
-      "english": "חגור"
+      "english": "佩带着"
     },
     {
       "surface": "חדשה",
-      "english": "חדשה"
+      "english": "新 ⟨的⟩"
     },
     {
       "surface": "ויאמר",
-      "english": "ויאמר"
+      "english": "以为"
     },
     {
       "surface": "להכות",
-      "english": "להכות"
+      "english": "可以击杀"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "דוד"
+      "marks": "大卫"
     },
     {
       "surface": "דוד",
-      "english": "דוד"
+      "english": "大卫"
     }
   ],
-  "timestamp": "2026-07-17T20:53:12.961267734Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:15.260059891Z",
+  "model": "glm-4.5"
 }

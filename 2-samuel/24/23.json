@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "2-samuel 24:23",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 24,
   "usage": {
-    "completion_tokens": 619,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19243,
+    "completion_tokens": 469,
+    "prompt_tokens": 19319,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 19862
+    "total_tokens": 19788
   },
-  "translation": "הכל ארונה נתן למלך, וארונה אמר אל המלך: יהוה אלהיך ירצך.",
+  "translation": "这一切，亚劳拿作为君王给了君王。亚劳拿对君王说：愿雅威你的以罗欣喜悦你。",
   "tokens": [
     {
       "surface": "הכל",
@@ -32,15 +29,15 @@
     },
     {
       "surface": "המלך",
-      "english": "⟨那位⟩王"
+      "english": "作为君王"
     },
     {
       "surface": "למלך",
-      "english": "给王"
+      "english": "给了君王"
     },
     {
       "surface": "ויאמר",
-      "english": "然后说"
+      "english": "说"
     },
     {
       "surface": "ארונה",
@@ -52,7 +49,7 @@
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "english": "君王"
     },
     {
       "surface": "יהוה",
@@ -64,9 +61,9 @@
     },
     {
       "surface": "ירצך",
-      "english": "悦纳你"
+      "english": "喜悦你"
     }
   ],
-  "timestamp": "2026-07-17T20:55:54.501420864Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:19.798239243Z",
+  "model": "glm-4.5"
 }

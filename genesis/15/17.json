@@ -1,84 +1,81 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "genesis 15:17",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 1179,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23557,
+    "completion_tokens": 475,
+    "prompt_tokens": 23556,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24736
+    "total_tokens": 24031
   },
-  "translation": "ו׷־היה השמש באה, ועלטה היתה, והנה תנור עשן ולפיד אש, אשר עבר בין הגזרים האלה.",
+  "translation": "并且太阳落下,黑暗降临,看哪,冒烟的炉子和烧着的火把,在这些被切开的肉块之间经过。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "ו׷־היה"
+      "english": "并且……的时候"
     },
     {
       "surface": "השמש",
-      "english": "השמש"
+      "english": "太阳"
     },
     {
       "surface": "באה",
-      "english": "באה"
+      "english": "落下"
     },
     {
       "surface": "ועלטה",
-      "english": "ועלטה"
+      "english": "并且黑暗降临"
     },
     {
       "surface": "היה",
-      "english": "היתה"
+      "english": "存在"
     },
     {
       "surface": "והנה",
-      "english": "והנה"
+      "english": "看哪"
     },
     {
       "surface": "תנור",
-      "english": "תנור עשן"
+      "english": "炉子"
     },
     {
       "surface": "עשן",
-      "english": "(עשן)"
+      "english": "冒烟的"
     },
     {
       "surface": "ולפיד",
-      "english": "ולפיד"
+      "english": "并且火把"
     },
     {
       "surface": "אש",
-      "english": "אש"
+      "english": "烧着的"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "那个"
     },
     {
       "surface": "עבר",
-      "english": "עבר"
+      "english": "经过"
     },
     {
       "surface": "בין",
-      "english": "בין"
+      "english": "在……之间"
     },
     {
       "surface": "הגזרים",
-      "english": "הגזרים"
+      "english": "这些被切开的肉块"
     },
     {
       "surface": "האלה",
-      "english": "האלה"
+      "english": "这些"
     }
   ],
-  "timestamp": "2026-07-17T17:41:41.596422663Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:42.302360185Z",
+  "model": "glm-4.5"
 }

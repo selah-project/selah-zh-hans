@@ -1,88 +1,86 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 35,
   "ref": "genesis 42:35",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 42,
   "usage": {
-    "completion_tokens": 689,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23917,
+    "completion_tokens": 524,
+    "prompt_tokens": 23916,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24606
+    "total_tokens": 24440
   },
-  "translation": "וַ\/יְהִי הֵם מְרִיקִים אֶת־שְׂקֵיהֶם וְ\/הִנֵּה אִישׁ צְרוֹר כַּסְפּוֹ בְּ\/שַׂקּוֹ וַ\/יִּרְאוּ אֶת צֲרוֹרוֹת כַּסְפֵּיהֶם הֵם וַ\/אֲבִיהֶם וַ\/יִּירָאוּ",
+  "translation": "事情发生时,他们正在倒空他们的袋子,看哪,每一个人的银钱包裹都在他的袋子里;当他们和他们的父亲看见他们银钱的包裹时,他们害怕了",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִי"
+      "english": "事情发生时"
     },
     {
       "surface": "הם",
-      "english": "הֵם"
+      "english": "他们"
     },
     {
       "surface": "מריקים",
-      "english": "מְרִיקִים"
+      "english": "正在倒空"
     },
     {
       "surface": "שקיהם",
-      "english": "שְׂקֵיהֶם"
+      "english": "他们的袋子"
     },
     {
       "surface": "והנה",
-      "english": "וְ\/הִנֵּה"
+      "english": "看哪"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "english": "每一个人"
     },
     {
       "surface": "צרור",
-      "english": "צְרוֹר"
+      "english": "的包裹"
     },
     {
       "surface": "כספו",
-      "english": "כַּסְפּוֹ"
+      "english": "他的银钱"
     },
     {
       "surface": "בשקו",
-      "english": "בְּ\/שַׂקּוֹ"
+      "english": "在他的袋子里"
     },
     {
       "surface": "ויראו",
-      "english": "וַ\/יִּרְאוּ"
+      "english": "看见"
     },
     {
       "surface": "את",
-      "english": "אֵת"
+      "english": "⟨את⟩",
+      "marks": "他们银钱的包裹"
     },
     {
       "surface": "צררות",
-      "english": "צֲרוֹרוֹת"
+      "english": "的包裹"
     },
     {
       "surface": "כספיהם",
-      "english": "כַּסְפֵּיהֶם"
+      "english": "他们银钱"
     },
     {
       "surface": "המה",
-      "english": "הֵם"
+      "english": "他们"
     },
     {
       "surface": "ואביהם",
-      "english": "וְ\/אָבִיהֶם"
+      "english": "和他们的父亲"
     },
     {
       "surface": "וייראו",
-      "english": "וַ\/יִּירָאוּ"
+      "english": "害怕了"
     }
   ],
-  "timestamp": "2026-07-17T18:02:57.100423879Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:25.189434581Z",
+  "model": "glm-4.5"
 }

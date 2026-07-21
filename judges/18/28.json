@@ -1,109 +1,106 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 28,
   "ref": "judges 18:28",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 972,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19061,
+    "completion_tokens": 584,
+    "prompt_tokens": 19123,
     "prompt_tokens_details": {
       "cached_tokens": 16640
     },
-    "total_tokens": 20033
+    "total_tokens": 19707
   },
-  "translation": "וְ\/אֵ֨ין מַצִּ֜יל כִּ֧י רְחֽוֹקָה הִ֣יא מִ\/צִּיד֗וֹן וְ\/דָבָ֤ר אֵין לָ\/הֶם֙ עִם אָדָ֔ם וְ\/הִ֕יא בָּ\/עֵ֖מֶק אֲשֶׁ֣ר לְ\/בֵית רְח֑וֹב וַ\/יִּבְנ֥וּ ⟨את⟩ הָ\/עִ֖יר וַ\/יֵּ֥שְׁבוּ בָֽ\/הּ׃",
+  "translation": "并且没有拯救者,因为距推罗甚远,他们与世人没有来往;这城在伯利合的谷中。他们重建了⟨את⟩这城,就住在其中。",
   "tokens": [
     {
-      "surface": "וְ\/אֵ֨ין",
-      "english": "而且没有"
+      "surface": "ואין",
+      "english": "并且没有"
     },
     {
-      "surface": "מַצִּ֜יל",
+      "surface": "מציל",
       "english": "拯救者"
     },
     {
-      "surface": "כִּ֧י",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "רְחֽוֹקָה",
-      "english": "偏远"
+      "surface": "רחוקה",
+      "english": "距……甚远"
     },
     {
-      "surface": "הִ֣יא",
+      "surface": "היא",
       "english": "它"
     },
     {
-      "surface": "מִ\/צִּיד֗וֹן",
-      "english": "离西顿"
+      "surface": "מצידון",
+      "english": "推罗"
     },
     {
-      "surface": "וְ\/דָבָ֤ר",
-      "english": "事务 (davar)"
+      "surface": "ודבר",
+      "english": "来往"
     },
     {
-      "surface": "אֵין",
+      "surface": "אין",
       "english": "没有"
     },
     {
-      "surface": "לָ\/הֶם֙",
+      "surface": "להם",
       "english": "他们"
     },
     {
-      "surface": "עִם",
-      "english": "与"
+      "surface": "עם",
+      "english": "与……"
     },
     {
-      "surface": "אָדָ֔ם",
-      "english": "任何人"
+      "surface": "אדם",
+      "english": "世人"
     },
     {
-      "surface": "וְ\/הִ֕יא",
-      "english": "而它"
+      "surface": "והיא",
+      "english": "它"
     },
     {
-      "surface": "בָּ\/עֵ֖מֶק",
-      "english": "在谷中"
+      "surface": "בעמק",
+      "english": "在……谷中"
     },
     {
-      "surface": "אֲשֶׁ֣ר",
-      "english": "就是"
+      "surface": "אשר",
+      "english": "那"
     },
     {
-      "surface": "לְ\/בֵית",
-      "english": "属伯·"
+      "surface": "לבית",
+      "english": "伯"
     },
     {
-      "surface": "רְח֑וֹב",
+      "surface": "רחוב",
       "english": "利合"
     },
     {
-      "surface": "וַ\/יִּבְנ֥וּ",
+      "surface": "ויבנו",
       "english": "他们重建了"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "那城 (העיר)"
+      "marks": "这城"
     },
     {
-      "surface": "הָ\/עִ֖יר",
-      "english": "那城"
+      "surface": "העיר",
+      "english": "这城"
     },
     {
-      "surface": "וַ\/יֵּ֥שְׁבוּ",
+      "surface": "וישבו",
       "english": "就住在"
     },
     {
-      "surface": "בָֽ\/הּ",
+      "surface": "בה",
       "english": "其中"
     }
   ],
-  "timestamp": "2026-07-17T20:18:39.433980286Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:13.959140587Z",
+  "model": "glm-4.5"
 }

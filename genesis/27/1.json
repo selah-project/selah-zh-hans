@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 1,
   "ref": "genesis 27:1",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 27,
   "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23976,
+    "completion_tokens": 610,
+    "prompt_tokens": 24050,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24716
+    "total_tokens": 24660
   },
-  "translation": "כְּשֶׁיִּצְחָק זָקֵן וְעֵינָיו כֵּהוֹת מֵרְאֹת, וַ\/יִּקְרָא אֶת עֵשָׂו בְּנ֣\/וֹ הַ\/גָּדֹ֗ל וַ\/יֹּ֤אמֶר אֵלָי\/ו֙ בְּנִ֔\/י וַ\/יֹּ֥אמֶר אֵלָ֖י\/ו הִנֵּֽנִ\/י",
+  "translation": "这事以后,以撒老了,他 ⟨的⟩ 眼目昏暗,不能看见,他呼叫 ⟨את⟩ 以扫,他 ⟨的⟩ 长子,对他说:我儿;他回答说:我在这里。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事就这样发生"
+      "english": "这事以后"
     },
     {
       "surface": "כי",
-      "english": "当"
+      "english": ""
     },
     {
       "surface": "זקן",
-      "english": "年老"
+      "english": "以撒老了"
     },
     {
       "surface": "יצחק",
@@ -36,24 +33,24 @@
     },
     {
       "surface": "ותכהין",
-      "english": "变得昏暗"
+      "english": "他 ⟨的⟩ 眼目昏暗"
     },
     {
       "surface": "עיניו",
-      "english": "他的眼睛"
+      "english": "眼目"
     },
     {
       "surface": "מראת",
-      "english": "无法看见"
+      "english": "不能看见"
     },
     {
       "surface": "ויקרא",
-      "english": "他就呼叫"
+      "english": "他呼叫"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "עשו"
+      "marks": "以扫"
     },
     {
       "surface": "עשו",
@@ -61,37 +58,37 @@
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "english": "他 ⟨的⟩ 长子"
     },
     {
       "surface": "הגדל",
-      "english": "大"
+      "english": "长子"
     },
     {
-      "surface": "ויאמר",
+      "surface": "ואמר",
       "english": "对他说"
     },
     {
       "surface": "אליו",
-      "english": "⟨向着他⟩"
+      "english": "对他"
     },
     {
       "surface": "בני",
-      "english": "我的儿子"
+      "english": "我儿"
     },
     {
-      "surface": "ויאמר",
-      "english": "他对他说"
+      "surface": "ואמר",
+      "english": "他回答说"
     },
     {
       "surface": "אליו",
-      "english": "⟨向着他⟩"
+      "english": "他"
     },
     {
       "surface": "הנני",
-      "english": "看哪,我在这里"
+      "english": "我在这里"
     }
   ],
-  "timestamp": "2026-07-17T17:50:01.816341244Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:47.191666112Z",
+  "model": "glm-4.5"
 }

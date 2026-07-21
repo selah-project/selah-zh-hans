@@ -1,51 +1,48 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 19,
   "ref": "genesis 15:19",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22929,
+    "completion_tokens": 276,
+    "prompt_tokens": 22928,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23327
+    "total_tokens": 23204
   },
-  "translation": "⟨את⟩ הַ\/קֵּינִי֙ (基尼人), וְ\/אֶת הַ\/קְּנִזִּ֔י (קְנִזִּי, וְ\/אֵ֖ת הַ\/קַּדְמֹנִֽי (קַדְמֹנִי),",
+  "translation": "⟨את⟩ 基尼人,和 ⟨את⟩ 基尼洗人,和 ⟨את⟩ 卡德摩尼人",
   "tokens": [
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
       "marks": "基尼人"
     },
     {
-      "surface": "הַ\/קֵּינִי֙",
+      "surface": "הקיני",
       "english": "基尼人"
     },
     {
-      "surface": "וְ\/אֶת",
-      "english": "和 ⟨את⟩",
+      "surface": "ואת",
+      "english": "⟨את⟩",
       "marks": "基尼洗人"
     },
     {
-      "surface": "הַ\/קְּנִזִּ֔י",
+      "surface": "הקנזי",
       "english": "基尼洗人"
     },
     {
-      "surface": "וְ\/אֵ֖ת",
-      "english": "和 ⟨את⟩",
-      "marks": "甲摩尼人"
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "卡德摩尼人"
     },
     {
-      "surface": "הַ\/קַּדְמֹנִֽי",
-      "english": "甲摩尼人"
+      "surface": "הקדמני",
+      "english": "卡德摩尼人"
     }
   ],
-  "timestamp": "2026-07-17T17:41:23.107974140Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:22.879162888Z",
+  "model": "glm-4.5"
 }

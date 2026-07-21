@@ -1,70 +1,67 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 2,
   "ref": "genesis 5:2",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 751,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23414,
+    "completion_tokens": 565,
+    "prompt_tokens": 23413,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24165
+    "total_tokens": 23978
   },
-  "translation": "זָכָר וּ\/נְקֵבָ֖ה בְּרָאָ֑\/ם וַ\/יְבָ֣רֶךְ אֹתָ֗\/ם וַ\/יִּקְרָ֤א אֶת שְׁמָ\/ם֙ אָדָ֔ם בְּ\/י֖וֹם הִבָּֽרְאָֽ\/ם",
+  "translation": "男性与女性以罗欣创造了他们,并且祝福了他们,并且呼叫他们的名字是亚当,在他们被造的日子。",
   "tokens": [
     {
-      "surface": "זָכָ֥ר",
-      "english": "雄性"
+      "surface": "זכר",
+      "english": "男性"
     },
     {
-      "surface": "וּ\/נְקֵבָ֖ה",
-      "english": "和雌性"
+      "surface": "ונקבה",
+      "english": "与女性"
     },
     {
-      "surface": "בְּרָאָ֑\/ם",
-      "english": "创造了他们"
+      "surface": "בראם",
+      "english": "以罗欣创造了他们"
     },
     {
-      "surface": "וַ\/יְבָ֣רֶךְ",
-      "english": "他赐福给他们"
+      "surface": "ויברך",
+      "english": "并且祝福了他们"
     },
     {
-      "surface": "אֹתָ֗\/ם",
-      "english": "⟨את⟩",
-      "marks": "他们"
+      "surface": "אתם",
+      "english": "他们",
+      "marks": "祝福"
     },
     {
-      "surface": "וַ\/יִּקְרָ֤א",
-      "english": "他称"
+      "surface": "ויקרא",
+      "english": "并且呼叫"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
       "marks": "他们的名字"
     },
     {
-      "surface": "שְׁמָ\/ם֙",
+      "surface": "שמם",
       "english": "他们的名字"
     },
     {
-      "surface": "אָדָ֔ם",
-      "english": "亚当"
+      "surface": "אדם",
+      "english": "是亚当"
     },
     {
-      "surface": "בְּ\/י֖וֹם",
-      "english": "在……的日子"
+      "surface": "ביום",
+      "english": "在日子"
     },
     {
-      "surface": "הִבָּֽרְאָֽ\/ם",
-      "english": "他们被创造"
+      "surface": "הבראם",
+      "english": "他们被造的"
     }
   ],
-  "timestamp": "2026-07-17T17:35:49.716582976Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:09.518747251Z",
+  "model": "glm-4.5"
 }

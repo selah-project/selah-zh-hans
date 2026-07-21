@@ -1,149 +1,146 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-samuel 8:10",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 8,
   "usage": {
-    "completion_tokens": 1496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21072,
+    "completion_tokens": 914,
+    "prompt_tokens": 21175,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 22568
+    "total_tokens": 22089
   },
-  "translation": "תֹּעִי שלח את יוֹרָם בְּנוֹ אל הַ\/מֶּלֶךְ דָּוִד, לִ\/שְׁאָל לְ\/שָׁלוֹם וּ\/לְ\/בָרֲכ\/וֹ, עַל אֲשֶׁר נִלְחַם בַּ\/הֲדַדְעֶזֶר וַ\/יַּכֵּ\/הוּ, כִּי אִישׁ מִלְחֲמוֹת תֹּעִי הָיָה הֲדַדְעָזֶר, וּ\/בְ\/יָד\/וֹ הָיוּ כְּלֵי כֶסֶף וּ\/כְלֵי זָהָב וּ\/כְלֵי נְחֹשֶׁת.",
+  "translation": "陀乌打发他的儿子约兰去见大卫王，要问他安，并为⟨他⟩祝福，因为他与哈大底谢争战并击败了他；原来哈大底谢常与陀乌交战。约兰手里拿着银器、金器和铜器。",
   "tokens": [
     {
-      "surface": "וַ\/יִּשְׁלַ֣ח",
-      "english": "差遣"
+      "surface": "וישלח",
+      "english": "打发"
     },
     {
-      "surface": "תֹּ֣עִי",
-      "english": "תֹּעִי"
+      "surface": "תעי",
+      "english": "陀乌"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "יוֹרָם"
+      "marks": "约兰"
     },
     {
-      "surface": "יֽוֹרָם",
-      "english": "יוֹרָם"
+      "surface": "יורם",
+      "english": "约兰"
     },
     {
-      "surface": "בְּנ֣\/וֹ",
+      "surface": "בנו",
       "english": "他的儿子"
     },
     {
-      "surface": "אֶל",
+      "surface": "אל",
       "english": "去见"
     },
     {
-      "surface": "הַ\/מֶּֽלֶךְ",
+      "surface": "המלך",
       "english": "王"
     },
     {
-      "surface": "דָּ֠וִד",
-      "english": "דָּוִד"
+      "surface": "דוד",
+      "english": "大卫"
     },
     {
-      "surface": "לִ\/שְׁאָל",
-      "english": "问"
+      "surface": "לשאל",
+      "english": "要问"
     },
     {
-      "surface": "ל֨\/וֹ",
+      "surface": "לו",
       "english": "他"
     },
     {
-      "surface": "לְ\/שָׁל֜וֹם",
-      "english": "平安"
+      "surface": "לשלום",
+      "english": "安"
     },
     {
-      "surface": "וּֽ\/לְ\/בָרֲכ֗\/וֹ",
-      "english": "赐福他"
+      "surface": "ולברכו",
+      "english": "并为⟨他⟩祝福"
     },
     {
-      "surface": "עַל֩",
-      "english": "因"
-    },
-    {
-      "surface": "אֲשֶׁ֨ר",
-      "english": "⟨那⟩"
-    },
-    {
-      "surface": "נִלְחַ֤ם",
-      "english": "交战"
-    },
-    {
-      "surface": "בַּ\/הֲדַדְעֶ֨זֶר֙",
-      "english": "哈大底谢"
-    },
-    {
-      "surface": "וַ\/יַּכֵּ֔\/הוּ",
-      "english": "击杀了他"
-    },
-    {
-      "surface": "כִּי",
+      "surface": "על",
       "english": "因为"
     },
     {
-      "surface": "אִ֛ישׁ",
-      "english": "是战士"
+      "surface": "אשר",
+      "english": "他"
     },
     {
-      "surface": "מִלְחֲמ֥וֹת",
-      "english": "战争"
+      "surface": "נלחם",
+      "english": "与...争战"
     },
     {
-      "surface": "תֹּ֖עִי",
-      "english": "תֹּעִי"
+      "surface": "בהדדעזר",
+      "english": "哈大底谢"
     },
     {
-      "surface": "הָיָ֣ה",
+      "surface": "ויכהו",
+      "english": "并击败了"
+    },
+    {
+      "surface": "כי",
+      "english": "因为"
+    },
+    {
+      "surface": "איש",
+      "english": "常与...交战的人"
+    },
+    {
+      "surface": "מלחמות",
+      "english": "交战"
+    },
+    {
+      "surface": "תעי",
+      "english": "陀乌"
+    },
+    {
+      "surface": "היה",
       "english": "曾是"
     },
     {
-      "surface": "הֲדַדְעָ֑זֶר",
-      "english": "הֲדַדְעָזֶר"
+      "surface": "הדדעזר",
+      "english": "哈大底谢"
     },
     {
-      "surface": "וּ\/בְ\/יָד֗\/וֹ",
-      "english": "他手中"
+      "surface": "ובידו",
+      "english": "在...手里"
     },
     {
-      "surface": "הָי֛וּ",
+      "surface": "היו",
       "english": "有"
     },
     {
-      "surface": "כְּלֵֽי",
-      "english": "器具"
+      "surface": "כלי",
+      "english": "器"
     },
     {
-      "surface": "כֶ֥סֶף",
+      "surface": "כסף",
       "english": "银"
     },
     {
-      "surface": "וּ\/כְלֵֽי",
-      "english": "器具"
+      "surface": "וכלי",
+      "english": "器"
     },
     {
-      "surface": "זָהָ֖ב",
+      "surface": "זהב",
       "english": "金"
     },
     {
-      "surface": "וּ\/כְלֵ֥י",
-      "english": "器具"
+      "surface": "וכלי",
+      "english": "器"
     },
     {
-      "surface": "נְחֹֽשֶׁת",
+      "surface": "נחשת",
       "english": "铜"
     }
   ],
-  "timestamp": "2026-07-17T20:44:26.467517941Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:41.350400853Z",
+  "model": "glm-4.5"
 }

@@ -1,72 +1,72 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "genesis 12:12",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 12,
   "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23588,
+    "completion_tokens": 629,
+    "prompt_tokens": 23587,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
     "total_tokens": 24216
   },
-  "translation": " וְהָיָ֗ה כִּֽי יִרְא֥וּ אֹתָ֛ךְ הַמִּצְרִּֽים׃ וְאָמְר֖וּ אִשְׁתּ֥וֹ זֹֽאת׃ וְהָרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽוּ׃",
+  "translation": "这就必发生:埃及人 ⟨את⟩ 见你,必说:'这是他的妻',就 ⟨את⟩ 杀我,却 ⟨את⟩ 叫你存活",
   "tokens": [
     {
-      "surface": "וְ\/הָיָ֗ה",
-      "english": "וְהָיָה"
+      "surface": "והיה",
+      "english": "这就必发生"
     },
     {
-      "surface": "כִּֽי",
-      "english": "כִּי"
+      "surface": "כי",
+      "english": ""
     },
     {
-      "surface": "יִרְא֥וּ",
-      "english": "יִרְאוּ"
+      "surface": "יראו",
+      "english": "见"
     },
     {
-      "surface": "אֹתָ֛\/ךְ",
-      "english": "אֹתָךְ"
+      "surface": "אתך",
+      "english": "⟨את⟩",
+      "marks": "你"
     },
     {
-      "surface": "הַ\/מִּצְרִּֽים",
-      "english": "הַמִּצְרִים"
+      "surface": "המצרים",
+      "english": "埃及人"
     },
     {
-      "surface": "וְ\/אָמְר֖וּ",
-      "english": "וְאָמְרוּ"
+      "surface": "ואמרו",
+      "english": "必说"
     },
     {
-      "surface": "אִשְׁתּ֥וֹ",
-      "english": "אִשְׁתּוֹ"
+      "surface": "אשתו",
+      "english": "这是他的妻"
     },
     {
-      "surface": "זֹֽאת",
-      "english": "זֹאת"
+      "surface": "זאת",
+      "english": ""
     },
     {
-      "surface": "וְ\/הָרְג֥וּ",
-      "english": "וְהָרְגוּ"
+      "surface": "והרגו",
+      "english": "就 ⟨את⟩ 杀"
     },
     {
-      "surface": "אֹתִ֖\/י",
-      "english": "אֹתִי"
+      "surface": "אתי",
+      "english": "",
+      "marks": "我"
     },
     {
-      "surface": "וְ\/אֹתָ֥\/ךְ",
-      "english": "וְאֹתָךְ"
+      "surface": "ואתך",
+      "english": "却 ⟨את⟩ 叫",
+      "marks": "你"
     },
     {
-      "surface": "יְחַיּֽוּ",
-      "english": "יְחַיּוּ"
+      "surface": "יחיו",
+      "english": "存活"
     }
   ],
-  "timestamp": "2026-07-17T17:39:55.740191523Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:48.607820465Z",
+  "model": "glm-4.5"
 }

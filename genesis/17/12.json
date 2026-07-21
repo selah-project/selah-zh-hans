@@ -1,66 +1,65 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 12,
   "ref": "genesis 17:12",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 17,
   "usage": {
-    "completion_tokens": 768,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24030,
+    "completion_tokens": 552,
+    "prompt_tokens": 24029,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 24798
+    "total_tokens": 24581
   },
-  "translation": "וּ\/בֶן שְׁמֹנַת יָמִים יִמֹּל לָ\/כֶם כָּל זָכָר לְ\/דֹרֹתֵי\/כֶם יְלִיד בַּיִת וּ\/מִקְנַת כֶּסֶף מִ\/כֹּל בֶּן נֵכָר אֲשֶׁר לֹא מִ\/זַּרְעֲ\/ךָ הוּא׃",
+  "translation": "生下来第八天 ⟨的⟩ 男子,你们 ⟨要⟩ 给 ⟨他⟩ 行割礼;代代如此,无论是家里 ⟨生⟩ 的,还是用银子从外人 ⟨买⟩ 来 ⟨的⟩,只要是 ⟨不⟩ 是你后裔 ⟨的⟩,都 ⟨要⟩ 这样。",
   "tokens": [
     {
       "surface": "ובן",
-      "english": "以及一个儿子"
+      "english": "生下来… ⟨的⟩",
+      "marks": "男子"
     },
     {
       "surface": "שמנת",
-      "english": "八"
+      "english": "第八天"
     },
     {
-      "surface": "日",
-      "english": "日的"
+      "surface": "ימים",
+      "english": "日"
     },
     {
-      "surface": "必受割礼",
-      "english": "要受割礼"
+      "surface": "ימול",
+      "english": "⟨要⟩ 给 ⟨他⟩ 行割礼"
     },
     {
       "surface": "לכם",
-      "english": "在你们中间"
+      "english": "你们"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "english": "都"
     },
     {
       "surface": "זכר",
-      "english": "男性"
+      "english": "男子"
     },
     {
       "surface": "לדרתיכם",
-      "english": "在你们的世代中"
+      "english": "代代如此"
     },
     {
       "surface": "יליד",
-      "english": "生的"
+      "english": "⟨生⟩"
     },
     {
       "surface": "בית",
-      "english": "家里的"
+      "english": "家里"
     },
     {
       "surface": "ומקנת",
-      "english": "以及用银子买的"
+      "english": "还是用银子… ⟨买⟩ 来 ⟨的⟩",
+      "marks": "外人"
     },
     {
       "surface": "כסף",
@@ -68,33 +67,33 @@
     },
     {
       "surface": "מכל",
-      "english": "从任何"
+      "english": "从"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "english": "子"
     },
     {
       "surface": "נכר",
-      "english": "外邦人"
+      "english": "外人"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "english": "只要是"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "english": "⟨不⟩"
     },
     {
       "surface": "מזרעך",
-      "english": "出自你的后裔"
+      "english": "是你后裔 ⟨的⟩"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "english": "都 ⟨要⟩ 这样"
     }
   ],
-  "timestamp": "2026-07-17T17:42:36.478727374Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:12:07.446989140Z",
+  "model": "glm-4.5"
 }

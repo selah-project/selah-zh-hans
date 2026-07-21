@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "judges 1:21",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 1,
   "usage": {
-    "completion_tokens": 797,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18822,
+    "completion_tokens": 620,
+    "prompt_tokens": 18906,
     "prompt_tokens_details": {
-      "cached_tokens": 10368
+      "cached_tokens": 16640
     },
-    "total_tokens": 19619
+    "total_tokens": 19526
   },
-  "translation": "וְ\/אֶת הַ\/יְבוּסִי֙ יֹשֵׁ֣ב יְרֽוּשָׁלִַ֔ם לֹ֥א הוֹרִ֖ישׁוּ בְּנֵ֣י בִנְיָמִ֑ן וַ\/יֵּ֨שֶׁב הַ\/יְבוּסִ֜י אֶת בְּנֵ֤י בִנְיָמִן֙ בִּ\/יר֣וּשָׁלִַ֔ם עַ֖ד הַ\/יּ֥וֹם הַ\/זֶּֽה",
+  "translation": "至于住在耶路撒冷的耶布斯人,便雅悯的子孙没有把他们赶出去;直到今日,耶布斯人仍与便雅悯的子孙同住在耶路撒冷。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "至于 ⟨את⟩"
+      "english": "至于"
     },
     {
       "surface": "היבוסי",
@@ -28,11 +25,11 @@
     },
     {
       "surface": "ישב",
-      "english": "居住"
+      "english": "住在"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷的"
+      "english": "耶路撒冷"
     },
     {
       "surface": "לא",
@@ -40,19 +37,19 @@
     },
     {
       "surface": "הורישו",
-      "english": "赶出"
+      "english": "把他们赶出去"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "english": "便雅悯的子孙"
     },
     {
       "surface": "בנימן",
-      "english": "本雅明"
+      "english": "便雅悯"
     },
     {
       "surface": "וישב",
-      "english": "就居住"
+      "english": "仍与...同住"
     },
     {
       "surface": "היבוסי",
@@ -61,15 +58,15 @@
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "本雅明的子孙"
+      "marks": "便雅悯的子孙"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "english": "便雅悯的子孙"
     },
     {
       "surface": "בנימן",
-      "english": "本雅明"
+      "english": "便雅悯"
     },
     {
       "surface": "בירושלם",
@@ -81,13 +78,13 @@
     },
     {
       "surface": "היום",
-      "english": "日子"
+      "english": "今日"
     },
     {
       "surface": "הזה",
       "english": "这"
     }
   ],
-  "timestamp": "2026-07-17T20:06:08.134032556Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:13.582832107Z",
+  "model": "glm-4.5"
 }

@@ -1,108 +1,106 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "esther 9:16",
   "book": "esther",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20700,
+    "completion_tokens": 642,
+    "prompt_tokens": 20699,
     "prompt_tokens_details": {
-      "cached_tokens": 18112
+      "cached_tokens": 18048
     },
-    "total_tokens": 21311
+    "total_tokens": 21341
   },
-  "translation": "וОתר היהודים אשר במדינות המלך נקהלו ועמד על נפשם ונוח מאיביהם והרג בשנאיהם חמשה ושבעים אלף ובבזה לא שלחו את ידם",
+  "translation": "至于其余在王各省的犹太人,也聚集起来,为自保而站立,并从仇敌得安息,击杀恨他们的人,七万五千,但在掠物上,他们没有伸出⟨את⟩手",
   "tokens": [
     {
       "surface": "ושאר",
-      "english": "וОתר"
+      "english": "至于其余"
     },
     {
       "surface": "היהודים",
-      "english": "היהודים"
+      "english": "在王各省的犹太人"
     },
     {
       "surface": "אשר",
-      "english": "אשר"
+      "english": "也"
     },
     {
       "surface": "במדינות",
-      "english": "במדינות"
+      "english": "在王各省"
     },
     {
       "surface": "המלך",
-      "english": "המלך"
+      "english": "王"
     },
     {
       "surface": "נקהלו",
-      "english": "נקהלו"
+      "english": "聚集起来"
     },
     {
       "surface": "ועמד",
-      "english": "ועמד"
+      "english": "站立"
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "为"
     },
     {
       "surface": "נפשם",
-      "english": "נפשם"
+      "english": "自保"
     },
     {
       "surface": "ונוח",
-      "english": "ונוח"
+      "english": "安息"
     },
     {
       "surface": "מאיביהם",
-      "english": "מאיביהם"
+      "english": "从仇敌"
     },
     {
       "surface": "והרג",
-      "english": "והרג"
+      "english": "击杀"
     },
     {
       "surface": "בשנאיהם",
-      "english": "בשנאיהם"
+      "english": "恨他们的人"
     },
     {
       "surface": "חמשה",
-      "english": "חמשה"
+      "english": "五"
     },
     {
       "surface": "ושבעים",
-      "english": "ושבעים"
+      "english": "七十"
     },
     {
       "surface": "אלף",
-      "english": "אלף"
+      "english": "千"
     },
     {
       "surface": "ובבזה",
-      "english": "ובבזה"
+      "english": "但在掠物上"
     },
     {
       "surface": "לא",
-      "english": "לא"
+      "english": "没有"
     },
     {
       "surface": "שלחו",
-      "english": "שלחו"
+      "english": "伸出"
     },
     {
       "surface": "את",
-      "english": "את"
+      "english": "⟨את⟩",
+      "marks": "手"
     },
     {
       "surface": "ידם",
-      "english": "ידם"
+      "english": "手"
     }
   ],
-  "timestamp": "2026-07-18T01:27:19.934430254Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:20.914190044Z",
+  "model": "glm-4.5"
 }

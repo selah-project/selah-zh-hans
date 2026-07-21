@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "proverbs 7:10",
   "book": "proverbs",
   "lang": "zh-Hans",
   "chapter": 7,
   "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54361,
+    "completion_tokens": 414,
+    "prompt_tokens": 54360,
     "prompt_tokens_details": {
       "cached_tokens": 53376
     },
-    "total_tokens": 54790
+    "total_tokens": 54774
   },
-  "translation": "看哪,有一个女人 לקראתו;שִׁית 是妓女的,וּ\/נְצֻרַת לֵב。",
+  "translation": "看哪,有一个妇女出来迎向他,装扮得像妓女,且心中藏匿 ⟨计谋⟩",
   "tokens": [
     {
       "surface": "והנה",
@@ -24,29 +21,29 @@
     },
     {
       "surface": "אשה",
-      "english": "一个女人"
+      "english": "有一个妇女"
     },
     {
       "surface": "לקראתו",
-      "english": "迎着他 (לקראתו)"
+      "english": "出来迎向他"
     },
     {
       "surface": "שית",
-      "english": "衣着 (שִׁית)"
+      "english": "装扮得像妓女"
     },
     {
       "surface": "זונה",
-      "english": "是妓女的"
+      "english": "妓女"
     },
     {
       "surface": "ונצרת",
-      "english": "且诡诈 (וּנְצֻרַת)"
+      "english": "且心中藏匿"
     },
     {
       "surface": "לב",
-      "english": "心的"
+      "english": "计谋"
     }
   ],
-  "timestamp": "2026-07-18T00:35:53.749015126Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:13:58.026069581Z",
+  "model": "glm-4.5"
 }

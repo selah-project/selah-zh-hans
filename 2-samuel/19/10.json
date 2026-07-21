@@ -1,112 +1,109 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 10,
   "ref": "2-samuel 19:10",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 19,
   "usage": {
-    "completion_tokens": 1613,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20120,
+    "completion_tokens": 650,
+    "prompt_tokens": 20213,
     "prompt_tokens_details": {
-      "cached_tokens": 4928
+      "cached_tokens": 17664
     },
-    "total_tokens": 21733
+    "total_tokens": 20863
   },
-  "translation": "כָל הָ\/עָם נָדוֹן בְּ\/כָל שִׁבְטֵי יִשְׂרָאֵל לֵ\/אמֹר：הַ\/מֶּלֶךְ הִצִּילָ\/נוּ מִ\/כַּף אֹיְבֵי\/נוּ，וְ\/ה֤וּא מִלְּטָ\/נוּ מִ\/כַּף פְּלִשְׁתִּים，וְ\/עַתָּ֛ה בָּרַח מִן הָ\/אָ֖רֶץ מֵ\/עַ֥ל אַבְשָׁלֽוֹם。",
+  "translation": "全体百姓在以色列全支派中彼此争论,说:王救了我们脱离仇敌的手,又救我们脱离非利士人的手;现在他却为了押沙龙逃出了这地。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "וַ\/יְהִי — ⟨וַ\/יְהִי⟩"
+      "english": "全体...发生了"
     },
     {
       "surface": "כל",
-      "english": "כָל — כֹּל (הַ\/שֵּׁם)"
+      "english": "全体"
     },
     {
       "surface": "העם",
-      "english": "הָ\/עָם — הָ\/עָם"
+      "english": "百姓"
     },
     {
       "surface": "נדון",
-      "english": "נָדוֹן — נָדוֹן"
+      "english": "彼此争论"
     },
     {
       "surface": "בכל",
-      "english": "בְּ\/כָל — בְּ\/כֹל"
+      "english": "在...全"
     },
     {
       "surface": "שבטי",
-      "english": "שִׁבְטֵי — שִׁבְטֵי"
+      "english": "支派"
     },
     {
       "surface": "ישראל",
-      "english": "יִשְׂרָאֵל — יִשְׂרָאֵל"
+      "english": "以色列"
     },
     {
       "surface": "לאמר",
-      "english": "לֵ\/אמֹר — לֵ\/אמֹר"
+      "english": "说"
     },
     {
       "surface": "המלך",
-      "english": "הַ\/מֶּלֶךְ — הַ\/מֶּלֶךְ"
+      "english": "王"
     },
     {
       "surface": "הצילנו",
-      "english": "הִצִּילָ\/נוּ — הִצִּילָ\/נוּ"
+      "english": "救了我们"
     },
     {
       "surface": "מכף",
-      "english": "מִ\/כַּף — מִ\/כַּף"
+      "english": "脱离...的手"
     },
     {
       "surface": "איבינו",
-      "english": "אֹיְבֵי\/נוּ — אֹיְבֵי\/נוּ"
+      "english": "仇敌"
     },
     {
       "surface": "והוא",
-      "english": "וְ\/ה֤וּא — וְ\/ה֤וּא"
+      "english": "而"
     },
     {
       "surface": "מלטנו",
-      "english": "מִלְּטָ\/נוּ — מִלְּטָ\/נוּ"
+      "english": "救了(我们)"
     },
     {
       "surface": "מכף",
-      "english": "מִ\/כַּף — מִ\/כַּף"
+      "english": "脱离...的手"
     },
     {
       "surface": "פלשתים",
-      "english": "פְּלִשְׁתִּים — פְּלִשְׁתִּים"
+      "english": "非利士人"
     },
     {
       "surface": "ועתה",
-      "english": "וְ\/עַתָּ֛ה — וְ\/עַתָּה"
+      "english": "现在"
     },
     {
       "surface": "ברח",
-      "english": "בָּרַח — בָּרַח"
+      "english": "逃出了"
     },
     {
       "surface": "מן",
-      "english": "מִן — מִן"
+      "english": "从"
     },
     {
       "surface": "הארץ",
-      "english": "הָ\/אָ֖רֶץ — הָ\/אָרֶץ"
+      "english": "这地"
     },
     {
       "surface": "מעל",
-      "english": "מֵ\/עַ֥ל — מֵ\/עַל"
+      "english": "为了...缘故 \/ 脱离"
     },
     {
       "surface": "אבשלום",
-      "english": "אַבְשָׁלֽוֹם — אַבְשָׁלוֹם"
+      "english": "押沙龙"
     }
   ],
-  "timestamp": "2026-07-18T03:13:24.061403727Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:34.349488887Z",
+  "model": "glm-4.5"
 }

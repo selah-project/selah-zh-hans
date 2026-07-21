@@ -1,105 +1,102 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 23,
   "ref": "2-samuel 15:23",
   "book": "2-samuel",
   "lang": "zh-Hans",
   "chapter": 15,
   "usage": {
-    "completion_tokens": 954,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20013,
+    "completion_tokens": 608,
+    "prompt_tokens": 20078,
     "prompt_tokens_details": {
       "cached_tokens": 17664
     },
-    "total_tokens": 20967
+    "total_tokens": 20686
   },
-  "translation": "כל הארץ בוכים קול גדול, וכל העם עֹבְרִים; והמלך עֹבֵר בנחל קדרון, וכל העם עֹבְרִים על פני הדרך אל מול ⟨את⟩ המדבר.",
+  "translation": "全地都在大声哭泣,众民都 ⟨正在⟩ 过去,王也 ⟨正在⟩ 过汲沦溪,众民都 ⟨正在⟩ 过去,直 ⟨往⟩ 旷野 ⟨את⟩ 路 ⟨的⟩ 方向",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "וכל"
+      "english": "全"
     },
     {
       "surface": "הארץ",
-      "english": "הארץ"
+      "english": "地"
     },
     {
       "surface": "בוכים",
-      "english": "בוכים"
+      "english": "都在哭泣"
     },
     {
       "surface": "קול",
-      "english": "בקול"
+      "english": "大声"
     },
     {
       "surface": "גדול",
-      "english": "גדול"
+      "english": ""
     },
     {
       "surface": "וכל",
-      "english": "וכל"
+      "english": "众"
     },
     {
       "surface": "העם",
-      "english": "העם"
+      "english": "民"
     },
     {
       "surface": "עברים",
-      "english": "עֹבְרִים"
+      "english": "都 ⟨正在⟩ 过去"
     },
     {
       "surface": "והמלך",
-      "english": "והמלך"
+      "english": "王也"
     },
     {
       "surface": "עבר",
-      "english": "עֹבֵר"
+      "english": "⟨正在⟩ 过"
     },
     {
       "surface": "בנחל",
-      "english": "בנחל"
+      "english": "汲沦溪"
     },
     {
       "surface": "קדרון",
-      "english": "קדרון"
+      "english": ""
     },
     {
       "surface": "וכל",
-      "english": "וכל"
+      "english": "众"
     },
     {
       "surface": "העם",
-      "english": "העם"
+      "english": "民"
     },
     {
       "surface": "עברים",
-      "english": "עֹבְרִים"
+      "english": "都 ⟨正在⟩ 过去"
     },
     {
       "surface": "על",
-      "english": "על"
+      "english": "直 ⟨往⟩"
     },
     {
       "surface": "פני",
-      "english": "פני"
+      "english": "方向"
     },
     {
       "surface": "דרך",
-      "english": "הדרך"
+      "english": "路 ⟨的⟩"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "המדבר"
+      "marks": "旷野路"
     },
     {
       "surface": "המדבר",
-      "english": "המדבר"
+      "english": "旷野"
     }
   ],
-  "timestamp": "2026-07-17T20:48:40.574855274Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:03.153023962Z",
+  "model": "glm-4.5"
 }

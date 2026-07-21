@@ -1,72 +1,69 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 41,
   "ref": "judges 20:41",
   "book": "judges",
   "lang": "zh-Hans",
   "chapter": 20,
   "usage": {
-    "completion_tokens": 761,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18198,
+    "completion_tokens": 456,
+    "prompt_tokens": 18275,
     "prompt_tokens_details": {
-      "cached_tokens": 16640
+      "cached_tokens": 4864
     },
-    "total_tokens": 18959
+    "total_tokens": 18731
   },
-  "translation": "וְ\/אִישׁ יִשְׂרָאֵל הָפַךְ וַ\/יִּבָּהֵל אִישׁ בִּנְיָמִן כִּי רָאָה כִּי נָגְעָה עָלָי\/ו הָ\/רָעָה",
+  "translation": "以色列人转回,便雅悯人就惊恐,因为他们看见灾祸临到了他们身上。",
   "tokens": [
     {
-      "surface": "וְ\/אִ֤ישׁ",
-      "english": "于是，以色列的每一个人"
+      "surface": "ואיש",
+      "english": "以色列人"
     },
     {
-      "surface": "יִשְׂרָאֵל֙",
+      "surface": "ישראל",
       "english": "以色列"
     },
     {
-      "surface": "הָפַ֔ךְ",
-      "english": "转身（反击）"
+      "surface": "הפך",
+      "english": "转回"
     },
     {
-      "surface": "וַ\/יִּבָּהֵ֖ל",
-      "english": "便陷入恐慌"
+      "surface": "ויבהל",
+      "english": "便雅悯人就惊恐"
     },
     {
-      "surface": "אִ֣ישׁ",
-      "english": "每一个人"
+      "surface": "איש",
+      "english": "便雅悯人"
     },
     {
-      "surface": "בִּנְיָמִ֑ן",
-      "english": "便雅悯（人）"
+      "surface": "בנימן",
+      "english": "便雅悯"
     },
     {
-      "surface": "כִּ֣י",
+      "surface": "כי",
       "english": "因为"
     },
     {
-      "surface": "רָאָ֔ה",
-      "english": "⟨他⟩看见"
+      "surface": "ראה",
+      "english": "看见"
     },
     {
-      "surface": "כִּֽי",
-      "english": "那"
+      "surface": "כי",
+      "english": "⟨that⟩"
     },
     {
-      "surface": "נָגְעָ֥ה",
-      "english": "已经触及"
+      "surface": "נגעה",
+      "english": "临到"
     },
     {
-      "surface": "עָלָ֖י\/ו",
-      "english": "临到他们身上"
+      "surface": "עליו",
+      "english": "他们身上"
     },
     {
-      "surface": "הָ\/רָעָֽה",
+      "surface": "הרעה",
       "english": "灾祸"
     }
   ],
-  "timestamp": "2026-07-17T20:20:15.688993354Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:42.457180768Z",
+  "model": "glm-4.5"
 }

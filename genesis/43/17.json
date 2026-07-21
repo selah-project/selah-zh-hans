@@ -1,69 +1,66 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 17,
   "ref": "genesis 43:17",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 43,
   "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23240,
+    "completion_tokens": 435,
+    "prompt_tokens": 23305,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23754
+    "total_tokens": 23740
   },
-  "translation": "האישׁ עשה כאשר אמר יוסף, והאישׁ הביא את האנשים ביתה יוסף.",
+  "translation": "那人照约瑟所说的做了, ⟨并且⟩ 那人带 ⟨这些⟩ 人 ⟨到⟩ 约瑟的家",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "ועשה"
+      "english": "那人...做了"
     },
     {
       "surface": "האיש",
-      "english": "האיש"
+      "english": "那人"
     },
     {
       "surface": "כאשר",
-      "english": "כאשר"
+      "english": "照"
     },
     {
       "surface": "אמר",
-      "english": "אמר"
+      "english": "所说的"
     },
     {
       "surface": "יוסף",
-      "english": "יוסף"
+      "english": "约瑟"
     },
     {
       "surface": "ויבא",
-      "english": "והביא"
+      "english": "带"
     },
     {
       "surface": "האיש",
-      "english": "האיש"
+      "english": "那人"
     },
     {
       "surface": "את",
       "english": "⟨את⟩",
-      "marks": "האנשים"
+      "marks": "这些 人"
     },
     {
       "surface": "האנשים",
-      "english": "האנשים"
+      "english": "人"
     },
     {
       "surface": "ביתה",
-      "english": "ביתה"
+      "english": "到...的家"
     },
     {
       "surface": "יוסף",
-      "english": "יוסף"
+      "english": "约瑟"
     }
   ],
-  "timestamp": "2026-07-17T18:03:17.723334473Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:14:16.321343857Z",
+  "model": "glm-4.5"
 }

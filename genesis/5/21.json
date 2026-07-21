@@ -1,57 +1,54 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 21,
   "ref": "genesis 5:21",
   "book": "genesis",
   "lang": "zh-Hans",
   "chapter": 5,
   "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22966,
+    "completion_tokens": 318,
+    "prompt_tokens": 23047,
     "prompt_tokens_details": {
-      "cached_tokens": 21824
+      "cached_tokens": 21760
     },
-    "total_tokens": 23367
+    "total_tokens": 23365
   },
-  "translation": "חנוך 以诺活了六十五岁，就生了 ⟨את⟩ מתושלח מְתוּשָֽׁלַח־מַתְתוּשָׁלַח（玛土撒拉）。",
+  "translation": "哈诺克活了六十五岁,并且生养 ⟨את⟩ 玛土撒拉。",
   "tokens": [
     {
-      "surface": "וַֽ\/יְחִ֣י",
+      "surface": "ויחי",
       "english": "活了"
     },
     {
-      "surface": "חֲנ֔וֹךְ",
-      "english": "חנוך 以诺"
+      "surface": "חנוך",
+      "english": "哈诺克"
     },
     {
-      "surface": "חָמֵ֥שׁ",
-      "english": "五"
+      "surface": "חמש",
+      "english": "六"
     },
     {
-      "surface": "וְ\/שִׁשִּׁ֖ים",
-      "english": "和六十"
+      "surface": "וששים",
+      "english": "十五"
     },
     {
-      "surface": "שָׁנָ֑ה",
+      "surface": "שנה",
       "english": "岁"
     },
     {
-      "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "就生了"
+      "surface": "ויולד",
+      "english": "并且生养"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "english": "⟨את⟩",
-      "marks": "מתושלח（玛土撒拉）"
+      "marks": "玛土撒拉"
     },
     {
-      "surface": "מְתוּשָֽׁלַח",
-      "english": "מתושלח（玛土撒拉）"
+      "surface": "מתושלח",
+      "english": "玛土撒拉"
     }
   ],
-  "timestamp": "2026-07-17T17:36:05.210639898Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:11:15.022800166Z",
+  "model": "glm-4.5"
 }

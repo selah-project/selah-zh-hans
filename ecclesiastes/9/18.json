@@ -1,60 +1,57 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 18,
   "ref": "ecclesiastes 9:18",
   "book": "ecclesiastes",
   "lang": "zh-Hans",
   "chapter": 9,
   "usage": {
-    "completion_tokens": 892,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18982,
+    "completion_tokens": 369,
+    "prompt_tokens": 18981,
     "prompt_tokens_details": {
-      "cached_tokens": 17856
+      "cached_tokens": 17792
     },
-    "total_tokens": 19874
+    "total_tokens": 19350
   },
-  "translation": "טוֹבָה חָכְמָה מִכְּלֵי קְרָב, וְחוֹטֶא אֶחָד יְאַבֵּד טוֹבָה הַרְבֵּה׃",
+  "translation": "智慧胜过争战的兵器，但一个罪人毁坏许多美善。",
   "tokens": [
     {
       "surface": "טובה",
-      "english": "טוֹבָה"
+      "english": "智慧胜过"
     },
     {
       "surface": "חכמה",
-      "english": "חָכְמָה"
+      "english": "智慧"
     },
     {
       "surface": "מכלי",
-      "english": "מִכְּלֵי"
+      "english": "胜过"
     },
     {
       "surface": "קרב",
-      "english": "קְרָב"
+      "english": "争战的兵器"
     },
     {
       "surface": "וחוטא",
-      "english": "וְחוֹטֶא"
+      "english": "但一个罪人"
     },
     {
       "surface": "אחד",
-      "english": "אֶחָד"
+      "english": "一个"
     },
     {
       "surface": "יאבד",
-      "english": "יְאַבֵּד"
+      "english": "毁坏"
     },
     {
       "surface": "טובה",
-      "english": "טוֹבָה"
+      "english": "美善"
     },
     {
       "surface": "הרבה",
-      "english": "הַרְבֵּה"
+      "english": "许多"
     }
   ],
-  "timestamp": "2026-07-18T01:22:17.811952272Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T13:15:16.972886397Z",
+  "model": "glm-4.5"
 }
