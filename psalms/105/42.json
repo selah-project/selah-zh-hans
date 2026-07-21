@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 105,
+  "usage": {
+    "completion_tokens": 430,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64631,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 65061
+  },
+  "translation": "因为他记念他的圣 *davar*，⟨את⟩ 阿伯拉罕他的仆人。",
+  "tokens": [
+    {
+      "surface": "כי",
+      "english": "因为"
+    },
+    {
+      "surface": "זכר",
+      "english": "他记念"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "他的圣 davar"
+    },
+    {
+      "surface": "דבר",
+      "english": "他的圣 *davar* (话\/应许)"
+    },
+    {
+      "surface": "קדשו",
+      "english": "他的圣"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "阿伯拉罕他的仆人"
+    },
+    {
+      "surface": "אברהם",
+      "english": "阿伯拉罕"
+    },
+    {
+      "surface": "עבדו",
+      "english": "他的仆人"
+    }
+  ],
+  "timestamp": "2026-07-18T00:17:00.146876284Z",
+  "model": "glm-5.2"
+}

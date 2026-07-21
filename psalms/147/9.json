@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 147,
+  "usage": {
+    "completion_tokens": 355,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64449,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 64804
+  },
+  "translation": "赐给走兽 ⟨את⟩ 它的食物，给乌鸦的雏鸟，就是那些呼求的。",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "english": "赐给"
+    },
+    {
+      "surface": "לבהמה",
+      "english": "给走兽"
+    },
+    {
+      "surface": "לחמה",
+      "english": "⟨את⟩ 它的食物",
+      "marks": "它的食物"
+    },
+    {
+      "surface": "לבני",
+      "english": "给……的雏鸟"
+    },
+    {
+      "surface": "ערב",
+      "english": "乌鸦"
+    },
+    {
+      "surface": "אשר",
+      "english": "就是那些"
+    },
+    {
+      "surface": "יקראו",
+      "english": "呼求"
+    }
+  ],
+  "timestamp": "2026-07-18T00:31:35.158589767Z",
+  "model": "glm-5.2"
+}

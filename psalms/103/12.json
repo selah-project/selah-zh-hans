@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 103,
+  "usage": {
+    "completion_tokens": 379,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64591,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 64970
+  },
+  "translation": "如东方离西方之远，⟨他⟩将我们的过犯远离了我们⟨את⟩。",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "english": "如……之远"
+    },
+    {
+      "surface": "מזרח",
+      "english": "东方"
+    },
+    {
+      "surface": "ממערב",
+      "english": "离西方"
+    },
+    {
+      "surface": "הרחיק",
+      "english": "⟨他⟩将……远离"
+    },
+    {
+      "surface": "ממנו",
+      "english": "了我们"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "我们的过犯"
+    },
+    {
+      "surface": "פשעינו",
+      "english": "我们的过犯"
+    }
+  ],
+  "timestamp": "2026-07-18T00:15:31.468601567Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "zh-Hans",
+  "chapter": 20,
+  "usage": {
+    "completion_tokens": 585,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 19326,
+    "prompt_tokens_details": {
+      "cached_tokens": 17920
+    },
+    "total_tokens": 19911
+  },
+  "translation": "凡将自己的交合给⟨את⟩兽的男子,必被处死,⟨而⟩⟨את⟩那兽你们要杀死。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "english": "凡……的男子"
+    },
+    {
+      "surface": "אשר",
+      "english": "（关系代词,引导定语从句）"
+    },
+    {
+      "surface": "יתן",
+      "english": "他将……给"
+    },
+    {
+      "surface": "שכבתו",
+      "english": "他的交合"
+    },
+    {
+      "surface": "בבהמה",
+      "english": "给兽"
+    },
+    {
+      "surface": "מות",
+      "english": "死"
+    },
+    {
+      "surface": "יומת",
+      "english": "必被处死"
+    },
+    {
+      "surface": "ואת",
+      "english": "⟨את⟩",
+      "marks": "那兽"
+    },
+    {
+      "surface": "הבהמה",
+      "english": "那兽"
+    },
+    {
+      "surface": "תהרגו",
+      "english": "你们要杀死"
+    }
+  ],
+  "timestamp": "2026-07-17T18:54:26.325792309Z",
+  "model": "glm-5.2"
+}

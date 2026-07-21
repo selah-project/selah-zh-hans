@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "zh-Hans",
+  "chapter": 14,
+  "usage": {
+    "completion_tokens": 497,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 19040,
+    "prompt_tokens_details": {
+      "cached_tokens": 18048
+    },
+    "total_tokens": 19537
+  },
+  "translation": "以及תן-pelican, ואת-the-cormorant, ואת-the-gier-eagle",
+  "tokens": [
+    {
+      "surface": "וְ\/הַ\/קָּאָ֥ת",
+      "english": "以及תן-pelican",
+      "notes": [
+        {
+          "kind": "hapax",
+          "subject": "קאת",
+          "rationale": "קאת (pelican) is a hapax legomenon, appearing only here in the Tanakh."
+        }
+      ]
+    },
+    {
+      "surface": "וְ\/אֶֽת",
+      "english": "ו"
+    },
+    {
+      "surface": "הָ\/רָחָ֖מָ\/ה",
+      "english": "the-cormorant",
+      "notes": [
+        {
+          "kind": "crux",
+          "subject": "רחמה",
+          "rationale": "Identity is uncertain; typically rendered 'cormorant' or 'vulture', based on context."
+        }
+      ]
+    },
+    {
+      "surface": "וְ\/אֶֽת",
+      "english": "ו"
+    },
+    {
+      "surface": "הַ\/שָּׁלָֽךְ",
+      "english": "the-gier-eagle",
+      "notes": [
+        {
+          "kind": "crux",
+          "subject": "שלך",
+          "rationale": "Identity is uncertain; often rendered 'gier-eagle', 'osprey', or 'fish-hawk'."
+        }
+      ]
+    }
+  ],
+  "timestamp": "2026-07-17T19:36:49.445866557Z",
+  "model": "glm-5.2"
+}

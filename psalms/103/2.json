@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 103,
+  "usage": {
+    "completion_tokens": 408,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64651,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 65059
+  },
+  "translation": "我的*内我*,你要称颂雅威,⟨את⟩;他的众报偿,你不可忘记一样。",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "english": "你要称颂"
+    },
+    {
+      "surface": "נפשי",
+      "english": "我的*内我*"
+    },
+    {
+      "surface": "את",
+      "english": "⟨את⟩",
+      "marks": "雅威"
+    },
+    {
+      "surface": "יהוה",
+      "english": "雅威"
+    },
+    {
+      "surface": "ואל",
+      "english": "不可"
+    },
+    {
+      "surface": "תשכחי",
+      "english": "你忘记"
+    },
+    {
+      "surface": "כל",
+      "english": "一样"
+    },
+    {
+      "surface": "גמוליו",
+      "english": "他的众报偿"
+    }
+  ],
+  "timestamp": "2026-07-18T00:15:23.031226003Z",
+  "model": "glm-5.2"
+}

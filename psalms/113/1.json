@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 113,
+  "usage": {
+    "completion_tokens": 727,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64697,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 65424
+  },
+  "translation": "הללוּ אֶת־יָהּ! הַלְלוּ, עֲבָדָיו שֶׁל יְהֹוָה; הַלְלוּ אֶת שֵׁם יְהֹוָה!",
+  "tokens": [
+    {
+      "source": "הַ֭לְלוּ",
+      "translit": "הַלְלוּ",
+      "grammar": "ציווי, קל, ז׳, זכר",
+      "semitic": "הלל"
+    },
+    {
+      "source": "יָ֨הּ",
+      "translit": "יָהּ",
+      "grammar": "שם עצם, פרטי, זכר",
+      "semitic": null
+    },
+    {
+      "source": "הַ֥לְלוּ",
+      "translit": "הַלְלוּ",
+      "grammar": "ציווי, קל, ז׳, זכר",
+      "semitic": "הלל"
+    },
+    {
+      "source": "עַבְדֵ֣י",
+      "translit": "עַבְדֵי",
+      "grammar": "שם עצם, כללי, זכר, נסמך",
+      "semitic": "עבד"
+    },
+    {
+      "source": "יְהוָ֑ה",
+      "translit": "יְהֹוָה",
+      "grammar": "שם עצם, פרטי",
+      "semitic": null
+    },
+    {
+      "source": "הַֽ֝לְלוּ",
+      "translit": "הַלְלוּ",
+      "grammar": "ציווי, קל, ז׳, זכר",
+      "semitic": "הלל"
+    },
+    {
+      "source": "אֶת",
+      "translit": "אֶת",
+      "grammar": "מילית אובייקט ישיר",
+      "semitic": null
+    },
+    {
+      "source": "שֵׁ֥ם",
+      "translit": "שֵׁם",
+      "grammar": "שם עצם, כללי, זכר, נסמך",
+      "semitic": "שם"
+    },
+    {
+      "source": "יְהוָֽה",
+      "translit": "יְהֹוָה",
+      "grammar": "שם עצם, פרטי",
+      "semitic": null
+    }
+  ],
+  "timestamp": "2026-07-18T00:20:33.171261933Z",
+  "model": "glm-5.2"
+}

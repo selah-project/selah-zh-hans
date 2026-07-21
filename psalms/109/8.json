@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 109,
+  "usage": {
+    "completion_tokens": 358,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64298,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 64656
+  },
+  "translation": "愿他的日子 ⟨变⟩ 少；愿 ⟨את⟩ 他的职分 ⟨被⟩ 别人取去。",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "english": "愿……变"
+    },
+    {
+      "surface": "ימיו",
+      "english": "他的日子"
+    },
+    {
+      "surface": "מעטים",
+      "english": "少"
+    },
+    {
+      "surface": "פקדתו",
+      "english": "⟨את⟩ 他的职分",
+      "marks": "他的职分"
+    },
+    {
+      "surface": "יקח",
+      "english": "取去"
+    },
+    {
+      "surface": "אחר",
+      "english": "别人"
+    }
+  ],
+  "timestamp": "2026-07-18T00:19:13.620504204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "zh-Hans",
+  "chapter": 6,
+  "usage": {
+    "completion_tokens": 347,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 63915,
+    "prompt_tokens_details": {
+      "cached_tokens": 62784
+    },
+    "total_tokens": 64262
+  },
+  "translation": "⟨而⟩⟨את⟩房屋的地面，他铺以黄金，向内⟨和⟩向外。",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "english": "⟨而⟩⟨את⟩",
+      "marks": "房屋的地面"
+    },
+    {
+      "surface": "קרקע",
+      "english": "地面"
+    },
+    {
+      "surface": "הבית",
+      "english": "房屋的"
+    },
+    {
+      "surface": "צפה",
+      "english": "他铺以"
+    },
+    {
+      "surface": "זהב",
+      "english": "黄金"
+    },
+    {
+      "surface": "לפנימה",
+      "english": "向内"
+    },
+    {
+      "surface": "ולחיצון",
+      "english": "⟨和⟩向外"
+    }
+  ],
+  "timestamp": "2026-07-17T21:00:57.082921153Z",
+  "model": "glm-5.2"
+}

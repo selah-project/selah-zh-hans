@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "zh-Hans",
+  "chapter": 92,
+  "usage": {
+    "completion_tokens": 215,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 64167,
+    "prompt_tokens_details": {
+      "cached_tokens": 63424
+    },
+    "total_tokens": 64382
+  },
+  "translation": "诗篇，一首歌，为安息日 ⟨的⟩ 日子⟨而作⟩。",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "english": "诗篇"
+    },
+    {
+      "surface": "שיר",
+      "english": "一首歌"
+    },
+    {
+      "surface": "ליום",
+      "english": "为……的日子"
+    },
+    {
+      "surface": "השבת",
+      "english": "安息日"
+    }
+  ],
+  "timestamp": "2026-07-18T00:12:14.375713785Z",
+  "model": "glm-5.2"
+}
