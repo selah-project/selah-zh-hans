@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-kings 18:17",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64362,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64842
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:12:17.988127857Z",
   "translation": "当亚哈看见⟨את⟩以利亚的时候,亚哈对他说:难道你就是搅扰以色列的那个人吗?",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "当……的时候"
+      "gloss": "当……的时候"
     },
     {
       "surface": "כראות",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以利亚"
     },
     {
       "surface": "אליהו",
-      "english": "以利亚"
+      "gloss": "以利亚"
     },
     {
       "surface": "ויאמר",
-      "english": "……说"
+      "gloss": "……说"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "האתה",
-      "english": "难道你"
+      "gloss": "难道你"
     },
     {
       "surface": "זה",
-      "english": "就是那个人"
+      "gloss": "就是那个人"
     },
     {
       "surface": "עכר",
-      "english": "搅扰"
+      "gloss": "搅扰"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:12:17.988127857Z",
-  "model": "glm-5.2"
+  ]
 }

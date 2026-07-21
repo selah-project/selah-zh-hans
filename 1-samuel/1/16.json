@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-samuel 1:16",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18653,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19257
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:50:14.014120789Z",
   "translation": "不要把⟨את⟩你的婢女交在比利的女儿面前,因为我从倾诉之多和苦恼之中说话,直到如今。\"",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתן",
-      "english": "把……交"
+      "gloss": "把……交"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的婢女"
     },
     {
       "surface": "אמתך",
-      "english": "你的婢女"
+      "gloss": "你的婢女"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "בליעל",
-      "english": "比利的"
+      "gloss": "比利的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מרב",
-      "english": "从……之多"
+      "gloss": "从……之多"
     },
     {
       "surface": "שיחי",
-      "english": "我的倾诉"
+      "gloss": "我的倾诉"
     },
     {
       "surface": "וכעסי",
-      "english": "和我的苦恼"
+      "gloss": "和我的苦恼"
     },
     {
       "surface": "דברתי",
-      "english": "我说话"
+      "gloss": "我说话"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הנה",
-      "english": "如今"
+      "gloss": "如今"
     }
-  ],
-  "timestamp": "2026-07-18T02:50:14.014120789Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "numbers 4:44",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19473,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19913
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:35.653888885Z",
   "translation": "他们被数点的 ⟨人⟩，按他们的父家，是三千二百 ⟨人⟩。",
   "tokens": [
     {
       "surface": "וַ\/יִּהְי֥וּ",
-      "english": "他们 ⟨是⟩"
+      "gloss": "他们 ⟨是⟩"
     },
     {
       "surface": "פְקֻדֵי\/הֶ֖ם",
-      "english": "他们被数点的 ⟨人⟩"
+      "gloss": "他们被数点的 ⟨人⟩"
     },
     {
       "surface": "לְ\/מִשְׁפְּחֹתָ֑\/ם",
-      "english": "按他们的父家"
+      "gloss": "按他们的父家"
     },
     {
       "surface": "שְׁלֹ֥שֶׁת",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "אֲלָפִ֖ים",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וּ\/מָאתָֽיִם",
-      "english": "和二百"
+      "gloss": "和二百"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:35.653888885Z",
-  "model": "glm-5.2"
+  ]
 }

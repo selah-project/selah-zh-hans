@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "micah 4:4",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17906,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18438
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:25:50.202468280Z",
   "translation": "他们各人都要坐在自己的葡萄树下和无花果树下,无人惊吓;因为万军之雅威的口已经说话了。",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "他们都要坐"
+      "gloss": "他们都要坐"
     },
     {
       "surface": "אישׁ",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "תַּחַת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "גַּפְנוֹ",
-      "english": "他的葡萄树"
+      "gloss": "他的葡萄树"
     },
     {
       "surface": "ותחת",
-      "english": "和在……之下"
+      "gloss": "和在……之下"
     },
     {
       "surface": "תְּאֵנָתוֹ",
-      "english": "他的无花果树"
+      "gloss": "他的无花果树"
     },
     {
       "surface": "ואין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "מַחֲרִיד",
-      "english": "惊吓⟨他们⟩的"
+      "gloss": "惊吓⟨他们⟩的"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "פִּי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צְבָא֫וֹת",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "דִּבֵּֽר",
-      "english": "已经说话了"
+      "gloss": "已经说话了"
     }
-  ],
-  "timestamp": "2026-07-17T23:25:50.202468280Z",
-  "model": "glm-5.2"
+  ]
 }

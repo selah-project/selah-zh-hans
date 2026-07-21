@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 1:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18677,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18999
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:23.892166888Z",
   "translation": "于是兴起了一位新王统治埃及，他未曾认识⟨את⟩约瑟。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "于是兴起"
+      "gloss": "于是兴起"
     },
     {
       "surface": "מלך",
-      "english": "一位王"
+      "gloss": "一位王"
     },
     {
       "surface": "חדש",
-      "english": "新的"
+      "gloss": "新的"
     },
     {
       "surface": "על",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "אשר",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "לא",
-      "english": "未曾"
+      "gloss": "未曾"
     },
     {
       "surface": "ידע",
-      "english": "认识"
+      "gloss": "认识"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约瑟"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:23.892166888Z",
-  "model": "glm-5.2"
+  ]
 }

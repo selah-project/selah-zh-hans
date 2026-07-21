@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 21:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64657,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65151
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:02.616417731Z",
   "translation": "因为你使他成为永远的祝福，你以⟨את⟩你的面向的喜乐使他欢欣。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תשיתהו",
-      "english": "你使他"
+      "gloss": "你使他"
     },
     {
       "surface": "ברכות",
-      "english": "成为祝福"
+      "gloss": "成为祝福"
     },
     {
       "surface": "לעד",
-      "english": "永远的"
+      "gloss": "永远的"
     },
     {
       "surface": "תחדהו",
-      "english": "你使他欢欣"
+      "gloss": "你使他欢欣"
     },
     {
       "surface": "בשמחה",
-      "english": "以喜乐"
+      "gloss": "以喜乐"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的面向"
     },
     {
       "surface": "פניך",
-      "english": "你的面向"
+      "gloss": "你的面向"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:02.616417731Z",
-  "model": "glm-5.2"
+  ]
 }

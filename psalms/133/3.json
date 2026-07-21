@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 133:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 133,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65188,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65756
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:32.554431567Z",
   "translation": "如黑门的甘露，降在锡安的众山上；因为在那里雅威命定了⟨את⟩⟨那⟩祝福——永远的生命。",
   "tokens": [
     {
       "surface": "כטל",
-      "english": "如……的甘露"
+      "gloss": "如……的甘露"
     },
     {
       "surface": "חרמון",
-      "english": "黑门"
+      "gloss": "黑门"
     },
     {
       "surface": "שירד",
-      "english": "降在"
+      "gloss": "降在"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הררי",
-      "english": "众山"
+      "gloss": "众山"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "צוה",
-      "english": "命定了"
+      "gloss": "命定了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩祝福"
     },
     {
       "surface": "הברכה",
-      "english": "⟨那⟩祝福"
+      "gloss": "⟨那⟩祝福"
     },
     {
       "surface": "חיים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "העולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:32.554431567Z",
-  "model": "glm-5.2"
+  ]
 }

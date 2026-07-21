@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-samuel 14:10",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19050,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19529
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:47:43.872285569Z",
   "translation": "王说：那向你说话的人,你把他带到我这里来,他必不再碰你。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "המדבר",
-      "english": "那说话的⟨人⟩"
+      "gloss": "那说话的⟨人⟩"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "והבאתו",
-      "english": "你把他带来"
+      "gloss": "你把他带来"
     },
     {
       "surface": "אלי",
-      "english": "到我这里"
+      "gloss": "到我这里"
     },
     {
       "surface": "ולא",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "יסיף",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "עוד",
-      "english": "继续"
+      "gloss": "继续"
     },
     {
       "surface": "לגעת",
-      "english": "碰"
+      "gloss": "碰"
     },
     {
       "surface": "בך",
-      "english": "你"
+      "gloss": "你"
     }
-  ],
-  "timestamp": "2026-07-17T20:47:43.872285569Z",
-  "model": "glm-5.2"
+  ]
 }

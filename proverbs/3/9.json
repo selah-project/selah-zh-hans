@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 3:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54529,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54981
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:34.429967972Z",
   "translation": "你要用你的财物尊崇⟨את⟩雅威,并用你一切收成中的初熟之物尊崇他。",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "你要……尊崇"
+      "gloss": "你要……尊崇"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מהונך",
-      "english": "用你的财物"
+      "gloss": "用你的财物"
     },
     {
       "surface": "ומראשית",
-      "english": "并用……初熟之物"
+      "gloss": "并用……初熟之物"
     },
     {
       "surface": "כל",
-      "english": "你一切"
+      "gloss": "你一切"
     },
     {
       "surface": "תבואתך",
-      "english": "收成中的"
+      "gloss": "收成中的"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:34.429967972Z",
-  "model": "glm-5.2"
+  ]
 }

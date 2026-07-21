@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 18:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54401,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54871
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:47.920810328Z",
   "translation": "恶人来到时,藐视也⟨一同⟩来到;伴随羞辱的⟨是⟩辱骂。",
   "tokens": [
     {
       "surface": "בְּֽ\/בוֹא",
-      "english": "来到时"
+      "gloss": "来到时"
     },
     {
       "surface": "רָ֭שָׁע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "בָּ֣א",
-      "english": "⟨一同⟩来到"
+      "gloss": "⟨一同⟩来到"
     },
     {
       "surface": "גַם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "בּ֑וּז",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "וְֽ\/עִם",
-      "english": "伴随"
+      "gloss": "伴随"
     },
     {
       "surface": "קָל֥וֹן",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "חֶרְפָּֽה",
-      "english": "辱骂"
+      "gloss": "辱骂"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:47.920810328Z",
-  "model": "glm-5.2"
+  ]
 }

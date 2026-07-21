@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "lamentations 5:21",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33639,
-    "prompt_tokens_details": {
-      "cached_tokens": 9728
-    },
-    "total_tokens": 34067
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:07:39.626717199Z",
   "translation": "求你使我们转向你,雅威,我们就转回;更新我们的日子如古时一样。",
   "tokens": [
     {
       "surface": "השיבנו",
-      "english": "求你使我们转"
+      "gloss": "求你使我们转"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "ונשוב",
-      "english": "我们就转回"
+      "gloss": "我们就转回"
     },
     {
       "surface": "חדש",
-      "english": "更新"
+      "gloss": "更新"
     },
     {
       "surface": "ימינו",
-      "english": "我们的日子"
+      "gloss": "我们的日子"
     },
     {
       "surface": "כקדם",
-      "english": "如古时"
+      "gloss": "如古时"
     }
-  ],
-  "timestamp": "2026-07-18T03:07:39.626717199Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 118:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64199,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64648
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:54.809107382Z",
   "translation": "投靠雅威⟨是⟩美好,勝過信靠נדיבים (尊貴人)。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "美好"
+      "gloss": "美好"
     },
     {
       "surface": "לחסות",
-      "english": "投靠"
+      "gloss": "投靠"
     },
     {
       "surface": "ביהוה",
-      "english": "在雅威"
+      "gloss": "在雅威"
     },
     {
       "surface": "מבטח",
-      "english": "勝過信靠"
+      "gloss": "勝過信靠"
     },
     {
       "surface": "בנדיבים",
-      "english": "在נדיבים (尊貴人)"
+      "gloss": "在נדיבים (尊貴人)"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:54.809107382Z",
-  "model": "glm-5.2"
+  ]
 }

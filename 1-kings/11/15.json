@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-kings 11:15",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64762,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65278
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:06:22.202827426Z",
   "translation": "事情发生在大卫⟨与⟩以东同在的时候,元帅约押上去要埋葬⟨את⟩阵亡者,他就击杀了在以东的每一个男性。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生在"
+      "gloss": "事情发生在"
     },
     {
       "surface": "בהיות",
-      "english": "在……的时候"
+      "gloss": "在……的时候"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "את",
-      "english": "⟨与⟩"
+      "gloss": "⟨与⟩"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "בעלות",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "יואב",
-      "english": "约押"
+      "gloss": "约押"
     },
     {
       "surface": "שר",
-      "english": "元帅"
+      "gloss": "元帅"
     },
     {
       "surface": "הצבא",
-      "english": "军队的"
+      "gloss": "军队的"
     },
     {
       "surface": "לקבר",
-      "english": "要埋葬"
+      "gloss": "要埋葬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "阵亡者"
     },
     {
       "surface": "החללים",
-      "english": "阵亡者"
+      "gloss": "阵亡者"
     },
     {
       "surface": "ויך",
-      "english": "他就击杀了"
+      "gloss": "他就击杀了"
     },
     {
       "surface": "כל",
-      "english": "每一个"
+      "gloss": "每一个"
     },
     {
       "surface": "זכר",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "באדום",
-      "english": "在以东"
+      "gloss": "在以东"
     }
-  ],
-  "timestamp": "2026-07-17T21:06:22.202827426Z",
-  "model": "glm-5.2"
+  ]
 }

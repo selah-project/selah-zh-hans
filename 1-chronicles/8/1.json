@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-chronicles 8:1",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58803,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59161
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:39.883755097Z",
   "translation": "便雅悯生了⟨את⟩比拉，他的长子；亚实别第二，亚哈拉第三。",
   "tokens": [
     {
       "surface": "ובנימן",
-      "english": "便雅悯"
+      "gloss": "便雅悯"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "比拉"
     },
     {
       "surface": "בלע",
-      "english": "比拉"
+      "gloss": "比拉"
     },
     {
       "surface": "בכרו",
-      "english": "他的长子"
+      "gloss": "他的长子"
     },
     {
       "surface": "אשבל",
-      "english": "亚实别"
+      "gloss": "亚实别"
     },
     {
       "surface": "השני",
-      "english": "第二"
+      "gloss": "第二"
     },
     {
       "surface": "ואחרח",
-      "english": "亚哈拉"
+      "gloss": "亚哈拉"
     },
     {
       "surface": "השלישי",
-      "english": "第三"
+      "gloss": "第三"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:39.883755097Z",
-  "model": "glm-5.2"
+  ]
 }

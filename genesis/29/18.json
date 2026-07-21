@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 29:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23261,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23670
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:49.550260854Z",
   "translation": "雅各爱⟨了⟩⟨את⟩拉结,就说:我愿为你的小女儿拉结服事你七年。",
   "tokens": [
     {
       "surface": "ויאהב",
-      "english": "爱了"
+      "gloss": "爱了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拉结"
     },
     {
       "surface": "רחל",
-      "english": "拉结"
+      "gloss": "拉结"
     },
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "אעבדך",
-      "english": "我愿服事你"
+      "gloss": "我愿服事你"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ברחל",
-      "english": "为拉结"
+      "gloss": "为拉结"
     },
     {
       "surface": "בתך",
-      "english": "你的女儿"
+      "gloss": "你的女儿"
     },
     {
       "surface": "הקטנה",
-      "english": "小的"
+      "gloss": "小的"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:49.550260854Z",
-  "model": "glm-5.2"
+  ]
 }

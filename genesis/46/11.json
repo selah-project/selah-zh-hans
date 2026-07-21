@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 46:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22642,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22876
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:06:11.232895943Z",
   "translation": "利未的儿子们：革顺、哥辖和米拉利。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "和……的儿子们"
+      "gloss": "和……的儿子们"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "גרשון",
-      "english": "革顺"
+      "gloss": "革顺"
     },
     {
       "surface": "קהת",
-      "english": "哥辖"
+      "gloss": "哥辖"
     },
     {
       "surface": "ומררי",
-      "english": "和米拉利"
+      "gloss": "和米拉利"
     }
-  ],
-  "timestamp": "2026-07-17T18:06:11.232895943Z",
-  "model": "glm-5.2"
+  ]
 }

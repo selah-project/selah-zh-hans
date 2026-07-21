@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezekiel 2:10",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19324,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19776
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:40:47.335781494Z",
   "translation": "他将⟨它⟩在我面前展开,⟨它⟩正面和背面都写着字;上面写着哀歌、叹息和祸哉。",
   "tokens": [
     {
       "surface": "ויפרש",
-      "english": "他展开"
+      "gloss": "他展开"
     },
     {
       "surface": "אותה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它 (书卷)"
     },
     {
       "surface": "לפני",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "והיא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "כתובה",
-      "english": "写着字"
+      "gloss": "写着字"
     },
     {
       "surface": "פנים",
-      "english": "正面"
+      "gloss": "正面"
     },
     {
       "surface": "ואחור",
-      "english": "和背面"
+      "gloss": "和背面"
     },
     {
       "surface": "וכתוב",
-      "english": "上面写着"
+      "gloss": "上面写着"
     },
     {
       "surface": "אליה",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "קנים",
-      "english": "哀歌"
+      "gloss": "哀歌"
     },
     {
       "surface": "והגה",
-      "english": "叹息"
+      "gloss": "叹息"
     },
     {
       "surface": "והי",
-      "english": "和祸哉"
+      "gloss": "和祸哉"
     }
-  ],
-  "timestamp": "2026-07-17T22:40:47.335781494Z",
-  "model": "glm-5.2"
+  ]
 }

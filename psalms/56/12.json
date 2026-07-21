@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 56:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64481,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64881
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:31.599954139Z",
   "translation": "在以罗欣里我信靠;我不害怕 —— 亚当能对我做什么呢?",
   "tokens": [
     {
       "surface": "בֵּֽ\/אלֹהִ֣ים",
-      "english": "在以罗欣 (神) 里"
+      "gloss": "在以罗欣 (神) 里"
     },
     {
       "surface": "בָּ֭טַחְתִּי",
-      "english": "我信靠"
+      "gloss": "我信靠"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אִירָ֑א",
-      "english": "我害怕"
+      "gloss": "我害怕"
     },
     {
       "surface": "מַה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "יַּעֲשֶׂ֖ה",
-      "english": "他能做"
+      "gloss": "他能做"
     },
     {
       "surface": "אָדָ֣ם",
-      "english": "亚当 (人)"
+      "gloss": "亚当 (人)"
     },
     {
       "surface": "לִֽ\/י",
-      "english": "对我"
+      "gloss": "对我"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:31.599954139Z",
-  "model": "glm-5.2"
+  ]
 }

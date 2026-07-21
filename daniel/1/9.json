@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "daniel 1:9",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18945,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19429
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:28:11.560847173Z",
   "translation": "以罗欣赐给但以理 ⟨את⟩ 恩慈与怜悯,在宦官长面前。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "⟨他⟩赐给了"
+      "gloss": "⟨他⟩赐给了"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "但以理"
     },
     {
       "surface": "דניאל",
-      "english": "但以理"
+      "gloss": "但以理"
     },
     {
       "surface": "לחסד",
-      "english": "恩慈"
+      "gloss": "恩慈"
     },
     {
       "surface": "ולרחמים",
-      "english": "与怜悯"
+      "gloss": "与怜悯"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "שר",
-      "english": "长"
+      "gloss": "长"
     },
     {
       "surface": "הסריסים",
-      "english": "宦官"
+      "gloss": "宦官"
     }
-  ],
-  "timestamp": "2026-07-18T01:28:11.560847173Z",
-  "model": "glm-5.2"
+  ]
 }

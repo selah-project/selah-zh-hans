@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 73:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64537,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64972
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:29.808337402Z",
   "translation": "我若说：“我要这样讲述”，看哪，⟨我就⟩对你的子孙这一代行了诡诈。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אספרה",
-      "english": "我要讲述"
+      "gloss": "我要讲述"
     },
     {
       "surface": "כמו",
-      "english": "这样"
+      "gloss": "这样"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "דור",
-      "english": "⟨对⟩……的一代"
+      "gloss": "⟨对⟩……的一代"
     },
     {
       "surface": "בניך",
-      "english": "你的子孙"
+      "gloss": "你的子孙"
     },
     {
       "surface": "בגדתי",
-      "english": "我行了诡诈"
+      "gloss": "我行了诡诈"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:29.808337402Z",
-  "model": "glm-5.2"
+  ]
 }

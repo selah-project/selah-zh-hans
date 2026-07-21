@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 25:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64997,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65465
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:13.015039199Z",
   "translation": "求你在我诚实中引领我，又指教我，因为你⟨是⟩我的拯救之以罗欣；⟨את⟩你，我终日仰望。",
   "tokens": [
     {
       "surface": "הדריכני",
-      "english": "求你引领我"
+      "gloss": "求你引领我"
     },
     {
       "surface": "באמתך",
-      "english": "在你诚实中"
+      "gloss": "在你诚实中"
     },
     {
       "surface": "ולמדני",
-      "english": "又指教我"
+      "gloss": "又指教我"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ישעי",
-      "english": "我的拯救"
+      "gloss": "我的拯救"
     },
     {
       "surface": "אותך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "קויתי",
-      "english": "我仰望"
+      "gloss": "我仰望"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "היום",
-      "english": "这日"
+      "gloss": "这日"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:13.015039199Z",
-  "model": "glm-5.2"
+  ]
 }

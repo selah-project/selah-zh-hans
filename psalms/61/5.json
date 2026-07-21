@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 61:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 61,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64527,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65120
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:03.092128866Z",
   "translation": "我要寄居在你的帐幕里,直到永世;我要投靠在你翅膀的隐密处。细拉。",
   "tokens": [
     {
       "surface": "אגורה",
-      "english": "我要寄居"
+      "gloss": "我要寄居"
     },
     {
       "surface": "באהלך",
-      "english": "在你的帐幕里"
+      "gloss": "在你的帐幕里"
     },
     {
       "surface": "עולמים",
-      "english": "直到永世"
+      "gloss": "直到永世"
     },
     {
       "surface": "אחסה",
-      "english": "我要投靠"
+      "gloss": "我要投靠"
     },
     {
       "surface": "בסתר",
-      "english": "在……的隐密处"
+      "gloss": "在……的隐密处"
     },
     {
       "surface": "כנפיך",
-      "english": "你的翅膀"
+      "gloss": "你的翅膀"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:03.092128866Z",
-  "model": "glm-5.2"
+  ]
 }

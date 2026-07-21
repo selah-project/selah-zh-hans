@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 118:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64586,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65046
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:59.919957493Z",
   "translation": "求祢现在,雅威啊,拯救吧!求祢现在,雅威啊,赐亨通吧!",
   "tokens": [
     {
       "surface": "אנא",
-      "english": "求祢现在"
+      "gloss": "求祢现在"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "הושיעה",
-      "english": "拯救吧"
+      "gloss": "拯救吧"
     },
     {
       "surface": "נא",
-      "english": "求祢"
+      "gloss": "求祢"
     },
     {
       "surface": "אנא",
-      "english": "求祢现在"
+      "gloss": "求祢现在"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "הצליחה",
-      "english": "赐亨通吧"
+      "gloss": "赐亨通吧"
     },
     {
       "surface": "נא",
-      "english": "求祢"
+      "gloss": "求祢"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:59.919957493Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 2:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23307,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23614
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:14.305538326Z",
   "translation": "有一条河从伊甸出来，为要浇灌⟨את⟩园子，又从那里分为四道源头。",
   "tokens": [
     {
       "surface": "ונהר",
-      "english": "有一条河"
+      "gloss": "有一条河"
     },
     {
       "surface": "יצא",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "מעדן",
-      "english": "从伊甸"
+      "gloss": "从伊甸"
     },
     {
       "surface": "להשקות",
-      "english": "为要浇灌"
+      "gloss": "为要浇灌"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "园子"
     },
     {
       "surface": "הגן",
-      "english": "园子"
+      "gloss": "园子"
     },
     {
       "surface": "ומשם",
-      "english": "又从那里"
+      "gloss": "又从那里"
     },
     {
       "surface": "יפרד",
-      "english": "分为"
+      "gloss": "分为"
     },
     {
       "surface": "והיה",
-      "english": "⟨成为⟩"
+      "gloss": "⟨成为⟩"
     },
     {
       "surface": "לארבעה",
-      "english": "四道"
+      "gloss": "四道"
     },
     {
       "surface": "ראשים",
-      "english": "源头"
+      "gloss": "源头"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:14.305538326Z",
-  "model": "glm-5.2"
+  ]
 }

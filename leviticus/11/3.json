@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "leviticus 11:3",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19481,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20054
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:24.991416374Z",
   "translation": "凡在牲畜中分蹄、完全裂开蹄子、倒嚼的——⟨את⟩它你们可以吃。",
   "tokens": [
     {
       "surface": "כֹּ֣ל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "מַפְרֶ֣סֶת",
-      "english": "分蹄的"
+      "gloss": "分蹄的"
     },
     {
       "surface": "פַּרְסָ֗ה",
-      "english": "蹄子"
+      "gloss": "蹄子"
     },
     {
       "surface": "וְ\/שֹׁסַ֤עַת",
-      "english": "完全裂开"
+      "gloss": "完全裂开"
     },
     {
       "surface": "שֶׁ֨סַע֙",
-      "english": "裂口"
+      "gloss": "裂口"
     },
     {
       "surface": "פְּרָסֹ֔ת",
-      "english": "（蹄子的）"
+      "gloss": "（蹄子的）"
     },
     {
       "surface": "מַעֲלַ֥ת",
-      "english": "倒"
+      "gloss": "倒"
     },
     {
       "surface": "גֵּרָ֖ה",
-      "english": "嚼的"
+      "gloss": "嚼的"
     },
     {
       "surface": "בַּ\/בְּהֵמָ֑ה",
-      "english": "在牲畜中"
+      "gloss": "在牲畜中"
     },
     {
       "surface": "אֹתָ֖\/הּ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     },
     {
       "surface": "תֹּאכֵֽלוּ",
-      "english": "你们可以吃"
+      "gloss": "你们可以吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:24.991416374Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 48:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 618,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23431,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24049
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:40:52.380295094Z",
   "translation": "雅各对约瑟说：*El Shaddai* 曾在迦南地的路斯向我显现，⟨他⟩祝福了⟨את⟩我。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "אל",
-      "english": "*El*（以罗欣）"
+      "gloss": "*El*（以罗欣）"
     },
     {
       "surface": "שדי",
-      "english": "*Shaddai*（全能者）"
+      "gloss": "*Shaddai*（全能者）"
     },
     {
       "surface": "נראה",
-      "english": "显现"
+      "gloss": "显现"
     },
     {
       "surface": "אלי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "בלוז",
-      "english": "在路斯"
+      "gloss": "在路斯"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     },
     {
       "surface": "ויברך",
-      "english": "祝福了"
+      "gloss": "祝福了"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我"
     }
-  ],
-  "timestamp": "2026-07-18T02:40:52.380295094Z",
-  "model": "glm-5.2"
+  ]
 }

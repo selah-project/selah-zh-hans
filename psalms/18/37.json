@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "psalms 18:37",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64312,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64709
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:02.506081948Z",
   "translation": "你拓宽了我的步伐⟨在我⟩脚下，⟨所以⟩我的脚踝没有⟨⟨动摇⟩。",
   "tokens": [
     {
       "surface": "תרחיב",
-      "english": "你拓宽了"
+      "gloss": "你拓宽了"
     },
     {
       "surface": "צעדי",
-      "english": "我的步伐"
+      "gloss": "我的步伐"
     },
     {
       "surface": "תחתי",
-      "english": "⟨在我⟩脚下"
+      "gloss": "⟨在我⟩脚下"
     },
     {
       "surface": "ולא",
-      "english": "⟨所以⟩……没有"
+      "gloss": "⟨所以⟩……没有"
     },
     {
       "surface": "מעדו",
-      "english": "⟨它们⟩⟨动摇⟩"
+      "gloss": "⟨它们⟩⟨动摇⟩"
     },
     {
       "surface": "קרסלי",
-      "english": "我的脚踝"
+      "gloss": "我的脚踝"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:02.506081948Z",
-  "model": "glm-5.2"
+  ]
 }

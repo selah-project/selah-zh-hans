@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 16:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23116,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23535
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:42:00.211452820Z",
   "translation": "他进入夏甲，她就怀了孕。她见自己怀了孕，她女主人就在她眼中被轻贱了。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "他就进入"
+      "gloss": "他就进入"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "הגר",
-      "english": "夏甲"
+      "gloss": "夏甲"
     },
     {
       "surface": "ותהר",
-      "english": "她就怀了孕"
+      "gloss": "她就怀了孕"
     },
     {
       "surface": "ותרא",
-      "english": "她见"
+      "gloss": "她见"
     },
     {
       "surface": "כי",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "הרתה",
-      "english": "她怀了孕"
+      "gloss": "她怀了孕"
     },
     {
       "surface": "ותקל",
-      "english": "就被轻贱了"
+      "gloss": "就被轻贱了"
     },
     {
       "surface": "גברתה",
-      "english": "她的女主人"
+      "gloss": "她的女主人"
     },
     {
       "surface": "בעיניה",
-      "english": "在她眼中"
+      "gloss": "在她眼中"
     }
-  ],
-  "timestamp": "2026-07-17T17:42:00.211452820Z",
-  "model": "glm-5.2"
+  ]
 }

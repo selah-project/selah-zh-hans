@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 39,
   "ref": "exodus 29:39",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 376,
-    "prompt_tokens": 18801,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19177
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:48.415228960Z",
   "translation": "你要在早晨献⟨את⟩这一只羊，并在黄昏之间献⟨את⟩那一只羊。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这一只羊"
     },
     {
       "surface": "הכבש",
-      "english": "这一只羊"
+      "gloss": "这一只羊"
     },
     {
       "surface": "האחד",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "תעשה",
-      "english": "你要...献"
+      "gloss": "你要...献"
     },
     {
       "surface": "בבקר",
-      "english": "在早晨"
+      "gloss": "在早晨"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那一只羊"
     },
     {
       "surface": "הכבש",
-      "english": "那一只羊"
+      "gloss": "那一只羊"
     },
     {
       "surface": "השני",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "תעשה",
-      "english": "你要...献"
+      "gloss": "你要...献"
     },
     {
       "surface": "בין",
-      "english": "在...之间"
+      "gloss": "在...之间"
     },
     {
       "surface": "הערבים",
-      "english": "黄昏"
+      "gloss": "黄昏"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:48.415228960Z",
-  "model": "glm-4.5"
+  ]
 }

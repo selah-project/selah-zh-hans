@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "jonah 4:3",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21550,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 22122
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:18.776777600Z",
   "translation": "所以现在,雅威啊,求你如今把⟨את⟩我的נפש从我⟨身上⟩取走;因为我死胜过我活。",
   "tokens": [
     {
       "surface": "וְ\/עַתָּ֣ה",
-      "english": "所以现在"
+      "gloss": "所以现在"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "קַח",
-      "english": "求你取走"
+      "gloss": "求你取走"
     },
     {
       "surface": "נָ֥א",
-      "english": "如今\/求你"
+      "gloss": "如今\/求你"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的נפש"
     },
     {
       "surface": "נַפְשִׁ֖\/י",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "מִמֶּ֑\/נִּי",
-      "english": "从我"
+      "gloss": "从我"
     },
     {
       "surface": "כִּ֛י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ט֥וֹב",
-      "english": "胜过"
+      "gloss": "胜过"
     },
     {
       "surface": "מוֹתִ֖\/י",
-      "english": "我死"
+      "gloss": "我死"
     },
     {
       "surface": "מֵ\/חַיָּֽ\/י",
-      "english": "我活"
+      "gloss": "我活"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:18.776777600Z",
-  "model": "glm-5.2"
+  ]
 }

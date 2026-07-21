@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 22:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20630,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21062
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:21.487874932Z",
   "translation": "到那日，⟨必如此⟩，我必呼召我的仆人——以利亚金，希勒家的儿子。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨必如此⟩"
+      "gloss": "⟨必如此⟩"
     },
     {
       "surface": "ביום",
-      "english": "到……日"
+      "gloss": "到……日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "וקראתי",
-      "english": "我必呼召"
+      "gloss": "我必呼召"
     },
     {
       "surface": "לעבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     },
     {
       "surface": "לאליקים",
-      "english": "以利亚金"
+      "gloss": "以利亚金"
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "חלקיהו",
-      "english": "希勒家"
+      "gloss": "希勒家"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:21.487874932Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 4:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54384,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54740
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:30.284105690Z",
   "translation": "你的双眼当注视前方,你的眼皮当在你面前修直⟨道路⟩。",
   "tokens": [
     {
       "surface": "עיניך",
-      "english": "你的双眼"
+      "gloss": "你的双眼"
     },
     {
       "surface": "לנכח",
-      "english": "当注视前方"
+      "gloss": "当注视前方"
     },
     {
       "surface": "יביטו",
-      "english": "(它们)应当注视"
+      "gloss": "(它们)应当注视"
     },
     {
       "surface": "ועפעפיך",
-      "english": "你的眼皮"
+      "gloss": "你的眼皮"
     },
     {
       "surface": "יישרו",
-      "english": "当……修直"
+      "gloss": "当……修直"
     },
     {
       "surface": "נגדך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:30.284105690Z",
-  "model": "glm-5.2"
+  ]
 }

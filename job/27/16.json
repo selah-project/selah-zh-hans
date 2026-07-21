@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 27:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21577,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21906
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:04.365250580Z",
   "translation": "他若堆积银子如尘土，如泥预备衣裳，",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יצבר",
-      "english": "他堆积"
+      "gloss": "他堆积"
     },
     {
       "surface": "כעפר",
-      "english": "如尘土"
+      "gloss": "如尘土"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "וכחמר",
-      "english": "如泥"
+      "gloss": "如泥"
     },
     {
       "surface": "יכין",
-      "english": "预备"
+      "gloss": "预备"
     },
     {
       "surface": "מלבוש",
-      "english": "衣裳"
+      "gloss": "衣裳"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:04.365250580Z",
-  "model": "glm-5.2"
+  ]
 }

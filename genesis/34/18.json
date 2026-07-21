@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 34:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22897,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23199
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:22.978635061Z",
   "translation": "他们的*davar*（话）在哈抹眼中看为好，也在哈抹的儿子示剑眼中看为好。",
   "tokens": [
     {
       "surface": "וייטבו",
-      "english": "看为好"
+      "gloss": "看为好"
     },
     {
       "surface": "דבריהם",
-      "english": "他们的*davar*（话）"
+      "gloss": "他们的*davar*（话）"
     },
     {
       "surface": "בעיני",
-      "english": "在眼中"
+      "gloss": "在眼中"
     },
     {
       "surface": "חמור",
-      "english": "哈抹"
+      "gloss": "哈抹"
     },
     {
       "surface": "ובעיני",
-      "english": "也在眼中"
+      "gloss": "也在眼中"
     },
     {
       "surface": "שכם",
-      "english": "示剑"
+      "gloss": "示剑"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "חמור",
-      "english": "哈抹"
+      "gloss": "哈抹"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:22.978635061Z",
-  "model": "glm-5.2"
+  ]
 }

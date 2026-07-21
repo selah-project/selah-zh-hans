@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 102:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64669,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64950
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:46.922426879Z",
   "translation": "因为你的仆人悦纳⟨את⟩她的石头，对她的尘土施恩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רצו",
-      "english": "悦纳"
+      "gloss": "悦纳"
     },
     {
       "surface": "עבדיך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的石头"
     },
     {
       "surface": "אבניה",
-      "english": "她的石头"
+      "gloss": "她的石头"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的尘土"
     },
     {
       "surface": "עפרה",
-      "english": "她的尘土"
+      "gloss": "她的尘土"
     },
     {
       "surface": "יחננו",
-      "english": "施恩"
+      "gloss": "施恩"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:46.922426879Z",
-  "model": "glm-5.2"
+  ]
 }

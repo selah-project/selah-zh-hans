@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 25:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19605,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20144
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:10.257780497Z",
   "translation": "而在第七年，⟨对⟩地⟨来说⟩，⟨将是⟩安息、严息——雅威的安息：你的田，你不可播种；你的葡萄园，你不可修剪。",
   "tokens": [
     {
       "surface": "ובשנה",
-      "english": "而在第七年"
+      "gloss": "而在第七年"
     },
     {
       "surface": "השביעת",
-      "english": "第七"
+      "gloss": "第七"
     },
     {
       "surface": "שבת",
-      "english": "安息"
+      "gloss": "安息"
     },
     {
       "surface": "שבתון",
-      "english": "严息"
+      "gloss": "严息"
     },
     {
       "surface": "יהיה",
-      "english": "⟨将是⟩"
+      "gloss": "⟨将是⟩"
     },
     {
       "surface": "לארץ",
-      "english": "⟨对⟩地⟨来说⟩"
+      "gloss": "⟨对⟩地⟨来说⟩"
     },
     {
       "surface": "שבת",
-      "english": "安息"
+      "gloss": "安息"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "שדך",
-      "english": "你的田"
+      "gloss": "你的田"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תזרע",
-      "english": "你播种"
+      "gloss": "你播种"
     },
     {
       "surface": "וכרמך",
-      "english": "你的葡萄园"
+      "gloss": "你的葡萄园"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תזמר",
-      "english": "你修剪"
+      "gloss": "你修剪"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:10.257780497Z",
-  "model": "glm-5.2"
+  ]
 }

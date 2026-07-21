@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 28:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18563,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19068
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:03.735602308Z",
   "translation": "非利士人聚集，前来，在书念扎营；扫罗聚集⟨את⟩全以色列，⟨他们⟩在基利波扎营。",
   "tokens": [
     {
       "surface": "ויקבצו",
-      "english": "聚集"
+      "gloss": "聚集"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "ויבאו",
-      "english": "前来"
+      "gloss": "前来"
     },
     {
       "surface": "ויחנו",
-      "english": "扎营"
+      "gloss": "扎营"
     },
     {
       "surface": "בשונם",
-      "english": "在书念"
+      "gloss": "在书念"
     },
     {
       "surface": "ויקבץ",
-      "english": "聚集"
+      "gloss": "聚集"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全以色列"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויחנו",
-      "english": "⟨他们⟩扎营"
+      "gloss": "⟨他们⟩扎营"
     },
     {
       "surface": "בגלבע",
-      "english": "在基利波"
+      "gloss": "在基利波"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:03.735602308Z",
-  "model": "glm-5.2"
+  ]
 }

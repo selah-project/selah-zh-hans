@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-kings 19:5",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64466,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65007
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:13:36.330803169Z",
   "translation": "他躺下,在一棵金雀花下睡着了;看哪,⟨有⟩一位使者触摸他,对他说:起来,吃吧。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "他躺下"
+      "gloss": "他躺下"
     },
     {
       "surface": "ויישן",
-      "english": "睡着了"
+      "gloss": "睡着了"
     },
     {
       "surface": "תחת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "רתם",
-      "english": "金雀花"
+      "gloss": "金雀花"
     },
     {
       "surface": "אחד",
-      "english": "一棵"
+      "gloss": "一棵"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "זה",
-      "english": "这位"
+      "gloss": "这位"
     },
     {
       "surface": "מלאך",
-      "english": "使者"
+      "gloss": "使者"
     },
     {
       "surface": "נגע",
-      "english": "触摸"
+      "gloss": "触摸"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "אכול",
-      "english": "吃"
+      "gloss": "吃"
     }
-  ],
-  "timestamp": "2026-07-17T21:13:36.330803169Z",
-  "model": "glm-5.2"
+  ]
 }

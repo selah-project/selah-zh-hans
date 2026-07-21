@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "lamentations 5:4",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33492,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33996
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:07.453954324Z",
   "translation": "我们的水，我们用银子喝下；我们的木，以代价⟨才能⟩获得。",
   "tokens": [
     {
       "surface": "מימינו",
-      "english": "我们的水"
+      "gloss": "我们的水"
     },
     {
       "surface": "בכסף",
-      "english": "用银子"
+      "gloss": "用银子"
     },
     {
       "surface": "שתינו",
-      "english": "我们喝下"
+      "gloss": "我们喝下"
     },
     {
       "surface": "עצינו",
-      "english": "我们的木"
+      "gloss": "我们的木"
     },
     {
       "surface": "במחיר",
-      "english": "以代价"
+      "gloss": "以代价"
     },
     {
       "surface": "יבאו",
-      "english": "⟨才能⟩获得"
+      "gloss": "⟨才能⟩获得"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:07.453954324Z",
-  "model": "glm-5.2"
+  ]
 }

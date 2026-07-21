@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "isaiah 46:11",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 684,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21315,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21999
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:56:55.071314350Z",
   "translation": "我从日出之地召唤鸷鸟,从远方之地、我谋略的人⟨כִי אֲנִי⟩。我已说话,我也必成就;我已筹定,我也必作成。",
   "tokens": [
     {
       "surface": "קֹרֵא",
-      "english": "我召唤"
+      "gloss": "我召唤"
     },
     {
       "surface": "מִ\/מִּזְרָח",
-      "english": "从日出之地"
+      "gloss": "从日出之地"
     },
     {
       "surface": "עַיִט",
-      "english": "鸷鸟"
+      "gloss": "鸷鸟"
     },
     {
       "surface": "מֵ\/אֶרֶץ",
-      "english": "从……之地"
+      "gloss": "从……之地"
     },
     {
       "surface": "מֶרְחָק",
-      "english": "远方"
+      "gloss": "远方"
     },
     {
       "surface": "אִישׁ",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "עצתו",
-      "english": "我谋略的"
+      "gloss": "我谋略的"
     },
     {
       "surface": "אַף",
-      "english": "也\/确实"
+      "gloss": "也\/确实"
     },
     {
       "surface": "דִּבַּרְתִּי",
-      "english": "我已说话"
+      "gloss": "我已说话"
     },
     {
       "surface": "אַף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אֲבִיאֶ\/נָּה",
-      "english": "我必成就"
+      "gloss": "我必成就"
     },
     {
       "surface": "יָצַרְתִּי",
-      "english": "我已筹定"
+      "gloss": "我已筹定"
     },
     {
       "surface": "אַף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אֶעֱשֶׂ\/נָּה",
-      "english": "我必作成"
+      "gloss": "我必作成"
     }
-  ],
-  "timestamp": "2026-07-17T21:56:55.071314350Z",
-  "model": "glm-5.2"
+  ]
 }

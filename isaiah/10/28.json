@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "isaiah 10:28",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20670,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21072
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:02.353432817Z",
   "translation": "他来到亚雅ת，经过密衮；在密抹他存放⟨他的⟩器具。",
   "tokens": [
     {
       "surface": "בא",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "על",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "עית",
-      "english": "亚雅"
+      "gloss": "亚雅"
     },
     {
       "surface": "עבר",
-      "english": "经过"
+      "gloss": "经过"
     },
     {
       "surface": "במגרון",
-      "english": "密衮"
+      "gloss": "密衮"
     },
     {
       "surface": "למכמש",
-      "english": "在密抹"
+      "gloss": "在密抹"
     },
     {
       "surface": "יפקיד",
-      "english": "他存放"
+      "gloss": "他存放"
     },
     {
       "surface": "כליו",
-      "english": "他的器具"
+      "gloss": "他的器具"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:02.353432817Z",
-  "model": "glm-5.2"
+  ]
 }

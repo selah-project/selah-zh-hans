@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 19:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18818,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19374
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:12.995772367Z",
   "translation": "摩西领⟨את⟩那百姓出来,到以罗欣面前迎接,从那营中出来;他们就站在那山脚下。",
   "tokens": [
     {
       "surface": "ויוצא",
-      "english": "领……出来"
+      "gloss": "领……出来"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "לקראת",
-      "english": "到……面前迎接"
+      "gloss": "到……面前迎接"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "המחנה",
-      "english": "那营"
+      "gloss": "那营"
     },
     {
       "surface": "ויתיצבו",
-      "english": "他们就站定"
+      "gloss": "他们就站定"
     },
     {
       "surface": "בתחתית",
-      "english": "在……脚下"
+      "gloss": "在……脚下"
     },
     {
       "surface": "ההר",
-      "english": "那山"
+      "gloss": "那山"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:12.995772367Z",
-  "model": "glm-5.2"
+  ]
 }

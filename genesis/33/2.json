@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 33:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23895,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24444
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:55:45.049966519Z",
   "translation": "他⟨把⟩⟨את⟩使女们和⟨את⟩她们的孩子放在前面,⟨把⟩⟨את⟩利亚和她的孩子们放在后面,⟨把⟩⟨את⟩拉结和⟨את⟩约瑟放在最后面。",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "他放置"
+      "gloss": "他放置"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "使女们"
     },
     {
       "surface": "השפחות",
-      "english": "⟨这些⟩使女们"
+      "gloss": "⟨这些⟩使女们"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "她们的孩子"
     },
     {
       "surface": "ילדיהן",
-      "english": "她们的孩子"
+      "gloss": "她们的孩子"
     },
     {
       "surface": "ראשנה",
-      "english": "在前"
+      "gloss": "在前"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "利亚"
     },
     {
       "surface": "לאה",
-      "english": "利亚"
+      "gloss": "利亚"
     },
     {
       "surface": "וילדיה",
-      "english": "和她的孩子们"
+      "gloss": "和她的孩子们"
     },
     {
       "surface": "אחרנים",
-      "english": "在后"
+      "gloss": "在后"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "拉结"
     },
     {
       "surface": "רחל",
-      "english": "拉结"
+      "gloss": "拉结"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "约瑟"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "אחרנים",
-      "english": "在最后面"
+      "gloss": "在最后面"
     }
-  ],
-  "timestamp": "2026-07-17T17:55:45.049966519Z",
-  "model": "glm-5.2"
+  ]
 }

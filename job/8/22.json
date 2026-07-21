@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 8:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21498,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21893
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:19.413186823Z",
   "translation": "恨你⟨的⟩必披上羞辱,恶人⟨的⟩帐篷将不复存在。",
   "tokens": [
     {
       "surface": "שנאיך",
-      "english": "恨你⟨的⟩"
+      "gloss": "恨你⟨的⟩"
     },
     {
       "surface": "ילבשו",
-      "english": "必披上"
+      "gloss": "必披上"
     },
     {
       "surface": "בשת",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "ואהל",
-      "english": "帐篷"
+      "gloss": "帐篷"
     },
     {
       "surface": "רשעים",
-      "english": "恶人⟨的⟩"
+      "gloss": "恶人⟨的⟩"
     },
     {
       "surface": "איננו",
-      "english": "将不复存在"
+      "gloss": "将不复存在"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:19.413186823Z",
-  "model": "glm-5.2"
+  ]
 }

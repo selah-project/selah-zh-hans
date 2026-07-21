@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 38:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20582,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21024
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:21.428297845Z",
   "translation": "希西家 —— 犹大王的מִכְתָּב (文字)，⟨是在⟩他病倒时以及他从他的疾病中存活下来之后：",
   "tokens": [
     {
       "surface": "מכתב",
-      "english": "מִכְתָּב (文字)"
+      "gloss": "מִכְתָּב (文字)"
     },
     {
       "surface": "לחזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "בחלתו",
-      "english": "他病倒时"
+      "gloss": "他病倒时"
     },
     {
       "surface": "וחי",
-      "english": "以及……存活下来"
+      "gloss": "以及……存活下来"
     },
     {
       "surface": "מחליו",
-      "english": "从他的疾病"
+      "gloss": "从他的疾病"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:21.428297845Z",
-  "model": "glm-5.2"
+  ]
 }

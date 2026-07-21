@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 40:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18783,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19217
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:44.474214932Z",
   "translation": "他在其上摆设陈设饼,在雅威面前,正如雅威吩咐⟨את⟩摩西的。",
   "tokens": [
     {
       "surface": "ויערך",
-      "english": "他摆设"
+      "gloss": "他摆设"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "ערך",
-      "english": "排列"
+      "gloss": "排列"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐的"
+      "gloss": "所吩咐的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:44.474214932Z",
-  "model": "glm-5.2"
+  ]
 }

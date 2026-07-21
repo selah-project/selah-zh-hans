@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "habakkuk 3:9",
   "book": "habakkuk",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23237,
-    "prompt_tokens_details": {
-      "cached_tokens": 21888
-    },
-    "total_tokens": 23758
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:29:45.489878005Z",
   "translation": "你的弓赤裸裸地⟨被⟩显露，⟨凭⟩各支派的盟约，⟨凭⟩话语 ⟨——⟩ 细拉；你以江河劈开大地。",
   "tokens": [
     {
       "surface": "עריה",
-      "english": "赤裸"
+      "gloss": "赤裸"
     },
     {
       "surface": "תעור",
-      "english": "⟨被⟩显露"
+      "gloss": "⟨被⟩显露"
     },
     {
       "surface": "קשתך",
-      "english": "你的弓"
+      "gloss": "你的弓"
     },
     {
       "surface": "שבעות",
-      "english": "各支派的盟约"
+      "gloss": "各支派的盟约"
     },
     {
       "surface": "מטות",
-      "english": "支派（或：杖）"
+      "gloss": "支派（或：杖）"
     },
     {
       "surface": "אמר",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "סלה",
-      "english": "细拉"
+      "gloss": "细拉"
     },
     {
       "surface": "נהרות",
-      "english": "以江河"
+      "gloss": "以江河"
     },
     {
       "surface": "תבקע",
-      "english": "你劈开"
+      "gloss": "你劈开"
     },
     {
       "surface": "ארץ",
-      "english": "大地"
+      "gloss": "大地"
     }
-  ],
-  "timestamp": "2026-07-17T23:29:45.489878005Z",
-  "model": "glm-5.2"
+  ]
 }

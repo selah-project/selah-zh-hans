@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 5:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21612,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22019
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:38.233412528Z",
   "translation": "他的众子离安全甚远,⟨他们⟩必在城门被压碎;也没有拯救 ⟨他们的人⟩。",
   "tokens": [
     {
       "surface": "יִרְחֲק֣וּ",
-      "english": "他们离……甚远"
+      "gloss": "他们离……甚远"
     },
     {
       "surface": "בָנָ֣י\/ו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "מִ\/יֶּ֑שַׁע",
-      "english": "安全"
+      "gloss": "安全"
     },
     {
       "surface": "וְ\/יִֽדַּכְּא֥וּ",
-      "english": "⟨他们⟩必被压碎"
+      "gloss": "⟨他们⟩必被压碎"
     },
     {
       "surface": "בַ֝\/שַּׁ֗עַר",
-      "english": "在城门"
+      "gloss": "在城门"
     },
     {
       "surface": "וְ\/אֵ֣ין",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "מַצִּֽיל",
-      "english": "拯救 ⟨他们的人⟩"
+      "gloss": "拯救 ⟨他们的人⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:38.233412528Z",
-  "model": "glm-5.2"
+  ]
 }

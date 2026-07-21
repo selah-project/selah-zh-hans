@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "numbers 3:19",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19548,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19852
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:00.792908611Z",
   "translation": "哥辖的子，按他们的宗族：暗兰、以斯哈、希伯仑、乌薛。",
   "tokens": [
     {
       "surface": "וּ\/בְנֵ֥י",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "קְהָ֖ת",
-      "english": "哥辖"
+      "gloss": "哥辖"
     },
     {
       "surface": "לְ\/מִשְׁפְּחֹתָ֑\/ם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     },
     {
       "surface": "עַמְרָ֣ם",
-      "english": "暗兰"
+      "gloss": "暗兰"
     },
     {
       "surface": "וְ\/יִצְהָ֔ר",
-      "english": "以斯哈"
+      "gloss": "以斯哈"
     },
     {
       "surface": "חֶבְר֖וֹן",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "וְ\/עֻזִּיאֵֽל",
-      "english": "乌薛"
+      "gloss": "乌薛"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:00.792908611Z",
-  "model": "glm-5.2"
+  ]
 }

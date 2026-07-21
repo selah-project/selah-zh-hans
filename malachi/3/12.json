@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "malachi 3:12",
   "book": "malachi",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18704,
-    "prompt_tokens_details": {
-      "cached_tokens": 17088
-    },
-    "total_tokens": 19215
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:06.422940428Z",
   "translation": "列国全都要称⟨你们⟩为有福的,因为你们⟨将⟩成为蒙悦纳的地 —— 万军之雅威宣告。",
   "tokens": [
     {
       "surface": "ואשרו",
-      "english": "都要称……为有福的"
+      "gloss": "都要称……为有福的"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הגוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תהיו",
-      "english": "你们将成为"
+      "gloss": "你们将成为"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "חפץ",
-      "english": "蒙悦纳的"
+      "gloss": "蒙悦纳的"
     },
     {
       "surface": "אמר",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:06.422940428Z",
-  "model": "glm-5.2"
+  ]
 }

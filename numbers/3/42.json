@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "numbers 3:42",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20013,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20428
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:16.707268555Z",
   "translation": "摩西数点了⟨את⟩以色列子⟨民⟩中所有的头生的，正如雅威所吩咐他的。",
   "tokens": [
     {
       "surface": "ויפקד",
-      "english": "于是摩西数点了"
+      "gloss": "于是摩西数点了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐的"
+      "gloss": "所吩咐的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有的头生的"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "בכר",
-      "english": "头生的"
+      "gloss": "头生的"
     },
     {
       "surface": "בבני",
-      "english": "在……子⟨民⟩中"
+      "gloss": "在……子⟨民⟩中"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:16.707268555Z",
-  "model": "glm-5.2"
+  ]
 }

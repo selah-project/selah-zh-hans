@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 69:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64581,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65123
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:01.602551445Z",
   "translation": "求你搭救我脱离淤泥,让我不致下沉;愿我从恨我的人中被 snatch away,脱离众水深处。",
   "tokens": [
     {
       "surface": "הצילני",
-      "english": "求你搭救我"
+      "gloss": "求你搭救我"
     },
     {
       "surface": "מטיט",
-      "english": "脱离淤泥"
+      "gloss": "脱离淤泥"
     },
     {
       "surface": "ואל",
-      "english": "而不致 \/ 让我不致"
+      "gloss": "而不致 \/ 让我不致"
     },
     {
       "surface": "אטבעה",
-      "english": "下沉"
+      "gloss": "下沉"
     },
     {
       "surface": "אנצלה",
-      "english": "愿我被 snatch away (被搭救)"
+      "gloss": "愿我被 snatch away (被搭救)"
     },
     {
       "surface": "משנאי",
-      "english": "脱离恨我的人"
+      "gloss": "脱离恨我的人"
     },
     {
       "surface": "וממעמקי",
-      "english": "和脱离深处"
+      "gloss": "和脱离深处"
     },
     {
       "surface": "מים",
-      "english": "(众)水"
+      "gloss": "(众)水"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:01.602551445Z",
-  "model": "glm-5.2"
+  ]
 }

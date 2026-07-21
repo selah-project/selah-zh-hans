@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 11:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19462,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19968
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:23.667090951Z",
   "translation": "以及⟨את⟩沙番，因为反刍⟨它⟩是，但蹄不裂开——⟨它⟩是不洁净的，对你们而言。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "沙番"
     },
     {
       "surface": "השפן",
-      "english": "沙番"
+      "gloss": "沙番"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מעלה",
-      "english": "反刍"
+      "gloss": "反刍"
     },
     {
       "surface": "גרה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩是"
+      "gloss": "⟨它⟩是"
     },
     {
       "surface": "ופרסה",
-      "english": "但蹄"
+      "gloss": "但蹄"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יפריס",
-      "english": "裂开"
+      "gloss": "裂开"
     },
     {
       "surface": "טמא",
-      "english": "⟨它⟩是不洁净的"
+      "gloss": "⟨它⟩是不洁净的"
     },
     {
       "surface": "הוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לכם",
-      "english": "对你们而言"
+      "gloss": "对你们而言"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:23.667090951Z",
-  "model": "glm-5.2"
+  ]
 }

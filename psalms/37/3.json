@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 37:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64480,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64859
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:42.937146882Z",
   "translation": "要信靠雅威,也要行善;⟨就⟩要住在地上,也要牧养信实。",
   "tokens": [
     {
       "surface": "בטח",
-      "english": "要信靠"
+      "gloss": "要信靠"
     },
     {
       "surface": "ביהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ועשה",
-      "english": "也要行"
+      "gloss": "也要行"
     },
     {
       "surface": "טוב",
-      "english": "善"
+      "gloss": "善"
     },
     {
       "surface": "שכן",
-      "english": "⟨就⟩要住在"
+      "gloss": "⟨就⟩要住在"
     },
     {
       "surface": "ארץ",
-      "english": "地上"
+      "gloss": "地上"
     },
     {
       "surface": "ורעה",
-      "english": "也要牧养"
+      "gloss": "也要牧养"
     },
     {
       "surface": "אמונה",
-      "english": "信实"
+      "gloss": "信实"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:42.937146882Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "numbers 1:15",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19172,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19490
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:23.667937824Z",
   "translation": "属拿弗他利 ⟨的⟩,亚希拉,以难 之子。",
   "tokens": [
     {
       "surface": "לנפתלי",
-      "english": "属拿弗他利 ⟨的⟩"
+      "gloss": "属拿弗他利 ⟨的⟩"
     },
     {
       "surface": "אחירע",
-      "english": "亚希拉"
+      "gloss": "亚希拉"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "עינן",
-      "english": "以难"
+      "gloss": "以难"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:23.667937824Z",
-  "model": "glm-5.2"
+  ]
 }

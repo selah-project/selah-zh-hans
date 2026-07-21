@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "1-samuel 1:25",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18065,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18321
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:21:26.718356096Z",
   "translation": "他们宰了⟨את⟩那公牛,把那少年人带到以利面前。",
   "tokens": [
     {
       "surface": "וישחטו",
-      "english": "他们宰了"
+      "gloss": "他们宰了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那公牛"
     },
     {
       "surface": "הפר",
-      "english": "那公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "ויביאו",
-      "english": "他们带来"
+      "gloss": "他们带来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那少年人"
     },
     {
       "surface": "הנער",
-      "english": "那少年人"
+      "gloss": "那少年人"
     },
     {
       "surface": "אל",
-      "english": "到……面前"
+      "gloss": "到……面前"
     },
     {
       "surface": "עלי",
-      "english": "以利"
+      "gloss": "以利"
     }
-  ],
-  "timestamp": "2026-07-17T20:21:26.718356096Z",
-  "model": "glm-5.2"
+  ]
 }

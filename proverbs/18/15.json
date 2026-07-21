@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 18:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54459,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54693
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:53.056685683Z",
   "translation": "明白人的心获取知识，智者的耳寻求知识。",
   "tokens": [
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "נבון",
-      "english": "明白人的"
+      "gloss": "明白人的"
     },
     {
       "surface": "יקנה",
-      "english": "获取"
+      "gloss": "获取"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "ואזן",
-      "english": "而……的耳"
+      "gloss": "而……的耳"
     },
     {
       "surface": "חכמים",
-      "english": "智者的"
+      "gloss": "智者的"
     },
     {
       "surface": "תבקש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:53.056685683Z",
-  "model": "glm-5.2"
+  ]
 }

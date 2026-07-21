@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 148:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 475,
-    "prompt_tokens": 64767,
-    "prompt_tokens_details": {
-      "cached_tokens": 49792
-    },
-    "total_tokens": 65242
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:42.830672879Z",
   "translation": "你们要赞美雅! 要从诸天赞美 ⟨את⟩ 雅威, 要在高处 ⟨阿多奈⟩ 赞美 ⟨阿多奈⟩。",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "הללו",
-      "english": "要赞美"
+      "gloss": "要赞美"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "השמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "הללוהו",
-      "english": "赞美 ⟨阿多奈⟩"
+      "gloss": "赞美 ⟨阿多奈⟩"
     },
     {
       "surface": "במרומים",
-      "english": "在高处 ⟨阿多奈⟩"
+      "gloss": "在高处 ⟨阿多奈⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:42.830672879Z",
-  "model": "glm-4.5"
+  ]
 }

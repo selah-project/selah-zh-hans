@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "isaiah 19:22",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21220,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21774
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:13.527566720Z",
   "translation": "雅威必击打 ⟨את⟩ 埃及 —— 击打又医治;他们必回转归向雅威,他必应允他们,医治他们。",
   "tokens": [
     {
       "surface": "ונגף",
-      "english": "必击打"
+      "gloss": "必击打"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "埃及"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "נגף",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "ורפוא",
-      "english": "又医治"
+      "gloss": "又医治"
     },
     {
       "surface": "ושבו",
-      "english": "他们必回转"
+      "gloss": "他们必回转"
     },
     {
       "surface": "עד",
-      "english": "归向"
+      "gloss": "归向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ונעתר",
-      "english": "他必应允"
+      "gloss": "他必应允"
     },
     {
       "surface": "להם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ורפאם",
-      "english": "医治他们"
+      "gloss": "医治他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:13.527566720Z",
-  "model": "glm-5.2"
+  ]
 }

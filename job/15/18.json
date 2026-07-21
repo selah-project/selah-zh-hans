@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 15:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21493,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21797
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:23.504025495Z",
   "translation": "就是智慧人⟨所⟩宣告的,他们没有向他们的列祖隐藏 ——",
   "tokens": [
     {
       "surface": "אֲשֶׁר",
-      "english": "就是……⟨的⟩"
+      "gloss": "就是……⟨的⟩"
     },
     {
       "surface": "חֲכָמִים",
-      "english": "智慧人"
+      "gloss": "智慧人"
     },
     {
       "surface": "יַגִּידוּ",
-      "english": "宣告的"
+      "gloss": "宣告的"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "他们没有"
+      "gloss": "他们没有"
     },
     {
       "surface": "כִּחֲדוּ",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "מֵ\/אֲבוֹתָ\/ם",
-      "english": "向他们的列祖"
+      "gloss": "向他们的列祖"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:23.504025495Z",
-  "model": "glm-5.2"
+  ]
 }

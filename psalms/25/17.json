@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 25:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64274,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64585
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:28.333136017Z",
   "translation": "我心里的困境拓宽了；⟨求你⟩从我的困迫中把我带出。",
   "tokens": [
     {
       "surface": "צרות",
-      "english": "困境"
+      "gloss": "困境"
     },
     {
       "surface": "לבבי",
-      "english": "我心里的"
+      "gloss": "我心里的"
     },
     {
       "surface": "הרחיבו",
-      "english": "拓宽了"
+      "gloss": "拓宽了"
     },
     {
       "surface": "ממצוקותי",
-      "english": "从我的困迫中"
+      "gloss": "从我的困迫中"
     },
     {
       "surface": "הוציאני",
-      "english": "把我带出"
+      "gloss": "把我带出"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:28.333136017Z",
-  "model": "glm-5.2"
+  ]
 }

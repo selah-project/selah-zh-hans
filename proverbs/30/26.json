@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "proverbs 30:26",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54387,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54743
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:05.188719019Z",
   "translation": " שְׁפַנִּים (sand badgers) —— ⟨⟨הם⟩⟩ 一个不强大的民，却把他们的家安置在磐石中。",
   "tokens": [
     {
       "surface": "שפנים",
-      "english": "沙番（sand badgers）"
+      "gloss": "沙番（sand badgers）"
     },
     {
       "surface": "עם",
-      "english": "一个民"
+      "gloss": "一个民"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עצום",
-      "english": "强大的"
+      "gloss": "强大的"
     },
     {
       "surface": "וישימו",
-      "english": "却安置"
+      "gloss": "却安置"
     },
     {
       "surface": "בסלע",
-      "english": "在磐石中"
+      "gloss": "在磐石中"
     },
     {
       "surface": "ביתם",
-      "english": "他们的家"
+      "gloss": "他们的家"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:05.188719019Z",
-  "model": "glm-5.2"
+  ]
 }

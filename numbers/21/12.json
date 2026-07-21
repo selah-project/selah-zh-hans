@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "numbers 21:12",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19301,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19609
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:32.184506804Z",
   "translation": "他们从那里拔营启程,在撒列溪谷中扎营。",
   "tokens": [
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     },
     {
       "surface": "נסעו",
-      "english": "他们拔营启程"
+      "gloss": "他们拔营启程"
     },
     {
       "surface": "ויחנו",
-      "english": "便扎营"
+      "gloss": "便扎营"
     },
     {
       "surface": "בנחל",
-      "english": "在溪谷中"
+      "gloss": "在溪谷中"
     },
     {
       "surface": "זרד",
-      "english": "撒列"
+      "gloss": "撒列"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:32.184506804Z",
-  "model": "glm-5.2"
+  ]
 }

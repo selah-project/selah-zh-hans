@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 18:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54326,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54836
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:55.503283193Z",
   "translation": "为⟨他自己的⟩渴望,那隔离自己的寻求⟨它⟩,在一切的洞见中他自行其是。",
   "tokens": [
     {
       "surface": "לתאוה",
-      "english": "为渴望"
+      "gloss": "为渴望"
     },
     {
       "surface": "יבקש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "נפרד",
-      "english": "隔离自己的"
+      "gloss": "隔离自己的"
     },
     {
       "surface": "בכל",
-      "english": "在一切的"
+      "gloss": "在一切的"
     },
     {
       "surface": "תושיה",
-      "english": "洞见"
+      "gloss": "洞见"
     },
     {
       "surface": "יתגלע",
-      "english": "他自行其是"
+      "gloss": "他自行其是"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:55.503283193Z",
-  "model": "glm-5.2"
+  ]
 }

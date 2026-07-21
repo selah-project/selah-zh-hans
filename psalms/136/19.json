@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 136:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64282,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64931
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:20.173515554Z",
   "translation": "⟨以及⟩ 西宏、亚摩利人 的 מלך (王)，כִּי (因) לְ\/עוֹלָם (永远) ⟨存留⟩ חַסְדּ\/וֹ (他的חֶסֶד)。",
   "tokens": [
     {
       "surface": "לְ\/סִיחוֹן",
-      "english": "西宏"
+      "gloss": "西宏"
     },
     {
       "surface": "מלך",
-      "english": "מלך (王)"
+      "gloss": "מלך (王)"
     },
     {
       "surface": "הָ\/אֱמֹרִי",
-      "english": "亚摩利人"
+      "gloss": "亚摩利人"
     },
     {
       "surface": "כִּי",
-      "english": "כִּי (因)"
+      "gloss": "כִּי (因)"
     },
     {
       "surface": "לְ\/עוֹלָם",
-      "english": "לְ\/עוֹלָם (永远)"
+      "gloss": "לְ\/עוֹלָם (永远)"
     },
     {
       "surface": "חַסְדּ\/וֹ",
-      "english": "חַסְדּ\/וֹ (他的חֶסֶד)"
+      "gloss": "חַסְדּ\/וֹ (他的חֶסֶד)"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:20.173515554Z",
-  "model": "glm-5.2"
+  ]
 }

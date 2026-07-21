@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "leviticus 21:15",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19016,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19432
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:03.139569685Z",
   "translation": "他不可在他的族民中亵渎他的后裔,因为我是雅威,使他成圣的那一位⟨是⟩我。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "他不可"
+      "gloss": "他不可"
     },
     {
       "surface": "יחלל",
-      "english": "亵渎"
+      "gloss": "亵渎"
     },
     {
       "surface": "זרעו",
-      "english": "他的后裔"
+      "gloss": "他的后裔"
     },
     {
       "surface": "בעמיו",
-      "english": "在他的族民中"
+      "gloss": "在他的族民中"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מקדשו",
-      "english": "使他成圣的那一位"
+      "gloss": "使他成圣的那一位"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:03.139569685Z",
-  "model": "glm-5.2"
+  ]
 }

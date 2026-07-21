@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "leviticus 24:21",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18917,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19308
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:00.076808121Z",
   "translation": "凡击打牲畜的，必须⟨将其⟩补还；凡击打人的，必须被处死。",
   "tokens": [
     {
       "surface": "וּ\/מַכֵּ֥ה",
-      "english": "凡击打"
+      "gloss": "凡击打"
     },
     {
       "surface": "בְהֵמָ֖ה",
-      "english": "牲畜的"
+      "gloss": "牲畜的"
     },
     {
       "surface": "יְשַׁלְּמֶ֑\/נָּה",
-      "english": "必须⟨将其⟩补还"
+      "gloss": "必须⟨将其⟩补还"
     },
     {
       "surface": "וּ\/מַכֵּ֥ה",
-      "english": "凡击打"
+      "gloss": "凡击打"
     },
     {
       "surface": "אָדָ֖ם",
-      "english": "人的"
+      "gloss": "人的"
     },
     {
       "surface": "יוּמָֽת",
-      "english": "必须被处死"
+      "gloss": "必须被处死"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:00.076808121Z",
-  "model": "glm-5.2"
+  ]
 }

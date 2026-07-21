@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "genesis 4:13",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22846,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23329
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:06.609068620Z",
   "translation": "该隐对雅威说：“我的罪孽太大，⟨无法⟩承受。”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "קין",
-      "english": "该隐"
+      "gloss": "该隐"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "גדול",
-      "english": "太大"
+      "gloss": "太大"
     },
     {
       "surface": "עוני",
-      "english": "我的罪孽"
+      "gloss": "我的罪孽"
     },
     {
       "surface": "מנשא",
-      "english": "⟨无法⟩承受"
+      "gloss": "⟨无法⟩承受"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:06.609068620Z",
-  "model": "glm-5.2"
+  ]
 }

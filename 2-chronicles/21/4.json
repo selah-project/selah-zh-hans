@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 21:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60358,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60891
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:26:12.238207178Z",
   "translation": "约兰起来统治⟨他⟩父亲的国权,⟨他⟩巩固自己的权位,用刀剑杀了⟨את⟩⟨他⟩所有的兄弟,甚至以色列的领袖⟨也杀了⟩。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "יהורם",
-      "english": "约兰"
+      "gloss": "约兰"
     },
     {
       "surface": "על",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "ממלכת",
-      "english": "国权"
+      "gloss": "国权"
     },
     {
       "surface": "אביו",
-      "english": "⟨他⟩父亲的"
+      "gloss": "⟨他⟩父亲的"
     },
     {
       "surface": "ויתחזק",
-      "english": "⟨他⟩巩固自己的权位"
+      "gloss": "⟨他⟩巩固自己的权位"
     },
     {
       "surface": "ויהרג",
-      "english": "用刀剑杀了"
+      "gloss": "用刀剑杀了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨他⟩所有的兄弟"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "אחיו",
-      "english": "⟨他⟩兄弟"
+      "gloss": "⟨他⟩兄弟"
     },
     {
       "surface": "בחרב",
-      "english": "用刀剑"
+      "gloss": "用刀剑"
     },
     {
       "surface": "וגם",
-      "english": "甚至"
+      "gloss": "甚至"
     },
     {
       "surface": "משרי",
-      "english": "领袖"
+      "gloss": "领袖"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-18T02:26:12.238207178Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 116:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64240,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64638
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:08.817401414Z",
   "translation": "雅威 ⟨是⟩ 恩慈的 וְ\/צַדִּיק, וֵ\/我们的以罗欣 ⟨是⟩ 满有怜悯的。",
   "tokens": [
     {
       "surface": "חנון",
-      "english": "恩慈的"
+      "gloss": "恩慈的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/צַדִּיק",
-      "english": "וְ\/公义"
+      "gloss": "וְ\/公义"
     },
     {
       "surface": "וֵ\/אלֹהֵי\/נוּ",
-      "english": "וֵ\/我们的以罗欣"
+      "gloss": "וֵ\/我们的以罗欣"
     },
     {
       "surface": "מְרַחֵם",
-      "english": "满有怜悯的"
+      "gloss": "满有怜悯的"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:08.817401414Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-chronicles 3:9",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58686,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59026
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:53:09.783373267Z",
   "translation": "大卫众子共⟨这⟩些人，除外妾室所生的众子；他玛⟨是⟩他们的姐妹。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מלבד",
-      "english": "除外"
+      "gloss": "除外"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "פילגשים",
-      "english": "妾室"
+      "gloss": "妾室"
     },
     {
       "surface": "ותמר",
-      "english": "和他玛"
+      "gloss": "和他玛"
     },
     {
       "surface": "אחותם",
-      "english": "他们的姐妹"
+      "gloss": "他们的姐妹"
     }
-  ],
-  "timestamp": "2026-07-18T01:53:09.783373267Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 30:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64693,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65128
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:46.619317133Z",
   "translation": "因为⟨他⟩的怒气不过是转眼之间,⟨他⟩的恩惠却是一生之久;哀痛可以在 ⟨את⟩ 晚间住宿,但 ⟨את⟩ 早晨便是欢呼。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רגע",
-      "english": "转眼之间"
+      "gloss": "转眼之间"
     },
     {
       "surface": "באפו",
-      "english": "在他的怒气中"
+      "gloss": "在他的怒气中"
     },
     {
       "surface": "חיים",
-      "english": "一生之久"
+      "gloss": "一生之久"
     },
     {
       "surface": "ברצונו",
-      "english": "在他的恩惠中"
+      "gloss": "在他的恩惠中"
     },
     {
       "surface": "בערב",
-      "english": "在 ⟨את⟩ 晚间"
+      "gloss": "在 ⟨את⟩ 晚间"
     },
     {
       "surface": "ילין",
-      "english": "可以住宿"
+      "gloss": "可以住宿"
     },
     {
       "surface": "בכי",
-      "english": "哀痛"
+      "gloss": "哀痛"
     },
     {
       "surface": "ולבקר",
-      "english": "但 ⟨את⟩ 早晨"
+      "gloss": "但 ⟨את⟩ 早晨"
     },
     {
       "surface": "רנה",
-      "english": "便是欢呼"
+      "gloss": "便是欢呼"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:46.619317133Z",
-  "model": "glm-5.2"
+  ]
 }

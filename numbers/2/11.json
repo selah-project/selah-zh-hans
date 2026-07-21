@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "numbers 2:11",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19524,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19921
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:01:13.632709238Z",
   "translation": "⟨还有⟩他的军队，他被数点的人⟨数⟩：四万六千五百。",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "⟨还有⟩他的军队"
+      "gloss": "⟨还有⟩他的军队"
     },
     {
       "surface": "ופקדיו",
-      "english": "他被数点的人⟨数⟩"
+      "gloss": "他被数点的人⟨数⟩"
     },
     {
       "surface": "ששה",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "וארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "⟨和⟩五百"
+      "gloss": "⟨和⟩五百"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T19:01:13.632709238Z",
-  "model": "glm-5.2"
+  ]
 }

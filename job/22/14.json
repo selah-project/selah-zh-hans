@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 22:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21660,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22129
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:11.874509559Z",
   "translation": "厚云 ⟨是⟩ ⟨他⟩ 的遮蔽之处,他看不见;⟨他⟩ 在天的穹窿上行走。",
   "tokens": [
     {
       "surface": "עבים",
-      "english": "厚云"
+      "gloss": "厚云"
     },
     {
       "surface": "סתר",
-      "english": "遮蔽之处"
+      "gloss": "遮蔽之处"
     },
     {
       "surface": "לו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יראה",
-      "english": "他看见"
+      "gloss": "他看见"
     },
     {
       "surface": "וחוג",
-      "english": "穹窿"
+      "gloss": "穹窿"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "יתהלך",
-      "english": "他行走"
+      "gloss": "他行走"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:11.874509559Z",
-  "model": "glm-5.2"
+  ]
 }

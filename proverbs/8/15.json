@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 8:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54281,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54589
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:39.668198178Z",
   "translation": "借着我,君王掌权;掌权者制定公义。",
   "tokens": [
     {
       "surface": "בי",
-      "english": "借着我"
+      "gloss": "借着我"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "ימלכו",
-      "english": "掌权"
+      "gloss": "掌权"
     },
     {
       "surface": "ורוזנים",
-      "english": "掌权者"
+      "gloss": "掌权者"
     },
     {
       "surface": "יחקקו",
-      "english": "制定"
+      "gloss": "制定"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:39.668198178Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "isaiah 10:19",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20606,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21063
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:39:31.512715794Z",
   "translation": "而他森林之树木的余剩者，其数目将⟨是⟩少数，一个少年人就能将⟨他们⟩记录下来。",
   "tokens": [
     {
       "surface": "ושאר",
-      "english": "而……的余剩者"
+      "gloss": "而……的余剩者"
     },
     {
       "surface": "עץ",
-      "english": "树木"
+      "gloss": "树木"
     },
     {
       "surface": "יערו",
-      "english": "他森林"
+      "gloss": "他森林"
     },
     {
       "surface": "מספר",
-      "english": "数目"
+      "gloss": "数目"
     },
     {
       "surface": "יהיו",
-      "english": "将⟨是⟩"
+      "gloss": "将⟨是⟩"
     },
     {
       "surface": "ונער",
-      "english": "而一个少年人"
+      "gloss": "而一个少年人"
     },
     {
       "surface": "יכתבם",
-      "english": "就能将⟨他们⟩记录"
+      "gloss": "就能将⟨他们⟩记录"
     }
-  ],
-  "timestamp": "2026-07-17T21:39:31.512715794Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "hosea 7:5",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21425,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 22039
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:14:21.311321379Z",
   "translation": "我们王的⟨日子⟩，首领们因酒的烈怒而病了；他伸出他的手与⟨את⟩讥诮者同伙。",
   "tokens": [
     {
       "surface": "יום",
-      "english": "⟨日子⟩"
+      "gloss": "⟨日子⟩"
     },
     {
       "surface": "מלכנו",
-      "english": "我们王的"
+      "gloss": "我们王的"
     },
     {
       "surface": "החלו",
-      "english": "病了"
+      "gloss": "病了"
     },
     {
       "surface": "שרים",
-      "english": "首领们"
+      "gloss": "首领们"
     },
     {
       "surface": "חמת",
-      "english": "烈怒"
+      "gloss": "烈怒"
     },
     {
       "surface": "מיין",
-      "english": "酒的"
+      "gloss": "酒的"
     },
     {
       "surface": "משך",
-      "english": "他伸出"
+      "gloss": "他伸出"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "讥诮者"
     },
     {
       "surface": "לצצים",
-      "english": "与讥诮者同伙"
+      "gloss": "与讥诮者同伙"
     }
-  ],
-  "timestamp": "2026-07-17T23:14:21.311321379Z",
-  "model": "glm-5.2"
+  ]
 }

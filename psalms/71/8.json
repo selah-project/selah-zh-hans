@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 71:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64395,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64719
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:32.263879355Z",
   "translation": "愿我的口满溢你的赞美,你的威荣⟨充满其中⟩终日。",
   "tokens": [
     {
       "surface": "ימלא",
-      "english": "愿……满溢"
+      "gloss": "愿……满溢"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "תהלתך",
-      "english": "你的赞美"
+      "gloss": "你的赞美"
     },
     {
       "surface": "כל",
-      "english": "全\/终"
+      "gloss": "全\/终"
     },
     {
       "surface": "היום",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "תפארתך",
-      "english": "你的威荣"
+      "gloss": "你的威荣"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:32.263879355Z",
-  "model": "glm-5.2"
+  ]
 }

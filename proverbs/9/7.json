@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 9:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54491,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54877
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:00.024622791Z",
   "translation": "管教亵慢人的,招致⟨给自己⟩羞辱;责备恶人的,⟨招致⟩⟨给自己⟩缺陷。",
   "tokens": [
     {
       "surface": "יסר",
-      "english": "管教"
+      "gloss": "管教"
     },
     {
       "surface": "לץ",
-      "english": "亵慢人的"
+      "gloss": "亵慢人的"
     },
     {
       "surface": "לקח",
-      "english": "招致"
+      "gloss": "招致"
     },
     {
       "surface": "לו",
-      "english": "⟨给自己⟩"
+      "gloss": "⟨给自己⟩"
     },
     {
       "surface": "קלון",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "ומוכיח",
-      "english": "责备"
+      "gloss": "责备"
     },
     {
       "surface": "לרשע",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "מומו",
-      "english": "缺陷"
+      "gloss": "缺陷"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:00.024622791Z",
-  "model": "glm-5.2"
+  ]
 }

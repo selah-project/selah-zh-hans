@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 129,
   "ref": "psalms 119:129",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64348,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64674
-  },
+  "verse": 129,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:15.053870966Z",
   "translation": "你的法度奇妙，因此我的性命遵守了它们。",
   "tokens": [
     {
       "surface": "פלאות",
-      "english": "奇妙"
+      "gloss": "奇妙"
     },
     {
       "surface": "עדותיך",
-      "english": "你的法度"
+      "gloss": "你的法度"
     },
     {
       "surface": "על",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "english": "⟨因此⟩"
+      "gloss": "⟨因此⟩"
     },
     {
       "surface": "נצרתם",
-      "english": "我的性命遵守了它们"
+      "gloss": "我的性命遵守了它们"
     },
     {
       "surface": "נפשי",
-      "english": "⟨我的性命⟩"
+      "gloss": "⟨我的性命⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:15.053870966Z",
-  "model": "glm-5.2"
+  ]
 }

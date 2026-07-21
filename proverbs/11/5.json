@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 11:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54506,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54891
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:05:27.490844374Z",
   "translation": "完全人的公义必⟨使⟩他的道路正直；至于恶人，必因⟨他⟩自己的恶而跌倒。",
   "tokens": [
     {
       "surface": "צדקת",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "תמים",
-      "english": "完全人的"
+      "gloss": "完全人的"
     },
     {
       "surface": "תישר",
-      "english": "必使正直"
+      "gloss": "必使正直"
     },
     {
       "surface": "דרכו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "וברשעתו",
-      "english": "而因他自己的恶"
+      "gloss": "而因他自己的恶"
     },
     {
       "surface": "יפל",
-      "english": "必跌倒"
+      "gloss": "必跌倒"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     }
-  ],
-  "timestamp": "2026-07-18T03:05:27.490844374Z",
-  "model": "glm-5.2"
+  ]
 }

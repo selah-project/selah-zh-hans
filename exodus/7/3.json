@@ -1,75 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 7:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19032,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19564
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:13:36.382876004Z",
   "translation": "而我将使法老的心 ⟨את⟩ 刚硬,我将在埃及地增多我的 ⟨את⟩ 神迹和 ⟨את⟩ 奇事。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "而我将"
+      "gloss": "而我将"
     },
     {
       "surface": "אקשה",
-      "english": "使……刚硬"
+      "gloss": "使……刚硬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "心"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "פרעה",
-      "english": "法老的"
+      "gloss": "法老的"
     },
     {
       "surface": "והרביתי",
-      "english": "我将增多"
+      "gloss": "我将增多"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的神迹"
     },
     {
       "surface": "אתתי",
-      "english": "我的神迹"
+      "gloss": "我的神迹"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "我的奇事"
     },
     {
       "surface": "מופתי",
-      "english": "我的奇事"
+      "gloss": "我的奇事"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:13:36.382876004Z",
-  "model": "glm-5.2"
+  ]
 }

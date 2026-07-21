@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 96:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64515,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64908
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:31.961416654Z",
   "translation": "当向雅威下拜，身穿圣洁的华美；全地啊，当他面前，⟨要 trembling 颤抖⟩。",
   "tokens": [
     {
       "surface": "השתחוו",
-      "english": "当……下拜"
+      "gloss": "当……下拜"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "בהדרת",
-      "english": "身穿华美"
+      "gloss": "身穿华美"
     },
     {
       "surface": "קדש",
-      "english": "圣洁的"
+      "gloss": "圣洁的"
     },
     {
       "surface": "חילו",
-      "english": "⟨要 trembling 颤抖⟩"
+      "gloss": "⟨要 trembling 颤抖⟩"
     },
     {
       "surface": "מפניו",
-      "english": "当他面前"
+      "gloss": "当他面前"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地啊"
+      "gloss": "地啊"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:31.961416654Z",
-  "model": "glm-5.2"
+  ]
 }

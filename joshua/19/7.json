@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "joshua 19:7",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17816,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18086
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:01:56.359927006Z",
   "translation": "亚因、临门、⟨和⟩以帖、⟨和⟩亚珊：四座城⟨和⟩它们的村庄。",
   "tokens": [
     {
       "surface": "עין",
-      "english": "亚因"
+      "gloss": "亚因"
     },
     {
       "surface": "רמון",
-      "english": "临门"
+      "gloss": "临门"
     },
     {
       "surface": "ועתר",
-      "english": "⟨和⟩以帖"
+      "gloss": "⟨和⟩以帖"
     },
     {
       "surface": "ועשן",
-      "english": "⟨和⟩亚珊"
+      "gloss": "⟨和⟩亚珊"
     },
     {
       "surface": "ערים",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "וחצריהן",
-      "english": "⟨和⟩它们的村庄"
+      "gloss": "⟨和⟩它们的村庄"
     }
-  ],
-  "timestamp": "2026-07-17T20:01:56.359927006Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "joel 4:8",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18543,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19127
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:38.420669728Z",
   "translation": "我必⟨将⟩⟨את⟩你们的儿子和⟨את⟩你们的女儿交在犹大子孙手中,他们必将他们卖给示巴人,⟨到⟩一个遥远的国家;因为雅威已经说了。",
   "tokens": [
     {
       "surface": "ומכרתי",
-      "english": "我必卖"
+      "gloss": "我必卖"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的儿子"
     },
     {
       "surface": "בניכם",
-      "english": "你们的儿子"
+      "gloss": "你们的儿子"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "你们的女儿"
     },
     {
       "surface": "בנותיכם",
-      "english": "你们的女儿"
+      "gloss": "你们的女儿"
     },
     {
       "surface": "ביד",
-      "english": "交在……手中"
+      "gloss": "交在……手中"
     },
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ומכרום",
-      "english": "他们必将他们卖给"
+      "gloss": "他们必将他们卖给"
     },
     {
       "surface": "לשבאים",
-      "english": "示巴人"
+      "gloss": "示巴人"
     },
     {
       "surface": "אל",
-      "english": "⟨到⟩"
+      "gloss": "⟨到⟩"
     },
     {
       "surface": "גוי",
-      "english": "一个国家"
+      "gloss": "一个国家"
     },
     {
       "surface": "רחוק",
-      "english": "遥远的"
+      "gloss": "遥远的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דבר",
-      "english": "已经说了"
+      "gloss": "已经说了"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:38.420669728Z",
-  "model": "glm-5.2"
+  ]
 }

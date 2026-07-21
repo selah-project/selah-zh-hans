@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-kings 17:4",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64048,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64451
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:11:53.262851754Z",
   "translation": "你要从那溪谷中喝水;⟨את⟩那些乌鸦,我已经吩咐它们在那里供养你。\"",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "你要"
+      "gloss": "你要"
     },
     {
       "surface": "מהנחל",
-      "english": "从那溪谷中"
+      "gloss": "从那溪谷中"
     },
     {
       "surface": "תשתה",
-      "english": "喝水"
+      "gloss": "喝水"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些乌鸦"
     },
     {
       "surface": "הערבים",
-      "english": "那些乌鸦"
+      "gloss": "那些乌鸦"
     },
     {
       "surface": "צויתי",
-      "english": "我已经吩咐"
+      "gloss": "我已经吩咐"
     },
     {
       "surface": "לכלכלך",
-      "english": "供养你"
+      "gloss": "供养你"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     }
-  ],
-  "timestamp": "2026-07-17T21:11:53.262851754Z",
-  "model": "glm-5.2"
+  ]
 }

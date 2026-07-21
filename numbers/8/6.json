@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "numbers 8:6",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19704,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20058
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:06:34.667966276Z",
   "translation": "你当从以色列的子民中间取走⟨את⟩利未人,并洁净⟨את⟩他们。",
   "tokens": [
     {
       "surface": "קח",
-      "english": "你当取走"
+      "gloss": "你当取走"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "利未人"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     },
     {
       "surface": "מתוך",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וטהרת",
-      "english": "并洁净"
+      "gloss": "并洁净"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     }
-  ],
-  "timestamp": "2026-07-17T19:06:34.667966276Z",
-  "model": "glm-5.2"
+  ]
 }

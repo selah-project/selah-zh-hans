@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 12:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64299,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64593
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:42.910159792Z",
   "translation": "给⟨那位⟩指挥者,关于第八⟨曲⟩,大卫的诗歌。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给⟨那位⟩指挥者"
+      "gloss": "给⟨那位⟩指挥者"
     },
     {
       "surface": "על",
-      "english": "关于"
+      "gloss": "关于"
     },
     {
       "surface": "השמינית",
-      "english": "第八⟨曲⟩"
+      "gloss": "第八⟨曲⟩"
     },
     {
       "surface": "מזמור",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:42.910159792Z",
-  "model": "glm-5.2"
+  ]
 }

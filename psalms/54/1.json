@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 54:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64240,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64503
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:40.128208760Z",
   "translation": "给诗班长,用丝弦乐器。大卫的训诲诗。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给诗班长"
+      "gloss": "给诗班长"
     },
     {
       "surface": "בנגינת",
-      "english": "用丝弦乐器"
+      "gloss": "用丝弦乐器"
     },
     {
       "surface": "משכיל",
-      "english": "训诲诗"
+      "gloss": "训诲诗"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:40.128208760Z",
-  "model": "glm-5.2"
+  ]
 }

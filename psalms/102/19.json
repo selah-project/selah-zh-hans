@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 102:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64514,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64969
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:56.425918762Z",
   "translation": "这将被写下 ⟨为⟩ 后来的世代，⟨好叫⟩ ⟨一个⟩ 将被创造的百姓赞美雅。",
   "tokens": [
     {
       "surface": "תכתב",
-      "english": "这将被写下"
+      "gloss": "这将被写下"
     },
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לדור",
-      "english": "⟨为⟩ 世代"
+      "gloss": "⟨为⟩ 世代"
     },
     {
       "surface": "אחרון",
-      "english": "后来的 \/ 末后的"
+      "gloss": "后来的 \/ 末后的"
     },
     {
       "surface": "ועם",
-      "english": "⟨好叫⟩ ⟨一个⟩ 百姓"
+      "gloss": "⟨好叫⟩ ⟨一个⟩ 百姓"
     },
     {
       "surface": "נברא",
-      "english": "将被创造的"
+      "gloss": "将被创造的"
     },
     {
       "surface": "יהלל",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:56.425918762Z",
-  "model": "glm-5.2"
+  ]
 }

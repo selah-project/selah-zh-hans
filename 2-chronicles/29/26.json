@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "2-chronicles 29:26",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59512,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59831
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:30:51.432988330Z",
   "translation": "利未人拿着大卫的乐器站着，祭司们⟨拿着⟩号筒。",
   "tokens": [
     {
       "surface": "ויעמדו",
-      "english": "……站着"
+      "gloss": "……站着"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     },
     {
       "surface": "בכלי",
-      "english": "用……的乐器"
+      "gloss": "用……的乐器"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "והכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "בחצצרות",
-      "english": "用号筒"
+      "gloss": "用号筒"
     }
-  ],
-  "timestamp": "2026-07-18T02:30:51.432988330Z",
-  "model": "glm-5.2"
+  ]
 }

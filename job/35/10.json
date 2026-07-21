@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 35:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21616,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22050
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:25.687664138Z",
   "translation": "却没有人说：我的造我的以罗欣在哪里，⟨那⟩在黑夜中赐下诗歌的⟨一位⟩？",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "אמר",
-      "english": "人⟨说⟩"
+      "gloss": "人⟨说⟩"
     },
     {
       "surface": "איה",
-      "english": "在哪里"
+      "gloss": "在哪里"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "עשי",
-      "english": "我的造我的"
+      "gloss": "我的造我的"
     },
     {
       "surface": "נתן",
-      "english": "⟨那⟩赐下"
+      "gloss": "⟨那⟩赐下"
     },
     {
       "surface": "זמרות",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "בלילה",
-      "english": "在黑夜中"
+      "gloss": "在黑夜中"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:25.687664138Z",
-  "model": "glm-5.2"
+  ]
 }

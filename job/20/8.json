@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 20:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21662,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22154
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:54.208184505Z",
   "translation": "如梦飞去,他们必寻不到他;⟨他⟩被驱赶如夜间的异象。",
   "tokens": [
     {
       "surface": "כַּ\/חֲל֣וֹם",
-      "english": "如梦"
+      "gloss": "如梦"
     },
     {
       "surface": "יָ֭עוּף",
-      "english": "飞去"
+      "gloss": "飞去"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יִמְצָא֑וּ\/הוּ",
-      "english": "他们寻不到他"
+      "gloss": "他们寻不到他"
     },
     {
       "surface": "וְ֝\/יֻדַּ֗ד",
-      "english": "⟨他⟩被驱赶"
+      "gloss": "⟨他⟩被驱赶"
     },
     {
       "surface": "כְּ\/חֶזְי֥וֹן",
-      "english": "如……异象"
+      "gloss": "如……异象"
     },
     {
       "surface": "לָֽיְלָה",
-      "english": "夜间的"
+      "gloss": "夜间的"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:54.208184505Z",
-  "model": "glm-5.2"
+  ]
 }

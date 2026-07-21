@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "job 38:28",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21552,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21989
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:38.008047283Z",
   "translation": "雨水有父亲吗？露珠的⟨水⟩滴，又是谁⟨生⟩的呢？",
   "tokens": [
     {
       "surface": "היש",
-      "english": "有……吗"
+      "gloss": "有……吗"
     },
     {
       "surface": "למטר",
-      "english": "雨水"
+      "gloss": "雨水"
     },
     {
       "surface": "אב",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "הוליד",
-      "english": "⟨生⟩"
+      "gloss": "⟨生⟩"
     },
     {
       "surface": "אגלי",
-      "english": "水滴"
+      "gloss": "水滴"
     },
     {
       "surface": "טל",
-      "english": "露珠"
+      "gloss": "露珠"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:38.008047283Z",
-  "model": "glm-5.2"
+  ]
 }

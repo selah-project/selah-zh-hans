@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "2-samuel 8:9",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19115,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19547
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:35:46.101693124Z",
   "translation": "哈马王陀乌听见大卫击杀了哈大底谢的全军,",
   "tokens": [
     {
       "surface": "וַ\/יִּשְׁמַ֕ע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "תֹּ֖עִי",
-      "english": "陀乌"
+      "gloss": "陀乌"
     },
     {
       "surface": "מֶ֣לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חֲמָ֑ת",
-      "english": "哈马"
+      "gloss": "哈马"
     },
     {
       "surface": "כִּ֚י",
-      "english": "⟨因⟩"
+      "gloss": "⟨因⟩"
     },
     {
       "surface": "הִכָּ֣ה",
-      "english": "击杀了"
+      "gloss": "击杀了"
     },
     {
       "surface": "דָוִ֔ד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全军"
     },
     {
       "surface": "כָּל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "חֵ֥יל",
-      "english": "军"
+      "gloss": "军"
     },
     {
       "surface": "הֲדַדְעָֽזֶר",
-      "english": "哈大底谢"
+      "gloss": "哈大底谢"
     }
-  ],
-  "timestamp": "2026-07-20T06:35:46.101693124Z",
-  "model": "glm-5.2"
+  ]
 }

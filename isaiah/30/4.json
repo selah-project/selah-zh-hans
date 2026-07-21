@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 30:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20500,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20887
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:48:23.617231036Z",
   "translation": "因为他的首领曾在琐安，⟨而⟩他的使节抵达了哈内斯。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הָי֥וּ",
-      "english": "曾在"
+      "gloss": "曾在"
     },
     {
       "surface": "בְ\/צֹ֖עַן",
-      "english": "在琐安"
+      "gloss": "在琐安"
     },
     {
       "surface": "שָׂרָ֑י\/ו",
-      "english": "他的首领"
+      "gloss": "他的首领"
     },
     {
       "surface": "וּ\/מַלְאָכָ֖י\/ו",
-      "english": "⟨而⟩他的使节"
+      "gloss": "⟨而⟩他的使节"
     },
     {
       "surface": "חָנֵ֥ס",
-      "english": "哈内斯"
+      "gloss": "哈内斯"
     },
     {
       "surface": "יַגִּֽיעוּ",
-      "english": "抵达了"
+      "gloss": "抵达了"
     }
-  ],
-  "timestamp": "2026-07-17T21:48:23.617231036Z",
-  "model": "glm-5.2"
+  ]
 }

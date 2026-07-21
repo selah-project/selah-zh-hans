@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 66,
   "ref": "psalms 119:66",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 448,
-    "prompt_tokens": 64402,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64850
-  },
+  "verse": 66,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:02.162075469Z",
   "translation": "Teach me good taste and knowledge, for I have trusted in Your commandments.",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "good"
+      "gloss": "good"
     },
     {
       "surface": "טעם",
-      "english": "taste"
+      "gloss": "taste"
     },
     {
       "surface": "ודעת",
-      "english": "and knowledge"
+      "gloss": "and knowledge"
     },
     {
       "surface": "למדני",
-      "english": "Teach me"
+      "gloss": "Teach me"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "במצותיך",
-      "english": "in Your commandments"
+      "gloss": "in Your commandments"
     },
     {
       "surface": "האמנתי",
-      "english": "I have trusted"
+      "gloss": "I have trusted"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:02.162075469Z",
-  "model": "glm-4.5"
+  ]
 }

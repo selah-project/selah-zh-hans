@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 90:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64322,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64739
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:41.079755403Z",
   "translation": "因为我们在你的怒气中耗尽，在你的烈怒中我们⟨被⟩惊惶失措。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כָלִ֥ינוּ",
-      "english": "我们耗尽 \/ 消灭"
+      "gloss": "我们耗尽 \/ 消灭"
     },
     {
       "surface": "בְ\/אַפֶּ֑\/ךָ",
-      "english": "在你的怒气中"
+      "gloss": "在你的怒气中"
     },
     {
       "surface": "וּֽ\/בַ\/חֲמָתְ\/ךָ֥",
-      "english": "并在你的烈怒中"
+      "gloss": "并在你的烈怒中"
     },
     {
       "surface": "נִבְהָֽלְנוּ",
-      "english": "我们⟨被⟩惊惶失措"
+      "gloss": "我们⟨被⟩惊惶失措"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:41.079755403Z",
-  "model": "glm-5.2"
+  ]
 }

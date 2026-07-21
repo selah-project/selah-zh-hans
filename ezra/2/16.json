@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "ezra 2:16",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46142,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46426
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:15.753584074Z",
   "translation": "阿特 的子孙（属希西家），九十八人；",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "אטר",
-      "english": "阿特"
+      "gloss": "阿特"
     },
     {
       "surface": "ליחזקיה",
-      "english": "属希西家"
+      "gloss": "属希西家"
     },
     {
       "surface": "תשעים",
-      "english": "九十"
+      "gloss": "九十"
     },
     {
       "surface": "ושמנה",
-      "english": "⟨人⟩ 八"
+      "gloss": "⟨人⟩ 八"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:15.753584074Z",
-  "model": "glm-5.2"
+  ]
 }

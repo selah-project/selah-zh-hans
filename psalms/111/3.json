@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 111:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64298,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64564
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:57.452126305Z",
   "translation": "威严与华美 ⟨是⟩ 他的作为，而他的公义存立到永远。",
   "tokens": [
     {
       "surface": "הוד",
-      "english": "威严"
+      "gloss": "威严"
     },
     {
       "surface": "והדר",
-      "english": "与华美"
+      "gloss": "与华美"
     },
     {
       "surface": "פעלו",
-      "english": "他的作为"
+      "gloss": "他的作为"
     },
     {
       "surface": "וצדקתו",
-      "english": "而他的公义"
+      "gloss": "而他的公义"
     },
     {
       "surface": "עמדת",
-      "english": "存立"
+      "gloss": "存立"
     },
     {
       "surface": "לעד",
-      "english": "到永远"
+      "gloss": "到永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:57.452126305Z",
-  "model": "glm-5.2"
+  ]
 }

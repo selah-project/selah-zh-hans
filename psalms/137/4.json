@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 137:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64550,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65033
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:37.437808148Z",
   "translation": "我们怎能唱 ⟨את⟩ 雅威的歌在外邦的土地上呢？",
   "tokens": [
     {
       "surface": "איך",
-      "english": "怎能"
+      "gloss": "怎能"
     },
     {
       "surface": "נשיר",
-      "english": "我们唱"
+      "gloss": "我们唱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的歌"
     },
     {
       "surface": "שיר",
-      "english": "歌"
+      "gloss": "歌"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "אדמת",
-      "english": "土地上"
+      "gloss": "土地上"
     },
     {
       "surface": "נכר",
-      "english": "外邦的"
+      "gloss": "外邦的"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:37.437808148Z",
-  "model": "glm-5.2"
+  ]
 }

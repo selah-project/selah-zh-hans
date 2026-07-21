@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 73:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64341,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64698
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:38.669656510Z",
   "translation": "他们讥诮，他们带着邪恶谈论欺压；他们从高处说话。",
   "tokens": [
     {
       "surface": "ימיקו",
-      "english": "他们讥诮"
+      "gloss": "他们讥诮"
     },
     {
       "surface": "וידברו",
-      "english": "他们谈论"
+      "gloss": "他们谈论"
     },
     {
       "surface": "ברע",
-      "english": "带着邪恶"
+      "gloss": "带着邪恶"
     },
     {
       "surface": "עשק",
-      "english": "欺压"
+      "gloss": "欺压"
     },
     {
       "surface": "ממרום",
-      "english": "从高处"
+      "gloss": "从高处"
     },
     {
       "surface": "ידברו",
-      "english": "他们说话"
+      "gloss": "他们说话"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:38.669656510Z",
-  "model": "glm-5.2"
+  ]
 }

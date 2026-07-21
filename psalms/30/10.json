@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 30:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 680,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64651,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65331
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:48.929816150Z",
   "translation": "我的血有什么益处,在我下到⟨שָׁחַת⟩坑中时?尘土能赞美你吗?它能宣告你的真理吗?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "בצע",
-      "english": "益处"
+      "gloss": "益处"
     },
     {
       "surface": "בדמי",
-      "english": "在我的血中"
+      "gloss": "在我的血中"
     },
     {
       "surface": "ברדתי",
-      "english": "在我下⟨去⟩时"
+      "gloss": "在我下⟨去⟩时"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "שחת",
-      "english": "⟨שָׁחַת⟩坑"
+      "gloss": "⟨שָׁחַת⟩坑"
     },
     {
       "surface": "היודך",
-      "english": "能赞美你吗"
+      "gloss": "能赞美你吗"
     },
     {
       "surface": "עפר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "היגיד",
-      "english": "它能宣告吗"
+      "gloss": "它能宣告吗"
     },
     {
       "surface": "אמתך",
-      "english": "你的真理"
+      "gloss": "你的真理"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:48.929816150Z",
-  "model": "glm-5.2"
+  ]
 }

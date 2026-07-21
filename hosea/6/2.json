@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "hosea 6:2",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21043,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21471
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:59.688609422Z",
   "translation": "他必在两天内使我们苏醒;在第三天他必使我们兴起,我们⟨就⟩必在他面前⟨活着⟩。",
   "tokens": [
     {
       "surface": "יְחַיֵּ֖נוּ",
-      "english": "他必使我们苏醒"
+      "gloss": "他必使我们苏醒"
     },
     {
       "surface": "מִ\/יֹּמָ֑יִם",
-      "english": "在两天内"
+      "gloss": "在两天内"
     },
     {
       "surface": "בַּ\/יּוֹם֙",
-      "english": "在……日"
+      "gloss": "在……日"
     },
     {
       "surface": "הַ\/שְּׁלִישִׁ֔י",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "יְקִמֵ֖נוּ",
-      "english": "他必使我们兴起"
+      "gloss": "他必使我们兴起"
     },
     {
       "surface": "וְ\/נִחְיֶ֥ה",
-      "english": "我们必活"
+      "gloss": "我们必活"
     },
     {
       "surface": "לְ\/פָנָֽיו",
-      "english": "在他面前"
+      "gloss": "在他面前"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:59.688609422Z",
-  "model": "glm-5.2"
+  ]
 }

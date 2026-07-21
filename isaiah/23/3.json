@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 23:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20900,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21414
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:51.681234227Z",
   "translation": "在众水之上，西曷的种子、河流的庄稼，是⟨她⟩的出产；她成了列国的市场。",
   "tokens": [
     {
       "surface": "ובמים",
-      "english": "在众水之上"
+      "gloss": "在众水之上"
     },
     {
       "surface": "רבים",
-      "english": "大\/众"
+      "gloss": "大\/众"
     },
     {
       "surface": "זרע",
-      "english": "种子"
+      "gloss": "种子"
     },
     {
       "surface": "שחר",
-      "english": "西曷（的）"
+      "gloss": "西曷（的）"
     },
     {
       "surface": "קציר",
-      "english": "庄稼"
+      "gloss": "庄稼"
     },
     {
       "surface": "יאור",
-      "english": "河流（的）"
+      "gloss": "河流（的）"
     },
     {
       "surface": "תבואתה",
-      "english": "是⟨她⟩的出产"
+      "gloss": "是⟨她⟩的出产"
     },
     {
       "surface": "ותהי",
-      "english": "她成了"
+      "gloss": "她成了"
     },
     {
       "surface": "סחר",
-      "english": "市场"
+      "gloss": "市场"
     },
     {
       "surface": "גוים",
-      "english": "列国的"
+      "gloss": "列国的"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:51.681234227Z",
-  "model": "glm-5.2"
+  ]
 }

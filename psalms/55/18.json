@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 55:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64427,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64886
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:04.976828647Z",
   "translation": "傍晚、早晨和正午,我要默念⟨并⟩叹息,而他听见了我的声音。",
   "tokens": [
     {
       "surface": "ערב",
-      "english": "傍晚"
+      "gloss": "傍晚"
     },
     {
       "surface": "ובקר",
-      "english": "和早晨"
+      "gloss": "和早晨"
     },
     {
       "surface": "וצהרים",
-      "english": "和正午"
+      "gloss": "和正午"
     },
     {
       "surface": "אשיחה",
-      "english": "我要默念"
+      "gloss": "我要默念"
     },
     {
       "surface": "ואהמה",
-      "english": "⟨并⟩叹息"
+      "gloss": "⟨并⟩叹息"
     },
     {
       "surface": "וישמע",
-      "english": "而他听见了"
+      "gloss": "而他听见了"
     },
     {
       "surface": "קולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:04.976828647Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 29:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60111,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60626
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:30:54.561908055Z",
   "translation": "他⟨是⟩在他作王的第一年、第一个 month，敞开了雅威殿的⟨את⟩门，并将它们修固。",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בשנה",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "הראשונה",
-      "english": "第一"
+      "gloss": "第一"
     },
     {
       "surface": "למלכו",
-      "english": "他作王的"
+      "gloss": "他作王的"
     },
     {
       "surface": "בחדש",
-      "english": "在 month"
+      "gloss": "在 month"
     },
     {
       "surface": "הראשון",
-      "english": "第一"
+      "gloss": "第一"
     },
     {
       "surface": "פתח",
-      "english": "敞开了"
+      "gloss": "敞开了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "门"
     },
     {
       "surface": "דלתות",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויחזקם",
-      "english": "并将它们修固"
+      "gloss": "并将它们修固"
     }
-  ],
-  "timestamp": "2026-07-18T02:30:54.561908055Z",
-  "model": "glm-5.2"
+  ]
 }

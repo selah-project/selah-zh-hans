@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "judges 2:23",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18179,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18575
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:39:24.565310894Z",
   "translation": "雅威任凭⟨את⟩这些列国存留,不迅速将他们赶出,也没有将他们交在约书亚手中。",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "任凭……存留"
+      "gloss": "任凭……存留"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这些列国"
     },
     {
       "surface": "הגוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "לבלתי",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "הורישם",
-      "english": "将他们赶出"
+      "gloss": "将他们赶出"
     },
     {
       "surface": "מהר",
-      "english": "迅速"
+      "gloss": "迅速"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "נתנם",
-      "english": "将他们交在"
+      "gloss": "将他们交在"
     },
     {
       "surface": "ביד",
-      "english": "……手中"
+      "gloss": "……手中"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     }
-  ],
-  "timestamp": "2026-07-20T06:39:24.565310894Z",
-  "model": "glm-5.2"
+  ]
 }

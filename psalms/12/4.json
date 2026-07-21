@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 12:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64667,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65150
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:46.573721375Z",
   "translation": "愿雅威剪除一切光滑的嘴唇,⟨和⟩说话狂妄的舌头。",
   "tokens": [
     {
       "surface": "יכרת",
-      "english": "愿……剪除"
+      "gloss": "愿……剪除"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שפתי",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "חלקות",
-      "english": "光滑的"
+      "gloss": "光滑的"
     },
     {
       "surface": "לשון",
-      "english": "舌头"
+      "gloss": "舌头"
     },
     {
       "surface": "מדברת",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "גדלות",
-      "english": "狂妄之事"
+      "gloss": "狂妄之事"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:46.573721375Z",
-  "model": "glm-5.2"
+  ]
 }

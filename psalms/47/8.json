@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 47:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64428,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64763
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:22.154801606Z",
   "translation": "因为以罗欣⟨是⟩全地的王,你们当以通达的诗篇歌颂⟨他⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地的"
+      "gloss": "地的"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "זמרו",
-      "english": "你们当歌颂⟨他⟩"
+      "gloss": "你们当歌颂⟨他⟩"
     },
     {
       "surface": "משכיל",
-      "english": "以通达的"
+      "gloss": "以通达的"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:22.154801606Z",
-  "model": "glm-5.2"
+  ]
 }

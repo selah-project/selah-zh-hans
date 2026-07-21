@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 7:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21575,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22025
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:42.161011013Z",
   "translation": "我的日子比织工的飞梭更快,它们在没有盼望中耗尽。",
   "tokens": [
     {
       "surface": "יָמַ֣\/י",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "קַ֭לּוּ",
-      "english": "更快"
+      "gloss": "更快"
     },
     {
       "surface": "מִנִּי",
-      "english": "比"
+      "gloss": "比"
     },
     {
       "surface": "אָ֑רֶג",
-      "english": "织工的飞梭"
+      "gloss": "织工的飞梭"
     },
     {
       "surface": "וַ֝\/יִּכְל֗וּ",
-      "english": "它们耗尽"
+      "gloss": "它们耗尽"
     },
     {
       "surface": "בְּ\/אֶ֣פֶס",
-      "english": "在没有……之中"
+      "gloss": "在没有……之中"
     },
     {
       "surface": "תִּקְוָֽה",
-      "english": "盼望"
+      "gloss": "盼望"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:42.161011013Z",
-  "model": "glm-5.2"
+  ]
 }

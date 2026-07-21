@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "genesis 34:28",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23698,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24254
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:23.697870377Z",
   "translation": "⟨את⟩ 他们的羊群、⟨את⟩ 他们的牛群、⟨את⟩ 他们的驴,以及城里 ⟨את⟩ 所有的,和田间 ⟨את⟩ 所有的,他们都带走了。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的羊群"
     },
     {
       "surface": "צאנם",
-      "english": "他们的羊群"
+      "gloss": "他们的羊群"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他们的牛群"
     },
     {
       "surface": "בקרם",
-      "english": "他们的牛群"
+      "gloss": "他们的牛群"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他们的驴"
     },
     {
       "surface": "חמריהם",
-      "english": "他们的驴"
+      "gloss": "他们的驴"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "城里所有的"
     },
     {
       "surface": "אשר",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "בעיר",
-      "english": "在城里"
+      "gloss": "在城里"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "田间所有的"
     },
     {
       "surface": "אשר",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "בשדה",
-      "english": "在田间"
+      "gloss": "在田间"
     },
     {
       "surface": "לקחו",
-      "english": "他们都带走了"
+      "gloss": "他们都带走了"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:23.697870377Z",
-  "model": "glm-5.2"
+  ]
 }

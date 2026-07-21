@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 14:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54465,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54834
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:16.330427369Z",
   "translation": "忠信的见证人不⟨会⟩说谎；而吐出谎言的，⟨是⟩虚假的见证人。",
   "tokens": [
     {
       "surface": "עֵד",
-      "english": "见证人"
+      "gloss": "见证人"
     },
     {
       "surface": "אֱמוּנִים",
-      "english": "忠信的"
+      "gloss": "忠信的"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְכַזֵּב",
-      "english": "⟨会⟩说谎"
+      "gloss": "⟨会⟩说谎"
     },
     {
       "surface": "וְ\/יָפִיחַ",
-      "english": "而吐出"
+      "gloss": "而吐出"
     },
     {
       "surface": "כְּזָבִים",
-      "english": "谎言"
+      "gloss": "谎言"
     },
     {
       "surface": "עֵד",
-      "english": "见证人"
+      "gloss": "见证人"
     },
     {
       "surface": "שָׁקֶר",
-      "english": "虚假的"
+      "gloss": "虚假的"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:16.330427369Z",
-  "model": "glm-5.2"
+  ]
 }

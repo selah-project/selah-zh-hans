@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "exodus 22:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 283,
-    "prompt_tokens": 18212,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18495
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:24:06.513313110Z",
   "translation": "任何寡妇和孤儿,你们⟨不可⟩欺压。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "אלמנה",
-      "english": "寡妇"
+      "gloss": "寡妇"
     },
     {
       "surface": "ויתום",
-      "english": "和孤儿"
+      "gloss": "和孤儿"
     },
     {
       "surface": "לא",
-      "english": "⟨不可⟩"
+      "gloss": "⟨不可⟩"
     },
     {
       "surface": "תענון",
-      "english": "欺压"
+      "gloss": "欺压"
     }
-  ],
-  "timestamp": "2026-07-21T13:24:06.513313110Z",
-  "model": "glm-4.5"
+  ]
 }

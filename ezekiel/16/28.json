@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "ezekiel 16:28",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19209,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19613
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:47:53.537138432Z",
   "translation": "你就与亚述的众子行淫，⟨因为⟩你不满足；你行了淫，然而你仍不满足。",
   "tokens": [
     {
       "surface": "ותזני",
-      "english": "你就行了淫"
+      "gloss": "你就行了淫"
     },
     {
       "surface": "אל",
-      "english": "与 \/ 归向"
+      "gloss": "与 \/ 归向"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "מבלתי",
-      "english": "因为不"
+      "gloss": "因为不"
     },
     {
       "surface": "שבעתך",
-      "english": "你满足"
+      "gloss": "你满足"
     },
     {
       "surface": "ותזנים",
-      "english": "你行了淫"
+      "gloss": "你行了淫"
     },
     {
       "surface": "וגם",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שבעת",
-      "english": "你满足"
+      "gloss": "你满足"
     }
-  ],
-  "timestamp": "2026-07-17T22:47:53.537138432Z",
-  "model": "glm-5.2"
+  ]
 }

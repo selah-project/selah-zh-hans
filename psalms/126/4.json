@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 126:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 126,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64445,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65026
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:05.575144638Z",
   "translation": "雅威啊,求你归回!⟨את⟩我们的被掳,如南地的河道!",
   "tokens": [
     {
       "surface": "שׁוּבָ֣\/ה",
-      "english": "求你归回!"
+      "gloss": "求你归回!"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威啊,"
+      "gloss": "雅威啊,"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们的被掳"
     },
     {
       "surface": "שבות\/נו",
-      "english": "我们的被掳"
+      "gloss": "我们的被掳"
     },
     {
       "surface": "כַּ\/אֲפִיקִ֥ים",
-      "english": "如河道"
+      "gloss": "如河道"
     },
     {
       "surface": "בַּ\/נֶּֽגֶב",
-      "english": "在南地"
+      "gloss": "在南地"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:05.575144638Z",
-  "model": "glm-5.2"
+  ]
 }

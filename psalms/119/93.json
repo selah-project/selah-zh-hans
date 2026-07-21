@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 93,
   "ref": "psalms 119:93",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 300,
-    "prompt_tokens": 64393,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64693
-  },
+  "verse": 93,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:15.010654098Z",
   "translation": "到永远我必不忘你的命令，因为藉着它们你使我存活。",
   "tokens": [
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אשכח",
-      "english": "我必忘"
+      "gloss": "我必忘"
     },
     {
       "surface": "פקודיך",
-      "english": "你的命令"
+      "gloss": "你的命令"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בם",
-      "english": "藉着它们"
+      "gloss": "藉着它们"
     },
     {
       "surface": "חייתני",
-      "english": "你使我存活"
+      "gloss": "你使我存活"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:15.010654098Z",
-  "model": "glm-4.5"
+  ]
 }

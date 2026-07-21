@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 10:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20690,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21099
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:39:17.389699721Z",
   "translation": "正如我的手寻得了 ⟨את⟩ 那些偶像的国度，⟨以及⟩ 他们的雕像——从耶路撒冷 ⟨和⟩ 从撒马利亚——",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "מצאה",
-      "english": "寻得了"
+      "gloss": "寻得了"
     },
     {
       "surface": "ידי",
-      "english": "我的手"
+      "gloss": "我的手"
     },
     {
       "surface": "לממלכת",
-      "english": "⟨את⟩ 那些……的国度",
+      "gloss": "⟨את⟩ 那些……的国度",
       "marks": "国度"
     },
     {
       "surface": "האליל",
-      "english": "那偶像"
+      "gloss": "那偶像"
     },
     {
       "surface": "ופסיליהם",
-      "english": "⟨以及⟩ 他们的雕像"
+      "gloss": "⟨以及⟩ 他们的雕像"
     },
     {
       "surface": "מירושלם",
-      "english": "从耶路撒冷"
+      "gloss": "从耶路撒冷"
     },
     {
       "surface": "ומשמרון",
-      "english": "⟨和⟩ 从撒马利亚"
+      "gloss": "⟨和⟩ 从撒马利亚"
     }
-  ],
-  "timestamp": "2026-07-17T21:39:17.389699721Z",
-  "model": "glm-5.2"
+  ]
 }

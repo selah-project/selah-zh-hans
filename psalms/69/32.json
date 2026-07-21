@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 69:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64287,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64768
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:05.260576289Z",
   "translation": "这必悦纳雅威,胜过⟨有⟩角⟨与⟩蹄的公牛。",
   "tokens": [
     {
       "surface": "ותיטב",
-      "english": "这必悦纳"
+      "gloss": "这必悦纳"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "משור",
-      "english": "胜过"
+      "gloss": "胜过"
     },
     {
       "surface": "פר",
-      "english": "公牛"
+      "gloss": "公牛"
     },
     {
       "surface": "מקרן",
-      "english": "⟨有⟩角"
+      "gloss": "⟨有⟩角"
     },
     {
       "surface": "מפריס",
-      "english": "⟨与⟩蹄"
+      "gloss": "⟨与⟩蹄"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:05.260576289Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "nehemiah 5:6",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51410,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51840
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:44:56.720516593Z",
   "translation": "我听见他们的哀号和⟨את⟩这些*话*时，我心裡极其愤怒。",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "⟨我⟩极其愤怒"
+      "gloss": "⟨我⟩极其愤怒"
     },
     {
       "surface": "לי",
-      "english": "我心裡"
+      "gloss": "我心裡"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     },
     {
       "surface": "כאשר",
-      "english": "当……时"
+      "gloss": "当……时"
     },
     {
       "surface": "שמעתי",
-      "english": "我听见"
+      "gloss": "我听见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的哀号"
     },
     {
       "surface": "זעקתם",
-      "english": "他们的哀号"
+      "gloss": "他们的哀号"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "这些*话*"
     },
     {
       "surface": "הדברים",
-      "english": "这些*话*"
+      "gloss": "这些*话*"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     }
-  ],
-  "timestamp": "2026-07-18T01:44:56.720516593Z",
-  "model": "glm-5.2"
+  ]
 }

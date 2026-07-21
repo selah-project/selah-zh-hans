@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "ezekiel 16:11",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19022,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19532
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:47:48.798784827Z",
   "translation": "我以妆饰打扮你,将臂环戴在你手上,将项链戴在你颈项上。",
   "tokens": [
     {
       "surface": "וָאֶעְדֵּךְ",
-      "english": "我打扮你"
+      "gloss": "我打扮你"
     },
     {
       "surface": "עֲדִי",
-      "english": "以妆饰"
+      "gloss": "以妆饰"
     },
     {
       "surface": "וָאֶתְּנָה",
-      "english": "我给……戴上"
+      "gloss": "我给……戴上"
     },
     {
       "surface": "צְמִידִים",
-      "english": "臂环"
+      "gloss": "臂环"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "יָדַיִךְ",
-      "english": "你双手"
+      "gloss": "你双手"
     },
     {
       "surface": "וְרָבִיד",
-      "english": "和项链"
+      "gloss": "和项链"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "גְּרוֹנֵךְ",
-      "english": "你颈项"
+      "gloss": "你颈项"
     }
-  ],
-  "timestamp": "2026-07-17T22:47:48.798784827Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "numbers 31:2",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19800,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20264
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:22:24.587944798Z",
   "translation": "要为以色列的子⟨们⟩向米甸人施行报⟨复⟩；此后你将被收聚归你的本民。",
   "tokens": [
     {
       "surface": "נקם",
-      "english": "施行报⟨复⟩"
+      "gloss": "施行报⟨复⟩"
     },
     {
       "surface": "נקמת",
-      "english": "报⟨复⟩"
+      "gloss": "报⟨复⟩"
     },
     {
       "surface": "בני",
-      "english": "的子⟨们⟩"
+      "gloss": "的子⟨们⟩"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מאת",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "המדינים",
-      "english": "米甸人"
+      "gloss": "米甸人"
     },
     {
       "surface": "אחר",
-      "english": "此后"
+      "gloss": "此后"
     },
     {
       "surface": "תאסף",
-      "english": "你将被收聚"
+      "gloss": "你将被收聚"
     },
     {
       "surface": "אל",
-      "english": "归"
+      "gloss": "归"
     },
     {
       "surface": "עמיך",
-      "english": "你的本民"
+      "gloss": "你的本民"
     }
-  ],
-  "timestamp": "2026-07-17T19:22:24.587944798Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 12:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19552,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19889
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:17.380463833Z",
   "translation": "不是如此 ⟨的⟩，我仆人摩西；在我全家中，⟨他⟩是忠信的。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "עבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "בכל",
-      "english": "在……全部"
+      "gloss": "在……全部"
     },
     {
       "surface": "ביתי",
-      "english": "我的家中"
+      "gloss": "我的家中"
     },
     {
       "surface": "נאמן",
-      "english": "是忠信的"
+      "gloss": "是忠信的"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:17.380463833Z",
-  "model": "glm-5.2"
+  ]
 }

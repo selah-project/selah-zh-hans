@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "hosea 13:1",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 706,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21185,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21891
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:16:40.207396365Z",
   "translation": "当以法莲 ⟨说话⟩, ⟨有⟩ 恐惧；他 ⟨在⟩ 以色列中被高举；但他 ⟨因⟩ 巴力 ⟨而⟩ 成了有罪的, 就死了。",
   "tokens": [
     {
       "surface": "כְּ\/דַבֵּ֤ר",
-      "english": "当……说话"
+      "gloss": "当……说话"
     },
     {
       "surface": "אֶפְרַ֨יִם֙",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "רְתֵ֔ת",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "נָשָׂ֥א",
-      "english": "被高举"
+      "gloss": "被高举"
     },
     {
       "surface": "ה֖וּא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בְּ\/יִשְׂרָאֵ֑ל",
-      "english": "⟨在⟩以色列中"
+      "gloss": "⟨在⟩以色列中"
     },
     {
       "surface": "וַ\/יֶּאְשַׁ֥ם",
-      "english": "成了有罪的"
+      "gloss": "成了有罪的"
     },
     {
       "surface": "בַּ\/בַּ֖עַל",
-      "english": "⟨因⟩巴力"
+      "gloss": "⟨因⟩巴力"
     },
     {
       "surface": "וַ\/יָּמֹֽת",
-      "english": "就死了"
+      "gloss": "就死了"
     }
-  ],
-  "timestamp": "2026-07-17T23:16:40.207396365Z",
-  "model": "glm-5.2"
+  ]
 }

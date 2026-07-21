@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 52:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20745,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21227
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:59:34.876834707Z",
   "translation": "因为雅威如此说:白白地⟨你们⟩被卖,也必不用银子被赎回。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כֹה֙",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אָמַ֣ר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חִנָּ֖ם",
-      "english": "白白地"
+      "gloss": "白白地"
     },
     {
       "surface": "נִמְכַּרְתֶּ֑ם",
-      "english": "⟨你们⟩被卖"
+      "gloss": "⟨你们⟩被卖"
     },
     {
       "surface": "וְ\/לֹ֥א",
-      "english": "也必不"
+      "gloss": "也必不"
     },
     {
       "surface": "בְ\/כֶ֖סֶף",
-      "english": "用银子"
+      "gloss": "用银子"
     },
     {
       "surface": "תִּגָּאֵֽלוּ",
-      "english": "被赎回"
+      "gloss": "被赎回"
     }
-  ],
-  "timestamp": "2026-07-17T21:59:34.876834707Z",
-  "model": "glm-5.2"
+  ]
 }

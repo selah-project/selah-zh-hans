@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 42:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 22839,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23159
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:21.002323683Z",
   "translation": "于是,约瑟的十个弟兄下到埃及去买 ⟨את⟩ 粮食",
   "tokens": [
     {
       "surface": "וירדו",
-      "english": "于是,……下到"
+      "gloss": "于是,……下到"
     },
     {
       "surface": "אחי",
-      "english": "弟兄"
+      "gloss": "弟兄"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "עשרה",
-      "english": "十个"
+      "gloss": "十个"
     },
     {
       "surface": "לשבר",
-      "english": "去买"
+      "gloss": "去买"
     },
     {
       "surface": "בר",
-      "english": "粮食",
+      "gloss": "粮食",
       "marks": "粮食"
     },
     {
       "surface": "ממצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:21.002323683Z",
-  "model": "glm-4.5"
+  ]
 }

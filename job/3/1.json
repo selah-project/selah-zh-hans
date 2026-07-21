@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 3:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21795,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22220
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:47.132291131Z",
   "translation": "此后，约伯开口，并咒诅⟨他的⟩⟨את⟩日子。",
   "tokens": [
     {
       "surface": "אחרי",
-      "english": "此后"
+      "gloss": "此后"
     },
     {
       "surface": "כן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "פתח",
-      "english": "开口"
+      "gloss": "开口"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的口"
     },
     {
       "surface": "פיהו",
-      "english": "他的口"
+      "gloss": "他的口"
     },
     {
       "surface": "ויקלל",
-      "english": "并咒诅"
+      "gloss": "并咒诅"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的日子"
     },
     {
       "surface": "יומו",
-      "english": "他的日子"
+      "gloss": "他的日子"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:47.132291131Z",
-  "model": "glm-5.2"
+  ]
 }

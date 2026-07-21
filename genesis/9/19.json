@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 9:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22866,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23250
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:16.975881470Z",
   "translation": "这三⟨位⟩⟨是⟩挪亚的儿子；从这些人⟨中⟩，全地就分散开去。",
   "tokens": [
     {
       "surface": "שלשה",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "ומאלה",
-      "english": "从这些人"
+      "gloss": "从这些人"
     },
     {
       "surface": "נפצה",
-      "english": "被分散"
+      "gloss": "被分散"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:16.975881470Z",
-  "model": "glm-5.2"
+  ]
 }

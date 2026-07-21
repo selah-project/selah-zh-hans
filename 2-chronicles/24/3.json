@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 24:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59564,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59900
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:27:48.661671619Z",
   "translation": "耶何耶大为⟨他⟩娶了两个妻子,⟨他⟩生了儿子和女儿。",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "娶了"
+      "gloss": "娶了"
     },
     {
       "surface": "לו",
-      "english": "为⟨他⟩"
+      "gloss": "为⟨他⟩"
     },
     {
       "surface": "יהוידע",
-      "english": "耶何耶大"
+      "gloss": "耶何耶大"
     },
     {
       "surface": "נשים",
-      "english": "妻子"
+      "gloss": "妻子"
     },
     {
       "surface": "שתים",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "ויולד",
-      "english": "⟨他⟩生了"
+      "gloss": "⟨他⟩生了"
     },
     {
       "surface": "בנים",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "ובנות",
-      "english": "和女儿"
+      "gloss": "和女儿"
     }
-  ],
-  "timestamp": "2026-07-18T02:27:48.661671619Z",
-  "model": "glm-5.2"
+  ]
 }

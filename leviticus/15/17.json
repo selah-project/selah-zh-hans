@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "leviticus 15:17",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19530,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19914
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:50:28.804237777Z",
   "translation": "凡衣服、凡皮子，其上有遗精⟨在其上⟩的，要在水中洗，就不洁净⟨直到⟩晚上。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "בגד",
-      "english": "衣服"
+      "gloss": "衣服"
     },
     {
       "surface": "וכל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "עור",
-      "english": "皮子"
+      "gloss": "皮子"
     },
     {
       "surface": "אשר",
-      "english": "其上有……的"
+      "gloss": "其上有……的"
     },
     {
       "surface": "יהיה",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "עליו",
-      "english": "⟨在其上⟩"
+      "gloss": "⟨在其上⟩"
     },
     {
       "surface": "שכבת",
-      "english": "躺卧"
+      "gloss": "躺卧"
     },
     {
       "surface": "זרע",
-      "english": "种子"
+      "gloss": "种子"
     },
     {
       "surface": "וכבס",
-      "english": "要洗"
+      "gloss": "要洗"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "וטמא",
-      "english": "就不洁净"
+      "gloss": "就不洁净"
     },
     {
       "surface": "עד",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "הערב",
-      "english": "晚上"
+      "gloss": "晚上"
     }
-  ],
-  "timestamp": "2026-07-17T18:50:28.804237777Z",
-  "model": "glm-5.2"
+  ]
 }

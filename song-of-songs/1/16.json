@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "song-of-songs 1:16",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22018,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 22441
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:51.668945928Z",
   "translation": "看哪,⟨你⟩真美丽,我的良人,也令人喜悦;是的,我们的床榻是青翠的。",
   "tokens": [
     {
       "surface": "הנך",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יפה",
-      "english": "⟨你⟩真美丽"
+      "gloss": "⟨你⟩真美丽"
     },
     {
       "surface": "דודי",
-      "english": "我的良人"
+      "gloss": "我的良人"
     },
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "נעים",
-      "english": "令人喜悦"
+      "gloss": "令人喜悦"
     },
     {
       "surface": "אף",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "ערשנו",
-      "english": "我们的床榻"
+      "gloss": "我们的床榻"
     },
     {
       "surface": "רעננה",
-      "english": "是青翠的"
+      "gloss": "是青翠的"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:51.668945928Z",
-  "model": "glm-5.2"
+  ]
 }

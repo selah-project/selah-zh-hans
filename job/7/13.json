@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 7:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21634,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22065
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:51.558897247Z",
   "translation": "当我说：⟨我的⟩床榻必安慰我，⟨我的⟩卧榻必托起⟨我的⟩哀叹，",
   "tokens": [
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "אמרתי",
-      "english": "我说："
+      "gloss": "我说："
     },
     {
       "surface": "תנחמני",
-      "english": "必安慰我"
+      "gloss": "必安慰我"
     },
     {
       "surface": "ערשי",
-      "english": "⟨我的⟩床榻"
+      "gloss": "⟨我的⟩床榻"
     },
     {
       "surface": "ישא",
-      "english": "必托起"
+      "gloss": "必托起"
     },
     {
       "surface": "בשיחי",
-      "english": "⟨我的⟩哀叹"
+      "gloss": "⟨我的⟩哀叹"
     },
     {
       "surface": "משכבי",
-      "english": "⟨我的⟩卧榻"
+      "gloss": "⟨我的⟩卧榻"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:51.558897247Z",
-  "model": "glm-5.2"
+  ]
 }

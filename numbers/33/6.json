@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "numbers 33:6",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19516,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19943
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:36.603012782Z",
   "translation": "他们疏割起行,以坦扎营 —— ⟨那⟩在旷野的边缘。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们起行"
+      "gloss": "他们起行"
     },
     {
       "surface": "מסכת",
-      "english": "疏割"
+      "gloss": "疏割"
     },
     {
       "surface": "ויחנו",
-      "english": "他们扎营"
+      "gloss": "他们扎营"
     },
     {
       "surface": "באתם",
-      "english": "以坦"
+      "gloss": "以坦"
     },
     {
       "surface": "אשר",
-      "english": "—— ⟨那⟩"
+      "gloss": "—— ⟨那⟩"
     },
     {
       "surface": "בקצה",
-      "english": "在……的边缘"
+      "gloss": "在……的边缘"
     },
     {
       "surface": "המדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:36.603012782Z",
-  "model": "glm-5.2"
+  ]
 }

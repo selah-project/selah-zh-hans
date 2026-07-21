@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "genesis 22:21",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23260,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23673
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:57.683354303Z",
   "translation": "⟨את⟩ 乌斯 ⟨他是⟩ 他的长子,以及 ⟨את⟩ 布兹 ⟨他是⟩ 他的兄弟,以及 ⟨את⟩ 凯木埃勒 ⟨他是⟩ 阿兰的父亲。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "乌斯"
     },
     {
       "surface": "עוץ",
-      "english": "乌斯"
+      "gloss": "乌斯"
     },
     {
       "surface": "בכרו",
-      "english": "他的长子"
+      "gloss": "他的长子"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "布兹"
     },
     {
       "surface": "בוז",
-      "english": "布兹"
+      "gloss": "布兹"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "gloss": "他的兄弟"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "凯木埃勒"
     },
     {
       "surface": "קמואל",
-      "english": "凯木埃勒"
+      "gloss": "凯木埃勒"
     },
     {
       "surface": "אבי",
-      "english": "的父亲"
+      "gloss": "的父亲"
     },
     {
       "surface": "ארם",
-      "english": "阿兰"
+      "gloss": "阿兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:57.683354303Z",
-  "model": "glm-5.2"
+  ]
 }

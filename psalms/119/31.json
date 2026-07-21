@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "psalms 119:31",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64284,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64535
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:29.897871037Z",
   "translation": "我紧紧依附你的见证；雅威啊，不要叫我蒙羞。",
   "tokens": [
     {
       "surface": "דבקתי",
-      "english": "我紧紧依附"
+      "gloss": "我紧紧依附"
     },
     {
       "surface": "בעדותיך",
-      "english": "你的见证"
+      "gloss": "你的见证"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תבישני",
-      "english": "叫我蒙羞"
+      "gloss": "叫我蒙羞"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:29.897871037Z",
-  "model": "glm-5.2"
+  ]
 }

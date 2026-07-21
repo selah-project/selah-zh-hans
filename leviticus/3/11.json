@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 3:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18864,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19115
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:09.395373156Z",
   "translation": "祭司要在祭坛上将其熏献 —— ⟨这⟩是献给雅威的火祭之食物。",
   "tokens": [
     {
       "surface": "והקטירו",
-      "english": "且[他]要熏献"
+      "gloss": "且[他]要熏献"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "המזבחה",
-      "english": "在祭坛上"
+      "gloss": "在祭坛上"
     },
     {
       "surface": "לחם",
-      "english": "⟨这⟩是……食物"
+      "gloss": "⟨这⟩是……食物"
     },
     {
       "surface": "אשה",
-      "english": "火祭"
+      "gloss": "火祭"
     },
     {
       "surface": "ליהוה",
-      "english": "献给雅威的"
+      "gloss": "献给雅威的"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:09.395373156Z",
-  "model": "glm-5.2"
+  ]
 }

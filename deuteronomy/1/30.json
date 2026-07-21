@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "deuteronomy 1:30",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19691,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20174
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:27:38.234476554Z",
   "translation": "雅威你们的以罗欣,就是在你们前面行走的那一位,是他必为你们争战;正如他在埃及向你们眼前所行的一切,⟨אתכם⟩为你们所做的——",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     },
     {
       "surface": "ההלך",
-      "english": "在……前面行走的"
+      "gloss": "在……前面行走的"
     },
     {
       "surface": "לפניכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "הוא",
-      "english": "是他"
+      "gloss": "是他"
     },
     {
       "surface": "ילחם",
-      "english": "必争战"
+      "gloss": "必争战"
     },
     {
       "surface": "לכם",
-      "english": "为你们"
+      "gloss": "为你们"
     },
     {
       "surface": "ככל",
-      "english": "正如一切"
+      "gloss": "正如一切"
     },
     {
       "surface": "אשר",
-      "english": "所……的"
+      "gloss": "所……的"
     },
     {
       "surface": "עשה",
-      "english": "他做了"
+      "gloss": "他做了"
     },
     {
       "surface": "אתכם",
-      "english": "⟨אתכם⟩",
+      "gloss": "⟨אתכם⟩",
       "marks": "为你们"
     },
     {
       "surface": "במצרים",
-      "english": "在埃及"
+      "gloss": "在埃及"
     },
     {
       "surface": "לעיניכם",
-      "english": "向你们眼前"
+      "gloss": "向你们眼前"
     }
-  ],
-  "timestamp": "2026-07-17T19:27:38.234476554Z",
-  "model": "glm-5.2"
+  ]
 }

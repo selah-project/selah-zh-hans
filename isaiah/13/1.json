@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 13:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20471,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20853
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:35.154963563Z",
   "translation": "关于巴比伦的预言，就是亚摩斯的儿子以赛亚所⟨看见⟩的。",
   "tokens": [
     {
       "surface": "משא",
-      "english": "关于……的预言"
+      "gloss": "关于……的预言"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "חזה",
-      "english": "所⟨看见⟩的"
+      "gloss": "所⟨看见⟩的"
     },
     {
       "surface": "ישעיהו",
-      "english": "以赛亚"
+      "gloss": "以赛亚"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "אמוץ",
-      "english": "亚摩斯"
+      "gloss": "亚摩斯"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:35.154963563Z",
-  "model": "glm-5.2"
+  ]
 }

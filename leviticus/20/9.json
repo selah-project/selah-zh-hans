@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "leviticus 20:9",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19875,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20419
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:28.562257422Z",
   "translation": "因为任何人 —— 任何人 —— 咒骂⟨את⟩他的父亲和⟨את⟩他的母亲,必被处死;他的父亲和他的母亲,他咒骂了,他的血⟨归⟩在他身上。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "gloss": "任何人"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "gloss": "任何人"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "יקלל",
-      "english": "咒骂"
+      "gloss": "咒骂"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的父亲"
     },
     {
       "surface": "אביו",
-      "english": "他的父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的母亲"
     },
     {
       "surface": "אמו",
-      "english": "他的母亲"
+      "gloss": "他的母亲"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "יומת",
-      "english": "必被处死"
+      "gloss": "必被处死"
     },
     {
       "surface": "אביו",
-      "english": "他的父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "ואמו",
-      "english": "和他的母亲"
+      "gloss": "和他的母亲"
     },
     {
       "surface": "קלל",
-      "english": "他咒骂了"
+      "gloss": "他咒骂了"
     },
     {
       "surface": "דמיו",
-      "english": "他的血"
+      "gloss": "他的血"
     },
     {
       "surface": "בו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:28.562257422Z",
-  "model": "glm-5.2"
+  ]
 }

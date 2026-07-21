@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "numbers 7:15",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19760,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20191
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:15.122665677Z",
   "translation": "一只公牛，⟨即⟩牛⟨之子⟩；一只公绵羊；一只一岁的羔羊，⟨即⟩年⟨之子⟩，作燔祭。",
   "tokens": [
     {
       "surface": "פר",
-      "english": "公牛"
+      "gloss": "公牛"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "בן",
-      "english": "⟨之子⟩"
+      "gloss": "⟨之子⟩"
     },
     {
       "surface": "בקר",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "איל",
-      "english": "公绵羊"
+      "gloss": "公绵羊"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "כבש",
-      "english": "羔羊"
+      "gloss": "羔羊"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "בן",
-      "english": "⟨之子⟩"
+      "gloss": "⟨之子⟩"
     },
     {
       "surface": "שנתו",
-      "english": "一岁"
+      "gloss": "一岁"
     },
     {
       "surface": "לעלה",
-      "english": "作燔祭"
+      "gloss": "作燔祭"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:15.122665677Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "psalms 105:33",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64351,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64661
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:58.900170419Z",
   "translation": "他击打了他们的葡萄树和他们的无花果树，并折断了他们疆界的树木。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "他击打了"
+      "gloss": "他击打了"
     },
     {
       "surface": "גפנם",
-      "english": "他们的葡萄树"
+      "gloss": "他们的葡萄树"
     },
     {
       "surface": "ותאנתם",
-      "english": "和他们的无花果树"
+      "gloss": "和他们的无花果树"
     },
     {
       "surface": "וישבר",
-      "english": "并折断了"
+      "gloss": "并折断了"
     },
     {
       "surface": "עץ",
-      "english": "树木"
+      "gloss": "树木"
     },
     {
       "surface": "גבולם",
-      "english": "他们疆界的"
+      "gloss": "他们疆界的"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:58.900170419Z",
-  "model": "glm-5.2"
+  ]
 }

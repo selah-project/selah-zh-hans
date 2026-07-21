@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "hosea 9:9",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21284,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21746
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:15:01.724925407Z",
   "translation": "他们⟨已⟩深陷腐败，如基比亚的日子一样；他必记念他们的罪孽，他必追讨他们的罪。",
   "tokens": [
     {
       "surface": "הֶעְמִֽיקוּ",
-      "english": "他们深陷"
+      "gloss": "他们深陷"
     },
     {
       "surface": "שִׁחֵ֖תוּ",
-      "english": "腐败"
+      "gloss": "腐败"
     },
     {
       "surface": "כִּ\/י\/מֵ֣י",
-      "english": "如……的日子"
+      "gloss": "如……的日子"
     },
     {
       "surface": "הַ\/גִּבְעָ֑ה",
-      "english": "基比亚"
+      "gloss": "基比亚"
     },
     {
       "surface": "יִזְכּ֣וֹר",
-      "english": "他必记念"
+      "gloss": "他必记念"
     },
     {
       "surface": "עֲוֺנָ֔\/ם",
-      "english": "他们的罪孽"
+      "gloss": "他们的罪孽"
     },
     {
       "surface": "יִפְק֖וֹד",
-      "english": "他必追讨"
+      "gloss": "他必追讨"
     },
     {
       "surface": "חַטֹּאותָֽ\/ם",
-      "english": "他们的罪"
+      "gloss": "他们的罪"
     }
-  ],
-  "timestamp": "2026-07-17T23:15:01.724925407Z",
-  "model": "glm-5.2"
+  ]
 }

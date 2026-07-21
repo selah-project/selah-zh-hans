@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "exodus 30:26",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18516,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18854
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:08.300963248Z",
   "translation": "你要用它膏 ⟨את⟩ 会幕 和 ⟨את⟩ 见证的约柜;",
   "tokens": [
     {
       "surface": "ומשחת",
-      "english": "你要膏"
+      "gloss": "你要膏"
     },
     {
       "surface": "בו",
-      "english": "用它"
+      "gloss": "用它"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "见证的约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "העדת",
-      "english": "见证的"
+      "gloss": "见证的"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:08.300963248Z",
-  "model": "glm-5.2"
+  ]
 }

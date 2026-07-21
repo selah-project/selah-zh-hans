@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "job 15:33",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21545,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22001
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:57.321213145Z",
   "translation": "他必如葡萄藤抛弃其未熟的葡萄,又如橄榄树抛落其花朵。",
   "tokens": [
     {
       "surface": "יַחְמֹ֣ס",
-      "english": "他必抛弃"
+      "gloss": "他必抛弃"
     },
     {
       "surface": "כַּ\/גֶּ֣פֶן",
-      "english": "如葡萄藤"
+      "gloss": "如葡萄藤"
     },
     {
       "surface": "בִּסְר֑\/וֹ",
-      "english": "其未熟的葡萄"
+      "gloss": "其未熟的葡萄"
     },
     {
       "surface": "וְ\/יַשְׁלֵ֥ךְ",
-      "english": "又必抛落"
+      "gloss": "又必抛落"
     },
     {
       "surface": "כַּ֝\/זַּ֗יִת",
-      "english": "如橄榄树"
+      "gloss": "如橄榄树"
     },
     {
       "surface": "נִצָּתֽ\/וֹ",
-      "english": "其花朵"
+      "gloss": "其花朵"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:57.321213145Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 41:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21545,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21934
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:40.495300410Z",
   "translation": "一个紧贴一个,它们⟨彼此⟩靠近,在他们之间不能有气息进入。",
   "tokens": [
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "באחד",
-      "english": "紧贴一个"
+      "gloss": "紧贴一个"
     },
     {
       "surface": "יגשו",
-      "english": "它们靠近"
+      "gloss": "它们靠近"
     },
     {
       "surface": "ורוח",
-      "english": "气息"
+      "gloss": "气息"
     },
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "ביניהם",
-      "english": "在他们之间"
+      "gloss": "在他们之间"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:40.495300410Z",
-  "model": "glm-5.2"
+  ]
 }

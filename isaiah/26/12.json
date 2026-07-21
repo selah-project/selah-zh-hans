@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 26:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20831,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21286
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:54.553995944Z",
   "translation": "雅威，你必为我们设立平安，因为你也成就了我们一切的工作——⟨是⟩你为我们做的。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "תשפת",
-      "english": "你必设立"
+      "gloss": "你必设立"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מעשינו",
-      "english": "我们的工作"
+      "gloss": "我们的工作"
     },
     {
       "surface": "פעלת",
-      "english": "你成就了 \/ ⟨是⟩你做的"
+      "gloss": "你成就了 \/ ⟨是⟩你做的"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:54.553995944Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "leviticus 26:35",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 761,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19564,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20325
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:58.835815045Z",
   "translation": "盡 ⟨那⟩荒涼所有的日子，它必守安息——⟨את⟩那些你們在居住於其上時、在你們的安息日［中所欠的安息］；在你們居住其上時，它沒有在那上面安息。",
   "tokens": [
     {
       "surface": "כָּל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "יְמֵ֥י",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "הָשַּׁמָּ֖\/ה",
-      "english": "⟨那⟩荒涼"
+      "gloss": "⟨那⟩荒涼"
     },
     {
       "surface": "תִּשְׁבֹּ֑ת",
-      "english": "它必守安息"
+      "gloss": "它必守安息"
     },
     {
       "surface": "אֵ֣ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些它所欠的安息（即 אֲשֶׁר 的先行詞）"
     },
     {
       "surface": "אֲשֶׁ֧ר",
-      "english": "那些（欠下的安息）"
+      "gloss": "那些（欠下的安息）"
     },
     {
       "surface": "לֹֽא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שָׁבְתָ֛ה",
-      "english": "它安息了"
+      "gloss": "它安息了"
     },
     {
       "surface": "בְּ\/שַׁבְּתֹתֵי\/כֶ֖ם",
-      "english": "在你們的安息日中"
+      "gloss": "在你們的安息日中"
     },
     {
       "surface": "בְּ\/שִׁבְתְּ\/כֶ֥ם",
-      "english": "在你們居住時"
+      "gloss": "在你們居住時"
     },
     {
       "surface": "עָלֶֽי\/הָ",
-      "english": "在其上"
+      "gloss": "在其上"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:58.835815045Z",
-  "model": "glm-5.2"
+  ]
 }

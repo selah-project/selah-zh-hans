@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 86:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64659,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65048
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:54.941179162Z",
   "translation": "雅威啊，求你指教我你的道路；我要在你的真理中行走。求你使我的心合一，为要敬畏你的名。",
   "tokens": [
     {
       "surface": "הורני",
-      "english": "求你指教我"
+      "gloss": "求你指教我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דרכך",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "אהלך",
-      "english": "我要行走"
+      "gloss": "我要行走"
     },
     {
       "surface": "באמתך",
-      "english": "在你的真理中"
+      "gloss": "在你的真理中"
     },
     {
       "surface": "יחד",
-      "english": "求你使……合一"
+      "gloss": "求你使……合一"
     },
     {
       "surface": "לבבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "ליראה",
-      "english": "为要敬畏"
+      "gloss": "为要敬畏"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:54.941179162Z",
-  "model": "glm-5.2"
+  ]
 }

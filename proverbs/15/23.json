@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "proverbs 15:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 54399,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54805
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:35.403238453Z",
   "translation": "喜悦 ⟨属于⟩ 人，在他嘴里的回答；且 ⟨当⟩ 一句话 ⟨在⟩ 其 ⟨时⟩，⟨它⟩ 多么 ⟨是⟩ 善。",
   "tokens": [
     {
       "surface": "שמחה",
-      "english": "喜悦"
+      "gloss": "喜悦"
     },
     {
       "surface": "לאיש",
-      "english": "⟨属于⟩ 人"
+      "gloss": "⟨属于⟩ 人"
     },
     {
       "surface": "במענה",
-      "english": "在他嘴里的回答"
+      "gloss": "在他嘴里的回答"
     },
     {
       "surface": "פיו",
-      "english": "他嘴里的回答"
+      "gloss": "他嘴里的回答"
     },
     {
       "surface": "ודבר",
-      "english": "且 ⟨当⟩ 一句话"
+      "gloss": "且 ⟨当⟩ 一句话"
     },
     {
       "surface": "בעתו",
-      "english": "⟨在⟩ 其 ⟨时⟩"
+      "gloss": "⟨在⟩ 其 ⟨时⟩"
     },
     {
       "surface": "מה",
-      "english": "⟨它⟩ 多么 ⟨是⟩"
+      "gloss": "⟨它⟩ 多么 ⟨是⟩"
     },
     {
       "surface": "טוב",
-      "english": "善"
+      "gloss": "善"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:35.403238453Z",
-  "model": "glm-4.5"
+  ]
 }

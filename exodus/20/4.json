@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 20:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19194,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19744
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:35.729937344Z",
   "translation": "不可为你制造雕像，以及一切形像——⟨那⟩在天上以上的，⟨和⟩那在地以下的，⟨和⟩那在水中地以下的。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תעשה",
-      "english": "制造"
+      "gloss": "制造"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "פסל",
-      "english": "雕像"
+      "gloss": "雕像"
     },
     {
       "surface": "וכל",
-      "english": "以及一切"
+      "gloss": "以及一切"
     },
     {
       "surface": "תמונה",
-      "english": "形像"
+      "gloss": "形像"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בשמים",
-      "english": "在天上"
+      "gloss": "在天上"
     },
     {
       "surface": "ממעל",
-      "english": "以上的"
+      "gloss": "以上的"
     },
     {
       "surface": "ואשר",
-      "english": "⟨和⟩那"
+      "gloss": "⟨和⟩那"
     },
     {
       "surface": "בארץ",
-      "english": "在地"
+      "gloss": "在地"
     },
     {
       "surface": "מתחת",
-      "english": "以下的"
+      "gloss": "以下的"
     },
     {
       "surface": "ואשר",
-      "english": "⟨和⟩那"
+      "gloss": "⟨和⟩那"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "מתחת",
-      "english": "以下"
+      "gloss": "以下"
     },
     {
       "surface": "לארץ",
-      "english": "地的"
+      "gloss": "地的"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:35.729937344Z",
-  "model": "glm-5.2"
+  ]
 }

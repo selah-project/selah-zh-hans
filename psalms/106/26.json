@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "psalms 106:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 252,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64427,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64679
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:18.933941527Z",
   "translation": "所以祂向他们举手,要使他们⟨את⟩倒毙在旷野;",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "所以祂举手"
+      "gloss": "所以祂举手"
     },
     {
       "surface": "ידו",
-      "english": "祂的手"
+      "gloss": "祂的手"
     },
     {
       "surface": "להם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "להפיל",
-      "english": "要使……倒毙"
+      "gloss": "要使……倒毙"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们倒毙"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:18.933941527Z",
-  "model": "glm-5.2"
+  ]
 }

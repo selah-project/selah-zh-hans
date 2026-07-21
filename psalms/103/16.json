@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 103:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64616,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64989
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:29.727920379Z",
   "translation": "因为风（鲁阿）掠过它，它⟨就⟩不在了，它的处所也不再认识它。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רוח",
-      "english": "风（鲁阿）"
+      "gloss": "风（鲁阿）"
     },
     {
       "surface": "עברה",
-      "english": "掠过"
+      "gloss": "掠过"
     },
     {
       "surface": "בו",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "ואיננו",
-      "english": "它⟨就⟩不在了"
+      "gloss": "它⟨就⟩不在了"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יכירנו",
-      "english": "认识它"
+      "gloss": "认识它"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "מקומו",
-      "english": "它的处所"
+      "gloss": "它的处所"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:29.727920379Z",
-  "model": "glm-5.2"
+  ]
 }

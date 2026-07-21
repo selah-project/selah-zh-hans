@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 118:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64355,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:48.337694189Z",
   "translation": "雅威严厉地管教了我,⟨但⟩⟨他⟩没有将我交给死亡。",
   "tokens": [
     {
       "surface": "יסר",
-      "english": "严厉地管教了"
+      "gloss": "严厉地管教了"
     },
     {
       "surface": "יסרני",
-      "english": "管教了我"
+      "gloss": "管教了我"
     },
     {
       "surface": "יה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולמות",
-      "english": "⟨但⟩没有交给死亡"
+      "gloss": "⟨但⟩没有交给死亡"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נתנני",
-      "english": "将我交"
+      "gloss": "将我交"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:48.337694189Z",
-  "model": "glm-5.2"
+  ]
 }

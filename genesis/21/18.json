@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 21:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23413,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23929
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:14.310346462Z",
   "translation": "起来！举起 ⟨את⟩ ⟨הַנַּעַר⟩（那少年），用手紧抓住他！因为 ⟨我⟩ 必将他立为大国。",
   "tokens": [
     {
       "surface": "קומי",
-      "english": "起来！"
+      "gloss": "起来！"
     },
     {
       "surface": "שאי",
-      "english": "举起"
+      "gloss": "举起"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הנער (那少年)"
     },
     {
       "surface": "הנער",
-      "english": "那少年"
+      "gloss": "那少年"
     },
     {
       "surface": "והחזיקי",
-      "english": "紧抓住"
+      "gloss": "紧抓住"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的手 (指代抓取的动作)"
     },
     {
       "surface": "ידך",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "בו",
-      "english": "在他身上（即：抓住他）"
+      "gloss": "在他身上（即：抓住他）"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לגוי",
-      "english": "为大国"
+      "gloss": "为大国"
     },
     {
       "surface": "גדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "אשימנו",
-      "english": "我必将他立为"
+      "gloss": "我必将他立为"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:14.310346462Z",
-  "model": "glm-5.2"
+  ]
 }

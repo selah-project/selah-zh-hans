@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 49:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20950,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21432
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:58:01.322921054Z",
   "translation": "你丧失子女后所有的子民还要在你耳中说:这地方对我太狭窄了,靠近我⟨些⟩,我好居住。",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "还要"
+      "gloss": "还要"
     },
     {
       "surface": "יאמרו",
-      "english": "他们必说"
+      "gloss": "他们必说"
     },
     {
       "surface": "באזניך",
-      "english": "在你耳中"
+      "gloss": "在你耳中"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "שכליך",
-      "english": "你丧失子女后所有的"
+      "gloss": "你丧失子女后所有的"
     },
     {
       "surface": "צר",
-      "english": "太狭窄了"
+      "gloss": "太狭窄了"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "המקום",
-      "english": "这地方"
+      "gloss": "这地方"
     },
     {
       "surface": "גשה",
-      "english": "靠近"
+      "gloss": "靠近"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ואשבה",
-      "english": "我好居住"
+      "gloss": "我好居住"
     }
-  ],
-  "timestamp": "2026-07-17T21:58:01.322921054Z",
-  "model": "glm-5.2"
+  ]
 }

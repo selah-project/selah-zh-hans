@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 25:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19032,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19474
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:43:08.762982783Z",
   "translation": "他的名在以色列中必被称为 ⟨הנעל被脱之人的家⟩。",
   "tokens": [
     {
       "surface": "ונקרא",
-      "english": "必被称为"
+      "gloss": "必被称为"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列中"
+      "gloss": "在以色列中"
     },
     {
       "surface": "בית",
-      "english": "……的家"
+      "gloss": "……的家"
     },
     {
       "surface": "חלוץ",
-      "english": "被脱下"
+      "gloss": "被脱下"
     },
     {
       "surface": "הנעל",
-      "english": "鞋"
+      "gloss": "鞋"
     }
-  ],
-  "timestamp": "2026-07-17T19:43:08.762982783Z",
-  "model": "glm-5.2"
+  ]
 }

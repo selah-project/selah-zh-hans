@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "proverbs 23:30",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54290,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54561
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:45.472212038Z",
   "translation": "那些滞留在酒旁的人,那些去品尝混合酒的人。",
   "tokens": [
     {
       "surface": "למאחרים",
-      "english": "那些滞留的人"
+      "gloss": "那些滞留的人"
     },
     {
       "surface": "על",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "היין",
-      "english": "酒"
+      "gloss": "酒"
     },
     {
       "surface": "לבאים",
-      "english": "那些去的人"
+      "gloss": "那些去的人"
     },
     {
       "surface": "לחקר",
-      "english": "品尝"
+      "gloss": "品尝"
     },
     {
       "surface": "ממסך",
-      "english": "混合酒"
+      "gloss": "混合酒"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:45.472212038Z",
-  "model": "glm-5.2"
+  ]
 }

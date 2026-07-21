@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "2-chronicles 6:6",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59900,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60478
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:17:02.949775646Z",
   "translation": "但我选择了耶路撒冷,让我的名在那里,我选择了大卫,让⟨他⟩在我的子民以色列之上。",
   "tokens": [
     {
       "surface": "ואבחר",
-      "english": "但我选择了"
+      "gloss": "但我选择了"
     },
     {
       "surface": "בירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "להיות",
-      "english": "让⟨它⟩成为"
+      "gloss": "让⟨它⟩成为"
     },
     {
       "surface": "שמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "ואבחר",
-      "english": "我选择了"
+      "gloss": "我选择了"
     },
     {
       "surface": "בדויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "להיות",
-      "english": "让⟨他⟩成为"
+      "gloss": "让⟨他⟩成为"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:17:02.949775646Z",
-  "model": "glm-5.2"
+  ]
 }

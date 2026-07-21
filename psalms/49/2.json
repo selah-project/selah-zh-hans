@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 49:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64475,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64821
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:56.168772697Z",
   "translation": "万民哪，你们要听这话；居于此世的一切居民哪，侧耳而听：",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "זאת",
-      "english": "这话"
+      "gloss": "这话"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "העמים",
-      "english": "万民"
+      "gloss": "万民"
     },
     {
       "surface": "האזינו",
-      "english": "侧耳而听"
+      "gloss": "侧耳而听"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ישבי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "חלד",
-      "english": "于此世（ fleeting world ）"
+      "gloss": "于此世（ fleeting world ）"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:56.168772697Z",
-  "model": "glm-5.2"
+  ]
 }

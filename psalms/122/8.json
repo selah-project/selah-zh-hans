@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 122:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64372,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64699
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:23.364610104Z",
   "translation": "为我的兄弟和我的同伴 ⟨的缘故⟩，请让我现在说：愿你内中有平安。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "为……⟨的缘故⟩"
+      "gloss": "为……⟨的缘故⟩"
     },
     {
       "surface": "אחי",
-      "english": "我的兄弟"
+      "gloss": "我的兄弟"
     },
     {
       "surface": "ורעי",
-      "english": "和我的同伴"
+      "gloss": "和我的同伴"
     },
     {
       "surface": "אדברה",
-      "english": "请让我说"
+      "gloss": "请让我说"
     },
     {
       "surface": "נא",
-      "english": "现在\/请"
+      "gloss": "现在\/请"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "בך",
-      "english": "在你内中"
+      "gloss": "在你内中"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:23.364610104Z",
-  "model": "glm-5.2"
+  ]
 }

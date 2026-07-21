@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 145:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64403,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:05.188226107Z",
   "translation": "一代向一代要颂赞你的作为,你的大能它们要⟨宣告⟩。",
   "tokens": [
     {
       "surface": "דּ֣וֹר",
-      "english": "一代"
+      "gloss": "一代"
     },
     {
       "surface": "לְ֭\/דוֹר",
-      "english": "向一代"
+      "gloss": "向一代"
     },
     {
       "surface": "יְשַׁבַּ֣ח",
-      "english": "要颂赞"
+      "gloss": "要颂赞"
     },
     {
       "surface": "מַעֲשֶׂ֑י\/ךָ",
-      "english": "你的作为"
+      "gloss": "你的作为"
     },
     {
       "surface": "וּ\/גְב֖וּרֹתֶ֣י\/ךָ",
-      "english": "你的大能"
+      "gloss": "你的大能"
     },
     {
       "surface": "יַגִּֽידוּ",
-      "english": "⟨它们⟩要⟨宣告⟩"
+      "gloss": "⟨它们⟩要⟨宣告⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:05.188226107Z",
-  "model": "glm-5.2"
+  ]
 }

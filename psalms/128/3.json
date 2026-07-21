@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 128:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64798,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65234
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:25.119287421Z",
   "translation": "你的妻子在你房屋的内室⟨像⟩结果子的葡萄藤；你的子嗣⟨像⟩橄榄栽子环绕在你的餐桌旁。",
   "tokens": [
     {
       "surface": "אשתך",
-      "english": "你的妻子"
+      "gloss": "你的妻子"
     },
     {
       "surface": "כגפן",
-      "english": "⟨像⟩葡萄藤"
+      "gloss": "⟨像⟩葡萄藤"
     },
     {
       "surface": "פריה",
-      "english": "结果子的"
+      "gloss": "结果子的"
     },
     {
       "surface": "בירכתי",
-      "english": "在内室"
+      "gloss": "在内室"
     },
     {
       "surface": "ביתך",
-      "english": "你的房屋"
+      "gloss": "你的房屋"
     },
     {
       "surface": "בניך",
-      "english": "你的子嗣"
+      "gloss": "你的子嗣"
     },
     {
       "surface": "כשתלי",
-      "english": "⟨像⟩栽子"
+      "gloss": "⟨像⟩栽子"
     },
     {
       "surface": "זיתים",
-      "english": "橄榄"
+      "gloss": "橄榄"
     },
     {
       "surface": "סביב",
-      "english": "环绕"
+      "gloss": "环绕"
     },
     {
       "surface": "לשלחנך",
-      "english": "在你的餐桌旁"
+      "gloss": "在你的餐桌旁"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:25.119287421Z",
-  "model": "glm-5.2"
+  ]
 }

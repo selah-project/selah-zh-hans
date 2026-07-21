@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 41:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21597,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22063
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:56.035493620Z",
   "translation": "在他以下⟨是⟩锐利的瓦片，⟨他⟩将犁鏵鋪在泥上。",
   "tokens": [
     {
       "surface": "תחתיו",
-      "english": "在他以下"
+      "gloss": "在他以下"
     },
     {
       "surface": "חדודי",
-      "english": "锐利的"
+      "gloss": "锐利的"
     },
     {
       "surface": "חרש",
-      "english": "瓦片"
+      "gloss": "瓦片"
     },
     {
       "surface": "ירפד",
-      "english": "⟨他⟩铺"
+      "gloss": "⟨他⟩铺"
     },
     {
       "surface": "חרוץ",
-      "english": "犁鏵"
+      "gloss": "犁鏵"
     },
     {
       "surface": "עלי",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "טיט",
-      "english": "泥"
+      "gloss": "泥"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:56.035493620Z",
-  "model": "glm-5.2"
+  ]
 }

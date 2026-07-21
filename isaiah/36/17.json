@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "isaiah 36:17",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 645,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21265,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21910
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:51:16.711172772Z",
   "translation": "直到我来，带领⟨את⟩你们去往一块如你们地土之地，⟨一块⟩出产谷物和新酒之地，⟨一块⟩饼和葡萄园之地。",
   "tokens": [
     {
       "surface": "עַד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בֹּאִ֕\/י",
-      "english": "我来"
+      "gloss": "我来"
     },
     {
       "surface": "וְ\/לָקַחְתִּ֥י",
-      "english": "带领"
+      "gloss": "带领"
     },
     {
       "surface": "אֶתְ\/כֶ֖ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "אֶל",
-      "english": "去往"
+      "gloss": "去往"
     },
     {
       "surface": "אֶ֣רֶץ",
-      "english": "一块……地"
+      "gloss": "一块……地"
     },
     {
       "surface": "כְּ\/אַרְצְ\/כֶ֑ם",
-      "english": "如你们地土"
+      "gloss": "如你们地土"
     },
     {
       "surface": "אֶ֤רֶץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "דָּגָן֙",
-      "english": "出产谷物"
+      "gloss": "出产谷物"
     },
     {
       "surface": "וְ\/תִיר֔וֹשׁ",
-      "english": "和新酒"
+      "gloss": "和新酒"
     },
     {
       "surface": "אֶ֥רֶץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "לֶ֖חֶם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "וּ\/כְרָמִֽים",
-      "english": "和葡萄园"
+      "gloss": "和葡萄园"
     }
-  ],
-  "timestamp": "2026-07-17T21:51:16.711172772Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 33:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59953,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60386
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:34:17.303547218Z",
   "translation": "他又在雅威的殿中筑了祭坛,⟨关于这殿⟩雅威曾说过:在耶路撒冷,我的名将存到永远。",
   "tokens": [
     {
       "surface": "ובנה",
-      "english": "他筑了"
+      "gloss": "他筑了"
     },
     {
       "surface": "מזבחות",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "בבית",
-      "english": "在……的殿中"
+      "gloss": "在……的殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אשר",
-      "english": "⟨关于这殿⟩"
+      "gloss": "⟨关于这殿⟩"
     },
     {
       "surface": "אמר",
-      "english": "曾说过"
+      "gloss": "曾说过"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     },
     {
       "surface": "יהיה",
-      "english": "将是"
+      "gloss": "将是"
     },
     {
       "surface": "שמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     }
-  ],
-  "timestamp": "2026-07-18T02:34:17.303547218Z",
-  "model": "glm-5.2"
+  ]
 }

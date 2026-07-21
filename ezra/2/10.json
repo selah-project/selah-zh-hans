@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezra 2:10",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 170,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46182,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46352
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:00.921956047Z",
   "translation": "巴尼的子孙：六百四十二人。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "בני",
-      "english": "巴尼"
+      "gloss": "巴尼"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "ושנים",
-      "english": "和二"
+      "gloss": "和二"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:00.921956047Z",
-  "model": "glm-5.2"
+  ]
 }

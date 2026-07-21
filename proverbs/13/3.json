@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 13:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54541,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54905
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:56.110048066Z",
   "translation": "谨守他口的，守护他的生命；张开他嘴唇的，⟨对他⟩便是毁灭。",
   "tokens": [
     {
       "surface": "נצר",
-      "english": "谨守"
+      "gloss": "谨守"
     },
     {
       "surface": "פיו",
-      "english": "他口的"
+      "gloss": "他口的"
     },
     {
       "surface": "שמר",
-      "english": "守护"
+      "gloss": "守护"
     },
     {
       "surface": "נפשו",
-      "english": "他的生命"
+      "gloss": "他的生命"
     },
     {
       "surface": "פשק",
-      "english": "张开"
+      "gloss": "张开"
     },
     {
       "surface": "שפתיו",
-      "english": "他嘴唇的"
+      "gloss": "他嘴唇的"
     },
     {
       "surface": "מחתה",
-      "english": "毁灭"
+      "gloss": "毁灭"
     },
     {
       "surface": "לו",
-      "english": "⟨对他⟩"
+      "gloss": "⟨对他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:56.110048066Z",
-  "model": "glm-5.2"
+  ]
 }

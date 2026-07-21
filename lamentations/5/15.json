@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "lamentations 5:15",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33490,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33819
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:10.323024786Z",
   "translation": "我们心中的欢乐停息了，⟨我们的⟩舞蹈变为哀悼。",
   "tokens": [
     {
       "surface": "שבת",
-      "english": "停息了"
+      "gloss": "停息了"
     },
     {
       "surface": "משוש",
-      "english": "欢乐"
+      "gloss": "欢乐"
     },
     {
       "surface": "לבנו",
-      "english": "我们心中的"
+      "gloss": "我们心中的"
     },
     {
       "surface": "נהפך",
-      "english": "变为"
+      "gloss": "变为"
     },
     {
       "surface": "לאבל",
-      "english": "哀悼"
+      "gloss": "哀悼"
     },
     {
       "surface": "מחלנו",
-      "english": "我们⟨的⟩舞蹈"
+      "gloss": "我们⟨的⟩舞蹈"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:10.323024786Z",
-  "model": "glm-5.2"
+  ]
 }

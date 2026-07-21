@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 9:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20972,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21588
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:42.457159052Z",
   "translation": "雅威必高升利汛的敌人攻击⟨他⟩，⟨את⟩利汛的敌人；⟨את⟩他的仇敌，他必煽动。",
   "tokens": [
     {
       "surface": "וישגב",
-      "english": "必高升"
+      "gloss": "必高升"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "利汛的敌人"
     },
     {
       "surface": "צרי",
-      "english": "利汛的敌人"
+      "gloss": "利汛的敌人"
     },
     {
       "surface": "רצין",
-      "english": "利汛"
+      "gloss": "利汛"
     },
     {
       "surface": "עליו",
-      "english": "攻击⟨他⟩"
+      "gloss": "攻击⟨他⟩"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的仇敌"
     },
     {
       "surface": "איביו",
-      "english": "他的仇敌"
+      "gloss": "他的仇敌"
     },
     {
       "surface": "יסכסך",
-      "english": "他必煽动"
+      "gloss": "他必煽动"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:42.457159052Z",
-  "model": "glm-5.2"
+  ]
 }

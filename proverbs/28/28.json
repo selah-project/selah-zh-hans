@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "proverbs 28:28",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54391,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54650
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:45.505169957Z",
   "translation": "恶人兴起时，人就隐藏自己；他们灭亡时，义人就增多。",
   "tokens": [
     {
       "surface": "בקום",
-      "english": "在……兴起时"
+      "gloss": "在……兴起时"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יסתר",
-      "english": "人就隐藏自己"
+      "gloss": "人就隐藏自己"
     },
     {
       "surface": "אדם",
-      "english": "人（亚当）"
+      "gloss": "人（亚当）"
     },
     {
       "surface": "ובאבדם",
-      "english": "他们灭亡时"
+      "gloss": "他们灭亡时"
     },
     {
       "surface": "ירבו",
-      "english": "就增多"
+      "gloss": "就增多"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:45.505169957Z",
-  "model": "glm-5.2"
+  ]
 }

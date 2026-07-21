@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 6:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64369,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64748
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:49.616214427Z",
   "translation": "给⟨那⟩指挥者,用丝弦乐器,在第八⟨音⟩上。大卫的* Mizmor *。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给指挥者"
+      "gloss": "给指挥者"
     },
     {
       "surface": "בנגינות",
-      "english": "用丝弦乐器"
+      "gloss": "用丝弦乐器"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "השמינית",
-      "english": "第八"
+      "gloss": "第八"
     },
     {
       "surface": "מזמור",
-      "english": "*Mizmor*"
+      "gloss": "*Mizmor*"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:49.616214427Z",
-  "model": "glm-5.2"
+  ]
 }

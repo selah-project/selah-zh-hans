@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 5:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19030,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19434
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:30:58.966029861Z",
   "translation": "并Shanding慈爱直到千万代,赐给爱我的人,以及遵守我诫命的人。",
   "tokens": [
     {
       "surface": "ועשה",
-      "english": "并Shanding"
+      "gloss": "并Shanding"
     },
     {
       "surface": "חסד",
-      "english": "慈爱"
+      "gloss": "慈爱"
     },
     {
       "surface": "לאלפים",
-      "english": "直到千万代"
+      "gloss": "直到千万代"
     },
     {
       "surface": "לאהבי",
-      "english": "赐给爱我的人"
+      "gloss": "赐给爱我的人"
     },
     {
       "surface": "ולשמרי",
-      "english": "以及遵守"
+      "gloss": "以及遵守"
     },
     {
       "surface": "מצותו",
-      "english": "我诫命的人"
+      "gloss": "我诫命的人"
     }
-  ],
-  "timestamp": "2026-07-17T19:30:58.966029861Z",
-  "model": "glm-5.2"
+  ]
 }

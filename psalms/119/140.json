@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 140,
   "ref": "psalms 119:140",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64206,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64700
-  },
+  "verse": 140,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:25.181950155Z",
   "translation": "你的话被精炼得极净，⟨因此⟩你的仆人爱慕它。",
   "tokens": [
     {
       "surface": "צְרוּפָ֖ה",
-      "english": "被精炼得净"
+      "gloss": "被精炼得净"
     },
     {
       "surface": "אִמְרָתְ\/ךָ֥",
-      "english": "你的话语"
+      "gloss": "你的话语"
     },
     {
       "surface": "מְאֹ֗ד",
-      "english": "极"
+      "gloss": "极"
     },
     {
       "surface": "וְֽ\/עַבְדְּ\/ךָ֥",
-      "english": "而你的仆人"
+      "gloss": "而你的仆人"
     },
     {
       "surface": "אֲהֵבָֽ\/הּ",
-      "english": "爱慕它"
+      "gloss": "爱慕它"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:25.181950155Z",
-  "model": "glm-5.2"
+  ]
 }

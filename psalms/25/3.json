@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 25:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 577,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65167
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:22.882290710Z",
   "translation": "凡等候你的,也必不致羞愧;願那無故背信的人蒙羞。",
   "tokens": [
     {
       "surface": "גַּ֣ם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "כָּל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "קֹוֶי\/ךָ",
-      "english": "等候你的"
+      "gloss": "等候你的"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יֵבֹ֑שׁוּ",
-      "english": "⟨必⟩羞愧"
+      "gloss": "⟨必⟩羞愧"
     },
     {
       "surface": "יֵ֝בֹ֗שׁוּ",
-      "english": "願⟨他們⟩蒙羞"
+      "gloss": "願⟨他們⟩蒙羞"
     },
     {
       "surface": "הַ\/בּוֹגְדִ֥ים",
-      "english": "那背信的人"
+      "gloss": "那背信的人"
     },
     {
       "surface": "רֵיקָֽם",
-      "english": "無故"
+      "gloss": "無故"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:22.882290710Z",
-  "model": "glm-5.2"
+  ]
 }

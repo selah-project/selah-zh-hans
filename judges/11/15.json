@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "judges 11:15",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18497,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18989
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:13:58.216725663Z",
   "translation": "他对他说：雅弗他如此说：以色列没有夺取摩押地⟨את⟩，也没有夺取亚扪人⟨的⟩地⟨את⟩。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יפתח",
-      "english": "雅弗他"
+      "gloss": "雅弗他"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לקח",
-      "english": "夺取"
+      "gloss": "夺取"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩押地"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "ואת",
-      "english": "也没有⟨את⟩",
+      "gloss": "也没有⟨את⟩",
       "marks": "亚扪人之地"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "בני",
-      "english": "人（……之子）"
+      "gloss": "人（……之子）"
     },
     {
       "surface": "עמון",
-      "english": "亚扪"
+      "gloss": "亚扪"
     }
-  ],
-  "timestamp": "2026-07-17T20:13:58.216725663Z",
-  "model": "glm-5.2"
+  ]
 }

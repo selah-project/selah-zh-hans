@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "nehemiah 10:3",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 211,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50617,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 50828
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:48:11.191652614Z",
   "translation": "西莱雅、亚撒利雅、耶利米",
   "tokens": [
     {
       "surface": "שריה",
-      "english": "西莱雅"
+      "gloss": "西莱雅"
     },
     {
       "surface": "עזריה",
-      "english": "亚撒利雅"
+      "gloss": "亚撒利雅"
     },
     {
       "surface": "ירמיה",
-      "english": "耶利米"
+      "gloss": "耶利米"
     }
-  ],
-  "timestamp": "2026-07-18T01:48:11.191652614Z",
-  "model": "glm-5.2"
+  ]
 }

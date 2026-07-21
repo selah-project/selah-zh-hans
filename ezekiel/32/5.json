@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ezekiel 32:5",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19027,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19434
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:59:14.312620720Z",
   "translation": "我必将⟨את⟩你的肉放在众山上，用你的尸堆填满众山谷。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "我必将……给"
+      "gloss": "我必将……给"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的肉"
     },
     {
       "surface": "בשרך",
-      "english": "你的肉"
+      "gloss": "你的肉"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ההרים",
-      "english": "众山"
+      "gloss": "众山"
     },
     {
       "surface": "ומלאתי",
-      "english": "而我将填满"
+      "gloss": "而我将填满"
     },
     {
       "surface": "הגאיות",
-      "english": "众山谷"
+      "gloss": "众山谷"
     },
     {
       "surface": "רמותך",
-      "english": "你的尸堆"
+      "gloss": "你的尸堆"
     }
-  ],
-  "timestamp": "2026-07-17T22:59:14.312620720Z",
-  "model": "glm-5.2"
+  ]
 }

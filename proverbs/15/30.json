@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "proverbs 15:30",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54544,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54883
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:13.415177814Z",
   "translation": "眼目之光照亮内心，好消息使骨头⟨得⟩滋润。",
   "tokens": [
     {
       "surface": "מאור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "עינים",
-      "english": "眼目之"
+      "gloss": "眼目之"
     },
     {
       "surface": "ישמח",
-      "english": "照亮"
+      "gloss": "照亮"
     },
     {
       "surface": "לב",
-      "english": "内心"
+      "gloss": "内心"
     },
     {
       "surface": "שמועה",
-      "english": "消息"
+      "gloss": "消息"
     },
     {
       "surface": "טובה",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "תדשן",
-      "english": "使……滋润"
+      "gloss": "使……滋润"
     },
     {
       "surface": "עצם",
-      "english": "骨头"
+      "gloss": "骨头"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:13.415177814Z",
-  "model": "glm-5.2"
+  ]
 }

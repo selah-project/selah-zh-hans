@@ -1,79 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-samuel 5:2",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18671,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19128
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:23:42.641993826Z",
   "translation": "非利士人取了⟨את⟩以罗欣的约柜，将它带进大衮的殿，将它安置在大衮旁边。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "ויביאו",
-      "english": "带进"
+      "gloss": "带进"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩它",
+      "gloss": "⟨את⟩它",
       "marks": "殿"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "דגון",
-      "english": "大衮"
+      "gloss": "大衮"
     },
     {
       "surface": "ויציגו",
-      "english": "安置了"
+      "gloss": "安置了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩它",
+      "gloss": "⟨את⟩它",
       "marks": "在大衮旁边"
     },
     {
       "surface": "אצל",
-      "english": "在……旁边"
+      "gloss": "在……旁边"
     },
     {
       "surface": "דגון",
-      "english": "大衮"
+      "gloss": "大衮"
     }
-  ],
-  "timestamp": "2026-07-17T20:23:42.641993826Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 128:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64772
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:24.690899472Z",
   "translation": "看哪！诚然如此,⟨那⟩敬畏雅威的אִישׁ (人)必如此蒙福。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "כי",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "יברך",
-      "english": "必蒙福"
+      "gloss": "必蒙福"
     },
     {
       "surface": "גבר",
-      "english": "אִישׁ (人)"
+      "gloss": "אִישׁ (人)"
     },
     {
       "surface": "ירא",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:24.690899472Z",
-  "model": "glm-5.2"
+  ]
 }

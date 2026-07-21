@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "1-chronicles 8:13",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59148,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59601
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:51.344273018Z",
   "translation": "还有比里亚和示玛:他们⟨是⟩亚雅仑居民的父家之首。他们赶跑了⟨את⟩迦特的居民。",
   "tokens": [
     {
       "surface": "וברעה",
-      "english": "还有比里亚"
+      "gloss": "还有比里亚"
     },
     {
       "surface": "ושמע",
-      "english": "和示玛"
+      "gloss": "和示玛"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ראשי",
-      "english": "⟨之⟩首"
+      "gloss": "⟨之⟩首"
     },
     {
       "surface": "האבות",
-      "english": "父家"
+      "gloss": "父家"
     },
     {
       "surface": "ליושבי",
-      "english": "⟨属于⟩……的居民"
+      "gloss": "⟨属于⟩……的居民"
     },
     {
       "surface": "אילון",
-      "english": "亚雅仑"
+      "gloss": "亚雅仑"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "הבריחו",
-      "english": "赶跑了"
+      "gloss": "赶跑了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "迦特的居民"
     },
     {
       "surface": "יושבי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "גת",
-      "english": "迦特"
+      "gloss": "迦特"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:51.344273018Z",
-  "model": "glm-5.2"
+  ]
 }

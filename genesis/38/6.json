@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "genesis 38:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22801,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23092
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:10.298724985Z",
   "translation": "犹大为珥⟨他的⟩长子娶了⟨一⟩妻子,她的名字是塔玛尔。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "אשה",
-      "english": "⟨一⟩妻子"
+      "gloss": "⟨一⟩妻子"
     },
     {
       "surface": "לער",
-      "english": "为珥"
+      "gloss": "为珥"
     },
     {
       "surface": "בכורו",
-      "english": "⟨他的⟩长子"
+      "gloss": "⟨他的⟩长子"
     },
     {
       "surface": "ושמה",
-      "english": "她的名字"
+      "gloss": "她的名字"
     },
     {
       "surface": "תמר",
-      "english": "塔玛尔"
+      "gloss": "塔玛尔"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:10.298724985Z",
-  "model": "glm-5.2"
+  ]
 }

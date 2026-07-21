@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 23:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54350,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54821
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:39.382184147Z",
   "translation": "不要 ⟨与⟩ 酣酒者为伍,⟨与⟩ 贪食肉者为伍;",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תהי",
-      "english": "你成为"
+      "gloss": "你成为"
     },
     {
       "surface": "בסבאי",
-      "english": "⟨与⟩酣酒者为伍"
+      "gloss": "⟨与⟩酣酒者为伍"
     },
     {
       "surface": "יין",
-      "english": "酒的"
+      "gloss": "酒的"
     },
     {
       "surface": "בזללי",
-      "english": "⟨与⟩贪食肉者为伍"
+      "gloss": "⟨与⟩贪食肉者为伍"
     },
     {
       "surface": "בשר",
-      "english": "肉的"
+      "gloss": "肉的"
     },
     {
       "surface": "למו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-18T00:44:39.382184147Z",
-  "model": "glm-5.2"
+  ]
 }

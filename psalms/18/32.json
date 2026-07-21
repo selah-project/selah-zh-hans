@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 18:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64552,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65013
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:52.583775789Z",
   "translation": "因为除雅威之外,谁是 ⟨את⟩ 以罗欣 (神) 呢？除 ⟨את⟩ 我们的以罗欣之外,谁是磐石呢？",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מי",
-      "english": "谁是"
+      "gloss": "谁是"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣 (神)"
+      "gloss": "以罗欣 (神)"
     },
     {
       "surface": "מבלעדי",
-      "english": "除……之外"
+      "gloss": "除……之外"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ומי",
-      "english": "谁是"
+      "gloss": "谁是"
     },
     {
       "surface": "צור",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "זולתי",
-      "english": "除……之外"
+      "gloss": "除……之外"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:52.583775789Z",
-  "model": "glm-5.2"
+  ]
 }

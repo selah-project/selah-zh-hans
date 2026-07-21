@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 3:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58610,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59067
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:53:10.147343968Z",
   "translation": "第五⟨位⟩是 示法提雅，母亲是；第六⟨位⟩是 伊特兰，母亲是他的妻子 עֶגְלָה。",
   "tokens": [
     {
       "surface": "החמישי",
-      "english": "第五⟨位⟩"
+      "gloss": "第五⟨位⟩"
     },
     {
       "surface": "שפטיה",
-      "english": "示法提雅"
+      "gloss": "示法提雅"
     },
     {
       "surface": "לאביטל",
-      "english": "母亲是"
+      "gloss": "母亲是"
     },
     {
       "surface": "הששי",
-      "english": "第六⟨位⟩"
+      "gloss": "第六⟨位⟩"
     },
     {
       "surface": "יתרעם",
-      "english": "伊特兰"
+      "gloss": "伊特兰"
     },
     {
       "surface": "לעגלה",
-      "english": "母亲是 עֶגְלָה"
+      "gloss": "母亲是 עֶגְלָה"
     },
     {
       "surface": "אשתו",
-      "english": "他的妻子"
+      "gloss": "他的妻子"
     }
-  ],
-  "timestamp": "2026-07-18T01:53:10.147343968Z",
-  "model": "glm-5.2"
+  ]
 }

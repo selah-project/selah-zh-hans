@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 41:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21596,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22205
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:51.499183930Z",
   "translation": "剑⟨触碰不到他⟩,⟨因为⟩他不能被兴起;长矛、飞镖,以及投掷武器。",
   "tokens": [
     {
       "surface": "מַשִּׂיגֵהוּ",
-      "english": "⟨触碰不到他⟩"
+      "gloss": "⟨触碰不到他⟩"
     },
     {
       "surface": "חֶרֶב",
-      "english": "剑"
+      "gloss": "剑"
     },
     {
       "surface": "בְּלִי",
-      "english": "⟨因为⟩不能"
+      "gloss": "⟨因为⟩不能"
     },
     {
       "surface": "תָּקוּם",
-      "english": "被兴起"
+      "gloss": "被兴起"
     },
     {
       "surface": "חֲנִית",
-      "english": "长矛"
+      "gloss": "长矛"
     },
     {
       "surface": "מַסָּע",
-      "english": "飞镖"
+      "gloss": "飞镖"
     },
     {
       "surface": "וְשִׁרְיָה",
-      "english": "以及投掷武器"
+      "gloss": "以及投掷武器"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:51.499183930Z",
-  "model": "glm-5.2"
+  ]
 }

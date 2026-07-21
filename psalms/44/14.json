@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 44:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64415,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64768
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:11.764803098Z",
   "translation": "你使我们成为⟨我们⟩邻舍的羞辱，成为我们周围人的笑料和讥诮。",
   "tokens": [
     {
       "surface": "תשימנו",
-      "english": "你使我们成为"
+      "gloss": "你使我们成为"
     },
     {
       "surface": "חרפה",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "לשכנינו",
-      "english": "⟨我们⟩邻舍的"
+      "gloss": "⟨我们⟩邻舍的"
     },
     {
       "surface": "לעג",
-      "english": "笑料"
+      "gloss": "笑料"
     },
     {
       "surface": "וקלס",
-      "english": "和讥诮"
+      "gloss": "和讥诮"
     },
     {
       "surface": "לסביבותינו",
-      "english": "我们周围人的"
+      "gloss": "我们周围人的"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:11.764803098Z",
-  "model": "glm-5.2"
+  ]
 }

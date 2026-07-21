@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 11:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21659,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22102
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:55.717524721Z",
   "translation": "多言 ⟨难道⟩ 不被回应吗?口舌之〈人〉⟨能⟩ 称义吗?",
   "tokens": [
     {
       "surface": "הרב",
-      "english": "多言"
+      "gloss": "多言"
     },
     {
       "surface": "דברים",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יענה",
-      "english": "被回应"
+      "gloss": "被回应"
     },
     {
       "surface": "ואם",
-      "english": "难道……吗"
+      "gloss": "难道……吗"
     },
     {
       "surface": "אישׁ",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "שׂפתים",
-      "english": "口舌之"
+      "gloss": "口舌之"
     },
     {
       "surface": "יצדק",
-      "english": "称义"
+      "gloss": "称义"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:55.717524721Z",
-  "model": "glm-5.2"
+  ]
 }

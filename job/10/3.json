@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 10:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22084,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22679
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:12.401142981Z",
   "translation": "对⟨你⟩⟨是⟩好吗 —— ⟨你⟩欺压，⟨你⟩蔑视⟨你⟩双手的劳碌，而在恶人的计谋上⟨你⟩放光？",
   "tokens": [
     {
       "surface": "הטוב",
-      "english": "⟨是⟩好吗"
+      "gloss": "⟨是⟩好吗"
     },
     {
       "surface": "לך",
-      "english": "对⟨你⟩"
+      "gloss": "对⟨你⟩"
     },
     {
       "surface": "כי",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "תעשק",
-      "english": "⟨你⟩欺压"
+      "gloss": "⟨你⟩欺压"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תמאס",
-      "english": "⟨你⟩蔑视"
+      "gloss": "⟨你⟩蔑视"
     },
     {
       "surface": "יגיע",
-      "english": "劳碌"
+      "gloss": "劳碌"
     },
     {
       "surface": "כפיך",
-      "english": "⟨你⟩双手的"
+      "gloss": "⟨你⟩双手的"
     },
     {
       "surface": "ועל",
-      "english": "而在……上"
+      "gloss": "而在……上"
     },
     {
       "surface": "עצת",
-      "english": "计谋"
+      "gloss": "计谋"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "הופעת",
-      "english": "⟨你⟩放光"
+      "gloss": "⟨你⟩放光"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:12.401142981Z",
-  "model": "glm-5.2"
+  ]
 }

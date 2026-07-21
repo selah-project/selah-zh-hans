@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "exodus 33:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18779,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19157
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:16.635588582Z",
   "translation": "他说:你不能看见⟨את⟩我的面,因为人不能看见我,⟨他⟩还存活。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "תוכל",
-      "english": "你能够"
+      "gloss": "你能够"
     },
     {
       "surface": "לראת",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的面"
     },
     {
       "surface": "פני",
-      "english": "我的面"
+      "gloss": "我的面"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יראני",
-      "english": "看见我"
+      "gloss": "看见我"
     },
     {
       "surface": "האדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "וחי",
-      "english": "还存活"
+      "gloss": "还存活"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:16.635588582Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "2-samuel 22:6",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18655,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19312
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:45.921816907Z",
   "translation": "阴间的绳索四面围绕我；死亡的陷阱迎面⟨将我⟩拦截。",
   "tokens": [
     {
       "surface": "חֶבְלֵ֥י",
-      "english": "阴间的绳索"
+      "gloss": "阴间的绳索"
     },
     {
       "surface": "שְׁא֖וֹל",
-      "english": "阴间"
+      "gloss": "阴间"
     },
     {
       "surface": "סַבֻּ֑נִי",
-      "english": "四面围绕我"
+      "gloss": "四面围绕我"
     },
     {
       "surface": "קִדְּמֻ֖נִי",
-      "english": "迎面拦截⟨我⟩"
+      "gloss": "迎面拦截⟨我⟩"
     },
     {
       "surface": "מֹקְשֵׁ֥י",
-      "english": "死亡的陷阱"
+      "gloss": "死亡的陷阱"
     },
     {
       "surface": "מָֽוֶת",
-      "english": "死亡"
+      "gloss": "死亡"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:45.921816907Z",
-  "model": "glm-5.2"
+  ]
 }

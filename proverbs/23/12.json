@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 23:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54259,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54661
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:21.249628901Z",
   "translation": "将你的心带入训诲,将你的耳转向知识的话语。",
   "tokens": [
     {
       "surface": "הביאה",
-      "english": "将……带入"
+      "gloss": "将……带入"
     },
     {
       "surface": "למוסר",
-      "english": "训诲"
+      "gloss": "训诲"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "ואזנך",
-      "english": "将你的耳转向"
+      "gloss": "将你的耳转向"
     },
     {
       "surface": "לאמרי",
-      "english": "……的话语"
+      "gloss": "……的话语"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:21.249628901Z",
-  "model": "glm-5.2"
+  ]
 }

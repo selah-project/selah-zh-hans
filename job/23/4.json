@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 23:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21528,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21961
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:38.139672120Z",
   "translation": "我要在⟨他⟩面前陈明案件，用⟨论据⟩填满我的口；",
   "tokens": [
     {
       "surface": "אערכה",
-      "english": "我要……陈明"
+      "gloss": "我要……陈明"
     },
     {
       "surface": "לפניו",
-      "english": "在⟨他⟩面前"
+      "gloss": "在⟨他⟩面前"
     },
     {
       "surface": "משפט",
-      "english": "案件"
+      "gloss": "案件"
     },
     {
       "surface": "ופי",
-      "english": "用……我的口"
+      "gloss": "用……我的口"
     },
     {
       "surface": "אמלא",
-      "english": "我要填满"
+      "gloss": "我要填满"
     },
     {
       "surface": "תוכחות",
-      "english": "⟨论据⟩"
+      "gloss": "⟨论据⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:38.139672120Z",
-  "model": "glm-5.2"
+  ]
 }

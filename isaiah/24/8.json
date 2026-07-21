@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 24:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20781,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21273
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:13.923169852Z",
   "translation": "手鼓的欢愉止息了，狂欢者的喧闹停息了，竖琴的欢愉止息了。",
   "tokens": [
     {
       "surface": "שָׁבַת",
-      "english": "止息了"
+      "gloss": "止息了"
     },
     {
       "surface": "מְשׂ֣וֹשׂ",
-      "english": "欢愉"
+      "gloss": "欢愉"
     },
     {
       "surface": "תֻּפִּ֔ים",
-      "english": "手鼓"
+      "gloss": "手鼓"
     },
     {
       "surface": "חָדַ֖ל",
-      "english": "停息了"
+      "gloss": "停息了"
     },
     {
       "surface": "שְׁא֣וֹן",
-      "english": "喧闹"
+      "gloss": "喧闹"
     },
     {
       "surface": "עַלִּיזִ֑ים",
-      "english": "狂欢者"
+      "gloss": "狂欢者"
     },
     {
       "surface": "שָׁבַ֖ת",
-      "english": "止息了"
+      "gloss": "止息了"
     },
     {
       "surface": "מְשׂ֥וֹשׂ",
-      "english": "欢愉"
+      "gloss": "欢愉"
     },
     {
       "surface": "כִּנּֽוֹר",
-      "english": "竖琴"
+      "gloss": "竖琴"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:13.923169852Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "lamentations 3:28",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33462,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33840
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:51.201847423Z",
   "translation": "他当独自静坐,保持沉默,因为⟨他⟩已将⟨它⟩加在他身上。",
   "tokens": [
     {
       "surface": "ישב",
-      "english": "他当坐"
+      "gloss": "他当坐"
     },
     {
       "surface": "בדד",
-      "english": "独自"
+      "gloss": "独自"
     },
     {
       "surface": "וידם",
-      "english": "并保持沉默"
+      "gloss": "并保持沉默"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נטל",
-      "english": "⟨他⟩已将⟨它⟩加"
+      "gloss": "⟨他⟩已将⟨它⟩加"
     },
     {
       "surface": "עליו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:51.201847423Z",
-  "model": "glm-5.2"
+  ]
 }

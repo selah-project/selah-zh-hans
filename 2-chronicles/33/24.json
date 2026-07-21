@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "2-chronicles 33:24",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59367,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59731
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:34:25.285863487Z",
   "translation": "他的仆人们阴谋对付他，并在他⟨自己的⟩家中将他治死。",
   "tokens": [
     {
       "surface": "ויקשרו",
-      "english": "阴谋对付"
+      "gloss": "阴谋对付"
     },
     {
       "surface": "עליו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "עבדיו",
-      "english": "他的仆人们"
+      "gloss": "他的仆人们"
     },
     {
       "surface": "וימיתהו",
-      "english": "并将他治死"
+      "gloss": "并将他治死"
     },
     {
       "surface": "בביתו",
-      "english": "在他⟨自己的⟩家中"
+      "gloss": "在他⟨自己的⟩家中"
     }
-  ],
-  "timestamp": "2026-07-18T02:34:25.285863487Z",
-  "model": "glm-5.2"
+  ]
 }

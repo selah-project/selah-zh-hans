@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 25:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22901,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23302
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:40.506808171Z",
   "translation": "雅各说：把你的长子名分在今天卖给我——⟨את⟩你的长子名分，卖给⟨我⟩。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "מכרה",
-      "english": "你卖"
+      "gloss": "你卖"
     },
     {
       "surface": "כיום",
-      "english": "在今天"
+      "gloss": "在今天"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的长子名分"
     },
     {
       "surface": "בכרתך",
-      "english": "你的长子名分"
+      "gloss": "你的长子名分"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:40.506808171Z",
-  "model": "glm-5.2"
+  ]
 }

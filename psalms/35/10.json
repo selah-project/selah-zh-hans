@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 35:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65093,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65593
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:02.046627340Z",
   "translation": "我所有的骨头都要说:雅威啊,谁能像你?⟨那⟩拯救贫穷人脱离比他强壮的,⟨以及⟩贫穷人和困苦人脱离抢夺他的!",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "עצמותי",
-      "english": "我的骨头"
+      "gloss": "我的骨头"
     },
     {
       "surface": "תאמרנה",
-      "english": "都要说"
+      "gloss": "都要说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "כמוך",
-      "english": "能像你"
+      "gloss": "能像你"
     },
     {
       "surface": "מציל",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "עני",
-      "english": "贫穷人"
+      "gloss": "贫穷人"
     },
     {
       "surface": "מחזק",
-      "english": "脱离比他强壮的"
+      "gloss": "脱离比他强壮的"
     },
     {
       "surface": "ממנו",
-      "english": "脱离他"
+      "gloss": "脱离他"
     },
     {
       "surface": "ועני",
-      "english": "以及贫穷人"
+      "gloss": "以及贫穷人"
     },
     {
       "surface": "ואביון",
-      "english": "和困苦人"
+      "gloss": "和困苦人"
     },
     {
       "surface": "מגזלו",
-      "english": "脱离抢夺他的"
+      "gloss": "脱离抢夺他的"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:02.046627340Z",
-  "model": "glm-5.2"
+  ]
 }

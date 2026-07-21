@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ecclesiastes 8:5",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19246,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19878
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:51.648065065Z",
   "translation": "遵守*mitzvá*的人,不会知道恶的*davar*;智慧人的心知道⟨合宜的⟩时候和判断。",
   "tokens": [
     {
       "surface": "שומר",
-      "english": "遵守……的人"
+      "gloss": "遵守……的人"
     },
     {
       "surface": "מצוה",
-      "english": "*mitzvá*"
+      "gloss": "*mitzvá*"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידע",
-      "english": "会知道"
+      "gloss": "会知道"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "ועת",
-      "english": "和⟨合宜的⟩时候"
+      "gloss": "和⟨合宜的⟩时候"
     },
     {
       "surface": "ומשפט",
-      "english": "判断"
+      "gloss": "判断"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "חכם",
-      "english": "智慧人的"
+      "gloss": "智慧人的"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:51.648065065Z",
-  "model": "glm-5.2"
+  ]
 }

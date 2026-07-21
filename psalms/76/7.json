@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 76:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64393,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64762
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:40.089194352Z",
   "translation": "从⟨你的⟩斥责,雅威的以罗欣啊,⟨他们⟩沉睡了,战车与马匹。",
   "tokens": [
     {
       "surface": "מגערתך",
-      "english": "从⟨你的⟩斥责"
+      "gloss": "从⟨你的⟩斥责"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יעקב",
-      "english": "雅各的"
+      "gloss": "雅各的"
     },
     {
       "surface": "נרדם",
-      "english": "⟨他们⟩沉睡了"
+      "gloss": "⟨他们⟩沉睡了"
     },
     {
       "surface": "ורכב",
-      "english": "以及战车"
+      "gloss": "以及战车"
     },
     {
       "surface": "וסוס",
-      "english": "与马匹"
+      "gloss": "与马匹"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:40.089194352Z",
-  "model": "glm-5.2"
+  ]
 }

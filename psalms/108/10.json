@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 108:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64716,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65171
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:57.446010339Z",
   "translation": "摩押⟨是⟩我的洗浴盆；在以东之上我抛出我的鞋；在非利士之上我呼喊。",
   "tokens": [
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "סיר",
-      "english": "⟨是⟩……盆"
+      "gloss": "⟨是⟩……盆"
     },
     {
       "surface": "רחצי",
-      "english": "我的洗浴盆"
+      "gloss": "我的洗浴盆"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "אשליך",
-      "english": "我抛出"
+      "gloss": "我抛出"
     },
     {
       "surface": "נעלי",
-      "english": "我的鞋"
+      "gloss": "我的鞋"
     },
     {
       "surface": "עלי",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פלשת",
-      "english": "非利士"
+      "gloss": "非利士"
     },
     {
       "surface": "אתרועע",
-      "english": "我呼喊"
+      "gloss": "我呼喊"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:57.446010339Z",
-  "model": "glm-5.2"
+  ]
 }

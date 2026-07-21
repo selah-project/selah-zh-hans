@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 144:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64715,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65364
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:37.511885870Z",
   "translation": "求你从高处伸手⟨出⟩，拔救我，拯救我脱离众水，脱离外邦人之手。",
   "tokens": [
     {
       "surface": "שְׁלַ֥ח",
-      "english": "求你差遣"
+      "gloss": "求你差遣"
     },
     {
       "surface": "יָדֶ֗י\/ךָ",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "מִ\/מָּ֫ר֥וֹם",
-      "english": "从高处"
+      "gloss": "从高处"
     },
     {
       "surface": "פְּצֵ֣\/נִי",
-      "english": "拔救我"
+      "gloss": "拔救我"
     },
     {
       "surface": "וְ֭\/הַצִּילֵ\/נִי",
-      "english": "并拯救我"
+      "gloss": "并拯救我"
     },
     {
       "surface": "מִ\/מַּ֣יִם",
-      "english": "脱离水"
+      "gloss": "脱离水"
     },
     {
       "surface": "רַבִּ֑ים",
-      "english": "众"
+      "gloss": "众"
     },
     {
       "surface": "מִ֝\/יַּ֗ד",
-      "english": "脱离……之手"
+      "gloss": "脱离……之手"
     },
     {
       "surface": "בְּנֵ֣י",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "נֵכָֽר",
-      "english": "外邦"
+      "gloss": "外邦"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:37.511885870Z",
-  "model": "glm-5.2"
+  ]
 }

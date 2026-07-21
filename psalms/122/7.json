@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 122:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64229,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64565
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:22.926956321Z",
   "translation": "愿平安在你⟨的⟩堡垒内，安宁在你⟨的⟩宫殿内。",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "愿"
+      "gloss": "愿"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "בחילך",
-      "english": "在你⟨的⟩堡垒内"
+      "gloss": "在你⟨的⟩堡垒内"
     },
     {
       "surface": "שלוה",
-      "english": "安宁"
+      "gloss": "安宁"
     },
     {
       "surface": "בארמנותיך",
-      "english": "在你⟨的⟩宫殿内"
+      "gloss": "在你⟨的⟩宫殿内"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:22.926956321Z",
-  "model": "glm-5.2"
+  ]
 }

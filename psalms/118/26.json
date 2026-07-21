@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "psalms 118:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64506,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64832
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:57.722883486Z",
   "translation": "蒙福的是那奉⟨雅威⟩之名而来的人；我们从⟨雅威⟩的殿中祝福了你们。",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "蒙福的是"
+      "gloss": "蒙福的是"
     },
     {
       "surface": "הבא",
-      "english": "那……而来的人"
+      "gloss": "那……而来的人"
     },
     {
       "surface": "בשם",
-      "english": "奉……之名"
+      "gloss": "奉……之名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ברכנוכם",
-      "english": "我们祝福了你们"
+      "gloss": "我们祝福了你们"
     },
     {
       "surface": "מבית",
-      "english": "从……的殿中"
+      "gloss": "从……的殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:57.722883486Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "genesis 43:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 23338,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23773
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:00.137777660Z",
   "translation": "我们还带下了其他的银子 在我们的手里 去买食物; 我们不知道 谁 把我们的银子 放在我们的 袋子 里。",
   "tokens": [
     {
       "surface": "וכסף",
-      "english": "我们还带下了其他的银子"
+      "gloss": "我们还带下了其他的银子"
     },
     {
       "surface": "אחר",
-      "english": "其他的"
+      "gloss": "其他的"
     },
     {
       "surface": "הורדנו",
-      "english": "带下了"
+      "gloss": "带下了"
     },
     {
       "surface": "בידנו",
-      "english": "在我们的手里"
+      "gloss": "在我们的手里"
     },
     {
       "surface": "לשבר",
-      "english": "去买"
+      "gloss": "去买"
     },
     {
       "surface": "אכל",
-      "english": "食物"
+      "gloss": "食物"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידענו",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "שם",
-      "english": "放"
+      "gloss": "放"
     },
     {
       "surface": "כספנו",
-      "english": "我们的银子"
+      "gloss": "我们的银子"
     },
     {
       "surface": "באמתחתינו",
-      "english": "在我们的袋子 里"
+      "gloss": "在我们的袋子 里"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:00.137777660Z",
-  "model": "glm-4.5"
+  ]
 }

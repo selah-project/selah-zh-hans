@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 106:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64500,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64845
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:18.984065338Z",
   "translation": "谁能述说雅威的大能作为？⟨或⟩谁能使人听见他一切的赞美？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁能"
+      "gloss": "谁能"
     },
     {
       "surface": "ימלל",
-      "english": "述说"
+      "gloss": "述说"
     },
     {
       "surface": "גבורות",
-      "english": "大能作为"
+      "gloss": "大能作为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "ישמיע",
-      "english": "⟨或⟩谁能使人听见"
+      "gloss": "⟨或⟩谁能使人听见"
     },
     {
       "surface": "כל",
-      "english": "他一切的"
+      "gloss": "他一切的"
     },
     {
       "surface": "תהלתו",
-      "english": "赞美"
+      "gloss": "赞美"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:18.984065338Z",
-  "model": "glm-5.2"
+  ]
 }

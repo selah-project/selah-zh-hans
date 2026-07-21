@@ -1,91 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "jeremiah 24:10",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19837,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20408
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:20:49.540110109Z",
   "translation": "我必差遣 ⟨את⟩刀剑、⟨את⟩饥荒和⟨את⟩*davar*（瘟疫）临到他们中间，直到他们从我赐给他们和他们的祖先的那土地上灭尽。",
   "tokens": [
     {
       "surface": "ושלחתי",
-      "english": "我必差遣"
+      "gloss": "我必差遣"
     },
     {
       "surface": "בם",
-      "english": "临到他们中间"
+      "gloss": "临到他们中间"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "刀剑"
     },
     {
       "surface": "החרב",
-      "english": "刀剑"
+      "gloss": "刀剑"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "饥荒"
     },
     {
       "surface": "הרעב",
-      "english": "饥荒"
+      "gloss": "饥荒"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "*davar*（瘟疫）"
     },
     {
       "surface": "הדבר",
-      "english": "*davar*（瘟疫）"
+      "gloss": "*davar*（瘟疫）"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "תמם",
-      "english": "他们灭尽"
+      "gloss": "他们灭尽"
     },
     {
       "surface": "מעל",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "האדמה",
-      "english": "那土地上"
+      "gloss": "那土地上"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "נתתי",
-      "english": "我赐给"
+      "gloss": "我赐给"
     },
     {
       "surface": "להם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ולאבותיהם",
-      "english": "和他们的祖先"
+      "gloss": "和他们的祖先"
     }
-  ],
-  "timestamp": "2026-07-17T22:20:49.540110109Z",
-  "model": "glm-5.2"
+  ]
 }

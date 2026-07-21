@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 37:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64491,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64770
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:32.553973256Z",
   "translation": "阿多奈必向他发笑,因为他看见了,因为他的日子必到。",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "ישחק",
-      "english": "必发笑"
+      "gloss": "必发笑"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ראה",
-      "english": "⟨他⟩看见了"
+      "gloss": "⟨他⟩看见了"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יבא",
-      "english": "必到"
+      "gloss": "必到"
     },
     {
       "surface": "יומו",
-      "english": "他的日子"
+      "gloss": "他的日子"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:32.553973256Z",
-  "model": "glm-5.2"
+  ]
 }

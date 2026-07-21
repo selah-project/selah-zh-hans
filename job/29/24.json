@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "job 29:24",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21716,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22146
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:10.402212817Z",
   "translation": "我向他们微笑,他们不信;⟨而⟩我面容的光辉,他们不使之下沉。",
   "tokens": [
     {
       "surface": "אשחק",
-      "english": "我微笑"
+      "gloss": "我微笑"
     },
     {
       "surface": "אלהם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יאמינו",
-      "english": "他们信"
+      "gloss": "他们信"
     },
     {
       "surface": "ואור",
-      "english": "⟨而⟩……的光辉"
+      "gloss": "⟨而⟩……的光辉"
     },
     {
       "surface": "פני",
-      "english": "我面容"
+      "gloss": "我面容"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יפילון",
-      "english": "他们使之沉下"
+      "gloss": "他们使之沉下"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:10.402212817Z",
-  "model": "glm-5.2"
+  ]
 }

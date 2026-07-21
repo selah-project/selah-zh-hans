@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "1-chronicles 21:25",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58751,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59131
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:06:57.031809717Z",
   "translation": "大卫给了⟨את⟩阿珥楠⟨为⟩那地方金舍客勒,重量六百。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "给了"
+      "gloss": "给了"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "לארנן",
-      "english": "⟨给⟩阿珥楠"
+      "gloss": "⟨给⟩阿珥楠"
     },
     {
       "surface": "במקום",
-      "english": "⟨为⟩那地方"
+      "gloss": "⟨为⟩那地方"
     },
     {
       "surface": "שקלי",
-      "english": "舍客勒"
+      "gloss": "舍客勒"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "משקל",
-      "english": "重量"
+      "gloss": "重量"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-18T02:06:57.031809717Z",
-  "model": "glm-5.2"
+  ]
 }

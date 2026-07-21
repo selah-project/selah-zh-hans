@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "job 30:17",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21611,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22085
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:31.711159507Z",
   "translation": "夜间 ⟨וְעֹרְקַי⟩ ⟨הֵם⟩ 我的骨头被穿透，⟨וְעֹרְקַי⟩ 不躺卧休息。",
   "tokens": [
     {
       "surface": "לילה",
-      "english": "夜间"
+      "gloss": "夜间"
     },
     {
       "surface": "עצמי",
-      "english": "我的骨头"
+      "gloss": "我的骨头"
     },
     {
       "surface": "נקר",
-      "english": "被穿透"
+      "gloss": "被穿透"
     },
     {
       "surface": "מעלי",
-      "english": "脱离我"
+      "gloss": "脱离我"
     },
     {
       "surface": "וערקי",
-      "english": "⟨וְעֹרְקַי⟩"
+      "gloss": "⟨וְעֹרְקַי⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישכבון",
-      "english": "躺卧休息"
+      "gloss": "躺卧休息"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:31.711159507Z",
-  "model": "glm-5.2"
+  ]
 }

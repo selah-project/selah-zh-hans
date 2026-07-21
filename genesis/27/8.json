@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 27:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22936,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23254
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:49:56.394838261Z",
   "translation": "现在 therefore，我儿，听从我的声音，⟨对⟩我所吩咐⟨你⟩的 ⟨את⟩。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在 therefore"
+      "gloss": "现在 therefore"
     },
     {
       "surface": "בני",
-      "english": "我儿"
+      "gloss": "我儿"
     },
     {
       "surface": "שמע",
-      "english": "听从"
+      "gloss": "听从"
     },
     {
       "surface": "בקלי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "לאשר",
-      "english": "⟨对⟩……的"
+      "gloss": "⟨对⟩……的"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מצוה",
-      "english": "所吩咐"
+      "gloss": "所吩咐"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     }
-  ],
-  "timestamp": "2026-07-17T17:49:56.394838261Z",
-  "model": "glm-5.2"
+  ]
 }

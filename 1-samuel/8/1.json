@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-samuel 8:1",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18139,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18567
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:20:15.655633977Z",
   "translation": "撒母耳年老的时候，他立⟨את⟩他的众子作以色列的士师。",
   "tokens": [
     {
       "surface": "וַ\/יְהִ֕י",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "כַּ\/אֲשֶׁ֥ר",
-      "english": "当……的时候"
+      "gloss": "当……的时候"
     },
     {
       "surface": "זָקֵ֖ן",
-      "english": "年老"
+      "gloss": "年老"
     },
     {
       "surface": "שְׁמוּאֵ֑ל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "וַ\/יָּ֧שֶׂם",
-      "english": "他立"
+      "gloss": "他立"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的众子"
     },
     {
       "surface": "בָּנָ֛י\/ו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "שֹׁפְטִ֖ים",
-      "english": "士师"
+      "gloss": "士师"
     },
     {
       "surface": "לְ\/יִשְׂרָאֵֽל",
-      "english": "为以色列"
+      "gloss": "为以色列"
     }
-  ],
-  "timestamp": "2026-07-18T03:20:15.655633977Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "jeremiah 16:1",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 223,
-    "prompt_tokens": 18658,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18881
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:20:00.973639586Z",
   "translation": "雅威的*话*也临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "于是"
+      "gloss": "于是"
     },
     {
       "surface": "דבר",
-      "english": "话"
+      "gloss": "话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "到我"
+      "gloss": "到我"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-21T13:20:00.973639586Z",
-  "model": "glm-4.5"
+  ]
 }

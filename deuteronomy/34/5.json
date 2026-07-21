@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 34:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19341,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19677
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:49:59.211629268Z",
   "translation": "摩西,雅威的仆人,就死在那里,在摩押地,照着雅威的口(所吩咐)。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "就死了"
+      "gloss": "就死了"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "עבד",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "על",
-      "english": "照着"
+      "gloss": "照着"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T19:49:59.211629268Z",
-  "model": "glm-5.2"
+  ]
 }

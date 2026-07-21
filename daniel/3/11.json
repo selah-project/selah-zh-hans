@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "daniel 3:11",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18896,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19317
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:29:45.628176527Z",
   "translation": "凡不俯伏敬拜的，必被扔进⟨那⟩燃烧的火炉中。",
   "tokens": [
     {
       "surface": "ומן",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "די",
-      "english": "⟨关系词⟩"
+      "gloss": "⟨关系词⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יפל",
-      "english": "俯伏"
+      "gloss": "俯伏"
     },
     {
       "surface": "ויסגד",
-      "english": "敬拜"
+      "gloss": "敬拜"
     },
     {
       "surface": "יתרמא",
-      "english": "必被扔进"
+      "gloss": "必被扔进"
     },
     {
       "surface": "לגוא",
-      "english": "⟨入⟩中间"
+      "gloss": "⟨入⟩中间"
     },
     {
       "surface": "אתון",
-      "english": "火炉"
+      "gloss": "火炉"
     },
     {
       "surface": "נורא",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "יקדתא",
-      "english": "燃烧的"
+      "gloss": "燃烧的"
     }
-  ],
-  "timestamp": "2026-07-18T01:29:45.628176527Z",
-  "model": "glm-5.2"
+  ]
 }

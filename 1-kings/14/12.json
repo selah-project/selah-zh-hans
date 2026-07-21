@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 14:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64008,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64459
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:09:12.462470090Z",
   "translation": "至于⟨את⟩你,起来,去吧,回你的家;当你的脚步入城的时候,孩子就会死。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "至于⟨את⟩你",
+      "gloss": "至于⟨את⟩你",
       "marks": "你"
     },
     {
       "surface": "קומי",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "לכי",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "לביתך",
-      "english": "回你的家"
+      "gloss": "回你的家"
     },
     {
       "surface": "בבאה",
-      "english": "当……步入"
+      "gloss": "当……步入"
     },
     {
       "surface": "רגליך",
-      "english": "你的脚步"
+      "gloss": "你的脚步"
     },
     {
       "surface": "העירה",
-      "english": "入城"
+      "gloss": "入城"
     },
     {
       "surface": "ומת",
-      "english": "就会死"
+      "gloss": "就会死"
     },
     {
       "surface": "הילד",
-      "english": "孩子"
+      "gloss": "孩子"
     }
-  ],
-  "timestamp": "2026-07-17T21:09:12.462470090Z",
-  "model": "glm-5.2"
+  ]
 }

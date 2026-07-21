@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 94:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64449,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64798
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:52.513314367Z",
   "translation": "若我说：⟨我的⟩脚动摇，雅威啊，你的慈爱就扶持我。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "מטה",
-      "english": "动摇"
+      "gloss": "动摇"
     },
     {
       "surface": "רגלי",
-      "english": "⟨我的⟩脚"
+      "gloss": "⟨我的⟩脚"
     },
     {
       "surface": "חסדך",
-      "english": "你的慈爱"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "יסעדני",
-      "english": "扶持我"
+      "gloss": "扶持我"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:52.513314367Z",
-  "model": "glm-5.2"
+  ]
 }

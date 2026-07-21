@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 14:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64432,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64866
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:10.120205989Z",
   "translation": "在那里他们惧怕了恐惧,因为以罗欣在义人的世代中。",
   "tokens": [
     {
       "surface": "שָׁ֤ם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "פָּ֣חֲדוּ",
-      "english": "他们惧怕了"
+      "gloss": "他们惧怕了"
     },
     {
       "surface": "פָ֑חַד",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֱ֝לֹהִ֗ים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בְּ\/ד֣וֹר",
-      "english": "在……的世代中"
+      "gloss": "在……的世代中"
     },
     {
       "surface": "צַדִּֽיק",
-      "english": "义人"
+      "gloss": "义人"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:10.120205989Z",
-  "model": "glm-5.2"
+  ]
 }

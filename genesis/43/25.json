@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 43:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23459,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24005
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:42.560949291Z",
   "translation": "他们预备了 ⟨את⟩⟨那⟩礼物，直到约瑟在正午进来，因为他们听见了⟨说⟩ ⟨他们⟩在那里要吃饭 ⟨饼⟩。",
   "tokens": [
     {
       "surface": "ויכינו",
-      "english": "他们预备了"
+      "gloss": "他们预备了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那礼物"
     },
     {
       "surface": "המנחה",
-      "english": "那礼物"
+      "gloss": "那礼物"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בוא",
-      "english": "进来"
+      "gloss": "进来"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "בצהרים",
-      "english": "在正午"
+      "gloss": "在正午"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמעו",
-      "english": "他们听见了"
+      "gloss": "他们听见了"
     },
     {
       "surface": "כי",
-      "english": "⟨说⟩"
+      "gloss": "⟨说⟩"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "יאכלו",
-      "english": "⟨他们⟩要吃"
+      "gloss": "⟨他们⟩要吃"
     },
     {
       "surface": "לחם",
-      "english": "饭 ⟨饼⟩"
+      "gloss": "饭 ⟨饼⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:42.560949291Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 6:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64428,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64880
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:44:22.874294633Z",
   "translation": "我的生命也极大地惊惶；⟨而⟩你，雅威——⟨את⟩——⟨还要到⟩何时？",
   "tokens": [
     {
       "surface": "וְ֭\/נַפְשִׁ\/י",
-      "english": "我的生命也"
+      "gloss": "我的生命也"
     },
     {
       "surface": "נִבְהֲלָ֣ה",
-      "english": "惊惶"
+      "gloss": "惊惶"
     },
     {
       "surface": "מְאֹ֑ד",
-      "english": "极大地"
+      "gloss": "极大地"
     },
     {
       "surface": "ו\/את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יְהוָ֗ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עַד",
-      "english": "⟨还要到⟩"
+      "gloss": "⟨还要到⟩"
     },
     {
       "surface": "מָתָֽי",
-      "english": "何时"
+      "gloss": "何时"
     }
-  ],
-  "timestamp": "2026-07-20T06:44:22.874294633Z",
-  "model": "glm-5.2"
+  ]
 }

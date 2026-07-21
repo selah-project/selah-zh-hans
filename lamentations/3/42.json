@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "lamentations 3:42",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33481,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33862
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:06.937917079Z",
   "translation": "נחנו ｜ 我们背叛了，也悖逆了；׀ 你 ⟨לא⟩ 宽恕。",
   "tokens": [
     {
       "surface": "נחנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "פשענו",
-      "english": "背叛了"
+      "gloss": "背叛了"
     },
     {
       "surface": "ומרינו",
-      "english": "也悖逆了"
+      "gloss": "也悖逆了"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "לא",
-      "english": "不 \/ ⟨לא⟩"
+      "gloss": "不 \/ ⟨לא⟩"
     },
     {
       "surface": "סלחת",
-      "english": "宽恕"
+      "gloss": "宽恕"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:06.937917079Z",
-  "model": "glm-5.2"
+  ]
 }

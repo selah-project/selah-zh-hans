@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 20:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21659,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22089
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:52.628973595Z",
   "translation": "因为他不知道安宁⟨在⟩他的腹中;在他所渴望的中,他不能逃脱⟨ anything ⟩。",
   "tokens": [
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יָדַע",
-      "english": "⟨他⟩知道"
+      "gloss": "⟨他⟩知道"
     },
     {
       "surface": "שָׁלֵו",
-      "english": "安宁"
+      "gloss": "安宁"
     },
     {
       "surface": "בְּ\/בִטְנ\/וֹ",
-      "english": "⟨在⟩他的腹中"
+      "gloss": "⟨在⟩他的腹中"
     },
     {
       "surface": "בַּ\/חֲמוּד\/וֹ",
-      "english": "在他所渴望的中"
+      "gloss": "在他所渴望的中"
     },
     {
       "surface": "לֹא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יְמַלֵּט",
-      "english": "逃脱"
+      "gloss": "逃脱"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:52.628973595Z",
-  "model": "glm-5.2"
+  ]
 }

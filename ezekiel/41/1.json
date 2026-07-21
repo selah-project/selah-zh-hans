@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 41:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 680,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19660,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20340
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:06:42.165386649Z",
   "translation": "他将我带入 ⟨הֵיכָל⟩ (圣殿),他量了 ⟨את⟩ ⟨הָאֵילִים⟩ (门柱),这边宽六肘,那边宽六肘,这是 ⟨הָאֹהֶל⟩ (会幕) 的宽。",
   "tokens": [
     {
       "surface": "וַ\/יְבִיאֵ֖\/נִי",
-      "english": "他将我带入"
+      "gloss": "他将我带入"
     },
     {
       "surface": "אֵל",
-      "english": "入"
+      "gloss": "入"
     },
     {
       "surface": "הַ\/הֵיכָ֑ל",
-      "english": "圣殿"
+      "gloss": "圣殿"
     },
     {
       "surface": "וַ\/יָּ֣מָד",
-      "english": "他量了"
+      "gloss": "他量了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "门柱 (הָאֵילִים)"
     },
     {
       "surface": "הָ\/אֵילִ֗ים",
-      "english": "门柱"
+      "gloss": "门柱"
     },
     {
       "surface": "שֵׁשׁ",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "אַמּ֨וֹת",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "רֹ֧חַב",
-      "english": "宽"
+      "gloss": "宽"
     },
     {
       "surface": "מִ\/פּ֛וֹ",
-      "english": "这边"
+      "gloss": "这边"
     },
     {
       "surface": "וְ\/שֵׁשׁ",
-      "english": "和六"
+      "gloss": "和六"
     },
     {
       "surface": "אַמּֽוֹת",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "רֹ֥חַב",
-      "english": "宽"
+      "gloss": "宽"
     },
     {
       "surface": "מִ\/פּ֖וֹ",
-      "english": "那边"
+      "gloss": "那边"
     },
     {
       "surface": "רֹ֥חַב",
-      "english": "这是宽"
+      "gloss": "这是宽"
     },
     {
       "surface": "הָ\/אֹֽהֶל",
-      "english": "会幕"
+      "gloss": "会幕"
     }
-  ],
-  "timestamp": "2026-07-17T23:06:42.165386649Z",
-  "model": "glm-5.2"
+  ]
 }

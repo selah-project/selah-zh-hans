@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "ezekiel 23:13",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18745,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19365
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:53:30.820833576Z",
   "translation": "我⟨就⟩看见她被玷污了:她们二人有一条 ⟨את⟩ 同样的路。",
   "tokens": [
     {
       "surface": "וָ\/אֵ֖רֶא",
-      "english": "我⟨就⟩看见"
+      "gloss": "我⟨就⟩看见"
     },
     {
       "surface": "כִּ֣י",
-      "english": "⟨连词:如此 \/ 因为⟩"
+      "gloss": "⟨连词:如此 \/ 因为⟩"
     },
     {
       "surface": "נִטְמָ֑אָה",
-      "english": "她被玷污了"
+      "gloss": "她被玷污了"
     },
     {
       "surface": "דֶּ֥רֶךְ",
-      "english": "⟨את⟩ 路"
+      "gloss": "⟨את⟩ 路"
     },
     {
       "surface": "אֶחָ֖ד",
-      "english": "同样 ⟨的 \/ 一条⟩"
+      "gloss": "同样 ⟨的 \/ 一条⟩"
     },
     {
       "surface": "לִ\/שְׁתֵּי\/הֶֽן",
-      "english": "她们二人"
+      "gloss": "她们二人"
     }
-  ],
-  "timestamp": "2026-07-17T22:53:30.820833576Z",
-  "model": "glm-5.2"
+  ]
 }

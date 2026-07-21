@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-samuel 22:10",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18603,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19009
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:39.594776690Z",
   "translation": "他屈身诸天，降临；浓云 ⟨在⟩ 他脚下。",
   "tokens": [
     {
       "surface": "וַ\/יֵּט",
-      "english": "他屈身"
+      "gloss": "他屈身"
     },
     {
       "surface": "שָׁמַיִם",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "וַ\/יֵּרַד",
-      "english": "降临"
+      "gloss": "降临"
     },
     {
       "surface": "וַ\/עֲרָפֶל",
-      "english": "浓云"
+      "gloss": "浓云"
     },
     {
       "surface": "תַּחַת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "רַגְלָֽי\/ו",
-      "english": "他的脚"
+      "gloss": "他的脚"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:39.594776690Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 111:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64638,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65061
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:59.242270228Z",
   "translation": "他向他的百姓差遣了救赎，他命令他的盟约⟨存到⟩永远；圣洁而可畏的⟨是⟩他的名字。",
   "tokens": [
     {
       "surface": "פדות",
-      "english": "救赎"
+      "gloss": "救赎"
     },
     {
       "surface": "שלח",
-      "english": "他差遣了"
+      "gloss": "他差遣了"
     },
     {
       "surface": "לעמו",
-      "english": "向他的百姓"
+      "gloss": "向他的百姓"
     },
     {
       "surface": "צוה",
-      "english": "他命令"
+      "gloss": "他命令"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "בריתו",
-      "english": "他的盟约"
+      "gloss": "他的盟约"
     },
     {
       "surface": "קדוש",
-      "english": "圣洁"
+      "gloss": "圣洁"
     },
     {
       "surface": "ונורא",
-      "english": "而可畏的"
+      "gloss": "而可畏的"
     },
     {
       "surface": "שמו",
-      "english": "他的名字"
+      "gloss": "他的名字"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:59.242270228Z",
-  "model": "glm-5.2"
+  ]
 }

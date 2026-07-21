@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "leviticus 25:20",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19563,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20055
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:20.157779310Z",
   "translation": "而⟨你們⟩若說：⟨在⟩第七年我們吃什麼？看哪，我們不撒種，也不收 ⟨את⟩ 我們的出產。",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "而……若"
+      "gloss": "而……若"
     },
     {
       "surface": "תאמרו",
-      "english": "你們說"
+      "gloss": "你們說"
     },
     {
       "surface": "מה",
-      "english": "什麼"
+      "gloss": "什麼"
     },
     {
       "surface": "נאכל",
-      "english": "我們吃"
+      "gloss": "我們吃"
     },
     {
       "surface": "בשנה",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "השביעת",
-      "english": "第七"
+      "gloss": "第七"
     },
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נזרע",
-      "english": "我們撒種"
+      "gloss": "我們撒種"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "נאסף",
-      "english": "我們收"
+      "gloss": "我們收"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我們的出產"
     },
     {
       "surface": "תבואתנו",
-      "english": "我們的出產"
+      "gloss": "我們的出產"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:20.157779310Z",
-  "model": "glm-5.2"
+  ]
 }

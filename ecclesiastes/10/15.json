@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "ecclesiastes 10:15",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19076,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19440
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:22:46.251933754Z",
   "translation": "愚昧人的劳碌使他疲乏,因为他不知道⟨该⟩往城里去。",
   "tokens": [
     {
       "surface": "עמל",
-      "english": "劳碌"
+      "gloss": "劳碌"
     },
     {
       "surface": "הכסילים",
-      "english": "愚昧人的"
+      "gloss": "愚昧人的"
     },
     {
       "surface": "תיגענו",
-      "english": "使他疲乏"
+      "gloss": "使他疲乏"
     },
     {
       "surface": "אשר",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "ללכת",
-      "english": "往……去"
+      "gloss": "往……去"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "עיר",
-      "english": "城"
+      "gloss": "城"
     }
-  ],
-  "timestamp": "2026-07-18T01:22:46.251933754Z",
-  "model": "glm-5.2"
+  ]
 }

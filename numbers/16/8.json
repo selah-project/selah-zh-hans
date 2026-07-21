@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 16:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19554,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19871
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:44:17.028937551Z",
   "translation": "摩西对可拉说:利未的子⟨们⟩啊,现在请听!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "קרח",
-      "english": "可拉"
+      "gloss": "可拉"
     },
     {
       "surface": "שמעו",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "נא",
-      "english": "现在请"
+      "gloss": "现在请"
     },
     {
       "surface": "בני",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     }
-  ],
-  "timestamp": "2026-07-18T02:44:17.028937551Z",
-  "model": "glm-5.2"
+  ]
 }

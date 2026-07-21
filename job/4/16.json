@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 4:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21919,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22418
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:22.042716959Z",
   "translation": "它站定,我⟨却⟩不认得它的容貌;有形像在我眼前,⟨有⟩寂静,我便听见声音。",
   "tokens": [
     {
       "surface": "יַעֲמֹד",
-      "english": "站定"
+      "gloss": "站定"
     },
     {
       "surface": "וְֽ\/לֹא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "אַכִּ֬יר",
-      "english": "认得"
+      "gloss": "认得"
     },
     {
       "surface": "מַרְאֵ֗\/הוּ",
-      "english": "它的容貌"
+      "gloss": "它的容貌"
     },
     {
       "surface": "תְּ֭מוּנָה",
-      "english": "形像"
+      "gloss": "形像"
     },
     {
       "surface": "לְ\/נֶ֣גֶד",
-      "english": "在……眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "עֵינָ֑\/י",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "דְמָמָ֖ה",
-      "english": "寂静"
+      "gloss": "寂静"
     },
     {
       "surface": "וָ\/ק֣וֹל",
-      "english": "和声音"
+      "gloss": "和声音"
     },
     {
       "surface": "אֶשְׁמָֽע",
-      "english": "我便听见"
+      "gloss": "我便听见"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:22.042716959Z",
-  "model": "glm-5.2"
+  ]
 }

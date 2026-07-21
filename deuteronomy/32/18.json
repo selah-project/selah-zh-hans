@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "deuteronomy 32:18",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19024,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19442
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:48:18.798854362Z",
   "translation": "生你的磐石,你忘记;制造你的埃尔,你遗忘。",
   "tokens": [
     {
       "surface": "צור",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "ילדך",
-      "english": "生你的"
+      "gloss": "生你的"
     },
     {
       "surface": "תשי",
-      "english": "你忘记"
+      "gloss": "你忘记"
     },
     {
       "surface": "ותשכח",
-      "english": "你(也)遗忘"
+      "gloss": "你(也)遗忘"
     },
     {
       "surface": "אל",
-      "english": "埃尔"
+      "gloss": "埃尔"
     },
     {
       "surface": "מחללך",
-      "english": "制造你的"
+      "gloss": "制造你的"
     }
-  ],
-  "timestamp": "2026-07-17T19:48:18.798854362Z",
-  "model": "glm-5.2"
+  ]
 }

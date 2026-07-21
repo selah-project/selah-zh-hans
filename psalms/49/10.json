@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 49:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64322,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64729
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:57.029350878Z",
   "translation": "他必继续存活⟨直到⟩永远,必不⟨再⟩见⟨השחת⟩朽坏;",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "他必继续存活"
+      "gloss": "他必继续存活"
     },
     {
       "surface": "עוד",
-      "english": "继续"
+      "gloss": "继续"
     },
     {
       "surface": "לנצח",
-      "english": "⟨直到⟩永远"
+      "gloss": "⟨直到⟩永远"
     },
     {
       "surface": "לא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "יראה",
-      "english": "见"
+      "gloss": "见"
     },
     {
       "surface": "השחת",
-      "english": "⟨השחת⟩朽坏",
+      "gloss": "⟨השחת⟩朽坏",
       "marks": "朽坏"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:57.029350878Z",
-  "model": "glm-5.2"
+  ]
 }

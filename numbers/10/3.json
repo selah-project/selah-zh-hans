@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "numbers 10:3",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19738,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20196
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:42.697656102Z",
   "translation": "你们要用它们吹号,全会众就要聚集到你那里,⟨到⟩会幕的门口。",
   "tokens": [
     {
       "surface": "ותקעו",
-      "english": "你们要吹号"
+      "gloss": "你们要吹号"
     },
     {
       "surface": "בהן",
-      "english": "用它们"
+      "gloss": "用它们"
     },
     {
       "surface": "ונועדו",
-      "english": "就要聚集"
+      "gloss": "就要聚集"
     },
     {
       "surface": "אליך",
-      "english": "到你那里"
+      "gloss": "到你那里"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "העדה",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "אל",
-      "english": "⟨到⟩"
+      "gloss": "⟨到⟩"
     },
     {
       "surface": "פתח",
-      "english": "门口"
+      "gloss": "门口"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "（会）幕（מועד）"
+      "gloss": "（会）幕（מועד）"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:42.697656102Z",
-  "model": "glm-5.2"
+  ]
 }

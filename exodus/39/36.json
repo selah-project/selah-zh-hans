@@ -1,59 +1,48 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "exodus 39:36",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18581,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18961
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:14.412051100Z",
   "translation": "⟨את⟩ 桌子、⟨את⟩ 它一切的器具、以及 ⟨את⟩ 面前的饼；",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "桌子"
     },
     {
       "surface": "השלחן",
-      "english": "桌子"
+      "gloss": "桌子"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它一切的器具"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "面前的饼"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "הפנים",
-      "english": "面前的"
+      "gloss": "面前的"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:14.412051100Z",
-  "model": "glm-5.2"
+  ]
 }

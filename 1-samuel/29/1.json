@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-samuel 29:1",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18463,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18843
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:34.458846890Z",
   "translation": "非利士人集结了⟨את⟩他们所有的营在亚弗;以色列扎营在泉旁,就是在耶斯列的。",
   "tokens": [
     {
       "surface": "ויקבצו",
-      "english": "集结了"
+      "gloss": "集结了"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们所有的营"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "מחניהם",
-      "english": "他们的营"
+      "gloss": "他们的营"
     },
     {
       "surface": "אפקה",
-      "english": "在亚弗"
+      "gloss": "在亚弗"
     },
     {
       "surface": "וישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "חנים",
-      "english": "扎营"
+      "gloss": "扎营"
     },
     {
       "surface": "בעין",
-      "english": "在泉旁"
+      "gloss": "在泉旁"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "ביזרעאל",
-      "english": "在耶斯列的"
+      "gloss": "在耶斯列的"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:34.458846890Z",
-  "model": "glm-5.2"
+  ]
 }

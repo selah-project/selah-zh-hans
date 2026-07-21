@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "genesis 36:34",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 223,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22860,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23083
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:01.074361168Z",
   "translation": "约巴巴死了，代替他作王的有胡珊，出自提幔人之地。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨于是⟩死了"
+      "gloss": "⟨于是⟩死了"
     },
     {
       "surface": "יובב",
-      "english": "约巴巴"
+      "gloss": "约巴巴"
     },
     {
       "surface": "וימלך",
-      "english": "⟨他⟩作王"
+      "gloss": "⟨他⟩作王"
     },
     {
       "surface": "תחתיו",
-      "english": "代替他"
+      "gloss": "代替他"
     },
     {
       "surface": "חשם",
-      "english": "胡珊"
+      "gloss": "胡珊"
     },
     {
       "surface": "מארץ",
-      "english": "出自……之地"
+      "gloss": "出自……之地"
     },
     {
       "surface": "התימני",
-      "english": "提幔人"
+      "gloss": "提幔人"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:01.074361168Z",
-  "model": "glm-5.2"
+  ]
 }

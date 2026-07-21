@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "proverbs 22:28",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54357,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54658
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:02.432094436Z",
   "translation": "不要挪移古时的疆界，那是你祖先所立的。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תסג",
-      "english": "挪移"
+      "gloss": "挪移"
     },
     {
       "surface": "גבול",
-      "english": "疆界"
+      "gloss": "疆界"
     },
     {
       "surface": "עולם",
-      "english": "古时的"
+      "gloss": "古时的"
     },
     {
       "surface": "אשר",
-      "english": "那是"
+      "gloss": "那是"
     },
     {
       "surface": "עשו",
-      "english": "所立的"
+      "gloss": "所立的"
     },
     {
       "surface": "אבותיך",
-      "english": "你祖先"
+      "gloss": "你祖先"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:02.432094436Z",
-  "model": "glm-5.2"
+  ]
 }

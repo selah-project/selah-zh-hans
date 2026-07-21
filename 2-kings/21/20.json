@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 21:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 294,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18373,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18667
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:31:40.763797095Z",
   "translation": "他行了雅威眼中⟨的⟩恶，正如他父亲玛拿西所行的。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行了"
+      "gloss": "他行了"
     },
     {
       "surface": "הרע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "עשה",
-      "english": "所行的"
+      "gloss": "所行的"
     },
     {
       "surface": "מנשה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     }
-  ],
-  "timestamp": "2026-07-17T21:31:40.763797095Z",
-  "model": "glm-5.2"
+  ]
 }

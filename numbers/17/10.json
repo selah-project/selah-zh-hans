@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 17:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20017,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20528
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:44:29.332651463Z",
   "translation": "你们从这会众中间起来,我好在瞬间⟨את⟩他们吞灭;他们就脸伏于地。",
   "tokens": [
     {
       "surface": "הרמו",
-      "english": "你们……起来"
+      "gloss": "你们……起来"
     },
     {
       "surface": "מתוך",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "העדה",
-      "english": "这会众"
+      "gloss": "这会众"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ואכלה",
-      "english": "我好吞灭"
+      "gloss": "我好吞灭"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "כרגע",
-      "english": "在瞬间"
+      "gloss": "在瞬间"
     },
     {
       "surface": "ויפלו",
-      "english": "他们就伏"
+      "gloss": "他们就伏"
     },
     {
       "surface": "על",
-      "english": "于"
+      "gloss": "于"
     },
     {
       "surface": "פניהם",
-      "english": "他们的脸"
+      "gloss": "他们的脸"
     }
-  ],
-  "timestamp": "2026-07-18T02:44:29.332651463Z",
-  "model": "glm-5.2"
+  ]
 }

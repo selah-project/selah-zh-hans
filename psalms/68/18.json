@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 68:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64720,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65327
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:13.080950722Z",
   "translation": "以罗欣的战车有两万个重阵,数千个重复的阵列;阿多奈⟨在其中⟩——西奈,在圣所中。",
   "tokens": [
     {
       "surface": "רכב",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "רבתים",
-      "english": "两万个重阵"
+      "gloss": "两万个重阵"
     },
     {
       "surface": "אלפי",
-      "english": "数千个"
+      "gloss": "数千个"
     },
     {
       "surface": "שנאן",
-      "english": "重复的阵列"
+      "gloss": "重复的阵列"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "בם",
-      "english": "⟨在其中⟩"
+      "gloss": "⟨在其中⟩"
     },
     {
       "surface": "סיני",
-      "english": "西奈"
+      "gloss": "西奈"
     },
     {
       "surface": "בקדש",
-      "english": "在圣所中"
+      "gloss": "在圣所中"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:13.080950722Z",
-  "model": "glm-5.2"
+  ]
 }

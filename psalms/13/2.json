@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 13:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65000,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65565
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:00.094306050Z",
   "translation": "雅威啊，⟨你要⟩忘记我到何时？到永远吗？⟨你要⟩掩藏⟨את⟩你的脸离开我到何时？",
   "tokens": [
     {
       "surface": "עַד",
-      "english": "到……之时"
+      "gloss": "到……之时"
     },
     {
       "surface": "אָ֣נָה",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "תִּשְׁכָּחֵ֣\/נִי",
-      "english": "你忘记我"
+      "gloss": "你忘记我"
     },
     {
       "surface": "נֶ֑צַח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "עַד",
-      "english": "到……之时"
+      "gloss": "到……之时"
     },
     {
       "surface": "אָ֓נָה",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "תַּסְתִּ֖יר",
-      "english": "你掩藏"
+      "gloss": "你掩藏"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的脸"
     },
     {
       "surface": "פָּנֶ֣י\/ךָ",
-      "english": "你的脸"
+      "gloss": "你的脸"
     },
     {
       "surface": "מִמֶּֽ\/נִּי",
-      "english": "离开我"
+      "gloss": "离开我"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:00.094306050Z",
-  "model": "glm-5.2"
+  ]
 }

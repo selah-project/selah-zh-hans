@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "joshua 13:2",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17926,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18406
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:15.182172130Z",
   "translation": "这是⟨那⟩地，⟨那⟩被保留的：*kol* 非利士人的各区，和 *kol* ⟨הגשורי⟩。",
   "tokens": [
     {
       "surface": "זֹאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "הָ\/אָרֶץ",
-      "english": "⟨那⟩地"
+      "gloss": "⟨那⟩地"
     },
     {
       "surface": "הַ\/נִּשְׁאָרֶת",
-      "english": "⟨那⟩被保留的"
+      "gloss": "⟨那⟩被保留的"
     },
     {
       "surface": "כֹּל",
-      "english": "*kol*"
+      "gloss": "*kol*"
     },
     {
       "surface": "גְּלִיל֥וֹת",
-      "english": "各区"
+      "gloss": "各区"
     },
     {
       "surface": "הַ\/פְּלִשְׁתִּ֖ים",
-      "english": "非利士人的"
+      "gloss": "非利士人的"
     },
     {
       "surface": "וְ\/כֹל",
-      "english": "和 *kol*"
+      "gloss": "和 *kol*"
     },
     {
       "surface": "הַ\/גְּשׁוּרִֽי",
-      "english": "⟨הגשורי⟩"
+      "gloss": "⟨הגשורי⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:15.182172130Z",
-  "model": "glm-5.2"
+  ]
 }

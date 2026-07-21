@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "genesis 4:21",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23067,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23543
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:27.637955583Z",
   "translation": "他兄弟的名字是犹八;⟨他⟩是所有弹琴和吹管之人之父。",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "他兄弟的名字是"
+      "gloss": "他兄弟的名字是"
     },
     {
       "surface": "אחיו",
-      "english": "他兄弟的名字是"
+      "gloss": "他兄弟的名字是"
     },
     {
       "surface": "יובל",
-      "english": "犹八"
+      "gloss": "犹八"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "היה",
-      "english": "是"
+      "gloss": "是"
     },
     {
       "surface": "אבי",
-      "english": "……之父"
+      "gloss": "……之父"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "תפש",
-      "english": "弹……之人"
+      "gloss": "弹……之人"
     },
     {
       "surface": "כנור",
-      "english": "琴"
+      "gloss": "琴"
     },
     {
       "surface": "ועוגב",
-      "english": "和吹管"
+      "gloss": "和吹管"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:27.637955583Z",
-  "model": "glm-5.2"
+  ]
 }

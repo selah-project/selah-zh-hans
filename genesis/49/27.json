@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "genesis 49:27",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23047,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23564
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:08:41.702668667Z",
   "translation": "便雅悯是撕掠的狼:早晨他吞吃猎物,到晚上他瓜分掠物。",
   "tokens": [
     {
       "surface": "בִּנְיָמִין",
-      "english": "便雅悯"
+      "gloss": "便雅悯"
     },
     {
       "surface": "זְאֵב",
-      "english": "狼"
+      "gloss": "狼"
     },
     {
       "surface": "יִטְרָף",
-      "english": "撕掠"
+      "gloss": "撕掠"
     },
     {
       "surface": "בַּ\/בֹּקֶר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "יֹאכַל",
-      "english": "他吞吃"
+      "gloss": "他吞吃"
     },
     {
       "surface": "עַד",
-      "english": "猎物"
+      "gloss": "猎物"
     },
     {
       "surface": "וְ\/לָ\/עֶרֶב",
-      "english": "到晚上"
+      "gloss": "到晚上"
     },
     {
       "surface": "יְחַלֵּק",
-      "english": "他瓜分"
+      "gloss": "他瓜分"
     },
     {
       "surface": "שָׁלָל",
-      "english": "掠物"
+      "gloss": "掠物"
     }
-  ],
-  "timestamp": "2026-07-17T18:08:41.702668667Z",
-  "model": "glm-5.2"
+  ]
 }

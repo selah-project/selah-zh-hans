@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "isaiah 26:13",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20759,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21173
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:46:10.385077966Z",
   "translation": "雅威,我们的以罗欣,除你之外的诸主拥有了我们;唯独借着你,我们记念你的名。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "בעלונו",
-      "english": "拥有了(作主)我们"
+      "gloss": "拥有了(作主)我们"
     },
     {
       "surface": "אדנים",
-      "english": "诸主"
+      "gloss": "诸主"
     },
     {
       "surface": "זולתך",
-      "english": "除你之外"
+      "gloss": "除你之外"
     },
     {
       "surface": "לבד",
-      "english": "唯独"
+      "gloss": "唯独"
     },
     {
       "surface": "בך",
-      "english": "借着你"
+      "gloss": "借着你"
     },
     {
       "surface": "נזכיר",
-      "english": "我们记念"
+      "gloss": "我们记念"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     }
-  ],
-  "timestamp": "2026-07-17T21:46:10.385077966Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 71:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64573,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65103
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:48.517457274Z",
   "translation": "愿我的嘴唇欢呼,因为我要向⟨你⟩歌颂,⟨וְ⟩⟨את⟩我的נפש,就是⟨你⟩所赎的。",
   "tokens": [
     {
       "surface": "תְּרַנֵּ֣נָּ֣ה",
-      "english": "愿……欢呼"
+      "gloss": "愿……欢呼"
     },
     {
       "surface": "שְׂ֭פָתַ\/י",
-      "english": "我的嘴唇"
+      "gloss": "我的嘴唇"
     },
     {
       "surface": "כִּ֣י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֲזַמְּרָה",
-      "english": "我要歌颂"
+      "gloss": "我要歌颂"
     },
     {
       "surface": "לָּ֑\/ךְ",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     },
     {
       "surface": "וְ֝\/נַפְשִׁ֗\/י",
-      "english": "⟨וְ⟩⟨את⟩我的נפש"
+      "gloss": "⟨וְ⟩⟨את⟩我的נפש"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "פָּדִֽית",
-      "english": "⟨你⟩赎了"
+      "gloss": "⟨你⟩赎了"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:48.517457274Z",
-  "model": "glm-5.2"
+  ]
 }

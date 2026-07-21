@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "deuteronomy 32:1",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19055,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19419
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:48:09.552462610Z",
   "translation": "侧耳倾听吧，⟨诸⟩天，而我将要说话；愿⟨这⟩地听见我口中的言语。",
   "tokens": [
     {
       "surface": "האזינו",
-      "english": "侧耳倾听吧"
+      "gloss": "侧耳倾听吧"
     },
     {
       "surface": "השמים",
-      "english": "⟨诸⟩天"
+      "gloss": "⟨诸⟩天"
     },
     {
       "surface": "ואדברה",
-      "english": "而我将要说话"
+      "gloss": "而我将要说话"
     },
     {
       "surface": "ותשמע",
-      "english": "愿……听见"
+      "gloss": "愿……听见"
     },
     {
       "surface": "הארץ",
-      "english": "⟨这⟩地"
+      "gloss": "⟨这⟩地"
     },
     {
       "surface": "אמרי",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "פי",
-      "english": "我口中的"
+      "gloss": "我口中的"
     }
-  ],
-  "timestamp": "2026-07-17T19:48:09.552462610Z",
-  "model": "glm-5.2"
+  ]
 }

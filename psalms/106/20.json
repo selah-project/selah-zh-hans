@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 106:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:41.679934035Z",
   "translation": "他们用吃草之牛的像交换了⟨את⟩他们的荣耀。",
   "tokens": [
     {
       "surface": "וימירו",
-      "english": "他们交换了"
+      "gloss": "他们交换了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的荣耀"
     },
     {
       "surface": "כבודם",
-      "english": "他们的荣耀"
+      "gloss": "他们的荣耀"
     },
     {
       "surface": "בתבנית",
-      "english": "……的像"
+      "gloss": "……的像"
     },
     {
       "surface": "שור",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "אכל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "עשב",
-      "english": "草"
+      "gloss": "草"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:41.679934035Z",
-  "model": "glm-5.2"
+  ]
 }

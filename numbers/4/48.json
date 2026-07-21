@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
   "ref": "numbers 4:48",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19535,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19905
-  },
+  "verse": 48,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:35.321838743Z",
   "translation": "他们的被数点者 ⟨是⟩ 八千五百 ⟨加⟩ 八十。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨他们⟩ ⟨是⟩"
+      "gloss": "⟨他们⟩ ⟨是⟩"
     },
     {
       "surface": "פקדיהם",
-      "english": "他们的被数点者"
+      "gloss": "他们的被数点者"
     },
     {
       "surface": "שמנת",
-      "english": "八"
+      "gloss": "八"
     },
     {
       "surface": "אלפים",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "⟨加⟩ 五百"
+      "gloss": "⟨加⟩ 五百"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ושמנים",
-      "english": "⟨加⟩ 八十"
+      "gloss": "⟨加⟩ 八十"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:35.321838743Z",
-  "model": "glm-5.2"
+  ]
 }

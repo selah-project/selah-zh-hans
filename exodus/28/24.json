@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "exodus 28:24",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18766,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19238
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:29:46.167008476Z",
   "translation": "你要把 ⟨את⟩ 两条金编索放在两个金环上，⟨在⟩胸牌的边缘处。",
   "tokens": [
     {
       "surface": "ונתתה",
-      "english": "你要把……放"
+      "gloss": "你要把……放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "两条金编索"
     },
     {
       "surface": "שתי",
-      "english": "两"
+      "gloss": "两"
     },
     {
       "surface": "עבתת",
-      "english": "编索"
+      "gloss": "编索"
     },
     {
       "surface": "הזהב",
-      "english": "金的"
+      "gloss": "金的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "שתי",
-      "english": "两"
+      "gloss": "两"
     },
     {
       "surface": "הטבעת",
-      "english": "个金环"
+      "gloss": "个金环"
     },
     {
       "surface": "אל",
-      "english": "⟨在⟩……处"
+      "gloss": "⟨在⟩……处"
     },
     {
       "surface": "קצות",
-      "english": "边缘"
+      "gloss": "边缘"
     },
     {
       "surface": "החשן",
-      "english": "胸牌的"
+      "gloss": "胸牌的"
     }
-  ],
-  "timestamp": "2026-07-17T18:29:46.167008476Z",
-  "model": "glm-5.2"
+  ]
 }

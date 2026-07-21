@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 11:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23285,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23655
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:16.676549766Z",
   "translation": "雅威降下,要查看⟨את⟩那城和⟨את⟩亚当之子们所建造的塔。",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "降下"
+      "gloss": "降下"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לראת",
-      "english": "要查看"
+      "gloss": "要查看"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那城"
     },
     {
       "surface": "העיר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "那塔"
     },
     {
       "surface": "המגדל",
-      "english": "那塔"
+      "gloss": "那塔"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "בנו",
-      "english": "建造的"
+      "gloss": "建造的"
     },
     {
       "surface": "בני",
-      "english": "之子们"
+      "gloss": "之子们"
     },
     {
       "surface": "האדם",
-      "english": "亚当"
+      "gloss": "亚当"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:16.676549766Z",
-  "model": "glm-5.2"
+  ]
 }

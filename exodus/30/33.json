@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "exodus 30:33",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18772,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19243
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:28.623997368Z",
   "translation": "凡配制与之相似的,或将其中的任何一点给⟨一个⟩外人 ⟨抹⟩在⟨他身上的,那人⟩必从他的民中被剪除。",
   "tokens": [
     {
       "surface": "איש",
-      "english": "凡……的人"
+      "gloss": "凡……的人"
     },
     {
       "surface": "אשר",
-      "english": "(关系代词)"
+      "gloss": "(关系代词)"
     },
     {
       "surface": "ירקח",
-      "english": "配制"
+      "gloss": "配制"
     },
     {
       "surface": "כמהו",
-      "english": "与之相似的"
+      "gloss": "与之相似的"
     },
     {
       "surface": "ואשר",
-      "english": "或……的人"
+      "gloss": "或……的人"
     },
     {
       "surface": "יתן",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "ממנו",
-      "english": "其中的任何一点"
+      "gloss": "其中的任何一点"
     },
     {
       "surface": "על",
-      "english": "在……上 ⟨抹⟩"
+      "gloss": "在……上 ⟨抹⟩"
     },
     {
       "surface": "זר",
-      "english": "外人"
+      "gloss": "外人"
     },
     {
       "surface": "ונכרת",
-      "english": "必被剪除"
+      "gloss": "必被剪除"
     },
     {
       "surface": "מעמיו",
-      "english": "从他的民中"
+      "gloss": "从他的民中"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:28.623997368Z",
-  "model": "glm-5.2"
+  ]
 }

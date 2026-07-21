@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 41:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64627,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65185
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:43:48.988195781Z",
   "translation": "毁灭性的话被浇在他里面;那躺下的,不再加添⟨力量⟩起来。",
   "tokens": [
     {
       "surface": "דְּֽבַר",
-      "english": "话"
+      "gloss": "话"
     },
     {
       "surface": "בְּ֭לִיַּעַל",
-      "english": "毁灭性的 (比利亚勒)"
+      "gloss": "毁灭性的 (比利亚勒)"
     },
     {
       "surface": "יָצ֣וּק",
-      "english": "被浇注"
+      "gloss": "被浇注"
     },
     {
       "surface": "בּ֑\/וֹ",
-      "english": "在他里面"
+      "gloss": "在他里面"
     },
     {
       "surface": "וַ\/אֲשֶׁ֥ר",
-      "english": "而那"
+      "gloss": "而那"
     },
     {
       "surface": "שָׁ֝כַ֗ב",
-      "english": "躺下的"
+      "gloss": "躺下的"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יוֹסִ֥יף",
-      "english": "将加添"
+      "gloss": "将加添"
     },
     {
       "surface": "לָ\/קֽוּם",
-      "english": "起来"
+      "gloss": "起来"
     }
-  ],
-  "timestamp": "2026-07-20T06:43:48.988195781Z",
-  "model": "glm-5.2"
+  ]
 }

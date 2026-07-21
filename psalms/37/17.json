@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 37:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64513,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64834
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:47.663874825Z",
   "translation": "因为恶人的膀臂必被折断，而支撑义人的⟨是⟩雅威。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "זרועות",
-      "english": "膀臂"
+      "gloss": "膀臂"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "תשברנה",
-      "english": "必被折断"
+      "gloss": "必被折断"
     },
     {
       "surface": "וסומך",
-      "english": "而支撑"
+      "gloss": "而支撑"
     },
     {
       "surface": "צדיקים",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:47.663874825Z",
-  "model": "glm-5.2"
+  ]
 }

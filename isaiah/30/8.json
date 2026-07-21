@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 30:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 592,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21224,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21816
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:48:34.468324404Z",
   "translation": "现在，来吧，将它写在版上，⟨在他们中间⟩，并在书卷上铭刻它；它将成为⟨对⟩末日⟨的见证⟩，直到永远：直到永远。",
   "tokens": [
     {
       "surface": "עתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "בוא",
-      "english": "来吧"
+      "gloss": "来吧"
     },
     {
       "surface": "כתבה",
-      "english": "写它"
+      "gloss": "写它"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "לוח",
-      "english": "版"
+      "gloss": "版"
     },
     {
       "surface": "אתם",
-      "english": "在他们中间"
+      "gloss": "在他们中间"
     },
     {
       "surface": "ועל",
-      "english": "并在……之上"
+      "gloss": "并在……之上"
     },
     {
       "surface": "ספר",
-      "english": "书卷"
+      "gloss": "书卷"
     },
     {
       "surface": "חקה",
-      "english": "铭刻它"
+      "gloss": "铭刻它"
     },
     {
       "surface": "ותהי",
-      "english": "它将成为"
+      "gloss": "它将成为"
     },
     {
       "surface": "ליום",
-      "english": "⟨对⟩……之日"
+      "gloss": "⟨对⟩……之日"
     },
     {
       "surface": "אחרון",
-      "english": "末"
+      "gloss": "末"
     },
     {
       "surface": "לעד",
-      "english": "⟨对⟩见证 (le'ed 意为“见证”)",
+      "gloss": "⟨对⟩见证 (le'ed 意为“见证”)",
       "marks": "补出语义"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T21:48:34.468324404Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "numbers 21:17",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19789,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20159
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:39.461940249Z",
   "translation": "那时以色列唱了⟨את⟩这首歌:井啊,涌上来!向它歌唱!",
   "tokens": [
     {
       "surface": "אז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "ישיר",
-      "english": "唱了"
+      "gloss": "唱了"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这首歌"
     },
     {
       "surface": "השירה",
-      "english": "这首歌"
+      "gloss": "这首歌"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "עלי",
-      "english": "涌上来"
+      "gloss": "涌上来"
     },
     {
       "surface": "באר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "ענו",
-      "english": "歌唱"
+      "gloss": "歌唱"
     },
     {
       "surface": "לה",
-      "english": "向它"
+      "gloss": "向它"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:39.461940249Z",
-  "model": "glm-5.2"
+  ]
 }

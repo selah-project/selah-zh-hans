@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "hosea 10:7",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21029,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21540
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:15:28.851867794Z",
   "translation": "撒玛利亚 ⟨将⟩ 灭亡 —— ⟨她的⟩ 王，如水面 ⟨上⟩ 的漂浮碎片。",
   "tokens": [
     {
       "surface": "נִדְמֶ֥ה",
-      "english": "将灭亡"
+      "gloss": "将灭亡"
     },
     {
       "surface": "שֹׁמְר֖וֹן",
-      "english": "撒玛利亚"
+      "gloss": "撒玛利亚"
     },
     {
       "surface": "מַלְכָּ֑\/הּ",
-      "english": "⟨她的⟩ 王"
+      "gloss": "⟨她的⟩ 王"
     },
     {
       "surface": "כְּ\/קֶ֖צֶף",
-      "english": "如漂浮碎片"
+      "gloss": "如漂浮碎片"
     },
     {
       "surface": "עַל",
-      "english": "⟨在……上⟩"
+      "gloss": "⟨在……上⟩"
     },
     {
       "surface": "פְּנֵי",
-      "english": "表面"
+      "gloss": "表面"
     },
     {
       "surface": "מָֽיִם",
-      "english": "水的"
+      "gloss": "水的"
     }
-  ],
-  "timestamp": "2026-07-17T23:15:28.851867794Z",
-  "model": "glm-5.2"
+  ]
 }

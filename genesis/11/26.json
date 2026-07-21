@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "genesis 11:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23283,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23640
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:30.289037092Z",
   "translation": "他拉活了七十岁，就生了⟨את⟩亚伯兰、⟨את⟩拿鹤和⟨את⟩哈兰。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "תרח",
-      "english": "他拉"
+      "gloss": "他拉"
     },
     {
       "surface": "שבעים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ויולד",
-      "english": "就生了"
+      "gloss": "就生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯兰"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿鹤"
     },
     {
       "surface": "נחור",
-      "english": "拿鹤"
+      "gloss": "拿鹤"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "哈兰"
     },
     {
       "surface": "הרן",
-      "english": "哈兰"
+      "gloss": "哈兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:30.289037092Z",
-  "model": "glm-5.2"
+  ]
 }

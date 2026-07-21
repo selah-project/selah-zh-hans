@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 80:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64569,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65038
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:56.882415109Z",
   "translation": "雅威,以罗欣,万军之⟨神⟩:直到何时,你向⟨你⟩百姓的祈祷如烟⟨冒起⟩呢?",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "צבאות",
-      "english": "万军"
+      "gloss": "万军"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "עשנת",
-      "english": "你……如烟冒起"
+      "gloss": "你……如烟冒起"
     },
     {
       "surface": "בתפלת",
-      "english": "对……的祈祷"
+      "gloss": "对……的祈祷"
     },
     {
       "surface": "עמך",
-      "english": "你百姓的"
+      "gloss": "你百姓的"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:56.882415109Z",
-  "model": "glm-5.2"
+  ]
 }

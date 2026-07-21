@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 17:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64768,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65311
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:15.134849604Z",
   "translation": "起来吧,雅威!迎上前去⟨面对⟩他,使他屈膝仆倒;用⟨你的⟩剑,就是⟨你的⟩武器,求你救拔我的生命脱离恶人 ——",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "起来吧"
+      "gloss": "起来吧"
     },
     {
       "surface": "יהוה",
-      "english": "雅威!"
+      "gloss": "雅威!"
     },
     {
       "surface": "קדמה",
-      "english": "迎上前去⟨面对⟩"
+      "gloss": "迎上前去⟨面对⟩"
     },
     {
       "surface": "פניו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "הכריעהו",
-      "english": "使他屈膝仆倒"
+      "gloss": "使他屈膝仆倒"
     },
     {
       "surface": "פלטה",
-      "english": "求你救拔"
+      "gloss": "求你救拔"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     },
     {
       "surface": "מרשע",
-      "english": "脱离恶人"
+      "gloss": "脱离恶人"
     },
     {
       "surface": "חרבך",
-      "english": "用⟨你的⟩剑,就是⟨你的⟩武器"
+      "gloss": "用⟨你的⟩剑,就是⟨你的⟩武器"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:15.134849604Z",
-  "model": "glm-5.2"
+  ]
 }

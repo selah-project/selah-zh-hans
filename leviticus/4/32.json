@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "leviticus 4:32",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19108,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19519
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:42:01.429331310Z",
   "translation": "若他带来一只绵羊作为他的 *korbán*（献礼）赎罪祭，他要带来一只无瑕疵的雌性。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "כבש",
-      "english": "绵羊"
+      "gloss": "绵羊"
     },
     {
       "surface": "יביא",
-      "english": "⟨他⟩要带来"
+      "gloss": "⟨他⟩要带来"
     },
     {
       "surface": "קרבנו",
-      "english": "作为他的 korbán（献礼）"
+      "gloss": "作为他的 korbán（献礼）"
     },
     {
       "surface": "לחטאת",
-      "english": "为赎罪祭"
+      "gloss": "为赎罪祭"
     },
     {
       "surface": "נקבה",
-      "english": "雌性"
+      "gloss": "雌性"
     },
     {
       "surface": "תמימה",
-      "english": "无瑕疵的"
+      "gloss": "无瑕疵的"
     },
     {
       "surface": "יביאנה",
-      "english": "他要带来⟨它⟩"
+      "gloss": "他要带来⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:42:01.429331310Z",
-  "model": "glm-5.2"
+  ]
 }

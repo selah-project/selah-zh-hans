@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 37:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64233,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64654
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:35.641388306Z",
   "translation": "转离恶,行善;⟨就⟩永 ⟨וְשָׁכֹן לְעוֹלָם⟩ צַו longsuffering לְעוֹלָם 住到永远。",
   "tokens": [
     {
       "surface": "סור",
-      "english": "转离"
+      "gloss": "转离"
     },
     {
       "surface": "מרע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "ועשה",
-      "english": "并⟨行⟩"
+      "gloss": "并⟨行⟩"
     },
     {
       "surface": "טוב",
-      "english": "善"
+      "gloss": "善"
     },
     {
       "surface": "ושכן",
-      "english": "⟨就⟩住"
+      "gloss": "⟨就⟩住"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:35.641388306Z",
-  "model": "glm-5.2"
+  ]
 }

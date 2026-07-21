@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 21:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54444,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54845
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:25.983836021Z",
   "translation": "恶人的נפש渴慕恶;他的同伴在他眼中⟨不⟩蒙恩。",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "נפש"
+      "gloss": "נפש"
     },
     {
       "surface": "רשע",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "אותה",
-      "english": "渴慕"
+      "gloss": "渴慕"
     },
     {
       "surface": "רע",
-      "english": "恶;"
+      "gloss": "恶;"
     },
     {
       "surface": "לא",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "יחן",
-      "english": "蒙恩"
+      "gloss": "蒙恩"
     },
     {
       "surface": "בעיניו",
-      "english": "在他眼中"
+      "gloss": "在他眼中"
     },
     {
       "surface": "רעהו",
-      "english": "他的同伴"
+      "gloss": "他的同伴"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:25.983836021Z",
-  "model": "glm-5.2"
+  ]
 }

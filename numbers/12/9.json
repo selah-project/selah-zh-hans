@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "numbers 12:9",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19276,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19596
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:17.103926967Z",
   "translation": "雅威的鼻息 ⟨向⟩他们烧热,⟨他⟩走 ⟨离去⟩。",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "烧热"
+      "gloss": "烧热"
     },
     {
       "surface": "אף",
-      "english": "鼻息"
+      "gloss": "鼻息"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בם",
-      "english": "⟨向⟩他们"
+      "gloss": "⟨向⟩他们"
     },
     {
       "surface": "וילך",
-      "english": "⟨他⟩走 ⟨离去⟩"
+      "gloss": "⟨他⟩走 ⟨离去⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:17.103926967Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "deuteronomy 25:4",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18811,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19136
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:43:05.865986065Z",
   "translation": "你不可笼住⟨那⟩牛,⟨当⟩它⟨正在⟩踹谷的时候。",
   "tokens": [
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תַחְסֹם",
-      "english": "笼住"
+      "gloss": "笼住"
     },
     {
       "surface": "שׁוֹר",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "בְּ\/דִישׁוֹ",
-      "english": "⟨当⟩它⟨正在⟩踹谷的时候"
+      "gloss": "⟨当⟩它⟨正在⟩踹谷的时候"
     }
-  ],
-  "timestamp": "2026-07-17T19:43:05.865986065Z",
-  "model": "glm-5.2"
+  ]
 }

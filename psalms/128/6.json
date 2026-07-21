@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 128:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 128,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64303,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64699
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:25.513095152Z",
   "translation": "你必看见你儿子的儿子。愿平安归于以色列。",
   "tokens": [
     {
       "surface": "וּ\/רְאֵֽה",
-      "english": "你必看见"
+      "gloss": "你必看见"
     },
     {
       "surface": "בָנִ֥ים",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "לְ\/בָנֶ֑י\/ךָ",
-      "english": "你……的"
+      "gloss": "你……的"
     },
     {
       "surface": "שָׁ֝ל֗וֹם",
-      "english": "愿平安"
+      "gloss": "愿平安"
     },
     {
       "surface": "עַל",
-      "english": "归于"
+      "gloss": "归于"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:25.513095152Z",
-  "model": "glm-5.2"
+  ]
 }

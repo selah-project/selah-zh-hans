@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 9:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 748,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21159,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21907
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:56.032425785Z",
   "translation": "你使这国民繁多,⟨却⟩没有增大这喜乐;他们在你面前欢喜,如同收割时的喜乐,又如人分掠物时那样雀跃。",
   "tokens": [
     {
       "surface": "הרבית",
-      "english": "你使……繁多"
+      "gloss": "你使……繁多"
     },
     {
       "surface": "הגוי",
-      "english": "这国民"
+      "gloss": "这国民"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "הגדלת",
-      "english": "增大"
+      "gloss": "增大"
     },
     {
       "surface": "השמחה",
-      "english": "这喜乐"
+      "gloss": "这喜乐"
     },
     {
       "surface": "שמחו",
-      "english": "他们欢喜"
+      "gloss": "他们欢喜"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "כשמחת",
-      "english": "如同……的喜乐"
+      "gloss": "如同……的喜乐"
     },
     {
       "surface": "בקציר",
-      "english": "收割时"
+      "gloss": "收割时"
     },
     {
       "surface": "כאשר",
-      "english": "又如……时"
+      "gloss": "又如……时"
     },
     {
       "surface": "יגילו",
-      "english": "他们雀跃"
+      "gloss": "他们雀跃"
     },
     {
       "surface": "בחלקם",
-      "english": "分"
+      "gloss": "分"
     },
     {
       "surface": "שלל",
-      "english": "掠物"
+      "gloss": "掠物"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:56.032425785Z",
-  "model": "glm-5.2"
+  ]
 }

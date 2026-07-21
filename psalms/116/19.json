@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 116:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64430,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64858
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:16.416640672Z",
   "translation": "在雅威的殿的院宇中,在你的中间,耶路撒冷啊!你们要赞美雅!",
   "tokens": [
     {
       "surface": "בְּ\/חַצְר֤וֹת",
-      "english": "在……的院宇中"
+      "gloss": "在……的院宇中"
     },
     {
       "surface": "בֵּ֤ית",
-      "english": "殿的(家)"
+      "gloss": "殿的(家)"
     },
     {
       "surface": "יְהוָ֗ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בְּֽ\/ת֘וֹכֵ֤\/כִי",
-      "english": "在你的中间"
+      "gloss": "在你的中间"
     },
     {
       "surface": "יְֽרוּשָׁלִָ֗ם",
-      "english": "耶路撒冷啊"
+      "gloss": "耶路撒冷啊"
     },
     {
       "surface": "הַֽלְלוּ",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יָֽהּ",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:16.416640672Z",
-  "model": "glm-5.2"
+  ]
 }

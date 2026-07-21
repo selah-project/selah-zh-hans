@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 143:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64901,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65388
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:43:09.263646437Z",
   "translation": "大卫的诗。雅威啊,求你听我的祷告,侧耳听我的恳求;在你的信实中回答我,在你的公义中⟨回答我⟩。",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "诗"
+      "gloss": "诗"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שמע",
-      "english": "求你听"
+      "gloss": "求你听"
     },
     {
       "surface": "תפלתי",
-      "english": "我的祷告"
+      "gloss": "我的祷告"
     },
     {
       "surface": "האזינה",
-      "english": "求你侧耳听"
+      "gloss": "求你侧耳听"
     },
     {
       "surface": "אל",
-      "english": "向着"
+      "gloss": "向着"
     },
     {
       "surface": "תחנוני",
-      "english": "我的恳求"
+      "gloss": "我的恳求"
     },
     {
       "surface": "באמנתך",
-      "english": "在你的信实中"
+      "gloss": "在你的信实中"
     },
     {
       "surface": "ענני",
-      "english": "回答我"
+      "gloss": "回答我"
     },
     {
       "surface": "בצדקתך",
-      "english": "在你的公义中"
+      "gloss": "在你的公义中"
     }
-  ],
-  "timestamp": "2026-07-20T06:43:09.263646437Z",
-  "model": "glm-5.2"
+  ]
 }

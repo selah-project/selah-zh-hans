@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 51:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21341,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21962
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:59:13.248182648Z",
   "translation": "我,我就是⟨他⟩——那安慰你们的:⟨את⟩你,你竟怕那必死的必死之人,又怕那如草被给的亚当之子?",
   "tokens": [
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "הוא",
-      "english": "就是⟨他⟩"
+      "gloss": "就是⟨他⟩"
     },
     {
       "surface": "מנחמכם",
-      "english": "那安慰你们的"
+      "gloss": "那安慰你们的"
     },
     {
       "surface": "מי",
-      "english": "⟨为何⟩"
+      "gloss": "⟨为何⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "ותיראי",
-      "english": "你竟怕"
+      "gloss": "你竟怕"
     },
     {
       "surface": "מאנוש",
-      "english": "那必死之人"
+      "gloss": "那必死之人"
     },
     {
       "surface": "ימות",
-      "english": "必死的"
+      "gloss": "必死的"
     },
     {
       "surface": "ומבן",
-      "english": "又怕……之子"
+      "gloss": "又怕……之子"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "חציר",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "ינתן",
-      "english": "被给的"
+      "gloss": "被给的"
     }
-  ],
-  "timestamp": "2026-07-17T21:59:13.248182648Z",
-  "model": "glm-5.2"
+  ]
 }

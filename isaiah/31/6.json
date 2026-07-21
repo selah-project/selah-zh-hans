@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 31:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20458,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20865
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:48:57.791911707Z",
   "translation": "归回吧 —— 归向那一位，以色列的众子 ⟨对⟩ 他背离背离得太深了，",
   "tokens": [
     {
       "surface": "שובו",
-      "english": "归回吧"
+      "gloss": "归回吧"
     },
     {
       "surface": "לאשר",
-      "english": "归向那一位"
+      "gloss": "归向那一位"
     },
     {
       "surface": "העמיקו",
-      "english": "使之深陷了"
+      "gloss": "使之深陷了"
     },
     {
       "surface": "סרה",
-      "english": "背离"
+      "gloss": "背离"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:48:57.791911707Z",
-  "model": "glm-5.2"
+  ]
 }

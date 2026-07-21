@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "psalms 119:37",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64295,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64639
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:48.879353467Z",
   "translation": "求你使我的眼转离,不看虚妄;在你的道路上,求你使我存活。",
   "tokens": [
     {
       "surface": "העבר",
-      "english": "求你使……转离"
+      "gloss": "求你使……转离"
     },
     {
       "surface": "עיני",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "מראות",
-      "english": "不看"
+      "gloss": "不看"
     },
     {
       "surface": "שוא",
-      "english": "虚妄"
+      "gloss": "虚妄"
     },
     {
       "surface": "בדרכך",
-      "english": "在你的道路上"
+      "gloss": "在你的道路上"
     },
     {
       "surface": "חיני",
-      "english": "求你使我存活"
+      "gloss": "求你使我存活"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:48.879353467Z",
-  "model": "glm-5.2"
+  ]
 }

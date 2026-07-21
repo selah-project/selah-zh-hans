@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-kings 13:7",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64263,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64712
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:08:14.234422105Z",
   "translation": "王对以罗欣的人说：⟨请⟩与我⟨一起⟩回家⟨去⟩,用饭,我也要给你一份礼物。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "⟨他⟩对……说"
+      "gloss": "⟨他⟩对……说"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "באה",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩与我⟨一起⟩",
+      "gloss": "⟨את⟩与我⟨一起⟩",
       "marks": "回家用饭"
     },
     {
       "surface": "הביתה",
-      "english": "回家⟨去⟩"
+      "gloss": "回家⟨去⟩"
     },
     {
       "surface": "וסעדה",
-      "english": "用饭"
+      "gloss": "用饭"
     },
     {
       "surface": "ואתנה",
-      "english": "我也要给"
+      "gloss": "我也要给"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "מתת",
-      "english": "一份礼物"
+      "gloss": "一份礼物"
     }
-  ],
-  "timestamp": "2026-07-17T21:08:14.234422105Z",
-  "model": "glm-5.2"
+  ]
 }

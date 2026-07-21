@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 17:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21181,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21803
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:42:23.566556074Z",
   "translation": "⟨这⟩将如⟨⟩收割庄稼的⟨人⟩，他的手臂收割谷穗；⟨也⟩⟨将⟩如在拉法音谷中拾取谷穗。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨这⟩将如"
+      "gloss": "⟨这⟩将如"
     },
     {
       "surface": "כאסף",
-      "english": "⟨⟩收割庄稼的⟨人⟩"
+      "gloss": "⟨⟩收割庄稼的⟨人⟩"
     },
     {
       "surface": "קציר",
-      "english": "庄稼"
+      "gloss": "庄稼"
     },
     {
       "surface": "קמה",
-      "english": "站立的谷物"
+      "gloss": "站立的谷物"
     },
     {
       "surface": "וזרעו",
-      "english": "他的手臂"
+      "gloss": "他的手臂"
     },
     {
       "surface": "שבלים",
-      "english": "谷穗"
+      "gloss": "谷穗"
     },
     {
       "surface": "יקצור",
-      "english": "收割"
+      "gloss": "收割"
     },
     {
       "surface": "והיה",
-      "english": "⟨也⟩⟨将⟩如"
+      "gloss": "⟨也⟩⟨将⟩如"
     },
     {
       "surface": "כמלקט",
-      "english": "拾取"
+      "gloss": "拾取"
     },
     {
       "surface": "שבלים",
-      "english": "谷穗"
+      "gloss": "谷穗"
     },
     {
       "surface": "בעמק",
-      "english": "在谷中"
+      "gloss": "在谷中"
     },
     {
       "surface": "רפאים",
-      "english": "拉法影"
+      "gloss": "拉法影"
     }
-  ],
-  "timestamp": "2026-07-17T21:42:23.566556074Z",
-  "model": "glm-5.2"
+  ]
 }

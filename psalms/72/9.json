@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 72:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64354,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64678
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:00.678917680Z",
   "translation": "在他面前,旷野居民⟨要⟩屈膝;他的仇敌⟨要⟩舔尘埃。",
   "tokens": [
     {
       "surface": "לפניו",
-      "english": "在他面前"
+      "gloss": "在他面前"
     },
     {
       "surface": "יכרעו",
-      "english": "⟨要⟩屈膝"
+      "gloss": "⟨要⟩屈膝"
     },
     {
       "surface": "ציים",
-      "english": "旷野居民"
+      "gloss": "旷野居民"
     },
     {
       "surface": "ואיביו",
-      "english": "而他的仇敌"
+      "gloss": "而他的仇敌"
     },
     {
       "surface": "עפר",
-      "english": "尘埃"
+      "gloss": "尘埃"
     },
     {
       "surface": "ילחכו",
-      "english": "⟨要⟩舔"
+      "gloss": "⟨要⟩舔"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:00.678917680Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 118:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64422,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64773
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:49.441589442Z",
   "translation": "为我打开⟨ה⟩公义之门，我好进入其中，赞美⟨雅⟩。",
   "tokens": [
     {
       "surface": "פתחו",
-      "english": "打开"
+      "gloss": "打开"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "שערי",
-      "english": "之门"
+      "gloss": "之门"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "אבא",
-      "english": "我好进入"
+      "gloss": "我好进入"
     },
     {
       "surface": "בם",
-      "english": "其中"
+      "gloss": "其中"
     },
     {
       "surface": "אודה",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "יה",
-      "english": "⟨雅⟩"
+      "gloss": "⟨雅⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:49.441589442Z",
-  "model": "glm-5.2"
+  ]
 }

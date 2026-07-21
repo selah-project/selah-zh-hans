@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 92:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64320,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64679
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:23.071955478Z",
   "translation": "义人要如棕树发芽⟨发旺⟩，如黎巴嫩的香柏树向上生长⟨高大⟩。",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "כתמר",
-      "english": "如棕树"
+      "gloss": "如棕树"
     },
     {
       "surface": "יפרח",
-      "english": "发芽⟨发旺⟩"
+      "gloss": "发芽⟨发旺⟩"
     },
     {
       "surface": "כארז",
-      "english": "如香柏树"
+      "gloss": "如香柏树"
     },
     {
       "surface": "בלבנון",
-      "english": "在黎巴嫩"
+      "gloss": "在黎巴嫩"
     },
     {
       "surface": "ישגה",
-      "english": "向上生长⟨高大⟩"
+      "gloss": "向上生长⟨高大⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:23.071955478Z",
-  "model": "glm-5.2"
+  ]
 }

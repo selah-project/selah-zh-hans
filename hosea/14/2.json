@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "hosea 14:2",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21236,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21797
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:02.724757567Z",
   "translation": "回归吧,以色列,直到雅威你的以罗欣那里,因为你因你的罪孽绊跌了。",
   "tokens": [
     {
       "surface": "שׁ֚וּבָ\/ה",
-      "english": "回归吧"
+      "gloss": "回归吧"
     },
     {
       "surface": "יִשְׂרָאֵ֔ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עַ֖ד",
-      "english": "直到……那里"
+      "gloss": "直到……那里"
     },
     {
       "surface": "יְהוָ֣ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֱלֹהֶ֑י\/ךָ",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "כִּ֥י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כָשַׁ֖לְתָּ",
-      "english": "你绊跌了"
+      "gloss": "你绊跌了"
     },
     {
       "surface": "בַּ\/עֲוֺנֶֽ\/ךָ",
-      "english": "因你的罪孽"
+      "gloss": "因你的罪孽"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:02.724757567Z",
-  "model": "glm-5.2"
+  ]
 }

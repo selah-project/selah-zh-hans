@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 124:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64281,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64707
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:44.501921873Z",
   "translation": "那样⟨的话⟩,傲慢的水就会漫过我们的生命,",
   "tokens": [
     {
       "surface": "אֲ֭זַי",
-      "english": "那样"
+      "gloss": "那样"
     },
     {
       "surface": "עָבַ֣ר",
-      "english": "漫过"
+      "gloss": "漫过"
     },
     {
       "surface": "עַל",
-      "english": "⟨在⟩之上"
+      "gloss": "⟨在⟩之上"
     },
     {
       "surface": "נַפְשֵׁ֑\/נוּ",
-      "english": "我们的生命"
+      "gloss": "我们的生命"
     },
     {
       "surface": "הַ֝\/מַּ֗יִם",
-      "english": "那水"
+      "gloss": "那水"
     },
     {
       "surface": "הַ\/זֵּֽידוֹנִֽים",
-      "english": "那傲慢的"
+      "gloss": "那傲慢的"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:44.501921873Z",
-  "model": "glm-5.2"
+  ]
 }

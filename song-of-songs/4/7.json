@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "song-of-songs 4:7",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21825,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22102
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:34.891348997Z",
   "translation": "你全然美丽，我的佳偶，⟨你里面⟩没有瑕疵。",
   "tokens": [
     {
       "surface": "כלך",
-      "english": "你全然"
+      "gloss": "你全然"
     },
     {
       "surface": "יפה",
-      "english": "美丽"
+      "gloss": "美丽"
     },
     {
       "surface": "רעיתי",
-      "english": "我的佳偶"
+      "gloss": "我的佳偶"
     },
     {
       "surface": "ומום",
-      "english": "而瑕疵"
+      "gloss": "而瑕疵"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בך",
-      "english": "在你里面"
+      "gloss": "在你里面"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:34.891348997Z",
-  "model": "glm-5.2"
+  ]
 }

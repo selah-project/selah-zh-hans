@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 27:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64584,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64935
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:55.298465888Z",
   "translation": "雅威啊,求你指教我你的道路,引导我在平坦的路上走,因我⟨有⟩窥伺我的人。",
   "tokens": [
     {
       "surface": "הורני",
-      "english": "求你指教我"
+      "gloss": "求你指教我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "דרכך",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "ונחני",
-      "english": "引导我"
+      "gloss": "引导我"
     },
     {
       "surface": "בארח",
-      "english": "在……的路上走"
+      "gloss": "在……的路上走"
     },
     {
       "surface": "מישור",
-      "english": "平坦"
+      "gloss": "平坦"
     },
     {
       "surface": "למען",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "שוררי",
-      "english": "窥伺我的人"
+      "gloss": "窥伺我的人"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:55.298465888Z",
-  "model": "glm-5.2"
+  ]
 }

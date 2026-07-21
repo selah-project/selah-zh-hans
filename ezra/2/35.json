@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "ezra 2:35",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46325,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46595
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:22.140813022Z",
   "translation": "בני 西拿:三千六百三十人。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "בני"
+      "gloss": "בני"
     },
     {
       "surface": "סנאה",
-      "english": "西拿"
+      "gloss": "西拿"
     },
     {
       "surface": "שלשת",
-      "english": "三千"
+      "gloss": "三千"
     },
     {
       "surface": "אלפים",
-      "english": "（千）"
+      "gloss": "（千）"
     },
     {
       "surface": "ושש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ושלשים",
-      "english": "三十"
+      "gloss": "三十"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:22.140813022Z",
-  "model": "glm-5.2"
+  ]
 }

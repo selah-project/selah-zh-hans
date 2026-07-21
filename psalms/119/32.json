@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 32,
   "ref": "psalms 119:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 336,
-    "prompt_tokens": 64323,
-    "prompt_tokens_details": {
-      "cached_tokens": 49152
-    },
-    "total_tokens": 64659
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:28.738717717Z",
   "translation": "I will run ⟨in⟩ the way of Your commandments, for You will enlarge my heart.",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "the way"
+      "gloss": "the way"
     },
     {
       "surface": "מצותיך",
-      "english": "of Your commandments"
+      "gloss": "of Your commandments"
     },
     {
       "surface": "ארוץ",
-      "english": "I will run"
+      "gloss": "I will run"
     },
     {
       "surface": "כי",
-      "english": "for"
+      "gloss": "for"
     },
     {
       "surface": "תרחיב",
-      "english": "You will enlarge"
+      "gloss": "You will enlarge"
     },
     {
       "surface": "לבי",
-      "english": "my heart"
+      "gloss": "my heart"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:28.738717717Z",
-  "model": "glm-4.5"
+  ]
 }

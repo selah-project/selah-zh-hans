@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 9:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59830,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60146
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:18:41.372809643Z",
   "translation": "示巴女王看见了⟨את⟩所罗门的智慧，以及他所建造的殿宇。",
   "tokens": [
     {
       "surface": "ותרא",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "מלכת",
-      "english": "女王"
+      "gloss": "女王"
     },
     {
       "surface": "שבא",
-      "english": "示巴"
+      "gloss": "示巴"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所罗门的智慧"
     },
     {
       "surface": "חכמת",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门的"
+      "gloss": "所罗门的"
     },
     {
       "surface": "והבית",
-      "english": "以及殿宇"
+      "gloss": "以及殿宇"
     },
     {
       "surface": "אשר",
-      "english": "他所"
+      "gloss": "他所"
     },
     {
       "surface": "בנה",
-      "english": "建造的"
+      "gloss": "建造的"
     }
-  ],
-  "timestamp": "2026-07-18T02:18:41.372809643Z",
-  "model": "glm-5.2"
+  ]
 }

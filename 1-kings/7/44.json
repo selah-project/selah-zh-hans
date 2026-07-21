@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "1-kings 7:44",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64026,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64331
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:02:33.613244330Z",
   "translation": "以及 ⟨את⟩ 那一个海，以及 ⟨את⟩ 十二头牛，在那海之下。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "那一个海"
     },
     {
       "surface": "הים",
-      "english": "那海"
+      "gloss": "那海"
     },
     {
       "surface": "האחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "十二头牛"
     },
     {
       "surface": "הבקר",
-      "english": "那牛"
+      "gloss": "那牛"
     },
     {
       "surface": "שנים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "תחת",
-      "english": "之下"
+      "gloss": "之下"
     },
     {
       "surface": "הים",
-      "english": "那海"
+      "gloss": "那海"
     }
-  ],
-  "timestamp": "2026-07-17T21:02:33.613244330Z",
-  "model": "glm-5.2"
+  ]
 }

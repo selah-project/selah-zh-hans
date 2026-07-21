@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "numbers 7:50",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19398,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19721
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:53.211403136Z",
   "translation": "金勺一把,十⟨舍客勒⟩,满了香料;",
   "tokens": [
     {
       "surface": "כף",
-      "english": "勺"
+      "gloss": "勺"
     },
     {
       "surface": "אחת",
-      "english": "一把"
+      "gloss": "一把"
     },
     {
       "surface": "עשרה",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "מלאה",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "קטרת",
-      "english": "香料"
+      "gloss": "香料"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:53.211403136Z",
-  "model": "glm-5.2"
+  ]
 }

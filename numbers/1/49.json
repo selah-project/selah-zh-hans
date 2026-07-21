@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 49,
   "ref": "numbers 1:49",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20183,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20742
-  },
+  "verse": 49,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:58.355238071Z",
   "translation": "唯独 ⟨את⟩ 利未的杖 ⟨你⟩不可数点, ⟨את⟩ 他们的头 ⟨你⟩不可计算,在以色列众子中间。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "唯独"
+      "gloss": "唯独"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "利未的杖"
     },
     {
       "surface": "מטה",
-      "english": "……的杖"
+      "gloss": "……的杖"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תפקד",
-      "english": "数点"
+      "gloss": "数点"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的头"
     },
     {
       "surface": "ראשם",
-      "english": "他们的头"
+      "gloss": "他们的头"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשא",
-      "english": "计算"
+      "gloss": "计算"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:58.355238071Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 26:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64401,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64832
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:39.072179425Z",
   "translation": "因为你的*chesed*在我眼前,我也一直在你的*truth*中往来行走。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חַ֭סְדְּ\/ךָ",
-      "english": "你的*chesed*"
+      "gloss": "你的*chesed*"
     },
     {
       "surface": "לְ\/נֶ֣גֶד",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "עֵינָ֑\/י",
-      "english": "我眼"
+      "gloss": "我眼"
     },
     {
       "surface": "וְ֝\/הִתְהַלַּ֗כְתִּי",
-      "english": "而我也一直在……中往来行走"
+      "gloss": "而我也一直在……中往来行走"
     },
     {
       "surface": "בַּ\/אֲמִתֶּֽ\/ךָ",
-      "english": "你的*truth*"
+      "gloss": "你的*truth*"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:39.072179425Z",
-  "model": "glm-5.2"
+  ]
 }

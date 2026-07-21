@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 35,
   "ref": "1-chronicles 7:35",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 315,
-    "prompt_tokens": 58600,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58915
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:15.065749144Z",
   "translation": "希连兄弟的儿子是措帕、耶姆纳、谢列和亚玛。",
   "tokens": [
     {
       "surface": "ובן",
-      "english": "……的儿子是"
+      "gloss": "……的儿子是"
     },
     {
       "surface": "הלם",
-      "english": "希连"
+      "gloss": "希连"
     },
     {
       "surface": "אחיו",
-      "english": "兄弟"
+      "gloss": "兄弟"
     },
     {
       "surface": "צופח",
-      "english": "措帕"
+      "gloss": "措帕"
     },
     {
       "surface": "וימנע",
-      "english": "耶姆纳"
+      "gloss": "耶姆纳"
     },
     {
       "surface": "ושלש",
-      "english": "谢列"
+      "gloss": "谢列"
     },
     {
       "surface": "ועמל",
-      "english": "亚玛"
+      "gloss": "亚玛"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:15.065749144Z",
-  "model": "glm-4.5"
+  ]
 }

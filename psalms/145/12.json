@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 145:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64399,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64850
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:05.342202919Z",
   "translation": "使亚当的子孙得知⟨他⟩的作为之能力，以及⟨他⟩国度之威严的荣耀。",
   "tokens": [
     {
       "surface": "לְ\/הוֹדִ֤יעַ",
-      "english": "使……得知"
+      "gloss": "使……得知"
     },
     {
       "surface": "לִ\/בְנֵ֣י",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "הָ֭\/אָדָם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "גְּבוּרֹתָ֑י\/ו",
-      "english": "⟨他⟩的作为之能力"
+      "gloss": "⟨他⟩的作为之能力"
     },
     {
       "surface": "וּ֝\/כְב֗וֹד",
-      "english": "以及……的荣耀"
+      "gloss": "以及……的荣耀"
     },
     {
       "surface": "הֲדַ֣ר",
-      "english": "威严"
+      "gloss": "威严"
     },
     {
       "surface": "מַלְכוּתֽ\/וֹ",
-      "english": "⟨他⟩的国度"
+      "gloss": "⟨他⟩的国度"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:05.342202919Z",
-  "model": "glm-5.2"
+  ]
 }

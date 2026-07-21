@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 109:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64268,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64630
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:13.353859526Z",
   "translation": "代替⟨我对他们的⟩爱，他们控告我；而我，我是祈祷。",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "代替"
+      "gloss": "代替"
     },
     {
       "surface": "אהבתי",
-      "english": "⟨我对他们的⟩爱"
+      "gloss": "⟨我对他们的⟩爱"
     },
     {
       "surface": "ישטנוני",
-      "english": "他们控告我"
+      "gloss": "他们控告我"
     },
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "תפלה",
-      "english": "⟨我是⟩祈祷"
+      "gloss": "⟨我是⟩祈祷"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:13.353859526Z",
-  "model": "glm-5.2"
+  ]
 }

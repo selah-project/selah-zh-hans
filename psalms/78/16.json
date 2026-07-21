@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 78:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64284,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64586
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:28.845340127Z",
   "translation": "他从磐石中引出涓流，使水如江河般降下。",
   "tokens": [
     {
       "surface": "ויוצא",
-      "english": "他引出"
+      "gloss": "他引出"
     },
     {
       "surface": "נוזלים",
-      "english": "涓流"
+      "gloss": "涓流"
     },
     {
       "surface": "מסלע",
-      "english": "从磐石"
+      "gloss": "从磐石"
     },
     {
       "surface": "ויורד",
-      "english": "他使降下"
+      "gloss": "他使降下"
     },
     {
       "surface": "כנהרות",
-      "english": "如江河"
+      "gloss": "如江河"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:28.845340127Z",
-  "model": "glm-5.2"
+  ]
 }

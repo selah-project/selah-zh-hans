@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 32:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23299,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23702
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:55:17.067467950Z",
   "translation": "雅各布打发使者在他前面⟨到⟩他哥哥以扫那里,⟨往⟩西珥地、以东⟨的⟩田野。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "打发"
+      "gloss": "打发"
     },
     {
       "surface": "יעקב",
-      "english": "雅各布"
+      "gloss": "雅各布"
     },
     {
       "surface": "מלאכים",
-      "english": "使者"
+      "gloss": "使者"
     },
     {
       "surface": "לפניו",
-      "english": "在他前面"
+      "gloss": "在他前面"
     },
     {
       "surface": "אל",
-      "english": "⟨到⟩……那里"
+      "gloss": "⟨到⟩……那里"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "אחיו",
-      "english": "他哥哥"
+      "gloss": "他哥哥"
     },
     {
       "surface": "ארצה",
-      "english": "往……地"
+      "gloss": "往……地"
     },
     {
       "surface": "שעיר",
-      "english": "西珥"
+      "gloss": "西珥"
     },
     {
       "surface": "שדה",
-      "english": "田野"
+      "gloss": "田野"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     }
-  ],
-  "timestamp": "2026-07-17T17:55:17.067467950Z",
-  "model": "glm-5.2"
+  ]
 }

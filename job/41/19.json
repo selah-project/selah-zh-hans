@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 41:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21489,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21924
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:47.744937888Z",
   "translation": "它将铁算作⟨如同⟩碎秸,将铜算作⟨如同⟩朽木。",
   "tokens": [
     {
       "surface": "יַחְשֹׁב",
-      "english": "它将……算作"
+      "gloss": "它将……算作"
     },
     {
       "surface": "לְ\/תֶבֶן",
-      "english": "碎秸"
+      "gloss": "碎秸"
     },
     {
       "surface": "בַּרְזֶל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "לְ\/עֵץ",
-      "english": "木"
+      "gloss": "木"
     },
     {
       "surface": "רִקָּבוֹן",
-      "english": "朽"
+      "gloss": "朽"
     },
     {
       "surface": "נְחוּשָׁה",
-      "english": "铜"
+      "gloss": "铜"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:47.744937888Z",
-  "model": "glm-5.2"
+  ]
 }

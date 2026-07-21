@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 4:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23052,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23538
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:07.071417260Z",
   "translation": "⟨他⟩说:你做了什么?你兄弟的血的声音从⟨הָ⟩地⟨里⟩向我呼喊。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "עשית",
-      "english": "你做了"
+      "gloss": "你做了"
     },
     {
       "surface": "קול",
-      "english": "……的声音"
+      "gloss": "……的声音"
     },
     {
       "surface": "דמי",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "אחיך",
-      "english": "你兄弟的"
+      "gloss": "你兄弟的"
     },
     {
       "surface": "צעקים",
-      "english": "呼喊"
+      "gloss": "呼喊"
     },
     {
       "surface": "אלי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "האדמה",
-      "english": "⟨הָ⟩地"
+      "gloss": "⟨הָ⟩地"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:07.071417260Z",
-  "model": "glm-5.2"
+  ]
 }

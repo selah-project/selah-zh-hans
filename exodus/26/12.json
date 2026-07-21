@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "exodus 26:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 535,
-    "prompt_tokens": 18828,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19363
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:44.740868733Z",
   "translation": "而帐棚幔子余下的 ⟨那⟩ 一半, ⟨那⟩ 剩余 ⟨的⟩ 要垂在 *Mishkán* ⟨米什坎⟩ 的后方。",
   "tokens": [
     {
       "surface": "וסרח",
-      "english": "而...要垂"
+      "gloss": "而...要垂"
     },
     {
       "surface": "העדף",
-      "english": "余下的"
+      "gloss": "余下的"
     },
     {
       "surface": "ביריעת",
-      "english": "⟨那⟩ 一半, ⟨那⟩ 剩余 ⟨的⟩"
+      "gloss": "⟨那⟩ 一半, ⟨那⟩ 剩余 ⟨的⟩"
     },
     {
       "surface": "האהל",
-      "english": "帐棚幔子"
+      "gloss": "帐棚幔子"
     },
     {
       "surface": "חצי",
-      "english": "一半"
+      "gloss": "一半"
     },
     {
       "surface": "היריעה",
-      "english": "幔子"
+      "gloss": "幔子"
     },
     {
       "surface": "העדפת",
-      "english": "剩余 ⟨的⟩"
+      "gloss": "剩余 ⟨的⟩"
     },
     {
       "surface": "תסרח",
-      "english": "要垂"
+      "gloss": "要垂"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "אחרי",
-      "english": "后方"
+      "gloss": "后方"
     },
     {
       "surface": "המשכן",
-      "english": "*Mishkán* ⟨米什坎⟩"
+      "gloss": "*Mishkán* ⟨米什坎⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:44.740868733Z",
-  "model": "glm-4.5"
+  ]
 }

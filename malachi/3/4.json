@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "malachi 3:4",
   "book": "malachi",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 564,
-    "prompt_tokens": 18514,
-    "prompt_tokens_details": {
-      "cached_tokens": 17024
-    },
-    "total_tokens": 19078
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:32.744312038Z",
   "translation": "那时犹大和耶路撒冷的供物必在雅威眼中为悦纳，如往昔之日，如古时之年。",
   "tokens": [
     {
       "surface": "וְ\/עָֽרְבָה֙",
-      "english": "⟨时⟩...必为悦纳"
+      "gloss": "⟨时⟩...必为悦纳"
     },
     {
       "surface": "לַֽ\/יהוָ֔ה",
-      "english": "⟨在⟩雅威⟨眼中⟩"
+      "gloss": "⟨在⟩雅威⟨眼中⟩"
     },
     {
       "surface": "מִנְחַ֥ת",
-      "english": "供物"
+      "gloss": "供物"
     },
     {
       "surface": "יְהוּדָ֖ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וִ\/ירֽוּשָׁלִָ֑ם",
-      "english": "和耶路撒冷"
+      "gloss": "和耶路撒冷"
     },
     {
       "surface": "כִּ\/ימֵ֣י",
-      "english": "如...日"
+      "gloss": "如...日"
     },
     {
       "surface": "עוֹלָ֔ם",
-      "english": "往昔"
+      "gloss": "往昔"
     },
     {
       "surface": "וּ\/כְ\/שָׁנִ֖ים",
-      "english": "和...年"
+      "gloss": "和...年"
     },
     {
       "surface": "קַדְמֹנִיּֽוֹת",
-      "english": "古时"
+      "gloss": "古时"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:32.744312038Z",
-  "model": "glm-4.5"
+  ]
 }

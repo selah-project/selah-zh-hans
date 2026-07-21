@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 20:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21509,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21883
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:52.576955034Z",
   "translation": "他的儿子们要讨好贫穷人，他的手要归还他的力量。",
   "tokens": [
     {
       "surface": "בניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ירצו",
-      "english": "要讨好"
+      "gloss": "要讨好"
     },
     {
       "surface": "דלים",
-      "english": "贫穷人"
+      "gloss": "贫穷人"
     },
     {
       "surface": "וידיו",
-      "english": "而他的手"
+      "gloss": "而他的手"
     },
     {
       "surface": "תשבנה",
-      "english": "要归还"
+      "gloss": "要归还"
     },
     {
       "surface": "אונו",
-      "english": "他的力量"
+      "gloss": "他的力量"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:52.576955034Z",
-  "model": "glm-5.2"
+  ]
 }

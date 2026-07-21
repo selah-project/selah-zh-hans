@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "proverbs 23:33",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54354,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54674
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:53.963361925Z",
   "translation": "你的眼必看见异怪之物,你的心必说出乖谬之言。",
   "tokens": [
     {
       "surface": "עיניך",
-      "english": "你的眼"
+      "gloss": "你的眼"
     },
     {
       "surface": "יראו",
-      "english": "必看见"
+      "gloss": "必看见"
     },
     {
       "surface": "זרות",
-      "english": "异怪之物"
+      "gloss": "异怪之物"
     },
     {
       "surface": "ולבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "ידבר",
-      "english": "必说出"
+      "gloss": "必说出"
     },
     {
       "surface": "תהפכות",
-      "english": "乖谬之言"
+      "gloss": "乖谬之言"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:53.963361925Z",
-  "model": "glm-5.2"
+  ]
 }

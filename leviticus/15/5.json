@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 15:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19339,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19738
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:50:21.684093848Z",
   "translation": "凡触碰他床的人,要洗自己的衣服,在水中沐浴,他不洁净 ⟨直到⟩ 黄昏。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "凡……的人"
+      "gloss": "凡……的人"
     },
     {
       "surface": "אשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יגע",
-      "english": "触碰"
+      "gloss": "触碰"
     },
     {
       "surface": "במשכבו",
-      "english": "他的床"
+      "gloss": "他的床"
     },
     {
       "surface": "יכבס",
-      "english": "要洗"
+      "gloss": "要洗"
     },
     {
       "surface": "בגדיו",
-      "english": "他的衣服"
+      "gloss": "他的衣服"
     },
     {
       "surface": "ורחץ",
-      "english": "并沐浴"
+      "gloss": "并沐浴"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "וטמא",
-      "english": "他不洁净"
+      "gloss": "他不洁净"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "黄昏"
+      "gloss": "黄昏"
     }
-  ],
-  "timestamp": "2026-07-17T18:50:21.684093848Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ecclesiastes 11:7",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18955,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19350
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:23:05.337468214Z",
   "translation": "而且光是甘甜的，对眼睛也是好的，⟨可以⟩看见⟨את⟩太阳。",
   "tokens": [
     {
       "surface": "וּ\/מָת֖וֹק",
-      "english": "而且⟨是⟩甘甜的"
+      "gloss": "而且⟨是⟩甘甜的"
     },
     {
       "surface": "הָ\/א֑וֹר",
-      "english": "那光"
+      "gloss": "那光"
     },
     {
       "surface": "וְ\/ט֥וֹב",
-      "english": "而且⟨是⟩好的"
+      "gloss": "而且⟨是⟩好的"
     },
     {
       "surface": "לַֽ\/עֵינַ֖יִם",
-      "english": "对眼睛"
+      "gloss": "对眼睛"
     },
     {
       "surface": "לִ\/רְא֥וֹת",
-      "english": "可以看见"
+      "gloss": "可以看见"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "太阳"
     },
     {
       "surface": "הַ\/שָּֽׁמֶשׁ",
-      "english": "那太阳"
+      "gloss": "那太阳"
     }
-  ],
-  "timestamp": "2026-07-18T01:23:05.337468214Z",
-  "model": "glm-5.2"
+  ]
 }

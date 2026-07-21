@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-kings 17:5",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18684,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19070
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:28:11.999160375Z",
   "translation": "亚述王上来⟨进入⟩全地，上来⟨攻击⟩撒玛利亚，围困它三年。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "上来"
+      "gloss": "上来"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "בכל",
-      "english": "⟨进入⟩全"
+      "gloss": "⟨进入⟩全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ויעל",
-      "english": "上来"
+      "gloss": "上来"
     },
     {
       "surface": "שמרון",
-      "english": "⟨攻击⟩撒玛利亚"
+      "gloss": "⟨攻击⟩撒玛利亚"
     },
     {
       "surface": "ויצר",
-      "english": "围困"
+      "gloss": "围困"
     },
     {
       "surface": "עליה",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     }
-  ],
-  "timestamp": "2026-07-17T21:28:11.999160375Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "1-samuel 17:50",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18709,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19213
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:41.724363645Z",
   "translation": "这样,大卫胜过⟨那⟩非利士人,用投石索和石头;他击打⟨את⟩⟨那⟩非利士人并将他致死——而大卫手中没有刀剑。",
   "tokens": [
     {
       "surface": "ויחזק",
-      "english": "这样,……胜过"
+      "gloss": "这样,……胜过"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מן",
-      "english": "从\/胜过"
+      "gloss": "从\/胜过"
     },
     {
       "surface": "הפלשתי",
-      "english": "⟨那⟩非利士人"
+      "gloss": "⟨那⟩非利士人"
     },
     {
       "surface": "בקלע",
-      "english": "用投石索"
+      "gloss": "用投石索"
     },
     {
       "surface": "ובאבן",
-      "english": "和石头"
+      "gloss": "和石头"
     },
     {
       "surface": "ויך",
-      "english": "他击打"
+      "gloss": "他击打"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩非利士人"
     },
     {
       "surface": "הפלשתי",
-      "english": "⟨那⟩非利士人"
+      "gloss": "⟨那⟩非利士人"
     },
     {
       "surface": "וימיתהו",
-      "english": "并将他致死"
+      "gloss": "并将他致死"
     },
     {
       "surface": "וחרב",
-      "english": "而刀剑"
+      "gloss": "而刀剑"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "ביד",
-      "english": "在……手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:41.724363645Z",
-  "model": "glm-5.2"
+  ]
 }

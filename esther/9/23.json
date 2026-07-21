@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "esther 9:23",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19717,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20180
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:27:25.992245635Z",
   "translation": "犹大人接受了 ⟨את⟩ 他们已经开始做的事，以及 ⟨את⟩ 末底改写给他们的，",
   "tokens": [
     {
       "surface": "וְ\/קִבֵּל",
-      "english": "接受了"
+      "gloss": "接受了"
     },
     {
       "surface": "הַ\/יְּהוּדִים",
-      "english": "犹大人"
+      "gloss": "犹大人"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们已经开始做的事"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "关系代词(引导从句)"
+      "gloss": "关系代词(引导从句)"
     },
     {
       "surface": "הֵחֵלוּ",
-      "english": "他们已经……开始"
+      "gloss": "他们已经……开始"
     },
     {
       "surface": "לַ\/עֲשׂוֹת",
-      "english": "做"
+      "gloss": "做"
     },
     {
       "surface": "וְ\/אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "末底改写给他们的"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "关系代词(引导从句)"
+      "gloss": "关系代词(引导从句)"
     },
     {
       "surface": "כָּתַב",
-      "english": "写了"
+      "gloss": "写了"
     },
     {
       "surface": "מָרְדֳּכַי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "אֲלֵי\/הֶם",
-      "english": "给他们"
+      "gloss": "给他们"
     }
-  ],
-  "timestamp": "2026-07-18T01:27:25.992245635Z",
-  "model": "glm-5.2"
+  ]
 }

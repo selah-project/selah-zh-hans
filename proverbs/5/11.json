@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 5:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 186,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54249,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54435
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:50.083173680Z",
   "translation": "你在终局叹息,当你的肉体和你的本体被耗尽之时,",
   "tokens": [
     {
       "surface": "ונהמת",
-      "english": "你在……叹息"
+      "gloss": "你在……叹息"
     },
     {
       "surface": "באחריתך",
-      "english": "你的终局"
+      "gloss": "你的终局"
     },
     {
       "surface": "בכלות",
-      "english": "被耗尽之时"
+      "gloss": "被耗尽之时"
     },
     {
       "surface": "בשרך",
-      "english": "你的肉体"
+      "gloss": "你的肉体"
     },
     {
       "surface": "ושארך",
-      "english": "和你的本体"
+      "gloss": "和你的本体"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:50.083173680Z",
-  "model": "glm-5.2"
+  ]
 }

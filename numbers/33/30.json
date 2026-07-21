@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "numbers 33:30",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 226,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19202,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19428
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:21.127679830Z",
   "translation": "他们从哈实摩纳起行,在摩塞录安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מחשמנה",
-      "english": "从哈实摩纳"
+      "gloss": "从哈实摩纳"
     },
     {
       "surface": "ויחנו",
-      "english": "他们……安营"
+      "gloss": "他们……安营"
     },
     {
       "surface": "במסרות",
-      "english": "在摩塞录"
+      "gloss": "在摩塞录"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:21.127679830Z",
-  "model": "glm-5.2"
+  ]
 }

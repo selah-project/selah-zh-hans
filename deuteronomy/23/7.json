@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "deuteronomy 23:7",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19195,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19613
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:42:01.635394330Z",
   "translation": "你不可寻求他们的平安与他们的福祉,你所有的日子,直到永远。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תדרש",
-      "english": "你寻求"
+      "gloss": "你寻求"
     },
     {
       "surface": "שלמם",
-      "english": "他们的平安"
+      "gloss": "他们的平安"
     },
     {
       "surface": "וטבתם",
-      "english": "与他们的福祉"
+      "gloss": "与他们的福祉"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "ימיך",
-      "english": "你的日子"
+      "gloss": "你的日子"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T19:42:01.635394330Z",
-  "model": "glm-5.2"
+  ]
 }

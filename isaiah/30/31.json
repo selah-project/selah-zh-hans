@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "isaiah 30:31",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20562,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20979
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:48:13.132279204Z",
   "translation": "因为从雅威的声音，亚述必被击溃；⟨他⟩必用杖击打。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מִ\/קּ֥וֹל",
-      "english": "从……的声音"
+      "gloss": "从……的声音"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יֵחַ֣ת",
-      "english": "必被击溃"
+      "gloss": "必被击溃"
     },
     {
       "surface": "אַשּׁ֑וּר",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "בַּ\/שֵּׁ֖בֶט",
-      "english": "用杖"
+      "gloss": "用杖"
     },
     {
       "surface": "יַכֶּֽה",
-      "english": "⟨他⟩必击打"
+      "gloss": "⟨他⟩必击打"
     }
-  ],
-  "timestamp": "2026-07-17T21:48:13.132279204Z",
-  "model": "glm-5.2"
+  ]
 }

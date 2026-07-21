@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "judges 6:9",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18667,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 19185
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:09:40.062712853Z",
   "translation": "我从埃及的手中把⟨את⟩你们拯救出来,从一切压迫你们者的手中⟨出来⟩;我从你们面前把他们驱逐出去,我把⟨את⟩他们的地赐给你们。",
   "tokens": [
     {
       "surface": "ואצל",
-      "english": "我……拯救出来"
+      "gloss": "我……拯救出来"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "מיד",
-      "english": "从……的手中"
+      "gloss": "从……的手中"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "ומיד",
-      "english": "和从……的手中"
+      "gloss": "和从……的手中"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "לחציכם",
-      "english": "压迫你们者"
+      "gloss": "压迫你们者"
     },
     {
       "surface": "ואגרש",
-      "english": "我……驱逐出去"
+      "gloss": "我……驱逐出去"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "מפניכם",
-      "english": "从你们面前"
+      "gloss": "从你们面前"
     },
     {
       "surface": "ואתנה",
-      "english": "我赐给"
+      "gloss": "我赐给"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的地"
     },
     {
       "surface": "ארצם",
-      "english": "他们的地"
+      "gloss": "他们的地"
     }
-  ],
-  "timestamp": "2026-07-17T20:09:40.062712853Z",
-  "model": "glm-5.2"
+  ]
 }

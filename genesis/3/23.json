@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 3:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23303,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23707
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:35.548563992Z",
   "translation": "雅威以罗欣差遣⟨他⟩离开伊甸园,去耕种⟨את⟩那地土,就是他从那里被取的。",
   "tokens": [
     {
       "surface": "וישלחהו",
-      "english": "差遣⟨他⟩"
+      "gloss": "差遣⟨他⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "מגן",
-      "english": "离开……园"
+      "gloss": "离开……园"
     },
     {
       "surface": "עדן",
-      "english": "伊甸"
+      "gloss": "伊甸"
     },
     {
       "surface": "לעבד",
-      "english": "去耕种"
+      "gloss": "去耕种"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那地土"
     },
     {
       "surface": "האדמה",
-      "english": "那地土"
+      "gloss": "那地土"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "לקח",
-      "english": "他被取"
+      "gloss": "他被取"
     },
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:35.548563992Z",
-  "model": "glm-5.2"
+  ]
 }

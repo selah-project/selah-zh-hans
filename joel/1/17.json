@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "joel 1:17",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 612,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18324,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18936
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:30.793599822Z",
   "translation": "谷粒在其铲土块下干朽，仓库 ⟨被⟩ 荒废，谷仓 ⟨被⟩ 毁坏，因为粮食枯干了。",
   "tokens": [
     {
       "surface": "עבשו",
-      "english": "干朽了"
+      "gloss": "干朽了"
     },
     {
       "surface": "פרדות",
-      "english": "谷粒"
+      "gloss": "谷粒"
     },
     {
       "surface": "תחת",
-      "english": "在……下"
+      "gloss": "在……下"
     },
     {
       "surface": "מגרפתיהם",
-      "english": "他们的铲土块"
+      "gloss": "他们的铲土块"
     },
     {
       "surface": "נשמו",
-      "english": "荒废了"
+      "gloss": "荒废了"
     },
     {
       "surface": "אצרות",
-      "english": "仓库"
+      "gloss": "仓库"
     },
     {
       "surface": "נהרסו",
-      "english": "毁坏了"
+      "gloss": "毁坏了"
     },
     {
       "surface": "ממגרות",
-      "english": "谷仓"
+      "gloss": "谷仓"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הביש",
-      "english": "枯干了"
+      "gloss": "枯干了"
     },
     {
       "surface": "דגן",
-      "english": "粮食"
+      "gloss": "粮食"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:30.793599822Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 17:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19038,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19309
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:13:17.386088875Z",
   "translation": "雅威对摩西说话,*le-imr* ⟨说⟩:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לאמר",
-      "english": "*le-imr* ⟨说⟩"
+      "gloss": "*le-imr* ⟨说⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:13:17.386088875Z",
-  "model": "glm-5.2"
+  ]
 }

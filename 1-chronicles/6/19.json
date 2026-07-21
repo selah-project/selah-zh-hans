@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "1-chronicles 6:19",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58680,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58942
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:55:20.046066131Z",
   "translation": "本-以利加拿,本-耶罗罕,本-以列,本-托阿",
   "tokens": [
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "אלקנה",
-      "english": "以利加拿"
+      "gloss": "以利加拿"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "ירחם",
-      "english": "耶罗罕"
+      "gloss": "耶罗罕"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "אליאל",
-      "english": "以列"
+      "gloss": "以列"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "תוח",
-      "english": "托阿"
+      "gloss": "托阿"
     }
-  ],
-  "timestamp": "2026-07-18T01:55:20.046066131Z",
-  "model": "glm-5.2"
+  ]
 }

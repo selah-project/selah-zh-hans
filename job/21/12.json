@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 21:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21482,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21869
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:43.845019488Z",
   "translation": "他们举起手鼓与琴,因箫的声音欢乐。",
   "tokens": [
     {
       "surface": "יִ֭שְׂאוּ",
-      "english": "他们举起"
+      "gloss": "他们举起"
     },
     {
       "surface": "כְּ\/תֹ֣ף",
-      "english": "手鼓"
+      "gloss": "手鼓"
     },
     {
       "surface": "וְ\/כִנּ֑וֹר",
-      "english": "与琴"
+      "gloss": "与琴"
     },
     {
       "surface": "וְ֝\/יִשְׂמְח֗וּ",
-      "english": "并且欢乐"
+      "gloss": "并且欢乐"
     },
     {
       "surface": "לְ\/ק֣וֹל",
-      "english": "因……的声音"
+      "gloss": "因……的声音"
     },
     {
       "surface": "עוּגָֽב",
-      "english": "箫"
+      "gloss": "箫"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:43.845019488Z",
-  "model": "glm-5.2"
+  ]
 }

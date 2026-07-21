@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 130:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64575,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64944
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:46.517726357Z",
   "translation": "阿多奈啊,求你听我的声音;愿你的耳朵留心听我恳求的声音。",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "阿多奈啊"
+      "gloss": "阿多奈啊"
     },
     {
       "surface": "שמעה",
-      "english": "求你听"
+      "gloss": "求你听"
     },
     {
       "surface": "בקולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "תהיינה",
-      "english": "愿⟨它们⟩成为"
+      "gloss": "愿⟨它们⟩成为"
     },
     {
       "surface": "אזניך",
-      "english": "你的耳朵"
+      "gloss": "你的耳朵"
     },
     {
       "surface": "קשבות",
-      "english": "留心的"
+      "gloss": "留心的"
     },
     {
       "surface": "לקול",
-      "english": "听⟨……⟩的声音"
+      "gloss": "听⟨……⟩的声音"
     },
     {
       "surface": "תחנוני",
-      "english": "我恳求"
+      "gloss": "我恳求"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:46.517726357Z",
-  "model": "glm-5.2"
+  ]
 }

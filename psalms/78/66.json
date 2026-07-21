@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 66,
   "ref": "psalms 78:66",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64381,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64710
-  },
+  "verse": 66,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:19.251373452Z",
   "translation": "他击打他的敌人⟨在⟩后方,将永远的羞辱加给他们。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "他击打"
+      "gloss": "他击打"
     },
     {
       "surface": "צריו",
-      "english": "他的敌人"
+      "gloss": "他的敌人"
     },
     {
       "surface": "אחור",
-      "english": "后方"
+      "gloss": "后方"
     },
     {
       "surface": "חרפת",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "עולם",
-      "english": "永远的"
+      "gloss": "永远的"
     },
     {
       "surface": "נתן",
-      "english": "加给"
+      "gloss": "加给"
     },
     {
       "surface": "למו",
-      "english": "他们"
+      "gloss": "他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:19.251373452Z",
-  "model": "glm-5.2"
+  ]
 }

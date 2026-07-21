@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "numbers 26:50",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19923,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20259
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:33.917770807Z",
   "translation": "这些是拿弗他利的家族，按他们的家族；他们被点数的人⟨是⟩四万五千四百。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "משפחת",
-      "english": "……的家族"
+      "gloss": "……的家族"
     },
     {
       "surface": "נפתלי",
-      "english": "拿弗他利"
+      "gloss": "拿弗他利"
     },
     {
       "surface": "למשפחתם",
-      "english": "按他们的家族"
+      "gloss": "按他们的家族"
     },
     {
       "surface": "ופקדיהם",
-      "english": "他们被点数的人"
+      "gloss": "他们被点数的人"
     },
     {
       "surface": "חמשה",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "וארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:33.917770807Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "proverbs 18:13",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54424,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54812
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:54.836690250Z",
   "translation": "回话 ⟨⟨הוא⟩⟩ ⟨⟨לו⟩⟩ *davar*（话）在⟨他⟩尚未听见以前，⟨这⟩向他就是愚妄和羞辱。",
   "tokens": [
     {
       "surface": "משיב",
-      "english": "回话"
+      "gloss": "回话"
     },
     {
       "surface": "דבר",
-      "english": "*davar*（话）"
+      "gloss": "*davar*（话）"
     },
     {
       "surface": "בטרם",
-      "english": "在……以前"
+      "gloss": "在……以前"
     },
     {
       "surface": "י שמע",
-      "english": "他听见"
+      "gloss": "他听见"
     },
     {
       "surface": "אולת",
-      "english": "愚妄"
+      "gloss": "愚妄"
     },
     {
       "surface": "היא",
-      "english": "⟨הוא⟩（她\/这是）"
+      "gloss": "⟨הוא⟩（她\/这是）"
     },
     {
       "surface": "לו",
-      "english": "⟨לו⟩（向他）"
+      "gloss": "⟨לו⟩（向他）"
     },
     {
       "surface": "וכלמה",
-      "english": "和羞辱"
+      "gloss": "和羞辱"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:54.836690250Z",
-  "model": "glm-5.2"
+  ]
 }

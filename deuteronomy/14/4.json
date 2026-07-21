@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "deuteronomy 14:4",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19214,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19721
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:47.593921528Z",
   "translation": "这是你们可以吃的⟨הַ\/בְּהֵמָה⟩牲畜：牛、绵羊群的羊，以及山羊群的羊。",
   "tokens": [
     {
       "surface": "זֹ֥את",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "הַ\/בְּהֵמָ֖ה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "תֹּאכֵ֑לוּ",
-      "english": "你们可以吃的"
+      "gloss": "你们可以吃的"
     },
     {
       "surface": "שׁ֕וֹר",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "שֵׂ֥ה",
-      "english": "羊"
+      "gloss": "羊"
     },
     {
       "surface": "כְשָׂבִ֖ים",
-      "english": "绵羊群的"
+      "gloss": "绵羊群的"
     },
     {
       "surface": "וְ\/שֵׂ֥ה",
-      "english": "以及羊"
+      "gloss": "以及羊"
     },
     {
       "surface": "עִזִּֽים",
-      "english": "山羊群的"
+      "gloss": "山羊群的"
     }
-  ],
-  "timestamp": "2026-07-17T19:36:47.593921528Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 45:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 320,
-    "prompt_tokens": 19031,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19351
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:19:38.688718086Z",
   "translation": "雅威，以色列的以罗欣，对巴录这样说：",
   "tokens": [
     {
       "surface": "כה",
-      "english": "这样说"
+      "gloss": "这样说"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עליך",
-      "english": "对……说"
+      "gloss": "对……说"
     },
     {
       "surface": "ברוך",
-      "english": "巴录"
+      "gloss": "巴录"
     }
-  ],
-  "timestamp": "2026-07-21T13:19:38.688718086Z",
-  "model": "glm-4.5"
+  ]
 }

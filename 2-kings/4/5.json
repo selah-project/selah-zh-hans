@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-kings 4:5",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18796,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19364
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:09.816075114Z",
   "translation": "于是她从他那里走开,关上门 ⟨为⟩ 她自己 ⟨和⟩ 为她的众子;他们 ⟨不断⟩ 把 ⟨器皿⟩ 拿近给她,而她 ⟨不断⟩ 倾倒。",
   "tokens": [
     {
       "surface": "ותלך",
-      "english": "于是她走开"
+      "gloss": "于是她走开"
     },
     {
       "surface": "מאתו",
-      "english": "从他那里"
+      "gloss": "从他那里"
     },
     {
       "surface": "ותסגר",
-      "english": "她关上"
+      "gloss": "她关上"
     },
     {
       "surface": "הדלת",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "בעדה",
-      "english": "为 ⟨她⟩"
+      "gloss": "为 ⟨她⟩"
     },
     {
       "surface": "ובעד",
-      "english": "和为"
+      "gloss": "和为"
     },
     {
       "surface": "בניה",
-      "english": "她的众子"
+      "gloss": "她的众子"
     },
     {
       "surface": "הם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "מגשים",
-      "english": "不断拿近 ⟨器皿⟩"
+      "gloss": "不断拿近 ⟨器皿⟩"
     },
     {
       "surface": "אליה",
-      "english": "给她"
+      "gloss": "给她"
     },
     {
       "surface": "והיא",
-      "english": "而她"
+      "gloss": "而她"
     },
     {
       "surface": "מיצקת",
-      "english": "不断倾倒"
+      "gloss": "不断倾倒"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:09.816075114Z",
-  "model": "glm-5.2"
+  ]
 }

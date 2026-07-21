@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 12:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18805,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19301
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:31.238571077Z",
   "translation": "他们要在⟨这⟩夜吃⟨את⟩⟨这⟩肉，用火烤的，与无酵饼和苦菜一起他们要吃它。",
   "tokens": [
     {
       "surface": "ואכלו",
-      "english": "他们要吃"
+      "gloss": "他们要吃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨这⟩肉"
     },
     {
       "surface": "הבשר",
-      "english": "⟨这⟩肉"
+      "gloss": "⟨这⟩肉"
     },
     {
       "surface": "בלילה",
-      "english": "在⟨这⟩夜"
+      "gloss": "在⟨这⟩夜"
     },
     {
       "surface": "הזה",
-      "english": "⟨这⟩"
+      "gloss": "⟨这⟩"
     },
     {
       "surface": "צלי",
-      "english": "烤的"
+      "gloss": "烤的"
     },
     {
       "surface": "אש",
-      "english": "用火"
+      "gloss": "用火"
     },
     {
       "surface": "ומצות",
-      "english": "与无酵饼"
+      "gloss": "与无酵饼"
     },
     {
       "surface": "על",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "מררים",
-      "english": "苦菜"
+      "gloss": "苦菜"
     },
     {
       "surface": "יאכלהו",
-      "english": "他们要吃它"
+      "gloss": "他们要吃它"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:31.238571077Z",
-  "model": "glm-5.2"
+  ]
 }

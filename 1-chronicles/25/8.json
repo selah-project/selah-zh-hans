@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 25:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58813,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59220
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:09:28.936536472Z",
   "translation": "他们为值守掣签,⟨从⟩小的到大的,连同 ⟨המבין⟩ 与门生。",
   "tokens": [
     {
       "surface": "ויפילו",
-      "english": "他们掣签"
+      "gloss": "他们掣签"
     },
     {
       "surface": "גורלות",
-      "english": "签"
+      "gloss": "签"
     },
     {
       "surface": "משמרת",
-      "english": "为值守"
+      "gloss": "为值守"
     },
     {
       "surface": "לעמת",
-      "english": "对着"
+      "gloss": "对着"
     },
     {
       "surface": "כקטן",
-      "english": "如小的"
+      "gloss": "如小的"
     },
     {
       "surface": "כגדול",
-      "english": "如大的"
+      "gloss": "如大的"
     },
     {
       "surface": "מבין",
-      "english": "明辨者"
+      "gloss": "明辨者"
     },
     {
       "surface": "עם",
-      "english": "连同"
+      "gloss": "连同"
     },
     {
       "surface": "תלמיד",
-      "english": "门生"
+      "gloss": "门生"
     }
-  ],
-  "timestamp": "2026-07-18T02:09:28.936536472Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "job 21:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 346,
-    "prompt_tokens": 21463,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21809
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:54.568325670Z",
   "translation": "岂有人以此教导以罗欣知识？⟨祂⟩审判那些高处的。",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "岂有人以此教导以罗欣"
+      "gloss": "岂有人以此教导以罗欣"
     },
     {
       "surface": "ילמד",
-      "english": "教导"
+      "gloss": "教导"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "והוא",
-      "english": "⟨祂⟩"
+      "gloss": "⟨祂⟩"
     },
     {
       "surface": "רמים",
-      "english": "那些高处的"
+      "gloss": "那些高处的"
     },
     {
       "surface": "ישפוט",
-      "english": "审判"
+      "gloss": "审判"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:54.568325670Z",
-  "model": "glm-4.5"
+  ]
 }

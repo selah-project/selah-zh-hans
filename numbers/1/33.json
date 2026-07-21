@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "numbers 1:33",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19610,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19958
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:38.367038005Z",
   "translation": "他们被数点的人，属于以法莲支派，⟨是⟩四万零五百。",
   "tokens": [
     {
       "surface": "פקדיהם",
-      "english": "他们被数点的人"
+      "gloss": "他们被数点的人"
     },
     {
       "surface": "למטה",
-      "english": "属于……支派"
+      "gloss": "属于……支派"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "零五"
+      "gloss": "零五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:38.367038005Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "numbers 24:25",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19634,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19949
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:17:50.093563244Z",
   "translation": "比兰起身,去,回他的地方;巴勒也走了,各 ⟨走⟩ 各的路。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "起身"
+      "gloss": "起身"
     },
     {
       "surface": "בלעם",
-      "english": "比兰"
+      "gloss": "比兰"
     },
     {
       "surface": "וילך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "וישב",
-      "english": "回"
+      "gloss": "回"
     },
     {
       "surface": "למקמו",
-      "english": "他的地方"
+      "gloss": "他的地方"
     },
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "בלק",
-      "english": "巴勒"
+      "gloss": "巴勒"
     },
     {
       "surface": "הלך",
-      "english": "走"
+      "gloss": "走"
     },
     {
       "surface": "לדרכו",
-      "english": "他的路"
+      "gloss": "他的路"
     }
-  ],
-  "timestamp": "2026-07-17T19:17:50.093563244Z",
-  "model": "glm-5.2"
+  ]
 }

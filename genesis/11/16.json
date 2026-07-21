@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 11:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22938,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23350
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:23.116017414Z",
   "translation": "法勒 (פָּֽלֶג) 活到三十四岁,生了 ⟨את⟩ פָּֽלֶג (法勒)。",
   "tokens": [
     {
       "surface": "וַֽ\/יְחִי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "עֵ֕בֶר",
-      "english": "法勒"
+      "gloss": "法勒"
     },
     {
       "surface": "אַרְבַּ֥ע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "וּ\/שְׁלֹשִׁ֖ים",
-      "english": "和三十"
+      "gloss": "和三十"
     },
     {
       "surface": "שָׁנָ֑ה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "פָּֽלֶג (Peleg)"
     },
     {
       "surface": "פָּֽלֶג",
-      "english": "法勒"
+      "gloss": "法勒"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:23.116017414Z",
-  "model": "glm-5.2"
+  ]
 }

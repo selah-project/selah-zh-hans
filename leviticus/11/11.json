@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 11:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19316,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19751
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:23.007877241Z",
   "translation": "它们对你们必为可憎之物；⟨你们⟩不可吃它们的肉，⟨你们⟩要以⟨את⟩它们的尸体为可憎。",
   "tokens": [
     {
       "surface": "ושקץ",
-      "english": "它们必为可憎之物"
+      "gloss": "它们必为可憎之物"
     },
     {
       "surface": "יהיו",
-      "english": "必为"
+      "gloss": "必为"
     },
     {
       "surface": "לכם",
-      "english": "对你们"
+      "gloss": "对你们"
     },
     {
       "surface": "מבשרם",
-      "english": "它们的肉"
+      "gloss": "它们的肉"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "⟨你们⟩吃"
+      "gloss": "⟨你们⟩吃"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们的尸体"
     },
     {
       "surface": "נבלתם",
-      "english": "它们的尸体"
+      "gloss": "它们的尸体"
     },
     {
       "surface": "תשקצו",
-      "english": "⟨你们⟩要以…为可憎"
+      "gloss": "⟨你们⟩要以…为可憎"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:23.007877241Z",
-  "model": "glm-5.2"
+  ]
 }

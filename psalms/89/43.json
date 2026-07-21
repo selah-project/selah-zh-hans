@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "psalms 89:43",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64373,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64673
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:24.282541876Z",
   "translation": "你高举了他仇敌的右手,你使他所有的敌人欢乐。",
   "tokens": [
     {
       "surface": "הרימות",
-      "english": "你高举了"
+      "gloss": "你高举了"
     },
     {
       "surface": "ימין",
-      "english": "右手"
+      "gloss": "右手"
     },
     {
       "surface": "צריו",
-      "english": "他仇敌的"
+      "gloss": "他仇敌的"
     },
     {
       "surface": "השמחת",
-      "english": "你使……欢乐"
+      "gloss": "你使……欢乐"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "אויביו",
-      "english": "他的敌人"
+      "gloss": "他的敌人"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:24.282541876Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 138:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64461,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64910
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:46.951835733Z",
   "translation": "大卫的。我要以全心来赞美你,在以罗欣面前,我要向你弹奏歌唱。",
   "tokens": [
     {
       "surface": "לְדָוִ֨ד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "אוֹדְ\/ךָ֥",
-      "english": "我要赞美你"
+      "gloss": "我要赞美你"
     },
     {
       "surface": "בְ\/כָל",
-      "english": "以全部"
+      "gloss": "以全部"
     },
     {
       "surface": "לִבִּ֑\/י",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "נֶ֖גֶד",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אֱלֹהִ֣ים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אֲזַמְּרֶֽ\/ךָּ",
-      "english": "我要向你弹奏歌唱"
+      "gloss": "我要向你弹奏歌唱"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:46.951835733Z",
-  "model": "glm-5.2"
+  ]
 }

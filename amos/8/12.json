@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "amos 8:12",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18732,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19352
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:22:06.312165706Z",
   "translation": "他们必漂流,从这海到那海,又从北到东;他们必来回奔走,寻求雅威的⟨את⟩*davar*,却寻不见。",
   "tokens": [
     {
       "surface": "וְ\/נָעוּ֙",
-      "english": "他们必漂流"
+      "gloss": "他们必漂流"
     },
     {
       "surface": "מִ\/יָּ֣ם",
-      "english": "从这海"
+      "gloss": "从这海"
     },
     {
       "surface": "עַד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "יָ֔ם",
-      "english": "那海"
+      "gloss": "那海"
     },
     {
       "surface": "וּ\/מִ\/צָּפ֖וֹן",
-      "english": "又从北"
+      "gloss": "又从北"
     },
     {
       "surface": "וְ\/עַד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מִזְרָ֑ח",
-      "english": "东"
+      "gloss": "东"
     },
     {
       "surface": "יְשֽׁוֹטְט֛וּ",
-      "english": "他们必来回奔走"
+      "gloss": "他们必来回奔走"
     },
     {
       "surface": "לְ\/בַקֵּ֥שׁ",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的 davar"
     },
     {
       "surface": "דְּבַר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/לֹ֥א",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "יִמְצָֽאוּ",
-      "english": "寻见"
+      "gloss": "寻见"
     }
-  ],
-  "timestamp": "2026-07-17T23:22:06.312165706Z",
-  "model": "glm-5.2"
+  ]
 }

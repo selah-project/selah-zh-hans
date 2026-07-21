@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 64:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20862,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21270
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:05:00.529318339Z",
   "translation": "你的圣城变成了旷野,锡安变成了旷野,耶路撒冷⟨成了⟩荒场。",
   "tokens": [
     {
       "surface": "ערי",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "קדשך",
-      "english": "你的圣"
+      "gloss": "你的圣"
     },
     {
       "surface": "היו",
-      "english": "变成了"
+      "gloss": "变成了"
     },
     {
       "surface": "מדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "מדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "היתה",
-      "english": "变成了"
+      "gloss": "变成了"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "שממה",
-      "english": "荒场"
+      "gloss": "荒场"
     }
-  ],
-  "timestamp": "2026-07-17T22:05:00.529318339Z",
-  "model": "glm-5.2"
+  ]
 }

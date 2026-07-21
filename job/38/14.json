@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 38:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21511,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21820
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:09.770538427Z",
   "translation": "它翻转如盖印的泥,它们就立起如衣服。",
   "tokens": [
     {
       "surface": "תתהפך",
-      "english": "翻转"
+      "gloss": "翻转"
     },
     {
       "surface": "כחמר",
-      "english": "如泥"
+      "gloss": "如泥"
     },
     {
       "surface": "חותם",
-      "english": "印"
+      "gloss": "印"
     },
     {
       "surface": "ויתיצבו",
-      "english": "它们就立起"
+      "gloss": "它们就立起"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "לבוש",
-      "english": "衣服"
+      "gloss": "衣服"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:09.770538427Z",
-  "model": "glm-5.2"
+  ]
 }

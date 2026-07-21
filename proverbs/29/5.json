@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 29:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54450,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54845
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:10.275891702Z",
   "translation": "人若向同伴谄媚，⟨就是⟩⟨在他⟩脚步上张开网罗。",
   "tokens": [
     {
       "surface": "גבר",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "מחליק",
-      "english": "谄媚"
+      "gloss": "谄媚"
     },
     {
       "surface": "על",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "רעהו",
-      "english": "同伴"
+      "gloss": "同伴"
     },
     {
       "surface": "רשת",
-      "english": "网罗"
+      "gloss": "网罗"
     },
     {
       "surface": "פורש",
-      "english": "张开"
+      "gloss": "张开"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פעמיו",
-      "english": "⟨他⟩脚步"
+      "gloss": "⟨他⟩脚步"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:10.275891702Z",
-  "model": "glm-5.2"
+  ]
 }

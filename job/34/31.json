@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "job 34:31",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21518,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21928
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:59.834007130Z",
   "translation": "因为有人对埃尔说:我担当了 ⟨לא אחבל⟩。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֶל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אֵ֭ל",
-      "english": "埃尔 (神)"
+      "gloss": "埃尔 (神)"
     },
     {
       "surface": "ה\/אָמַ֥ר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "נָשָׂ֗אתִי",
-      "english": "我担当了"
+      "gloss": "我担当了"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אֶחְבֹּֽל",
-      "english": "再犯罪"
+      "gloss": "再犯罪"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:59.834007130Z",
-  "model": "glm-5.2"
+  ]
 }

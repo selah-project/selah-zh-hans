@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 26:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19059,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19456
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:26.061657914Z",
   "translation": "我将安置我的 Mishkán（会幕）在你们中间，我的 נפש（nephesh）必不厌弃⟨את⟩你们。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "我将安置"
+      "gloss": "我将安置"
     },
     {
       "surface": "משכני",
-      "english": "我的 Mishkán（会幕）"
+      "gloss": "我的 Mishkán（会幕）"
     },
     {
       "surface": "בתוככם",
-      "english": "在你们中间"
+      "gloss": "在你们中间"
     },
     {
       "surface": "ולא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "תגעל",
-      "english": "厌弃"
+      "gloss": "厌弃"
     },
     {
       "surface": "נפשי",
-      "english": "我的 nephesh（生命气息）"
+      "gloss": "我的 nephesh（生命气息）"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:26.061657914Z",
-  "model": "glm-5.2"
+  ]
 }

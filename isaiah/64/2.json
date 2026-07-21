@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 64:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20740,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21226
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:05:00.927513588Z",
   "translation": "当你行可畏之事——我们不曾等候——你降临，山岭在你面前 ⟨被融化⟩。",
   "tokens": [
     {
       "surface": "בַּ\/עֲשׂוֹתְ\/ךָ֥",
-      "english": "当你行"
+      "gloss": "当你行"
     },
     {
       "surface": "נוֹרָא֖וֹת",
-      "english": "可畏之事"
+      "gloss": "可畏之事"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נְקַוֶּ֑ה",
-      "english": "我们等候"
+      "gloss": "我们等候"
     },
     {
       "surface": "יָרַ֕דְתָּ",
-      "english": "你降临"
+      "gloss": "你降临"
     },
     {
       "surface": "מִ\/פָּנֶ֖י\/ךָ",
-      "english": "从你面前"
+      "gloss": "从你面前"
     },
     {
       "surface": "הָרִ֥ים",
-      "english": "山岭"
+      "gloss": "山岭"
     },
     {
       "surface": "נָזֹֽלּוּ",
-      "english": "⟨被融化⟩"
+      "gloss": "⟨被融化⟩"
     }
-  ],
-  "timestamp": "2026-07-17T22:05:00.927513588Z",
-  "model": "glm-5.2"
+  ]
 }

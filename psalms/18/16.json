@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 18:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64814,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65333
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:34.561132806Z",
   "translation": "水道被看见,世界的根基被露出,因你的斥责,雅威,因你鼻孔鲁阿的气息之冲击。",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "被看见"
+      "gloss": "被看见"
     },
     {
       "surface": "אפיקי",
-      "english": "水道"
+      "gloss": "水道"
     },
     {
       "surface": "מים",
-      "english": "水(的)"
+      "gloss": "水(的)"
     },
     {
       "surface": "ויגלו",
-      "english": "被露出"
+      "gloss": "被露出"
     },
     {
       "surface": "מוסדות",
-      "english": "根基"
+      "gloss": "根基"
     },
     {
       "surface": "תבל",
-      "english": "世界的"
+      "gloss": "世界的"
     },
     {
       "surface": "מגערתך",
-      "english": "因你的斥责"
+      "gloss": "因你的斥责"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מנשמת",
-      "english": "因……的气息之冲击"
+      "gloss": "因……的气息之冲击"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿(气息)"
+      "gloss": "鲁阿(气息)"
     },
     {
       "surface": "אפך",
-      "english": "你鼻孔(的)"
+      "gloss": "你鼻孔(的)"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:34.561132806Z",
-  "model": "glm-5.2"
+  ]
 }

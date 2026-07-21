@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "exodus 38:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18279,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18562
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:03:18.729452980Z",
   "translation": "院子四围所有的帷子都是用捻的细麻作的。",
   "tokens": [
     {
       "surface": "כָּל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "קַלְעֵ֥י",
-      "english": "帷子"
+      "gloss": "帷子"
     },
     {
       "surface": "הֶ\/חָצֵ֛ר",
-      "english": "院子"
+      "gloss": "院子"
     },
     {
       "surface": "סָבִ֖יב",
-      "english": "四围"
+      "gloss": "四围"
     },
     {
       "surface": "שֵׁ֥שׁ",
-      "english": "细麻"
+      "gloss": "细麻"
     },
     {
       "surface": "מָשְׁזָֽר",
-      "english": "捻的"
+      "gloss": "捻的"
     }
-  ],
-  "timestamp": "2026-07-20T15:03:18.729452980Z",
-  "model": "glm-5.2"
+  ]
 }

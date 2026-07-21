@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 118:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64183,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64500
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:38.310208246Z",
   "translation": "投靠雅威是好的，⟨比⟩信靠人⟨更好⟩。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "好的"
+      "gloss": "好的"
     },
     {
       "surface": "לחסות",
-      "english": "投靠"
+      "gloss": "投靠"
     },
     {
       "surface": "ביהוה",
-      "english": "在雅威"
+      "gloss": "在雅威"
     },
     {
       "surface": "מבטח",
-      "english": "⟨比⟩信靠⟨更好⟩"
+      "gloss": "⟨比⟩信靠⟨更好⟩"
     },
     {
       "surface": "באדם",
-      "english": "在人"
+      "gloss": "在人"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:38.310208246Z",
-  "model": "glm-5.2"
+  ]
 }

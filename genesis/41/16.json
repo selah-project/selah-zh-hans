@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 41:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23357,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23757
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:01:28.782123303Z",
   "translation": "约瑟回答法老,说:不在我,以罗欣将回答⟨את⟩法老的平安。",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法老"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "בלעדי",
-      "english": "不在我"
+      "gloss": "不在我"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יענה",
-      "english": "将回答"
+      "gloss": "将回答"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法老的平安"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "פרעה",
-      "english": "法老的"
+      "gloss": "法老的"
     }
-  ],
-  "timestamp": "2026-07-17T18:01:28.782123303Z",
-  "model": "glm-5.2"
+  ]
 }

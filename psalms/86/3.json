@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 86:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64420,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64734
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:46.581965181Z",
   "translation": "求你恩待⟨我⟩，阿多奈，因为我向你呼求，一整天。",
   "tokens": [
     {
       "surface": "חנני",
-      "english": "求你恩待"
+      "gloss": "求你恩待"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "אקרא",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "כל",
-      "english": "整"
+      "gloss": "整"
     },
     {
       "surface": "היום",
-      "english": "一天"
+      "gloss": "一天"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:46.581965181Z",
-  "model": "glm-5.2"
+  ]
 }

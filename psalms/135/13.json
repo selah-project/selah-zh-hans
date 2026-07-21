@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 135:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 228,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64416,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64644
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:48.244920615Z",
   "translation": "雅威啊，你的名存到永远；雅威啊，你的记念存到世世代代。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "לעולם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "זכרך",
-      "english": "你的记念"
+      "gloss": "你的记念"
     },
     {
       "surface": "לדר",
-      "english": "存到世代"
+      "gloss": "存到世代"
     },
     {
       "surface": "ודר",
-      "english": "和世代"
+      "gloss": "和世代"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:48.244920615Z",
-  "model": "glm-5.2"
+  ]
 }

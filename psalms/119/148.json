@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 148,
   "ref": "psalms 119:148",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64243,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64648
-  },
+  "verse": 148,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:34.022577916Z",
   "translation": "我双眼迎及夜间的守望，为要默想你的话。",
   "tokens": [
     {
       "surface": "קִדְּמ֣וּ",
-      "english": "迎及"
+      "gloss": "迎及"
     },
     {
       "surface": "עֵ֭ינַ\/י",
-      "english": "我双眼"
+      "gloss": "我双眼"
     },
     {
       "surface": "אַשְׁמֻר֑וֹת",
-      "english": "夜间的守望"
+      "gloss": "夜间的守望"
     },
     {
       "surface": "לָ֝\/שִׂ֗יחַ",
-      "english": "为要默想"
+      "gloss": "为要默想"
     },
     {
       "surface": "בְּ\/אִמְרָתֶֽ\/ךָ",
-      "english": "你的话"
+      "gloss": "你的话"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:34.022577916Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 5:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63963,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64367
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:09.091843473Z",
   "translation": "他讲了三千则 *mashál*；他的诗歌 ⟨共有⟩ 一千零五首。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "他讲了"
+      "gloss": "他讲了"
     },
     {
       "surface": "שלשת",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "אלפים",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "משל",
-      "english": "*mashál*（比喻性箴言）"
+      "gloss": "*mashál*（比喻性箴言）"
     },
     {
       "surface": "ויהי",
-      "english": "⟨共有⟩"
+      "gloss": "⟨共有⟩"
     },
     {
       "surface": "שירו",
-      "english": "他的诗歌"
+      "gloss": "他的诗歌"
     },
     {
       "surface": "חמשה",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "ואלף",
-      "english": "一千"
+      "gloss": "一千"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:09.091843473Z",
-  "model": "glm-5.2"
+  ]
 }

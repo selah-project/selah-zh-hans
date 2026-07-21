@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "jeremiah 28:10",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19304,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19679
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:23:08.640488538Z",
   "translation": "哈南雅先知从耶利米先知颈项上取下⟨את⟩那木轭,⟨他⟩把它折断了。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "取下"
+      "gloss": "取下"
     },
     {
       "surface": "חנניה",
-      "english": "哈南雅"
+      "gloss": "哈南雅"
     },
     {
       "surface": "הנביא",
-      "english": "先知"
+      "gloss": "先知"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那木轭"
     },
     {
       "surface": "המוטה",
-      "english": "那木轭"
+      "gloss": "那木轭"
     },
     {
       "surface": "מעל",
-      "english": "从……上"
+      "gloss": "从……上"
     },
     {
       "surface": "צואר",
-      "english": "颈项"
+      "gloss": "颈项"
     },
     {
       "surface": "ירמיה",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "הנביא",
-      "english": "先知"
+      "gloss": "先知"
     },
     {
       "surface": "וישברהו",
-      "english": "把它折断了"
+      "gloss": "把它折断了"
     }
-  ],
-  "timestamp": "2026-07-17T22:23:08.640488538Z",
-  "model": "glm-5.2"
+  ]
 }

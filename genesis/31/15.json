@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 31:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23353,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23767
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:54.576340162Z",
   "translation": "我们岂不被他算为外人吗？因为他卖了我们，⟨他⟩甚至完全吞吃了⟨את⟩我们的银子。",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "נכריות",
-      "english": "外人"
+      "gloss": "外人"
     },
     {
       "surface": "נחשבנו",
-      "english": "我们被算为"
+      "gloss": "我们被算为"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מכרנו",
-      "english": "他卖了我们"
+      "gloss": "他卖了我们"
     },
     {
       "surface": "ויאכל",
-      "english": "他也吞吃了"
+      "gloss": "他也吞吃了"
     },
     {
       "surface": "גם",
-      "english": "甚至"
+      "gloss": "甚至"
     },
     {
       "surface": "אכול",
-      "english": "完全"
+      "gloss": "完全"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们的银子"
     },
     {
       "surface": "כספנו",
-      "english": "我们的银子"
+      "gloss": "我们的银子"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:54.576340162Z",
-  "model": "glm-5.2"
+  ]
 }

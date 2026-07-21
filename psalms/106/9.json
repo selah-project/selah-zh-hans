@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 106:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64456,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64820
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:34.321894379Z",
   "translation": "他斥责红海,它就干涸;他引领他们走过深渊,如走旷野。",
   "tokens": [
     {
       "surface": "ויגער",
-      "english": "他斥责"
+      "gloss": "他斥责"
     },
     {
       "surface": "בים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוף",
-      "english": "红（芦苇）"
+      "gloss": "红（芦苇）"
     },
     {
       "surface": "ויחרב",
-      "english": "它就干涸"
+      "gloss": "它就干涸"
     },
     {
       "surface": "ויוליכם",
-      "english": "他引领他们"
+      "gloss": "他引领他们"
     },
     {
       "surface": "בתהמות",
-      "english": "走过深渊"
+      "gloss": "走过深渊"
     },
     {
       "surface": "כמדבר",
-      "english": "如走旷野"
+      "gloss": "如走旷野"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:34.321894379Z",
-  "model": "glm-5.2"
+  ]
 }

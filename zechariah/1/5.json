@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "zechariah 1:5",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17544,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 17870
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:32:36.749518788Z",
   "translation": "你们的父辈，他们在哪里？先知们，他们⟨会⟩永远活着吗？",
   "tokens": [
     {
       "surface": "אבותיכם",
-      "english": "你们的父辈"
+      "gloss": "你们的父辈"
     },
     {
       "surface": "איה",
-      "english": "他们在哪里？"
+      "gloss": "他们在哪里？"
     },
     {
       "surface": "הם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "והנבאים",
-      "english": "先知们"
+      "gloss": "先知们"
     },
     {
       "surface": "הלעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "יחיו",
-      "english": "⟨会⟩活着吗？"
+      "gloss": "⟨会⟩活着吗？"
     }
-  ],
-  "timestamp": "2026-07-17T23:32:36.749518788Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 28:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19525,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19869
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:20:58.072062216Z",
   "translation": "⟨这是⟩安息日的燔祭，按⟨其⟩安息日⟨的规矩⟩；在常献的燔祭之外，⟨连同⟩它的奠酒祭。",
   "tokens": [
     {
       "surface": "עלת",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "שבת",
-      "english": "安息日的"
+      "gloss": "安息日的"
     },
     {
       "surface": "בשבתו",
-      "english": "按其安息日"
+      "gloss": "按其安息日"
     },
     {
       "surface": "על",
-      "english": "在……之外"
+      "gloss": "在……之外"
     },
     {
       "surface": "עלת",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "התמיד",
-      "english": "常献的"
+      "gloss": "常献的"
     },
     {
       "surface": "ונסכה",
-      "english": "连同它的奠酒祭"
+      "gloss": "连同它的奠酒祭"
     }
-  ],
-  "timestamp": "2026-07-17T19:20:58.072062216Z",
-  "model": "glm-5.2"
+  ]
 }

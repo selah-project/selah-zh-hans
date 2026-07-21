@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "exodus 36:33",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18728,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19168
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:04.584805667Z",
   "translation": "他造了⟨את⟩中間的橫木，要穿過板子中間，從一端到另一端。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "中間的橫木"
     },
     {
       "surface": "הבריח",
-      "english": "橫木"
+      "gloss": "橫木"
     },
     {
       "surface": "התיכן",
-      "english": "中間的"
+      "gloss": "中間的"
     },
     {
       "surface": "לברח",
-      "english": "要穿過"
+      "gloss": "要穿過"
     },
     {
       "surface": "בתוך",
-      "english": "中間"
+      "gloss": "中間"
     },
     {
       "surface": "הקרשים",
-      "english": "板子"
+      "gloss": "板子"
     },
     {
       "surface": "מן",
-      "english": "從"
+      "gloss": "從"
     },
     {
       "surface": "הקצה",
-      "english": "一端"
+      "gloss": "一端"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הקצה",
-      "english": "另一端"
+      "gloss": "另一端"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:04.584805667Z",
-  "model": "glm-5.2"
+  ]
 }

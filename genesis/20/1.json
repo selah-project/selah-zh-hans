@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 20:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23207,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23655
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:44:39.538685173Z",
   "translation": "亚伯拉罕从那里起程，往南地去，定居在卡代什与书珥之间，寄居在革拉尔。",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "从那里起程"
+      "gloss": "从那里起程"
     },
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "ארצה",
-      "english": "往……地"
+      "gloss": "往……地"
     },
     {
       "surface": "הנגב",
-      "english": "南地"
+      "gloss": "南地"
     },
     {
       "surface": "וישב",
-      "english": "定居"
+      "gloss": "定居"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "קדש",
-      "english": "卡代什"
+      "gloss": "卡代什"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "שור",
-      "english": "书珥"
+      "gloss": "书珥"
     },
     {
       "surface": "ויגר",
-      "english": "寄居"
+      "gloss": "寄居"
     },
     {
       "surface": "בגרר",
-      "english": "在革拉尔"
+      "gloss": "在革拉尔"
     }
-  ],
-  "timestamp": "2026-07-17T17:44:39.538685173Z",
-  "model": "glm-5.2"
+  ]
 }

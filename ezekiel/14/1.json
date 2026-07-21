@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 14:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18741,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19018
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:46:53.376329790Z",
   "translation": "于是以色列的长老中几个人来到我这里，坐在我面前。",
   "tokens": [
     {
       "surface": "ויבוא",
-      "english": "于是……来了"
+      "gloss": "于是……来了"
     },
     {
       "surface": "אלי",
-      "english": "到我这里"
+      "gloss": "到我这里"
     },
     {
       "surface": "אנשים",
-      "english": "几个人"
+      "gloss": "几个人"
     },
     {
       "surface": "מזקני",
-      "english": "从……的长老中"
+      "gloss": "从……的长老中"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וישבו",
-      "english": "他们就坐下"
+      "gloss": "他们就坐下"
     },
     {
       "surface": "לפני",
-      "english": "在我面前"
+      "gloss": "在我面前"
     }
-  ],
-  "timestamp": "2026-07-17T22:46:53.376329790Z",
-  "model": "glm-5.2"
+  ]
 }

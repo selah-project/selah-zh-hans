@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 39:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21555,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21934
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:49.142924806Z",
   "translation": "רֵים (野牛) 会乐意事奉你吗？他会在你⟨的⟩槽上过夜吗？",
   "tokens": [
     {
       "surface": "הֲיֹאבֶה",
-      "english": "会乐意吗"
+      "gloss": "会乐意吗"
     },
     {
       "surface": "רֵים",
-      "english": "רֵים (野牛)"
+      "gloss": "רֵים (野牛)"
     },
     {
       "surface": "עָבְדֶךָ",
-      "english": "事奉你"
+      "gloss": "事奉你"
     },
     {
       "surface": "אִם",
-      "english": "是否"
+      "gloss": "是否"
     },
     {
       "surface": "יָלִין",
-      "english": "他会过夜"
+      "gloss": "他会过夜"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "אֲבוּסֶךָ",
-      "english": "你的槽"
+      "gloss": "你的槽"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:49.142924806Z",
-  "model": "glm-5.2"
+  ]
 }

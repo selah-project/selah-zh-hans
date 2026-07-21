@@ -1,32 +1,21 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "deuteronomy 5:17",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 197,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18586,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 18783
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:30:59.982791540Z",
   "translation": "你不可谋杀。",
   "tokens": [
     {
       "surface": "לֹ֖א",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תִּרְצָֽח",
-      "english": "谋杀"
+      "gloss": "谋杀"
     }
-  ],
-  "timestamp": "2026-07-17T19:30:59.982791540Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 26:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19224,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19638
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:16.119384767Z",
   "translation": "我必按时赐给你们降雨,地必给出它的出产,田间的树也必结出它的果子。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "我必赐给"
+      "gloss": "我必赐给"
     },
     {
       "surface": "גשמיכם",
-      "english": "你们的雨"
+      "gloss": "你们的雨"
     },
     {
       "surface": "בעתם",
-      "english": "在它们的时节"
+      "gloss": "在它们的时节"
     },
     {
       "surface": "ונתנה",
-      "english": "它也必给出"
+      "gloss": "它也必给出"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "יבולה",
-      "english": "它的出产"
+      "gloss": "它的出产"
     },
     {
       "surface": "ועץ",
-      "english": "和树"
+      "gloss": "和树"
     },
     {
       "surface": "השדה",
-      "english": "那田间的"
+      "gloss": "那田间的"
     },
     {
       "surface": "יתן",
-      "english": "必结出"
+      "gloss": "必结出"
     },
     {
       "surface": "פריו",
-      "english": "它的果子"
+      "gloss": "它的果子"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:16.119384767Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 33:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21557,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22028
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:30.844988003Z",
   "translation": "看哪，敌意⟨被⟩寻得来攻击我；⟨他⟩算我为⟨他的⟩仇敌。",
   "tokens": [
     {
       "surface": "הֵ֣ן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "תְּ֭נוּאֹת",
-      "english": "敌意"
+      "gloss": "敌意"
     },
     {
       "surface": "עָלַ֣\/י",
-      "english": "攻击我"
+      "gloss": "攻击我"
     },
     {
       "surface": "יִמְצָ֑א",
-      "english": "⟨被⟩寻得"
+      "gloss": "⟨被⟩寻得"
     },
     {
       "surface": "יַחְשְׁבֵ֖\/נִי",
-      "english": "⟨他⟩算我"
+      "gloss": "⟨他⟩算我"
     },
     {
       "surface": "לְ\/אוֹיֵ֣ב",
-      "english": "为⟨他的⟩仇敌"
+      "gloss": "为⟨他的⟩仇敌"
     },
     {
       "surface": "לֽ\/וֹ",
-      "english": "⟨他的⟩"
+      "gloss": "⟨他的⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:30.844988003Z",
-  "model": "glm-5.2"
+  ]
 }

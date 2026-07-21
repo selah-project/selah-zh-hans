@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 83:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64640,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65171
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:54.863859369Z",
   "translation": "亚述也与⟨他们⟩联合;他们成了罗得子孙的膀臂。*细拉*",
   "tokens": [
     {
       "surface": "גַּם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אַשּׁוּר",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "נִלְוָה",
-      "english": "⟨被⟩联合"
+      "gloss": "⟨被⟩联合"
     },
     {
       "surface": "עִמָּ֑\/ם",
-      "english": "与⟨他们⟩"
+      "gloss": "与⟨他们⟩"
     },
     {
       "surface": "הָ֤י֥וּ",
-      "english": "他们成了"
+      "gloss": "他们成了"
     },
     {
       "surface": "זְר֖וֹעַ",
-      "english": "膀臂"
+      "gloss": "膀臂"
     },
     {
       "surface": "לִ\/בְנֵי",
-      "english": "给子孙"
+      "gloss": "给子孙"
     },
     {
       "surface": "ל֣וֹט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "סֶֽלָה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:54.863859369Z",
-  "model": "glm-5.2"
+  ]
 }

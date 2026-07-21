@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 12:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19388,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19651
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:23.050562765Z",
   "translation": "此后,百姓从哈洗录拔营启程,在帕兰的旷野安营。",
   "tokens": [
     {
       "surface": "ואחר",
-      "english": "此后"
+      "gloss": "此后"
     },
     {
       "surface": "נסעו",
-      "english": "拔营启程"
+      "gloss": "拔营启程"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "מחצרות",
-      "english": "从哈洗录"
+      "gloss": "从哈洗录"
     },
     {
       "surface": "ויחנו",
-      "english": "安营"
+      "gloss": "安营"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     },
     {
       "surface": "פארן",
-      "english": "帕兰"
+      "gloss": "帕兰"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:23.050562765Z",
-  "model": "glm-5.2"
+  ]
 }

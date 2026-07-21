@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "numbers 10:13",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19471,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19881
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:38.098141281Z",
   "translation": "他们初次往前行,照着雅威口中的⟨话语⟩,藉着摩西的手⟨引导⟩。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们往前行"
+      "gloss": "他们往前行"
     },
     {
       "surface": "בראשנה",
-      "english": "初次"
+      "gloss": "初次"
     },
     {
       "surface": "על",
-      "english": "照着"
+      "gloss": "照着"
     },
     {
       "surface": "פי",
-      "english": "口中的⟨话语⟩"
+      "gloss": "口中的⟨话语⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ביד",
-      "english": "藉着……的手⟨引导⟩"
+      "gloss": "藉着……的手⟨引导⟩"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:38.098141281Z",
-  "model": "glm-5.2"
+  ]
 }

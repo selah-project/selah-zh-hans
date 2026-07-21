@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 5:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21663,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22017
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:37.388899177Z",
   "translation": "行大事，不可究察；行奇事，⟨其数⟩直到不可胜数。",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "גדלות",
-      "english": "大事"
+      "gloss": "大事"
     },
     {
       "surface": "ואין",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "חקר",
-      "english": "究察"
+      "gloss": "究察"
     },
     {
       "surface": "נפלאות",
-      "english": "行奇事"
+      "gloss": "行奇事"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אין",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "מספר",
-      "english": "⟨其数⟩"
+      "gloss": "⟨其数⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:37.388899177Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "proverbs 3:30",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54511,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54742
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:56.774975391Z",
   "translation": "不可无故与人争竞,若他未曾以恶待你。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תרוב",
-      "english": "争竞"
+      "gloss": "争竞"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "חנם",
-      "english": "无故"
+      "gloss": "无故"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "לא",
-      "english": "未曾"
+      "gloss": "未曾"
     },
     {
       "surface": "גמלך",
-      "english": "对待你"
+      "gloss": "对待你"
     },
     {
       "surface": "רעה",
-      "english": "以恶"
+      "gloss": "以恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:56.774975391Z",
-  "model": "glm-5.2"
+  ]
 }

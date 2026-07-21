@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "numbers 33:42",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19201,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19460
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:48.629835782Z",
   "translation": "他们从察尔摩纳起行,在普嫩安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מצלמנה",
-      "english": "从察尔摩纳"
+      "gloss": "从察尔摩纳"
     },
     {
       "surface": "ויחנו",
-      "english": "他们……安营"
+      "gloss": "他们……安营"
     },
     {
       "surface": "בפונן",
-      "english": "在普嫩"
+      "gloss": "在普嫩"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:48.629835782Z",
-  "model": "glm-5.2"
+  ]
 }

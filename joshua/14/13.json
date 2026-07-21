@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "joshua 14:13",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18153,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18577
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:59:00.810732960Z",
   "translation": "约书亚就祝福他,将⟨את⟩希伯仑给耶孚尼的儿子迦勒为产业。",
   "tokens": [
     {
       "surface": "וַֽ\/יְבָרְכֵ֖\/הוּ",
-      "english": "就祝福他"
+      "gloss": "就祝福他"
     },
     {
       "surface": "יְהוֹשֻׁ֑עַ",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "וַ\/יִּתֵּ֧ן",
-      "english": "就将……给"
+      "gloss": "就将……给"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "希伯仑"
     },
     {
       "surface": "חֶבְר֛וֹן",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "לְ\/כָלֵ֥ב",
-      "english": "给迦勒"
+      "gloss": "给迦勒"
     },
     {
       "surface": "בֶּן",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "יְפֻנֶּ֖ה",
-      "english": "耶孚尼"
+      "gloss": "耶孚尼"
     },
     {
       "surface": "לְ\/נַחֲלָֽה",
-      "english": "为产业"
+      "gloss": "为产业"
     }
-  ],
-  "timestamp": "2026-07-17T19:59:00.810732960Z",
-  "model": "glm-5.2"
+  ]
 }

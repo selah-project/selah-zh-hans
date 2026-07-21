@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "2-samuel 15:17",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18735,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19136
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:48:25.204762478Z",
   "translation": "王出去,他所有的⟨百姓⟩都在他脚后;他们就停在远处之屋。",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "出去"
+      "gloss": "出去"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "וכל",
-      "english": "和所有"
+      "gloss": "和所有"
     },
     {
       "surface": "העם",
-      "english": "⟨百姓⟩"
+      "gloss": "⟨百姓⟩"
     },
     {
       "surface": "ברגליו",
-      "english": "在他脚后"
+      "gloss": "在他脚后"
     },
     {
       "surface": "ויעמדו",
-      "english": "他们就停"
+      "gloss": "他们就停"
     },
     {
       "surface": "בית",
-      "english": "之屋"
+      "gloss": "之屋"
     },
     {
       "surface": "המרחק",
-      "english": "在远处"
+      "gloss": "在远处"
     }
-  ],
-  "timestamp": "2026-07-17T20:48:25.204762478Z",
-  "model": "glm-5.2"
+  ]
 }

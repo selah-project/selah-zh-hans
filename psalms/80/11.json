@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 80:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64359,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:49.192414851Z",
   "translation": "群山被它的荫影遮盖,⟨而⟩它如以罗欣之香柏树的枝条",
   "tokens": [
     {
       "surface": "כָּסּ֣וּ",
-      "english": "遮盖了"
+      "gloss": "遮盖了"
     },
     {
       "surface": "הָרִ֣ים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "צִלָּ֑\/הּ",
-      "english": "它的荫影"
+      "gloss": "它的荫影"
     },
     {
       "surface": "וַ֝\/עֲנָפֶ֗י\/הָ",
-      "english": "⟨而⟩它的枝条"
+      "gloss": "⟨而⟩它的枝条"
     },
     {
       "surface": "אַֽרְזֵי",
-      "english": "香柏树 (如)"
+      "gloss": "香柏树 (如)"
     },
     {
       "surface": "אֵֽל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:49.192414851Z",
-  "model": "glm-5.2"
+  ]
 }

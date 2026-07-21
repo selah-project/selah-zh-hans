@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 16:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21709,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22218
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:22.085174191Z",
   "translation": "他使破口攻击我，破口⟨在⟩破口之上；他向我冲来如同勇士。",
   "tokens": [
     {
       "surface": "יפרצני",
-      "english": "他使破口攻击我"
+      "gloss": "他使破口攻击我"
     },
     {
       "surface": "פרץ",
-      "english": "破口"
+      "gloss": "破口"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……之上"
+      "gloss": "⟨在⟩……之上"
     },
     {
       "surface": "פני",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "פרץ",
-      "english": "破口"
+      "gloss": "破口"
     },
     {
       "surface": "ירץ",
-      "english": "他冲来"
+      "gloss": "他冲来"
     },
     {
       "surface": "עלי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "כגבור",
-      "english": "如同勇士"
+      "gloss": "如同勇士"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:22.085174191Z",
-  "model": "glm-5.2"
+  ]
 }

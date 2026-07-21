@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-kings 18:15",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18861,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19222
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:29:26.305892485Z",
   "translation": "希西家就交出⟨את⟩所有的银子 —— 就是在雅威的殿中找到的，以及在王宫宝库中的。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "就交出"
+      "gloss": "就交出"
     },
     {
       "surface": "חזקיה",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有的银子"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "הכסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "הנמצא",
-      "english": "找到的"
+      "gloss": "找到的"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ובאצרות",
-      "english": "以及在宝库中"
+      "gloss": "以及在宝库中"
     },
     {
       "surface": "בית",
-      "english": "宫"
+      "gloss": "宫"
     },
     {
       "surface": "המלך",
-      "english": "王的"
+      "gloss": "王的"
     }
-  ],
-  "timestamp": "2026-07-17T21:29:26.305892485Z",
-  "model": "glm-5.2"
+  ]
 }

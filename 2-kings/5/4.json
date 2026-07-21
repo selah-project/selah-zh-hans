@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-kings 5:4",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18701,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19116
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:20:11.730786184Z",
   "translation": "他进去告诉他的主，说：“那从以色列地来的使女，如此如此说了。”",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "他进去"
+      "gloss": "他进去"
     },
     {
       "surface": "ויגד",
-      "english": "告诉"
+      "gloss": "告诉"
     },
     {
       "surface": "לאדניו",
-      "english": "他的主"
+      "gloss": "他的主"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     },
     {
       "surface": "כזאת",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "וכזאת",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "דברה",
-      "english": "……说了"
+      "gloss": "……说了"
     },
     {
       "surface": "הנערה",
-      "english": "那使女"
+      "gloss": "那使女"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:20:11.730786184Z",
-  "model": "glm-5.2"
+  ]
 }

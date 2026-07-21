@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "1-chronicles 16:24",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58664,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59048
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:04:06.056330051Z",
   "translation": "要在列国中述说 ⟨את⟩ 他的荣耀，在万民中述说他的奇事。",
   "tokens": [
     {
       "surface": "ספרו",
-      "english": "要述说"
+      "gloss": "要述说"
     },
     {
       "surface": "בגוים",
-      "english": "在列国中"
+      "gloss": "在列国中"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的荣耀"
     },
     {
       "surface": "כבודו",
-      "english": "他的荣耀"
+      "gloss": "他的荣耀"
     },
     {
       "surface": "בכל",
-      "english": "在所有"
+      "gloss": "在所有"
     },
     {
       "surface": "העמים",
-      "english": "万民中"
+      "gloss": "万民中"
     },
     {
       "surface": "נפלאתיו",
-      "english": "他的奇事"
+      "gloss": "他的奇事"
     }
-  ],
-  "timestamp": "2026-07-18T02:04:06.056330051Z",
-  "model": "glm-5.2"
+  ]
 }

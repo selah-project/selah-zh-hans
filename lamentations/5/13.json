@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "lamentations 5:13",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33499,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33778
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:03.473430047Z",
   "translation": "少壮男子抬起了磨石,少年人在木料底下绊跌失足。",
   "tokens": [
     {
       "surface": "בחורים",
-      "english": "少壮男子"
+      "gloss": "少壮男子"
     },
     {
       "surface": "טחון",
-      "english": "磨石"
+      "gloss": "磨石"
     },
     {
       "surface": "נשאו",
-      "english": "抬起了"
+      "gloss": "抬起了"
     },
     {
       "surface": "ונערים",
-      "english": "少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "בעץ",
-      "english": "木料"
+      "gloss": "木料"
     },
     {
       "surface": "כשלו",
-      "english": "绊跌失足"
+      "gloss": "绊跌失足"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:03.473430047Z",
-  "model": "glm-5.2"
+  ]
 }

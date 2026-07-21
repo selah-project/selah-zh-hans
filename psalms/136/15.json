@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 136:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64453,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64956
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:27.992247822Z",
   "translation": "他摇晃出法老和他的力量在海藻海中，因他的慈爱存到永远。",
   "tokens": [
     {
       "surface": "וְ\/נִ֘עֵ֤ר",
-      "english": "他摇晃出"
+      "gloss": "他摇晃出"
     },
     {
       "surface": "פַּרְעֹ֣ה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "וְ\/חֵיל֣\/וֹ",
-      "english": "和他的力量"
+      "gloss": "和他的力量"
     },
     {
       "surface": "בְ\/יַם",
-      "english": "在海中"
+      "gloss": "在海中"
     },
     {
       "surface": "ס֑וּף",
-      "english": "海藻"
+      "gloss": "海藻"
     },
     {
       "surface": "כִּ֖י",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "חַסְדּֽ\/וֹ",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:27.992247822Z",
-  "model": "glm-5.2"
+  ]
 }

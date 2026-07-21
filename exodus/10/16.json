@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "exodus 10:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18722,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19125
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:16:09.878704267Z",
   "translation": "法老便急忙召叫摩西和亚伦,说:我得罪了⟨得罪⟩雅威——你们的以罗欣,也得罪了你们。",
   "tokens": [
     {
       "surface": "וימהר",
-      "english": "便急忙"
+      "gloss": "便急忙"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "לקרא",
-      "english": "召叫"
+      "gloss": "召叫"
     },
     {
       "surface": "למשה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ולאהרן",
-      "english": "和亚伦"
+      "gloss": "和亚伦"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "חטאתי",
-      "english": "我得罪了"
+      "gloss": "我得罪了"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨得罪⟩雅威"
+      "gloss": "⟨得罪⟩雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     },
     {
       "surface": "ולכם",
-      "english": "也得罪了你们"
+      "gloss": "也得罪了你们"
     }
-  ],
-  "timestamp": "2026-07-17T18:16:09.878704267Z",
-  "model": "glm-5.2"
+  ]
 }

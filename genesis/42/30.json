@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "genesis 42:30",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23348,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23834
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:02:43.802897056Z",
   "translation": "那地之主那人向我们说话严厉,⟨他⟩把我们当作探子⟨את⟩那地。",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "האיש",
-      "english": "那人"
+      "gloss": "那人"
     },
     {
       "surface": "אדני",
-      "english": "主"
+      "gloss": "主"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "אתנו",
-      "english": "向我们"
+      "gloss": "向我们"
     },
     {
       "surface": "קשות",
-      "english": "严厉"
+      "gloss": "严厉"
     },
     {
       "surface": "ויתן",
-      "english": "他把……当作"
+      "gloss": "他把……当作"
     },
     {
       "surface": "אתנו",
-      "english": "⟨את⟩我们",
+      "gloss": "⟨את⟩我们",
       "marks": "我们"
     },
     {
       "surface": "כמרגלים",
-      "english": "如探子"
+      "gloss": "如探子"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那地"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     }
-  ],
-  "timestamp": "2026-07-17T18:02:43.802897056Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 85:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64393,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:30.209647585Z",
   "translation": "难道你要永远向我们发怒,将你的怒气拉长到一代又一代吗?",
   "tokens": [
     {
       "surface": "הלעולם",
-      "english": "难道你要永远"
+      "gloss": "难道你要永远"
     },
     {
       "surface": "תאנף",
-      "english": "发怒"
+      "gloss": "发怒"
     },
     {
       "surface": "בנו",
-      "english": "向我们"
+      "gloss": "向我们"
     },
     {
       "surface": "תמשך",
-      "english": "你要拉长"
+      "gloss": "你要拉长"
     },
     {
       "surface": "אפך",
-      "english": "你的怒气"
+      "gloss": "你的怒气"
     },
     {
       "surface": "לדר",
-      "english": "到一代"
+      "gloss": "到一代"
     },
     {
       "surface": "ודר",
-      "english": "又一代"
+      "gloss": "又一代"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:30.209647585Z",
-  "model": "glm-5.2"
+  ]
 }

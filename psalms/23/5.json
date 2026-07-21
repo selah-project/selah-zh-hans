@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 23:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64839,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65418
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:49.652854367Z",
   "translation": "你在我面前摆设⟨הַ\/שֻּׁלְחָן⟩，对着我的敌人；你用油膏了我的头，我的杯⟨满溢⟩。",
   "tokens": [
     {
       "surface": "תַּעֲרֹ֬ךְ",
-      "english": "你摆设"
+      "gloss": "你摆设"
     },
     {
       "surface": "לְ\/פָנַ֨\/י",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "שֻׁלְחָ֗ן",
-      "english": "⟨את⟩ 桌子"
+      "gloss": "⟨את⟩ 桌子"
     },
     {
       "surface": "נֶ֥גֶד",
-      "english": "对着"
+      "gloss": "对着"
     },
     {
       "surface": "צֹרְרָ֑\/י",
-      "english": "我的敌人"
+      "gloss": "我的敌人"
     },
     {
       "surface": "דִּשַּׁ֖נְתָּ",
-      "english": "你膏了"
+      "gloss": "你膏了"
     },
     {
       "surface": "בַ\/שֶּׁ֥מֶן",
-      "english": "用油"
+      "gloss": "用油"
     },
     {
       "surface": "רֹאשִׁ֗\/י",
-      "english": "我的头"
+      "gloss": "我的头"
     },
     {
       "surface": "כוֹסִ֥\/י",
-      "english": "我的杯"
+      "gloss": "我的杯"
     },
     {
       "surface": "רְוָיָֽה",
-      "english": "⟨满溢⟩"
+      "gloss": "⟨满溢⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:49.652854367Z",
-  "model": "glm-5.2"
+  ]
 }

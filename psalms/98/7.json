@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 98:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64738
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:05.447867425Z",
   "translation": "愿海与其中所充满的一同咆哮,世界与其中的居民也⟨一同发声⟩!",
   "tokens": [
     {
       "surface": "יִרְעַ֣ם",
-      "english": "愿……咆哮"
+      "gloss": "愿……咆哮"
     },
     {
       "surface": "הַ֭\/יָּם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "וּ\/מְלֹא֑\/וֹ",
-      "english": "与其中所充满的"
+      "gloss": "与其中所充满的"
     },
     {
       "surface": "תֵּ֝בֵ֗ל",
-      "english": "世界"
+      "gloss": "世界"
     },
     {
       "surface": "וְ\/יֹ֣שְׁבֵי",
-      "english": "其中的居民"
+      "gloss": "其中的居民"
     },
     {
       "surface": "בָֽ\/הּ",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:05.447867425Z",
-  "model": "glm-5.2"
+  ]
 }

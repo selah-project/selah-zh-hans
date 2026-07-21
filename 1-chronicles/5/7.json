@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-chronicles 5:7",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58667,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59005
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:54:25.159981689Z",
   "translation": "他的兄弟们，按他们的家族，在他们世代的家谱中被登记时：⟨那⟩首领是 耶伊尔撒迦利亚。",
   "tokens": [
     {
       "surface": "ואחיו",
-      "english": "他的兄弟们"
+      "gloss": "他的兄弟们"
     },
     {
       "surface": "למשפחתיו",
-      "english": "按他们的家族"
+      "gloss": "按他们的家族"
     },
     {
       "surface": "בהתיחש",
-      "english": "在家谱登记时"
+      "gloss": "在家谱登记时"
     },
     {
       "surface": "לתלדותם",
-      "english": "⟨关于⟩他们的世代"
+      "gloss": "⟨关于⟩他们的世代"
     },
     {
       "surface": "הראש",
-      "english": "⟨那⟩首领（是）"
+      "gloss": "⟨那⟩首领（是）"
     },
     {
       "surface": "יעיאל",
-      "english": "耶伊尔"
+      "gloss": "耶伊尔"
     },
     {
       "surface": "וזכריהו",
-      "english": "撒迦利亚"
+      "gloss": "撒迦利亚"
     }
-  ],
-  "timestamp": "2026-07-18T01:54:25.159981689Z",
-  "model": "glm-5.2"
+  ]
 }

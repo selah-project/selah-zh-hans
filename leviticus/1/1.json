@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "leviticus 1:1",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19008,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19373
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:19.130341341Z",
   "translation": "⟨他⟩呼叫摩西，雅威从会幕向他⟨说话⟩说：",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "⟨他⟩呼叫"
+      "gloss": "⟨他⟩呼叫"
     },
     {
       "surface": "אל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "וידבר",
-      "english": "⟨他⟩说话"
+      "gloss": "⟨他⟩说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אליו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "מאהל",
-      "english": "从会幕"
+      "gloss": "从会幕"
     },
     {
       "surface": "מועד",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     }
-  ],
-  "timestamp": "2026-07-17T18:40:19.130341341Z",
-  "model": "glm-5.2"
+  ]
 }

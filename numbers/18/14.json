@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "numbers 18:14",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19296,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19581
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:13:49.741173991Z",
   "translation": "以色列中一切永献之物都⟨将⟩归你:",
   "tokens": [
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "חֵ֥רֶם",
-      "english": "永献之物"
+      "gloss": "永献之物"
     },
     {
       "surface": "בְּ\/יִשְׂרָאֵ֖ל",
-      "english": "在以色列中"
+      "gloss": "在以色列中"
     },
     {
       "surface": "לְ\/ךָ֥",
-      "english": "归你"
+      "gloss": "归你"
     },
     {
       "surface": "יִהְיֶֽה",
-      "english": "⟨将⟩"
+      "gloss": "⟨将⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:13:49.741173991Z",
-  "model": "glm-5.2"
+  ]
 }

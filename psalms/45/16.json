@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 45:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 64312,
-    "prompt_tokens_details": {
-      "cached_tokens": 64256
-    },
-    "total_tokens": 64667
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:40:18.492043726Z",
   "translation": "她们要被带进,在喜乐与欢呼声中,她们要进入王宫。",
   "tokens": [
     {
       "surface": "תובלנה",
-      "english": "她们要被带进"
+      "gloss": "她们要被带进"
     },
     {
       "surface": "בשמחת",
-      "english": "在喜乐中"
+      "gloss": "在喜乐中"
     },
     {
       "surface": "וגיל",
-      "english": "与欢呼声"
+      "gloss": "与欢呼声"
     },
     {
       "surface": "תבאינה",
-      "english": "她们要进入"
+      "gloss": "她们要进入"
     },
     {
       "surface": "בהיכל",
-      "english": "王宫"
+      "gloss": "王宫"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-21T02:40:18.492043726Z",
-  "model": "glm-4.5"
+  ]
 }

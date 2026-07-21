@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 93:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 93,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64647,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65020
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:32.752985048Z",
   "translation": "高过众水的声音，海碎波的宏伟，在高处⟨的⟩雅威⟨是⟩宏伟的。",
   "tokens": [
     {
       "surface": "מקלות",
-      "english": "高过……的声音"
+      "gloss": "高过……的声音"
     },
     {
       "surface": "מים",
-      "english": "众水"
+      "gloss": "众水"
     },
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "אדירים",
-      "english": "宏伟的"
+      "gloss": "宏伟的"
     },
     {
       "surface": "משברי",
-      "english": "碎波"
+      "gloss": "碎波"
     },
     {
       "surface": "ים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "אדיר",
-      "english": "宏伟的"
+      "gloss": "宏伟的"
     },
     {
       "surface": "במרום",
-      "english": "在高处"
+      "gloss": "在高处"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:32.752985048Z",
-  "model": "glm-5.2"
+  ]
 }

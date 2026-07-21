@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "amos 2:15",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 670,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18512,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19182
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:44.312399707Z",
   "translation": "持弓的⟨人⟩站立不住,脚快的不能用他的脚逃生,骑马的不能救自己的性命。",
   "tokens": [
     {
       "surface": "וְ\/תֹפֵ֤שׂ",
-      "english": "持……的"
+      "gloss": "持……的"
     },
     {
       "surface": "הַ\/קֶּ֨שֶׁת֙",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יַעֲמֹ֔ד",
-      "english": "站立得住"
+      "gloss": "站立得住"
     },
     {
       "surface": "וְ\/קַ֥ל",
-      "english": "快的"
+      "gloss": "快的"
     },
     {
       "surface": "בְּ\/רַגְלָ֖י\/ו",
-      "english": "在他的脚"
+      "gloss": "在他的脚"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְמַלֵּ֑ט",
-      "english": "能逃生"
+      "gloss": "能逃生"
     },
     {
       "surface": "וְ\/רֹכֵ֣ב",
-      "english": "骑……的"
+      "gloss": "骑……的"
     },
     {
       "surface": "הַ\/סּ֔וּס",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "לֹ֥א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְמַלֵּ֖ט",
-      "english": "能救"
+      "gloss": "能救"
     },
     {
       "surface": "נַפְשֽׁ\/וֹ",
-      "english": "他的性命"
+      "gloss": "他的性命"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:44.312399707Z",
-  "model": "glm-5.2"
+  ]
 }

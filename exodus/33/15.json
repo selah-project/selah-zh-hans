@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 33:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18548,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18889
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:54.935466316Z",
   "translation": "他对他说：如果你的面不前行，请不要把我们从这里带上去。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "אין",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "פניך",
-      "english": "你的面"
+      "gloss": "你的面"
     },
     {
       "surface": "הלכים",
-      "english": "前行"
+      "gloss": "前行"
     },
     {
       "surface": "אל",
-      "english": "请不要"
+      "gloss": "请不要"
     },
     {
       "surface": "תעלנו",
-      "english": "把我们带上去"
+      "gloss": "把我们带上去"
     },
     {
       "surface": "מזה",
-      "english": "从这里"
+      "gloss": "从这里"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:54.935466316Z",
-  "model": "glm-5.2"
+  ]
 }

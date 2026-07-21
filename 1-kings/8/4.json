@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-kings 8:4",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65026,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65609
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:04.674182303Z",
   "translation": "他们将雅威的约柜带上来，⟨את⟩⟨那⟩会幕，以及⟨את⟩在帐幕里的一切圣器；祭司和利未人将它们带上来。",
   "tokens": [
     {
       "surface": "ויעלו",
-      "english": "他们带上来"
+      "gloss": "他们带上来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "帐幕"
+      "gloss": "帐幕"
     },
     {
       "surface": "מועד",
-      "english": "会"
+      "gloss": "会"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "在帐幕里的一切圣器"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "כלי",
-      "english": "器皿"
+      "gloss": "器皿"
     },
     {
       "surface": "הקדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "באהל",
-      "english": "在帐幕里"
+      "gloss": "在帐幕里"
     },
     {
       "surface": "ויעלו",
-      "english": "他们将……带上来"
+      "gloss": "他们将……带上来"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩它们",
+      "gloss": "⟨את⟩它们",
       "marks": "它们（指代上述圣器）"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "והלוים",
-      "english": "和利未人"
+      "gloss": "和利未人"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:04.674182303Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezra 7:4",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46271,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46522
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:39:56.597705804Z",
   "translation": "撒拉雅 的本,乌西 的本,布基 的本",
   "tokens": [
     {
       "surface": "בן",
-      "english": "的本"
+      "gloss": "的本"
     },
     {
       "surface": "זרחיה",
-      "english": "撒拉雅"
+      "gloss": "撒拉雅"
     },
     {
       "surface": "בן",
-      "english": "的本"
+      "gloss": "的本"
     },
     {
       "surface": "עזי",
-      "english": "乌西"
+      "gloss": "乌西"
     },
     {
       "surface": "בן",
-      "english": "的本"
+      "gloss": "的本"
     },
     {
       "surface": "בקי",
-      "english": "布基"
+      "gloss": "布基"
     }
-  ],
-  "timestamp": "2026-07-18T01:39:56.597705804Z",
-  "model": "glm-5.2"
+  ]
 }

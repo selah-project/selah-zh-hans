@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 19:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64458,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64891
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:29.172724641Z",
   "translation": "日复一日⟨在⟩涌出言语，夜复一夜⟨在⟩展示知识。",
   "tokens": [
     {
       "surface": "יום",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "ליום",
-      "english": "复一日"
+      "gloss": "复一日"
     },
     {
       "surface": "יביע",
-      "english": "涌出"
+      "gloss": "涌出"
     },
     {
       "surface": "אמר",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "ולילה",
-      "english": "夜"
+      "gloss": "夜"
     },
     {
       "surface": "ללילה",
-      "english": "复一夜"
+      "gloss": "复一夜"
     },
     {
       "surface": "יחוה",
-      "english": "展示"
+      "gloss": "展示"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:29.172724641Z",
-  "model": "glm-5.2"
+  ]
 }

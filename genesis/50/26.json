@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "genesis 50:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23240,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23695
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:12.708312599Z",
   "translation": "约瑟死了,是一百一十岁;他们用香料薰了他 ⟨את⟩ 他,把他放在棺材里,在埃及。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨于是⟩死了"
+      "gloss": "⟨于是⟩死了"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "בן",
-      "english": "是……的儿子"
+      "gloss": "是……的儿子"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "ועשר",
-      "english": "和十"
+      "gloss": "和十"
     },
     {
       "surface": "שנים",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ויחנטו",
-      "english": "他们用香料薰了"
+      "gloss": "他们用香料薰了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "ויישם",
-      "english": "他们放置"
+      "gloss": "他们放置"
     },
     {
       "surface": "בארון",
-      "english": "在棺材里"
+      "gloss": "在棺材里"
     },
     {
       "surface": "במצרים",
-      "english": "在埃及"
+      "gloss": "在埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:12.708312599Z",
-  "model": "glm-5.2"
+  ]
 }

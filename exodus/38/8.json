@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 38:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19249,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19853
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:10.163507445Z",
   "translation": "他造了 ⟨את⟩ 铜盆和 ⟨את⟩ 铜座，用的是在会幕入口服役之妇女的铜镜。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "铜盆"
     },
     {
       "surface": "הכיור",
-      "english": "盆"
+      "gloss": "盆"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "铜座"
     },
     {
       "surface": "כנו",
-      "english": "座"
+      "gloss": "座"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "במראת",
-      "english": "用的是……的镜"
+      "gloss": "用的是……的镜"
     },
     {
       "surface": "הצבאת",
-      "english": "服役之妇女"
+      "gloss": "服役之妇女"
     },
     {
       "surface": "אשר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "צבאו",
-      "english": "服役"
+      "gloss": "服役"
     },
     {
       "surface": "פתח",
-      "english": "在……入口"
+      "gloss": "在……入口"
     },
     {
       "surface": "אהל",
-      "english": "帐幕"
+      "gloss": "帐幕"
     },
     {
       "surface": "מועד",
-      "english": "会晤"
+      "gloss": "会晤"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:10.163507445Z",
-  "model": "glm-5.2"
+  ]
 }

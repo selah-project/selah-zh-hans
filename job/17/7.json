@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "job 17:7",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21499,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21973
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:32.160370516Z",
   "translation": "我的眼因愁烦而⟨变⟩暗，我所有的形像如影一般。",
   "tokens": [
     {
       "surface": "וַתֵּכַהּ",
-      "english": "而⟨变⟩暗"
+      "gloss": "而⟨变⟩暗"
     },
     {
       "surface": "מִ\/כַּעַשׂ",
-      "english": "因愁烦"
+      "gloss": "因愁烦"
     },
     {
       "surface": "עֵינִ\/י",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "וִ\/יצֻרַ\/י",
-      "english": "我的形像"
+      "gloss": "我的形像"
     },
     {
       "surface": "כַּ\/צֵּל",
-      "english": "如影"
+      "gloss": "如影"
     },
     {
       "surface": "כֻלָּ\/ם",
-      "english": "所有的"
+      "gloss": "所有的"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:32.160370516Z",
-  "model": "glm-5.2"
+  ]
 }

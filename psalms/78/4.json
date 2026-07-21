@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 78:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65052,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65528
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:22.400968551Z",
   "translation": "我们不向他们的子孙隐藏，向后 ⟨一个⟩ 世代讲述雅威的赞美，⟨以及⟩ 他的大能和他的奇事，就是他所行的。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נכחד",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "מבניהם",
-      "english": "从他们的子孙"
+      "gloss": "从他们的子孙"
     },
     {
       "surface": "לדור",
-      "english": "向后⟨一个⟩世代"
+      "gloss": "向后⟨一个⟩世代"
     },
     {
       "surface": "אחרון",
-      "english": "随后的"
+      "gloss": "随后的"
     },
     {
       "surface": "מספרים",
-      "english": "讲述"
+      "gloss": "讲述"
     },
     {
       "surface": "תהלות",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "ועזוזו",
-      "english": "和他的大能"
+      "gloss": "和他的大能"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "和他的奇事"
+      "gloss": "和他的奇事"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "עשה",
-      "english": "他所行的"
+      "gloss": "他所行的"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:22.400968551Z",
-  "model": "glm-5.2"
+  ]
 }

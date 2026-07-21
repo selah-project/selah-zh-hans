@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "1-samuel 14:23",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18401,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18875
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:28:31.271610632Z",
   "translation": "雅威在那日拯救了⟨את⟩以色列,战事就越过了⟨את⟩伯·阿文。",
   "tokens": [
     {
       "surface": "ויושע",
-      "english": "拯救了"
+      "gloss": "拯救了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ביום",
-      "english": "在那日"
+      "gloss": "在那日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "והמלחמה",
-      "english": "战事"
+      "gloss": "战事"
     },
     {
       "surface": "עברה",
-      "english": "越过了"
+      "gloss": "越过了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "伯·阿文"
     },
     {
       "surface": "בית",
-      "english": "伯"
+      "gloss": "伯"
     },
     {
       "surface": "און",
-      "english": "阿文"
+      "gloss": "阿文"
     }
-  ],
-  "timestamp": "2026-07-17T20:28:31.271610632Z",
-  "model": "glm-5.2"
+  ]
 }

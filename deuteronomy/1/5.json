@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 1:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19460,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19934
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:27:18.590246480Z",
   "translation": "在约旦河对岸,在摩押地,摩西着手清楚解释⟨את⟩这妥拉,说:",
   "tokens": [
     {
       "surface": "בעבר",
-      "english": "在……对岸"
+      "gloss": "在……对岸"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "הואיל",
-      "english": "着手"
+      "gloss": "着手"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "באר",
-      "english": "清楚解释"
+      "gloss": "清楚解释"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这妥拉"
     },
     {
       "surface": "התורה",
-      "english": "这妥拉"
+      "gloss": "这妥拉"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T19:27:18.590246480Z",
-  "model": "glm-5.2"
+  ]
 }

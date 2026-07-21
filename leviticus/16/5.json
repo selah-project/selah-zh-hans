@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 16:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19565,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20097
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:51:20.956159308Z",
   "translation": "他从以色列子孙的会众中⟨要⟩取两只公山羊作חַטָּאת，一只公绵羊作עֹלָה。",
   "tokens": [
     {
       "surface": "ומאת",
-      "english": "并从⟨את⟩",
+      "gloss": "并从⟨את⟩",
       "marks": "会众"
     },
     {
       "surface": "עדת",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "יקח",
-      "english": "⟨他⟩⟨要⟩取"
+      "gloss": "⟨他⟩⟨要⟩取"
     },
     {
       "surface": "שני",
-      "english": "两只"
+      "gloss": "两只"
     },
     {
       "surface": "שעירי",
-      "english": "公山羊"
+      "gloss": "公山羊"
     },
     {
       "surface": "עזים",
-      "english": "山羊"
+      "gloss": "山羊"
     },
     {
       "surface": "לחטאת",
-      "english": "作חַטָּאת"
+      "gloss": "作חַטָּאת"
     },
     {
       "surface": "ואיל",
-      "english": "并一只公绵羊"
+      "gloss": "并一只公绵羊"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "לעלה",
-      "english": "作עֹלָה"
+      "gloss": "作עֹלָה"
     }
-  ],
-  "timestamp": "2026-07-17T18:51:20.956159308Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 27:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54587,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55000
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:09.526156511Z",
   "translation": "不要为明日自夸，因为你不知道⟨一天⟩会孕育出什么。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתהלל",
-      "english": "自夸"
+      "gloss": "自夸"
     },
     {
       "surface": "ביום",
-      "english": "为明日"
+      "gloss": "为明日"
     },
     {
       "surface": "מחר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תדע",
-      "english": "你知道"
+      "gloss": "你知道"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "ילד",
-      "english": "会孕育出"
+      "gloss": "会孕育出"
     },
     {
       "surface": "יום",
-      "english": "⟨一天⟩"
+      "gloss": "⟨一天⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:09.526156511Z",
-  "model": "glm-5.2"
+  ]
 }

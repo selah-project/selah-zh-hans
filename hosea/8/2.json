@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "hosea 8:2",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20848,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21326
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:14:42.336212963Z",
   "translation": "向我⟨他们⟩呼求：我的以罗欣啊，我们以色列认识⟨你⟩！",
   "tokens": [
     {
       "surface": "לִ֖\/י",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "יִזְעָ֑קוּ",
-      "english": "⟨他们⟩呼求"
+      "gloss": "⟨他们⟩呼求"
     },
     {
       "surface": "אֱלֹהַ֥\/י",
-      "english": "我的以罗欣啊"
+      "gloss": "我的以罗欣啊"
     },
     {
       "surface": "יְֽדַעֲנ֖וּ\/ךָ",
-      "english": "我们认识⟨你⟩"
+      "gloss": "我们认识⟨你⟩"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T23:14:42.336212963Z",
-  "model": "glm-5.2"
+  ]
 }

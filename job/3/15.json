@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 3:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21620,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21941
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:59.065647084Z",
   "translation": "或与 ⟨拥有⟩ 黄金的 ⟨首领们⟩，那些以银子装满他们的房屋之人，",
   "tokens": [
     {
       "surface": "או",
-      "english": "或与"
+      "gloss": "或与"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "שרים",
-      "english": "⟨首领们⟩"
+      "gloss": "⟨首领们⟩"
     },
     {
       "surface": "זהב",
-      "english": "黄金"
+      "gloss": "黄金"
     },
     {
       "surface": "להם",
-      "english": "⟨拥有⟩"
+      "gloss": "⟨拥有⟩"
     },
     {
       "surface": "הממלאים",
-      "english": "那些……装满"
+      "gloss": "那些……装满"
     },
     {
       "surface": "בתיהם",
-      "english": "他们的房屋"
+      "gloss": "他们的房屋"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:59.065647084Z",
-  "model": "glm-5.2"
+  ]
 }

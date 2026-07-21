@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "ezekiel 16:9",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 744,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18947,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19691
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:47:53.321421129Z",
   "translation": "然后我用水洗净你，洗去你身上的血，用膏油抹你。",
   "tokens": [
     {
       "surface": "וָאֶרְחָצֵ֣ךְ",
-      "english": "然后我洗净你"
+      "gloss": "然后我洗净你"
     },
     {
       "surface": "בַּ\/מַּ֔יִם",
-      "english": "用水"
+      "gloss": "用水"
     },
     {
       "surface": "וָאֶשְׁטֹ֥ף",
-      "english": "我洗去"
+      "gloss": "我洗去"
     },
     {
       "surface": "דָּמַ֖יִ\/ךְ",
-      "english": "你的血"
+      "gloss": "你的血"
     },
     {
       "surface": "מֵֽ\/עָלָ֑יִ\/ךְ",
-      "english": "从你身上"
+      "gloss": "从你身上"
     },
     {
       "surface": "וָאֲסֻכֵ֖\/ךְ",
-      "english": "我抹你"
+      "gloss": "我抹你"
     },
     {
       "surface": "בַּ\/שָּֽׁמֶן",
-      "english": "用膏油"
+      "gloss": "用膏油"
     }
-  ],
-  "timestamp": "2026-07-17T22:47:53.321421129Z",
-  "model": "glm-5.2"
+  ]
 }

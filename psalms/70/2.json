@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 70:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 70,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64362,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64630
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:20.991832901Z",
   "translation": "以罗欣啊,求你搭救我;雅威啊,求你速速帮助我!",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "להצילני",
-      "english": "求你搭救我"
+      "gloss": "求你搭救我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעזרתי",
-      "english": "求你帮助我"
+      "gloss": "求你帮助我"
     },
     {
       "surface": "חושה",
-      "english": "速速"
+      "gloss": "速速"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:20.991832901Z",
-  "model": "glm-5.2"
+  ]
 }

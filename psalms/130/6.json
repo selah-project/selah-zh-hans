@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 130:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64353,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64869
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:50.236451738Z",
   "translation": "我的נפשי（生命气息）⟨仰望⟩阿多奈，比守望者等候清晨 ⟨更甚⟩——守望者等候清晨！",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "我的נפשי（生命气息）"
+      "gloss": "我的נפשי（生命气息）"
     },
     {
       "surface": "לאדני",
-      "english": "⟨仰望⟩阿多奈"
+      "gloss": "⟨仰望⟩阿多奈"
     },
     {
       "surface": "משמרים",
-      "english": "比守望者"
+      "gloss": "比守望者"
     },
     {
       "surface": "לבקר",
-      "english": "等候清晨"
+      "gloss": "等候清晨"
     },
     {
       "surface": "שמרים",
-      "english": "守望者"
+      "gloss": "守望者"
     },
     {
       "surface": "לבקר",
-      "english": "等候清晨"
+      "gloss": "等候清晨"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:50.236451738Z",
-  "model": "glm-5.2"
+  ]
 }

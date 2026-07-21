@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "daniel 1:1",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 560,
-    "prompt_tokens": 19454,
-    "prompt_tokens_details": {
-      "cached_tokens": 17536
-    },
-    "total_tokens": 20014
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:48.943144820Z",
   "translation": "在约雅敬作犹大王 ⟨的⟩ 第三年,尼布甲尼撒——巴比伦王——来到了耶路撒冷,并围困 ⟨它⟩。",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "在...年"
+      "gloss": "在...年"
     },
     {
       "surface": "שלוש",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "למלכות",
-      "english": "在...作王期间"
+      "gloss": "在...作王期间"
     },
     {
       "surface": "יהויקים",
-      "english": "约雅敬"
+      "gloss": "约雅敬"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "בא",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "נבוכדנאצר",
-      "english": "尼布甲尼撒"
+      "gloss": "尼布甲尼撒"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ויצר",
-      "english": "并围困"
+      "gloss": "并围困"
     },
     {
       "surface": "עליה",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:48.943144820Z",
-  "model": "glm-4.5"
+  ]
 }

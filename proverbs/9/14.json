@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "proverbs 9:14",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54357,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54618
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:59.017739101Z",
   "translation": "她坐在她家的门口,在⟨城的⟩高处⟨的⟩座位上,",
   "tokens": [
     {
       "surface": "ותשבה",
-      "english": "她坐在"
+      "gloss": "她坐在"
     },
     {
       "surface": "לפתח",
-      "english": "门口"
+      "gloss": "门口"
     },
     {
       "surface": "ביתה",
-      "english": "她家的"
+      "gloss": "她家的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כסא",
-      "english": "座位"
+      "gloss": "座位"
     },
     {
       "surface": "מרמי",
-      "english": "高处"
+      "gloss": "高处"
     },
     {
       "surface": "קרת",
-      "english": "⟨城的⟩"
+      "gloss": "⟨城的⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:59.017739101Z",
-  "model": "glm-5.2"
+  ]
 }

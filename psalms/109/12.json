@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 109:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64561,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64962
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:31.262578346Z",
   "translation": "愿没有人向他施以*chesed*，也没有人恩待他的孤儿。”",
   "tokens": [
     {
       "surface": "אל",
-      "english": "愿不"
+      "gloss": "愿不"
     },
     {
       "surface": "יהי",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "משך",
-      "english": "施以"
+      "gloss": "施以"
     },
     {
       "surface": "חסד",
-      "english": "*chesed*"
+      "gloss": "*chesed*"
     },
     {
       "surface": "ואל",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "יהי",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "חונן",
-      "english": "恩待"
+      "gloss": "恩待"
     },
     {
       "surface": "ליתומיו",
-      "english": "他的孤儿"
+      "gloss": "他的孤儿"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:31.262578346Z",
-  "model": "glm-5.2"
+  ]
 }

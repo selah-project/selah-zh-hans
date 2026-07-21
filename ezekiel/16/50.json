@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "ezekiel 16:50",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19152,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19715
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:48:39.130401389Z",
   "translation": "她们狂妄自大，在⟨我⟩面前行了可憎之事，⟨所以⟩我⟨在⟩我看见时就除掉了⟨את⟩她们。",
   "tokens": [
     {
       "surface": "וַֽ\/תִּגְבְּהֶ֔ינָה",
-      "english": "她们狂妄自大"
+      "gloss": "她们狂妄自大"
     },
     {
       "surface": "וַ\/תַּעֲשֶׂ֥ינָה",
-      "english": "她们行了"
+      "gloss": "她们行了"
     },
     {
       "surface": "תוֹעֵבָ֖ה",
-      "english": "可憎之事"
+      "gloss": "可憎之事"
     },
     {
       "surface": "לְ\/פָנָ֑\/י",
-      "english": "在⟨我⟩面前"
+      "gloss": "在⟨我⟩面前"
     },
     {
       "surface": "וָ\/אָסִ֥יר",
-      "english": "⟨所以⟩我除掉了"
+      "gloss": "⟨所以⟩我除掉了"
     },
     {
       "surface": "אֶתְ\/הֶ֖ן",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她们"
     },
     {
       "surface": "כַּ\/אֲשֶׁ֥ר",
-      "english": "⟨在⟩……时"
+      "gloss": "⟨在⟩……时"
     },
     {
       "surface": "רָאִֽיתִי",
-      "english": "我看见"
+      "gloss": "我看见"
     }
-  ],
-  "timestamp": "2026-07-17T22:48:39.130401389Z",
-  "model": "glm-5.2"
+  ]
 }

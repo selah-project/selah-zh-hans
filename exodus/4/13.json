@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "exodus 4:13",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18360,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18925
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:12:04.399013947Z",
   "translation": "他说:求求⟨你⟩,我的阿多奈,求你差遣⟨את⟩你将要差遣的(⟨借⟩谁的手)。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "בי",
-      "english": "求求⟨你⟩"
+      "gloss": "求求⟨你⟩"
     },
     {
       "surface": "אדני",
-      "english": "我的阿多奈"
+      "gloss": "我的阿多奈"
     },
     {
       "surface": "שלח",
-      "english": "求你差遣"
+      "gloss": "求你差遣"
     },
     {
       "surface": "נא",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "ביד",
-      "english": "⟨借⟩……的手"
+      "gloss": "⟨借⟩……的手"
     },
     {
       "surface": "תשלח",
-      "english": "你将要差遣的"
+      "gloss": "你将要差遣的"
     }
-  ],
-  "timestamp": "2026-07-17T18:12:04.399013947Z",
-  "model": "glm-5.2"
+  ]
 }

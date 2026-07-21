@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "joshua 19:5",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17640,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18074
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:12:30.195842044Z",
   "translation": "洗革拉、战车之家、以及母马之院；",
   "tokens": [
     {
       "surface": "וְ\/צִֽקְלַ֥ג",
-      "english": "洗革拉"
+      "gloss": "洗革拉"
     },
     {
       "surface": "וּ\/בֵית",
-      "english": "以及……之家"
+      "gloss": "以及……之家"
     },
     {
       "surface": "הַמַּרְכָּב֖וֹת",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "וַ\/חֲצַ֥ר",
-      "english": "以及……之院"
+      "gloss": "以及……之院"
     },
     {
       "surface": "סוּסָֽה",
-      "english": "母马"
+      "gloss": "母马"
     }
-  ],
-  "timestamp": "2026-07-18T03:12:30.195842044Z",
-  "model": "glm-5.2"
+  ]
 }

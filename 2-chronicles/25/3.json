@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 25:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60172,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60570
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:28:29.743374342Z",
   "translation": "事情发生在他握有坚固的国权时，他杀了⟨את⟩他的仆人，就是杀⟨את⟩他父王的那些人。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生"
+      "gloss": "事情发生"
     },
     {
       "surface": "כאשר",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "חזקה",
-      "english": "握有坚固"
+      "gloss": "握有坚固"
     },
     {
       "surface": "הממלכה",
-      "english": "国权"
+      "gloss": "国权"
     },
     {
       "surface": "עליו",
-      "english": "在他"
+      "gloss": "在他"
     },
     {
       "surface": "ויהרג",
-      "english": "他杀了"
+      "gloss": "他杀了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的仆人"
     },
     {
       "surface": "עבדיו",
-      "english": "他的仆人"
+      "gloss": "他的仆人"
     },
     {
       "surface": "המכים",
-      "english": "就是杀……的那些人"
+      "gloss": "就是杀……的那些人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "王"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אביו",
-      "english": "他的父"
+      "gloss": "他的父"
     }
-  ],
-  "timestamp": "2026-07-18T02:28:29.743374342Z",
-  "model": "glm-5.2"
+  ]
 }

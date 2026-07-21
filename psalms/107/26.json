@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "psalms 107:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64526,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65048
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:08.669931880Z",
   "translation": "他们升⟨到⟩诸天，他们降⟨到⟩深渊；他们的生命力量⟨在⟩危难中融化。",
   "tokens": [
     {
       "surface": "יַעֲל֣וּ",
-      "english": "他们升"
+      "gloss": "他们升"
     },
     {
       "surface": "שָׁ֭מַיִם",
-      "english": "⟨到⟩诸天"
+      "gloss": "⟨到⟩诸天"
     },
     {
       "surface": "יֵרְד֣וּ",
-      "english": "他们降"
+      "gloss": "他们降"
     },
     {
       "surface": "תְהוֹמ֑וֹת",
-      "english": "⟨到⟩深渊"
+      "gloss": "⟨到⟩深渊"
     },
     {
       "surface": "נַ֝פְשָׁ֗\/ם",
-      "english": "他们的生命力量"
+      "gloss": "他们的生命力量"
     },
     {
       "surface": "בְּ\/רָעָ֥ה",
-      "english": "⟨在⟩危难中"
+      "gloss": "⟨在⟩危难中"
     },
     {
       "surface": "תִתְמוֹגָֽג",
-      "english": "融化"
+      "gloss": "融化"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:08.669931880Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 1:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18981,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19371
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:19.665054716Z",
   "translation": "他要剥 ⟨את⟩ 全燔祭的皮,并将其切成块状,⟨按⟩ ⟨את⟩ 其各自的切块。",
   "tokens": [
     {
       "surface": "והפשיט",
-      "english": "他要剥……的皮"
+      "gloss": "他要剥……的皮"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全燔祭"
     },
     {
       "surface": "העלה",
-      "english": "全燔祭"
+      "gloss": "全燔祭"
     },
     {
       "surface": "ונתח",
-      "english": "并将其切成块状"
+      "gloss": "并将其切成块状"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "其各自的切块"
     },
     {
       "surface": "לנתחיה",
-      "english": "⟨按⟩ 其各自的切块"
+      "gloss": "⟨按⟩ 其各自的切块"
     }
-  ],
-  "timestamp": "2026-07-17T18:40:19.665054716Z",
-  "model": "glm-5.2"
+  ]
 }

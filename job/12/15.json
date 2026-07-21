@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 12:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21627,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22000
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:06.531174585Z",
   "translation": "看哪，⟨他⟩截留水，水就干涸；⟨他⟩释放它们，它们就翻转大地。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יעצר",
-      "english": "⟨他⟩截留"
+      "gloss": "⟨他⟩截留"
     },
     {
       "surface": "במים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "ויבשו",
-      "english": "就干涸"
+      "gloss": "就干涸"
     },
     {
       "surface": "וישלחם",
-      "english": "⟨他⟩释放它们"
+      "gloss": "⟨他⟩释放它们"
     },
     {
       "surface": "ויהפכו",
-      "english": "它们就翻转"
+      "gloss": "它们就翻转"
     },
     {
       "surface": "ארץ",
-      "english": "大地"
+      "gloss": "大地"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:06.531174585Z",
-  "model": "glm-5.2"
+  ]
 }

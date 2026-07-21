@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 7:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64341,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64648
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:09.571162146Z",
   "translation": "我的盾牌在于以罗欣，拯救心里正直者的那一位，",
   "tokens": [
     {
       "surface": "מגני",
-      "english": "我的盾牌"
+      "gloss": "我的盾牌"
     },
     {
       "surface": "על",
-      "english": "在于"
+      "gloss": "在于"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "מושיע",
-      "english": "拯救者"
+      "gloss": "拯救者"
     },
     {
       "surface": "ישרי",
-      "english": "正直的"
+      "gloss": "正直的"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:09.571162146Z",
-  "model": "glm-5.2"
+  ]
 }

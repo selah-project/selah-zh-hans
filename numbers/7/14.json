@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "numbers 7:14",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19406,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19727
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:45.570542294Z",
   "translation": "一个金盘子,重十⟨舍客勒⟩,装满了香;",
   "tokens": [
     {
       "surface": "כף",
-      "english": "一个盘子"
+      "gloss": "一个盘子"
     },
     {
       "surface": "אחת",
-      "english": "一"
+      "gloss": "一"
     },
     {
       "surface": "עשרה",
-      "english": "十⟨舍客勒⟩"
+      "gloss": "十⟨舍客勒⟩"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "מלאה",
-      "english": "装满了"
+      "gloss": "装满了"
     },
     {
       "surface": "קטרת",
-      "english": "香"
+      "gloss": "香"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:45.570542294Z",
-  "model": "glm-5.2"
+  ]
 }

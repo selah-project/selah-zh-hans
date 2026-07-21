@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 28:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20629,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21001
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:46:49.902757298Z",
   "translation": "因为所有的桌子都满了呕吐之物、污秽，⟨毫无⟩干净之处。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "שלחנות",
-      "english": "桌子"
+      "gloss": "桌子"
     },
     {
       "surface": "מלאו",
-      "english": "都满了"
+      "gloss": "都满了"
     },
     {
       "surface": "קיא",
-      "english": "呕吐之物"
+      "gloss": "呕吐之物"
     },
     {
       "surface": "צאה",
-      "english": "污秽"
+      "gloss": "污秽"
     },
     {
       "surface": "בלי",
-      "english": "⟨毫无⟩"
+      "gloss": "⟨毫无⟩"
     },
     {
       "surface": "מקום",
-      "english": "干净之处"
+      "gloss": "干净之处"
     }
-  ],
-  "timestamp": "2026-07-17T21:46:49.902757298Z",
-  "model": "glm-5.2"
+  ]
 }

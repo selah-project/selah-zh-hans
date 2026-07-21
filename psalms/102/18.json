@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 102:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64613,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65071
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:44:24.983360324Z",
   "translation": "⟨他⟩转向⟨那⟩枯槁者的祈求,并不藐视⟨את⟩他们的祈求。",
   "tokens": [
     {
       "surface": "פנה",
-      "english": "转向"
+      "gloss": "转向"
     },
     {
       "surface": "אל",
-      "english": "⟨朝向⟩"
+      "gloss": "⟨朝向⟩"
     },
     {
       "surface": "תפלת",
-      "english": "祈求"
+      "gloss": "祈求"
     },
     {
       "surface": "הערער",
-      "english": "枯槁者"
+      "gloss": "枯槁者"
     },
     {
       "surface": "ולא",
-      "english": "并不"
+      "gloss": "并不"
     },
     {
       "surface": "בזה",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的祈求"
     },
     {
       "surface": "תפלתם",
-      "english": "他们的祈求"
+      "gloss": "他们的祈求"
     }
-  ],
-  "timestamp": "2026-07-20T06:44:24.983360324Z",
-  "model": "glm-5.2"
+  ]
 }

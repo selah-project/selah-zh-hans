@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "numbers 28:29",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19408,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19704
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:20:35.011741411Z",
   "translation": "十分之一份,十分之一份,给一只羔羊,⟨给⟩七只羔羊的⟨每⟩一只;",
   "tokens": [
     {
       "surface": "עשרון",
-      "english": "十分之一份"
+      "gloss": "十分之一份"
     },
     {
       "surface": "עשרון",
-      "english": "十分之一份"
+      "gloss": "十分之一份"
     },
     {
       "surface": "לכבש",
-      "english": "给一只羔羊"
+      "gloss": "给一只羔羊"
     },
     {
       "surface": "האחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "לשבעת",
-      "english": "⟨给⟩七只"
+      "gloss": "⟨给⟩七只"
     },
     {
       "surface": "הכבשים",
-      "english": "羔羊的"
+      "gloss": "羔羊的"
     }
-  ],
-  "timestamp": "2026-07-17T19:20:35.011741411Z",
-  "model": "glm-5.2"
+  ]
 }

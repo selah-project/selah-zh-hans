@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "2-chronicles 32:10",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 60127,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60538
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:29:46.091543904Z",
   "translation": "西拿基立王,亚述王如此说:你们倚靠什么,而安坐在耶路撒冷的围困中?",
   "tokens": [
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "סנחריב",
-      "english": "西拿基立"
+      "gloss": "西拿基立"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "על",
-      "english": "倚靠"
+      "gloss": "倚靠"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "בטחים",
-      "english": "⟨是⟩倚靠"
+      "gloss": "⟨是⟩倚靠"
     },
     {
       "surface": "וישבים",
-      "english": "而安坐"
+      "gloss": "而安坐"
     },
     {
       "surface": "במצור",
-      "english": "在围困中"
+      "gloss": "在围困中"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-21T13:29:46.091543904Z",
-  "model": "glm-4.5"
+  ]
 }

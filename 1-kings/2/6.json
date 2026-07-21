@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-kings 2:6",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63925,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64305
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:48.451384345Z",
   "translation": "所以你要照你的智慧去行,不可使他的白发平平安安地下到 阴间。",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "所以你要去行"
+      "gloss": "所以你要去行"
     },
     {
       "surface": "כחכמתך",
-      "english": "照你的智慧"
+      "gloss": "照你的智慧"
     },
     {
       "surface": "ולא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תורד",
-      "english": "使……下到"
+      "gloss": "使……下到"
     },
     {
       "surface": "שיבתו",
-      "english": "他的白发"
+      "gloss": "他的白发"
     },
     {
       "surface": "בשלם",
-      "english": "平平安安地"
+      "gloss": "平平安安地"
     },
     {
       "surface": "שאל",
-      "english": "阴间"
+      "gloss": "阴间"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:48.451384345Z",
-  "model": "glm-5.2"
+  ]
 }

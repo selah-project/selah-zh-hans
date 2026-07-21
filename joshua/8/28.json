@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "joshua 8:28",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 621,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18222,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18843
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:54:41.725194751Z",
   "translation": "约书亚烧了⟨את⟩哈艾,把它设立为永远 ⟨的⟩废墟,一片荒凉,直 ⟨到⟩ ⟨这⟩ ⟨日⟩。",
   "tokens": [
     {
       "surface": "וישרף",
-      "english": "约书亚烧了"
+      "gloss": "约书亚烧了"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈艾"
     },
     {
       "surface": "העי",
-      "english": "哈艾"
+      "gloss": "哈艾"
     },
     {
       "surface": "וישימה",
-      "english": "把它设立为"
+      "gloss": "把它设立为"
     },
     {
       "surface": "תל",
-      "english": "废墟"
+      "gloss": "废墟"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "שממה",
-      "english": "一片荒凉"
+      "gloss": "一片荒凉"
     },
     {
       "surface": "עד",
-      "english": "直 ⟨到⟩"
+      "gloss": "直 ⟨到⟩"
     },
     {
       "surface": "היום",
-      "english": "⟨这⟩ ⟨日⟩"
+      "gloss": "⟨这⟩ ⟨日⟩"
     },
     {
       "surface": "הזה",
-      "english": "⟨这⟩"
+      "gloss": "⟨这⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:54:41.725194751Z",
-  "model": "glm-5.2"
+  ]
 }

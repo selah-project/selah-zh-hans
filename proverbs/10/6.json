@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "proverbs 10:6",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54410,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54749
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:14.449180265Z",
   "translation": "祝福归于义人的头上，恶人的口⟨却⟩遮盖强暴。",
   "tokens": [
     {
       "surface": "ברכות",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "לראש",
-      "english": "归于……的头"
+      "gloss": "归于……的头"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "ופי",
-      "english": "……的口"
+      "gloss": "……的口"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יכסה",
-      "english": "遮盖"
+      "gloss": "遮盖"
     },
     {
       "surface": "חמס",
-      "english": "强暴"
+      "gloss": "强暴"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:14.449180265Z",
-  "model": "glm-5.2"
+  ]
 }

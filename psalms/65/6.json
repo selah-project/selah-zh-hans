@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 65:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64840,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65297
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:09.574722998Z",
   "translation": "以可畏的事，按公义回应我们，⟨啊⟩ 我们拯救的以罗欣；⟨你是⟩ 地极所有方向的信靠，以及远方的海。",
   "tokens": [
     {
       "surface": "נוראות",
-      "english": "以可畏的事"
+      "gloss": "以可畏的事"
     },
     {
       "surface": "בצדק",
-      "english": "按公义"
+      "gloss": "按公义"
     },
     {
       "surface": "תעננו",
-      "english": "回应我们"
+      "gloss": "回应我们"
     },
     {
       "surface": "אלהי",
-      "english": "⟨啊⟩ 以罗欣"
+      "gloss": "⟨啊⟩ 以罗欣"
     },
     {
       "surface": "ישענו",
-      "english": "我们拯救的"
+      "gloss": "我们拯救的"
     },
     {
       "surface": "מבטח",
-      "english": "信靠"
+      "gloss": "信靠"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "קצוי",
-      "english": "方向"
+      "gloss": "方向"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "וים",
-      "english": "以及海"
+      "gloss": "以及海"
     },
     {
       "surface": "רחקים",
-      "english": "远方的"
+      "gloss": "远方的"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:09.574722998Z",
-  "model": "glm-5.2"
+  ]
 }

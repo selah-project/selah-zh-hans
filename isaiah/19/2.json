@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 19:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 709,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21140,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21849
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:05.091221958Z",
   "translation": "我必激动埃及人对抗埃及人，他们必彼此争战，各人攻击⟨他的⟩兄弟，各人攻击⟨他的⟩邻舍；城攻击城，国攻击国。",
   "tokens": [
     {
       "surface": "וְ\/סִכְסַכְתִּ֤י",
-      "english": "我必激动"
+      "gloss": "我必激动"
     },
     {
       "surface": "מִצְרַ֨יִם֙",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "בְּ\/מִצְרַ֔יִם",
-      "english": "对抗埃及人"
+      "gloss": "对抗埃及人"
     },
     {
       "surface": "וְ\/נִלְחֲמ֥וּ",
-      "english": "他们必争战"
+      "gloss": "他们必争战"
     },
     {
       "surface": "אִישׁ",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "בְּ\/אָחִ֖י\/ו",
-      "english": "攻击⟨他的⟩兄弟"
+      "gloss": "攻击⟨他的⟩兄弟"
     },
     {
       "surface": "וְ\/אִ֣ישׁ",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "בְּ\/רֵעֵ֑\/הוּ",
-      "english": "攻击⟨他的⟩邻舍"
+      "gloss": "攻击⟨他的⟩邻舍"
     },
     {
       "surface": "עִ֣יר",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "בְּ\/עִ֔יר",
-      "english": "攻击城"
+      "gloss": "攻击城"
     },
     {
       "surface": "מַמְלָכָ֖ה",
-      "english": "国"
+      "gloss": "国"
     },
     {
       "surface": "בְּ\/מַמְלָכָֽה",
-      "english": "攻击国"
+      "gloss": "攻击国"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:05.091221958Z",
-  "model": "glm-5.2"
+  ]
 }

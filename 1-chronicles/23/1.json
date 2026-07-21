@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-chronicles 23:1",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58863,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59147
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:07:44.495893676Z",
   "translation": "大卫老了，饱经年日；他立⟨את⟩他的儿子所罗门作王，治理以色列。",
   "tokens": [
     {
       "surface": "ודויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "זקן",
-      "english": "老了"
+      "gloss": "老了"
     },
     {
       "surface": "ושבע",
-      "english": "饱经"
+      "gloss": "饱经"
     },
     {
       "surface": "ימים",
-      "english": "年日"
+      "gloss": "年日"
     },
     {
       "surface": "וימלך",
-      "english": "他立……作王"
+      "gloss": "他立……作王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的儿子所罗门"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "על",
-      "english": "治理"
+      "gloss": "治理"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:07:44.495893676Z",
-  "model": "glm-5.2"
+  ]
 }

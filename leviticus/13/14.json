@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "leviticus 13:14",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18807,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19159
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:47:57.262643701Z",
   "translation": "而在⟨被⟩察看的日子，⟨如果⟩在他里面显现了活的肉，⟨他⟩⟨就⟩成为不洁净。",
   "tokens": [
     {
       "surface": "וביום",
-      "english": "而在……的日子"
+      "gloss": "而在……的日子"
     },
     {
       "surface": "הראות",
-      "english": "⟨被⟩察看"
+      "gloss": "⟨被⟩察看"
     },
     {
       "surface": "בו",
-      "english": "在他里面"
+      "gloss": "在他里面"
     },
     {
       "surface": "בשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "חי",
-      "english": "活的"
+      "gloss": "活的"
     },
     {
       "surface": "יטמא",
-      "english": "⟨他⟩⟨就⟩成为不洁净"
+      "gloss": "⟨他⟩⟨就⟩成为不洁净"
     }
-  ],
-  "timestamp": "2026-07-17T18:47:57.262643701Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-chronicles 32:2",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59803,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60176
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:33:14.639006262Z",
   "translation": "希西家看见西拿基立来了，他的脸 ⟨是⟩为要争战，⟨对抗⟩耶路撒冷。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "יחזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "כי",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בא",
-      "english": "来了"
+      "gloss": "来了"
     },
     {
       "surface": "סנחריב",
-      "english": "西拿基立"
+      "gloss": "西拿基立"
     },
     {
       "surface": "ופניו",
-      "english": "他的脸"
+      "gloss": "他的脸"
     },
     {
       "surface": "למלחמה",
-      "english": "为要争战"
+      "gloss": "为要争战"
     },
     {
       "surface": "על",
-      "english": "⟨对抗⟩"
+      "gloss": "⟨对抗⟩"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T02:33:14.639006262Z",
-  "model": "glm-5.2"
+  ]
 }

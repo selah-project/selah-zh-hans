@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 46:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64612,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64968
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:03.830938899Z",
   "translation": "来吧,观看雅威的作为,他在地上设立了荒凉;",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "来吧"
+      "gloss": "来吧"
     },
     {
       "surface": "חזו",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "מפעלות",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "就是那"
+      "gloss": "就是那"
     },
     {
       "surface": "שָׂם",
-      "english": "设立了"
+      "gloss": "设立了"
     },
     {
       "surface": "שַׁמּוֹת",
-      "english": "荒凉"
+      "gloss": "荒凉"
     },
     {
       "surface": "בָּ\/אָרֶץ",
-      "english": "在地上"
+      "gloss": "在地上"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:03.830938899Z",
-  "model": "glm-5.2"
+  ]
 }

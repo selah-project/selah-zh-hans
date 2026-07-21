@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 15:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18610,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19107
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:09.721769489Z",
   "translation": "法老的战车和他的军队，⟨他⟩扔进了海里；他精选的军官 sunk בְ\/יַם סֽוּף。",
   "tokens": [
     {
       "surface": "מרכבת",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "וחילו",
-      "english": "和他的军队"
+      "gloss": "和他的军队"
     },
     {
       "surface": "ירה",
-      "english": "扔进了"
+      "gloss": "扔进了"
     },
     {
       "surface": "בים",
-      "english": "在海里"
+      "gloss": "在海里"
     },
     {
       "surface": "ומבחר",
-      "english": "和精选的"
+      "gloss": "和精选的"
     },
     {
       "surface": "שלשיו",
-      "english": "他的军官"
+      "gloss": "他的军官"
     },
     {
       "surface": "טבעו",
-      "english": "沉没了"
+      "gloss": "沉没了"
     },
     {
       "surface": "בים",
-      "english": "在……海"
+      "gloss": "在……海"
     },
     {
       "surface": "סוף",
-      "english": "芦苇"
+      "gloss": "芦苇"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:09.721769489Z",
-  "model": "glm-5.2"
+  ]
 }

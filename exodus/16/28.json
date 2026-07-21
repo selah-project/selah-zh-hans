@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "exodus 16:28",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18627,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19003
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:34.711258186Z",
   "translation": "雅威对摩西说:你们⟨还要⟩拒绝遵守我的诫命和我的妥拉,直到何时?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אנה",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "מאנתם",
-      "english": "你们拒绝"
+      "gloss": "你们拒绝"
     },
     {
       "surface": "לשמר",
-      "english": "遵守"
+      "gloss": "遵守"
     },
     {
       "surface": "מצותי",
-      "english": "我的诫命"
+      "gloss": "我的诫命"
     },
     {
       "surface": "ותורתי",
-      "english": "和我的妥拉"
+      "gloss": "和我的妥拉"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:34.711258186Z",
-  "model": "glm-5.2"
+  ]
 }

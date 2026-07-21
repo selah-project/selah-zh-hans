@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 12:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23409,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23808
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:04.642307831Z",
   "translation": "法老的臣宰看见了她，就向法老称赞⟨את⟩她，那女人便被带进了法老的家。",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "……看见了"
+      "gloss": "……看见了"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她"
     },
     {
       "surface": "שרי",
-      "english": "臣宰"
+      "gloss": "臣宰"
     },
     {
       "surface": "פרעה",
-      "english": "法老的"
+      "gloss": "法老的"
     },
     {
       "surface": "ויהללו",
-      "english": "就称赞"
+      "gloss": "就称赞"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "ותקח",
-      "english": "便被带进"
+      "gloss": "便被带进"
     },
     {
       "surface": "האשה",
-      "english": "那女人"
+      "gloss": "那女人"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "פרעה",
-      "english": "法老的"
+      "gloss": "法老的"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:04.642307831Z",
-  "model": "glm-5.2"
+  ]
 }

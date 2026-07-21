@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 172,
   "ref": "psalms 119:172",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64418,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64799
-  },
+  "verse": 172,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:55.148149268Z",
   "translation": "愿我的舌歌唱你的*话语*，因为你一切的*mitzvá*都是公义。",
   "tokens": [
     {
       "surface": "תען",
-      "english": "愿……歌唱"
+      "gloss": "愿……歌唱"
     },
     {
       "surface": "לשוני",
-      "english": "我的舌"
+      "gloss": "我的舌"
     },
     {
       "surface": "אמרתך",
-      "english": "你的*话语*"
+      "gloss": "你的*话语*"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כל",
-      "english": "你一切的"
+      "gloss": "你一切的"
     },
     {
       "surface": "מצותיך",
-      "english": "*mitzvá*"
+      "gloss": "*mitzvá*"
     },
     {
       "surface": "צדק",
-      "english": "是公义"
+      "gloss": "是公义"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:55.148149268Z",
-  "model": "glm-5.2"
+  ]
 }

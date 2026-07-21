@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 29:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23372,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23812
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:50.649130331Z",
   "translation": "拉班说：好，我把⟨את⟩她给你，胜过我给⟨את⟩她⟨给⟩别的男人；与我同住吧。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "תתי",
-      "english": "我给"
+      "gloss": "我给"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "מתתי",
-      "english": "胜过我给"
+      "gloss": "胜过我给"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她"
     },
     {
       "surface": "לאיש",
-      "english": "给男人"
+      "gloss": "给男人"
     },
     {
       "surface": "אחר",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "שבה",
-      "english": "住吧"
+      "gloss": "住吧"
     },
     {
       "surface": "עמדי",
-      "english": "与我同"
+      "gloss": "与我同"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:50.649130331Z",
-  "model": "glm-5.2"
+  ]
 }

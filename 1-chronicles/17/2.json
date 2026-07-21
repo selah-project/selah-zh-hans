@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-chronicles 17:2",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58891,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59296
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:02.511436227Z",
   "translation": "拿单对大卫说：凡在你心里的，你⟨都⟩去做吧，因为以罗欣与你同在。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "נתן",
-      "english": "拿单"
+      "gloss": "拿单"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בלבבך",
-      "english": "在你心里的"
+      "gloss": "在你心里的"
     },
     {
       "surface": "עשה",
-      "english": "你去做吧"
+      "gloss": "你去做吧"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "עמך",
-      "english": "与你同在"
+      "gloss": "与你同在"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:02.511436227Z",
-  "model": "glm-5.2"
+  ]
 }

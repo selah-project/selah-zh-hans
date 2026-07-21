@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 122:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64721,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65248
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:24.558514690Z",
   "translation": "在那里,支派上去,就是雅威的支派,⟨作为⟩向以色列的见证,为要称谢雅威的名字。",
   "tokens": [
     {
       "surface": "שֶׁ\/שָּׁ֨ם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "עָל֪וּ",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "שְׁבָטִ֡ים",
-      "english": "支派"
+      "gloss": "支派"
     },
     {
       "surface": "שִׁבְטֵי",
-      "english": "就是……的支派"
+      "gloss": "就是……的支派"
     },
     {
       "surface": "יָ֭הּ",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עֵד֣וּת",
-      "english": "见证"
+      "gloss": "见证"
     },
     {
       "surface": "לְ\/יִשְׂרָאֵ֑ל",
-      "english": "向以色列"
+      "gloss": "向以色列"
     },
     {
       "surface": "לְ֝\/הֹד֗וֹת",
-      "english": "为要称谢"
+      "gloss": "为要称谢"
     },
     {
       "surface": "לְ\/שֵׁ֣ם",
-      "english": "……的名字"
+      "gloss": "……的名字"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:24.558514690Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-chronicles 28:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59031,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59505
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:11:18.255090053Z",
   "translation": "至于⟨את⟩金子的重量，是为陈列饼的桌子，为一张桌子和⟨另一张⟩桌子；银子是为银子的桌子。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "金子"
     },
     {
       "surface": "הזהב",
-      "english": "至于金子"
+      "gloss": "至于金子"
     },
     {
       "surface": "משקל",
-      "english": "重量"
+      "gloss": "重量"
     },
     {
       "surface": "לשלחנות",
-      "english": "是为……的桌子"
+      "gloss": "是为……的桌子"
     },
     {
       "surface": "המערכת",
-      "english": "陈列饼"
+      "gloss": "陈列饼"
     },
     {
       "surface": "לשלחן",
-      "english": "为一张桌子"
+      "gloss": "为一张桌子"
     },
     {
       "surface": "ושלחן",
-      "english": "和桌子"
+      "gloss": "和桌子"
     },
     {
       "surface": "וכסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "לשלחנות",
-      "english": "是为……的桌子"
+      "gloss": "是为……的桌子"
     },
     {
       "surface": "הכסף",
-      "english": "银子（的）"
+      "gloss": "银子（的）"
     }
-  ],
-  "timestamp": "2026-07-18T02:11:18.255090053Z",
-  "model": "glm-5.2"
+  ]
 }

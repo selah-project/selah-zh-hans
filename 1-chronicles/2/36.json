@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "1-chronicles 2:36",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58692,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58981
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:52:37.646098943Z",
   "translation": "亚太生了拿单,拿单生了撒拔。",
   "tokens": [
     {
       "surface": "ועתי",
-      "english": "阿太"
+      "gloss": "阿太"
     },
     {
       "surface": "הליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿单"
     },
     {
       "surface": "נתן",
-      "english": "拿单"
+      "gloss": "拿单"
     },
     {
       "surface": "ונתן",
-      "english": "拿单"
+      "gloss": "拿单"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒拔"
     },
     {
       "surface": "זבד",
-      "english": "撒拔"
+      "gloss": "撒拔"
     }
-  ],
-  "timestamp": "2026-07-18T01:52:37.646098943Z",
-  "model": "glm-5.2"
+  ]
 }

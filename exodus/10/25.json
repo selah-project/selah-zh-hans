@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 10:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18786,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19352
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:16.478553017Z",
   "translation": "摩西说:你也必将 ⟨את⟩ 祭物和燔祭交在我们手中,我们要为雅威我们的以罗欣献上。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תתן",
-      "english": "必将"
+      "gloss": "必将"
     },
     {
       "surface": "בידנו",
-      "english": "交在我们手中"
+      "gloss": "交在我们手中"
     },
     {
       "surface": "זבחים",
-      "english": "⟨את⟩ 祭物",
+      "gloss": "⟨את⟩ 祭物",
       "marks": "祭物和燔祭"
     },
     {
       "surface": "ועלות",
-      "english": "和燔祭"
+      "gloss": "和燔祭"
     },
     {
       "surface": "ועשינו",
-      "english": "我们要献上"
+      "gloss": "我们要献上"
     },
     {
       "surface": "ליהוה",
-      "english": "为雅威"
+      "gloss": "为雅威"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:16.478553017Z",
-  "model": "glm-5.2"
+  ]
 }

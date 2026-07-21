@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "proverbs 20:8",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54493,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54789
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:45.980120764Z",
   "translation": "君王坐在审判的宝座上,用他的眼目簸散一切的恶。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "יושב",
-      "english": "坐在"
+      "gloss": "坐在"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כסא",
-      "english": "宝座"
+      "gloss": "宝座"
     },
     {
       "surface": "דין",
-      "english": "审判"
+      "gloss": "审判"
     },
     {
       "surface": "מזרה",
-      "english": "簸散"
+      "gloss": "簸散"
     },
     {
       "surface": "בעיניו",
-      "english": "用他的眼目"
+      "gloss": "用他的眼目"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:45.980120764Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 85,
   "ref": "psalms 119:85",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64350,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64703
-  },
+  "verse": 85,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:40.832771138Z",
   "translation": "狂妄之人为我挖掘陷坑，⟨就是⟩不按你的妥拉⟨之人⟩。",
   "tokens": [
     {
       "surface": "כרו",
-      "english": "挖掘了"
+      "gloss": "挖掘了"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "זדים",
-      "english": "狂妄之人"
+      "gloss": "狂妄之人"
     },
     {
       "surface": "שיחות",
-      "english": "陷坑"
+      "gloss": "陷坑"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "כתורתך",
-      "english": "按你的妥拉"
+      "gloss": "按你的妥拉"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:40.832771138Z",
-  "model": "glm-5.2"
+  ]
 }

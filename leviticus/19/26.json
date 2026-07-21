@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "leviticus 19:26",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18990,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19506
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:53:24.094015290Z",
   "translation": "你们不可带着血⟨吃⟩；你们不可行占卜，也不可观云⟨施行法术⟩。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "你们⟨吃⟩"
+      "gloss": "你们⟨吃⟩"
     },
     {
       "surface": "על",
-      "english": "带着"
+      "gloss": "带着"
     },
     {
       "surface": "הדם",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תנחשו",
-      "english": "你们行占卜"
+      "gloss": "你们行占卜"
     },
     {
       "surface": "ולא",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "תעוננו",
-      "english": "你们观云⟨施行法术⟩"
+      "gloss": "你们观云⟨施行法术⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:53:24.094015290Z",
-  "model": "glm-5.2"
+  ]
 }

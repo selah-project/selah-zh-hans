@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 50:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22953,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23296
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:00.648632611Z",
   "translation": "他们向约瑟发送命令,说:⟨这是⟩你父亲临死前所吩咐的,说:",
   "tokens": [
     {
       "surface": "ויצוו",
-      "english": "他们发送命令"
+      "gloss": "他们发送命令"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אביך",
-      "english": "你父亲"
+      "gloss": "你父亲"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐的"
+      "gloss": "所吩咐的"
     },
     {
       "surface": "לפני",
-      "english": "临死前"
+      "gloss": "临死前"
     },
     {
       "surface": "מותו",
-      "english": "他的死"
+      "gloss": "他的死"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:00.648632611Z",
-  "model": "glm-5.2"
+  ]
 }

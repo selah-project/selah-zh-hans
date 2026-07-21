@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "numbers 4:42",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19571,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19995
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:32.965335532Z",
   "translation": "至于米拉利之子们的家族，按他们的家族、按他们父系祖先⟨的⟩家室被点数的（人数）",
   "tokens": [
     {
       "surface": "וּ\/פְקוּדֵ֕י",
-      "english": "至于……被点数的"
+      "gloss": "至于……被点数的"
     },
     {
       "surface": "מִשְׁפְּחֹ֖ת",
-      "english": "家族"
+      "gloss": "家族"
     },
     {
       "surface": "בְּנֵ֣י",
-      "english": "之子们"
+      "gloss": "之子们"
     },
     {
       "surface": "מְרָרִ֑י",
-      "english": "米拉利"
+      "gloss": "米拉利"
     },
     {
       "surface": "לְ\/מִשְׁפְּחֹתָ֖\/ם",
-      "english": "按他们的家族"
+      "gloss": "按他们的家族"
     },
     {
       "surface": "לְ\/בֵ֥ית",
-      "english": "按……家室"
+      "gloss": "按……家室"
     },
     {
       "surface": "אֲבֹתָֽ\/ם",
-      "english": "他们父系祖先"
+      "gloss": "他们父系祖先"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:32.965335532Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 48:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64563,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65032
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:45.932978249Z",
   "translation": "因为这就是以罗欣,⟨他是⟩我们的以罗欣,直到永远;他必引导⟨我们⟩⟨את⟩-⟨直至⟩死亡。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "זה",
-      "english": "这就是"
+      "gloss": "这就是"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "עולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "ועד",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "הוא",
-      "english": "⟨他是⟩"
+      "gloss": "⟨他是⟩"
     },
     {
       "surface": "ינהגנו",
-      "english": "他必引导⟨我们⟩"
+      "gloss": "他必引导⟨我们⟩"
     },
     {
       "surface": "על",
-      "english": "⟨直至⟩⟨את⟩"
+      "gloss": "⟨直至⟩⟨את⟩"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:45.932978249Z",
-  "model": "glm-5.2"
+  ]
 }

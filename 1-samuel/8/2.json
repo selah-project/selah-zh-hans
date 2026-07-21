@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-samuel 8:2",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18292,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18813
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:25:00.989285907Z",
   "translation": "他长子的名字是约珥,他次子的名字是亚比雅;⟨他们⟩在别是巴⟨作⟩审判官。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨事情是⟩"
+      "gloss": "⟨事情是⟩"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "הבכור",
-      "english": "长子"
+      "gloss": "长子"
     },
     {
       "surface": "יואל",
-      "english": "约珥"
+      "gloss": "约珥"
     },
     {
       "surface": "ושם",
-      "english": "而名字"
+      "gloss": "而名字"
     },
     {
       "surface": "משנהו",
-      "english": "他的次子"
+      "gloss": "他的次子"
     },
     {
       "surface": "אביה",
-      "english": "亚比雅"
+      "gloss": "亚比雅"
     },
     {
       "surface": "שפטים",
-      "english": "审判官"
+      "gloss": "审判官"
     },
     {
       "surface": "בבאר",
-      "english": "在别是巴"
+      "gloss": "在别是巴"
     },
     {
       "surface": "שבע",
-      "english": "别是巴"
+      "gloss": "别是巴"
     }
-  ],
-  "timestamp": "2026-07-17T20:25:00.989285907Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 121:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64547,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64909
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:14.816942435Z",
   "translation": "雅威必保护你脱离一切灾祸；⟨他⟩必保护⟨את⟩你的נפש׃",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ישמרך",
-      "english": "必保护你"
+      "gloss": "必保护你"
     },
     {
       "surface": "מכל",
-      "english": "脱离一切"
+      "gloss": "脱离一切"
     },
     {
       "surface": "רע",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "ישמר",
-      "english": "必保护"
+      "gloss": "必保护"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的נפש"
     },
     {
       "surface": "נפשך",
-      "english": "你的נפש"
+      "gloss": "你的נפש"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:14.816942435Z",
-  "model": "glm-5.2"
+  ]
 }

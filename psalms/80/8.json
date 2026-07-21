@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 80:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64428,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64782
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:54.341011747Z",
   "translation": "以罗欣 (Elohim),万军之 ⟨神⟩,求你使我们回转,使你的脸面发光,我们就 ⟨必⟩ 得拯救。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣 (Elohim)"
+      "gloss": "以罗欣 (Elohim)"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "השיבנו",
-      "english": "求你使我们回转"
+      "gloss": "求你使我们回转"
     },
     {
       "surface": "והאר",
-      "english": "使发光"
+      "gloss": "使发光"
     },
     {
       "surface": "פניך",
-      "english": "你的脸面"
+      "gloss": "你的脸面"
     },
     {
       "surface": "ונושעה",
-      "english": "我们就得拯救"
+      "gloss": "我们就得拯救"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:54.341011747Z",
-  "model": "glm-5.2"
+  ]
 }

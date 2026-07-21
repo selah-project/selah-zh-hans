@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 33:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21502,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21965
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:16:00.699199897Z",
   "translation": "那时他揭开人们的耳朵，借着他们的管教⟨他⟩封印⟨他们⟩。",
   "tokens": [
     {
       "surface": "אָ֣ז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "יִ֭גְלֶה",
-      "english": "他揭开"
+      "gloss": "他揭开"
     },
     {
       "surface": "אֹ֣זֶן",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "אֲנָשִׁ֑ים",
-      "english": "人们的"
+      "gloss": "人们的"
     },
     {
       "surface": "וּ\/בְ\/מֹ֖סָרָ֣\/ם",
-      "english": "借着他们的管教"
+      "gloss": "借着他们的管教"
     },
     {
       "surface": "יַחְתֹּֽם",
-      "english": "他封印"
+      "gloss": "他封印"
     }
-  ],
-  "timestamp": "2026-07-18T03:16:00.699199897Z",
-  "model": "glm-5.2"
+  ]
 }

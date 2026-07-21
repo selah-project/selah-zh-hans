@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "ezra 2:13",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 179,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46215,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46394
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:06.776524432Z",
   "translation": "阿多尼坎的子孙:六百六十六。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "אדניקם",
-      "english": "阿多尼坎"
+      "gloss": "阿多尼坎"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ששים",
-      "english": "六十"
+      "gloss": "六十"
     },
     {
       "surface": "וששה",
-      "english": "和六"
+      "gloss": "和六"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:06.776524432Z",
-  "model": "glm-5.2"
+  ]
 }

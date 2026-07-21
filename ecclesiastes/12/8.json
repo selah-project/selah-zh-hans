@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ecclesiastes 12:8",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18763,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19179
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:05:24.898014291Z",
   "translation": "蒸汽,众蒸汽,הַ\/קּוֹהֶלֶת 说,⟨那⟩ 全部 ⟨是⟩ 蒸汽。",
   "tokens": [
     {
       "surface": "הבל",
-      "english": "蒸汽"
+      "gloss": "蒸汽"
     },
     {
       "surface": "הבלים",
-      "english": "众蒸汽"
+      "gloss": "众蒸汽"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "הקוהלת",
-      "english": "הַ\/קּוֹהֶלֶת"
+      "gloss": "הַ\/קּוֹהֶלֶת"
     },
     {
       "surface": "הכל",
-      "english": "⟨那⟩ 全部"
+      "gloss": "⟨那⟩ 全部"
     },
     {
       "surface": "הבל",
-      "english": "蒸汽"
+      "gloss": "蒸汽"
     }
-  ],
-  "timestamp": "2026-07-20T15:05:24.898014291Z",
-  "model": "glm-5.2"
+  ]
 }

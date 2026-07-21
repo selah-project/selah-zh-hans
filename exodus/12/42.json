@@ -1,85 +1,77 @@
 {
-  "tier": "bulk",
-  "verse": 42,
   "ref": "exodus 12:42",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 718,
-    "prompt_tokens": 19324,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20042
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:24:26.235816603Z",
   "translation": "一个守望之夜 ⟨是⟩ 归雅威的,因 ⟨他⟩ 将他们带出埃及地;这一夜 ⟨是⟩ 归雅威的守望,为 ⟨要⟩ 被雅威所有的以色列人遵守, ⟨直到⟩ 他们 的世世代代。",
   "tokens": [
     {
       "surface": "ליל",
-      "english": "一个...之夜"
+      "gloss": "一个...之夜"
     },
     {
       "surface": "שמרים",
-      "english": "守望"
+      "gloss": "守望"
     },
     {
       "surface": "הוא",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "ליהוה",
-      "english": "归雅威的"
+      "gloss": "归雅威的"
     },
     {
       "surface": "להוציאם",
-      "english": "因 ⟨他⟩ 将他们带出"
+      "gloss": "因 ⟨他⟩ 将他们带出"
     },
     {
       "surface": "מארץ",
-      "english": "埃及地"
+      "gloss": "埃及地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "הוא",
-      "english": "这一夜 ⟨是⟩"
+      "gloss": "这一夜 ⟨是⟩"
     },
     {
       "surface": "הלילה",
-      "english": "夜"
+      "gloss": "夜"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ליהוה",
-      "english": "归雅威的"
+      "gloss": "归雅威的"
     },
     {
       "surface": "שמרים",
-      "english": "守望,为 ⟨要⟩ 被雅威...遵守"
+      "gloss": "守望,为 ⟨要⟩ 被雅威...遵守"
     },
     {
       "surface": "לכל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "בני",
-      "english": "以色列人"
+      "gloss": "以色列人"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לדרתם",
-      "english": "⟨直到⟩ 他们 的世世代代"
+      "gloss": "⟨直到⟩ 他们 的世世代代"
     }
-  ],
-  "timestamp": "2026-07-21T13:24:26.235816603Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-kings 18:3",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18513,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18891
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:29:13.149752670Z",
   "translation": "他行了雅威眼中看为正的事,照着他父大卫所行的一切⟨他行了⟩。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行了"
+      "gloss": "他行了"
     },
     {
       "surface": "הישר",
-      "english": "正(的事)"
+      "gloss": "正(的事)"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ככל",
-      "english": "照着一切"
+      "gloss": "照着一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "עשה",
-      "english": "行了"
+      "gloss": "行了"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביו",
-      "english": "他父"
+      "gloss": "他父"
     }
-  ],
-  "timestamp": "2026-07-17T21:29:13.149752670Z",
-  "model": "glm-5.2"
+  ]
 }

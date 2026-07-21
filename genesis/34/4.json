@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 34:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23214,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23532
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:11.063890809Z",
   "translation": "示剑对他父亲哈抹说：为我娶⟨את⟩这女子为妻。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שכם",
-      "english": "示剑"
+      "gloss": "示剑"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "חמור",
-      "english": "哈抹"
+      "gloss": "哈抹"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     },
     {
       "surface": "קח",
-      "english": "娶"
+      "gloss": "娶"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这女子"
     },
     {
       "surface": "הילדה",
-      "english": "这女子"
+      "gloss": "这女子"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לאשה",
-      "english": "为妻"
+      "gloss": "为妻"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:11.063890809Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 8:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64288,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64618
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:23.259052248Z",
   "translation": "给指挥者,⟨关于⟩迦特⟨曲调⟩。大卫的诗歌。",
   "tokens": [
     {
       "surface": "לַ\/מְנַצֵּחַ",
-      "english": "给指挥者"
+      "gloss": "给指挥者"
     },
     {
       "surface": "עַל",
-      "english": "⟨关于⟩"
+      "gloss": "⟨关于⟩"
     },
     {
       "surface": "הַ\/גִּתִּית",
-      "english": "迦特⟨曲调⟩"
+      "gloss": "迦特⟨曲调⟩"
     },
     {
       "surface": "מִזְמוֹר",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "לְ\/דָוִיד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:23.259052248Z",
-  "model": "glm-5.2"
+  ]
 }

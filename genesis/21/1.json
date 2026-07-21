@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 21:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23183,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23560
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:02.374846449Z",
   "translation": "雅威眷顾了⟨את⟩撒拉，正如他所说；雅威为撒拉成就了，正如他所*davar*的。",
   "tokens": [
     {
       "surface": "ויהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "פקד",
-      "english": "眷顾了"
+      "gloss": "眷顾了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒拉"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "אמר",
-      "english": "他所说"
+      "gloss": "他所说"
     },
     {
       "surface": "ויעש",
-      "english": "成就了"
+      "gloss": "成就了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לשרה",
-      "english": "为撒拉"
+      "gloss": "为撒拉"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "דבר",
-      "english": "他所 davar 的"
+      "gloss": "他所 davar 的"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:02.374846449Z",
-  "model": "glm-5.2"
+  ]
 }

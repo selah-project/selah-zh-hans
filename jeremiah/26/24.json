@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "jeremiah 26:24",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19683,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20269
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:22:17.000899172Z",
   "translation": "然而亚希甘——沙番的儿子——的手与耶利米同在,⟨为⟩不⟨致⟩将⟨他⟩交在⟨那⟩百姓的手中,以处死⟨他⟩。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "יד",
-      "english": "手"
+      "gloss": "手"
     },
     {
       "surface": "אחיקם",
-      "english": "亚希甘"
+      "gloss": "亚希甘"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "שפן",
-      "english": "沙番"
+      "gloss": "沙番"
     },
     {
       "surface": "היתה",
-      "english": "⟨是⟩与……同在"
+      "gloss": "⟨是⟩与……同在"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶利米"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "לבלתי",
-      "english": "不⟨致⟩"
+      "gloss": "不⟨致⟩"
     },
     {
       "surface": "תת",
-      "english": "给 \/ 交"
+      "gloss": "给 \/ 交"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他 (交在百姓手中)"
     },
     {
       "surface": "ביד",
-      "english": "在……的手中"
+      "gloss": "在……的手中"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "להמיתו",
-      "english": "以处死他"
+      "gloss": "以处死他"
     }
-  ],
-  "timestamp": "2026-07-17T22:22:17.000899172Z",
-  "model": "glm-5.2"
+  ]
 }

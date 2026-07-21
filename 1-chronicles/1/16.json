@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 1:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 236,
-    "prompt_tokens": 58648,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58884
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:00.256010041Z",
   "translation": "and ⟨את⟩ the Arvadite and ⟨את⟩ the Zemarite and ⟨את⟩ the Hamathite",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "and ⟨את⟩",
+      "gloss": "and ⟨את⟩",
       "marks": "the Arvadite"
     },
     {
       "surface": "הארודי",
-      "english": "the Arvadite"
+      "gloss": "the Arvadite"
     },
     {
       "surface": "ואת",
-      "english": "and ⟨את⟩",
+      "gloss": "and ⟨את⟩",
       "marks": "the Zemarite"
     },
     {
       "surface": "הצמרי",
-      "english": "the Zemarite"
+      "gloss": "the Zemarite"
     },
     {
       "surface": "ואת",
-      "english": "and ⟨את⟩",
+      "gloss": "and ⟨את⟩",
       "marks": "the Hamathite"
     },
     {
       "surface": "החמתי",
-      "english": "the Hamathite"
+      "gloss": "the Hamathite"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:00.256010041Z",
-  "model": "glm-4.5"
+  ]
 }

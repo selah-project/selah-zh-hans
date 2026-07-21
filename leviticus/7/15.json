@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "leviticus 7:15",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19472,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19969
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:44.430386260Z",
   "translation": "至于感谢之*shelamím*的⟨את⟩宰祭之肉,在他献上其*korván*的日子⟨要⟩被吃;他不可从中留下什么,直到早晨。",
   "tokens": [
     {
       "surface": "ובשר",
-      "english": "至于……的肉"
+      "gloss": "至于……的肉"
     },
     {
       "surface": "זבח",
-      "english": "宰祭"
+      "gloss": "宰祭"
     },
     {
       "surface": "תודת",
-      "english": "感谢"
+      "gloss": "感谢"
     },
     {
       "surface": "שלמיו",
-      "english": "*shelamím*"
+      "gloss": "*shelamím*"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "קרבנו",
-      "english": "他的 *korván*"
+      "gloss": "他的 *korván*"
     },
     {
       "surface": "יאכל",
-      "english": "⟨要⟩被吃"
+      "gloss": "⟨要⟩被吃"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יניח",
-      "english": "他留下"
+      "gloss": "他留下"
     },
     {
       "surface": "ממנו",
-      "english": "从中（任何东西）"
+      "gloss": "从中（任何东西）"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:44.430386260Z",
-  "model": "glm-5.2"
+  ]
 }

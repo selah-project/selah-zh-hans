@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 123:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 123,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64473,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64821
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:32.542651704Z",
   "translation": "求你向我们施恩,雅威,求你向我们施恩,因为我们饱受 ⟨被⟩ 蔑视。",
   "tokens": [
     {
       "surface": "חננו",
-      "english": "求你向我们施恩"
+      "gloss": "求你向我们施恩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חננו",
-      "english": "求你向我们施恩"
+      "gloss": "求你向我们施恩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רב",
-      "english": "饱"
+      "gloss": "饱"
     },
     {
       "surface": "שבענו",
-      "english": "我们饱受"
+      "gloss": "我们饱受"
     },
     {
       "surface": "בוז",
-      "english": "蔑视"
+      "gloss": "蔑视"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:32.542651704Z",
-  "model": "glm-5.2"
+  ]
 }

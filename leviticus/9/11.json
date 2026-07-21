@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 9:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19029,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19333
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:37.988126490Z",
   "translation": "⟨את⟩ 肉和 ⟨את⟩ 皮，他在营外用火烧了。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "肉"
     },
     {
       "surface": "הבשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "皮"
     },
     {
       "surface": "העור",
-      "english": "皮"
+      "gloss": "皮"
     },
     {
       "surface": "שרף",
-      "english": "烧了"
+      "gloss": "烧了"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     },
     {
       "surface": "מחוץ",
-      "english": "在……外"
+      "gloss": "在……外"
     },
     {
       "surface": "למחנה",
-      "english": "营"
+      "gloss": "营"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:37.988126490Z",
-  "model": "glm-5.2"
+  ]
 }

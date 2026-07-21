@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 72:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64187,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64489
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:09.530276040Z",
   "translation": "大卫 ⟨的⟩ 祈祷 ⟨结束 ⟩了，耶西 ⟨的⟩ 子大卫。",
   "tokens": [
     {
       "surface": "כלו",
-      "english": "⟨结束 ⟩了"
+      "gloss": "⟨结束 ⟩了"
     },
     {
       "surface": "תפלות",
-      "english": "祈祷"
+      "gloss": "祈祷"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "ישי",
-      "english": "耶西"
+      "gloss": "耶西"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:09.530276040Z",
-  "model": "glm-5.2"
+  ]
 }

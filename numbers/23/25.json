@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "numbers 23:25",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19986,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20472
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:17:26.879274410Z",
   "translation": "巴勒对巴兰说：既不咒诅 ⟨他们⟩，也不祝福 ⟨他们⟩！",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "בלק",
-      "english": "巴勒"
+      "gloss": "巴勒"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בלעם",
-      "english": "巴兰"
+      "gloss": "巴兰"
     },
     {
       "surface": "גם",
-      "english": "既不"
+      "gloss": "既不"
     },
     {
       "surface": "קב",
-      "english": "咒诅"
+      "gloss": "咒诅"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תקבנו",
-      "english": "你咒诅他们"
+      "gloss": "你咒诅他们"
     },
     {
       "surface": "גם",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "ברך",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תברכנו",
-      "english": "你祝福他们"
+      "gloss": "你祝福他们"
     }
-  ],
-  "timestamp": "2026-07-17T19:17:26.879274410Z",
-  "model": "glm-5.2"
+  ]
 }

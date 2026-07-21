@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 29:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19087,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19704
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:30:40.050452032Z",
   "translation": "你要把它们放在一个篮子里,用篮子把它们献近,⟨את⟩⟨那⟩公牛和⟨את⟩两只公绵羊 ⟨也⟩⟨要献近⟩。",
   "tokens": [
     {
       "surface": "וְ\/נָתַתָּ",
-      "english": "你要放"
+      "gloss": "你要放"
     },
     {
       "surface": "אוֹתָ\/ם",
-      "english": "⟨את⟩它们",
+      "gloss": "⟨את⟩它们",
       "marks": "它们（前述的饼）"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "סַל",
-      "english": "篮子"
+      "gloss": "篮子"
     },
     {
       "surface": "אֶחָד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "וְ\/הִקְרַבְתָּ",
-      "english": "你要献近"
+      "gloss": "你要献近"
     },
     {
       "surface": "אֹתָ\/ם",
-      "english": "⟨את⟩它们",
+      "gloss": "⟨את⟩它们",
       "marks": "它们（前述的饼）"
     },
     {
       "surface": "בַּ\/סָּל",
-      "english": "在篮子里"
+      "gloss": "在篮子里"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "公牛"
     },
     {
       "surface": "הַ\/פָּר",
-      "english": "⟨那⟩公牛"
+      "gloss": "⟨那⟩公牛"
     },
     {
       "surface": "וְ\/אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "两只公绵羊"
     },
     {
       "surface": "שְׁנֵי",
-      "english": "两只"
+      "gloss": "两只"
     },
     {
       "surface": "הָ\/אֵילִם",
-      "english": "公绵羊"
+      "gloss": "公绵羊"
     }
-  ],
-  "timestamp": "2026-07-17T18:30:40.050452032Z",
-  "model": "glm-5.2"
+  ]
 }

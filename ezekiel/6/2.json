@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ezekiel 6:2",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19015,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19444
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:22:35.598489248Z",
   "translation": "人子啊,将你的脸转向以色列的群山,你要向它们说预言。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "人子("
+      "gloss": "人子("
     },
     {
       "surface": "אדם",
-      "english": "人子)啊"
+      "gloss": "人子)啊"
     },
     {
       "surface": "שים",
-      "english": "将……转向"
+      "gloss": "将……转向"
     },
     {
       "surface": "פניך",
-      "english": "你的脸"
+      "gloss": "你的脸"
     },
     {
       "surface": "אל",
-      "english": "朝向"
+      "gloss": "朝向"
     },
     {
       "surface": "הרי",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "והנבא",
-      "english": "你要说预言"
+      "gloss": "你要说预言"
     },
     {
       "surface": "אליהם",
-      "english": "向它们"
+      "gloss": "向它们"
     }
-  ],
-  "timestamp": "2026-07-18T03:22:35.598489248Z",
-  "model": "glm-5.2"
+  ]
 }

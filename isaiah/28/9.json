@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 28:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 669,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21148,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21817
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:58:52.315686946Z",
   "translation": "⟨את⟩-谁，他要传授知识？⟨את⟩-谁，他要使他明白所听闻的？⟨是⟩从母乳中断奶的，⟨是⟩从胸怀被移开的。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谁"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יורה",
-      "english": "他要传授"
+      "gloss": "他要传授"
     },
     {
       "surface": "דעה",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谁"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יבין",
-      "english": "他要使他明白"
+      "gloss": "他要使他明白"
     },
     {
       "surface": "שמועה",
-      "english": "所听闻的"
+      "gloss": "所听闻的"
     },
     {
       "surface": "גמולי",
-      "english": "断奶的"
+      "gloss": "断奶的"
     },
     {
       "surface": "מחלב",
-      "english": "从母乳中"
+      "gloss": "从母乳中"
     },
     {
       "surface": "עתיקי",
-      "english": "被移开的"
+      "gloss": "被移开的"
     },
     {
       "surface": "משדים",
-      "english": "从胸怀"
+      "gloss": "从胸怀"
     }
-  ],
-  "timestamp": "2026-07-20T06:58:52.315686946Z",
-  "model": "glm-5.2"
+  ]
 }

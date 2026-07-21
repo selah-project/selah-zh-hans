@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 69:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64632,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65032
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:10.404778234Z",
   "translation": "因为雅威垂听困苦人,⟨את⟩他的囚徒他不藐视。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמע",
-      "english": "垂听"
+      "gloss": "垂听"
     },
     {
       "surface": "אל",
-      "english": "向着"
+      "gloss": "向着"
     },
     {
       "surface": "אביונים",
-      "english": "困苦人"
+      "gloss": "困苦人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的囚徒"
     },
     {
       "surface": "אסיריו",
-      "english": "他的囚徒"
+      "gloss": "他的囚徒"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "בזה",
-      "english": "藐视"
+      "gloss": "藐视"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:10.404778234Z",
-  "model": "glm-5.2"
+  ]
 }

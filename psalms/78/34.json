@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 78:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64292,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64640
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:53.824509427Z",
   "translation": "⟨若⟩他击杀他们，他们就寻求他，他们也回转，切切地寻求以罗欣。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "⟨若⟩"
+      "gloss": "⟨若⟩"
     },
     {
       "surface": "הרגם",
-      "english": "他击杀他们"
+      "gloss": "他击杀他们"
     },
     {
       "surface": "ודרשוהו",
-      "english": "他们就寻求他"
+      "gloss": "他们就寻求他"
     },
     {
       "surface": "ושבו",
-      "english": "他们也回转"
+      "gloss": "他们也回转"
     },
     {
       "surface": "ושחרו",
-      "english": "切切地寻求"
+      "gloss": "切切地寻求"
     },
     {
       "surface": "אל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:53.824509427Z",
-  "model": "glm-5.2"
+  ]
 }

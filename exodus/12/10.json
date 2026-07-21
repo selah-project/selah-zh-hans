@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 12:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18774,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19188
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:38.774433530Z",
   "translation": "你们不可让⟨其中⟩任何一部分留到早晨；其中遗留到早晨的残留物，你们要用火焚烧。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "你们不可"
+      "gloss": "你们不可"
     },
     {
       "surface": "תותירו",
-      "english": "让……留"
+      "gloss": "让……留"
     },
     {
       "surface": "ממנו",
-      "english": "⟨其中⟩任何一部分"
+      "gloss": "⟨其中⟩任何一部分"
     },
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "והנתר",
-      "english": "其中遗留的残留物"
+      "gloss": "其中遗留的残留物"
     },
     {
       "surface": "ממנו",
-      "english": "其中"
+      "gloss": "其中"
     },
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     },
     {
       "surface": "תשרפו",
-      "english": "你们要焚烧"
+      "gloss": "你们要焚烧"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:38.774433530Z",
-  "model": "glm-5.2"
+  ]
 }

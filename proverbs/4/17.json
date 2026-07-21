@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 4:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54359,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54664
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:19.211143238Z",
   "translation": "因为他们以恶为饼吃下，强暴之酒他们饮用。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לחמו",
-      "english": "他们以……为饼吃下"
+      "gloss": "他们以……为饼吃下"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "רשע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "ושתו",
-      "english": "他们饮用了"
+      "gloss": "他们饮用了"
     },
     {
       "surface": "חמסים",
-      "english": "强暴的"
+      "gloss": "强暴的"
     },
     {
       "surface": "יין",
-      "english": "酒"
+      "gloss": "酒"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:19.211143238Z",
-  "model": "glm-5.2"
+  ]
 }

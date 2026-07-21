@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 81:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64149,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64478
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:12.117085644Z",
   "translation": "给⟨那⟩指挥者,⟨伴奏⟩用吉他特,属⟨于⟩亚萨。",
   "tokens": [
     {
       "surface": "לַ\/מְנַצֵּ֬חַ",
-      "english": "给⟨那⟩指挥者"
+      "gloss": "给⟨那⟩指挥者"
     },
     {
       "surface": "עַֽל",
-      "english": "⟨伴奏⟩用"
+      "gloss": "⟨伴奏⟩用"
     },
     {
       "surface": "הַ\/גִּתִּ֬ית",
-      "english": "吉他特"
+      "gloss": "吉他特"
     },
     {
       "surface": "לְ\/אָסָֽף",
-      "english": "属⟨于⟩亚萨"
+      "gloss": "属⟨于⟩亚萨"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:12.117085644Z",
-  "model": "glm-5.2"
+  ]
 }

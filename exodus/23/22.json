@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 23:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 821,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19352,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20173
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:26:16.988323771Z",
   "translation": "因为 ⟨若⟩ 你确实听从他的声音,并做我所吩咐的一切,我就必作 ⟨את⟩ 你仇敌的仇敌,也必攻击 ⟨את⟩ 恨恶你的人。",
   "tokens": [
     {
       "surface": "כִּ֣י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אִם",
-      "english": "⟨若⟩"
+      "gloss": "⟨若⟩"
     },
     {
       "surface": "שָׁמֹ֤עַ",
-      "english": "确实"
+      "gloss": "确实"
     },
     {
       "surface": "תִּשְׁמַע֙",
-      "english": "听从"
+      "gloss": "听从"
     },
     {
       "surface": "בְּ\/קֹל֔\/וֹ",
-      "english": "他的声音"
+      "gloss": "他的声音"
     },
     {
       "surface": "וְ\/עָשִׂ֕יתָ",
-      "english": "并做"
+      "gloss": "并做"
     },
     {
       "surface": "כֹּ֖ל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "אֲדַבֵּ֑ר",
-      "english": "我吩咐"
+      "gloss": "我吩咐"
     },
     {
       "surface": "וְ\/אָֽיַבְתִּי֙",
-      "english": "我就必作……仇敌"
+      "gloss": "我就必作……仇敌"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你仇敌"
     },
     {
       "surface": "אֹ֣יְבֶ֔י\/ךָ",
-      "english": "你的仇敌"
+      "gloss": "你的仇敌"
     },
     {
       "surface": "וְ\/צַרְתִּ֖י",
-      "english": "也必攻击"
+      "gloss": "也必攻击"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "恨恶你的人"
     },
     {
       "surface": "צֹרְרֶֽי\/ךָ",
-      "english": "恨恶你的人"
+      "gloss": "恨恶你的人"
     }
-  ],
-  "timestamp": "2026-07-17T18:26:16.988323771Z",
-  "model": "glm-5.2"
+  ]
 }

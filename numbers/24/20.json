@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "numbers 24:20",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20203,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20753
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:45:03.396783582Z",
   "translation": "他看见了⟨את⟩亚玛力，就举起他的箴言，说：列国之首是亚玛力，但⟨他⟩的终局——⟨直达⟩灭亡。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "他看见了"
+      "gloss": "他看见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚玛力"
     },
     {
       "surface": "עמלק",
-      "english": "亚玛力"
+      "gloss": "亚玛力"
     },
     {
       "surface": "וישא",
-      "english": "就举起"
+      "gloss": "就举起"
     },
     {
       "surface": "משלו",
-      "english": "他的箴言"
+      "gloss": "他的箴言"
     },
     {
       "surface": "ויאמר",
-      "english": "说："
+      "gloss": "说："
     },
     {
       "surface": "ראשית",
-      "english": "之首"
+      "gloss": "之首"
     },
     {
       "surface": "גוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "עמלק",
-      "english": "亚玛力"
+      "gloss": "亚玛力"
     },
     {
       "surface": "ואחריתו",
-      "english": "但⟨他⟩的终局"
+      "gloss": "但⟨他⟩的终局"
     },
     {
       "surface": "עדי",
-      "english": "⟨直达⟩"
+      "gloss": "⟨直达⟩"
     },
     {
       "surface": "אבד",
-      "english": "灭亡"
+      "gloss": "灭亡"
     }
-  ],
-  "timestamp": "2026-07-18T02:45:03.396783582Z",
-  "model": "glm-5.2"
+  ]
 }

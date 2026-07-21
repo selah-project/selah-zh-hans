@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 16:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18655,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19114
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:56.365367472Z",
   "translation": "以色列子民的全會眾在曠野中向摩西和⟨向⟩亞倫發怨言。",
   "tokens": [
     {
       "surface": "וילינו",
-      "english": "發怨言"
+      "gloss": "發怨言"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "עדת",
-      "english": "會眾"
+      "gloss": "會眾"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "על",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ועל",
-      "english": "和⟨向⟩"
+      "gloss": "和⟨向⟩"
     },
     {
       "surface": "אהרן",
-      "english": "亞倫"
+      "gloss": "亞倫"
     },
     {
       "surface": "במדבר",
-      "english": "在曠野中"
+      "gloss": "在曠野中"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:56.365367472Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "1-kings 10:23",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63851,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64236
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:05:18.088884968Z",
   "translation": "所罗门王在财富和 חָכְמָה (*jojmá*) 上超越了地上的 ⟨一切⟩ 王。",
   "tokens": [
     {
       "surface": "ויגדל",
-      "english": "超越了"
+      "gloss": "超越了"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "מכל",
-      "english": "⟨一切⟩"
+      "gloss": "⟨一切⟩"
     },
     {
       "surface": "מלכי",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "הארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "לעשר",
-      "english": "在财富"
+      "gloss": "在财富"
     },
     {
       "surface": "ולחכמה",
-      "english": "和 חָכְמָה (*jojmá*) 上"
+      "gloss": "和 חָכְמָה (*jojmá*) 上"
     }
-  ],
-  "timestamp": "2026-07-17T21:05:18.088884968Z",
-  "model": "glm-5.2"
+  ]
 }

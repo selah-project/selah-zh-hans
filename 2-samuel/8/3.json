@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-samuel 8:3",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19316,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19809
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:44:16.786390570Z",
   "translation": "大卫击打⟨את⟩哈大底谢——利合的儿子、琐巴王——在他前往将自己的手恢复到河⟨边⟩之时。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈大底谢"
     },
     {
       "surface": "הדדעזר",
-      "english": "哈大底谢"
+      "gloss": "哈大底谢"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "רחב",
-      "english": "利合"
+      "gloss": "利合"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "צובה",
-      "english": "琐巴"
+      "gloss": "琐巴"
     },
     {
       "surface": "בלכתו",
-      "english": "在他前往之时"
+      "gloss": "在他前往之时"
     },
     {
       "surface": "להשיב",
-      "english": "恢复"
+      "gloss": "恢复"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "בנהר",
-      "english": "到河"
+      "gloss": "到河"
     }
-  ],
-  "timestamp": "2026-07-17T20:44:16.786390570Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "isaiah 40:14",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21212,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21787
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:17.073078082Z",
   "translation": "⟨את⟩ 谁 他与谁商议？⟨他⟩使他明白，⟨他⟩⟨在⟩公义的道路上教导他？⟨他⟩教导他知识，⟨并⟩使他认识明白的道路？",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谁"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "נועץ",
-      "english": "他与谁商议"
+      "gloss": "他与谁商议"
     },
     {
       "surface": "ויבינהו",
-      "english": "⟨他⟩使他明白"
+      "gloss": "⟨他⟩使他明白"
     },
     {
       "surface": "וילמדהו",
-      "english": "⟨他⟩……教导他"
+      "gloss": "⟨他⟩……教导他"
     },
     {
       "surface": "בארח",
-      "english": "⟨在⟩……的道路上"
+      "gloss": "⟨在⟩……的道路上"
     },
     {
       "surface": "משפט",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "וילמדהו",
-      "english": "⟨他⟩教导他"
+      "gloss": "⟨他⟩教导他"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "ודרך",
-      "english": "⟨并⟩……的道路"
+      "gloss": "⟨并⟩……的道路"
     },
     {
       "surface": "תבונות",
-      "english": "明白"
+      "gloss": "明白"
     },
     {
       "surface": "יודיענו",
-      "english": "使他认识"
+      "gloss": "使他认识"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:17.073078082Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "1-chronicles 6:25",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58454,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58732
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:55:07.940866049Z",
   "translation": "米迦勒的儿子，巴阿西雅的儿子，玛基雅的儿子。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "מיכאל",
-      "english": "米迦勒"
+      "gloss": "米迦勒"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "בעשיה",
-      "english": "巴阿西雅"
+      "gloss": "巴阿西雅"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "מלכיה",
-      "english": "玛基雅"
+      "gloss": "玛基雅"
     }
-  ],
-  "timestamp": "2026-07-18T01:55:07.940866049Z",
-  "model": "glm-5.2"
+  ]
 }

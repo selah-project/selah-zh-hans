@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "numbers 3:1",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19891,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20524
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:00.017614010Z",
   "translation": "以下⟨是⟩אַהֲרֹן（亚伦）和מֹשֶׁה（摩西）的家系：在雅威与מֹשֶׁה（摩西）说话的日子，在西奈山，雅威⟨对⟩מֹשֶׁה（摩西）⟨说话⟩。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "以下"
+      "gloss": "以下"
     },
     {
       "surface": "תולדת",
-      "english": "家系"
+      "gloss": "家系"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ומשה",
-      "english": "和摩西"
+      "gloss": "和摩西"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "בהר",
-      "english": "在……山"
+      "gloss": "在……山"
     },
     {
       "surface": "סיני",
-      "english": "西奈"
+      "gloss": "西奈"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:00.017614010Z",
-  "model": "glm-5.2"
+  ]
 }

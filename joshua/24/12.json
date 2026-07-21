@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "joshua 24:12",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18720,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19268
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:05:36.185744942Z",
   "translation": "我派遣 ⟨הצרעה⟩（大黄蜂）在你们前面飞去，它将他们——即亚摩利人的两个王——从你们面前赶走；不是用你的刀，也不是用你的弓。",
   "tokens": [
     {
       "surface": "ואשלח",
-      "english": "我派遣"
+      "gloss": "我派遣"
     },
     {
       "surface": "לפניכם",
-      "english": "在你们前面"
+      "gloss": "在你们前面"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הצרעה（大黄蜂）"
     },
     {
       "surface": "הצרעה",
-      "english": "那大黄蜂"
+      "gloss": "那大黄蜂"
     },
     {
       "surface": "ותגרש",
-      "english": "它将……赶走"
+      "gloss": "它将……赶走"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩他们",
+      "gloss": "⟨את⟩他们",
       "marks": "שני מלכי האמרי（亚摩利人的两个王）"
     },
     {
       "surface": "מפניכם",
-      "english": "从你们面前"
+      "gloss": "从你们面前"
     },
     {
       "surface": "שני",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "מלכי",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "האמרי",
-      "english": "那亚摩利人"
+      "gloss": "那亚摩利人"
     },
     {
       "surface": "לא",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "בחרבך",
-      "english": "用你的刀"
+      "gloss": "用你的刀"
     },
     {
       "surface": "ולא",
-      "english": "也不是"
+      "gloss": "也不是"
     },
     {
       "surface": "בקשתך",
-      "english": "用你的弓"
+      "gloss": "用你的弓"
     }
-  ],
-  "timestamp": "2026-07-17T20:05:36.185744942Z",
-  "model": "glm-5.2"
+  ]
 }

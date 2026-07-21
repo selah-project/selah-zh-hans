@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 36:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21496,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21844
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:42.530876927Z",
   "translation": "我要将我的知识提到远方,⟨对⟩我行为的⟨那一位⟩我要赐下公义。",
   "tokens": [
     {
       "surface": "אשא",
-      "english": "我要提起"
+      "gloss": "我要提起"
     },
     {
       "surface": "דעי",
-      "english": "我的知识"
+      "gloss": "我的知识"
     },
     {
       "surface": "למרחוק",
-      "english": "到\/从远方"
+      "gloss": "到\/从远方"
     },
     {
       "surface": "ולפעלי",
-      "english": "⟨对⟩我行为的⟨那一位⟩"
+      "gloss": "⟨对⟩我行为的⟨那一位⟩"
     },
     {
       "surface": "אתן",
-      "english": "我要赐下"
+      "gloss": "我要赐下"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:42.530876927Z",
-  "model": "glm-5.2"
+  ]
 }

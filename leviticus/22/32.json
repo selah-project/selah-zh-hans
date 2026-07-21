@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "leviticus 22:32",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19589,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20131
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:43.393587785Z",
   "translation": "你们不可亵渎⟨את⟩我圣的名;我必在以色列子民中间被尊为圣;我是雅威——使你们成圣的那一位。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "你们不可"
+      "gloss": "你们不可"
     },
     {
       "surface": "תחללו",
-      "english": "亵渎"
+      "gloss": "亵渎"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我圣的名"
     },
     {
       "surface": "שם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "קדשי",
-      "english": "我圣的"
+      "gloss": "我圣的"
     },
     {
       "surface": "ונקדשתי",
-      "english": "我必被尊为圣"
+      "gloss": "我必被尊为圣"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מקדשכם",
-      "english": "使你们成圣的那一位"
+      "gloss": "使你们成圣的那一位"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:43.393587785Z",
-  "model": "glm-5.2"
+  ]
 }

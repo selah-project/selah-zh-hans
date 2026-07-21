@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "2-kings 10:12",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18533,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19004
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:24:01.449925537Z",
   "translation": "他⟨就⟩起来，⟨他⟩来，⟨他⟩往撒玛利亚去。他⟨正⟩在牧人的剪羊毛之屋，在路上。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "他⟨就⟩起来"
+      "gloss": "他⟨就⟩起来"
     },
     {
       "surface": "ויבא",
-      "english": "⟨他⟩来"
+      "gloss": "⟨他⟩来"
     },
     {
       "surface": "וילך",
-      "english": "⟨他⟩往……去"
+      "gloss": "⟨他⟩往……去"
     },
     {
       "surface": "שמרון",
-      "english": "撒玛利亚"
+      "gloss": "撒玛利亚"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בית",
-      "english": "屋"
+      "gloss": "屋"
     },
     {
       "surface": "עקד",
-      "english": "剪羊毛"
+      "gloss": "剪羊毛"
     },
     {
       "surface": "הרעים",
-      "english": "牧人的"
+      "gloss": "牧人的"
     },
     {
       "surface": "בדרך",
-      "english": "在路上"
+      "gloss": "在路上"
     }
-  ],
-  "timestamp": "2026-07-17T21:24:01.449925537Z",
-  "model": "glm-5.2"
+  ]
 }

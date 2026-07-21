@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 22:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21625,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22124
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:03.301872157Z",
   "translation": "人能⟨对⟩以罗欣有用吗？聪明人能⟨对⟩自己有用吗？",
   "tokens": [
     {
       "surface": "הלאל",
-      "english": "⟨对⟩以罗欣"
+      "gloss": "⟨对⟩以罗欣"
     },
     {
       "surface": "יסכן",
-      "english": "⟨能⟩有用吗"
+      "gloss": "⟨能⟩有用吗"
     },
     {
       "surface": "גבר",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "כי",
-      "english": "⟨反问⟩"
+      "gloss": "⟨反问⟩"
     },
     {
       "surface": "יסכן",
-      "english": "⟨能⟩有用吗"
+      "gloss": "⟨能⟩有用吗"
     },
     {
       "surface": "עלימו",
-      "english": "⟨对⟩自己"
+      "gloss": "⟨对⟩自己"
     },
     {
       "surface": "משכיל",
-      "english": "聪明人"
+      "gloss": "聪明人"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:03.301872157Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-chronicles 2:30",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58587,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58875
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:52:13.735152735Z",
   "translation": "拿达布的儿子们:塞勒德和阿帕音;塞勒德死了,没有儿子们。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……的儿子们:"
+      "gloss": "……的儿子们:"
     },
     {
       "surface": "נדב",
-      "english": "拿达布"
+      "gloss": "拿达布"
     },
     {
       "surface": "סלד",
-      "english": "塞勒德"
+      "gloss": "塞勒德"
     },
     {
       "surface": "ואפים",
-      "english": "和阿帕音"
+      "gloss": "和阿帕音"
     },
     {
       "surface": "וימת",
-      "english": "……死了,"
+      "gloss": "……死了,"
     },
     {
       "surface": "סלד",
-      "english": "塞勒德"
+      "gloss": "塞勒德"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בנים",
-      "english": "儿子们"
+      "gloss": "儿子们"
     }
-  ],
-  "timestamp": "2026-07-18T01:52:13.735152735Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "job 30:31",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21425,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21784
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:39.697899444Z",
   "translation": "我的琴 ⟨已变⟩ 为哀悼，我的管 ⟨⟨变⟩⟩ 为哭泣之声。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨已变⟩"
+      "gloss": "⟨已变⟩"
     },
     {
       "surface": "לאבל",
-      "english": "为哀悼"
+      "gloss": "为哀悼"
     },
     {
       "surface": "כנרי",
-      "english": "我的琴"
+      "gloss": "我的琴"
     },
     {
       "surface": "ועגבי",
-      "english": "我的管"
+      "gloss": "我的管"
     },
     {
       "surface": "לקול",
-      "english": "为……之声"
+      "gloss": "为……之声"
     },
     {
       "surface": "בכים",
-      "english": "哭泣"
+      "gloss": "哭泣"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:39.697899444Z",
-  "model": "glm-5.2"
+  ]
 }

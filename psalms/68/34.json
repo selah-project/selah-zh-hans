@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 68:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64585,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64992
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:28.375018009Z",
   "translation": "致⟨那⟩骑乘于远古诸天之上的⟨那一位⟩；看哪，他发出他的声音，大能的声音。",
   "tokens": [
     {
       "surface": "לרכב",
-      "english": "致⟨那⟩骑乘者"
+      "gloss": "致⟨那⟩骑乘者"
     },
     {
       "surface": "בשמי",
-      "english": "于⟨诸⟩天之上"
+      "gloss": "于⟨诸⟩天之上"
     },
     {
       "surface": "שמי",
-      "english": "⟨诸⟩天"
+      "gloss": "⟨诸⟩天"
     },
     {
       "surface": "קדם",
-      "english": "远古"
+      "gloss": "远古"
     },
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יתן",
-      "english": "他发出"
+      "gloss": "他发出"
     },
     {
       "surface": "בקולו",
-      "english": "他的声音"
+      "gloss": "他的声音"
     },
     {
       "surface": "קול",
-      "english": "⟨一⟩道声音"
+      "gloss": "⟨一⟩道声音"
     },
     {
       "surface": "עז",
-      "english": "大能的"
+      "gloss": "大能的"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:28.375018009Z",
-  "model": "glm-5.2"
+  ]
 }

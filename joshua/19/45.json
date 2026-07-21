@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "joshua 19:45",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17563,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17843
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:02:27.592184421Z",
   "translation": "又 יהוד、בְּנֵי־比尼比拉、和 迦特，",
   "tokens": [
     {
       "surface": "ויהד",
-      "english": "又 יהוד"
+      "gloss": "又 יהוד"
     },
     {
       "surface": "ובני",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "ברק",
-      "english": "比尼比拉"
+      "gloss": "比尼比拉"
     },
     {
       "surface": "וגת",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "רמון",
-      "english": "迦特"
+      "gloss": "迦特"
     }
-  ],
-  "timestamp": "2026-07-17T20:02:27.592184421Z",
-  "model": "glm-5.2"
+  ]
 }

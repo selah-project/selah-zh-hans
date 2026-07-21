@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "numbers 10:36",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19570,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20068
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:08:12.999921471Z",
   "translation": "当⟨它⟩停歇时，他⟨就⟩说：雅威啊，归来吧，⟨回归⟩以色列成万的千千万万！",
   "tokens": [
     {
       "surface": "ובנחה",
-      "english": "当⟨它⟩停歇时"
+      "gloss": "当⟨它⟩停歇时"
     },
     {
       "surface": "יאמר",
-      "english": "他⟨就⟩说"
+      "gloss": "他⟨就⟩说"
     },
     {
       "surface": "שובה",
-      "english": "归来吧"
+      "gloss": "归来吧"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "רבבות",
-      "english": "成万的"
+      "gloss": "成万的"
     },
     {
       "surface": "אלפי",
-      "english": "千千万万"
+      "gloss": "千千万万"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T19:08:12.999921471Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 49:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64534,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64967
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:07.164033878Z",
   "translation": "他将前往⟨他⟩祖宗的世代;直到永远,他们将不看⟨את⟩光。",
   "tokens": [
     {
       "surface": "תבוא",
-      "english": "他将前往"
+      "gloss": "他将前往"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "דור",
-      "english": "⟨的⟩世代"
+      "gloss": "⟨的⟩世代"
     },
     {
       "surface": "אבותיו",
-      "english": "他祖宗"
+      "gloss": "他祖宗"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "נצח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יראו",
-      "english": "他们将看"
+      "gloss": "他们将看"
     },
     {
       "surface": "אור",
-      "english": "⟨את⟩光"
+      "gloss": "⟨את⟩光"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:07.164033878Z",
-  "model": "glm-5.2"
+  ]
 }

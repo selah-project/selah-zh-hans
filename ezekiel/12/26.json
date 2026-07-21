@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "ezekiel 12:26",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18605,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18890
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:45:59.535399113Z",
   "translation": "雅威的*davar* ⟨临到⟩ 我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨临到⟩"
+      "gloss": "⟨临到⟩"
     },
     {
       "surface": "דבר",
-      "english": "雅威的*davar*"
+      "gloss": "雅威的*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:45:59.535399113Z",
-  "model": "glm-5.2"
+  ]
 }

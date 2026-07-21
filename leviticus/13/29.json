@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "leviticus 13:29",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19130,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19535
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:05.126230052Z",
   "translation": "若一个男人或女人 ⟨身上⟩ 出现 נֶגַע (感染),在头上或在胡须上,",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "若一个男人"
+      "gloss": "若一个男人"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "אשה",
-      "english": "女人"
+      "gloss": "女人"
     },
     {
       "surface": "כי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יהיה",
-      "english": "出现"
+      "gloss": "出现"
     },
     {
       "surface": "בו",
-      "english": "⟨在他身上⟩"
+      "gloss": "⟨在他身上⟩"
     },
     {
       "surface": "נגע",
-      "english": "נֶגַע (感染)"
+      "gloss": "נֶגַע (感染)"
     },
     {
       "surface": "בראש",
-      "english": "在头上"
+      "gloss": "在头上"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "בזקן",
-      "english": "在胡须上"
+      "gloss": "在胡须上"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:05.126230052Z",
-  "model": "glm-5.2"
+  ]
 }

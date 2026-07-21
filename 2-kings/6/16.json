@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "2-kings 6:16",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18627,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19026
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:21:11.827912212Z",
   "translation": "他⟨他⟩说：不要怕！因为与我们同在的，比与他们同在的更多。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他⟨他⟩说："
+      "gloss": "他⟨他⟩说："
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תירא",
-      "english": "怕！"
+      "gloss": "怕！"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רבים",
-      "english": "更多"
+      "gloss": "更多"
     },
     {
       "surface": "אשר",
-      "english": "〔那〕"
+      "gloss": "〔那〕"
     },
     {
       "surface": "אתנו",
-      "english": "与我们同在的"
+      "gloss": "与我们同在的"
     },
     {
       "surface": "מאשר",
-      "english": "比〔那〕"
+      "gloss": "比〔那〕"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩他们"
+      "gloss": "⟨את⟩他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:21:11.827912212Z",
-  "model": "glm-5.2"
+  ]
 }

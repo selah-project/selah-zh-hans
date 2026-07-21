@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "leviticus 21:22",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18968,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19446
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:56.974374368Z",
   "translation": "他 ⟨可以⟩ 吃 ⟨他的⟩ 神的食物——至圣的礼物,以及圣的礼物。",
   "tokens": [
     {
       "surface": "לחם",
-      "english": "食物"
+      "gloss": "食物"
     },
     {
       "surface": "אלהיו",
-      "english": "他的以罗欣的"
+      "gloss": "他的以罗欣的"
     },
     {
       "surface": "מקדשי",
-      "english": "至圣的礼物"
+      "gloss": "至圣的礼物"
     },
     {
       "surface": "הקדשים",
-      "english": "圣的礼物"
+      "gloss": "圣的礼物"
     },
     {
       "surface": "ומן",
-      "english": "以及从……"
+      "gloss": "以及从……"
     },
     {
       "surface": "הקדשים",
-      "english": "圣的礼物"
+      "gloss": "圣的礼物"
     },
     {
       "surface": "יאכל",
-      "english": "他 ⟨可以⟩ 吃"
+      "gloss": "他 ⟨可以⟩ 吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:56.974374368Z",
-  "model": "glm-5.2"
+  ]
 }

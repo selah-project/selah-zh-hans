@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-chronicles 6:15",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58530,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58779
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:55:25.338138528Z",
   "translation": "示玛,⟨他的⟩子;哈吉雅,⟨他的⟩子;亚撒雅,⟨他的⟩子。",
   "tokens": [
     {
       "surface": "שמעא",
-      "english": "示玛"
+      "gloss": "示玛"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     },
     {
       "surface": "חגיה",
-      "english": "哈吉雅"
+      "gloss": "哈吉雅"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     },
     {
       "surface": "עשיה",
-      "english": "亚撒雅"
+      "gloss": "亚撒雅"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     }
-  ],
-  "timestamp": "2026-07-18T01:55:25.338138528Z",
-  "model": "glm-5.2"
+  ]
 }

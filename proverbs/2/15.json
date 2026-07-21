@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 2:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54275,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54621
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:16.451505480Z",
   "translation": "他们的道路弯曲，他们在自己的轨迹中偏邪；",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "ארחתיהם",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "עקשים",
-      "english": "弯曲"
+      "gloss": "弯曲"
     },
     {
       "surface": "ונלוזים",
-      "english": "他们偏邪"
+      "gloss": "他们偏邪"
     },
     {
       "surface": "במעגלותם",
-      "english": "在自己的轨迹中"
+      "gloss": "在自己的轨迹中"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:16.451505480Z",
-  "model": "glm-5.2"
+  ]
 }

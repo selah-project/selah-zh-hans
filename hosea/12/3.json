@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "hosea 12:3",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21348,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21979
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:16:15.025963239Z",
   "translation": "雅威⟨对⟩犹大也有争讼,⟨他⟩必探访雅各,照他的道路,照他的行为归还给他。",
   "tokens": [
     {
       "surface": "וריב",
-      "english": "也有争讼"
+      "gloss": "也有争讼"
     },
     {
       "surface": "ליהוה",
-      "english": "对雅威"
+      "gloss": "对雅威"
     },
     {
       "surface": "עם",
-      "english": "⟨对⟩"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ולפקד",
-      "english": "⟨他⟩必探访"
+      "gloss": "⟨他⟩必探访"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……之上"
+      "gloss": "⟨在⟩……之上"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "כדרכיו",
-      "english": "照他的道路"
+      "gloss": "照他的道路"
     },
     {
       "surface": "כמעלליו",
-      "english": "照他的行为"
+      "gloss": "照他的行为"
     },
     {
       "surface": "ישיב",
-      "english": "归还"
+      "gloss": "归还"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     }
-  ],
-  "timestamp": "2026-07-17T23:16:15.025963239Z",
-  "model": "glm-5.2"
+  ]
 }

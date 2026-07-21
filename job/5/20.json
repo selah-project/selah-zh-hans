@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 5:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21471,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21878
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:54.953479904Z",
   "translation": "在饥荒中，⟨他⟩必赎你脱离死亡；在战争中，脱离刀剑的手。",
   "tokens": [
     {
       "surface": "ברעב",
-      "english": "在饥荒中"
+      "gloss": "在饥荒中"
     },
     {
       "surface": "פדך",
-      "english": "必赎你"
+      "gloss": "必赎你"
     },
     {
       "surface": "ממות",
-      "english": "脱离死亡"
+      "gloss": "脱离死亡"
     },
     {
       "surface": "ובמלחמה",
-      "english": "在战争中"
+      "gloss": "在战争中"
     },
     {
       "surface": "מידי",
-      "english": "脱离……的手"
+      "gloss": "脱离……的手"
     },
     {
       "surface": "חרב",
-      "english": "刀剑"
+      "gloss": "刀剑"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:54.953479904Z",
-  "model": "glm-5.2"
+  ]
 }

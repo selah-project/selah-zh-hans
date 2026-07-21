@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 18:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20411,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21026
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:14:00.656860024Z",
   "translation": "你们要守⟨את⟩圣所⟨的⟩守望，和⟨את⟩祭坛⟨的⟩守望，免得怒气再临到以色列的众子身上。",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "english": "你们要守"
+      "gloss": "你们要守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "圣所⟨的⟩守望"
     },
     {
       "surface": "משמרת",
-      "english": "守望"
+      "gloss": "守望"
     },
     {
       "surface": "הקדש",
-      "english": "圣所"
+      "gloss": "圣所"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "祭坛⟨的⟩守望"
     },
     {
       "surface": "משמרת",
-      "english": "守望"
+      "gloss": "守望"
     },
     {
       "surface": "המזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "ולא",
-      "english": "免得不"
+      "gloss": "免得不"
     },
     {
       "surface": "יהיה",
-      "english": "⟨有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "קצף",
-      "english": "怒气"
+      "gloss": "怒气"
     },
     {
       "surface": "על",
-      "english": "临到……身上"
+      "gloss": "临到……身上"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T19:14:00.656860024Z",
-  "model": "glm-5.2"
+  ]
 }

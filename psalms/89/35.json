@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "psalms 89:35",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64387,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:16.592168292Z",
   "translation": "我必不亵渎我的布瑞特 (约),从我嘴唇所出的,我必不更改。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אחלל",
-      "english": "我必亵渎"
+      "gloss": "我必亵渎"
     },
     {
       "surface": "בריתי",
-      "english": "我的布瑞特 (约)"
+      "gloss": "我的布瑞特 (约)"
     },
     {
       "surface": "ומוצא",
-      "english": "和……所出的"
+      "gloss": "和……所出的"
     },
     {
       "surface": "שפתי",
-      "english": "我嘴唇的"
+      "gloss": "我嘴唇的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אשנה",
-      "english": "我必更改"
+      "gloss": "我必更改"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:16.592168292Z",
-  "model": "glm-5.2"
+  ]
 }

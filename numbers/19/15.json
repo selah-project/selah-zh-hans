@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "numbers 19:15",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19743,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20186
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:14:35.222137101Z",
   "translation": "每一个敞开的器皿，就是⟨那⟩其上没有紧紧扎住的盖子的，⟨它⟩就不洁净。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "每一个"
+      "gloss": "每一个"
     },
     {
       "surface": "כלי",
-      "english": "器皿"
+      "gloss": "器皿"
     },
     {
       "surface": "פתוח",
-      "english": "敞开的"
+      "gloss": "敞开的"
     },
     {
       "surface": "אשר",
-      "english": "就是⟨那⟩"
+      "gloss": "就是⟨那⟩"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "צמיד",
-      "english": "紧紧扎住的盖子"
+      "gloss": "紧紧扎住的盖子"
     },
     {
       "surface": "פתיל",
-      "english": "绳索"
+      "gloss": "绳索"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "טמא",
-      "english": "不洁净"
+      "gloss": "不洁净"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:14:35.222137101Z",
-  "model": "glm-5.2"
+  ]
 }

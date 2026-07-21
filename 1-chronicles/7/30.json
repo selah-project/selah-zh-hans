@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "1-chronicles 7:30",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 239,
-    "prompt_tokens": 58782,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59021
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:11.903832388Z",
   "translation": "亚设的众子是:音拿,和耶书亚,和耶书伊,和比利亚,和他们的姐妹西拉。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "אשר",
-      "english": "亚设"
+      "gloss": "亚设"
     },
     {
       "surface": "ימנה",
-      "english": "音拿"
+      "gloss": "音拿"
     },
     {
       "surface": "וישוה",
-      "english": "和耶书亚"
+      "gloss": "和耶书亚"
     },
     {
       "surface": "וישוי",
-      "english": "和耶书伊"
+      "gloss": "和耶书伊"
     },
     {
       "surface": "ובריעה",
-      "english": "和比利亚"
+      "gloss": "和比利亚"
     },
     {
       "surface": "ושרח",
-      "english": "和西拉"
+      "gloss": "和西拉"
     },
     {
       "surface": "אחותם",
-      "english": "他们的姐妹"
+      "gloss": "他们的姐妹"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:11.903832388Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-chronicles 4:20",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59846,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60319
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:15:58.275239581Z",
   "translation": "以及⟨את⟩灯台和它们的灯,要在内殿前按规定点燃⟨它们⟩——纯金,סָגוּר。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩"
+      "gloss": "以及⟨את⟩"
     },
     {
       "surface": "המנרות",
-      "english": "灯台"
+      "gloss": "灯台"
     },
     {
       "surface": "ונרתיהם",
-      "english": "和它们的灯"
+      "gloss": "和它们的灯"
     },
     {
       "surface": "לבערם",
-      "english": "要点燃⟨它们⟩"
+      "gloss": "要点燃⟨它们⟩"
     },
     {
       "surface": "כמשפט",
-      "english": "按规定"
+      "gloss": "按规定"
     },
     {
       "surface": "לפני",
-      "english": "在……前"
+      "gloss": "在……前"
     },
     {
       "surface": "הדביר",
-      "english": "内殿"
+      "gloss": "内殿"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "סגור",
-      "english": "纯闭"
+      "gloss": "纯闭"
     }
-  ],
-  "timestamp": "2026-07-18T02:15:58.275239581Z",
-  "model": "glm-5.2"
+  ]
 }

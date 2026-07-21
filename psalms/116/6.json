@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 116:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64357,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64681
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:08.295131343Z",
   "translation": "雅威守护天真的人——我成为卑微，⟨他⟩拯救了我。",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "守护"
+      "gloss": "守护"
     },
     {
       "surface": "פתאים",
-      "english": "天真的人"
+      "gloss": "天真的人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דלותי",
-      "english": "我成为卑微"
+      "gloss": "我成为卑微"
     },
     {
       "surface": "ולי",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "יהושיע",
-      "english": "拯救了我"
+      "gloss": "拯救了我"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:08.295131343Z",
-  "model": "glm-5.2"
+  ]
 }

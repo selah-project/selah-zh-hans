@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "2-chronicles 6:35",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59965,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60409
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:17:19.490211954Z",
   "translation": "愿你从诸天垂听⟨他们⟩的祷告、⟨את⟩他们的恳求,并⟨את⟩他们的判语,愿你行出来。",
   "tokens": [
     {
       "surface": "ושמעת",
-      "english": "愿你垂听"
+      "gloss": "愿你垂听"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "השמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的祷告"
     },
     {
       "surface": "תפלתם",
-      "english": "他们的祷告"
+      "gloss": "他们的祷告"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他们的恳求"
     },
     {
       "surface": "תחנתם",
-      "english": "他们的恳求"
+      "gloss": "他们的恳求"
     },
     {
       "surface": "ועשית",
-      "english": "愿你行出来"
+      "gloss": "愿你行出来"
     },
     {
       "surface": "משפטם",
-      "english": "他们的判语"
+      "gloss": "他们的判语"
     }
-  ],
-  "timestamp": "2026-07-18T02:17:19.490211954Z",
-  "model": "glm-5.2"
+  ]
 }

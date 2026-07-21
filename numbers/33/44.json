@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "numbers 33:44",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19484,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19893
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:56.689047772Z",
   "translation": "他们从阿博特起行,在摩押边界的以耶-哈-阿巴琳 ⟨安营⟩。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们从……起行"
+      "gloss": "他们从……起行"
     },
     {
       "surface": "מאבת",
-      "english": "阿博特"
+      "gloss": "阿博特"
     },
     {
       "surface": "ויחנו",
-      "english": "⟨安营⟩"
+      "gloss": "⟨安营⟩"
     },
     {
       "surface": "בעיי",
-      "english": "在以耶"
+      "gloss": "在以耶"
     },
     {
       "surface": "העברים",
-      "english": "哈-阿巴琳"
+      "gloss": "哈-阿巴琳"
     },
     {
       "surface": "בגבול",
-      "english": "在边界"
+      "gloss": "在边界"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:56.689047772Z",
-  "model": "glm-5.2"
+  ]
 }

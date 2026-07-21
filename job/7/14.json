@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 7:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21345,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21663
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:41.442415519Z",
   "translation": "你就用梦境使我惊恐，用异象使我畏惧。",
   "tokens": [
     {
       "surface": "וחתתני",
-      "english": "你就使我惊恐"
+      "gloss": "你就使我惊恐"
     },
     {
       "surface": "בחלמות",
-      "english": "用梦境"
+      "gloss": "用梦境"
     },
     {
       "surface": "ומחזינות",
-      "english": "用异象"
+      "gloss": "用异象"
     },
     {
       "surface": "תבעתני",
-      "english": "使我畏惧"
+      "gloss": "使我畏惧"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:41.442415519Z",
-  "model": "glm-5.2"
+  ]
 }

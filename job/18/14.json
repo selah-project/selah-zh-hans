@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 18:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21553,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22020
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:58.120876332Z",
   "translation": "他要从⟨他的⟩帐棚中被撕离他的避难所，⟨它⟩要驱使他步向恐惧之王。",
   "tokens": [
     {
       "surface": "יִנָּתֵ֣ק",
-      "english": "被撕离"
+      "gloss": "被撕离"
     },
     {
       "surface": "מֵ֭\/אָהֳל\/וֹ",
-      "english": "从⟨他的⟩帐棚"
+      "gloss": "从⟨他的⟩帐棚"
     },
     {
       "surface": "מִבְטַח֑\/וֹ",
-      "english": "他的避难所"
+      "gloss": "他的避难所"
     },
     {
       "surface": "וְ֝\/תַצְעִדֵ֗\/הוּ",
-      "english": "⟨它⟩要驱使步向"
+      "gloss": "⟨它⟩要驱使步向"
     },
     {
       "surface": "לְ\/מֶ֣לֶךְ",
-      "english": "……之王"
+      "gloss": "……之王"
     },
     {
       "surface": "בַּלָּהֽוֹת",
-      "english": "恐惧"
+      "gloss": "恐惧"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:58.120876332Z",
-  "model": "glm-5.2"
+  ]
 }

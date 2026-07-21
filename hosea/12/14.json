@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "hosea 12:14",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21264,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21804
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:16:21.768725834Z",
   "translation": "藉着一位 *naví*（先知），雅威将⟨את⟩以色列从埃及领上来；藉着一位 *naví*，⟨他⟩被守护。",
   "tokens": [
     {
       "surface": "וּבְנָבִ֕יא",
-      "english": "藉着一位 *naví*（先知），"
+      "gloss": "藉着一位 *naví*（先知），"
     },
     {
       "surface": "הֶעֱלָ֧ה",
-      "english": "将……领上来"
+      "gloss": "将……领上来"
     },
     {
       "surface": "יְהוָ֛ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "יִשְׂרָאֵ֖ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מִמִּצְרָ֑יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "וּבְנָבִ֖יא",
-      "english": "藉着一位 *naví*，"
+      "gloss": "藉着一位 *naví*，"
     },
     {
       "surface": "נִשְׁמָֽר",
-      "english": "⟨他⟩被守护"
+      "gloss": "⟨他⟩被守护"
     }
-  ],
-  "timestamp": "2026-07-17T23:16:21.768725834Z",
-  "model": "glm-5.2"
+  ]
 }

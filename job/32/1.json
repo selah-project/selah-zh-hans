@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 32:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21954,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22370
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:43.206931999Z",
   "translation": "于是这三个人停止回答 ⟨את⟩ 约伯，因为⟨他⟩在自己眼中⟨算为⟩义人。",
   "tokens": [
     {
       "surface": "וישבתו",
-      "english": "于是……停止"
+      "gloss": "于是……停止"
     },
     {
       "surface": "שלשת",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "האנשים",
-      "english": "（这）个人"
+      "gloss": "（这）个人"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "מענות",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约伯"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "בעיניו",
-      "english": "在自己眼中"
+      "gloss": "在自己眼中"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:43.206931999Z",
-  "model": "glm-5.2"
+  ]
 }

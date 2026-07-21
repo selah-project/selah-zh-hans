@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "1-kings 6:31",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64240,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64645
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:57.016571838Z",
   "translation": "而⟨对⟩圣所的入口,他造了橄榄木的门扇;门框是五边的。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "而⟨את⟩",
+      "gloss": "而⟨את⟩",
       "marks": "圣所的入口"
     },
     {
       "surface": "פתח",
-      "english": "入口"
+      "gloss": "入口"
     },
     {
       "surface": "הדביר",
-      "english": "圣所"
+      "gloss": "圣所"
     },
     {
       "surface": "עשה",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "דלתות",
-      "english": "门扇"
+      "gloss": "门扇"
     },
     {
       "surface": "עצי",
-      "english": "木"
+      "gloss": "木"
     },
     {
       "surface": "שמן",
-      "english": "橄榄"
+      "gloss": "橄榄"
     },
     {
       "surface": "האיל",
-      "english": "门框"
+      "gloss": "门框"
     },
     {
       "surface": "מזוזות",
-      "english": "侧柱"
+      "gloss": "侧柱"
     },
     {
       "surface": "חמשית",
-      "english": "五边的"
+      "gloss": "五边的"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:57.016571838Z",
-  "model": "glm-5.2"
+  ]
 }

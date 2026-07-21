@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "leviticus 19:37",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19463,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19942
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:53:48.373455925Z",
   "translation": "你们要谨守我⟨的⟩⟨את⟩一切的חֻקָּה（律例），以及⟨את⟩我⟨的⟩一切的מִשְׁפָּט（典章），并要行出⟨את⟩它们⟨；⟩我是雅威。",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "english": "你们要谨守"
+      "gloss": "你们要谨守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切的律例"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "חקתי",
-      "english": "我的律例"
+      "gloss": "我的律例"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "一切的典章"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "משפטי",
-      "english": "我的典章"
+      "gloss": "我的典章"
     },
     {
       "surface": "ועשיתם",
-      "english": "并要行出"
+      "gloss": "并要行出"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩它们",
+      "gloss": "⟨את⟩它们",
       "marks": "它们"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:53:48.373455925Z",
-  "model": "glm-5.2"
+  ]
 }

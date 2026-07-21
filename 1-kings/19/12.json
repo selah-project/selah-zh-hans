@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 19:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64144,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64604
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:13:23.540419032Z",
   "translation": "在震动之后⟨有⟩火；雅威不在火中；在火之后⟨有⟩一个声音——细微的低语。",
   "tokens": [
     {
       "surface": "ואחר",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "הרעש",
-      "english": "震动"
+      "gloss": "震动"
     },
     {
       "surface": "אש",
-      "english": "⟨有⟩火"
+      "gloss": "⟨有⟩火"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "באש",
-      "english": "在火中"
+      "gloss": "在火中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואחר",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "האש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "קול",
-      "english": "⟨有⟩一个声音"
+      "gloss": "⟨有⟩一个声音"
     },
     {
       "surface": "דממה",
-      "english": "低语"
+      "gloss": "低语"
     },
     {
       "surface": "דקה",
-      "english": "细微的"
+      "gloss": "细微的"
     }
-  ],
-  "timestamp": "2026-07-17T21:13:23.540419032Z",
-  "model": "glm-5.2"
+  ]
 }

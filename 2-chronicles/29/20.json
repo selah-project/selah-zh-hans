@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-chronicles 29:20",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60005,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60409
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:30:53.036475598Z",
   "translation": "希西家⟨王⟩清早起来,召集了⟨那⟩城的领袖,上⟨了⟩雅威的殿。",
   "tokens": [
     {
       "surface": "וישכם",
-      "english": "清早起来"
+      "gloss": "清早起来"
     },
     {
       "surface": "יחזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "המלך",
-      "english": "⟨王⟩"
+      "gloss": "⟨王⟩"
     },
     {
       "surface": "ויאסף",
-      "english": "召集了"
+      "gloss": "召集了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "城的领袖"
     },
     {
       "surface": "שרי",
-      "english": "领袖"
+      "gloss": "领袖"
     },
     {
       "surface": "העיר",
-      "english": "⟨那⟩城"
+      "gloss": "⟨那⟩城"
     },
     {
       "surface": "ויעל",
-      "english": "上"
+      "gloss": "上"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     }
-  ],
-  "timestamp": "2026-07-18T02:30:53.036475598Z",
-  "model": "glm-5.2"
+  ]
 }

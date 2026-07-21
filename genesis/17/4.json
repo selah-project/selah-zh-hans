@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 17:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22874,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23190
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:39:44.338342444Z",
   "translation": "我 ⟨הנה⟩ 我的布瑞特 ⟨את⟩ 你,你将成为多国的父。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "הנה",
-      "english": "⟨הנה⟩"
+      "gloss": "⟨הנה⟩"
     },
     {
       "surface": "בריתי",
-      "english": "我的布瑞特"
+      "gloss": "我的布瑞特"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩ 你"
+      "gloss": "⟨את⟩ 你"
     },
     {
       "surface": "והיית",
-      "english": "你将成为"
+      "gloss": "你将成为"
     },
     {
       "surface": "לאב",
-      "english": "父"
+      "gloss": "父"
     },
     {
       "surface": "המון",
-      "english": "多"
+      "gloss": "多"
     },
     {
       "surface": "גוים",
-      "english": "国"
+      "gloss": "国"
     }
-  ],
-  "timestamp": "2026-07-18T02:39:44.338342444Z",
-  "model": "glm-5.2"
+  ]
 }

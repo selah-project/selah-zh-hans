@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 18:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18492,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18828
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:22:28.052076860Z",
   "translation": "摩西对⟨他的⟩岳父说：因为⟨这⟩百姓到我这里来，来寻求以罗欣。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לחתנו",
-      "english": "对⟨他的⟩岳父"
+      "gloss": "对⟨他的⟩岳父"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יבא",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "אלי",
-      "english": "到我这里来"
+      "gloss": "到我这里来"
     },
     {
       "surface": "העם",
-      "english": "⟨这⟩百姓"
+      "gloss": "⟨这⟩百姓"
     },
     {
       "surface": "לדרש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T18:22:28.052076860Z",
-  "model": "glm-5.2"
+  ]
 }

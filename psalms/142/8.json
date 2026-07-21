@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 142:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64899,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65384
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:08.035346630Z",
   "translation": "求祢将我的*néfesh*从牢狱中领出，为要称谢⟨את⟩祢的名；义人必环绕我，因为祢必厚待我。",
   "tokens": [
     {
       "surface": "הוציאה",
-      "english": "求祢领出"
+      "gloss": "求祢领出"
     },
     {
       "surface": "ממסגר",
-      "english": "从牢狱中"
+      "gloss": "从牢狱中"
     },
     {
       "surface": "נפשי",
-      "english": "我的 *néfesh*（生命气息）"
+      "gloss": "我的 *néfesh*（生命气息）"
     },
     {
       "surface": "להודות",
-      "english": "为要称谢"
+      "gloss": "为要称谢"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "祢的名"
     },
     {
       "surface": "שמך",
-      "english": "祢的名"
+      "gloss": "祢的名"
     },
     {
       "surface": "בי",
-      "english": "环绕我"
+      "gloss": "环绕我"
     },
     {
       "surface": "יכתרו",
-      "english": "必环绕"
+      "gloss": "必环绕"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תגמל",
-      "english": "祢必厚待"
+      "gloss": "祢必厚待"
     },
     {
       "surface": "עלי",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:08.035346630Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 22:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23446,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23949
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:49.473845582Z",
   "translation": "这些事之后，发生了：以罗欣试验 ⟨את⟩ 亚伯拉罕，对他说：“亚伯拉罕！”他说：“我在这里。”",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "发生了"
+      "gloss": "发生了"
     },
     {
       "surface": "אחר",
-      "english": "之后"
+      "gloss": "之后"
     },
     {
       "surface": "הדברים",
-      "english": "这些事"
+      "gloss": "这些事"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "והאלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "נסה",
-      "english": "试验"
+      "gloss": "试验"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯拉罕"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕！"
+      "gloss": "亚伯拉罕！"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "הנני",
-      "english": "我在这里"
+      "gloss": "我在这里"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:49.473845582Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
   "ref": "1-kings 8:51",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64177,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64621
-  },
+  "verse": 51,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:52:38.874954116Z",
   "translation": "因为他们⟨是⟩你的百姓和你的产业，你从埃及领出来，从铁炉中领出来的，",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עמך",
-      "english": "你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "ונחלתך",
-      "english": "和你的产业"
+      "gloss": "和你的产业"
     },
     {
       "surface": "הם",
-      "english": "他们⟨是⟩"
+      "gloss": "他们⟨是⟩"
     },
     {
       "surface": "אשר",
-      "english": "（就是你……的）"
+      "gloss": "（就是你……的）"
     },
     {
       "surface": "הוצאת",
-      "english": "你领出来"
+      "gloss": "你领出来"
     },
     {
       "surface": "ממצרים",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "מתוך",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "כור",
-      "english": "炉"
+      "gloss": "炉"
     },
     {
       "surface": "הברזל",
-      "english": "铁"
+      "gloss": "铁"
     }
-  ],
-  "timestamp": "2026-07-18T02:52:38.874954116Z",
-  "model": "glm-5.2"
+  ]
 }

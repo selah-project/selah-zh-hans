@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "job 31:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 21585,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22020
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:53.700960790Z",
   "translation": "Did not ⟨He who⟩ made me ⟨in⟩ ⟨the⟩ womb make him? And did not One fashion us ⟨in⟩ ⟨the⟩ womb?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "Did not"
+      "gloss": "Did not"
     },
     {
       "surface": "בבטן",
-      "english": "⟨in⟩ ⟨the⟩ womb"
+      "gloss": "⟨in⟩ ⟨the⟩ womb"
     },
     {
       "surface": "עשני",
-      "english": "made me"
+      "gloss": "made me"
     },
     {
       "surface": "עשהו",
-      "english": "make him"
+      "gloss": "make him"
     },
     {
       "surface": "ויכננו",
-      "english": "And did not One fashion us"
+      "gloss": "And did not One fashion us"
     },
     {
       "surface": "ברחם",
-      "english": "⟨in⟩ ⟨the⟩ womb"
+      "gloss": "⟨in⟩ ⟨the⟩ womb"
     },
     {
       "surface": "אחד",
-      "english": "One"
+      "gloss": "One"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:53.700960790Z",
-  "model": "glm-4.5"
+  ]
 }

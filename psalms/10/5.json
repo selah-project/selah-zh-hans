@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 10:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64897,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65414
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:10.857758591Z",
   "translation": "他的道路⟨坚固⟩于⟨所有⟩⟨时候⟩；你的典远远高于他面前；至于⟨所有⟩他的仇敌，他向他们喷气。",
   "tokens": [
     {
       "surface": "יחילו",
-      "english": "⟨坚固⟩"
+      "gloss": "⟨坚固⟩"
     },
     {
       "surface": "דרכו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "בכל",
-      "english": "于⟨所有⟩"
+      "gloss": "于⟨所有⟩"
     },
     {
       "surface": "עת",
-      "english": "⟨时候⟩"
+      "gloss": "⟨时候⟩"
     },
     {
       "surface": "מרום",
-      "english": "远高于"
+      "gloss": "远高于"
     },
     {
       "surface": "משפטיך",
-      "english": "你的典"
+      "gloss": "你的典"
     },
     {
       "surface": "מנגדו",
-      "english": "他面前"
+      "gloss": "他面前"
     },
     {
       "surface": "כל",
-      "english": "⟨所有⟩"
+      "gloss": "⟨所有⟩"
     },
     {
       "surface": "צורריו",
-      "english": "他的仇敌"
+      "gloss": "他的仇敌"
     },
     {
       "surface": "יפיח",
-      "english": "他喷气"
+      "gloss": "他喷气"
     },
     {
       "surface": "בהם",
-      "english": "向他们"
+      "gloss": "向他们"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:10.857758591Z",
-  "model": "glm-5.2"
+  ]
 }

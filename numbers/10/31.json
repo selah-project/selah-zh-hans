@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "numbers 10:31",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20301,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20960
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:08:06.853958664Z",
   "translation": "他说：求你⟨不要⟩撇下⟨את⟩我们，因为⟨正因如此⟩你认识我们在旷野的安营之处，你必作我们的眼睛。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אל",
-      "english": "⟨不要⟩"
+      "gloss": "⟨不要⟩"
     },
     {
       "surface": "נא",
-      "english": "求你"
+      "gloss": "求你"
     },
     {
       "surface": "תעזב",
-      "english": "撇下"
+      "gloss": "撇下"
     },
     {
       "surface": "אתנו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "על",
-      "english": "⟨正因⟩"
+      "gloss": "⟨正因⟩"
     },
     {
       "surface": "כן",
-      "english": "⟨如此⟩"
+      "gloss": "⟨如此⟩"
     },
     {
       "surface": "ידעת",
-      "english": "你认识"
+      "gloss": "你认识"
     },
     {
       "surface": "חנתנו",
-      "english": "我们的安营之处"
+      "gloss": "我们的安营之处"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     },
     {
       "surface": "והיית",
-      "english": "你必作"
+      "gloss": "你必作"
     },
     {
       "surface": "לנו",
-      "english": "我们的"
+      "gloss": "我们的"
     },
     {
       "surface": "לעינים",
-      "english": "眼睛"
+      "gloss": "眼睛"
     }
-  ],
-  "timestamp": "2026-07-17T19:08:06.853958664Z",
-  "model": "glm-5.2"
+  ]
 }

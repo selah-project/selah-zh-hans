@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 44:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64914
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:13.583147247Z",
   "translation": "在于以罗欣 (Elohim),我们终日夸耀,⟨并⟩我们要永远称谢你的名。细拉。",
   "tokens": [
     {
       "surface": "באלהים",
-      "english": "在于以罗欣"
+      "gloss": "在于以罗欣"
     },
     {
       "surface": "הללנו",
-      "english": "我们夸耀"
+      "gloss": "我们夸耀"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "היום",
-      "english": "这一日"
+      "gloss": "这一日"
     },
     {
       "surface": "ושמך",
-      "english": "和你的名"
+      "gloss": "和你的名"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "נודה",
-      "english": "我们要称谢"
+      "gloss": "我们要称谢"
     },
     {
       "surface": "סלה",
-      "english": "细拉"
+      "gloss": "细拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:13.583147247Z",
-  "model": "glm-5.2"
+  ]
 }

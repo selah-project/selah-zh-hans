@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 14:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23385,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23813
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:55.117690203Z",
   "translation": "他们抓走了罗得 ⟨את⟩ —— 即亚伯兰兄弟的儿子 ⟨את⟩ 他的财产 —— 然后离开了；而他正住在所多玛。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "他们抓走了"
+      "gloss": "他们抓走了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "罗得"
     },
     {
       "surface": "לוט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的财产"
     },
     {
       "surface": "רכשו",
-      "english": "他的财产"
+      "gloss": "他的财产"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "אחי",
-      "english": "兄弟"
+      "gloss": "兄弟"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "וילכו",
-      "english": "然后离开了"
+      "gloss": "然后离开了"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "ישב",
-      "english": "正住在"
+      "gloss": "正住在"
     },
     {
       "surface": "בסדם",
-      "english": "在所多玛"
+      "gloss": "在所多玛"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:55.117690203Z",
-  "model": "glm-5.2"
+  ]
 }

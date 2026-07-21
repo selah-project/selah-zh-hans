@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 44:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 644,
-    "prompt_tokens": 23371,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24015
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:26.866702431Z",
   "translation": "这不是我主 ⟨用来⟩ 饮用的 ⟨那个⟩ 吗,并且它 ⟨确实⟩ 占卜、用它占卜;你们所做的 ⟨这事⟩ 是恶。",
   "tokens": [
     {
       "surface": "הלוא",
-      "english": "这不是"
+      "gloss": "这不是"
     },
     {
       "surface": "זה",
-      "english": "⟨那个⟩"
+      "gloss": "⟨那个⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨用来⟩"
+      "gloss": "⟨用来⟩"
     },
     {
       "surface": "ישתה",
-      "english": "饮用"
+      "gloss": "饮用"
     },
     {
       "surface": "אדני",
-      "english": "我主"
+      "gloss": "我主"
     },
     {
       "surface": "בו",
-      "english": "⟨那个⟩"
+      "gloss": "⟨那个⟩"
     },
     {
       "surface": "והוא",
-      "english": "并且它"
+      "gloss": "并且它"
     },
     {
       "surface": "נחש",
-      "english": "占卜"
+      "gloss": "占卜"
     },
     {
       "surface": "ינחש",
-      "english": "用它占卜"
+      "gloss": "用它占卜"
     },
     {
       "surface": "בו",
-      "english": "用它"
+      "gloss": "用它"
     },
     {
       "surface": "הרעתם",
-      "english": "是恶"
+      "gloss": "是恶"
     },
     {
       "surface": "אשר",
-      "english": "⟨这事⟩"
+      "gloss": "⟨这事⟩"
     },
     {
       "surface": "עשיתם",
-      "english": "你们所做的"
+      "gloss": "你们所做的"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:26.866702431Z",
-  "model": "glm-4.5"
+  ]
 }

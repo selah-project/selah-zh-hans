@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 36:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64350,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64629
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:24.677291470Z",
   "translation": "在那里，作孽之人跌倒了；⟨他们⟩被推倒，⟨他们⟩不能起来。",
   "tokens": [
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "נפלו",
-      "english": "跌倒了"
+      "gloss": "跌倒了"
     },
     {
       "surface": "פעלי",
-      "english": "作……之人"
+      "gloss": "作……之人"
     },
     {
       "surface": "און",
-      "english": "孽"
+      "gloss": "孽"
     },
     {
       "surface": "דחו",
-      "english": "被推倒"
+      "gloss": "被推倒"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יכלו",
-      "english": "能"
+      "gloss": "能"
     },
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:24.677291470Z",
-  "model": "glm-5.2"
+  ]
 }

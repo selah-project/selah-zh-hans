@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 21:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18548,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18845
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:24:09.798666345Z",
   "translation": "烙伤抵烙伤，创伤抵创伤，鞭痕抵鞭痕。",
   "tokens": [
     {
       "surface": "כויה",
-      "english": "烙伤"
+      "gloss": "烙伤"
     },
     {
       "surface": "תחת",
-      "english": "抵"
+      "gloss": "抵"
     },
     {
       "surface": "כויה",
-      "english": "烙伤"
+      "gloss": "烙伤"
     },
     {
       "surface": "פצע",
-      "english": "创伤"
+      "gloss": "创伤"
     },
     {
       "surface": "תחת",
-      "english": "抵"
+      "gloss": "抵"
     },
     {
       "surface": "פצע",
-      "english": "创伤"
+      "gloss": "创伤"
     },
     {
       "surface": "חבורה",
-      "english": "鞭痕"
+      "gloss": "鞭痕"
     },
     {
       "surface": "תחת",
-      "english": "抵"
+      "gloss": "抵"
     },
     {
       "surface": "חבורה",
-      "english": "鞭痕"
+      "gloss": "鞭痕"
     }
-  ],
-  "timestamp": "2026-07-17T18:24:09.798666345Z",
-  "model": "glm-5.2"
+  ]
 }

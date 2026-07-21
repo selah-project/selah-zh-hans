@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 34:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64523,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:33.025830881Z",
   "translation": "这困苦人呼求,雅威垂听,⟨וּמִכָּל⟩ 他的患难中 ⟨הוֹשִׁיעוֹ⟩ 救了他。",
   "tokens": [
     {
       "surface": "זֶּה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "עָנִי",
-      "english": "困苦人"
+      "gloss": "困苦人"
     },
     {
       "surface": "קָרָא",
-      "english": "呼求"
+      "gloss": "呼求"
     },
     {
       "surface": "וַ\/יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שָׁמַע",
-      "english": "垂听"
+      "gloss": "垂听"
     },
     {
       "surface": "וּ\/מִ\/כָּל",
-      "english": "⟨וּמִכָּל⟩ 并从…所有的"
+      "gloss": "⟨וּמִכָּל⟩ 并从…所有的"
     },
     {
       "surface": "צָרוֹתָיו",
-      "english": "他的患难"
+      "gloss": "他的患难"
     },
     {
       "surface": "הוֹשִׁיעוֹ",
-      "english": "⟨הוֹשִׁיעוֹ⟩ 救了他"
+      "gloss": "⟨הוֹשִׁיעוֹ⟩ 救了他"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:33.025830881Z",
-  "model": "glm-5.2"
+  ]
 }

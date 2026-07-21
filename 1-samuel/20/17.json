@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-samuel 20:17",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18445,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18962
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:20:19.376603661Z",
   "translation": "约拿单再次使⟨את⟩大卫起誓,因为他爱他;他以自己*נפש*的爱爱他。",
   "tokens": [
     {
       "surface": "ויוסף",
-      "english": "再次"
+      "gloss": "再次"
     },
     {
       "surface": "יהונתן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "להשביע",
-      "english": "使……起誓"
+      "gloss": "使……起誓"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "באהבתו",
-      "english": "因为他的爱"
+      "gloss": "因为他的爱"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ 他",
+      "gloss": "⟨את⟩ 他",
       "marks": "他(大卫)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אהבת",
-      "english": "的爱"
+      "gloss": "的爱"
     },
     {
       "surface": "נפשו",
-      "english": "他*נפש*(自己)"
+      "gloss": "他*נפש*(自己)"
     },
     {
       "surface": "אהבו",
-      "english": "他爱他"
+      "gloss": "他爱他"
     }
-  ],
-  "timestamp": "2026-07-18T03:20:19.376603661Z",
-  "model": "glm-5.2"
+  ]
 }

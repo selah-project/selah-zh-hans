@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "isaiah 19:25",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21191,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21850
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:23.161979514Z",
   "translation": "因万军之雅威赐福给他们,说:⟨愿⟩我的子民埃及蒙福,我手所做的亚述⟨也蒙福⟩,⟨及⟩我的产业以色列⟨也蒙福⟩。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "ברכו",
-      "english": "他赐福"
+      "gloss": "他赐福"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "ברוך",
-      "english": "蒙福"
+      "gloss": "蒙福"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "ומעשה",
-      "english": "与……所做的"
+      "gloss": "与……所做的"
     },
     {
       "surface": "ידי",
-      "english": "我手的"
+      "gloss": "我手的"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "ונחלתי",
-      "english": "与我的产业"
+      "gloss": "与我的产业"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:23.161979514Z",
-  "model": "glm-5.2"
+  ]
 }

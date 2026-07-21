@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 30:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54488,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54796
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:37.640645735Z",
   "translation": "有一代,诅咒其父,也不祝福其母。",
   "tokens": [
     {
       "surface": "דור",
-      "english": "一代"
+      "gloss": "一代"
     },
     {
       "surface": "אביו",
-      "english": "其父"
+      "gloss": "其父"
     },
     {
       "surface": "יקלל",
-      "english": "诅咒"
+      "gloss": "诅咒"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "其母"
     },
     {
       "surface": "אמו",
-      "english": "其母"
+      "gloss": "其母"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יברך",
-      "english": "祝福"
+      "gloss": "祝福"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:37.640645735Z",
-  "model": "glm-5.2"
+  ]
 }

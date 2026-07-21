@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "genesis 4:9",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23318,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23748
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:06.212953496Z",
   "translation": "雅威对该隐说:你的兄弟亚伯在哪里?⟨他⟩说:我不知道。我岂是看守我兄弟的吗?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "קין",
-      "english": "该隐"
+      "gloss": "该隐"
     },
     {
       "surface": "אי",
-      "english": "哪里"
+      "gloss": "哪里"
     },
     {
       "surface": "הבל",
-      "english": "亚伯"
+      "gloss": "亚伯"
     },
     {
       "surface": "אחיך",
-      "english": "你的兄弟"
+      "gloss": "你的兄弟"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "השמר",
-      "english": "看守者"
+      "gloss": "看守者"
     },
     {
       "surface": "אחי",
-      "english": "我的兄弟"
+      "gloss": "我的兄弟"
     },
     {
       "surface": "אנכי",
-      "english": "我岂是"
+      "gloss": "我岂是"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:06.212953496Z",
-  "model": "glm-5.2"
+  ]
 }

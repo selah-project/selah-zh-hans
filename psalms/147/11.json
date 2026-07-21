@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 147:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64548,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64940
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:34.694467860Z",
   "translation": "雅威喜悦⟨את⟩敬畏他的人、⟨את⟩那等候他的慈爱的人。",
   "tokens": [
     {
       "surface": "רוצה",
-      "english": "喜悦"
+      "gloss": "喜悦"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "敬畏他的人"
     },
     {
       "surface": "יראיו",
-      "english": "敬畏他的人"
+      "gloss": "敬畏他的人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那等候他的慈爱的人"
     },
     {
       "surface": "המיחלים",
-      "english": "那等候的人"
+      "gloss": "那等候的人"
     },
     {
       "surface": "לחסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:34.694467860Z",
-  "model": "glm-5.2"
+  ]
 }

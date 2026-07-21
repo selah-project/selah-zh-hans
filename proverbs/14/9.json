@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 14:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54266,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54690
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:25.342474846Z",
   "translation": "愚妄人向罪愆嘲弄，⟨而⟩在正直人之间 ⟨有⟩ 悦纳。",
   "tokens": [
     {
       "surface": "אולים",
-      "english": "愚妄人"
+      "gloss": "愚妄人"
     },
     {
       "surface": "יליץ",
-      "english": "向……嘲弄"
+      "gloss": "向……嘲弄"
     },
     {
       "surface": "אשם",
-      "english": "罪愆"
+      "gloss": "罪愆"
     },
     {
       "surface": "ובין",
-      "english": "⟨而⟩在……之间"
+      "gloss": "⟨而⟩在……之间"
     },
     {
       "surface": "ישרים",
-      "english": "正直人"
+      "gloss": "正直人"
     },
     {
       "surface": "רצון",
-      "english": "悦纳"
+      "gloss": "悦纳"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:25.342474846Z",
-  "model": "glm-5.2"
+  ]
 }

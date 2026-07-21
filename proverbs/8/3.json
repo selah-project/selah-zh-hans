@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 8:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54377,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54856
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:15.923007229Z",
   "translation": "在城門旁，在城市的入口，在門的⟨入口處⟩，她大聲呼喊：",
   "tokens": [
     {
       "surface": "ליד",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "שערים",
-      "english": "城門（複數）"
+      "gloss": "城門（複數）"
     },
     {
       "surface": "לפי",
-      "english": "在……的入口"
+      "gloss": "在……的入口"
     },
     {
       "surface": "קרת",
-      "english": "城市"
+      "gloss": "城市"
     },
     {
       "surface": "מבוא",
-      "english": "入口處"
+      "gloss": "入口處"
     },
     {
       "surface": "פתחים",
-      "english": "門（複數）"
+      "gloss": "門（複數）"
     },
     {
       "surface": "תרנה",
-      "english": "她大聲呼喊"
+      "gloss": "她大聲呼喊"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:15.923007229Z",
-  "model": "glm-5.2"
+  ]
 }

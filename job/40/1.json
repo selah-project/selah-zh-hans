@@ -1,45 +1,34 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 40:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21400,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21706
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:05.796274420Z",
   "translation": "雅威再次回答约伯,⟨את⟩ 约伯,说:",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "再次回答"
+      "gloss": "再次回答"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约伯"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:05.796274420Z",
-  "model": "glm-5.2"
+  ]
 }

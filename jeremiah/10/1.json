@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "jeremiah 10:1",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19169,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19582
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:12:43.693050041Z",
   "translation": "以色列家啊,你们要听雅威向你们所讲⟨את⟩⟨那⟩*davar*的话。",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那 davar 的话"
     },
     {
       "surface": "הדבר",
-      "english": "那 davar 的话"
+      "gloss": "那 davar 的话"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "דבר",
-      "english": "讲"
+      "gloss": "讲"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עליכם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T22:12:43.693050041Z",
-  "model": "glm-5.2"
+  ]
 }

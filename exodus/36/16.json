@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "exodus 36:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18559,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18928
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:36:44.202399294Z",
   "translation": "他⟨把⟩五幅幕幔⟨设⟩为一组⟨את⟩，又将六幅幕幔⟨设⟩为一组⟨את⟩。",
   "tokens": [
     {
       "surface": "ויחבר",
-      "english": "他连接了"
+      "gloss": "他连接了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "五幅幕幔"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "היריעת",
-      "english": "幅幕幔"
+      "gloss": "幅幕幔"
     },
     {
       "surface": "לבד",
-      "english": "为一组"
+      "gloss": "为一组"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "六幅幕幔"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "היריעת",
-      "english": "幅幕幔"
+      "gloss": "幅幕幔"
     },
     {
       "surface": "לבד",
-      "english": "为一组"
+      "gloss": "为一组"
     }
-  ],
-  "timestamp": "2026-07-17T18:36:44.202399294Z",
-  "model": "glm-5.2"
+  ]
 }

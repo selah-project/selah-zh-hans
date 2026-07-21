@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "ezekiel 47:11",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18840,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19228
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:10:50.805748421Z",
   "translation": "它的沼泽和它的湿地不得医治,它们被交给盐。",
   "tokens": [
     {
       "surface": "בצאתו",
-      "english": "它的沼泽"
+      "gloss": "它的沼泽"
     },
     {
       "surface": "וגבאיו",
-      "english": "和它的湿地"
+      "gloss": "和它的湿地"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ירפאו",
-      "english": "它们得医治"
+      "gloss": "它们得医治"
     },
     {
       "surface": "למלח",
-      "english": "给盐"
+      "gloss": "给盐"
     },
     {
       "surface": "נתנו",
-      "english": "它们被交给"
+      "gloss": "它们被交给"
     }
-  ],
-  "timestamp": "2026-07-17T23:10:50.805748421Z",
-  "model": "glm-5.2"
+  ]
 }

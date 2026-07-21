@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 17:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59767,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60141
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:23:27.057882950Z",
   "translation": "因为他寻求他父亲的以罗欣,⟨并⟩行在他的诫命中,不像以色列的作为。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לאלהי",
-      "english": "寻求⟨了⟩……的以罗欣"
+      "gloss": "寻求⟨了⟩……的以罗欣"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "דרש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "ובמצותיו",
-      "english": "⟨并⟩行在他的诫命中"
+      "gloss": "⟨并⟩行在他的诫命中"
     },
     {
       "surface": "הלך",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "ולא",
-      "english": "⟨而⟩不"
+      "gloss": "⟨而⟩不"
     },
     {
       "surface": "כמעשה",
-      "english": "像……的作为"
+      "gloss": "像……的作为"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:23:27.057882950Z",
-  "model": "glm-5.2"
+  ]
 }

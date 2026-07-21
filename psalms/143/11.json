@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 143:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64671,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65204
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:18.428872953Z",
   "translation": "为你的名缘故,雅威啊,求你使我存活;在你的公义中,求你将我的נפש从困苦中带出。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "为……缘故"
+      "gloss": "为……缘故"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "תחיני",
-      "english": "求你使我存活"
+      "gloss": "求你使我存活"
     },
     {
       "surface": "בצדקתך",
-      "english": "在你的公义中"
+      "gloss": "在你的公义中"
     },
     {
       "surface": "תוציא",
-      "english": "求你带出"
+      "gloss": "求你带出"
     },
     {
       "surface": "מצרה",
-      "english": "从困苦中"
+      "gloss": "从困苦中"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:18.428872953Z",
-  "model": "glm-5.2"
+  ]
 }

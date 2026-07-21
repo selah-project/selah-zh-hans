@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 27:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64969,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65471
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:57.219287152Z",
   "translation": "当行恶者逼近要吞吃⟨את⟩我的肉身——我的患难仇敌⟨向我⟩——他们⟨就⟩绊跌仆倒。",
   "tokens": [
     {
       "surface": "בקרב",
-      "english": "当……逼近"
+      "gloss": "当……逼近"
     },
     {
       "surface": "עלי",
-      "english": "⟨向我⟩"
+      "gloss": "⟨向我⟩"
     },
     {
       "surface": "מרעים",
-      "english": "行恶者"
+      "gloss": "行恶者"
     },
     {
       "surface": "לאכל",
-      "english": "要吞吃"
+      "gloss": "要吞吃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的肉身"
     },
     {
       "surface": "בשרי",
-      "english": "我的肉身"
+      "gloss": "我的肉身"
     },
     {
       "surface": "צרי",
-      "english": "我的患难"
+      "gloss": "我的患难"
     },
     {
       "surface": "ואיבי",
-      "english": "和我的仇敌"
+      "gloss": "和我的仇敌"
     },
     {
       "surface": "לי",
-      "english": "⟨向我⟩"
+      "gloss": "⟨向我⟩"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "כשלו",
-      "english": "⟨就⟩绊跌"
+      "gloss": "⟨就⟩绊跌"
     },
     {
       "surface": "ונפלו",
-      "english": "仆倒"
+      "gloss": "仆倒"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:57.219287152Z",
-  "model": "glm-5.2"
+  ]
 }

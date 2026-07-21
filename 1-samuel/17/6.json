@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 17:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18087,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18464
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:11.046589786Z",
   "translation": "他的腿上有铜护胫，他的肩之间有铜短矛。",
   "tokens": [
     {
       "surface": "ומצחת",
-      "english": "护胫"
+      "gloss": "护胫"
     },
     {
       "surface": "נחשת",
-      "english": "铜的"
+      "gloss": "铜的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "רגליו",
-      "english": "他的腿"
+      "gloss": "他的腿"
     },
     {
       "surface": "וכידון",
-      "english": "短矛"
+      "gloss": "短矛"
     },
     {
       "surface": "נחשת",
-      "english": "铜的"
+      "gloss": "铜的"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "כתפיו",
-      "english": "他的肩"
+      "gloss": "他的肩"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:11.046589786Z",
-  "model": "glm-5.2"
+  ]
 }

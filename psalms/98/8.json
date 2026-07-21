@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 98:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64359,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64725
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:05.290008058Z",
   "translation": "愿河流们拍掌,众山岭一同欢呼。",
   "tokens": [
     {
       "surface": "נהרות",
-      "english": "愿河流们"
+      "gloss": "愿河流们"
     },
     {
       "surface": "ימחאו",
-      "english": "拍"
+      "gloss": "拍"
     },
     {
       "surface": "כף",
-      "english": "掌"
+      "gloss": "掌"
     },
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "הרים",
-      "english": "众山岭"
+      "gloss": "众山岭"
     },
     {
       "surface": "ירננו",
-      "english": "欢呼"
+      "gloss": "欢呼"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:05.290008058Z",
-  "model": "glm-5.2"
+  ]
 }

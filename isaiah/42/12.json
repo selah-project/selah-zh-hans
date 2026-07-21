@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 42:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20450,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20706
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:18.646113989Z",
   "translation": "愿他们将荣耀归给雅威，在海岛上传扬他的赞美。",
   "tokens": [
     {
       "surface": "ישימו",
-      "english": "愿他们归给"
+      "gloss": "愿他们归给"
     },
     {
       "surface": "ליהוה",
-      "english": "给雅威"
+      "gloss": "给雅威"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "ותהלתו",
-      "english": "而他的赞美"
+      "gloss": "而他的赞美"
     },
     {
       "surface": "באיים",
-      "english": "在海岛上"
+      "gloss": "在海岛上"
     },
     {
       "surface": "יגידו",
-      "english": "传扬"
+      "gloss": "传扬"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:18.646113989Z",
-  "model": "glm-5.2"
+  ]
 }

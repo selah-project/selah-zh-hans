@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 13:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19541,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19866
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:43.053141897Z",
   "translation": "这些是他们的名字：鲁本支派，沙母亚，本-撒刻。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "שמותם",
-      "english": "他们的名字"
+      "gloss": "他们的名字"
     },
     {
       "surface": "למטה",
-      "english": "支派"
+      "gloss": "支派"
     },
     {
       "surface": "ראובן",
-      "english": "鲁本"
+      "gloss": "鲁本"
     },
     {
       "surface": "שמוע",
-      "english": "沙母亚"
+      "gloss": "沙母亚"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "זכור",
-      "english": "撒刻"
+      "gloss": "撒刻"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:43.053141897Z",
-  "model": "glm-5.2"
+  ]
 }

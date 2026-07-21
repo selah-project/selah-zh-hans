@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 39:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64454,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64807
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:36.733827468Z",
   "translation": "从我一切的过犯中 ⟨把我⟩ 拔救出来；不要将愚顽人的羞辱 ⟨加⟩ 在我身上。",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "从我一切的"
+      "gloss": "从我一切的"
     },
     {
       "surface": "פשעי",
-      "english": "过犯"
+      "gloss": "过犯"
     },
     {
       "surface": "הצילני",
-      "english": "把我拔救出来"
+      "gloss": "把我拔救出来"
     },
     {
       "surface": "חרפת",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "נבל",
-      "english": "愚顽人的"
+      "gloss": "愚顽人的"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשימני",
-      "english": "加在我身上"
+      "gloss": "加在我身上"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:36.733827468Z",
-  "model": "glm-5.2"
+  ]
 }

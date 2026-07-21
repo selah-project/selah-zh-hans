@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "leviticus 2:10",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19214,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19743
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:48.073992785Z",
   "translation": "那素祭中所剩下的,⟨要归⟩给亚伦和他的儿子们 —— ⟨它是⟩至圣的,来自雅威的火祭。",
   "tokens": [
     {
       "surface": "והנותרת",
-      "english": "那……所剩下的"
+      "gloss": "那……所剩下的"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "המנחה",
-      "english": "素祭"
+      "gloss": "素祭"
     },
     {
       "surface": "לאהרן",
-      "english": "给亚伦"
+      "gloss": "给亚伦"
     },
     {
       "surface": "ולבניו",
-      "english": "和他的儿子们"
+      "gloss": "和他的儿子们"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "קדשים",
-      "english": "至圣(圣中之圣)"
+      "gloss": "至圣(圣中之圣)"
     },
     {
       "surface": "מאשי",
-      "english": "来自火祭"
+      "gloss": "来自火祭"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:40:48.073992785Z",
-  "model": "glm-5.2"
+  ]
 }

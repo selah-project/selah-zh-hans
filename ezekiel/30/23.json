@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "ezekiel 30:23",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18905,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19347
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:58:21.874817648Z",
   "translation": "我必将⟨את⟩埃及分散在列国中,将他们撒散在列地中。",
   "tokens": [
     {
       "surface": "וַ\/הֲפִצוֹתִ֥י",
-      "english": "我必将……分散"
+      "gloss": "我必将……分散"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "埃及"
     },
     {
       "surface": "מִצְרַ֖יִם",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "בַּ\/גּוֹיִ֑ם",
-      "english": "在列国中"
+      "gloss": "在列国中"
     },
     {
       "surface": "וְ\/זֵרִיתִ֖\/ם",
-      "english": "我将他们撒散"
+      "gloss": "我将他们撒散"
     },
     {
       "surface": "בָּ\/אֲרָצֽוֹת",
-      "english": "在列地中"
+      "gloss": "在列地中"
     }
-  ],
-  "timestamp": "2026-07-17T22:58:21.874817648Z",
-  "model": "glm-5.2"
+  ]
 }

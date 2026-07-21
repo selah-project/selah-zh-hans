@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "psalms 68:29",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64499,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64989
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:24.263627054Z",
   "translation": "你的以罗欣已经命令了你的力量；以罗欣啊，刚强吧——⟨这就是⟩你为我们所行的事。",
   "tokens": [
     {
       "surface": "צוה",
-      "english": "命令了"
+      "gloss": "命令了"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "עזך",
-      "english": "你的力量"
+      "gloss": "你的力量"
     },
     {
       "surface": "עוזה",
-      "english": "刚强吧"
+      "gloss": "刚强吧"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "זו",
-      "english": "⟨这就是⟩"
+      "gloss": "⟨这就是⟩"
     },
     {
       "surface": "פעלת",
-      "english": "你所行的"
+      "gloss": "你所行的"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:24.263627054Z",
-  "model": "glm-5.2"
+  ]
 }

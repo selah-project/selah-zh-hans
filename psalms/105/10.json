@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 105:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64349,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64796
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:42.304611758Z",
   "translation": "他向雅各确 立⟨为⟩律例，向以色列确 立⟨为⟩布瑞特 עוֹלָם（永远）：",
   "tokens": [
     {
       "surface": "וַ\/יַּֽעֲמִידֶ֣\/הָ",
-      "english": "他确立"
+      "gloss": "他确立"
     },
     {
       "surface": "לְ\/יַעֲקֹ֣ב",
-      "english": "向雅各"
+      "gloss": "向雅各"
     },
     {
       "surface": "לְ\/חֹ֑ק",
-      "english": "⟨为⟩律例"
+      "gloss": "⟨为⟩律例"
     },
     {
       "surface": "לְ\/יִשְׂרָאֵ֗ל",
-      "english": "向以色列"
+      "gloss": "向以色列"
     },
     {
       "surface": "בְּרִ֣ית",
-      "english": "⟨为⟩布瑞特"
+      "gloss": "⟨为⟩布瑞特"
     },
     {
       "surface": "עוֹלָֽם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:42.304611758Z",
-  "model": "glm-5.2"
+  ]
 }

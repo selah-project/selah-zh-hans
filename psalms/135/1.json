@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "psalms 135:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 64782,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65137
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:46.866470033Z",
   "translation": "你们要赞美雅,你们要赞美⟨את⟩雅威的名,雅威的仆人们啊,你们要赞美雅威",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的名"
     },
     {
       "surface": "שם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "עבדי",
-      "english": "仆人们啊"
+      "gloss": "仆人们啊"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:46.866470033Z",
-  "model": "glm-4.5"
+  ]
 }

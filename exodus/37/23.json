@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 37:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 252,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18614,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18866
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:38.794475151Z",
   "translation": "他造了⟨את⟩它的七盏灯台灯,和它的火钳,和它的香炉 —— 纯金的。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的灯"
     },
     {
       "surface": "נרתיה",
-      "english": "它的灯"
+      "gloss": "它的灯"
     },
     {
       "surface": "שבעה",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ומלקחיה",
-      "english": "和它的火钳"
+      "gloss": "和它的火钳"
     },
     {
       "surface": "ומחתתיה",
-      "english": "和它的香炉"
+      "gloss": "和它的香炉"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "טהור",
-      "english": "纯"
+      "gloss": "纯"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:38.794475151Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 41:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64503,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64892
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:15.392705976Z",
   "translation": "我的仇敌对我说邪恶的话⟨反对⟩我：⟨他⟩何时死，他的名⟨就⟩灭亡？",
   "tokens": [
     {
       "surface": "אויבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "יאמרו",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "רע",
-      "english": "邪恶的话"
+      "gloss": "邪恶的话"
     },
     {
       "surface": "לי",
-      "english": "⟨反对⟩我"
+      "gloss": "⟨反对⟩我"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "ימות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "ואבד",
-      "english": "⟨就⟩灭亡"
+      "gloss": "⟨就⟩灭亡"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:15.392705976Z",
-  "model": "glm-5.2"
+  ]
 }

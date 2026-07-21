@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 4:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21556,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22002
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:22.500297093Z",
   "translation": "从早到晚 ⟨他们⟩ 被砸碎,无人留意,他们永远灭亡。",
   "tokens": [
     {
       "surface": "מבקר",
-      "english": "从早"
+      "gloss": "从早"
     },
     {
       "surface": "לערב",
-      "english": "到晚"
+      "gloss": "到晚"
     },
     {
       "surface": "יכתו",
-      "english": "⟨他们⟩ 被砸碎"
+      "gloss": "⟨他们⟩ 被砸碎"
     },
     {
       "surface": "מבלי",
-      "english": "无"
+      "gloss": "无"
     },
     {
       "surface": "משים",
-      "english": "留意者"
+      "gloss": "留意者"
     },
     {
       "surface": "לנצח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "יאבדו",
-      "english": "他们灭亡"
+      "gloss": "他们灭亡"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:22.500297093Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 8:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 226,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22820,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23046
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:37:33.513123413Z",
   "translation": "挪亚出去了，他的儿子们，以及他的妻子和⟨他⟩儿子们的妻子们，与他一起。",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "出去了"
+      "gloss": "出去了"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "ובניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ואשתו",
-      "english": "以及他的妻子"
+      "gloss": "以及他的妻子"
     },
     {
       "surface": "ונשי",
-      "english": "和……的妻子们"
+      "gloss": "和……的妻子们"
     },
     {
       "surface": "בניו",
-      "english": "他儿子们的"
+      "gloss": "他儿子们的"
     },
     {
       "surface": "אתו",
-      "english": "与他一起"
+      "gloss": "与他一起"
     }
-  ],
-  "timestamp": "2026-07-17T17:37:33.513123413Z",
-  "model": "glm-5.2"
+  ]
 }

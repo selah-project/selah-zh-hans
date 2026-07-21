@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-chronicles 5:5",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58438,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58736
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:54:25.144722274Z",
   "translation": "米迦，他的儿子；雷阿雅，他的儿子；巴力，他的儿子。",
   "tokens": [
     {
       "surface": "מיכה",
-      "english": "米迦"
+      "gloss": "米迦"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子；"
+      "gloss": "他的儿子；"
     },
     {
       "surface": "ראיה",
-      "english": "雷阿雅"
+      "gloss": "雷阿雅"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子；"
+      "gloss": "他的儿子；"
     },
     {
       "surface": "בעל",
-      "english": "巴力"
+      "gloss": "巴力"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子。"
+      "gloss": "他的儿子。"
     }
-  ],
-  "timestamp": "2026-07-18T01:54:25.144722274Z",
-  "model": "glm-5.2"
+  ]
 }

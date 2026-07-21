@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "deuteronomy 24:11",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19557,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20060
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:42:36.069568207Z",
   "translation": "在外面你要站住,⟨而⟩那人——你向⟨他⟩放贷的——要把⟨את⟩那抵押品拿到外面给你。",
   "tokens": [
     {
       "surface": "בחוץ",
-      "english": "在外面"
+      "gloss": "在外面"
     },
     {
       "surface": "תעמד",
-      "english": "你要站住"
+      "gloss": "你要站住"
     },
     {
       "surface": "והאיש",
-      "english": "⟨而⟩那人"
+      "gloss": "⟨而⟩那人"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "נשה",
-      "english": "放贷"
+      "gloss": "放贷"
     },
     {
       "surface": "בו",
-      "english": "向⟨他⟩"
+      "gloss": "向⟨他⟩"
     },
     {
       "surface": "יוציא",
-      "english": "要把……拿出去"
+      "gloss": "要把……拿出去"
     },
     {
       "surface": "אליך",
-      "english": "给你"
+      "gloss": "给你"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那抵押品"
     },
     {
       "surface": "העבוט",
-      "english": "那抵押品"
+      "gloss": "那抵押品"
     },
     {
       "surface": "החוצה",
-      "english": "到外面"
+      "gloss": "到外面"
     }
-  ],
-  "timestamp": "2026-07-17T19:42:36.069568207Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 27:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19376,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19970
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:33.633310797Z",
   "translation": "祭司要评估 ⟨את⟩ 它,⟨是⟩ 在好与坏之间;按你的评估,祭司啊,如此它就 ⟨将要如此⟩。",
   "tokens": [
     {
       "surface": "וְ\/הֶעֱרִ֤יךְ",
-      "english": "要评估"
+      "gloss": "要评估"
     },
     {
       "surface": "הַ\/כֹּהֵן֙",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "אֹתָ֔\/הּ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     },
     {
       "surface": "בֵּ֥ין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "ט֖וֹב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "וּ\/בֵ֣ין",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "רָ֑ע",
-      "english": "坏"
+      "gloss": "坏"
     },
     {
       "surface": "כְּ\/עֶרְכְּ\/ךָ֥",
-      "english": "按你的评估"
+      "gloss": "按你的评估"
     },
     {
       "surface": "הַ\/כֹּהֵ֖ן",
-      "english": "祭司啊"
+      "gloss": "祭司啊"
     },
     {
       "surface": "כֵּ֥ן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "יִהְיֶֽה",
-      "english": "它就"
+      "gloss": "它就"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:33.633310797Z",
-  "model": "glm-5.2"
+  ]
 }

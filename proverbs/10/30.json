@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "proverbs 10:30",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54424,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54759
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:20.131491088Z",
   "translation": "义人永远⟨不⟩动摇,恶人不可⟨继续⟩住在地上。",
   "tokens": [
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "בל",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "ימוט",
-      "english": "动摇"
+      "gloss": "动摇"
     },
     {
       "surface": "ורשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "ישכנו",
-      "english": "⟨继续⟩住"
+      "gloss": "⟨继续⟩住"
     },
     {
       "surface": "ארץ",
-      "english": "在地上"
+      "gloss": "在地上"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:20.131491088Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,100 +1,89 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "esther 4:3",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 741,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20325,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 21066
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:25:23.803247930Z",
   "translation": "在各省各省,⟨凡⟩王的话和他的法令所到达之处,犹太人中就有了大哀恸、禁食、哀哭和号泣;许多人被铺设了麻布和灰。",
   "tokens": [
     {
       "surface": "ובכל",
-      "english": "在各……的每一"
+      "gloss": "在各……的每一"
     },
     {
       "surface": "מדינה",
-      "english": "省"
+      "gloss": "省"
     },
     {
       "surface": "ומדינה",
-      "english": "和省"
+      "gloss": "和省"
     },
     {
       "surface": "מקום",
-      "english": "地方"
+      "gloss": "地方"
     },
     {
       "surface": "אשר",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "דבר",
-      "english": "……的话"
+      "gloss": "……的话"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ודתו",
-      "english": "和他的法令"
+      "gloss": "和他的法令"
     },
     {
       "surface": "מגיע",
-      "english": "所到达"
+      "gloss": "所到达"
     },
     {
       "surface": "אבל",
-      "english": "哀恸"
+      "gloss": "哀恸"
     },
     {
       "surface": "גדול",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "ליהודים",
-      "english": "犹太人中"
+      "gloss": "犹太人中"
     },
     {
       "surface": "וצום",
-      "english": "和禁食"
+      "gloss": "和禁食"
     },
     {
       "surface": "ובכי",
-      "english": "和哀哭"
+      "gloss": "和哀哭"
     },
     {
       "surface": "ומספד",
-      "english": "和号泣"
+      "gloss": "和号泣"
     },
     {
       "surface": "שק",
-      "english": "麻布"
+      "gloss": "麻布"
     },
     {
       "surface": "ואפר",
-      "english": "和灰"
+      "gloss": "和灰"
     },
     {
       "surface": "יצע",
-      "english": "被铺设了"
+      "gloss": "被铺设了"
     },
     {
       "surface": "לרבים",
-      "english": "给许多人"
+      "gloss": "给许多人"
     }
-  ],
-  "timestamp": "2026-07-18T01:25:23.803247930Z",
-  "model": "glm-5.2"
+  ]
 }

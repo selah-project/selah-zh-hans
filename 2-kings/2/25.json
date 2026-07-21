@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "2-kings 2:25",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18301,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18569
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:17:44.006880151Z",
   "translation": "⟨他⟩从那里去了迦密山,又从那里返回了撒玛利亚。",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "⟨他⟩去了"
+      "gloss": "⟨他⟩去了"
     },
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "הכרמל",
-      "english": "迦密"
+      "gloss": "迦密"
     },
     {
       "surface": "ומשם",
-      "english": "又从那里"
+      "gloss": "又从那里"
     },
     {
       "surface": "שב",
-      "english": "返回了"
+      "gloss": "返回了"
     },
     {
       "surface": "שמרון",
-      "english": "撒玛利亚"
+      "gloss": "撒玛利亚"
     }
-  ],
-  "timestamp": "2026-07-17T21:17:44.006880151Z",
-  "model": "glm-5.2"
+  ]
 }

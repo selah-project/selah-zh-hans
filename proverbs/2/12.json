@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 2:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54265,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54627
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:10.670837022Z",
   "translation": "为了拯救你脱离恶道，脱离⟨那⟩说乖谬之事的人；",
   "tokens": [
     {
       "surface": "להצילך",
-      "english": "为了拯救你"
+      "gloss": "为了拯救你"
     },
     {
       "surface": "מדרך",
-      "english": "脱离道路"
+      "gloss": "脱离道路"
     },
     {
       "surface": "רע",
-      "english": "恶的"
+      "gloss": "恶的"
     },
     {
       "surface": "מאיש",
-      "english": "脱离人"
+      "gloss": "脱离人"
     },
     {
       "surface": "מדבר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "תהפכות",
-      "english": "乖谬之事"
+      "gloss": "乖谬之事"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:10.670837022Z",
-  "model": "glm-5.2"
+  ]
 }

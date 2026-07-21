@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-chronicles 8:10",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59810,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60207
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:18:24.958589305Z",
   "translation": "这些是所罗门王所派的官长⟨的⟩首领们——二百五十名，他们管辖⟨这⟩百姓。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "שרי",
-      "english": "⟨的⟩首领们"
+      "gloss": "⟨的⟩首领们"
     },
     {
       "surface": "הנציבים",
-      "english": "所派的官长"
+      "gloss": "所派的官长"
     },
     {
       "surface": "אשר",
-      "english": "属于"
+      "gloss": "属于"
     },
     {
       "surface": "למלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "חמשים",
-      "english": "五十"
+      "gloss": "五十"
     },
     {
       "surface": "ומאתים",
-      "english": "二百"
+      "gloss": "二百"
     },
     {
       "surface": "הרדים",
-      "english": "管辖者"
+      "gloss": "管辖者"
     },
     {
       "surface": "בעם",
-      "english": "⟨在⟩百姓中"
+      "gloss": "⟨在⟩百姓中"
     }
-  ],
-  "timestamp": "2026-07-18T02:18:24.958589305Z",
-  "model": "glm-5.2"
+  ]
 }

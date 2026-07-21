@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 144:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64580,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64963
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:35.391279840Z",
   "translation": "以罗欣 (神) 啊,一首新歌我要向⟨你⟩唱;用十弦的 *nevel* (瑟),我要向⟨你⟩弹奏。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣 (神) 啊"
+      "gloss": "以罗欣 (神) 啊"
     },
     {
       "surface": "שיר",
-      "english": "一首歌"
+      "gloss": "一首歌"
     },
     {
       "surface": "חדש",
-      "english": "新的"
+      "gloss": "新的"
     },
     {
       "surface": "אשירה",
-      "english": "我要唱"
+      "gloss": "我要唱"
     },
     {
       "surface": "לך",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     },
     {
       "surface": "בנבל",
-      "english": "用 *nevel* (瑟)"
+      "gloss": "用 *nevel* (瑟)"
     },
     {
       "surface": "עשור",
-      "english": "十弦的"
+      "gloss": "十弦的"
     },
     {
       "surface": "אזמרה",
-      "english": "我要弹奏"
+      "gloss": "我要弹奏"
     },
     {
       "surface": "לך",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:35.391279840Z",
-  "model": "glm-5.2"
+  ]
 }

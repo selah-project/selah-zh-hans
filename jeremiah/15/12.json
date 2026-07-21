@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "jeremiah 15:12",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 280,
-    "prompt_tokens": 18699,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18979
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:19:37.503732766Z",
   "translation": "铁——这来自北方的铁，和铜，⟨能被⟩打碎吗？",
   "tokens": [
     {
       "surface": "הירע",
-      "english": "⟨能被⟩打碎吗",
+      "gloss": "⟨能被⟩打碎吗",
       "marks": "iron...and brass"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "מצפון",
-      "english": "来自北方的"
+      "gloss": "来自北方的"
     },
     {
       "surface": "ונחשת",
-      "english": "和铜"
+      "gloss": "和铜"
     }
-  ],
-  "timestamp": "2026-07-21T13:19:37.503732766Z",
-  "model": "glm-4.5"
+  ]
 }

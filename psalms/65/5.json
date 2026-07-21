@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 65:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64908,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65463
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:18.378192843Z",
   "translation": "有福啊，你拣选并使⟨他⟩靠近⟨你⟩的人，⟨他⟩将居住在你的院宇中；我们必得饱足，因你殿中的美物，⟨即⟩你圣殿⟨的⟩圣所。",
   "tokens": [
     {
       "surface": "אַשְׁרֵ֤י",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "תִּֽבְחַר֣",
-      "english": "你拣选"
+      "gloss": "你拣选"
     },
     {
       "surface": "וּ\/תְקָרֵב֮",
-      "english": "并使靠近"
+      "gloss": "并使靠近"
     },
     {
       "surface": "יִשְׁכֹּ֪ן",
-      "english": "⟨他⟩将居住"
+      "gloss": "⟨他⟩将居住"
     },
     {
       "surface": "חֲצֵ֫רֶ֥י\/ךָ",
-      "english": "在你的院宇中"
+      "gloss": "在你的院宇中"
     },
     {
       "surface": "נִ֭שְׂבְּעָה",
-      "english": "我们必得饱足"
+      "gloss": "我们必得饱足"
     },
     {
       "surface": "בְּ\/ט֣וּב",
-      "english": "因……的美物"
+      "gloss": "因……的美物"
     },
     {
       "surface": "בֵּיתֶ֑\/ךָ",
-      "english": "你殿"
+      "gloss": "你殿"
     },
     {
       "surface": "קְ֝דֹ֗שׁ",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "הֵיכָלֶֽ\/ךָ",
-      "english": "你的殿"
+      "gloss": "你的殿"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:18.378192843Z",
-  "model": "glm-5.2"
+  ]
 }

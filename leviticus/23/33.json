@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "leviticus 23:33",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 114,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18647,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18761
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:56:17.281235107Z",
   "translation": "雅威对摩西说话,说:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T18:56:17.281235107Z",
-  "model": "glm-5.2"
+  ]
 }

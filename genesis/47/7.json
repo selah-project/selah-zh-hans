@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "genesis 47:7",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23437,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23916
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:40:47.921349519Z",
   "translation": "约瑟领他父亲雅各来,⟨并⟩将他站在法老面前,雅各就祝福了⟨את⟩法老。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "领了……来"
+      "gloss": "领了……来"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅各"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "ויעמדהו",
-      "english": "将他站立"
+      "gloss": "将他站立"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "ויברך",
-      "english": "就祝福了"
+      "gloss": "就祝福了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法老"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     }
-  ],
-  "timestamp": "2026-07-18T02:40:47.921349519Z",
-  "model": "glm-5.2"
+  ]
 }

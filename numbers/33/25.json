@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "numbers 33:25",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19203,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19488
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:21.289162147Z",
   "translation": "他们从哈拉达起行,在玛克希洛特 ⟨安营⟩。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מחרדה",
-      "english": "从哈拉达"
+      "gloss": "从哈拉达"
     },
     {
       "surface": "ויחנו",
-      "english": "他们……⟨安营⟩"
+      "gloss": "他们……⟨安营⟩"
     },
     {
       "surface": "במקהלת",
-      "english": "在玛克希洛特"
+      "gloss": "在玛克希洛特"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:21.289162147Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 17:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59614,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59963
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:23:13.656178862Z",
   "translation": "雅霍沙法特——他的子——在他的位置下作王,⟨他⟩使自己坚固,在以色列之上。",
   "tokens": [
     {
       "surface": "וימלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "יהושפט",
-      "english": "雅霍沙法特"
+      "gloss": "雅霍沙法特"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     },
     {
       "surface": "תחתיו",
-      "english": "在他的位置下"
+      "gloss": "在他的位置下"
     },
     {
       "surface": "ויתחזק",
-      "english": "⟨他⟩使自己坚固"
+      "gloss": "⟨他⟩使自己坚固"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:23:13.656178862Z",
-  "model": "glm-5.2"
+  ]
 }

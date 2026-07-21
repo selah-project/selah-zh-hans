@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "1-chronicles 2:44",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58983,
-    "prompt_tokens_details": {
-      "cached_tokens": 48832
-    },
-    "total_tokens": 59450
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:09:43.251197764Z",
   "translation": "示玛生了⟨את⟩拉含，他是约干的父亲；勒肯生了⟨את⟩示迈。",
   "tokens": [
     {
       "surface": "ושמע",
-      "english": "示玛"
+      "gloss": "示玛"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "רחם"
     },
     {
       "surface": "רחם",
-      "english": "拉含"
+      "gloss": "拉含"
     },
     {
       "surface": "אבי",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "ירקעם",
-      "english": "约干"
+      "gloss": "约干"
     },
     {
       "surface": "ורקם",
-      "english": "勒肯"
+      "gloss": "勒肯"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "שמי"
     },
     {
       "surface": "שמי",
-      "english": "示迈"
+      "gloss": "示迈"
     }
-  ],
-  "timestamp": "2026-07-18T03:09:43.251197764Z",
-  "model": "glm-5.2"
+  ]
 }

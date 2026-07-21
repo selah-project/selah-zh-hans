@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 26:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19032,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19531
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:28:21.782116134Z",
   "translation": " ⟨那⟩一幅幔子的長度⟨是⟩三十肘,⟨而⟩一幅幔子的寬度⟨是⟩四肘;十一幅幔子都歸一個尺寸。",
   "tokens": [
     {
       "surface": "ארך",
-      "english": "長度"
+      "gloss": "長度"
     },
     {
       "surface": "היריעה",
-      "english": "⟨那⟩一幅幔子"
+      "gloss": "⟨那⟩一幅幔子"
     },
     {
       "surface": "האחת",
-      "english": "一幅"
+      "gloss": "一幅"
     },
     {
       "surface": "שלשים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "באמה",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "ורחב",
-      "english": "⟨而⟩寬度"
+      "gloss": "⟨而⟩寬度"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "באמה",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "היריעה",
-      "english": "⟨那⟩一幅幔子"
+      "gloss": "⟨那⟩一幅幔子"
     },
     {
       "surface": "האחת",
-      "english": "一幅"
+      "gloss": "一幅"
     },
     {
       "surface": "מדה",
-      "english": "一個尺寸"
+      "gloss": "一個尺寸"
     },
     {
       "surface": "אחת",
-      "english": "一"
+      "gloss": "一"
     },
     {
       "surface": "לעשתי",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "עשרה",
-      "english": "一"
+      "gloss": "一"
     },
     {
       "surface": "יריעת",
-      "english": "幔子"
+      "gloss": "幔子"
     }
-  ],
-  "timestamp": "2026-07-17T18:28:21.782116134Z",
-  "model": "glm-5.2"
+  ]
 }

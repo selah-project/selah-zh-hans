@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "leviticus 16:20",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 656,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19746,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20402
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:51:11.070023515Z",
   "translation": "他⟨从⟩完成赎罪 ⟨את⟩⟨那⟩圣所、⟨את⟩会幕和 ⟨את⟩⟨那⟩祭坛之后,就要把 ⟨את⟩⟨那⟩活山羊带近前来。",
   "tokens": [
     {
       "surface": "וכלה",
-      "english": "他⟨从⟩完成"
+      "gloss": "他⟨从⟩完成"
     },
     {
       "surface": "מכפר",
-      "english": "赎罪"
+      "gloss": "赎罪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "圣所"
     },
     {
       "surface": "הקדש",
-      "english": "⟨那⟩圣所"
+      "gloss": "⟨那⟩圣所"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "(指定聚会)"
+      "gloss": "(指定聚会)"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "祭坛"
     },
     {
       "surface": "המזבח",
-      "english": "⟨那⟩祭坛"
+      "gloss": "⟨那⟩祭坛"
     },
     {
       "surface": "והקריב",
-      "english": "就要带近前来"
+      "gloss": "就要带近前来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "活山羊"
     },
     {
       "surface": "השעיר",
-      "english": "⟨那⟩山羊"
+      "gloss": "⟨那⟩山羊"
     },
     {
       "surface": "החי",
-      "english": "活的"
+      "gloss": "活的"
     }
-  ],
-  "timestamp": "2026-07-17T18:51:11.070023515Z",
-  "model": "glm-5.2"
+  ]
 }

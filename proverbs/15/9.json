@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 15:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54487,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54813
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:58.507237320Z",
   "translation": "恶人的道路是雅威所憎恶的,但⟨他⟩爱那追求公义的人。",
   "tokens": [
     {
       "surface": "תועבת",
-      "english": "可憎恶之物"
+      "gloss": "可憎恶之物"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דרך",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "רשע",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "ומרדף",
-      "english": "但追求"
+      "gloss": "但追求"
     },
     {
       "surface": "צדקה",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "יאהב",
-      "english": "⟨他⟩爱"
+      "gloss": "⟨他⟩爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:58.507237320Z",
-  "model": "glm-5.2"
+  ]
 }

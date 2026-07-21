@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 13:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21599,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22117
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:29.039687862Z",
   "translation": "然而你们⟨是⟩涂抹虚假的,⟨是⟩医治虚无不值之物的,你们全部。",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "טפלי",
-      "english": "涂抹……的"
+      "gloss": "涂抹……的"
     },
     {
       "surface": "שקר",
-      "english": "虚假"
+      "gloss": "虚假"
     },
     {
       "surface": "רפאי",
-      "english": "医治……的"
+      "gloss": "医治……的"
     },
     {
       "surface": "אלל",
-      "english": "虚无不值之物"
+      "gloss": "虚无不值之物"
     },
     {
       "surface": "כלכם",
-      "english": "你们全部"
+      "gloss": "你们全部"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:29.039687862Z",
-  "model": "glm-5.2"
+  ]
 }

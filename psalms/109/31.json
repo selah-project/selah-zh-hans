@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "psalms 109:31",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64396,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64762
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:25.967213700Z",
   "translation": "因为他站在⟨那⟩穷乏人的右边,⟨为⟩要救他脱离审判他鲁阿的人。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יעמד",
-      "english": "他站在"
+      "gloss": "他站在"
     },
     {
       "surface": "לימין",
-      "english": "⟨在⟩右边"
+      "gloss": "⟨在⟩右边"
     },
     {
       "surface": "אביון",
-      "english": "穷乏人"
+      "gloss": "穷乏人"
     },
     {
       "surface": "להושיע",
-      "english": "⟨为⟩要救他"
+      "gloss": "⟨为⟩要救他"
     },
     {
       "surface": "משפטי",
-      "english": "脱离审判……的人"
+      "gloss": "脱离审判……的人"
     },
     {
       "surface": "נפשו",
-      "english": "他的鲁阿"
+      "gloss": "他的鲁阿"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:25.967213700Z",
-  "model": "glm-5.2"
+  ]
 }

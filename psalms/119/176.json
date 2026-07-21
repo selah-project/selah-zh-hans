@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 176,
   "ref": "psalms 119:176",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65071
-  },
+  "verse": 176,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:55.867266520Z",
   "translation": "我迷了路，如同失丧的羊——求你寻找你的仆人，因为我没有忘记你的训诫。",
   "tokens": [
     {
       "surface": "תעיתי",
-      "english": "我迷了路"
+      "gloss": "我迷了路"
     },
     {
       "surface": "כשה",
-      "english": "如同羊"
+      "gloss": "如同羊"
     },
     {
       "surface": "אבד",
-      "english": "失丧的"
+      "gloss": "失丧的"
     },
     {
       "surface": "בקש",
-      "english": "求你寻找"
+      "gloss": "求你寻找"
     },
     {
       "surface": "עבדך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מצותיך",
-      "english": "你的训诫"
+      "gloss": "你的训诫"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שכחתי",
-      "english": "我忘记了"
+      "gloss": "我忘记了"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:55.867266520Z",
-  "model": "glm-5.2"
+  ]
 }

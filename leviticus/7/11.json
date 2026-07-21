@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 7:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18954,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19308
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:33.092557863Z",
   "translation": "这是平安祭牲的妥拉，就是人可以献近给雅威的：",
   "tokens": [
     {
       "surface": "ו\/זֹאת",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "תורת",
-      "english": "……的妥拉"
+      "gloss": "……的妥拉"
     },
     {
       "surface": "זבח",
-      "english": "祭牲"
+      "gloss": "祭牲"
     },
     {
       "surface": "ה\/שלמים",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "יקריב",
-      "english": "人可以献近"
+      "gloss": "人可以献近"
     },
     {
       "surface": "ל\/יהוה",
-      "english": "给雅威"
+      "gloss": "给雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:33.092557863Z",
-  "model": "glm-5.2"
+  ]
 }

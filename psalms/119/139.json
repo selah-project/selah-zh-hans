@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 139,
   "ref": "psalms 119:139",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64326,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64799
-  },
+  "verse": 139,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:18.331337370Z",
   "translation": "我的热心将我耗尽,因为我的敌人忘记了你的*davar* (话语)。",
   "tokens": [
     {
       "surface": "צמתתני",
-      "english": "将我耗尽"
+      "gloss": "将我耗尽"
     },
     {
       "surface": "קנאתי",
-      "english": "我的热心"
+      "gloss": "我的热心"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שכחו",
-      "english": "忘记了"
+      "gloss": "忘记了"
     },
     {
       "surface": "דבריך",
-      "english": "你的 *davar* (话语)"
+      "gloss": "你的 *davar* (话语)"
     },
     {
       "surface": "צרי",
-      "english": "我的敌人"
+      "gloss": "我的敌人"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:18.331337370Z",
-  "model": "glm-5.2"
+  ]
 }

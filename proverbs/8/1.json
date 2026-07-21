@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 8:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54217,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54590
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:14.414195131Z",
   "translation": "智慧岂不呼唤？*Jojmá* 岂不发声？*Tevuná* 岂不赐出她的声音？",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "תקרא",
-      "english": "呼唤？"
+      "gloss": "呼唤？"
     },
     {
       "surface": "ותבונה",
-      "english": "洞察岂不"
+      "gloss": "洞察岂不"
     },
     {
       "surface": "תתן",
-      "english": "赐出"
+      "gloss": "赐出"
     },
     {
       "surface": "קולה",
-      "english": "她的声音？"
+      "gloss": "她的声音？"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:14.414195131Z",
-  "model": "glm-5.2"
+  ]
 }

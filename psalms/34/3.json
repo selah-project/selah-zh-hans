@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 34:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64820
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:16.965693112Z",
   "translation": "在雅威里，我的⟨נפשׁ⟩要赞美；愿谦卑人听见，就欢喜。",
   "tokens": [
     {
       "surface": "בַּ֭\/יהוָה",
-      "english": "在雅威里"
+      "gloss": "在雅威里"
     },
     {
       "surface": "תִּתְהַלֵּ֣ל",
-      "english": "要赞美"
+      "gloss": "要赞美"
     },
     {
       "surface": "נַפְשִׁ֑\/י",
-      "english": "我的⟨נפשׁ⟩"
+      "gloss": "我的⟨נפשׁ⟩"
     },
     {
       "surface": "יִשְׁמְע֖וּ",
-      "english": "愿……听见"
+      "gloss": "愿……听见"
     },
     {
       "surface": "עֲנָוִ֣ים",
-      "english": "谦卑人"
+      "gloss": "谦卑人"
     },
     {
       "surface": "וְ\/יִשְׂמָֽחוּ",
-      "english": "就欢喜"
+      "gloss": "就欢喜"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:16.965693112Z",
-  "model": "glm-5.2"
+  ]
 }

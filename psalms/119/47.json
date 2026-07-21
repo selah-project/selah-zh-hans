@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 47,
   "ref": "psalms 119:47",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64163,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64428
-  },
+  "verse": 47,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:47.962096540Z",
   "translation": "我必在你⟨的⟩מצוה（诫命）中寻得乐，就是我所爱的。",
   "tokens": [
     {
       "surface": "ואשתעשע",
-      "english": "我必在其中寻得乐"
+      "gloss": "我必在其中寻得乐"
     },
     {
       "surface": "במצותיך",
-      "english": "在你⟨的⟩מצוה（诫命）"
+      "gloss": "在你⟨的⟩מצוה（诫命）"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "אהבתי",
-      "english": "我所爱的"
+      "gloss": "我所爱的"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:47.962096540Z",
-  "model": "glm-5.2"
+  ]
 }

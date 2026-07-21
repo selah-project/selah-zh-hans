@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 31:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64377,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64796
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:11.006325283Z",
   "translation": "我被遗忘,如同⟨一个⟩死了⟨的⟩人⟨,⟩从⟨众人的⟩心中;我成了像一个失丧的器皿。",
   "tokens": [
     {
       "surface": "נִ֭שְׁכַּחְתִּי",
-      "english": "我被遗忘"
+      "gloss": "我被遗忘"
     },
     {
       "surface": "כְּ\/מֵ֣ת",
-      "english": "如同死了⟨的⟩人"
+      "gloss": "如同死了⟨的⟩人"
     },
     {
       "surface": "מִ\/לֵּ֑ב",
-      "english": "从心中"
+      "gloss": "从心中"
     },
     {
       "surface": "הָ֝יִ֗יתִי",
-      "english": "我成了"
+      "gloss": "我成了"
     },
     {
       "surface": "כִּ\/כְלִ֥י",
-      "english": "像一个器皿"
+      "gloss": "像一个器皿"
     },
     {
       "surface": "אֹבֵֽד",
-      "english": "失丧的"
+      "gloss": "失丧的"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:11.006325283Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "amos 6:5",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18072,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18636
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:21:21.422695259Z",
   "translation": "那些弹拨着נָבֶל（琵琶）口的人，像大卫一样为自己设计了歌唱的器具。",
   "tokens": [
     {
       "surface": "הַ\/פֹּרְטִ֖ים",
-      "english": "那些弹拨的"
+      "gloss": "那些弹拨的"
     },
     {
       "surface": "עַל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פִּ֣י",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "הַ\/נָּ֑בֶל",
-      "english": "那נָבֶל（琵琶）"
+      "gloss": "那נָבֶל（琵琶）"
     },
     {
       "surface": "כְּ\/דָוִ֕יד",
-      "english": "像大卫"
+      "gloss": "像大卫"
     },
     {
       "surface": "חָשְׁב֥וּ",
-      "english": "他们设计了"
+      "gloss": "他们设计了"
     },
     {
       "surface": "לָ\/הֶ֖ם",
-      "english": "为他们自己"
+      "gloss": "为他们自己"
     },
     {
       "surface": "כְּלֵי",
-      "english": "器具"
+      "gloss": "器具"
     },
     {
       "surface": "שִֽׁיר",
-      "english": "歌唱"
+      "gloss": "歌唱"
     }
-  ],
-  "timestamp": "2026-07-17T23:21:21.422695259Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 18:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18716,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19121
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:22:16.611672494Z",
   "translation": "而另一个的名字⟨是⟩以利以谢,因为他说:我父亲的以罗欣⟨是⟩我的帮助,他救了我脱离法老的刀剑。",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "而……的名字"
+      "gloss": "而……的名字"
     },
     {
       "surface": "האחד",
-      "english": "另一个 (另一)"
+      "gloss": "另一个 (另一)"
     },
     {
       "surface": "אליעזר",
-      "english": "以利以谢"
+      "gloss": "以利以谢"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣 (……的)"
+      "gloss": "以罗欣 (……的)"
     },
     {
       "surface": "אבי",
-      "english": "我父亲的"
+      "gloss": "我父亲的"
     },
     {
       "surface": "בעזרי",
-      "english": "我的帮助"
+      "gloss": "我的帮助"
     },
     {
       "surface": "ויצלני",
-      "english": "他救了我"
+      "gloss": "他救了我"
     },
     {
       "surface": "מחרב",
-      "english": "脱离……的刀剑"
+      "gloss": "脱离……的刀剑"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     }
-  ],
-  "timestamp": "2026-07-17T18:22:16.611672494Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 63:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20713,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21131
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:04:25.104580618Z",
   "translation": "我踐踏萬民在我的怒中，使他們沉醉在我的烈怒中，我將他們的生命之汁傾倒在地上。",
   "tokens": [
     {
       "surface": "ואבוס",
-      "english": "我踐踏"
+      "gloss": "我踐踏"
     },
     {
       "surface": "עמים",
-      "english": "萬民"
+      "gloss": "萬民"
     },
     {
       "surface": "באפי",
-      "english": "在我的怒中"
+      "gloss": "在我的怒中"
     },
     {
       "surface": "ואשכרם",
-      "english": "使他們沉醉"
+      "gloss": "使他們沉醉"
     },
     {
       "surface": "בחמתי",
-      "english": "在我的烈怒中"
+      "gloss": "在我的烈怒中"
     },
     {
       "surface": "ואוריד",
-      "english": "我傾倒\/帶下"
+      "gloss": "我傾倒\/帶下"
     },
     {
       "surface": "לארץ",
-      "english": "到地上"
+      "gloss": "到地上"
     },
     {
       "surface": "נצחם",
-      "english": "他們的生命之汁"
+      "gloss": "他們的生命之汁"
     }
-  ],
-  "timestamp": "2026-07-17T22:04:25.104580618Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 12:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18591,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19041
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:17.988217272Z",
   "translation": "这月向你们⟨是⟩月份的头⟨את⟩；它是向你们一年月份中⟨的⟩第一。",
   "tokens": [
     {
       "surface": "החדש",
-      "english": "这月"
+      "gloss": "这月"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לכם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "חדשים",
-      "english": "⟨את⟩月份"
+      "gloss": "⟨את⟩月份"
     },
     {
       "surface": "ראשון",
-      "english": "第一"
+      "gloss": "第一"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "לכם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "לחדשי",
-      "english": "……月份中"
+      "gloss": "……月份中"
     },
     {
       "surface": "השנה",
-      "english": "一年"
+      "gloss": "一年"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:17.988217272Z",
-  "model": "glm-5.2"
+  ]
 }

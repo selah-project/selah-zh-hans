@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 28:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54446,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54879
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:41.230596901Z",
   "translation": "一个穷乏人欺压贫弱人,⟨是⟩如同驱散一切的暴雨,没有食物。",
   "tokens": [
     {
       "surface": "גבר",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "רש",
-      "english": "穷乏的"
+      "gloss": "穷乏的"
     },
     {
       "surface": "ועשק",
-      "english": "且欺压"
+      "gloss": "且欺压"
     },
     {
       "surface": "דלים",
-      "english": "贫弱人"
+      "gloss": "贫弱人"
     },
     {
       "surface": "מטר",
-      "english": "如同暴雨"
+      "gloss": "如同暴雨"
     },
     {
       "surface": "סחף",
-      "english": "驱散一切的"
+      "gloss": "驱散一切的"
     },
     {
       "surface": "ואין",
-      "english": "且没有"
+      "gloss": "且没有"
     },
     {
       "surface": "לחם",
-      "english": "食物"
+      "gloss": "食物"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:41.230596901Z",
-  "model": "glm-5.2"
+  ]
 }

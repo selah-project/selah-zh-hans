@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 165,
   "ref": "psalms 119:165",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64360,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64751
-  },
+  "verse": 165,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:47.314195597Z",
   "translation": "丰沛的平安归于爱慕你妥拉的人，对他们而言不存在绊脚石。",
   "tokens": [
     {
       "surface": "שָׁל֣וֹם",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "רָ֭ב",
-      "english": "丰沛的"
+      "gloss": "丰沛的"
     },
     {
       "surface": "לְ\/אֹהֲבֵ֣י",
-      "english": "归于爱慕……的人"
+      "gloss": "归于爱慕……的人"
     },
     {
       "surface": "תוֹרָתֶ֑\/ךָ",
-      "english": "你的妥拉"
+      "gloss": "你的妥拉"
     },
     {
       "surface": "וְ\/אֵֽין",
-      "english": "而不存在"
+      "gloss": "而不存在"
     },
     {
       "surface": "לָ֥\/מוֹ",
-      "english": "对他们而言"
+      "gloss": "对他们而言"
     },
     {
       "surface": "מִכְשֽׁוֹל",
-      "english": "绊脚石"
+      "gloss": "绊脚石"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:47.314195597Z",
-  "model": "glm-5.2"
+  ]
 }

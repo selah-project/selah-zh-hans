@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 42:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21520,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22015
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:10.836716031Z",
   "translation": "我耳朵所听见的 ⟨是⟩ 关于你的传闻,但现在我的眼 ⟨已经⟩ 看见了你。",
   "tokens": [
     {
       "surface": "לשמע",
-      "english": "所听见的"
+      "gloss": "所听见的"
     },
     {
       "surface": "אזן",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "שמעתיך",
-      "english": "我听见了你"
+      "gloss": "我听见了你"
     },
     {
       "surface": "ועתה",
-      "english": "但现在"
+      "gloss": "但现在"
     },
     {
       "surface": "עיני",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "ראתך",
-      "english": "看见了"
+      "gloss": "看见了"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:10.836716031Z",
-  "model": "glm-5.2"
+  ]
 }

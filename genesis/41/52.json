@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
   "ref": "genesis 41:52",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23247,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23684
-  },
+  "verse": 52,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:01:56.926834336Z",
   "translation": "至于⟨את⟩第二个的名字,他称为以法莲,因为以罗欣使我在我受苦之地结果累累。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "至于⟨את⟩",
+      "gloss": "至于⟨את⟩",
       "marks": "名字"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "השני",
-      "english": "第二个"
+      "gloss": "第二个"
     },
     {
       "surface": "קרא",
-      "english": "他称为"
+      "gloss": "他称为"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הפרני",
-      "english": "他使我结果累累"
+      "gloss": "他使我结果累累"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בארץ",
-      "english": "在……之地"
+      "gloss": "在……之地"
     },
     {
       "surface": "עניי",
-      "english": "我受苦"
+      "gloss": "我受苦"
     }
-  ],
-  "timestamp": "2026-07-17T18:01:56.926834336Z",
-  "model": "glm-5.2"
+  ]
 }

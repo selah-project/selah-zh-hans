@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "1-chronicles 16:19",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58445,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58776
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:04:07.177380383Z",
   "translation": "当你们⟨是⟩人数稀少、确实极少、并在其中寄居的时候，",
   "tokens": [
     {
       "surface": "בהיותכם",
-      "english": "当你们⟨是⟩……的时候"
+      "gloss": "当你们⟨是⟩……的时候"
     },
     {
       "surface": "מתי",
-      "english": "人数"
+      "gloss": "人数"
     },
     {
       "surface": "מספר",
-      "english": "稀少"
+      "gloss": "稀少"
     },
     {
       "surface": "כמעט",
-      "english": "确实极少"
+      "gloss": "确实极少"
     },
     {
       "surface": "וגרים",
-      "english": "并寄居"
+      "gloss": "并寄居"
     },
     {
       "surface": "בה",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-18T02:04:07.177380383Z",
-  "model": "glm-5.2"
+  ]
 }

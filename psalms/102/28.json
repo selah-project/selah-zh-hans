@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "psalms 102:28",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64183,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64583
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:09.663094582Z",
   "translation": "而你是⟨那⟩同一者,你的年岁必不耗尽。",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "而你是"
+      "gloss": "而你是"
     },
     {
       "surface": "הוא",
-      "english": "⟨那⟩同一者"
+      "gloss": "⟨那⟩同一者"
     },
     {
       "surface": "ושנותיך",
-      "english": "你的年岁"
+      "gloss": "你的年岁"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יתמו",
-      "english": "必耗尽"
+      "gloss": "必耗尽"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:09.663094582Z",
-  "model": "glm-5.2"
+  ]
 }

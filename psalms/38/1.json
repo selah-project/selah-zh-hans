@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 38:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 188,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64077,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64265
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:12.247159174Z",
   "translation": "大卫的 *mizmor*，为使记念。",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "*mizmor*（诗歌\/乐器之乐）"
+      "gloss": "*mizmor*（诗歌\/乐器之乐）"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "להזכיר",
-      "english": "为使记念"
+      "gloss": "为使记念"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:12.247159174Z",
-  "model": "glm-5.2"
+  ]
 }

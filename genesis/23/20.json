@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 23:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23108,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23489
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:46:31.559696947Z",
   "translation": "那田地和其中的洞穴,就从赫特的子孙那里立定给亚伯拉罕作为坟地的产业。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "立定"
+      "gloss": "立定"
     },
     {
       "surface": "השדה",
-      "english": "那田地"
+      "gloss": "那田地"
     },
     {
       "surface": "והמערה",
-      "english": "和其中的洞穴"
+      "gloss": "和其中的洞穴"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "בו",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "לאברהם",
-      "english": "给亚伯拉罕"
+      "gloss": "给亚伯拉罕"
     },
     {
       "surface": "לאחזת",
-      "english": "作为产业"
+      "gloss": "作为产业"
     },
     {
       "surface": "קבר",
-      "english": "坟地"
+      "gloss": "坟地"
     },
     {
       "surface": "מאת",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "חת",
-      "english": "赫特"
+      "gloss": "赫特"
     }
-  ],
-  "timestamp": "2026-07-17T17:46:31.559696947Z",
-  "model": "glm-5.2"
+  ]
 }

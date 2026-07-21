@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 107:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64331,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64726
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:26.811249165Z",
   "translation": "让他们献上感恩的 korbán（献礼），在欢呼中讲述他的作为。",
   "tokens": [
     {
       "surface": "ויזבחו",
-      "english": "让他们献上"
+      "gloss": "让他们献上"
     },
     {
       "surface": "זבחי",
-      "english": "korbán（献礼）"
+      "gloss": "korbán（献礼）"
     },
     {
       "surface": "תודה",
-      "english": "感恩"
+      "gloss": "感恩"
     },
     {
       "surface": "ויספרו",
-      "english": "在讲述中"
+      "gloss": "在讲述中"
     },
     {
       "surface": "מעשיו",
-      "english": "他的作为"
+      "gloss": "他的作为"
     },
     {
       "surface": "ברנה",
-      "english": "在欢呼中"
+      "gloss": "在欢呼中"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:26.811249165Z",
-  "model": "glm-5.2"
+  ]
 }

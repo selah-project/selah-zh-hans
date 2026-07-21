@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 19:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54413,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54706
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:13.463495589Z",
   "translation": "虚假的见证人必不免罚，⟨那⟩吐出谎言的也必灭亡。",
   "tokens": [
     {
       "surface": "עד",
-      "english": "见证人"
+      "gloss": "见证人"
     },
     {
       "surface": "שקרים",
-      "english": "虚假的"
+      "gloss": "虚假的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ינקה",
-      "english": "免罚"
+      "gloss": "免罚"
     },
     {
       "surface": "ויפיח",
-      "english": "⟨那⟩吐出"
+      "gloss": "⟨那⟩吐出"
     },
     {
       "surface": "כזבים",
-      "english": "谎言的"
+      "gloss": "谎言的"
     },
     {
       "surface": "יאבד",
-      "english": "也必灭亡"
+      "gloss": "也必灭亡"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:13.463495589Z",
-  "model": "glm-5.2"
+  ]
 }

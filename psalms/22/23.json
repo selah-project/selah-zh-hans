@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 22:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64411,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64755
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:20.985663044Z",
   "translation": "我要向我的兄弟们述说你的名,在会众中间我要赞美你。",
   "tokens": [
     {
       "surface": "אספרה",
-      "english": "我要述说"
+      "gloss": "我要述说"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "לאחי",
-      "english": "向我的兄弟们"
+      "gloss": "向我的兄弟们"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "קהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "אהללך",
-      "english": "我要赞美你"
+      "gloss": "我要赞美你"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:20.985663044Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 57,
   "ref": "psalms 119:57",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64245,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64544
-  },
+  "verse": 57,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:48.013687855Z",
   "translation": "雅威 ⟨是⟩ 我的分,我说:⟨要⟩ 谨守你的话。",
   "tokens": [
     {
       "surface": "חלקי",
-      "english": "我的分"
+      "gloss": "我的分"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "לשמר",
-      "english": "谨守"
+      "gloss": "谨守"
     },
     {
       "surface": "דבריך",
-      "english": "你的*话*"
+      "gloss": "你的*话*"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:48.013687855Z",
-  "model": "glm-5.2"
+  ]
 }

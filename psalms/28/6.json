@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 28:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64368,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64622
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:13.397533307Z",
   "translation": "雅威是可称颂的，因为他听了我恳求的声音。",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "可称颂的"
+      "gloss": "可称颂的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמע",
-      "english": "他听了"
+      "gloss": "他听了"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "תחנוני",
-      "english": "我的恳求"
+      "gloss": "我的恳求"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:13.397533307Z",
-  "model": "glm-5.2"
+  ]
 }

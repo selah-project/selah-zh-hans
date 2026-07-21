@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 115,
   "ref": "psalms 119:115",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64346,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 115,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:08.728947729Z",
   "translation": "你们这些作恶的人，离开我吧，⟨好让⟩我谨守我以罗欣（神）的⟨את⟩诫命。",
   "tokens": [
     {
       "surface": "סורו",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "ממני",
-      "english": "从我"
+      "gloss": "从我"
     },
     {
       "surface": "מרעים",
-      "english": "你们这些作恶的人"
+      "gloss": "你们这些作恶的人"
     },
     {
       "surface": "ואצרה",
-      "english": "⟨好让⟩我谨守"
+      "gloss": "⟨好让⟩我谨守"
     },
     {
       "surface": "מצות",
-      "english": "诫命"
+      "gloss": "诫命"
     },
     {
       "surface": "אלהי",
-      "english": "我以罗欣（神）的"
+      "gloss": "我以罗欣（神）的"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:08.728947729Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 2:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54308,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54734
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:11.241348726Z",
   "translation": "使你的耳朵倾听*Jojmá*（智慧），你的心向*Tevuná*（理解）倾斜；",
   "tokens": [
     {
       "surface": "להקשיב",
-      "english": "使……倾听"
+      "gloss": "使……倾听"
     },
     {
       "surface": "לחכמה",
-      "english": "向 *Jojmá*（智慧）"
+      "gloss": "向 *Jojmá*（智慧）"
     },
     {
       "surface": "אזנך",
-      "english": "你的耳朵"
+      "gloss": "你的耳朵"
     },
     {
       "surface": "תטה",
-      "english": "倾斜"
+      "gloss": "倾斜"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "לתבונה",
-      "english": "向 *Tevuná*（理解）"
+      "gloss": "向 *Tevuná*（理解）"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:11.241348726Z",
-  "model": "glm-5.2"
+  ]
 }

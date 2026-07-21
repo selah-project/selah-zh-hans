@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 147:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64368,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64757
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:48.182181134Z",
   "translation": "他数点星宿的数目，⟨为⟩它们全部⟨他⟩呼唤名字。",
   "tokens": [
     {
       "surface": "מונה",
-      "english": "数点"
+      "gloss": "数点"
     },
     {
       "surface": "מספר",
-      "english": "数目"
+      "gloss": "数目"
     },
     {
       "surface": "לכוכבים",
-      "english": "星宿"
+      "gloss": "星宿"
     },
     {
       "surface": "לכלם",
-      "english": "它们全部"
+      "gloss": "它们全部"
     },
     {
       "surface": "שמות",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "יקרא",
-      "english": "⟨他⟩呼唤"
+      "gloss": "⟨他⟩呼唤"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:48.182181134Z",
-  "model": "glm-5.2"
+  ]
 }

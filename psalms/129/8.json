@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 129:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64851,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65284
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:33.497067477Z",
   "translation": "过路的人也不说:愿雅威的祝福 ⟨临到⟩ 你们;我们在雅威的名里祝福 ⟨את⟩ 你们。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "אמרו",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "העברים",
-      "english": "过路的人"
+      "gloss": "过路的人"
     },
     {
       "surface": "ברכת",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אליכם",
-      "english": "愿……临到你们"
+      "gloss": "愿……临到你们"
     },
     {
       "surface": "ברכנו",
-      "english": "我们祝福"
+      "gloss": "我们祝福"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "בשם",
-      "english": "在……的名里"
+      "gloss": "在……的名里"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:33.497067477Z",
-  "model": "glm-5.2"
+  ]
 }

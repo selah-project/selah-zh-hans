@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ecclesiastes 11:2",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19358,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19991
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:23:09.607347009Z",
   "translation": "当将一份分给七份,⟨也⟩给八份;因为你不知道会有什么灾祸 ⟨临到⟩ 地上。",
   "tokens": [
     {
       "surface": "תן",
-      "english": "当将……给"
+      "gloss": "当将……给"
     },
     {
       "surface": "חלק",
-      "english": "一份"
+      "gloss": "一份"
     },
     {
       "surface": "לשבעה",
-      "english": "给七"
+      "gloss": "给七"
     },
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "לשמונה",
-      "english": "给八"
+      "gloss": "给八"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תדע",
-      "english": "你知道"
+      "gloss": "你知道"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "יהיה",
-      "english": "会有"
+      "gloss": "会有"
     },
     {
       "surface": "רעה",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "על",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "הארץ",
-      "english": "地上"
+      "gloss": "地上"
     }
-  ],
-  "timestamp": "2026-07-18T01:23:09.607347009Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 37:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23374,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23827
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:43.205189140Z",
   "translation": "他们取了⟨את⟩约瑟的袍子，宰了一只公山羊，把⟨את⟩那袍子蘸在血中。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "他们取了"
+      "gloss": "他们取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约瑟的袍子"
     },
     {
       "surface": "כתנת",
-      "english": "袍子"
+      "gloss": "袍子"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟的"
+      "gloss": "约瑟的"
     },
     {
       "surface": "וישחטו",
-      "english": "他们宰了"
+      "gloss": "他们宰了"
     },
     {
       "surface": "שעיר",
-      "english": "一只公"
+      "gloss": "一只公"
     },
     {
       "surface": "עזים",
-      "english": "山羊"
+      "gloss": "山羊"
     },
     {
       "surface": "ויטבלו",
-      "english": "他们蘸了"
+      "gloss": "他们蘸了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那袍子"
     },
     {
       "surface": "הכתנת",
-      "english": "那袍子"
+      "gloss": "那袍子"
     },
     {
       "surface": "בדם",
-      "english": "在血中"
+      "gloss": "在血中"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:43.205189140Z",
-  "model": "glm-5.2"
+  ]
 }

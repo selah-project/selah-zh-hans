@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "hosea 8:12",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20985,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21345
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:14:49.571418558Z",
   "translation": "我为他写妥拉的万般训诲，它们却被算为⟨如同⟩陌生之物。",
   "tokens": [
     {
       "surface": "אכתוב",
-      "english": "我写"
+      "gloss": "我写"
     },
     {
       "surface": "לו",
-      "english": "为他"
+      "gloss": "为他"
     },
     {
       "surface": "רבו",
-      "english": "万般"
+      "gloss": "万般"
     },
     {
       "surface": "תורתי",
-      "english": "我妥拉的"
+      "gloss": "我妥拉的"
     },
     {
       "surface": "כמו",
-      "english": "⟨如同⟩"
+      "gloss": "⟨如同⟩"
     },
     {
       "surface": "זר",
-      "english": "陌生"
+      "gloss": "陌生"
     },
     {
       "surface": "נחשבו",
-      "english": "它们却被算为"
+      "gloss": "它们却被算为"
     }
-  ],
-  "timestamp": "2026-07-17T23:14:49.571418558Z",
-  "model": "glm-5.2"
+  ]
 }

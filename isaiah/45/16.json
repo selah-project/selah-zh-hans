@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 45:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20760,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21272
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:56:23.690517793Z",
   "translation": "他们必蒙羞，גַם⟨也⟩必受辱，他们全部人；他们一同行走，在羞辱之中，⟨那些⟩偶像的工匠。",
   "tokens": [
     {
       "surface": "בושו",
-      "english": "他们必蒙羞"
+      "gloss": "他们必蒙羞"
     },
     {
       "surface": "וגם",
-      "english": "גַם⟨也⟩"
+      "gloss": "גַם⟨也⟩"
     },
     {
       "surface": "נכלמו",
-      "english": "必受辱"
+      "gloss": "必受辱"
     },
     {
       "surface": "כלם",
-      "english": "他们全部人"
+      "gloss": "他们全部人"
     },
     {
       "surface": "יחדו",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "הלכו",
-      "english": "行走"
+      "gloss": "行走"
     },
     {
       "surface": "בכלמה",
-      "english": "在羞辱之中"
+      "gloss": "在羞辱之中"
     },
     {
       "surface": "חרשי",
-      "english": "⟨那些⟩工匠"
+      "gloss": "⟨那些⟩工匠"
     },
     {
       "surface": "צירים",
-      "english": "偶像"
+      "gloss": "偶像"
     }
-  ],
-  "timestamp": "2026-07-17T21:56:23.690517793Z",
-  "model": "glm-5.2"
+  ]
 }

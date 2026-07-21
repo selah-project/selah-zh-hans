@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 92:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64535,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64880
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:15.979595671Z",
   "translation": "我的眼已经 ⟨ב⟩ ⟨望见⟩ ⟨那⟩ 埋伏等候我的人，我的耳 ⟨也必⟩ 听见 ⟨那⟩ 起来攻击我的作恶者。",
   "tokens": [
     {
       "surface": "ותבט",
-      "english": "已经 ⟨ב⟩ ⟨望见⟩"
+      "gloss": "已经 ⟨ב⟩ ⟨望见⟩"
     },
     {
       "surface": "עיני",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "בשורי",
-      "english": "⟨ב⟩ 埋伏等候我的人"
+      "gloss": "⟨ב⟩ 埋伏等候我的人"
     },
     {
       "surface": "בקמים",
-      "english": "⟨ב⟩ ⟨那⟩ 起来"
+      "gloss": "⟨ב⟩ ⟨那⟩ 起来"
     },
     {
       "surface": "עלי",
-      "english": "攻击我的"
+      "gloss": "攻击我的"
     },
     {
       "surface": "מרעים",
-      "english": "作恶者"
+      "gloss": "作恶者"
     },
     {
       "surface": "תשמענה",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "אזני",
-      "english": "我的耳"
+      "gloss": "我的耳"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:15.979595671Z",
-  "model": "glm-5.2"
+  ]
 }

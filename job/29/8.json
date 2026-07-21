@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 29:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21539,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21955
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:02.202491774Z",
   "translation": "少年人看见我，就⟨躲藏⟩；老年人⟨也⟩起身，站立。",
   "tokens": [
     {
       "surface": "ראוני",
-      "english": "看见我"
+      "gloss": "看见我"
     },
     {
       "surface": "נערים",
-      "english": "少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "ונחבאו",
-      "english": "就⟨躲藏⟩"
+      "gloss": "就⟨躲藏⟩"
     },
     {
       "surface": "וישישים",
-      "english": "老年人⟨也⟩"
+      "gloss": "老年人⟨也⟩"
     },
     {
       "surface": "קמו",
-      "english": "起身"
+      "gloss": "起身"
     },
     {
       "surface": "עמדו",
-      "english": "站立"
+      "gloss": "站立"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:02.202491774Z",
-  "model": "glm-5.2"
+  ]
 }

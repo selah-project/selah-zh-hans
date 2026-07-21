@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 6:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54460,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54829
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:17.631105158Z",
   "translation": "少许睡眠,少许打盹,少许双手合抱——⟨为了⟩躺卧;",
   "tokens": [
     {
       "surface": "מעט",
-      "english": "少许"
+      "gloss": "少许"
     },
     {
       "surface": "שנות",
-      "english": "睡眠"
+      "gloss": "睡眠"
     },
     {
       "surface": "מעט",
-      "english": "少许"
+      "gloss": "少许"
     },
     {
       "surface": "תנומות",
-      "english": "打盹"
+      "gloss": "打盹"
     },
     {
       "surface": "מעט",
-      "english": "少许"
+      "gloss": "少许"
     },
     {
       "surface": "חבק",
-      "english": "合抱"
+      "gloss": "合抱"
     },
     {
       "surface": "ידים",
-      "english": "双手"
+      "gloss": "双手"
     },
     {
       "surface": "לשכב",
-      "english": "⟨为了⟩躺卧"
+      "gloss": "⟨为了⟩躺卧"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:17.631105158Z",
-  "model": "glm-5.2"
+  ]
 }

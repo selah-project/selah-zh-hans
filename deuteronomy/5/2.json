@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "deuteronomy 5:2",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18993,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19309
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:30:56.361631559Z",
   "translation": "雅威我们的以罗欣与我们立了布瑞特，在何烈山。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "כרת",
-      "english": "立了"
+      "gloss": "立了"
     },
     {
       "surface": "עמנו",
-      "english": "与我们"
+      "gloss": "与我们"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "בחרב",
-      "english": "在何烈"
+      "gloss": "在何烈"
     }
-  ],
-  "timestamp": "2026-07-17T19:30:56.361631559Z",
-  "model": "glm-5.2"
+  ]
 }

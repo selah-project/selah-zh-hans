@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 3:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54308,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54733
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:54.301651834Z",
   "translation": "藉着他的 דַּעַת,深渊裂开,云层滴下甘露。",
   "tokens": [
     {
       "surface": "בְּ֭\/דַעְתּ\/וֹ",
-      "english": "藉着他的 *da'at* (知识)"
+      "gloss": "藉着他的 *da'at* (知识)"
     },
     {
       "surface": "תְּהוֹמ֣וֹת",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "נִבְקָ֑עוּ",
-      "english": "裂开"
+      "gloss": "裂开"
     },
     {
       "surface": "וּ֝\/שְׁחָקִ֗ים",
-      "english": "云层"
+      "gloss": "云层"
     },
     {
       "surface": "יִרְעֲפוּ",
-      "english": "滴下"
+      "gloss": "滴下"
     },
     {
       "surface": "טָֽל",
-      "english": "甘露"
+      "gloss": "甘露"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:54.301651834Z",
-  "model": "glm-5.2"
+  ]
 }

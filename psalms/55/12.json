@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 55:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64474,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64844
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:54.334276162Z",
   "translation": "毁灭 ⟨在⟩ ⟨她的⟩ 中间，欺压和诡诈不离 ⟨她的⟩ 街市。",
   "tokens": [
     {
       "surface": "הוות",
-      "english": "毁灭"
+      "gloss": "毁灭"
     },
     {
       "surface": "בקרבה",
-      "english": "在其中间"
+      "gloss": "在其中间"
     },
     {
       "surface": "ולא",
-      "english": "而不离"
+      "gloss": "而不离"
     },
     {
       "surface": "ימיש",
-      "english": "离去"
+      "gloss": "离去"
     },
     {
       "surface": "מרחבה",
-      "english": "她的街市"
+      "gloss": "她的街市"
     },
     {
       "surface": "תך",
-      "english": "欺压"
+      "gloss": "欺压"
     },
     {
       "surface": "ומרמה",
-      "english": "和诡诈"
+      "gloss": "和诡诈"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:54.334276162Z",
-  "model": "glm-5.2"
+  ]
 }

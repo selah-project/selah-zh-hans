@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "jeremiah 18:1",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18842,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19179
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:17:10.868733828Z",
   "translation": "⟨那⟩*davar* 临到耶利米 —— 来自雅威的 —— 说：",
   "tokens": [
     {
       "surface": "הדבר",
-      "english": "⟨那⟩*davar*"
+      "gloss": "⟨那⟩*davar*"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "היה",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "אל",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "מאת",
-      "english": "来自"
+      "gloss": "来自"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     }
-  ],
-  "timestamp": "2026-07-17T22:17:10.868733828Z",
-  "model": "glm-5.2"
+  ]
 }

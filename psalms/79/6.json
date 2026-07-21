@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 79:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65006,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65380
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:30.044892752Z",
   "translation": "求你将你的烈怒倾倒在那些不认识你的列国身上,以及那些没有以你的名呼求的诸国身上。",
   "tokens": [
     {
       "surface": "שְׁפֹךְ",
-      "english": "倾倒"
+      "gloss": "倾倒"
     },
     {
       "surface": "חֲמָתְ\/ךָ",
-      "english": "你的烈怒"
+      "gloss": "你的烈怒"
     },
     {
       "surface": "אֶל",
-      "english": "在……身上"
+      "gloss": "在……身上"
     },
     {
       "surface": "הַ\/גּוֹיִם",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְדָעוּ\/ךָ",
-      "english": "认识你"
+      "gloss": "认识你"
     },
     {
       "surface": "וְ\/עַל",
-      "english": "以及"
+      "gloss": "以及"
     },
     {
       "surface": "מַמְלָכוֹת",
-      "english": "诸国"
+      "gloss": "诸国"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "בְּ\/שִׁמְ\/ךָ",
-      "english": "以你的名"
+      "gloss": "以你的名"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "קָרָאוּ",
-      "english": "呼求"
+      "gloss": "呼求"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:30.044892752Z",
-  "model": "glm-5.2"
+  ]
 }

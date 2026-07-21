@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 20:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54283,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54634
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:47.222769864Z",
   "translation": "行走在⟨他的⟩完全之中的义人——有福啊,他的众子⟨在他⟩之后!",
   "tokens": [
     {
       "surface": "מתהלך",
-      "english": "行走"
+      "gloss": "行走"
     },
     {
       "surface": "בתמו",
-      "english": "在⟨他的⟩完全之中"
+      "gloss": "在⟨他的⟩完全之中"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "אשרי",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "בניו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "אחריו",
-      "english": "⟨在他⟩之后"
+      "gloss": "⟨在他⟩之后"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:47.222769864Z",
-  "model": "glm-5.2"
+  ]
 }

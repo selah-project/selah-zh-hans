@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "leviticus 26:3",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 650,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19180,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19830
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:26.399807498Z",
   "translation": "你们若行在我的 חֻקּוֹת 中,⟨את⟩ 我的 מִצְוֺת 你们守护,并你们行出 ⟨את⟩ 它们;",
   "tokens": [
     {
       "surface": "אִם",
-      "english": "你们若"
+      "gloss": "你们若"
     },
     {
       "surface": "בְּ\/חֻקֹּתַ֖\/י",
-      "english": "行在我的 חֻקּוֹת 中"
+      "gloss": "行在我的 חֻקּוֹת 中"
     },
     {
       "surface": "תֵּלֵ֑כוּ",
-      "english": "你们行"
+      "gloss": "你们行"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的 מִצְוֺת"
     },
     {
       "surface": "מִצְוֺתַ֣\/י",
-      "english": "我的 מִצְוֺת"
+      "gloss": "我的 מִצְוֺת"
     },
     {
       "surface": "תִּשְׁמְר֔וּ",
-      "english": "你们守护"
+      "gloss": "你们守护"
     },
     {
       "surface": "וַ\/עֲשִׂיתֶ֖ם",
-      "english": "并你们行出"
+      "gloss": "并你们行出"
     },
     {
       "surface": "אֹתָֽ\/ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:26.399807498Z",
-  "model": "glm-5.2"
+  ]
 }

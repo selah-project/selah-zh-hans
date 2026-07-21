@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 1:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 619,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18592,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19211
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T07:01:56.117826586Z",
   "translation": "他们回答约书亚,⟨את⟩,说:凡你所吩咐我们的,我们都必遵行;凡你差遣我们去的⟨地方⟩,我们都必去。",
   "tokens": [
     {
       "surface": "וַֽ\/יַּעֲנ֔וּ",
-      "english": "他们回答"
+      "gloss": "他们回答"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约书亚"
     },
     {
       "surface": "יְהוֹשֻׁ֖עַ",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "לֵ\/אמֹ֑ר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "כֹּ֤ל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "צִוִּיתָ֨\/נוּ֙",
-      "english": "你吩咐我们的"
+      "gloss": "你吩咐我们的"
     },
     {
       "surface": "נַֽעֲשֶׂ֔ה",
-      "english": "我们都必遵行"
+      "gloss": "我们都必遵行"
     },
     {
       "surface": "וְ\/אֶֽל",
-      "english": "至于凡"
+      "gloss": "至于凡"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "תִּשְׁלָחֵ֖\/נוּ",
-      "english": "你差遣我们去的"
+      "gloss": "你差遣我们去的"
     },
     {
       "surface": "נֵלֵֽךְ",
-      "english": "我们都必去"
+      "gloss": "我们都必去"
     }
-  ],
-  "timestamp": "2026-07-20T07:01:56.117826586Z",
-  "model": "glm-5.2"
+  ]
 }

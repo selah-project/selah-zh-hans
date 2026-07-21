@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "2-kings 4:7",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19328,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19923
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:07.725270263Z",
   "translation": "她就来告诉⟨那⟩神人,他说:去,卖掉⟨את⟩⟨那⟩油,还清⟨את⟩你的债务,你和你的孩子们靠所余剩的⟨来⟩存活。",
   "tokens": [
     {
       "surface": "ותבא",
-      "english": "她……来"
+      "gloss": "她……来"
     },
     {
       "surface": "ותגד",
-      "english": "她告诉"
+      "gloss": "她告诉"
     },
     {
       "surface": "לאיש",
-      "english": "给……人"
+      "gloss": "给……人"
     },
     {
       "surface": "האלהים",
-      "english": "⟨那⟩以罗欣(神人)"
+      "gloss": "⟨那⟩以罗欣(神人)"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "לכי",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "מכרי",
-      "english": "卖掉"
+      "gloss": "卖掉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那油"
     },
     {
       "surface": "השמן",
-      "english": "⟨那⟩油"
+      "gloss": "⟨那⟩油"
     },
     {
       "surface": "ושלמי",
-      "english": "还清"
+      "gloss": "还清"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的债务"
     },
     {
       "surface": "נשיכי",
-      "english": "你的债务"
+      "gloss": "你的债务"
     },
     {
       "surface": "ואת",
-      "english": "和⟨你⟩"
+      "gloss": "和⟨你⟩"
     },
     {
       "surface": "בניכי",
-      "english": "你的孩子们"
+      "gloss": "你的孩子们"
     },
     {
       "surface": "תחיי",
-      "english": "存活"
+      "gloss": "存活"
     },
     {
       "surface": "בנותר",
-      "english": "在所余剩的中"
+      "gloss": "在所余剩的中"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:07.725270263Z",
-  "model": "glm-5.2"
+  ]
 }

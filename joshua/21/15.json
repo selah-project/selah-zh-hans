@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joshua 21:15",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18118,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18484
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:03:23.463723055Z",
   "translation": "以及⟨את⟩何伦和⟨את⟩它的郊野，以及⟨את⟩底璧和⟨את⟩它的郊野",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "何伦"
     },
     {
       "surface": "חלן",
-      "english": "何伦"
+      "gloss": "何伦"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "它的郊野"
     },
     {
       "surface": "מגרשה",
-      "english": "它的郊野"
+      "gloss": "它的郊野"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "底璧"
     },
     {
       "surface": "דבר",
-      "english": "底璧"
+      "gloss": "底璧"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "它的郊野"
     },
     {
       "surface": "מגרשה",
-      "english": "它的郊野"
+      "gloss": "它的郊野"
     }
-  ],
-  "timestamp": "2026-07-17T20:03:23.463723055Z",
-  "model": "glm-5.2"
+  ]
 }

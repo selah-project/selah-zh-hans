@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 28:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23553,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24013
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:00.107250566Z",
   "translation": "以撒呼叫了雅各,祝福了他,并吩咐了他,对他说:不可从迦南的女儿们中娶⟨את⟩妻子。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "呼叫了"
+      "gloss": "呼叫了"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ויברך",
-      "english": "祝福了"
+      "gloss": "祝福了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩他",
+      "gloss": "⟨את⟩他",
       "marks": "雅各"
     },
     {
       "surface": "ויצוהו",
-      "english": "吩咐了他"
+      "gloss": "吩咐了他"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תקח",
-      "english": "娶"
+      "gloss": "娶"
     },
     {
       "surface": "אשה",
-      "english": "妻子"
+      "gloss": "妻子"
     },
     {
       "surface": "מבנות",
-      "english": "从女儿们中"
+      "gloss": "从女儿们中"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:00.107250566Z",
-  "model": "glm-5.2"
+  ]
 }

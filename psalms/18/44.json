@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "psalms 18:44",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64761,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65113
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:02.299829071Z",
   "translation": "你救拔我脱离⟨⟩百姓的争讼；你立我作列国的首领，⟨⟩我不认识的百姓要事奉我。",
   "tokens": [
     {
       "surface": "תפלטני",
-      "english": "你救拔我"
+      "gloss": "你救拔我"
     },
     {
       "surface": "מריבי",
-      "english": "脱离……的争讼"
+      "gloss": "脱离……的争讼"
     },
     {
       "surface": "עם",
-      "english": "百姓的"
+      "gloss": "百姓的"
     },
     {
       "surface": "תשימני",
-      "english": "你立我"
+      "gloss": "你立我"
     },
     {
       "surface": "לראש",
-      "english": "作……的首领"
+      "gloss": "作……的首领"
     },
     {
       "surface": "גוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעתי",
-      "english": "我认识的"
+      "gloss": "我认识的"
     },
     {
       "surface": "יעבדוני",
-      "english": "要事奉我"
+      "gloss": "要事奉我"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:02.299829071Z",
-  "model": "glm-5.2"
+  ]
 }

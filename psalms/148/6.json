@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 148:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64437,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64857
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:05.429953837Z",
   "translation": "他使它们坚定直到永远,直到永世;他颁布了⟨את⟩法令,它必不越过。",
   "tokens": [
     {
       "surface": "ויעמידם",
-      "english": "他使它们坚定"
+      "gloss": "他使它们坚定"
     },
     {
       "surface": "לעד",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "לעולם",
-      "english": "直到永世"
+      "gloss": "直到永世"
     },
     {
       "surface": "חק",
-      "english": "法令"
+      "gloss": "法令"
     },
     {
       "surface": "נתן",
-      "english": "他颁布了⟨את⟩"
+      "gloss": "他颁布了⟨את⟩"
     },
     {
       "surface": "ולא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "יעבור",
-      "english": "越过"
+      "gloss": "越过"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:05.429953837Z",
-  "model": "glm-5.2"
+  ]
 }

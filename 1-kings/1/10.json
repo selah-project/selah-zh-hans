@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 1:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64401,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 64840
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:56:20.446046792Z",
   "translation": "但⟨את⟩拿单 ⟨הנביא⟩先知、比拿雅、⟨את⟩⟨הגבורים⟩勇士们，以及⟨את⟩他兄弟所罗门，他没有邀请。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿单"
     },
     {
       "surface": "נתן",
-      "english": "拿单"
+      "gloss": "拿单"
     },
     {
       "surface": "הנביא",
-      "english": "⟨那⟩先知"
+      "gloss": "⟨那⟩先知"
     },
     {
       "surface": "ובניהו",
-      "english": "和比拿雅"
+      "gloss": "和比拿雅"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "勇士们"
     },
     {
       "surface": "הגבורים",
-      "english": "⟨那些⟩勇士们"
+      "gloss": "⟨那些⟩勇士们"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所罗门"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "gloss": "他的兄弟"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "קרא",
-      "english": "他邀请"
+      "gloss": "他邀请"
     }
-  ],
-  "timestamp": "2026-07-17T20:56:20.446046792Z",
-  "model": "glm-5.2"
+  ]
 }

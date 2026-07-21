@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 30:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21614,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21937
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:21.402462621Z",
   "translation": "因为他松开了我的绳索,苦待了我,⟨于是⟩他们在我面前甩开了辔头。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יתרו",
-      "english": "他松开了我的绳索"
+      "gloss": "他松开了我的绳索"
     },
     {
       "surface": "פתח",
-      "english": "松开了"
+      "gloss": "松开了"
     },
     {
       "surface": "ויענני",
-      "english": "苦待了我"
+      "gloss": "苦待了我"
     },
     {
       "surface": "ורסן",
-      "english": "⟨于是⟩辔头"
+      "gloss": "⟨于是⟩辔头"
     },
     {
       "surface": "מפני",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "שלחו",
-      "english": "甩开了"
+      "gloss": "甩开了"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:21.402462621Z",
-  "model": "glm-5.2"
+  ]
 }

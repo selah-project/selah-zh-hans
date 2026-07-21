@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 53,
   "ref": "psalms 89:53",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64068,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64379
-  },
+  "verse": 53,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:16.534882099Z",
   "translation": "雅威是蒙福的，直到永远。阿们，和阿们。",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "蒙福的"
+      "gloss": "蒙福的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "אמן",
-      "english": "阿们"
+      "gloss": "阿们"
     },
     {
       "surface": "ואמן",
-      "english": "和阿们"
+      "gloss": "和阿们"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:16.534882099Z",
-  "model": "glm-5.2"
+  ]
 }

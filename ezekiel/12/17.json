@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "ezekiel 12:17",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 230,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18580,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18810
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:45:51.316795595Z",
   "translation": "雅威的*davar*临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨临到⟩"
+      "gloss": "⟨临到⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T22:45:51.316795595Z",
-  "model": "glm-5.2"
+  ]
 }

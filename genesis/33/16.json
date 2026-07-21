@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 33:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22698,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23099
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:55:52.994756333Z",
   "translation": "于是以扫在⟨那⟩日⟨起⟩⟨回⟩⟨他⟩的路程，⟨往⟩西珥去。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "于是⟨回⟩"
+      "gloss": "于是⟨回⟩"
     },
     {
       "surface": "ביום",
-      "english": "在⟨那⟩日"
+      "gloss": "在⟨那⟩日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "לדרכו",
-      "english": "⟨往⟩⟨他⟩的路程"
+      "gloss": "⟨往⟩⟨他⟩的路程"
     },
     {
       "surface": "שעירה",
-      "english": "西珥"
+      "gloss": "西珥"
     }
-  ],
-  "timestamp": "2026-07-17T17:55:52.994756333Z",
-  "model": "glm-5.2"
+  ]
 }

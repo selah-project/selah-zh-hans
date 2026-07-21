@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "numbers 29:30",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19663,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20042
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:21:22.049943887Z",
   "translation": "还有他们的素祭和他们的奠祭,为公牛们、为公羊们、以及为羊羔们,按他们的数目,按条例 ——",
   "tokens": [
     {
       "surface": "ומנחתם",
-      "english": "还有他们的素祭"
+      "gloss": "还有他们的素祭"
     },
     {
       "surface": "ונסכיהם",
-      "english": "和他们的奠祭"
+      "gloss": "和他们的奠祭"
     },
     {
       "surface": "לפרים",
-      "english": "为公牛们"
+      "gloss": "为公牛们"
     },
     {
       "surface": "לאילם",
-      "english": "为公羊们"
+      "gloss": "为公羊们"
     },
     {
       "surface": "ולכבשים",
-      "english": "以及为羊羔们"
+      "gloss": "以及为羊羔们"
     },
     {
       "surface": "במספרם",
-      "english": "按他们的数目"
+      "gloss": "按他们的数目"
     },
     {
       "surface": "כמשפט",
-      "english": "按条例"
+      "gloss": "按条例"
     }
-  ],
-  "timestamp": "2026-07-17T19:21:22.049943887Z",
-  "model": "glm-5.2"
+  ]
 }

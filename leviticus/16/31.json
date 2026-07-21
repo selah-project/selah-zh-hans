@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "leviticus 16:31",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19320,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19942
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:51:33.116349506Z",
   "translation": "安息日之安息⟨是⟩给你们的,你们要刻苦⟨את⟩你们的*nefesh*;⟨这是⟩永远的定例。",
   "tokens": [
     {
       "surface": "שבת",
-      "english": "安息日"
+      "gloss": "安息日"
     },
     {
       "surface": "שבתון",
-      "english": "之安息"
+      "gloss": "之安息"
     },
     {
       "surface": "היא",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "לכם",
-      "english": "给你们的"
+      "gloss": "给你们的"
     },
     {
       "surface": "ועניתם",
-      "english": "你们要刻苦"
+      "gloss": "你们要刻苦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的*nefesh*"
     },
     {
       "surface": "נפשתיכם",
-      "english": "你们的*nefesh*"
+      "gloss": "你们的*nefesh*"
     },
     {
       "surface": "חקת",
-      "english": "定例"
+      "gloss": "定例"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T18:51:33.116349506Z",
-  "model": "glm-5.2"
+  ]
 }

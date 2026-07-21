@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jeremiah 13:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19078,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19437
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:14:18.482686096Z",
   "translation": "我便买了 ⟨את⟩ 那腰带,照着雅威的 *davar*,我便将它系在我腰间。",
   "tokens": [
     {
       "surface": "ואקנה",
-      "english": "我便买了"
+      "gloss": "我便买了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那腰带"
     },
     {
       "surface": "האזור",
-      "english": "那腰带"
+      "gloss": "那腰带"
     },
     {
       "surface": "כדבר",
-      "english": "照着……的 *davar*"
+      "gloss": "照着……的 *davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואשם",
-      "english": "我便将它系在"
+      "gloss": "我便将它系在"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "מתני",
-      "english": "我腰间"
+      "gloss": "我腰间"
     }
-  ],
-  "timestamp": "2026-07-17T22:14:18.482686096Z",
-  "model": "glm-5.2"
+  ]
 }

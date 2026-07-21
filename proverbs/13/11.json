@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 13:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54336,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54675
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:56.430406977Z",
   "translation": "财富从虚妄而来必减少；而聚集⟨者⟩藉着手⟨做工⟩必增多。",
   "tokens": [
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "מהבל",
-      "english": "从虚妄而来"
+      "gloss": "从虚妄而来"
     },
     {
       "surface": "ימעט",
-      "english": "必减少"
+      "gloss": "必减少"
     },
     {
       "surface": "וקבץ",
-      "english": "而聚集⟨者⟩"
+      "gloss": "而聚集⟨者⟩"
     },
     {
       "surface": "על",
-      "english": "藉着"
+      "gloss": "藉着"
     },
     {
       "surface": "יד",
-      "english": "手⟨做工⟩"
+      "gloss": "手⟨做工⟩"
     },
     {
       "surface": "ירבה",
-      "english": "必增多"
+      "gloss": "必增多"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:56.430406977Z",
-  "model": "glm-5.2"
+  ]
 }

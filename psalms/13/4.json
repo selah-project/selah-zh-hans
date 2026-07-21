@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 13:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64684,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65070
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:58.341800707Z",
   "translation": "求你查看⟨并⟩应允我,雅威我的以罗欣!求你使我的眼目发光,免得我沉睡⟨入⟩死亡;",
   "tokens": [
     {
       "surface": "הביטה",
-      "english": "求你查看"
+      "gloss": "求你查看"
     },
     {
       "surface": "ענני",
-      "english": "应允我"
+      "gloss": "应允我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "האירה",
-      "english": "求你使……发光"
+      "gloss": "求你使……发光"
     },
     {
       "surface": "עיני",
-      "english": "我的眼目"
+      "gloss": "我的眼目"
     },
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "אישן",
-      "english": "我沉睡"
+      "gloss": "我沉睡"
     },
     {
       "surface": "המות",
-      "english": "死亡"
+      "gloss": "死亡"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:58.341800707Z",
-  "model": "glm-5.2"
+  ]
 }

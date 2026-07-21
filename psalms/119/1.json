@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 119:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64382,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64763
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:22.564181671Z",
   "translation": "有福啊——道路完全的人，就是在雅威的妥拉中行走的那些人！",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "תמימי",
-      "english": "……完全的人"
+      "gloss": "……完全的人"
     },
     {
       "surface": "דרך",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "ההלכים",
-      "english": "行走的那些人"
+      "gloss": "行走的那些人"
     },
     {
       "surface": "בתורת",
-      "english": "在……的妥拉中"
+      "gloss": "在……的妥拉中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:22.564181671Z",
-  "model": "glm-5.2"
+  ]
 }

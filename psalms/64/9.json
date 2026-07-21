@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 64:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64533,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64908
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:53.355044975Z",
   "translation": "他们以自己的舌头使他们绊倒；所有看见他们的都摇头。",
   "tokens": [
     {
       "surface": "ויכשילוהו",
-      "english": "他们使他们绊倒"
+      "gloss": "他们使他们绊倒"
     },
     {
       "surface": "עלימו",
-      "english": "在他们之上"
+      "gloss": "在他们之上"
     },
     {
       "surface": "לשונם",
-      "english": "他们的舌头"
+      "gloss": "他们的舌头"
     },
     {
       "surface": "יתנדדו",
-      "english": "他们摇动 (头)"
+      "gloss": "他们摇动 (头)"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ראה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "בם",
-      "english": "他们的"
+      "gloss": "他们的"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:53.355044975Z",
-  "model": "glm-5.2"
+  ]
 }

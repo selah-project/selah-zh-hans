@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 29:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20743,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21233
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:47:43.471737048Z",
   "translation": "因为残暴者⟨将⟩消失，亵慢者⟨将⟩完结，一切警醒等候 ⟨את⟩ 罪孽的人⟨都⟩必被剪除。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אָפֵ֥ס",
-      "english": "⟨将⟩消失"
+      "gloss": "⟨将⟩消失"
     },
     {
       "surface": "עָרִ֖יץ",
-      "english": "残暴者"
+      "gloss": "残暴者"
     },
     {
       "surface": "וְ\/כָ֣לָה",
-      "english": "⟨将⟩完结"
+      "gloss": "⟨将⟩完结"
     },
     {
       "surface": "לֵ֑ץ",
-      "english": "亵慢者"
+      "gloss": "亵慢者"
     },
     {
       "surface": "וְ\/נִכְרְת֖וּ",
-      "english": "⟨都⟩必被剪除"
+      "gloss": "⟨都⟩必被剪除"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שֹׁ֥קְדֵי",
-      "english": "警醒等候"
+      "gloss": "警醒等候"
     },
     {
       "surface": "אָֽוֶן",
-      "english": "罪孽"
+      "gloss": "罪孽"
     }
-  ],
-  "timestamp": "2026-07-17T21:47:43.471737048Z",
-  "model": "glm-5.2"
+  ]
 }

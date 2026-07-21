@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 33:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21681,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22119
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:31.360136842Z",
   "translation": "你为何与他争辩？因为他⟨对⟩他一切的*davar* ⟨都⟩不⟨给予⟩回应。",
   "tokens": [
     {
       "surface": "מדוע",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "אליו",
-      "english": "⟨向⟩他"
+      "gloss": "⟨向⟩他"
     },
     {
       "surface": "ריבות",
-      "english": "你争辩"
+      "gloss": "你争辩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דבריו",
-      "english": "他的*davar*"
+      "gloss": "他的*davar*"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יענה",
-      "english": "⟨他⟩回应"
+      "gloss": "⟨他⟩回应"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:31.360136842Z",
-  "model": "glm-5.2"
+  ]
 }

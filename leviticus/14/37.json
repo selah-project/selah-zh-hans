@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "leviticus 14:37",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19846,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20389
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:49:46.277922488Z",
   "translation": "他查看⟨את⟩⟨该灾病⟩,看哪,⟨若⟩⟨该灾病⟩在房屋的墙壁上有凹陷处,发绿或发红,且它们的外观比墙壁低;",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "他查看"
+      "gloss": "他查看"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "该灾病"
     },
     {
       "surface": "הנגע",
-      "english": "该灾病"
+      "gloss": "该灾病"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "הנגע",
-      "english": "该灾病"
+      "gloss": "该灾病"
     },
     {
       "surface": "בקירת",
-      "english": "在……的墙壁上"
+      "gloss": "在……的墙壁上"
     },
     {
       "surface": "הבית",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "שקערורת",
-      "english": "凹陷处"
+      "gloss": "凹陷处"
     },
     {
       "surface": "ירקרקת",
-      "english": "发绿"
+      "gloss": "发绿"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "אדמדמת",
-      "english": "发红"
+      "gloss": "发红"
     },
     {
       "surface": "ומראיהן",
-      "english": "且它们的外观"
+      "gloss": "且它们的外观"
     },
     {
       "surface": "שפל",
-      "english": "低"
+      "gloss": "低"
     },
     {
       "surface": "מן",
-      "english": "比"
+      "gloss": "比"
     },
     {
       "surface": "הקיר",
-      "english": "墙壁"
+      "gloss": "墙壁"
     }
-  ],
-  "timestamp": "2026-07-17T18:49:46.277922488Z",
-  "model": "glm-5.2"
+  ]
 }

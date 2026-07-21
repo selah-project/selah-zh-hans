@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "1-kings 22:20",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64729,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65289
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:15:59.183867280Z",
   "translation": "雅威说:谁将诱导⟨את⟩-亚哈,使他上去,使他在基列的拉末坠落?这个如此说,那个如此说。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יפתה",
-      "english": "将诱导"
+      "gloss": "将诱导"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚哈"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "ויעל",
-      "english": "使他上去"
+      "gloss": "使他上去"
     },
     {
       "surface": "ויפל",
-      "english": "使⟨他⟩坠落"
+      "gloss": "使⟨他⟩坠落"
     },
     {
       "surface": "ברמת",
-      "english": "在拉末"
+      "gloss": "在拉末"
     },
     {
       "surface": "גלעד",
-      "english": "基列"
+      "gloss": "基列"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "זה",
-      "english": "这个"
+      "gloss": "这个"
     },
     {
       "surface": "בכה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "וזה",
-      "english": "那个"
+      "gloss": "那个"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "בכה",
-      "english": "如此"
+      "gloss": "如此"
     }
-  ],
-  "timestamp": "2026-07-17T21:15:59.183867280Z",
-  "model": "glm-5.2"
+  ]
 }

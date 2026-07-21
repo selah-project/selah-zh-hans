@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "job 28:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21439,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21806
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:32.777569439Z",
   "translation": "为鲁阿称定重量，借度量量定众水；",
   "tokens": [
     {
       "surface": "לעשות",
-      "english": "为……称定"
+      "gloss": "为……称定"
     },
     {
       "surface": "לרוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     },
     {
       "surface": "משקל",
-      "english": "重量"
+      "gloss": "重量"
     },
     {
       "surface": "ומים",
-      "english": "众水"
+      "gloss": "众水"
     },
     {
       "surface": "תכן",
-      "english": "量定"
+      "gloss": "量定"
     },
     {
       "surface": "במדה",
-      "english": "借度量"
+      "gloss": "借度量"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:32.777569439Z",
-  "model": "glm-5.2"
+  ]
 }

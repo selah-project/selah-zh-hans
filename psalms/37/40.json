@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "psalms 37:40",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64666,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65119
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:05.568697493Z",
   "translation": "雅威必帮助他们,必解救他们;他必解救他们脱离恶人,必拯救他们,因为他们投靠了他。",
   "tokens": [
     {
       "surface": "ויעזרם",
-      "english": "必帮助他们"
+      "gloss": "必帮助他们"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויפלטם",
-      "english": "必解救他们"
+      "gloss": "必解救他们"
     },
     {
       "surface": "יפלטם",
-      "english": "他必解救他们"
+      "gloss": "他必解救他们"
     },
     {
       "surface": "מרשעים",
-      "english": "脱离恶人"
+      "gloss": "脱离恶人"
     },
     {
       "surface": "ויושיעם",
-      "english": "必拯救他们"
+      "gloss": "必拯救他们"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חסו",
-      "english": "他们投靠"
+      "gloss": "他们投靠"
     },
     {
       "surface": "בו",
-      "english": "了他"
+      "gloss": "了他"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:05.568697493Z",
-  "model": "glm-5.2"
+  ]
 }

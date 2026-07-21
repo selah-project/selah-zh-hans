@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "2-kings 4:19",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18610,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19125
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:32.010081865Z",
   "translation": "他对父亲说：⟨⟨我的⟩⟩头！⟨⟨我的⟩⟩头！他对那少年人说：把他抱⟨⟨去⟩⟩到他母亲那里。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אביו",
-      "english": "他的父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "ראשי",
-      "english": "⟨⟨我的⟩⟩头"
+      "gloss": "⟨⟨我的⟩⟩头"
     },
     {
       "surface": "ראשי",
-      "english": "⟨⟨我的⟩⟩头"
+      "gloss": "⟨⟨我的⟩⟩头"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "הנער",
-      "english": "那少年人"
+      "gloss": "那少年人"
     },
     {
       "surface": "שאהו",
-      "english": "把他抱⟨⟨去⟩⟩"
+      "gloss": "把他抱⟨⟨去⟩⟩"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אמו",
-      "english": "他的母亲"
+      "gloss": "他的母亲"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:32.010081865Z",
-  "model": "glm-5.2"
+  ]
 }

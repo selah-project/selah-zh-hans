@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 81:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64614,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65045
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:11.795128445Z",
   "translation": "我是雅威你的以罗欣，那将你从埃及地领上来的；你向我说，张开你的口，我⟨就⟩必充满它⟨את⟩。”",
   "tokens": [
     {
       "surface": "אנכי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "המעלך",
-      "english": "那将你领上来的"
+      "gloss": "那将你领上来的"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "הרחב",
-      "english": "张开"
+      "gloss": "张开"
     },
     {
       "surface": "פיך",
-      "english": "你的口"
+      "gloss": "你的口"
     },
     {
       "surface": "ואמלאהו",
-      "english": "我⟨就⟩必充满它"
+      "gloss": "我⟨就⟩必充满它"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:11.795128445Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 14:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21539,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22003
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:13.853366897Z",
   "translation": "水从海消失，⟨如同⟩ ⟨את⟩ 河流干涸变干涸；",
   "tokens": [
     {
       "surface": "אָֽזְלוּ",
-      "english": "消失"
+      "gloss": "消失"
     },
     {
       "surface": "מַ֭יִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "מִנִּי",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "יָ֑ם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "וְ֝\/נָהָ֗ר",
-      "english": "⟨如同⟩ ⟨את⟩ 河流"
+      "gloss": "⟨如同⟩ ⟨את⟩ 河流"
     },
     {
       "surface": "יֶחֱרַ֥ב",
-      "english": "干涸"
+      "gloss": "干涸"
     },
     {
       "surface": "וְ\/יָבֵֽשׁ",
-      "english": "变干涸"
+      "gloss": "变干涸"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:13.853366897Z",
-  "model": "glm-5.2"
+  ]
 }

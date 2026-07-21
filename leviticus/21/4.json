@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 21:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18757,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19194
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:47.247280058Z",
   "translation": "不可因 ⟨他⟩ 作为 ⟨他⟩ 子民中的丈夫而使自己不洁,以致亵渎 ⟨自己⟩。",
   "tokens": [
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יִטַּמָּא",
-      "english": "使自己不洁"
+      "gloss": "使自己不洁"
     },
     {
       "surface": "בַּעַל",
-      "english": "丈夫"
+      "gloss": "丈夫"
     },
     {
       "surface": "בְ\/עַמָּי\/ו",
-      "english": "在他子民中"
+      "gloss": "在他子民中"
     },
     {
       "surface": "לְ\/הֵחַלּ\/וֹ",
-      "english": "以致亵渎他"
+      "gloss": "以致亵渎他"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:47.247280058Z",
-  "model": "glm-5.2"
+  ]
 }

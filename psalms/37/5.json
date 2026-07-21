@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 37:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64917
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:35.010095518Z",
   "translation": "当将你的道路滚交于雅威，并在他身上信靠，וְ\/ה֣וּא 他将成就。",
   "tokens": [
     {
       "surface": "גול",
-      "english": "滚交于"
+      "gloss": "滚交于"
     },
     {
       "surface": "על",
-      "english": "于"
+      "gloss": "于"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דרכך",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "ובטח",
-      "english": "并信靠"
+      "gloss": "并信靠"
     },
     {
       "surface": "עליו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "יעשה",
-      "english": "将成就"
+      "gloss": "将成就"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:35.010095518Z",
-  "model": "glm-5.2"
+  ]
 }

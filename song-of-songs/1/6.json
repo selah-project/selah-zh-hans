@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "song-of-songs 1:6",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 799,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23196,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 23995
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:48.695419162Z",
   "translation": "不要注视我,⟨说⟩我黑,⟨说⟩太阳烤了我——我母亲的儿子们向我发烈怒;他们设立我作看守⟨את⟩葡萄园的人;我的葡萄园——属于我的——我没有看守。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תראוני",
-      "english": "注视我"
+      "gloss": "注视我"
     },
     {
       "surface": "שאני",
-      "english": "⟨说⟩我"
+      "gloss": "⟨说⟩我"
     },
     {
       "surface": "שחרחרת",
-      "english": "黑"
+      "gloss": "黑"
     },
     {
       "surface": "ששזפתני",
-      "english": "烤了我"
+      "gloss": "烤了我"
     },
     {
       "surface": "השמש",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "בני",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "אמי",
-      "english": "我母亲的"
+      "gloss": "我母亲的"
     },
     {
       "surface": "נחרו",
-      "english": "向……发烈怒"
+      "gloss": "向……发烈怒"
     },
     {
       "surface": "בי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "שמני",
-      "english": "设立我"
+      "gloss": "设立我"
     },
     {
       "surface": "נטרה",
-      "english": "作看守"
+      "gloss": "作看守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "葡萄园"
     },
     {
       "surface": "הכרמים",
-      "english": "葡萄园"
+      "gloss": "葡萄园"
     },
     {
       "surface": "כרמי",
-      "english": "我的葡萄园"
+      "gloss": "我的葡萄园"
     },
     {
       "surface": "שלי",
-      "english": "属于我的"
+      "gloss": "属于我的"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נטרתי",
-      "english": "看守"
+      "gloss": "看守"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:48.695419162Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "proverbs 19:22",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54394,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54839
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:34.054726258Z",
   "translation": "人的渴望 ⟨是⟩ 他的 חֶסֶד;穷人胜过谎言之人。",
   "tokens": [
     {
       "surface": "תאות",
-      "english": "渴望"
+      "gloss": "渴望"
     },
     {
       "surface": "אדם",
-      "english": "人的"
+      "gloss": "人的"
     },
     {
       "surface": "חסדו",
-      "english": "他的 חֶסֶד"
+      "gloss": "他的 חֶסֶד"
     },
     {
       "surface": "וטוב",
-      "english": "胜过"
+      "gloss": "胜过"
     },
     {
       "surface": "רש",
-      "english": "穷人"
+      "gloss": "穷人"
     },
     {
       "surface": "מאיש",
-      "english": "...之人"
+      "gloss": "...之人"
     },
     {
       "surface": "כזב",
-      "english": "谎言"
+      "gloss": "谎言"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:34.054726258Z",
-  "model": "glm-5.2"
+  ]
 }

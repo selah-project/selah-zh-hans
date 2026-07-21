@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 6:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58479,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58849
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:22.692585147Z",
   "translation": "以利加拿他的子,以比亚萨弗他的子,阿斯尔他的子;",
   "tokens": [
     {
       "surface": "אלקנה",
-      "english": "以利加拿"
+      "gloss": "以利加拿"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     },
     {
       "surface": "ואביסף",
-      "english": "以比亚萨弗"
+      "gloss": "以比亚萨弗"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     },
     {
       "surface": "ואסיר",
-      "english": "阿斯尔"
+      "gloss": "阿斯尔"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:22.692585147Z",
-  "model": "glm-5.2"
+  ]
 }

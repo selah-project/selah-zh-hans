@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "jonah 2:10",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21291,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21760
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:43.753067669Z",
   "translation": "而我 ⟨要⟩ ⟨用⟩ 感谢的声音 ⟨向⟩ 你献祭；我所许的愿，我 ⟨要⟩ 偿还。拯救 ⟨属⟩ 于雅威。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "בקול",
-      "english": "⟨用⟩……的声音"
+      "gloss": "⟨用⟩……的声音"
     },
     {
       "surface": "תודה",
-      "english": "感谢"
+      "gloss": "感谢"
     },
     {
       "surface": "אזבחה",
-      "english": "⟨要⟩献祭"
+      "gloss": "⟨要⟩献祭"
     },
     {
       "surface": "לך",
-      "english": "⟨向⟩你"
+      "gloss": "⟨向⟩你"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נדרתי",
-      "english": "我所许的愿"
+      "gloss": "我所许的愿"
     },
     {
       "surface": "אשלמה",
-      "english": "我 ⟨要⟩偿还"
+      "gloss": "我 ⟨要⟩偿还"
     },
     {
       "surface": "ישועתה",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "ליהוה",
-      "english": "⟨属⟩于雅威"
+      "gloss": "⟨属⟩于雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:43.753067669Z",
-  "model": "glm-5.2"
+  ]
 }

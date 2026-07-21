@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "exodus 40:34",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18763,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19156
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:04.239264306Z",
   "translation": "云彩遮盖了⟨את⟩会幕，雅威的荣耀充满了⟨את⟩圣幕。",
   "tokens": [
     {
       "surface": "ויכס",
-      "english": "遮盖了"
+      "gloss": "遮盖了"
     },
     {
       "surface": "הענן",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "וכבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "מלא",
-      "english": "充满了"
+      "gloss": "充满了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "圣幕"
     },
     {
       "surface": "המשכן",
-      "english": "圣幕"
+      "gloss": "圣幕"
     }
-  ],
-  "timestamp": "2026-07-17T18:40:04.239264306Z",
-  "model": "glm-5.2"
+  ]
 }

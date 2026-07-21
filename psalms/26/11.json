@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 26:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64247,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 64656
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:39.706936870Z",
   "translation": "至于我，我必在我的完全中行事；赎买我吧，也向我施恩吧。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "בתמי",
-      "english": "在我的完全中"
+      "gloss": "在我的完全中"
     },
     {
       "surface": "אלך",
-      "english": "我必行事"
+      "gloss": "我必行事"
     },
     {
       "surface": "פדני",
-      "english": "赎买我吧"
+      "gloss": "赎买我吧"
     },
     {
       "surface": "וחנני",
-      "english": "也向我施恩吧"
+      "gloss": "也向我施恩吧"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:39.706936870Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 12:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21489,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21875
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:08.187360845Z",
   "translation": "⟨他⟩挪去可信靠之人的嘴唇，⟨并⟩夺去长老的见识。",
   "tokens": [
     {
       "surface": "מסיר",
-      "english": "挪去"
+      "gloss": "挪去"
     },
     {
       "surface": "שפה",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "לנאמנים",
-      "english": "可信靠之人的"
+      "gloss": "可信靠之人的"
     },
     {
       "surface": "וטעם",
-      "english": "⟨并⟩见识"
+      "gloss": "⟨并⟩见识"
     },
     {
       "surface": "זקנים",
-      "english": "长老的"
+      "gloss": "长老的"
     },
     {
       "surface": "יקח",
-      "english": "夺去"
+      "gloss": "夺去"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:08.187360845Z",
-  "model": "glm-5.2"
+  ]
 }

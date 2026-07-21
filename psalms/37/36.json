@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "psalms 37:36",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64338,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64642
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:03.798237792Z",
   "translation": "⟨他⟩过去了,看哪,⟨他⟩不在了;我寻找⟨את⟩他,却找不着。",
   "tokens": [
     {
       "surface": "ויעבר",
-      "english": "⟨他⟩过去了"
+      "gloss": "⟨他⟩过去了"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "איננו",
-      "english": "⟨他⟩不在了"
+      "gloss": "⟨他⟩不在了"
     },
     {
       "surface": "ואבקשהו",
-      "english": "我寻找⟨את⟩他"
+      "gloss": "我寻找⟨את⟩他"
     },
     {
       "surface": "ולא",
-      "english": "却"
+      "gloss": "却"
     },
     {
       "surface": "נמצא",
-      "english": "找不着"
+      "gloss": "找不着"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:03.798237792Z",
-  "model": "glm-5.2"
+  ]
 }

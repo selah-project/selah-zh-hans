@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 52:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65047
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:12.667755770Z",
   "translation": "至于我，我像一棵青翠的橄榄树在以罗欣的家中；我信赖以罗欣的חֶסֶד（坚爱），直到永远与⟨永远⟩。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "כזית",
-      "english": "我像一棵……橄榄树"
+      "gloss": "我像一棵……橄榄树"
     },
     {
       "surface": "רענן",
-      "english": "青翠的"
+      "gloss": "青翠的"
     },
     {
       "surface": "בבית",
-      "english": "在……家中"
+      "gloss": "在……家中"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בטחתי",
-      "english": "我信赖"
+      "gloss": "我信赖"
     },
     {
       "surface": "בחסד",
-      "english": "于……的חֶסֶד（坚爱）"
+      "gloss": "于……的חֶסֶד（坚爱）"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "עולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "ועד",
-      "english": "与⟨永远⟩"
+      "gloss": "与⟨永远⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:12.667755770Z",
-  "model": "glm-5.2"
+  ]
 }

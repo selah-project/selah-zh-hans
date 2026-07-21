@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 129:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64515,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64873
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:33.203636824Z",
   "translation": "上行之⟨歌⟩。从我的幼年起他们就极大地压制了我——让以色列现在说:",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "歌"
+      "gloss": "歌"
     },
     {
       "surface": "המעלות",
-      "english": "上行的"
+      "gloss": "上行的"
     },
     {
       "surface": "רבת",
-      "english": "极大地"
+      "gloss": "极大地"
     },
     {
       "surface": "צררוני",
-      "english": "他们压制了我"
+      "gloss": "他们压制了我"
     },
     {
       "surface": "מנעורי",
-      "english": "从我的幼年起"
+      "gloss": "从我的幼年起"
     },
     {
       "surface": "יאמר",
-      "english": "让……说"
+      "gloss": "让……说"
     },
     {
       "surface": "נא",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:33.203636824Z",
-  "model": "glm-5.2"
+  ]
 }

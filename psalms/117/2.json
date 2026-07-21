@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 117:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 117,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64598,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65070
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:30.756954204Z",
   "translation": "因为他向我们的慈爱宽阔〈了〉，和雅威的信实〈存留〉到永远。你们要赞美雅！",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גבר",
-      "english": "宽阔了"
+      "gloss": "宽阔了"
     },
     {
       "surface": "עלינו",
-      "english": "向我们的"
+      "gloss": "向我们的"
     },
     {
       "surface": "חסדו",
-      "english": "慈爱"
+      "gloss": "慈爱"
     },
     {
       "surface": "ואמת",
-      "english": "和雅威的信实"
+      "gloss": "和雅威的信实"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅！"
+      "gloss": "雅！"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:30.756954204Z",
-  "model": "glm-5.2"
+  ]
 }

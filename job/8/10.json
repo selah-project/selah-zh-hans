@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 8:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21626,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22027
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:17.505659716Z",
   "translation": "他们岂不指示你、向你讲述,并从⟨他们的⟩心中发出话语吗?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "הם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "יורוך",
-      "english": "指示你"
+      "gloss": "指示你"
     },
     {
       "surface": "יאמרו",
-      "english": "向你讲述"
+      "gloss": "向你讲述"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "ומלבם",
-      "english": "并从他们的心中"
+      "gloss": "并从他们的心中"
     },
     {
       "surface": "יוצאו",
-      "english": "发出"
+      "gloss": "发出"
     },
     {
       "surface": "מלים",
-      "english": "话语"
+      "gloss": "话语"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:17.505659716Z",
-  "model": "glm-5.2"
+  ]
 }

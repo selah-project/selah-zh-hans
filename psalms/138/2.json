@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 138:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 842,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65481,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 66323
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:50.961960340Z",
   "translation": "我向你的圣殿下拜，我要因你的 *chesed* 和你的真理称颂⟨את⟩你的名；因为你已使你的*话语*连同你的一切名被尊为大。",
   "tokens": [
     {
       "surface": "אֶשְׁתַּחֲוֶ֨ה",
-      "english": "我……下拜"
+      "gloss": "我……下拜"
     },
     {
       "surface": "אֶל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "הֵיכַ֪ל",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "קָדְשְׁ\/ךָ֡",
-      "english": "你的圣"
+      "gloss": "你的圣"
     },
     {
       "surface": "וְ\/א֘וֹדֶ֤ה",
-      "english": "我要称颂"
+      "gloss": "我要称颂"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的名"
     },
     {
       "surface": "שְׁמֶ֗\/ךָ",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "עַל",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "חַסְדְּ\/ךָ֥",
-      "english": "你的 *chesed*"
+      "gloss": "你的 *chesed*"
     },
     {
       "surface": "וְ\/עַל",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "אֲמִתֶּ֑\/ךָ",
-      "english": "你的真理"
+      "gloss": "你的真理"
     },
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הִגְדַּ֥לְתָּ",
-      "english": "你已使……被尊为大"
+      "gloss": "你已使……被尊为大"
     },
     {
       "surface": "עַל",
-      "english": "连同"
+      "gloss": "连同"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שִׁ֝מְ\/ךָ֗",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "אִמְרָתֶֽ\/ךָ",
-      "english": "你的*话语* (*imratjá*)"
+      "gloss": "你的*话语* (*imratjá*)"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:50.961960340Z",
-  "model": "glm-5.2"
+  ]
 }

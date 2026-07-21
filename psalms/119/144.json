@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 144,
   "ref": "psalms 119:144",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64238,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64599
-  },
+  "verse": 144,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:32.714423932Z",
   "translation": "你的法度的公义⟨是⟩永远的；赐我明白⟨它⟩，我就存活。",
   "tokens": [
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "עדותיך",
-      "english": "你的法度"
+      "gloss": "你的法度"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "הבינני",
-      "english": "赐我明白"
+      "gloss": "赐我明白"
     },
     {
       "surface": "ואחיה",
-      "english": "我就存活"
+      "gloss": "我就存活"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:32.714423932Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 78:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64481,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64862
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:37.391759261Z",
   "translation": "我要开口用比喻,我要涌出古时的谜语;",
   "tokens": [
     {
       "surface": "אפתחה",
-      "english": "我要开"
+      "gloss": "我要开"
     },
     {
       "surface": "במשל",
-      "english": "用比喻"
+      "gloss": "用比喻"
     },
     {
       "surface": "פי",
-      "english": "⟨我的⟩口"
+      "gloss": "⟨我的⟩口"
     },
     {
       "surface": "אביעה",
-      "english": "我要涌出"
+      "gloss": "我要涌出"
     },
     {
       "surface": "חידות",
-      "english": "谜语"
+      "gloss": "谜语"
     },
     {
       "surface": "מני",
-      "english": "⟨从⟩"
+      "gloss": "⟨从⟩"
     },
     {
       "surface": "קדם",
-      "english": "古时"
+      "gloss": "古时"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:37.391759261Z",
-  "model": "glm-5.2"
+  ]
 }

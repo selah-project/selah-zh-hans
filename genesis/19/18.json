@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 19:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22708,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23077
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:43:51.432102610Z",
   "translation": "罗得对他们说：⟨请不要这样⟩，阿多奈啊！",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לוט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "אל",
-      "english": "请不要……"
+      "gloss": "请不要……"
     },
     {
       "surface": "נא",
-      "english": "……如此"
+      "gloss": "……如此"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈啊"
+      "gloss": "阿多奈啊"
     }
-  ],
-  "timestamp": "2026-07-17T17:43:51.432102610Z",
-  "model": "glm-5.2"
+  ]
 }

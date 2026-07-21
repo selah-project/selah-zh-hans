@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "1-chronicles 2:20",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58746,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59104
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:52:20.851926454Z",
   "translation": "户勒生了⟨את⟩乌利,乌利生了⟨את⟩比撒列。",
   "tokens": [
     {
       "surface": "וחור",
-      "english": "户勒"
+      "gloss": "户勒"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "乌利"
     },
     {
       "surface": "אורי",
-      "english": "乌利"
+      "gloss": "乌利"
     },
     {
       "surface": "ואורי",
-      "english": "乌利"
+      "gloss": "乌利"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "比撒列"
     },
     {
       "surface": "בצלאל",
-      "english": "比撒列"
+      "gloss": "比撒列"
     }
-  ],
-  "timestamp": "2026-07-18T01:52:20.851926454Z",
-  "model": "glm-5.2"
+  ]
 }

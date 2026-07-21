@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 31:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21624,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22107
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:25.196409155Z",
   "translation": "若不⟨是⟩他的腰祝福了我,⟨而且⟩他从我公绵羊的毛得了温暖;",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ברכוני",
-      "english": "他的腰祝福了我"
+      "gloss": "他的腰祝福了我"
     },
     {
       "surface": "חלצו",
-      "english": "⟨他的⟩腰"
+      "gloss": "⟨他的⟩腰"
     },
     {
       "surface": "ומגז",
-      "english": "⟨而且⟩从……的毛"
+      "gloss": "⟨而且⟩从……的毛"
     },
     {
       "surface": "כבשי",
-      "english": "我公绵羊的"
+      "gloss": "我公绵羊的"
     },
     {
       "surface": "יתחמם",
-      "english": "得了温暖"
+      "gloss": "得了温暖"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:25.196409155Z",
-  "model": "glm-5.2"
+  ]
 }

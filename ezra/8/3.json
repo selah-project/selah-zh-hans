@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "ezra 8:3",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46724,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47243
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:40:38.310002786Z",
   "translation": "属 שכניה (示迦尼) 的子孙中,属 פרעש (法勒斯) 的子孙——זכריה (撒迦利亚);与他一起按家谱登记的男性,一百五十人。",
   "tokens": [
     {
       "surface": "מבני",
-      "english": "属……的子孙中"
+      "gloss": "属……的子孙中"
     },
     {
       "surface": "שכניה",
-      "english": "示迦尼"
+      "gloss": "示迦尼"
     },
     {
       "surface": "מבני",
-      "english": "属……的子孙"
+      "gloss": "属……的子孙"
     },
     {
       "surface": "פרעש",
-      "english": "法勒斯"
+      "gloss": "法勒斯"
     },
     {
       "surface": "זכריה",
-      "english": "撒迦利亚"
+      "gloss": "撒迦利亚"
     },
     {
       "surface": "ועמו",
-      "english": "与他一起"
+      "gloss": "与他一起"
     },
     {
       "surface": "התיחש",
-      "english": "按家谱登记的"
+      "gloss": "按家谱登记的"
     },
     {
       "surface": "לזכרים",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "וחמשים",
-      "english": "五十(人)"
+      "gloss": "五十(人)"
     }
-  ],
-  "timestamp": "2026-07-18T01:40:38.310002786Z",
-  "model": "glm-5.2"
+  ]
 }

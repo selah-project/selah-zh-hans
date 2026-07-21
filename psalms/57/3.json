@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 57:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64434,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64764
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:41.224828135Z",
   "translation": "我要呼求至高的以罗欣，向那为我成全一切的以罗欣呼求。",
   "tokens": [
     {
       "surface": "אקרא",
-      "english": "我要呼求"
+      "gloss": "我要呼求"
     },
     {
       "surface": "לאלהים",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "עליון",
-      "english": "至高的"
+      "gloss": "至高的"
     },
     {
       "surface": "לאל",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "גמר",
-      "english": "那成全"
+      "gloss": "那成全"
     },
     {
       "surface": "עלי",
-      "english": "为我"
+      "gloss": "为我"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:41.224828135Z",
-  "model": "glm-5.2"
+  ]
 }

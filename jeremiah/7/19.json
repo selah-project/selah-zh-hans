@@ -1,63 +1,55 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "jeremiah 7:19",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 453,
-    "prompt_tokens": 19491,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19944
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:19:42.763384759Z",
   "translation": "难道是他们惹我发怒吗？⟨这是⟩雅威的宣告：难道不是他们惹怒⟨את⟩自己，为了他们自己脸面的羞耻吗？",
   "tokens": [
     {
       "surface": "האתי",
-      "english": "难道是他们...吗？",
+      "gloss": "难道是他们...吗？",
       "marks": "הם"
     },
     {
       "surface": "הם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "מכעסים",
-      "english": "惹...发怒"
+      "gloss": "惹...发怒"
     },
     {
       "surface": "נאם",
-      "english": "⟨这是⟩...的宣告"
+      "gloss": "⟨这是⟩...的宣告"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הלוא",
-      "english": "难道不是"
+      "gloss": "难道不是"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "自己"
     },
     {
       "surface": "למען",
-      "english": "为了"
+      "gloss": "为了"
     },
     {
       "surface": "בשת",
-      "english": "羞耻"
+      "gloss": "羞耻"
     },
     {
       "surface": "פניהם",
-      "english": "他们脸面的"
+      "gloss": "他们脸面的"
     }
-  ],
-  "timestamp": "2026-07-21T13:19:42.763384759Z",
-  "model": "glm-4.5"
+  ]
 }

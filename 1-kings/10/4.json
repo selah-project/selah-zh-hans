@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-kings 10:4",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64187,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64538
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:05:19.271072427Z",
   "translation": "示巴女王看见了⟨את⟩所罗门全部的智慧,以及他所建造的那座房子。",
   "tokens": [
     {
       "surface": "ותרא",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "מלכת",
-      "english": "女王"
+      "gloss": "女王"
     },
     {
       "surface": "שבא",
-      "english": "示巴"
+      "gloss": "示巴"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全部的智慧 (כל חכמת)"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "חכמת",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门的"
+      "gloss": "所罗门的"
     },
     {
       "surface": "והבית",
-      "english": "以及那座房子"
+      "gloss": "以及那座房子"
     },
     {
       "surface": "אשר",
-      "english": "他所"
+      "gloss": "他所"
     },
     {
       "surface": "בנה",
-      "english": "建造的"
+      "gloss": "建造的"
     }
-  ],
-  "timestamp": "2026-07-17T21:05:19.271072427Z",
-  "model": "glm-5.2"
+  ]
 }

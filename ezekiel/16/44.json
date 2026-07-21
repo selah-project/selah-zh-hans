@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "ezekiel 16:44",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18971,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19315
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:48:35.669931860Z",
   "translation": "看哪，凡使用谚语的，必用⟨这⟩谚语针对你，说：如母亦如其女。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "המשל",
-      "english": "使用谚语的"
+      "gloss": "使用谚语的"
     },
     {
       "surface": "עליך",
-      "english": "针对你"
+      "gloss": "针对你"
     },
     {
       "surface": "ימשל",
-      "english": "必用⟨这⟩谚语"
+      "gloss": "必用⟨这⟩谚语"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "כאמה",
-      "english": "如母"
+      "gloss": "如母"
     },
     {
       "surface": "בתה",
-      "english": "亦如其女"
+      "gloss": "亦如其女"
     }
-  ],
-  "timestamp": "2026-07-17T22:48:35.669931860Z",
-  "model": "glm-5.2"
+  ]
 }

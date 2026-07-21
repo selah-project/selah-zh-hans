@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 119:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64166,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64486
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:22.039882395Z",
   "translation": "在你的律例中，我要默念，⟨而⟩我要凝视你的路径。",
   "tokens": [
     {
       "surface": "בפקדיך",
-      "english": "在你的律例中"
+      "gloss": "在你的律例中"
     },
     {
       "surface": "אשיחה",
-      "english": "我要默念"
+      "gloss": "我要默念"
     },
     {
       "surface": "ואביטה",
-      "english": "⟨而⟩我要凝视"
+      "gloss": "⟨而⟩我要凝视"
     },
     {
       "surface": "ארחתיך",
-      "english": "你的路径"
+      "gloss": "你的路径"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:22.039882395Z",
-  "model": "glm-5.2"
+  ]
 }

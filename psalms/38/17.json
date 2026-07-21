@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 38:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64576,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64976
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:27.236110810Z",
   "translation": "因为我曾说，免得他们向我欢呼：我的脚滑跌时，他们就大肆攻击我。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמרתי",
-      "english": "我曾说"
+      "gloss": "我曾说"
     },
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "ישמחו",
-      "english": "他们欢呼"
+      "gloss": "他们欢呼"
     },
     {
       "surface": "לי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "במוט",
-      "english": "在滑跌时"
+      "gloss": "在滑跌时"
     },
     {
       "surface": "רגלי",
-      "english": "我的脚"
+      "gloss": "我的脚"
     },
     {
       "surface": "עלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "הגדילו",
-      "english": "他们大肆攻击"
+      "gloss": "他们大肆攻击"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:27.236110810Z",
-  "model": "glm-5.2"
+  ]
 }

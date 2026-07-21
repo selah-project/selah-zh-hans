@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "genesis 21:30",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23728,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24269
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:28.223734331Z",
   "translation": "他说：“因为⟨你要⟩从我手中取走⟨את⟩七只母羊羔，好让⟨它⟩作我的见证，因为我挖了⟨את⟩这口井。”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "七只"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "כבשת",
-      "english": "母羊羔"
+      "gloss": "母羊羔"
     },
     {
       "surface": "תקח",
-      "english": "你要取走"
+      "gloss": "你要取走"
     },
     {
       "surface": "מידי",
-      "english": "从我手中"
+      "gloss": "从我手中"
     },
     {
       "surface": "בעבור",
-      "english": "好让"
+      "gloss": "好让"
     },
     {
       "surface": "תהיה",
-      "english": "⟨它⟩作"
+      "gloss": "⟨它⟩作"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "לעדה",
-      "english": "见证"
+      "gloss": "见证"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חפרתי",
-      "english": "我挖了"
+      "gloss": "我挖了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这口井"
     },
     {
       "surface": "הבאר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:28.223734331Z",
-  "model": "glm-5.2"
+  ]
 }

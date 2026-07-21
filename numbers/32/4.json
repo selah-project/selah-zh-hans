@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 32:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20049,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20488
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:23:22.557539985Z",
   "translation": "⟨这⟩地，就是雅威在以色列会众面前击打的，⟨是⟩牲畜之地；它也⟨是⟩给你仆人⟨的⟩牲畜之地。",
   "tokens": [
     {
       "surface": "הארץ",
-      "english": "⟨这⟩地"
+      "gloss": "⟨这⟩地"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "הכה",
-      "english": "击打了"
+      "gloss": "击打了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "עדת",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "מקנה",
-      "english": "牲畜之地"
+      "gloss": "牲畜之地"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "ולעבדיך",
-      "english": "也给你仆人⟨的⟩"
+      "gloss": "也给你仆人⟨的⟩"
     },
     {
       "surface": "מקנה",
-      "english": "牲畜之地"
+      "gloss": "牲畜之地"
     }
-  ],
-  "timestamp": "2026-07-17T19:23:22.557539985Z",
-  "model": "glm-5.2"
+  ]
 }

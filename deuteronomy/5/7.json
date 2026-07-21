@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "deuteronomy 5:7",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19001,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19385
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:30:57.975637495Z",
   "translation": "不可让你有别的以罗欣在你面前 ⟨与我并列⟩。",
   "tokens": [
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יִהְיֶה",
-      "english": "让你有"
+      "gloss": "让你有"
     },
     {
       "surface": "לְ\/ךָ",
-      "english": "对你"
+      "gloss": "对你"
     },
     {
       "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אֲחֵרִים",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "עַל",
-      "english": "在……之上 \/ 在……面前"
+      "gloss": "在……之上 \/ 在……面前"
     },
     {
       "surface": "פָּנַ\/י",
-      "english": "我的面"
+      "gloss": "我的面"
     }
-  ],
-  "timestamp": "2026-07-17T19:30:57.975637495Z",
-  "model": "glm-5.2"
+  ]
 }

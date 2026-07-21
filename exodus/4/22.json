@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 4:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18606,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19001
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:11:30.370967430Z",
   "translation": "你要对法老说:‘雅威如此说:以色列⟨是⟩我的子,我的长子。’",
   "tokens": [
     {
       "surface": "ואמרת",
-      "english": "你要说"
+      "gloss": "你要说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בני",
-      "english": "我的子"
+      "gloss": "我的子"
     },
     {
       "surface": "בכרי",
-      "english": "我的长子"
+      "gloss": "我的长子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T18:11:30.370967430Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-chronicles 1:2",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 187,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58147,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 58334
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:12.545836419Z",
   "translation": "该南, 玛哈拉勒, 雅列,",
   "tokens": [
     {
       "surface": "קינן",
-      "english": "该南"
+      "gloss": "该南"
     },
     {
       "surface": "מהללאל",
-      "english": "玛哈拉勒"
+      "gloss": "玛哈拉勒"
     },
     {
       "surface": "ירד",
-      "english": "雅列"
+      "gloss": "雅列"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:12.545836419Z",
-  "model": "glm-5.2"
+  ]
 }

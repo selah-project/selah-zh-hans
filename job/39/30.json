@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 39:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21709,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22110
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:34.177418541Z",
   "translation": "她的雏鸟也吸吮血；被刺杀者⟨的尸首⟩在哪里，⟨它⟩就在那里。",
   "tokens": [
     {
       "surface": "ואפרחו",
-      "english": "她的雏鸟也"
+      "gloss": "她的雏鸟也"
     },
     {
       "surface": "יעלעו",
-      "english": "吸吮"
+      "gloss": "吸吮"
     },
     {
       "surface": "דם",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "ובאשר",
-      "english": "在……的地方"
+      "gloss": "在……的地方"
     },
     {
       "surface": "חללים",
-      "english": "被刺杀者"
+      "gloss": "被刺杀者"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:34.177418541Z",
-  "model": "glm-5.2"
+  ]
 }

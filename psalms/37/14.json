@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 37:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64861,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65326
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:43.729239270Z",
   "translation": "恶人拔出刀剑,拉开⟨他们的⟩弓,要使困苦人和穷乏人跌倒,要屠宰行正直路的人。",
   "tokens": [
     {
       "surface": "חרב",
-      "english": "刀剑"
+      "gloss": "刀剑"
     },
     {
       "surface": "פתחו",
-      "english": "拔出"
+      "gloss": "拔出"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ודרכו",
-      "english": "并拉开"
+      "gloss": "并拉开"
     },
     {
       "surface": "קשתם",
-      "english": "他们的弓"
+      "gloss": "他们的弓"
     },
     {
       "surface": "להפיל",
-      "english": "要使……跌倒"
+      "gloss": "要使……跌倒"
     },
     {
       "surface": "עני",
-      "english": "困苦人"
+      "gloss": "困苦人"
     },
     {
       "surface": "ואביון",
-      "english": "和穷乏人"
+      "gloss": "和穷乏人"
     },
     {
       "surface": "לטבוח",
-      "english": "要屠宰"
+      "gloss": "要屠宰"
     },
     {
       "surface": "ישרי",
-      "english": "正直的"
+      "gloss": "正直的"
     },
     {
       "surface": "דרך",
-      "english": "道路"
+      "gloss": "道路"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:43.729239270Z",
-  "model": "glm-5.2"
+  ]
 }

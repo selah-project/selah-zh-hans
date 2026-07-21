@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "deuteronomy 5:30",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18976,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19249
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:31:11.374696435Z",
   "translation": "去吧,对他们说:你们回自己的帐篷去吧!",
   "tokens": [
     {
       "surface": "לֵךְ",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "אֱמֹר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לָ\/הֶם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "שׁוּבוּ",
-      "english": "回吧"
+      "gloss": "回吧"
     },
     {
       "surface": "לָ\/כֶם",
-      "english": "你们自己的"
+      "gloss": "你们自己的"
     },
     {
       "surface": "לְ\/אָהֳלֵי\/כֶם",
-      "english": "帐篷"
+      "gloss": "帐篷"
     }
-  ],
-  "timestamp": "2026-07-17T19:31:11.374696435Z",
-  "model": "glm-5.2"
+  ]
 }

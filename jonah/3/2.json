@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jonah 3:2",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21711,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 22327
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:00.488124974Z",
   "translation": "起来,去吧,往尼尼微 ⟨הַ\/גְּדוֹלָה⟩ 那大城去,向它宣告 ⟨את⟩ 那宣告,就是我所对你说的",
   "tokens": [
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "לך",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "אל",
-      "english": "往……去"
+      "gloss": "往……去"
     },
     {
       "surface": "נינוה",
-      "english": "尼尼微"
+      "gloss": "尼尼微"
     },
     {
       "surface": "העיר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "הגדולה",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "וקרא",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "אליה",
-      "english": "向它"
+      "gloss": "向它"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那宣告"
     },
     {
       "surface": "הקריאה",
-      "english": "那宣告"
+      "gloss": "那宣告"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "דבר",
-      "english": "所……说的"
+      "gloss": "所……说的"
     },
     {
       "surface": "אליך",
-      "english": "对你"
+      "gloss": "对你"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:00.488124974Z",
-  "model": "glm-5.2"
+  ]
 }

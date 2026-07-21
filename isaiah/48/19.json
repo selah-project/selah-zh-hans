@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "isaiah 48:19",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21053,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21456
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:57:48.426142601Z",
   "translation": "你的种也必如沙,你腹中所出的如它的颗粒;他的名就不被剪除,也不被灭没从我面前。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "也必"
+      "gloss": "也必"
     },
     {
       "surface": "כחול",
-      "english": "如沙"
+      "gloss": "如沙"
     },
     {
       "surface": "זרעך",
-      "english": "你的种"
+      "gloss": "你的种"
     },
     {
       "surface": "וצאצאי",
-      "english": "所出的"
+      "gloss": "所出的"
     },
     {
       "surface": "מעיך",
-      "english": "你腹中"
+      "gloss": "你腹中"
     },
     {
       "surface": "כמעתיו",
-      "english": "如它的颗粒"
+      "gloss": "如它的颗粒"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יכרת",
-      "english": "被剪除"
+      "gloss": "被剪除"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "ישמד",
-      "english": "被灭没"
+      "gloss": "被灭没"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     },
     {
       "surface": "מלפני",
-      "english": "从我面前"
+      "gloss": "从我面前"
     }
-  ],
-  "timestamp": "2026-07-17T21:57:48.426142601Z",
-  "model": "glm-5.2"
+  ]
 }

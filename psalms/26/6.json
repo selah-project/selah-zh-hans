@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 26:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64634,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65049
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:45.889921052Z",
   "translation": "我洗手在清洁中,哦,雅威,我将环绕⟨את⟩你的祭坛。",
   "tokens": [
     {
       "surface": "ארחץ",
-      "english": "我洗"
+      "gloss": "我洗"
     },
     {
       "surface": "בנקיון",
-      "english": "在清洁中"
+      "gloss": "在清洁中"
     },
     {
       "surface": "כפי",
-      "english": "我的手(手掌)"
+      "gloss": "我的手(手掌)"
     },
     {
       "surface": "ואסבבה",
-      "english": "我将环绕"
+      "gloss": "我将环绕"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的祭坛"
     },
     {
       "surface": "מזבחך",
-      "english": "你的祭坛"
+      "gloss": "你的祭坛"
     },
     {
       "surface": "יהוה",
-      "english": "哦,雅威"
+      "gloss": "哦,雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:45.889921052Z",
-  "model": "glm-5.2"
+  ]
 }

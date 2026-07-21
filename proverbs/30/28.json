@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "proverbs 30:28",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54277,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54698
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:55.711008756Z",
   "translation": "שְׂמָמִית (壁虎) 用双手即可抓住，⟨而⟩她却住在王的宫殿里。",
   "tokens": [
     {
       "surface": "שממית",
-      "english": "שְׂמָמִית (壁虎)"
+      "gloss": "שְׂמָמִית (壁虎)"
     },
     {
       "surface": "בידים",
-      "english": "用双手"
+      "gloss": "用双手"
     },
     {
       "surface": "תתפש",
-      "english": "即可抓住"
+      "gloss": "即可抓住"
     },
     {
       "surface": "והיא",
-      "english": "⟨而⟩她"
+      "gloss": "⟨而⟩她"
     },
     {
       "surface": "בהיכלי",
-      "english": "却住在宫殿里"
+      "gloss": "却住在宫殿里"
     },
     {
       "surface": "מלך",
-      "english": "王的"
+      "gloss": "王的"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:55.711008756Z",
-  "model": "glm-5.2"
+  ]
 }

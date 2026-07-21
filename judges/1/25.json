@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "judges 1:25",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18636,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 19402
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:06:09.378528636Z",
   "translation": "他向他们指出了⟨את⟩城的入口,他们便用刀口击杀了⟨את⟩那城;至于⟨את⟩那人和⟨את⟩他全家,他们放走了。",
   "tokens": [
     {
       "surface": "וַ\/יַּרְאֵ\/ם֙",
-      "english": "他向他们指出"
+      "gloss": "他向他们指出"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "城的入口"
     },
     {
       "surface": "מְב֣וֹא",
-      "english": "入口"
+      "gloss": "入口"
     },
     {
       "surface": "הָ\/עִ֔יר",
-      "english": "城的"
+      "gloss": "城的"
     },
     {
       "surface": "וַ\/יַּכּ֥וּ",
-      "english": "他们便击杀"
+      "gloss": "他们便击杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那城"
     },
     {
       "surface": "הָ\/עִ֖יר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "לְ\/פִי",
-      "english": "用……口"
+      "gloss": "用……口"
     },
     {
       "surface": "חָ֑רֶב",
-      "english": "刀"
+      "gloss": "刀"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "至于⟨את⟩",
+      "gloss": "至于⟨את⟩",
       "marks": "那人"
     },
     {
       "surface": "הָ\/אִ֥ישׁ",
-      "english": "那人"
+      "gloss": "那人"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他全家"
     },
     {
       "surface": "כָּל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "מִשְׁפַּחְתּ֖\/וֹ",
-      "english": "他的家族"
+      "gloss": "他的家族"
     },
     {
       "surface": "שִׁלֵּֽחוּ",
-      "english": "他们放走了"
+      "gloss": "他们放走了"
     }
-  ],
-  "timestamp": "2026-07-17T20:06:09.378528636Z",
-  "model": "glm-5.2"
+  ]
 }

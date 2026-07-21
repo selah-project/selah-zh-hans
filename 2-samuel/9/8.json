@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "2-samuel 9:8",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19063,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19633
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:44:35.707839956Z",
   "translation": "⟨他⟩叩拜,说:⟨⟨我⟩是⟩你的仆人什么(人),⟨竟然⟩转脸看⟨向⟩⟨这⟩死狗——像我这样的人?",
   "tokens": [
     {
       "surface": "וישתחו",
-      "english": "⟨他⟩叩拜"
+      "gloss": "⟨他⟩叩拜"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "עבדך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "כי",
-      "english": "⟨竟然⟩"
+      "gloss": "⟨竟然⟩"
     },
     {
       "surface": "פנית",
-      "english": "⟨你⟩转脸看"
+      "gloss": "⟨你⟩转脸看"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "הכלב",
-      "english": "⟨这⟩死狗"
+      "gloss": "⟨这⟩死狗"
     },
     {
       "surface": "המת",
-      "english": "⟨这⟩死的"
+      "gloss": "⟨这⟩死的"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "כמוני",
-      "english": "像我这样的人"
+      "gloss": "像我这样的人"
     }
-  ],
-  "timestamp": "2026-07-17T20:44:35.707839956Z",
-  "model": "glm-5.2"
+  ]
 }

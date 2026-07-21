@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 40:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64078,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64354
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:52.711036119Z",
   "translation": "给⟨那位⟩指挥者,属于大卫的诗篇。",
   "tokens": [
     {
       "surface": "לַ֝\/מְנַצֵּחַ",
-      "english": "给⟨那位⟩指挥者"
+      "gloss": "给⟨那位⟩指挥者"
     },
     {
       "surface": "לְ\/דָוִד",
-      "english": "属于大卫的"
+      "gloss": "属于大卫的"
     },
     {
       "surface": "מִזְמֽוֹר",
-      "english": "诗篇"
+      "gloss": "诗篇"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:52.711036119Z",
-  "model": "glm-5.2"
+  ]
 }

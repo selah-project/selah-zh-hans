@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-kings 9:17",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63981,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64411
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:04:40.596522238Z",
   "translation": "所罗门建造了⟨את⟩-基色，以及⟨את⟩-下伯 伯。",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "גזר"
     },
     {
       "surface": "גזר",
-      "english": "基色"
+      "gloss": "基色"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "בית חרן"
     },
     {
       "surface": "בית",
-      "english": "伯"
+      "gloss": "伯"
     },
     {
       "surface": "חרן",
-      "english": "伯"
+      "gloss": "伯"
     },
     {
       "surface": "תחתון",
-      "english": "下"
+      "gloss": "下"
     }
-  ],
-  "timestamp": "2026-07-17T21:04:40.596522238Z",
-  "model": "glm-5.2"
+  ]
 }

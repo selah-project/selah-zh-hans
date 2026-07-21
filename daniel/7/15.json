@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "daniel 7:15",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18882,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19405
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:32:59.532757387Z",
   "translation": "我的鲁阿忧惧不安；我但以理在我躯体的⟨中⟩，我头上的异象使我惊惶。",
   "tokens": [
     {
       "surface": "אתכרית",
-      "english": "忧惧不安"
+      "gloss": "忧惧不安"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "אנה",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "דניאל",
-      "english": "但以理"
+      "gloss": "但以理"
     },
     {
       "surface": "בגוא",
-      "english": "在……⟨中⟩"
+      "gloss": "在……⟨中⟩"
     },
     {
       "surface": "נדנה",
-      "english": "我的躯体"
+      "gloss": "我的躯体"
     },
     {
       "surface": "וחזוי",
-      "english": "而……的异象"
+      "gloss": "而……的异象"
     },
     {
       "surface": "ראשי",
-      "english": "我头上"
+      "gloss": "我头上"
     },
     {
       "surface": "יבהלנני",
-      "english": "使我惊惶"
+      "gloss": "使我惊惶"
     }
-  ],
-  "timestamp": "2026-07-18T01:32:59.532757387Z",
-  "model": "glm-5.2"
+  ]
 }

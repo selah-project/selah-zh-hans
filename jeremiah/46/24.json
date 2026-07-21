@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "jeremiah 46:24",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18966,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19307
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:34:11.996068787Z",
   "translation": "埃及的女儿 ⟨已⟩ 蒙羞，⟨她⟩ 被交在北方百姓的手中。",
   "tokens": [
     {
       "surface": "הבישה",
-      "english": "蒙羞"
+      "gloss": "蒙羞"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "נתנה",
-      "english": "被交在"
+      "gloss": "被交在"
     },
     {
       "surface": "ביד",
-      "english": "在……的手中"
+      "gloss": "在……的手中"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "צפון",
-      "english": "北方"
+      "gloss": "北方"
     }
-  ],
-  "timestamp": "2026-07-17T22:34:11.996068787Z",
-  "model": "glm-5.2"
+  ]
 }

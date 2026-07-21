@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 99:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 714,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64847,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65561
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:18.975034724Z",
   "translation": "雅威我们的以罗欣啊，你曾回答他们，⟨你是⟩承当⟨他们⟩的 אֵל，你曾是他们的；你也按他们的作为追讨。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עניתם",
-      "english": "曾回答他们"
+      "gloss": "曾回答他们"
     },
     {
       "surface": "אל",
-      "english": "⟨אֵל⟩（大能者）"
+      "gloss": "⟨אֵל⟩（大能者）"
     },
     {
       "surface": "נשא",
-      "english": "承当⟨他们⟩"
+      "gloss": "承当⟨他们⟩"
     },
     {
       "surface": "היית",
-      "english": "你曾是"
+      "gloss": "你曾是"
     },
     {
       "surface": "להם",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "ונקם",
-      "english": "且追讨"
+      "gloss": "且追讨"
     },
     {
       "surface": "על",
-      "english": "按"
+      "gloss": "按"
     },
     {
       "surface": "עלילותם",
-      "english": "他们的作为"
+      "gloss": "他们的作为"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:18.975034724Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 104:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64453,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64914
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:48.686288341Z",
   "translation": "它们使田野的一切活物得水解渴；野驴解 ⟨它们⟩ 的渴。",
   "tokens": [
     {
       "surface": "יַ֭שְׁקוּ",
-      "english": "它们使……得水解渴"
+      "gloss": "它们使……得水解渴"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "חַיְת֣\/וֹ",
-      "english": "活物"
+      "gloss": "活物"
     },
     {
       "surface": "שָׂדָ֑י",
-      "english": "田野的"
+      "gloss": "田野的"
     },
     {
       "surface": "יִשְׁבְּר֖וּ",
-      "english": "解"
+      "gloss": "解"
     },
     {
       "surface": "פְרָאִ֣ים",
-      "english": "野驴"
+      "gloss": "野驴"
     },
     {
       "surface": "צְמָאָֽ\/ם",
-      "english": "⟨它们的⟩ 渴"
+      "gloss": "⟨它们的⟩ 渴"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:48.686288341Z",
-  "model": "glm-5.2"
+  ]
 }

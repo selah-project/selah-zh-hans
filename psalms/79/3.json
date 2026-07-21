@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 79:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64513,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64939
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:28.806886424Z",
   "translation": "他们倾倒了⟨他们的⟩血如水，在耶路撒冷四围，且无人安葬。",
   "tokens": [
     {
       "surface": "שָׁפְכ֬וּ",
-      "english": "他们倾倒了"
+      "gloss": "他们倾倒了"
     },
     {
       "surface": "דָמָ֨\/ם",
-      "english": "⟨他们的⟩血"
+      "gloss": "⟨他们的⟩血"
     },
     {
       "surface": "כַּ\/מַּ֗יִם",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "סְֽבִ֘יב֤וֹת",
-      "english": "在四围"
+      "gloss": "在四围"
     },
     {
       "surface": "יְֽרוּשָׁלִָ֗ם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "וְ\/אֵ֣ין",
-      "english": "且无"
+      "gloss": "且无"
     },
     {
       "surface": "קוֹבֵֽר",
-      "english": "安葬者"
+      "gloss": "安葬者"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:28.806886424Z",
-  "model": "glm-5.2"
+  ]
 }

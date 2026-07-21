@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "numbers 2:19",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19455,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19689
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:01:05.064648556Z",
   "translation": "⟨他⟩的军队和他们的被数点者:四万零五百。",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "和他的军队"
+      "gloss": "和他的军队"
     },
     {
       "surface": "ופקדיהם",
-      "english": "和他们的被数点者"
+      "gloss": "和他们的被数点者"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "和五"
+      "gloss": "和五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:01:05.064648556Z",
-  "model": "glm-5.2"
+  ]
 }

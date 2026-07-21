@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 6:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 246,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18238,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18484
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:12:56.984307545Z",
   "translation": "革顺的儿子们:利未和示每,按⟨他们的⟩宗族。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "גרשון",
-      "english": "革顺"
+      "gloss": "革顺"
     },
     {
       "surface": "לבני",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "ושמעי",
-      "english": "和示每"
+      "gloss": "和示每"
     },
     {
       "surface": "למשפחתם",
-      "english": "按⟨他们的⟩宗族"
+      "gloss": "按⟨他们的⟩宗族"
     }
-  ],
-  "timestamp": "2026-07-17T18:12:56.984307545Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 33:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64383,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64848
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:52.638341210Z",
   "translation": "那塑造他们心的,⟨那⟩察看他们一切作为的,",
   "tokens": [
     {
       "surface": "היצר",
-      "english": "那塑造"
+      "gloss": "那塑造"
     },
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "לבם",
-      "english": "他们的心"
+      "gloss": "他们的心"
     },
     {
       "surface": "המבין",
-      "english": "⟨那⟩察看"
+      "gloss": "⟨那⟩察看"
     },
     {
       "surface": "אל",
-      "english": "朝着"
+      "gloss": "朝着"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מעשיהם",
-      "english": "他们的作为"
+      "gloss": "他们的作为"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:52.638341210Z",
-  "model": "glm-5.2"
+  ]
 }

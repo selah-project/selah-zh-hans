@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "job 36:33",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21551,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21972
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:08.454939466Z",
   "translation": "它的雷声宣告⟨关于⟩它,牲畜也⟨感知⟩所升起的。",
   "tokens": [
     {
       "surface": "יגיד",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "עליו",
-      "english": "⟨关于⟩它"
+      "gloss": "⟨关于⟩它"
     },
     {
       "surface": "רעו",
-      "english": "它的雷声"
+      "gloss": "它的雷声"
     },
     {
       "surface": "מקנה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "על",
-      "english": "⟨感知⟩"
+      "gloss": "⟨感知⟩"
     },
     {
       "surface": "עולה",
-      "english": "所升起的"
+      "gloss": "所升起的"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:08.454939466Z",
-  "model": "glm-5.2"
+  ]
 }

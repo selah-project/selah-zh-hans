@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 30:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 235,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54319,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54554
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:43.031923811Z",
   "translation": "一代——在自己眼中⟨是⟩洁净的，却未从其污秽中洗净。",
   "tokens": [
     {
       "surface": "דור",
-      "english": "一代"
+      "gloss": "一代"
     },
     {
       "surface": "טהור",
-      "english": "⟨是⟩洁净的"
+      "gloss": "⟨是⟩洁净的"
     },
     {
       "surface": "בעיניו",
-      "english": "在自己眼中"
+      "gloss": "在自己眼中"
     },
     {
       "surface": "ומצאתו",
-      "english": "却从其污秽"
+      "gloss": "却从其污秽"
     },
     {
       "surface": "לא",
-      "english": "未"
+      "gloss": "未"
     },
     {
       "surface": "רחץ",
-      "english": "洗净"
+      "gloss": "洗净"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:43.031923811Z",
-  "model": "glm-5.2"
+  ]
 }

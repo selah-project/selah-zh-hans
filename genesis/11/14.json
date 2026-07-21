@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "genesis 11:14",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22831,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23185
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:17.057958044Z",
   "translation": "沙拉 活了三十岁，生了 ⟨את⟩ 以。",
   "tokens": [
     {
       "surface": "וְ\/שֶׁ֥לַח",
-      "english": "沙拉"
+      "gloss": "沙拉"
     },
     {
       "surface": "חַ֖י",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "שְׁלֹשִׁ֣ים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "שָׁנָ֑ה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以𪜬 (Eber)"
     },
     {
       "surface": "עֵֽבֶר",
-      "english": "以"
+      "gloss": "以"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:17.057958044Z",
-  "model": "glm-5.2"
+  ]
 }

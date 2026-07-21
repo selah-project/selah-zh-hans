@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 34:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20764,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21308
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:50:20.479149164Z",
   "translation": "她的贵族 ⟨被呼召⟩ ⟨进入⟩ 王国，但那里无 ⟨人⟩ 可寻；她所有的首领都将化为虚无。",
   "tokens": [
     {
       "surface": "חֹרֶ֥י\/הָ",
-      "english": "她的贵族"
+      "gloss": "她的贵族"
     },
     {
       "surface": "וְ\/אֵֽין",
-      "english": "但无"
+      "gloss": "但无"
     },
     {
       "surface": "שָׁ֖ם",
-      "english": "那里"
+      "gloss": "那里"
     },
     {
       "surface": "מְלוּכָ֣ה",
-      "english": "王国"
+      "gloss": "王国"
     },
     {
       "surface": "יִקְרָ֑אוּ",
-      "english": "⟨被⟩呼召"
+      "gloss": "⟨被⟩呼召"
     },
     {
       "surface": "וְ\/כָל",
-      "english": "她所有的"
+      "gloss": "她所有的"
     },
     {
       "surface": "שָׂרֶ֖י\/הָ",
-      "english": "首领"
+      "gloss": "首领"
     },
     {
       "surface": "יִ֥הְיוּ",
-      "english": "都将化为"
+      "gloss": "都将化为"
     },
     {
       "surface": "אָֽפֶס",
-      "english": "虚无"
+      "gloss": "虚无"
     }
-  ],
-  "timestamp": "2026-07-17T21:50:20.479149164Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "zechariah 5:10",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17880,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 18395
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:34:04.359198555Z",
   "translation": "我说与那在我里面说话的使者:她们⟨要把⟩⟨את⟩那量器带到哪里去呢?",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אל",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "המלאך",
-      "english": "那使者"
+      "gloss": "那使者"
     },
     {
       "surface": "הדבר",
-      "english": "说话的"
+      "gloss": "说话的"
     },
     {
       "surface": "בי",
-      "english": "在我里面"
+      "gloss": "在我里面"
     },
     {
       "surface": "אנה",
-      "english": "哪里去呢?"
+      "gloss": "哪里去呢?"
     },
     {
       "surface": "המה",
-      "english": "她们"
+      "gloss": "她们"
     },
     {
       "surface": "מולכות",
-      "english": "要带"
+      "gloss": "要带"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那量器"
     },
     {
       "surface": "האיפה",
-      "english": "那量器"
+      "gloss": "那量器"
     }
-  ],
-  "timestamp": "2026-07-17T23:34:04.359198555Z",
-  "model": "glm-5.2"
+  ]
 }

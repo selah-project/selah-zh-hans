@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "psalms 18:45",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64456,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64836
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:00.751401371Z",
   "translation": "关于耳所听见的事，外邦人的子孙必听从⟨我⟩；外邦人必向⟨我⟩说谎。",
   "tokens": [
     {
       "surface": "לשמע",
-      "english": "关于耳所听见的事"
+      "gloss": "关于耳所听见的事"
     },
     {
       "surface": "אזן",
-      "english": "耳"
+      "gloss": "耳"
     },
     {
       "surface": "ישמעו",
-      "english": "他们必听从"
+      "gloss": "他们必听从"
     },
     {
       "surface": "לי",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "נכר",
-      "english": "外邦"
+      "gloss": "外邦"
     },
     {
       "surface": "יכחשו",
-      "english": "他们必说谎"
+      "gloss": "他们必说谎"
     },
     {
       "surface": "לי",
-      "english": "⟨向我⟩"
+      "gloss": "⟨向我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:00.751401371Z",
-  "model": "glm-5.2"
+  ]
 }

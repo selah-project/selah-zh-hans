@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "genesis 36:36",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22737,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23021
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:02.234576191Z",
   "translation": "哈达死了,撒母拉来自马斯雷卡代替他作王。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨然后⟩死了"
+      "gloss": "⟨然后⟩死了"
     },
     {
       "surface": "הדד",
-      "english": "哈达"
+      "gloss": "哈达"
     },
     {
       "surface": "וימלך",
-      "english": "⟨他⟩作王"
+      "gloss": "⟨他⟩作王"
     },
     {
       "surface": "תחתיו",
-      "english": "代替他"
+      "gloss": "代替他"
     },
     {
       "surface": "שמלה",
-      "english": "撒母拉"
+      "gloss": "撒母拉"
     },
     {
       "surface": "ממשרקה",
-      "english": "来自马斯雷卡"
+      "gloss": "来自马斯雷卡"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:02.234576191Z",
-  "model": "glm-5.2"
+  ]
 }

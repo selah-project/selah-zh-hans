@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-chronicles 10:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59102,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59560
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:59:41.152985176Z",
   "translation": "他们将⟨את⟩他的兵器放在他们众神明的殿中，又将⟨את⟩他的头颅钉在大衮的殿中。",
   "tokens": [
     {
       "surface": "וישימו",
-      "english": "他们将……放置"
+      "gloss": "他们将……放置"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的兵器"
     },
     {
       "surface": "כליו",
-      "english": "他的兵器"
+      "gloss": "他的兵器"
     },
     {
       "surface": "בית",
-      "english": "在……殿中"
+      "gloss": "在……殿中"
     },
     {
       "surface": "אלהיהם",
-      "english": "他们众神明（以罗欣）"
+      "gloss": "他们众神明（以罗欣）"
     },
     {
       "surface": "ואת",
-      "english": "又将⟨את⟩"
+      "gloss": "又将⟨את⟩"
     },
     {
       "surface": "גלגלתו",
-      "english": "他的头颅"
+      "gloss": "他的头颅"
     },
     {
       "surface": "תקעו",
-      "english": "他们钉了"
+      "gloss": "他们钉了"
     },
     {
       "surface": "בית",
-      "english": "在……殿中"
+      "gloss": "在……殿中"
     },
     {
       "surface": "דגון",
-      "english": "大衮"
+      "gloss": "大衮"
     }
-  ],
-  "timestamp": "2026-07-18T01:59:41.152985176Z",
-  "model": "glm-5.2"
+  ]
 }

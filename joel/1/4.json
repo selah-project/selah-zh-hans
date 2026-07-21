@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "joel 1:4",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18275,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18895
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:21.834647513Z",
   "translation": "剪蝗所剩的,群蝗吃了;群蝗所剩的,舔蝗吃了;舔蝗所剩的,毁蝗吃了。",
   "tokens": [
     {
       "surface": "יֶתֶר",
-      "english": "所剩的"
+      "gloss": "所剩的"
     },
     {
       "surface": "הַ\/גָּזָם",
-      "english": "剪蝗"
+      "gloss": "剪蝗"
     },
     {
       "surface": "אָכַל",
-      "english": "吃了"
+      "gloss": "吃了"
     },
     {
       "surface": "הָ\/אַרְבֶּה",
-      "english": "群蝗"
+      "gloss": "群蝗"
     },
     {
       "surface": "וְ\/יֶתֶר",
-      "english": "而所剩的"
+      "gloss": "而所剩的"
     },
     {
       "surface": "הָ\/אַרְבֶּה",
-      "english": "群蝗"
+      "gloss": "群蝗"
     },
     {
       "surface": "אָכַל",
-      "english": "吃了"
+      "gloss": "吃了"
     },
     {
       "surface": "הַ\/יָּלֶק",
-      "english": "舔蝗"
+      "gloss": "舔蝗"
     },
     {
       "surface": "וְ\/יֶתֶר",
-      "english": "而所剩的"
+      "gloss": "而所剩的"
     },
     {
       "surface": "הַ\/יֶּלֶק",
-      "english": "舔蝗"
+      "gloss": "舔蝗"
     },
     {
       "surface": "אָכַל",
-      "english": "吃了"
+      "gloss": "吃了"
     },
     {
       "surface": "הֶ\/חָסִיל",
-      "english": "毁蝗"
+      "gloss": "毁蝗"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:21.834647513Z",
-  "model": "glm-5.2"
+  ]
 }

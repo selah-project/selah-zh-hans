@@ -1,59 +1,51 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "jeremiah 33:7",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 527,
-    "prompt_tokens": 19439,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19966
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:18:15.415589045Z",
   "translation": "我将使犹大的被掳 ⟨את⟩ 和以色列的被掳 ⟨את⟩ 归回，并且我要重新建造他们，如起初一样。",
   "tokens": [
     {
       "surface": "והשבתי",
-      "english": "我将使归回"
+      "gloss": "我将使归回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "犹大的被掳"
     },
     {
       "surface": "שבות",
-      "english": "被掳"
+      "gloss": "被掳"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列的被掳"
     },
     {
       "surface": "שבות",
-      "english": "被掳"
+      "gloss": "被掳"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ובנתים",
-      "english": "并且我要重新建造他们"
+      "gloss": "并且我要重新建造他们"
     },
     {
       "surface": "כבראשנה",
-      "english": "如起初一样"
+      "gloss": "如起初一样"
     }
-  ],
-  "timestamp": "2026-07-21T13:18:15.415589045Z",
-  "model": "glm-4.5"
+  ]
 }

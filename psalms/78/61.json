@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 61,
   "ref": "psalms 78:61",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64276,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64670
-  },
+  "verse": 61,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:50.876021319Z",
   "translation": "并将⟨他的⟩力量交于俘获，将⟨他的⟩荣耀交于敌人之手。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "并将……交于"
+      "gloss": "并将……交于"
     },
     {
       "surface": "לשבי",
-      "english": "俘获"
+      "gloss": "俘获"
     },
     {
       "surface": "עזו",
-      "english": "⟨他的⟩力量"
+      "gloss": "⟨他的⟩力量"
     },
     {
       "surface": "ותפארתו",
-      "english": "将⟨他的⟩荣耀"
+      "gloss": "将⟨他的⟩荣耀"
     },
     {
       "surface": "ביד",
-      "english": "交于……之手"
+      "gloss": "交于……之手"
     },
     {
       "surface": "צר",
-      "english": "敌人"
+      "gloss": "敌人"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:50.876021319Z",
-  "model": "glm-5.2"
+  ]
 }

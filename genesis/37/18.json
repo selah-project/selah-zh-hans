@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 37:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 455,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23212,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23667
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:31.739361596Z",
   "translation": "他们从远处看见他 ⟨את⟩,在他靠近他们之前,他们就密谋要 ⟨את⟩ 杀害他。",
   "tokens": [
     {
       "surface": "ויראו",
-      "english": "他们就看见"
+      "gloss": "他们就看见"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他 (从远处看见的对象)"
     },
     {
       "surface": "מרחק",
-      "english": "从远处"
+      "gloss": "从远处"
     },
     {
       "surface": "ובטרם",
-      "english": "在……之前"
+      "gloss": "在……之前"
     },
     {
       "surface": "יקרב",
-      "english": "他靠近"
+      "gloss": "他靠近"
     },
     {
       "surface": "אליהם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ויתנכלו",
-      "english": "他们就密谋"
+      "gloss": "他们就密谋"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他 (杀害的对象)"
     },
     {
       "surface": "להמיתו",
-      "english": "杀害他"
+      "gloss": "杀害他"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:31.739361596Z",
-  "model": "glm-5.2"
+  ]
 }

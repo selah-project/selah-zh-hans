@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 11:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64715,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65239
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:34.071361743Z",
   "translation": "给诗班长，大卫的。在雅威里我投靠；你们怎么对我的生命说：飞吧，⟨像⟩鸟⟨一样⟩到⟨你们的⟩山去？",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给诗班长"
+      "gloss": "给诗班长"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "ביהוה",
-      "english": "在雅威里"
+      "gloss": "在雅威里"
     },
     {
       "surface": "חסיתי",
-      "english": "我投靠"
+      "gloss": "我投靠"
     },
     {
       "surface": "איך",
-      "english": "你们怎么"
+      "gloss": "你们怎么"
     },
     {
       "surface": "תאמרו",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לנפשי",
-      "english": "对我的生命"
+      "gloss": "对我的生命"
     },
     {
       "surface": "נודו",
-      "english": "飞吧"
+      "gloss": "飞吧"
     },
     {
       "surface": "הרכם",
-      "english": "到⟨你们的⟩山"
+      "gloss": "到⟨你们的⟩山"
     },
     {
       "surface": "צפור",
-      "english": "⟨像⟩鸟⟨一样⟩"
+      "gloss": "⟨像⟩鸟⟨一样⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:34.071361743Z",
-  "model": "glm-5.2"
+  ]
 }

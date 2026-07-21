@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 15:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22888,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23205
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:41:15.259941120Z",
   "translation": "以及 ⟨את⟩ 赫人,以及 ⟨את⟩ 比利洗人,以及 ⟨את⟩ 利乏音人;",
   "tokens": [
     {
       "surface": "וְ\/אֶת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "הַ\/חִתִּ֥י",
-      "english": "赫人"
+      "gloss": "赫人"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "הַ\/פְּרִזִּ֖י",
-      "english": "比利洗人"
+      "gloss": "比利洗人"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "הָ\/רְפָאִֽים",
-      "english": "利乏音人"
+      "gloss": "利乏音人"
     }
-  ],
-  "timestamp": "2026-07-17T17:41:15.259941120Z",
-  "model": "glm-5.2"
+  ]
 }

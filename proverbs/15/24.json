@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 15:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54467,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54818
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:03.458988184Z",
   "translation": "生命之路 ⟨在上⟩，为智慧人所用，为要 ⟨他⟩ 转离在下的。",
   "tokens": [
     {
       "surface": "ארח",
-      "english": "路"
+      "gloss": "路"
     },
     {
       "surface": "חיים",
-      "english": "生命的"
+      "gloss": "生命的"
     },
     {
       "surface": "למעלה",
-      "english": "⟨在⟩上"
+      "gloss": "⟨在⟩上"
     },
     {
       "surface": "למשכיל",
-      "english": "为智慧人所用"
+      "gloss": "为智慧人所用"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "סור",
-      "english": "⟨他⟩转离"
+      "gloss": "⟨他⟩转离"
     },
     {
       "surface": "משאול",
-      "english": "在下的"
+      "gloss": "在下的"
     },
     {
       "surface": "מטה",
-      "english": "⟨在⟩下"
+      "gloss": "⟨在⟩下"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:03.458988184Z",
-  "model": "glm-5.2"
+  ]
 }

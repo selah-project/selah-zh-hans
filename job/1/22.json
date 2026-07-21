@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 1:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21649,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 21915
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:54.211165980Z",
   "translation": "在这一切之中,约伯没有犯罪,也没有将以罗欣视为愚妄。",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "在……的一切之中"
+      "gloss": "在……的一切之中"
     },
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "חטא",
-      "english": "犯罪"
+      "gloss": "犯罪"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "נתן",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "תפלה",
-      "english": "愚妄"
+      "gloss": "愚妄"
     },
     {
       "surface": "לאלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:54.211165980Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 8:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59154,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59614
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:56.859173342Z",
   "translation": "沙哈莱姆在摩押田野生了孩子，从他送走她们之后——即⟨את⟩胡 和⟨את⟩巴阿拉，他的妻子们。",
   "tokens": [
     {
       "surface": "ושחרים",
-      "english": "沙哈莱姆"
+      "gloss": "沙哈莱姆"
     },
     {
       "surface": "הוליד",
-      "english": "生了孩子"
+      "gloss": "生了孩子"
     },
     {
       "surface": "בשדה",
-      "english": "在……的田野"
+      "gloss": "在……的田野"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "מן",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "שלחו",
-      "english": "他送走她们"
+      "gloss": "他送走她们"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "胡 shin (חושים)"
     },
     {
       "surface": "חושים",
-      "english": "胡"
+      "gloss": "胡"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "巴阿拉 (בערא)"
     },
     {
       "surface": "בערא",
-      "english": "巴阿拉"
+      "gloss": "巴阿拉"
     },
     {
       "surface": "נשיו",
-      "english": "他的妻子们"
+      "gloss": "他的妻子们"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:56.859173342Z",
-  "model": "glm-5.2"
+  ]
 }

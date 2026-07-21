@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-samuel 28:11",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18340,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18782
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:12.072687113Z",
   "translation": "那女人问:⟨את⟩谁我当为你招上来?他说:⟨את⟩撒母耳,招上来给我。",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "问"
+      "gloss": "问"
     },
     {
       "surface": "האשה",
-      "english": "那女人"
+      "gloss": "那女人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谁"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "אעלה",
-      "english": "我当……招上来"
+      "gloss": "我当……招上来"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒母耳"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "העלי",
-      "english": "招上来"
+      "gloss": "招上来"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:12.072687113Z",
-  "model": "glm-5.2"
+  ]
 }

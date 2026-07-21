@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "isaiah 65:21",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20559,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20925
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:05:30.213743828Z",
   "translation": "他们必建造房屋，⟨并⟩居住；⟨他们⟩必栽植葡萄园，⟨并⟩吃⟨其⟩果子。",
   "tokens": [
     {
       "surface": "ובנו",
-      "english": "他们必建造"
+      "gloss": "他们必建造"
     },
     {
       "surface": "בתים",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "וישבו",
-      "english": "⟨并⟩居住"
+      "gloss": "⟨并⟩居住"
     },
     {
       "surface": "ונטעו",
-      "english": "⟨他们⟩必栽植"
+      "gloss": "⟨他们⟩必栽植"
     },
     {
       "surface": "כרמים",
-      "english": "葡萄园"
+      "gloss": "葡萄园"
     },
     {
       "surface": "ואכלו",
-      "english": "⟨并⟩吃"
+      "gloss": "⟨并⟩吃"
     },
     {
       "surface": "פרים",
-      "english": "⟨其⟩果子"
+      "gloss": "⟨其⟩果子"
     }
-  ],
-  "timestamp": "2026-07-17T22:05:30.213743828Z",
-  "model": "glm-5.2"
+  ]
 }

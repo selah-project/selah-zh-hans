@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 9:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64745,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65179
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:56.991171533Z",
   "translation": "好叫我述说你一切的赞美，在锡安女儿的门内，我要因你的救恩欢欣。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "好叫"
+      "gloss": "好叫"
     },
     {
       "surface": "אספרה",
-      "english": "我述说"
+      "gloss": "我述说"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תהלתיך",
-      "english": "你的赞美"
+      "gloss": "你的赞美"
     },
     {
       "surface": "בשערי",
-      "english": "在……的门内"
+      "gloss": "在……的门内"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "אגילה",
-      "english": "我要欢欣"
+      "gloss": "我要欢欣"
     },
     {
       "surface": "בישועתך",
-      "english": "因你的救恩"
+      "gloss": "因你的救恩"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:56.991171533Z",
-  "model": "glm-5.2"
+  ]
 }

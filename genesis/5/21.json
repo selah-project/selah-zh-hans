@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "genesis 5:21",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 318,
-    "prompt_tokens": 23047,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23365
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:15.022800166Z",
   "translation": "哈诺克活了六十五岁,并且生养 ⟨את⟩ 玛土撒拉。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "חנוך",
-      "english": "哈诺克"
+      "gloss": "哈诺克"
     },
     {
       "surface": "חמש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "וששים",
-      "english": "十五"
+      "gloss": "十五"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ויולד",
-      "english": "并且生养"
+      "gloss": "并且生养"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "玛土撒拉"
     },
     {
       "surface": "מתושלח",
-      "english": "玛土撒拉"
+      "gloss": "玛土撒拉"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:15.022800166Z",
-  "model": "glm-4.5"
+  ]
 }

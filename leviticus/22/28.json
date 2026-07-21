@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "leviticus 22:28",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19283,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19697
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:40.806192233Z",
   "translation": "至于公牛或母羊——⟨את⟩牠和⟨את⟩牠的崽子,你们不可在同一天宰杀。",
   "tokens": [
     {
       "surface": "ושור",
-      "english": "至于公牛"
+      "gloss": "至于公牛"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "שה",
-      "english": "母羊"
+      "gloss": "母羊"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩牠"
+      "gloss": "⟨את⟩牠"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "בנו",
-      "english": "牠的崽子"
+      "gloss": "牠的崽子"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשחטו",
-      "english": "你们……宰杀"
+      "gloss": "你们……宰杀"
     },
     {
       "surface": "ביום",
-      "english": "在……天"
+      "gloss": "在……天"
     },
     {
       "surface": "אחד",
-      "english": "同一"
+      "gloss": "同一"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:40.806192233Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "micah 6:10",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17418,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17864
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:26:30.581821328Z",
   "translation": "还有 ⟨那火⟩ ⟨在⟩ 恶人之家，邪恶的宝物，和可憎的短小伊法吗？",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "还有"
+      "gloss": "还有"
     },
     {
       "surface": "האש",
-      "english": "⟨那火⟩"
+      "gloss": "⟨那火⟩"
     },
     {
       "surface": "בית",
-      "english": "⟨在⟩……家"
+      "gloss": "⟨在⟩……家"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "אצרות",
-      "english": "宝物"
+      "gloss": "宝物"
     },
     {
       "surface": "רשע",
-      "english": "邪恶的"
+      "gloss": "邪恶的"
     },
     {
       "surface": "ואיפת",
-      "english": "和短小的伊法"
+      "gloss": "和短小的伊法"
     },
     {
       "surface": "רזון",
-      "english": "短小的"
+      "gloss": "短小的"
     },
     {
       "surface": "זעומה",
-      "english": "可憎的"
+      "gloss": "可憎的"
     }
-  ],
-  "timestamp": "2026-07-17T23:26:30.581821328Z",
-  "model": "glm-5.2"
+  ]
 }

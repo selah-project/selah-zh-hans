@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 44:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64545,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64871
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:19.608347493Z",
   "translation": "以罗欣岂不察透这⟨事⟩吗？因为他知道⟨那⟩心里的隐秘。",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יחקר",
-      "english": "察透"
+      "gloss": "察透"
     },
     {
       "surface": "זאת",
-      "english": "这⟨事⟩"
+      "gloss": "这⟨事⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "תעלמות",
-      "english": "隐秘"
+      "gloss": "隐秘"
     },
     {
       "surface": "לב",
-      "english": "心的"
+      "gloss": "心的"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:19.608347493Z",
-  "model": "glm-5.2"
+  ]
 }

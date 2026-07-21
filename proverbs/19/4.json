@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 19:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54336,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54665
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:22.022861539Z",
   "translation": "财富增添许多同伴,但穷人⟨从⟩他的同伴⟨被⟩分开。",
   "tokens": [
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "יסיף",
-      "english": "增添"
+      "gloss": "增添"
     },
     {
       "surface": "רעים",
-      "english": "同伴"
+      "gloss": "同伴"
     },
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "ודל",
-      "english": "但穷人"
+      "gloss": "但穷人"
     },
     {
       "surface": "מרעהו",
-      "english": "⟨从⟩他的同伴"
+      "gloss": "⟨从⟩他的同伴"
     },
     {
       "surface": "יפרד",
-      "english": "⟨被⟩分开"
+      "gloss": "⟨被⟩分开"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:22.022861539Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 64:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64512,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64885
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:52.836641155Z",
   "translation": "为要在隐密处射那无辜的人；他们突然射他，并不畏惧。",
   "tokens": [
     {
       "surface": "לירות",
-      "english": "为要射"
+      "gloss": "为要射"
     },
     {
       "surface": "במסתרים",
-      "english": "在隐密处"
+      "gloss": "在隐密处"
     },
     {
       "surface": "תם",
-      "english": "那无辜的人"
+      "gloss": "那无辜的人"
     },
     {
       "surface": "פתאם",
-      "english": "突然"
+      "gloss": "突然"
     },
     {
       "surface": "ירהו",
-      "english": "他们射他"
+      "gloss": "他们射他"
     },
     {
       "surface": "ולא",
-      "english": "并不"
+      "gloss": "并不"
     },
     {
       "surface": "ייראו",
-      "english": "畏惧"
+      "gloss": "畏惧"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:52.836641155Z",
-  "model": "glm-5.2"
+  ]
 }

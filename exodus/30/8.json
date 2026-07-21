@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 30:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18992,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19523
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:44:47.396761780Z",
   "translation": "亚伦在黄昏点灯的时候，他要烧它 —— ⟨את⟩ 持续的香，在雅威面前，直到你们的世世代代。",
   "tokens": [
     {
       "surface": "ובהעלת",
-      "english": "在……点（灯）的时候"
+      "gloss": "在……点（灯）的时候"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "灯"
     },
     {
       "surface": "הנרת",
-      "english": "灯"
+      "gloss": "灯"
     },
     {
       "surface": "בין",
-      "english": "之间"
+      "gloss": "之间"
     },
     {
       "surface": "הערבים",
-      "english": " evenings（ evenings 之间 = 黄昏）"
+      "gloss": " evenings（ evenings 之间 = 黄昏）"
     },
     {
       "surface": "יקטירנה",
-      "english": "他要烧它"
+      "gloss": "他要烧它"
     },
     {
       "surface": "קטרת",
-      "english": "香"
+      "gloss": "香"
     },
     {
       "surface": "תמיד",
-      "english": "持续的"
+      "gloss": "持续的"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לדרתיכם",
-      "english": "直到你们的世世代代"
+      "gloss": "直到你们的世世代代"
     }
-  ],
-  "timestamp": "2026-07-20T06:44:47.396761780Z",
-  "model": "glm-5.2"
+  ]
 }

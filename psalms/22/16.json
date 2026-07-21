@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 22:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64743,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65148
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:29.754805693Z",
   "translation": "我的力量枯干如瓦片,我的舌头贴住我的颚骨,⟨你⟩将⟨我⟩安置在死亡的尘土中。",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "枯干"
+      "gloss": "枯干"
     },
     {
       "surface": "כחרש",
-      "english": "如瓦片"
+      "gloss": "如瓦片"
     },
     {
       "surface": "כחי",
-      "english": "我的力量"
+      "gloss": "我的力量"
     },
     {
       "surface": "ולשוני",
-      "english": "而我的舌头"
+      "gloss": "而我的舌头"
     },
     {
       "surface": "מדבק",
-      "english": "贴住"
+      "gloss": "贴住"
     },
     {
       "surface": "מלקוחי",
-      "english": "我的颚骨"
+      "gloss": "我的颚骨"
     },
     {
       "surface": "ולעפר",
-      "english": "至于尘土"
+      "gloss": "至于尘土"
     },
     {
       "surface": "מות",
-      "english": "死亡的"
+      "gloss": "死亡的"
     },
     {
       "surface": "תשפתני",
-      "english": "⟨你⟩安置⟨我⟩"
+      "gloss": "⟨你⟩安置⟨我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:29.754805693Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 3:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19765,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20379
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:11:06.545890623Z",
   "translation": "我说：我必将你们从⟨את⟩埃及的困苦中领上去，到迦南人、赫人、亚摩利人、比利洗人、希未人、耶布斯人的地——到流奶与蜜之地。",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אעלה",
-      "english": "我必将……领上去"
+      "gloss": "我必将……领上去"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩你们",
+      "gloss": "⟨את⟩你们",
       "marks": "你们"
     },
     {
       "surface": "מעני",
-      "english": "从……的困苦中"
+      "gloss": "从……的困苦中"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ארץ",
-      "english": "……的地"
+      "gloss": "……的地"
     },
     {
       "surface": "הכנעני",
-      "english": "迦南人"
+      "gloss": "迦南人"
     },
     {
       "surface": "והחתי",
-      "english": "赫人"
+      "gloss": "赫人"
     },
     {
       "surface": "והאמרי",
-      "english": "亚摩利人"
+      "gloss": "亚摩利人"
     },
     {
       "surface": "והפרזי",
-      "english": "比利洗人"
+      "gloss": "比利洗人"
     },
     {
       "surface": "והחוי",
-      "english": "希未人"
+      "gloss": "希未人"
     },
     {
       "surface": "והיבוסי",
-      "english": "耶布斯人"
+      "gloss": "耶布斯人"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ארץ",
-      "english": "之地"
+      "gloss": "之地"
     },
     {
       "surface": "זבת",
-      "english": "流"
+      "gloss": "流"
     },
     {
       "surface": "חלב",
-      "english": "奶"
+      "gloss": "奶"
     },
     {
       "surface": "ודבש",
-      "english": "与蜜"
+      "gloss": "与蜜"
     }
-  ],
-  "timestamp": "2026-07-17T18:11:06.545890623Z",
-  "model": "glm-5.2"
+  ]
 }

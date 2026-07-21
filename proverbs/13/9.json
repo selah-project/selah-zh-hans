@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 13:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54312,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54753
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:06.701352268Z",
   "translation": "义人的אוֹר־必欢喜；恶人的灯必熄灭。",
   "tokens": [
     {
       "surface": "אור",
-      "english": "אוֹר־"
+      "gloss": "אוֹר־"
     },
     {
       "surface": "צדיקים",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "ישמח",
-      "english": "必欢喜"
+      "gloss": "必欢喜"
     },
     {
       "surface": "ונר",
-      "english": "而灯"
+      "gloss": "而灯"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "ידעך",
-      "english": "必熄灭"
+      "gloss": "必熄灭"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:06.701352268Z",
-  "model": "glm-5.2"
+  ]
 }

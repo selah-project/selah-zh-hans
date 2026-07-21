@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 119:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64337,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64672
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:38.783171549Z",
   "translation": "⟨让我⟩明白你训词的道,我就默想你奇妙⟨的作为⟩。",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "道"
+      "gloss": "道"
     },
     {
       "surface": "פקודיך",
-      "english": "你训词"
+      "gloss": "你训词"
     },
     {
       "surface": "הבינני",
-      "english": "⟨让我⟩明白"
+      "gloss": "⟨让我⟩明白"
     },
     {
       "surface": "ואשיחה",
-      "english": "我就默想"
+      "gloss": "我就默想"
     },
     {
       "surface": "בנפלאותיך",
-      "english": "你奇妙⟨的作为⟩"
+      "gloss": "你奇妙⟨的作为⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:38.783171549Z",
-  "model": "glm-5.2"
+  ]
 }

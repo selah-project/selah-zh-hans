@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 115:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64387,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:59.760060523Z",
   "translation": "天，天属于雅威，而⟨他把⟩地赐给了人的众子。",
   "tokens": [
     {
       "surface": "השמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "ליהוה",
-      "english": "属于雅威"
+      "gloss": "属于雅威"
     },
     {
       "surface": "והארץ",
-      "english": "而地"
+      "gloss": "而地"
     },
     {
       "surface": "נתן",
-      "english": "⟨他把⟩赐给了"
+      "gloss": "⟨他把⟩赐给了"
     },
     {
       "surface": "לבני",
-      "english": "给……的众子"
+      "gloss": "给……的众子"
     },
     {
       "surface": "אדם",
-      "english": "人（adam）"
+      "gloss": "人（adam）"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:59.760060523Z",
-  "model": "glm-5.2"
+  ]
 }

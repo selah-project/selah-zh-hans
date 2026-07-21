@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 21:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19136,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19626
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:24:28.153193216Z",
   "translation": "但如果那仆人确实说:我爱我的阿多奈、⟨את⟩我的妻子和⟨את⟩我的儿子们,我不愿意自由出去——",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "但如果"
+      "gloss": "但如果"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יאמר",
-      "english": "确实说"
+      "gloss": "确实说"
     },
     {
       "surface": "העבד",
-      "english": "那仆人"
+      "gloss": "那仆人"
     },
     {
       "surface": "אהבתי",
-      "english": "我爱"
+      "gloss": "我爱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的阿多奈"
     },
     {
       "surface": "אדני",
-      "english": "我的阿多奈"
+      "gloss": "我的阿多奈"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的妻子"
     },
     {
       "surface": "אשתי",
-      "english": "我的妻子"
+      "gloss": "我的妻子"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "我的儿子们"
     },
     {
       "surface": "בני",
-      "english": "我的儿子们"
+      "gloss": "我的儿子们"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אצא",
-      "english": "出去"
+      "gloss": "出去"
     },
     {
       "surface": "חפשי",
-      "english": "自由"
+      "gloss": "自由"
     }
-  ],
-  "timestamp": "2026-07-17T18:24:28.153193216Z",
-  "model": "glm-5.2"
+  ]
 }

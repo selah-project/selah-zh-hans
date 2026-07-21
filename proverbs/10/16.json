@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 10:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 227,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54301,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54528
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:31.242858451Z",
   "translation": "义人的报偿归于生命；恶人的收入归于罪。",
   "tokens": [
     {
       "surface": "פעלת",
-      "english": "报偿"
+      "gloss": "报偿"
     },
     {
       "surface": "צדיק",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "לחיים",
-      "english": "归于生命"
+      "gloss": "归于生命"
     },
     {
       "surface": "תבואת",
-      "english": "收入"
+      "gloss": "收入"
     },
     {
       "surface": "רשע",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "לחטאת",
-      "english": "归于罪"
+      "gloss": "归于罪"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:31.242858451Z",
-  "model": "glm-5.2"
+  ]
 }

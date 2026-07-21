@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 1:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22132,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 22633
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:54.265305153Z",
   "translation": "约伯便起来,撕裂 ⟨את⟩ 他的外袍,剃下 ⟨את⟩ 他的头,面伏于地,俯伏下拜。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "便起来"
+      "gloss": "便起来"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "ויקרע",
-      "english": "撕裂"
+      "gloss": "撕裂"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的外袍"
     },
     {
       "surface": "מעלו",
-      "english": "他的外袍"
+      "gloss": "他的外袍"
     },
     {
       "surface": "ויגז",
-      "english": "剃下"
+      "gloss": "剃下"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的头"
     },
     {
       "surface": "ראשו",
-      "english": "他的头"
+      "gloss": "他的头"
     },
     {
       "surface": "ויפל",
-      "english": "面伏于地"
+      "gloss": "面伏于地"
     },
     {
       "surface": "ארצה",
-      "english": "于地"
+      "gloss": "于地"
     },
     {
       "surface": "וישתחו",
-      "english": "俯伏下拜"
+      "gloss": "俯伏下拜"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:54.265305153Z",
-  "model": "glm-5.2"
+  ]
 }

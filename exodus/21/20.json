@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "exodus 21:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19139,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19767
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:24:35.566968653Z",
   "translation": "若有人用棍子打⟨את⟩他的男仆或⟨את⟩他的女仆,死在他手下,⟨他⟩必被报血仇。",
   "tokens": [
     {
       "surface": "וְ\/כִֽי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יַכֶּה֩",
-      "english": "打"
+      "gloss": "打"
     },
     {
       "surface": "אִ֨ישׁ",
-      "english": "有人"
+      "gloss": "有人"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的男仆"
     },
     {
       "surface": "עַבְדּ֜\/וֹ",
-      "english": "他的男仆"
+      "gloss": "他的男仆"
     },
     {
       "surface": "א֤וֹ",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的女仆"
     },
     {
       "surface": "אֲמָת\/וֹ֙",
-      "english": "他的女仆"
+      "gloss": "他的女仆"
     },
     {
       "surface": "בַּ\/שֵּׁ֔בֶט",
-      "english": "用棍子"
+      "gloss": "用棍子"
     },
     {
       "surface": "וּ\/מֵ֖ת",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "תַּ֣חַת",
-      "english": "在……下"
+      "gloss": "在……下"
     },
     {
       "surface": "יָד֑\/וֹ",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "נָקֹ֖ם",
-      "english": "报血仇"
+      "gloss": "报血仇"
     },
     {
       "surface": "יִנָּקֵֽם",
-      "english": "⟨他⟩必被报血仇"
+      "gloss": "⟨他⟩必被报血仇"
     }
-  ],
-  "timestamp": "2026-07-17T18:24:35.566968653Z",
-  "model": "glm-5.2"
+  ]
 }

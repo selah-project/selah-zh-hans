@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 29:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19143,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19617
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:07.127453535Z",
   "translation": "你要把⟨את⟩公牛牵到会幕前,亚伦和他的儿子们要按手在公牛的头上。",
   "tokens": [
     {
       "surface": "והקרבת",
-      "english": "你要把……牵来"
+      "gloss": "你要把……牵来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "公牛"
     },
     {
       "surface": "הפר",
-      "english": "公牛"
+      "gloss": "公牛"
     },
     {
       "surface": "לפני",
-      "english": "到……前"
+      "gloss": "到……前"
     },
     {
       "surface": "אהל",
-      "english": "幕"
+      "gloss": "幕"
     },
     {
       "surface": "מועד",
-      "english": "会"
+      "gloss": "会"
     },
     {
       "surface": "וסמך",
-      "english": "……要按"
+      "gloss": "……要按"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ובניו",
-      "english": "和他的儿子们"
+      "gloss": "和他的儿子们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的手"
     },
     {
       "surface": "ידיהם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "הפר",
-      "english": "公牛的"
+      "gloss": "公牛的"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:07.127453535Z",
-  "model": "glm-5.2"
+  ]
 }

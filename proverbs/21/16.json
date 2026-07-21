@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 21:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54427,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54797
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:32.872688822Z",
   "translation": "人偏离了明辨的道路，必在鲁法伊姆的会众中安息。",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "תועה",
-      "english": "偏离了"
+      "gloss": "偏离了"
     },
     {
       "surface": "מדרך",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "השכל",
-      "english": "明辨"
+      "gloss": "明辨"
     },
     {
       "surface": "בקהל",
-      "english": "在……的会众中"
+      "gloss": "在……的会众中"
     },
     {
       "surface": "רפאים",
-      "english": "鲁法伊姆"
+      "gloss": "鲁法伊姆"
     },
     {
       "surface": "ינוח",
-      "english": "必安息"
+      "gloss": "必安息"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:32.872688822Z",
-  "model": "glm-5.2"
+  ]
 }

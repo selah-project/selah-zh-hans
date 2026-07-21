@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 10:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54297,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54661
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:37.090022262Z",
   "translation": "义人的记忆 ⟨为⟩ 祝福，恶人的名 ⟨将⟩ 腐朽。",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "记忆"
+      "gloss": "记忆"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "לברכה",
-      "english": "⟨为⟩ 祝福"
+      "gloss": "⟨为⟩ 祝福"
     },
     {
       "surface": "ושם",
-      "english": "而名"
+      "gloss": "而名"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "ירקב",
-      "english": "腐朽"
+      "gloss": "腐朽"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:37.090022262Z",
-  "model": "glm-5.2"
+  ]
 }

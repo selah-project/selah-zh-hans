@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 38:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21461,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21835
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:52.943195616Z",
   "translation": "我为它划定⟨我的⟩律例,安置门闩和门",
   "tokens": [
     {
       "surface": "ואשבר",
-      "english": "我划定"
+      "gloss": "我划定"
     },
     {
       "surface": "עליו",
-      "english": "为它"
+      "gloss": "为它"
     },
     {
       "surface": "חקי",
-      "english": "⟨我的⟩律例"
+      "gloss": "⟨我的⟩律例"
     },
     {
       "surface": "ואשים",
-      "english": "并安置"
+      "gloss": "并安置"
     },
     {
       "surface": "בריח",
-      "english": "门闩"
+      "gloss": "门闩"
     },
     {
       "surface": "ודלתים",
-      "english": "和门"
+      "gloss": "和门"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:52.943195616Z",
-  "model": "glm-5.2"
+  ]
 }

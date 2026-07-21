@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "psalms 119:21",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64209,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64604
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:14.317985034Z",
   "translation": "你斥责了骄傲的人——受咒诅的，⟨他们⟩就是偏离你训诫的流浪者。",
   "tokens": [
     {
       "surface": "גערת",
-      "english": "你斥责了"
+      "gloss": "你斥责了"
     },
     {
       "surface": "זדים",
-      "english": "骄傲的人"
+      "gloss": "骄傲的人"
     },
     {
       "surface": "ארורים",
-      "english": "受咒诅的"
+      "gloss": "受咒诅的"
     },
     {
       "surface": "השגים",
-      "english": "流浪者"
+      "gloss": "流浪者"
     },
     {
       "surface": "ממצותיך",
-      "english": "偏离你的训诫"
+      "gloss": "偏离你的训诫"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:14.317985034Z",
-  "model": "glm-5.2"
+  ]
 }

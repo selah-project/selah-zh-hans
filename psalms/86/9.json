@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 86:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64722,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65161
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:47.651505604Z",
   "translation": "你所造的万国都要来，在你面前下拜；阿多奈啊，他们也要荣耀你的名。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "גוים",
-      "english": "万国"
+      "gloss": "万国"
     },
     {
       "surface": "אשר",
-      "english": "⟨关系代词⟩"
+      "gloss": "⟨关系代词⟩"
     },
     {
       "surface": "עשית",
-      "english": "你所造的"
+      "gloss": "你所造的"
     },
     {
       "surface": "יבואו",
-      "english": "都要来"
+      "gloss": "都要来"
     },
     {
       "surface": "וישתחוו",
-      "english": "他们也要下拜"
+      "gloss": "他们也要下拜"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "ויכבדו",
-      "english": "他们也要荣耀"
+      "gloss": "他们也要荣耀"
     },
     {
       "surface": "לשמך",
-      "english": "你的名"
+      "gloss": "你的名"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:47.651505604Z",
-  "model": "glm-5.2"
+  ]
 }

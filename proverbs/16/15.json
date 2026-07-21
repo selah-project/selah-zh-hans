@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 16:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54404,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54772
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:55.316234554Z",
   "translation": "在王脸面 ⟨的⟩ 光中 ⟨是⟩ 生命；他的喜悦如晚雨 ⟨的⟩ 云。",
   "tokens": [
     {
       "surface": "באור",
-      "english": "在……的光中"
+      "gloss": "在……的光中"
     },
     {
       "surface": "פני",
-      "english": "王的脸面"
+      "gloss": "王的脸面"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חיים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "ורצונו",
-      "english": "他的喜悦"
+      "gloss": "他的喜悦"
     },
     {
       "surface": "כעב",
-      "english": "如……的云"
+      "gloss": "如……的云"
     },
     {
       "surface": "מלקוש",
-      "english": "晚雨"
+      "gloss": "晚雨"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:55.316234554Z",
-  "model": "glm-5.2"
+  ]
 }

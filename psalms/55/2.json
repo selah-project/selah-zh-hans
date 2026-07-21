@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 55:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64424,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64855
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:54.717141457Z",
   "translation": "以罗欣啊，求你侧耳听我的祷告，不要从我的恳求面前隐藏 ⟨你自己⟩。",
   "tokens": [
     {
       "surface": "הַאֲזִ֣ינָ\/ה",
-      "english": "求你侧耳听"
+      "gloss": "求你侧耳听"
     },
     {
       "surface": "אֱ֭לֹהִים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "תְּפִלָּתִ֑\/י",
-      "english": "我的祷告"
+      "gloss": "我的祷告"
     },
     {
       "surface": "וְ\/אַל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תִּ֝תְעַלַּ֗ם",
-      "english": "隐藏 ⟨你自己⟩"
+      "gloss": "隐藏 ⟨你自己⟩"
     },
     {
       "surface": "מִ\/תְּחִנָּתִֽ\/י",
-      "english": "从我的恳求"
+      "gloss": "从我的恳求"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:54.717141457Z",
-  "model": "glm-5.2"
+  ]
 }

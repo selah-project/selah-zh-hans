@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "joel 4:1",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18016,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18542
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:39.112191047Z",
   "translation": "因为看哪,在那些日子,在⟨那⟩时辰,⟨即⟩我要恢复雅威回归之时,⟨我将转向⟩⟨את⟩犹大的被掳⟨状态⟩和耶路撒冷。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "בימים",
-      "english": "在……日子"
+      "gloss": "在……日子"
     },
     {
       "surface": "ההמה",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "ובעת",
-      "english": "和在……时辰"
+      "gloss": "和在……时辰"
     },
     {
       "surface": "ההיא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "אשר",
-      "english": "⟨即……之时⟩"
+      "gloss": "⟨即……之时⟩"
     },
     {
       "surface": "אשוב",
-      "english": "我要回归\/转向"
+      "gloss": "我要回归\/转向"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "犹大的被掳(状态)"
     },
     {
       "surface": "שבות",
-      "english": "被掳(状态)"
+      "gloss": "被掳(状态)"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וירושלם",
-      "english": "和耶路撒冷"
+      "gloss": "和耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:39.112191047Z",
-  "model": "glm-5.2"
+  ]
 }

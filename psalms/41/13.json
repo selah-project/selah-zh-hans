@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 41:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64371,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64712
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:13.828331799Z",
   "translation": "至于我,你因我的完全扶持了我,你使我站在你面前,直到永远。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "בתמי",
-      "english": "因我的完全"
+      "gloss": "因我的完全"
     },
     {
       "surface": "תמכת",
-      "english": "你扶持了"
+      "gloss": "你扶持了"
     },
     {
       "surface": "בי",
-      "english": "了我"
+      "gloss": "了我"
     },
     {
       "surface": "ותציבני",
-      "english": "你使我站"
+      "gloss": "你使我站"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:13.828331799Z",
-  "model": "glm-5.2"
+  ]
 }

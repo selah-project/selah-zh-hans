@@ -1,72 +1,64 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "genesis 12:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 629,
-    "prompt_tokens": 23587,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24216
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:48.607820465Z",
   "translation": "这就必发生:埃及人 ⟨את⟩ 见你,必说:'这是他的妻',就 ⟨את⟩ 杀我,却 ⟨את⟩ 叫你存活",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "这就必发生"
+      "gloss": "这就必发生"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "יראו",
-      "english": "见"
+      "gloss": "见"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "המצרים",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "ואמרו",
-      "english": "必说"
+      "gloss": "必说"
     },
     {
       "surface": "אשתו",
-      "english": "这是他的妻"
+      "gloss": "这是他的妻"
     },
     {
       "surface": "זאת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "והרגו",
-      "english": "就 ⟨את⟩ 杀"
+      "gloss": "就 ⟨את⟩ 杀"
     },
     {
       "surface": "אתי",
-      "english": "",
+      "gloss": "",
       "marks": "我"
     },
     {
       "surface": "ואתך",
-      "english": "却 ⟨את⟩ 叫",
+      "gloss": "却 ⟨את⟩ 叫",
       "marks": "你"
     },
     {
       "surface": "יחיו",
-      "english": "存活"
+      "gloss": "存活"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:48.607820465Z",
-  "model": "glm-4.5"
+  ]
 }

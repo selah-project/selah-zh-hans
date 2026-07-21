@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 49,
   "ref": "psalms 119:49",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64718
-  },
+  "verse": 49,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:07.678084021Z",
   "translation": "求你记念对你仆人说的⟨话语⟩,在其上你使我有了盼望。",
   "tokens": [
     {
       "surface": "זְכֹר",
-      "english": "求你记念"
+      "gloss": "求你记念"
     },
     {
       "surface": "דָּבָר",
-      "english": "⟨话语⟩ (*davar*)"
+      "gloss": "⟨话语⟩ (*davar*)"
     },
     {
       "surface": "לְ\/עַבְדֶּ\/ךָ",
-      "english": "对你仆人"
+      "gloss": "对你仆人"
     },
     {
       "surface": "עַל",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "⟨关于这⟩你"
+      "gloss": "⟨关于这⟩你"
     },
     {
       "surface": "יִחַלְתָּ\/נִי",
-      "english": "使我有了盼望"
+      "gloss": "使我有了盼望"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:07.678084021Z",
-  "model": "glm-5.2"
+  ]
 }

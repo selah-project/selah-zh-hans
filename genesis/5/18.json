@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 5:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23101,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23410
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:44.344989561Z",
   "translation": "雅雷德活了六十二岁和一百岁,他生了⟨את⟩以诺。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "ירד",
-      "english": "雅雷德"
+      "gloss": "雅雷德"
     },
     {
       "surface": "שתים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "וששים",
-      "english": "和六十"
+      "gloss": "和六十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ומאת",
-      "english": "和一百"
+      "gloss": "和一百"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ויולד",
-      "english": "他生了"
+      "gloss": "他生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以诺"
     },
     {
       "surface": "חנוך",
-      "english": "以诺"
+      "gloss": "以诺"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:44.344989561Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "exodus 31:7",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19257,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19819
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:38.535665256Z",
   "translation": "⟨את⟩ 会幕 (מוֹעֵד), 和 ⟨את⟩ ⟨那⟩ 见证的约柜, 和 ⟨את⟩ ⟨那⟩ 卡帕拉 (遮盖座), 它 ⟨是⟩ 在其上, 和 ⟨את⟩ 会幕的一切器具:",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "(מוֹעֵד)"
+      "gloss": "(מוֹעֵד)"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "见证的约柜"
     },
     {
       "surface": "הארן",
-      "english": "⟨那⟩ 约柜"
+      "gloss": "⟨那⟩ 约柜"
     },
     {
       "surface": "לעדת",
-      "english": "见证的"
+      "gloss": "见证的"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "卡帕拉"
     },
     {
       "surface": "הכפרת",
-      "english": "⟨那⟩ 卡帕拉 (遮盖座)"
+      "gloss": "⟨那⟩ 卡帕拉 (遮盖座)"
     },
     {
       "surface": "אשר",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "会幕的一切器具"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "כלי",
-      "english": "器具"
+      "gloss": "器具"
     },
     {
       "surface": "האהל",
-      "english": "会幕 ⟨的⟩"
+      "gloss": "会幕 ⟨的⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:38.535665256Z",
-  "model": "glm-5.2"
+  ]
 }

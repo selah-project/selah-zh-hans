@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 48:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64171,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64450
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:37.478412455Z",
   "translation": "以罗欣在她的众堡垒宫殿中被认识，作为避难所。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בארמנותיה",
-      "english": "在她的众堡垒宫殿中"
+      "gloss": "在她的众堡垒宫殿中"
     },
     {
       "surface": "נודע",
-      "english": "被认识"
+      "gloss": "被认识"
     },
     {
       "surface": "למשגב",
-      "english": "作为避难所"
+      "gloss": "作为避难所"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:37.478412455Z",
-  "model": "glm-5.2"
+  ]
 }

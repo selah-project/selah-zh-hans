@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 23:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54265,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54597
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:21.464976488Z",
   "translation": "我的肾脏也必踊跃，当你的嘴唇说正直的事的时候。",
   "tokens": [
     {
       "surface": "ותעלזנה",
-      "english": "也必踊跃"
+      "gloss": "也必踊跃"
     },
     {
       "surface": "כליותי",
-      "english": "我的肾脏"
+      "gloss": "我的肾脏"
     },
     {
       "surface": "בדבר",
-      "english": "当……说（*davar*）"
+      "gloss": "当……说（*davar*）"
     },
     {
       "surface": "שפתיך",
-      "english": "你的嘴唇"
+      "gloss": "你的嘴唇"
     },
     {
       "surface": "מישרים",
-      "english": "正直的事"
+      "gloss": "正直的事"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:21.464976488Z",
-  "model": "glm-5.2"
+  ]
 }

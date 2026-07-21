@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "1-samuel 18:20",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18309,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18707
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:57.797236092Z",
   "translation": "米甲——扫罗的女儿——爱⟨了⟩⟨את⟩大卫;⟨有人⟩告诉扫罗,⟨这事⟩在他眼中看为正⟨他乐见其成⟩。",
   "tokens": [
     {
       "surface": "ותאהב",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "מיכל",
-      "english": "米甲"
+      "gloss": "米甲"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "ויגדו",
-      "english": "告诉"
+      "gloss": "告诉"
     },
     {
       "surface": "לשאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "וישר",
-      "english": "看为正"
+      "gloss": "看为正"
     },
     {
       "surface": "הדבר",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "בעיניו",
-      "english": "在他眼中"
+      "gloss": "在他眼中"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:57.797236092Z",
-  "model": "glm-5.2"
+  ]
 }

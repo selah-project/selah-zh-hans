@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "nehemiah 7:24",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 206,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50758,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 50964
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:46:07.699254338Z",
   "translation": "哈利夫的子裔，一百⟨零⟩十二。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子裔"
+      "gloss": "……的子裔"
     },
     {
       "surface": "חריף",
-      "english": "哈利夫"
+      "gloss": "哈利夫"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "שנים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     }
-  ],
-  "timestamp": "2026-07-18T01:46:07.699254338Z",
-  "model": "glm-5.2"
+  ]
 }

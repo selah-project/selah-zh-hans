@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 18:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64347,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64798
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:51.233760117Z",
   "translation": "与纯洁的人，你将以纯洁⟨待之⟩；与扭曲的人，你将以曲折⟨待之⟩。",
   "tokens": [
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "נבר",
-      "english": "纯洁的人"
+      "gloss": "纯洁的人"
     },
     {
       "surface": "תתברר",
-      "english": "你将以纯洁⟨待之⟩"
+      "gloss": "你将以纯洁⟨待之⟩"
     },
     {
       "surface": "ועם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "עקש",
-      "english": "扭曲的人"
+      "gloss": "扭曲的人"
     },
     {
       "surface": "תתפתל",
-      "english": "你将以曲折⟨待之⟩"
+      "gloss": "你将以曲折⟨待之⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:51.233760117Z",
-  "model": "glm-5.2"
+  ]
 }

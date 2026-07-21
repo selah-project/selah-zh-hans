@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-chronicles 6:11",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60229,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60672
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:39.812063418Z",
   "translation": "我在那里安放了⟨את⟩约柜，其中有雅威的布瑞特，就是他与以色列子孙所立的。",
   "tokens": [
     {
       "surface": "ואשים",
-      "english": "我安放了"
+      "gloss": "我安放了"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约柜"
     },
     {
       "surface": "הארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "אשר",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "שם",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "כרת",
-      "english": "他与……所立的"
+      "gloss": "他与……所立的"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:39.812063418Z",
-  "model": "glm-5.2"
+  ]
 }

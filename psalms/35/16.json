@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 35:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64319,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64880
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:46.760477766Z",
   "translation": "像背约者一样，在宴席上嘲弄כְּמוֹ עֹגֵג，他们向我切齿。",
   "tokens": [
     {
       "surface": "בְּחַנְפֵי",
-      "english": "像背约者一样，"
+      "gloss": "像背约者一样，"
     },
     {
       "surface": "לַעֲגֵי",
-      "english": "嘲弄"
+      "gloss": "嘲弄"
     },
     {
       "surface": "מָעוֹג",
-      "english": "[宴席]"
+      "gloss": "[宴席]"
     },
     {
       "surface": "חָרֹק",
-      "english": "他们切齿"
+      "gloss": "他们切齿"
     },
     {
       "surface": "עָלַי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "שִׁנֵּימוֹ",
-      "english": "他们的牙"
+      "gloss": "他们的牙"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:46.760477766Z",
-  "model": "glm-5.2"
+  ]
 }

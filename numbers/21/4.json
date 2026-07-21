@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 21:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20284,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20860
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:34.135002632Z",
   "translation": "他们从何珥山起行,沿红海的路走,为要绕行⟨את⟩以东地;⟨那⟩百姓的⟨生命⟩在路上变得短促。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们起行"
+      "gloss": "他们起行"
     },
     {
       "surface": "מהר",
-      "english": "从何珥"
+      "gloss": "从何珥"
     },
     {
       "surface": "ההר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "דרך",
-      "english": "的路"
+      "gloss": "的路"
     },
     {
       "surface": "ים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוף",
-      "english": "红"
+      "gloss": "红"
     },
     {
       "surface": "לסבב",
-      "english": "为要绕行"
+      "gloss": "为要绕行"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以东地"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "ותקצר",
-      "english": "变得短促"
+      "gloss": "变得短促"
     },
     {
       "surface": "נפש",
-      "english": "⟨生命⟩"
+      "gloss": "⟨生命⟩"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓的"
+      "gloss": "⟨那⟩百姓的"
     },
     {
       "surface": "בדרך",
-      "english": "在路上"
+      "gloss": "在路上"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:34.135002632Z",
-  "model": "glm-5.2"
+  ]
 }

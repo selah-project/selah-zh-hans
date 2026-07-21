@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 1:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18743,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19287
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:39.306885444Z",
   "translation": "凡从雅各腰中出来的全部生命,共七十个生命;而约瑟已经在埃及。",
   "tokens": [
     {
       "surface": "וַֽ\/יְהִ֗י",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "כָּל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "נֶ֛פֶשׁ",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "יֹצְאֵ֥י",
-      "english": "……出来的"
+      "gloss": "……出来的"
     },
     {
       "surface": "יֶֽרֶךְ",
-      "english": "腰"
+      "gloss": "腰"
     },
     {
       "surface": "יַעֲקֹ֖ב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "שִׁבְעִ֣ים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "נָ֑פֶשׁ",
-      "english": "个生命"
+      "gloss": "个生命"
     },
     {
       "surface": "וְ\/יוֹסֵ֖ף",
-      "english": "而约瑟"
+      "gloss": "而约瑟"
     },
     {
       "surface": "הָיָ֥ה",
-      "english": "⟨已经⟩在"
+      "gloss": "⟨已经⟩在"
     },
     {
       "surface": "בְ\/מִצְרָֽיִם",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:39.306885444Z",
-  "model": "glm-5.2"
+  ]
 }

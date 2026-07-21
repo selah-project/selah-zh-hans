@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "judges 12:10",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17403,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 17643
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:14:53.911341185Z",
   "translation": "以比赞死了，⟨他⟩葬在伯利恒。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "אבצן",
-      "english": "以比赞"
+      "gloss": "以比赞"
     },
     {
       "surface": "ויקבר",
-      "english": "⟨他⟩葬"
+      "gloss": "⟨他⟩葬"
     },
     {
       "surface": "בבית",
-      "english": "在伯"
+      "gloss": "在伯"
     },
     {
       "surface": "לחם",
-      "english": "利恒"
+      "gloss": "利恒"
     }
-  ],
-  "timestamp": "2026-07-17T20:14:53.911341185Z",
-  "model": "glm-5.2"
+  ]
 }

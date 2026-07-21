@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 22:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64548,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65128
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:14.538717410Z",
   "translation": "我的以罗欣啊，我白昼呼求，⟨你⟩不回答；黑夜，⟨对我⟩也没有寂静。",
   "tokens": [
     {
       "surface": "אלהי",
-      "english": "我的以罗欣啊"
+      "gloss": "我的以罗欣啊"
     },
     {
       "surface": "אקרא",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "יומם",
-      "english": "白昼"
+      "gloss": "白昼"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תענה",
-      "english": "⟨你⟩回答"
+      "gloss": "⟨你⟩回答"
     },
     {
       "surface": "ולילה",
-      "english": "黑夜"
+      "gloss": "黑夜"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "דומיה",
-      "english": "寂静"
+      "gloss": "寂静"
     },
     {
       "surface": "לי",
-      "english": "⟨对我⟩"
+      "gloss": "⟨对我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:14.538717410Z",
-  "model": "glm-5.2"
+  ]
 }

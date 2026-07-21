@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 156,
   "ref": "psalms 119:156",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64287,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64646
-  },
+  "verse": 156,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:24.024510706Z",
   "translation": "雅威啊，你的怜悯丰盛，按照你的典章使我存活。",
   "tokens": [
     {
       "surface": "רחמיך",
-      "english": "你的怜悯"
+      "gloss": "你的怜悯"
     },
     {
       "surface": "רבים",
-      "english": "丰盛"
+      "gloss": "丰盛"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "כמשפטיך",
-      "english": "按照你的典章"
+      "gloss": "按照你的典章"
     },
     {
       "surface": "חיני",
-      "english": "使我存活"
+      "gloss": "使我存活"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:24.024510706Z",
-  "model": "glm-5.2"
+  ]
 }

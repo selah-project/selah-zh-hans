@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 78:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64388,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64687
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:42.665820734Z",
   "translation": "尽管有这一切，他们依然犯罪，不信他的奇妙作为。",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "尽管有"
+      "gloss": "尽管有"
     },
     {
       "surface": "זאת",
-      "english": "这一切"
+      "gloss": "这一切"
     },
     {
       "surface": "חטאו",
-      "english": "他们犯罪"
+      "gloss": "他们犯罪"
     },
     {
       "surface": "עוד",
-      "english": "依然"
+      "gloss": "依然"
     },
     {
       "surface": "ולא",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "האמינו",
-      "english": "信"
+      "gloss": "信"
     },
     {
       "surface": "בנפלאותיו",
-      "english": "⟨于⟩他的奇妙作为"
+      "gloss": "⟨于⟩他的奇妙作为"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:42.665820734Z",
-  "model": "glm-5.2"
+  ]
 }

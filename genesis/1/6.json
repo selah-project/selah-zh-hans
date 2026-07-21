@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "genesis 1:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23180,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23673
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:33:23.994469503Z",
   "translation": "以罗欣说:让穹苍 ⟨יהִי⟩ 在水中,让它分隔水 ⟨וִ\/יהִי⟩ ⟨מַבְדִּיל⟩ ⟨בֵּין⟩ 水。",
   "tokens": [
     {
       "surface": "וַ\/יֹּאמֶר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יְהִי",
-      "english": "让…… ⟨יהִי⟩"
+      "gloss": "让…… ⟨יהִי⟩"
     },
     {
       "surface": "רָקִיעַ",
-      "english": "穹苍"
+      "gloss": "穹苍"
     },
     {
       "surface": "בְּ\/ת֣וֹךְ",
-      "english": "在……中"
+      "gloss": "在……中"
     },
     {
       "surface": "הַ\/מָּיִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "וִ\/יהִי",
-      "english": "让它 ⟨וִ\/יהִי⟩"
+      "gloss": "让它 ⟨וִ\/יהִי⟩"
     },
     {
       "surface": "מַבְדִּיל",
-      "english": "分隔 ⟨מַבְדִּיל⟩"
+      "gloss": "分隔 ⟨מַבְדִּיל⟩"
     },
     {
       "surface": "בֵּין",
-      "english": "……之间 ⟨בֵּין⟩"
+      "gloss": "……之间 ⟨בֵּין⟩"
     },
     {
       "surface": "מַיִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "לָ\/מָיִם",
-      "english": "水"
+      "gloss": "水"
     }
-  ],
-  "timestamp": "2026-07-17T17:33:23.994469503Z",
-  "model": "glm-5.2"
+  ]
 }

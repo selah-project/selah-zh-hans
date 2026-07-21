@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 89,
   "ref": "psalms 119:89",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 427,
-    "prompt_tokens": 64303,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64730
-  },
+  "verse": 89,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:46.062854576Z",
   "translation": "直到永远,雅威啊,你的 *davar* (话) 坚定地设立在诸天中。",
   "tokens": [
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דברך",
-      "english": "你的 *davar* (话)"
+      "gloss": "你的 *davar* (话)"
     },
     {
       "surface": "נצב",
-      "english": "坚定地设立"
+      "gloss": "坚定地设立"
     },
     {
       "surface": "בשמים",
-      "english": "在诸天中"
+      "gloss": "在诸天中"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:46.062854576Z",
-  "model": "glm-4.5"
+  ]
 }

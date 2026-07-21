@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 113:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 113,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64339,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64767
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:30.715064231Z",
   "translation": "他使贫弱者从尘土中兴起，从灰堆中提拔穷乏人，",
   "tokens": [
     {
       "surface": "מְקִֽימִ֣י",
-      "english": "使……兴起"
+      "gloss": "使……兴起"
     },
     {
       "surface": "מֵ\/עָפָ֣ר",
-      "english": "从尘土"
+      "gloss": "从尘土"
     },
     {
       "surface": "דָּ֑ל",
-      "english": "贫弱者"
+      "gloss": "贫弱者"
     },
     {
       "surface": "מֵֽ\/אַשְׁפֹּ֗ת",
-      "english": "从灰堆"
+      "gloss": "从灰堆"
     },
     {
       "surface": "יָרִ֥ים",
-      "english": "提拔"
+      "gloss": "提拔"
     },
     {
       "surface": "אֶבְיֽוֹן",
-      "english": "穷乏人"
+      "gloss": "穷乏人"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:30.715064231Z",
-  "model": "glm-5.2"
+  ]
 }

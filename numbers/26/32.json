@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "numbers 26:32",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19580,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19979
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:18.307813306Z",
   "translation": "示米大 —— ⟨属⟩示米大家族;赫弗 —— ⟨属⟩赫弗家族。",
   "tokens": [
     {
       "surface": "וּ\/שְׁמִידָ֕ע",
-      "english": "示米大"
+      "gloss": "示米大"
     },
     {
       "surface": "מִשְׁפַּ֖חַת",
-      "english": "家族"
+      "gloss": "家族"
     },
     {
       "surface": "הַ\/שְּׁמִידָעִ֑י",
-      "english": "示米大的"
+      "gloss": "示米大的"
     },
     {
       "surface": "וְ\/חֵ֕פֶר",
-      "english": "赫弗"
+      "gloss": "赫弗"
     },
     {
       "surface": "מִשְׁפַּ֖חַת",
-      "english": "家族"
+      "gloss": "家族"
     },
     {
       "surface": "הַֽ\/חֶפְרִֽי",
-      "english": "赫弗的"
+      "gloss": "赫弗的"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:18.307813306Z",
-  "model": "glm-5.2"
+  ]
 }

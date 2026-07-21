@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 10:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22856,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23153
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:45.897305309Z",
   "translation": "闪的⟨儿子们⟩：以拦、亚述、亚法撒、路德和亚兰。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "⟨儿子们⟩"
+      "gloss": "⟨儿子们⟩"
     },
     {
       "surface": "שם",
-      "english": "闪"
+      "gloss": "闪"
     },
     {
       "surface": "עילם",
-      "english": "以拦"
+      "gloss": "以拦"
     },
     {
       "surface": "ואשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "וארפכשד",
-      "english": "亚法撒"
+      "gloss": "亚法撒"
     },
     {
       "surface": "ולוד",
-      "english": "路德"
+      "gloss": "路德"
     },
     {
       "surface": "וארם",
-      "english": "亚兰"
+      "gloss": "亚兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:45.897305309Z",
-  "model": "glm-5.2"
+  ]
 }

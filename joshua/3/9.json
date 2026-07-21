@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "joshua 3:9",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18466,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18960
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:51:28.846898246Z",
   "translation": "约书亚对以色列的子说：你们上⟨这⟩里来，听雅威你们以罗欣的⟨את⟩*davar*（话语）。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בני",
-      "english": "的子"
+      "gloss": "的子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "גשו",
-      "english": "你们上前来"
+      "gloss": "你们上前来"
     },
     {
       "surface": "הנה",
-      "english": "这里"
+      "gloss": "这里"
     },
     {
       "surface": "ושמעו",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "话语 (davar)"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（话语）"
+      "gloss": "*davar*（话语）"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们以罗欣"
+      "gloss": "你们以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:51:28.846898246Z",
-  "model": "glm-5.2"
+  ]
 }

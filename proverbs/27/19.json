@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "proverbs 27:19",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54328,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54664
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:25.798551273Z",
   "translation": "如水 ⟨对⟩ 脸 ⟨反映⟩ 脸，心 ⟨也如此⟩ ⟨对⟩ 人 ⟨反映⟩ 人。",
   "tokens": [
     {
       "surface": "כמים",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "הפנים",
-      "english": "脸"
+      "gloss": "脸"
     },
     {
       "surface": "לפנים",
-      "english": "⟨对⟩ 脸 ⟨反映⟩"
+      "gloss": "⟨对⟩ 脸 ⟨反映⟩"
     },
     {
       "surface": "כן",
-      "english": "⟨也如此⟩"
+      "gloss": "⟨也如此⟩"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "האדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "לאדם",
-      "english": "⟨对⟩ 人 ⟨反映⟩"
+      "gloss": "⟨对⟩ 人 ⟨反映⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:25.798551273Z",
-  "model": "glm-5.2"
+  ]
 }

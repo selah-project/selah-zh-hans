@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "leviticus 26:23",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18958,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19292
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:16.785197070Z",
   "translation": "若在这一切之上你们不受我管教,反而与我作对而行,",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "באלה",
-      "english": "在这一切之上"
+      "gloss": "在这一切之上"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תוסרו",
-      "english": "你们受管教"
+      "gloss": "你们受管教"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "והלכתם",
-      "english": "你们反而行"
+      "gloss": "你们反而行"
     },
     {
       "surface": "עמי",
-      "english": "与我"
+      "gloss": "与我"
     },
     {
       "surface": "קרי",
-      "english": "作对"
+      "gloss": "作对"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:16.785197070Z",
-  "model": "glm-5.2"
+  ]
 }

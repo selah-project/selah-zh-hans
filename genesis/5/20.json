@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "genesis 5:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 365,
-    "prompt_tokens": 23148,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23513
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:01.622278476Z",
   "translation": "雅列一切 ⟨的⟩ 日子 ⟨是⟩ 九百六十二年,并且他死了",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ימי",
-      "english": "⟨的⟩ 日子"
+      "gloss": "⟨的⟩ 日子"
     },
     {
       "surface": "ירד",
-      "english": "雅列"
+      "gloss": "雅列"
     },
     {
       "surface": "שתים",
-      "english": "九百"
+      "gloss": "九百"
     },
     {
       "surface": "וששים",
-      "english": "六十"
+      "gloss": "六十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ותשע",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וימת",
-      "english": "并且他死了"
+      "gloss": "并且他死了"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:01.622278476Z",
-  "model": "glm-4.5"
+  ]
 }

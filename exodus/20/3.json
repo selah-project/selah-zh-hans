@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 20:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18289,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 18683
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:33.776936064Z",
   "translation": "不可让别的以罗欣 ⟨与⟩ 你同在，⟨在⟩ 我的面前。",
   "tokens": [
     {
       "surface": "לֹֽ֣א",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יִהְיֶֽה",
-      "english": "让……存在 \/ 让……有"
+      "gloss": "让……存在 \/ 让……有"
     },
     {
       "surface": "לְ\/ךָ֛",
-      "english": "⟨与⟩ 你同在"
+      "gloss": "⟨与⟩ 你同在"
     },
     {
       "surface": "אֱלֹהִ֥ים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אֲחֵרִ֖ים",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "עַל",
-      "english": "⟨在⟩"
+      "gloss": "⟨在⟩"
     },
     {
       "surface": "פָּנָֽ\/יַ",
-      "english": "我的面前"
+      "gloss": "我的面前"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:33.776936064Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 102:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64342,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64742
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:48.569652712Z",
   "translation": "我守望，就⟨是⟩如孤鸟在屋顶上。",
   "tokens": [
     {
       "surface": "שקדתי",
-      "english": "我守望"
+      "gloss": "我守望"
     },
     {
       "surface": "ואהיה",
-      "english": "就⟨是⟩"
+      "gloss": "就⟨是⟩"
     },
     {
       "surface": "כצפור",
-      "english": "如鸟"
+      "gloss": "如鸟"
     },
     {
       "surface": "בודד",
-      "english": "孤"
+      "gloss": "孤"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "גג",
-      "english": "屋顶"
+      "gloss": "屋顶"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:48.569652712Z",
-  "model": "glm-5.2"
+  ]
 }

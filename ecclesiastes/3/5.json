@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ecclesiastes 3:5",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19178,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19583
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:46.575051846Z",
   "translation": "丢弃石头的时辰，和聚拢石头的时辰；拥抱的时辰，和远离拥抱的时辰。",
   "tokens": [
     {
       "surface": "עת",
-      "english": "时辰"
+      "gloss": "时辰"
     },
     {
       "surface": "להשליך",
-      "english": "丢弃"
+      "gloss": "丢弃"
     },
     {
       "surface": "אבנים",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "ועת",
-      "english": "和……时辰"
+      "gloss": "和……时辰"
     },
     {
       "surface": "כנוס",
-      "english": "聚拢"
+      "gloss": "聚拢"
     },
     {
       "surface": "אבנים",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "עת",
-      "english": "时辰"
+      "gloss": "时辰"
     },
     {
       "surface": "לחבוק",
-      "english": "拥抱"
+      "gloss": "拥抱"
     },
     {
       "surface": "ועת",
-      "english": "和……时辰"
+      "gloss": "和……时辰"
     },
     {
       "surface": "לרחק",
-      "english": "远离"
+      "gloss": "远离"
     },
     {
       "surface": "מחבק",
-      "english": "从拥抱"
+      "gloss": "从拥抱"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:46.575051846Z",
-  "model": "glm-5.2"
+  ]
 }

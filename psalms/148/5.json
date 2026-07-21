@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 148:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64591,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65017
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:07.061961673Z",
   "translation": "愿他们赞美雅威的 ⟨את⟩ 名，因为他 ⟨吩咐了⟩，它们就被创造。",
   "tokens": [
     {
       "surface": "יֽ֭הַֽלְלוּ",
-      "english": "愿他们赞美"
+      "gloss": "愿他们赞美"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "名"
     },
     {
       "surface": "שֵׁ֣ם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ה֭וּא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "צִוָּ֣ה",
-      "english": "⟨吩咐了⟩"
+      "gloss": "⟨吩咐了⟩"
     },
     {
       "surface": "וְ\/נִבְרָֽאוּ",
-      "english": "它们就被创造"
+      "gloss": "它们就被创造"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:07.061961673Z",
-  "model": "glm-5.2"
+  ]
 }

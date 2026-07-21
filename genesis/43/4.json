@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 43:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23173,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23525
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:16.368156025Z",
   "translation": "如果你愿意打发⟨את⟩我们的兄弟与我们一起，我们就下去为你买粮食。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "ישך",
-      "english": "你愿意"
+      "gloss": "你愿意"
     },
     {
       "surface": "משלח",
-      "english": "打发"
+      "gloss": "打发"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们的兄弟"
     },
     {
       "surface": "אחינו",
-      "english": "我们的兄弟"
+      "gloss": "我们的兄弟"
     },
     {
       "surface": "אתנו",
-      "english": "与我们一起"
+      "gloss": "与我们一起"
     },
     {
       "surface": "נרדה",
-      "english": "我们就下去"
+      "gloss": "我们就下去"
     },
     {
       "surface": "ונשברה",
-      "english": "并买"
+      "gloss": "并买"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "אכל",
-      "english": "粮食"
+      "gloss": "粮食"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:16.368156025Z",
-  "model": "glm-5.2"
+  ]
 }

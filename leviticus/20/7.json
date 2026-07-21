@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "leviticus 20:7",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19000,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19351
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:13.453683361Z",
   "translation": "你们要使自己成圣,也要成为圣者,因为我是雅威你们的以罗欣。",
   "tokens": [
     {
       "surface": "והתקדשתם",
-      "english": "你们要使自己成圣"
+      "gloss": "你们要使自己成圣"
     },
     {
       "surface": "והייתם",
-      "english": "也要⟨成为⟩"
+      "gloss": "也要⟨成为⟩"
     },
     {
       "surface": "קדשים",
-      "english": "圣者"
+      "gloss": "圣者"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:13.453683361Z",
-  "model": "glm-5.2"
+  ]
 }

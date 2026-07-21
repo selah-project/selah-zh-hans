@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "esther 4:2",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19610,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20028
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:25:19.866764060Z",
   "translation": "他来到直到⟨那⟩王⟨的⟩门前,因為不可穿著麻布衣服进入⟨那⟩王⟨的⟩门。",
   "tokens": [
     {
       "surface": "ויבוא",
-      "english": "他来到"
+      "gloss": "他来到"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "לפני",
-      "english": "前"
+      "gloss": "前"
     },
     {
       "surface": "שער",
-      "english": "⟨那⟩门"
+      "gloss": "⟨那⟩门"
     },
     {
       "surface": "המלך",
-      "english": "⟨那⟩王⟨的⟩"
+      "gloss": "⟨那⟩王⟨的⟩"
     },
     {
       "surface": "כי",
-      "english": "因為"
+      "gloss": "因為"
     },
     {
       "surface": "אין",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "לבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "שער",
-      "english": "⟨那⟩门"
+      "gloss": "⟨那⟩门"
     },
     {
       "surface": "המלך",
-      "english": "⟨那⟩王⟨的⟩"
+      "gloss": "⟨那⟩王⟨的⟩"
     },
     {
       "surface": "בלבוש",
-      "english": "穿著……衣服"
+      "gloss": "穿著……衣服"
     },
     {
       "surface": "שק",
-      "english": "麻布"
+      "gloss": "麻布"
     }
-  ],
-  "timestamp": "2026-07-18T01:25:19.866764060Z",
-  "model": "glm-5.2"
+  ]
 }

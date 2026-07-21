@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 40:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21649,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22079
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:06.584767628Z",
   "translation": "看哪，我变得微不足道了，我能回答⟨你⟩什么呢？我把我的手放在我的口上。",
   "tokens": [
     {
       "surface": "הֵ֣ן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "קַ֭לֹּתִי",
-      "english": "我变得微不足道了"
+      "gloss": "我变得微不足道了"
     },
     {
       "surface": "מָ֣ה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "אֲשִׁיבֶ֑\/ךָּ",
-      "english": "我能回答⟨你⟩"
+      "gloss": "我能回答⟨你⟩"
     },
     {
       "surface": "יָ֝דִ֗\/י",
-      "english": "我的手"
+      "gloss": "我的手"
     },
     {
       "surface": "שַׂ֣מְתִּי",
-      "english": "我把……放在"
+      "gloss": "我把……放在"
     },
     {
       "surface": "לְמוֹ",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פִֽ\/י",
-      "english": "我的口"
+      "gloss": "我的口"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:06.584767628Z",
-  "model": "glm-5.2"
+  ]
 }

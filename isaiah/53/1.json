@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 53:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20603,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21036
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:59:58.756294443Z",
   "translation": "谁信了我们〈所传的〉？雅威的膀臂向谁显露了呢？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "האמין",
-      "english": "信了"
+      "gloss": "信了"
     },
     {
       "surface": "לשמעתנו",
-      "english": "〈所传的〉"
+      "gloss": "〈所传的〉"
     },
     {
       "surface": "וזרוע",
-      "english": "膀臂"
+      "gloss": "膀臂"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "על",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "נגלתה",
-      "english": "显露了呢"
+      "gloss": "显露了呢"
     }
-  ],
-  "timestamp": "2026-07-17T21:59:58.756294443Z",
-  "model": "glm-5.2"
+  ]
 }

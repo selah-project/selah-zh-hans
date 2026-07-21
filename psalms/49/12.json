@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 49:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64748,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65329
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:05.853841847Z",
   "translation": "他们的内里深处⟨是⟩他们的房屋归自己所有，直到永远；他们的居所归世代所有；他们以自己的名字称呼⟨את⟩地土。",
   "tokens": [
     {
       "surface": "קִרְבָּ֤\/ם",
-      "english": "他们的内里深处"
+      "gloss": "他们的内里深处"
     },
     {
       "surface": "בָּתֵּ֨י\/מוֹ",
-      "english": "他们的房屋"
+      "gloss": "他们的房屋"
     },
     {
       "surface": "לְֽ\/עוֹלָ֗ם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "מִ֭שְׁכְּנֹתָ֗\/ם",
-      "english": "他们的居所"
+      "gloss": "他们的居所"
     },
     {
       "surface": "לְ\/דֹ֣ר",
-      "english": "归世代"
+      "gloss": "归世代"
     },
     {
       "surface": "וָ\/דֹ֑ר",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "קָֽרְא֥וּ",
-      "english": "他们称呼"
+      "gloss": "他们称呼"
     },
     {
       "surface": "בִ֝\/שְׁמ֥וֹתָ֗\/ם",
-      "english": "以他们的名字"
+      "gloss": "以他们的名字"
     },
     {
       "surface": "עֲלֵ֣י",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "אֲדָמֽוֹת",
-      "english": "地土"
+      "gloss": "地土"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:05.853841847Z",
-  "model": "glm-5.2"
+  ]
 }

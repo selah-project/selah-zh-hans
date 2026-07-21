@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "song-of-songs 2:15",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22218,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22799
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:09.230126732Z",
   "translation": "为我们抓住狐狸吧——小狐狸们,毁坏着葡萄园的;因为我们⟨的⟩葡萄园⟨正在⟩绽放花苞。",
   "tokens": [
     {
       "surface": "אחזו",
-      "english": "抓住吧"
+      "gloss": "抓住吧"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "שועלים",
-      "english": "狐狸"
+      "gloss": "狐狸"
     },
     {
       "surface": "שועלים",
-      "english": "狐狸"
+      "gloss": "狐狸"
     },
     {
       "surface": "קטנים",
-      "english": "小的"
+      "gloss": "小的"
     },
     {
       "surface": "מחבלים",
-      "english": "毁坏着"
+      "gloss": "毁坏着"
     },
     {
       "surface": "כרמים",
-      "english": "葡萄园"
+      "gloss": "葡萄园"
     },
     {
       "surface": "וכרמינו",
-      "english": "因为我们的葡萄园"
+      "gloss": "因为我们的葡萄园"
     },
     {
       "surface": "סמדר",
-      "english": "绽放花苞"
+      "gloss": "绽放花苞"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:09.230126732Z",
-  "model": "glm-5.2"
+  ]
 }

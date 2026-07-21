@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-kings 2:16",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64447,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64985
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:51.521161750Z",
   "translation": "而现在,我向你求一个请求——不要转背不看我的脸。她⟨就⟩对他说:你说吧。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "而现在"
+      "gloss": "而现在"
     },
     {
       "surface": "שאלה",
-      "english": "一个请求"
+      "gloss": "一个请求"
     },
     {
       "surface": "אחת",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "שאל",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "מאתך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשבי",
-      "english": "转背不看"
+      "gloss": "转背不看"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的脸"
     },
     {
       "surface": "פני",
-      "english": "我的脸"
+      "gloss": "我的脸"
     },
     {
       "surface": "ותאמר",
-      "english": "她⟨就⟩说"
+      "gloss": "她⟨就⟩说"
     },
     {
       "surface": "אליו",
-      "english": "对他说"
+      "gloss": "对他说"
     },
     {
       "surface": "דבר",
-      "english": "你说吧"
+      "gloss": "你说吧"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:51.521161750Z",
-  "model": "glm-5.2"
+  ]
 }

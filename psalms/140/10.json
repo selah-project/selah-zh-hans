@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 140:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64702
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:28.168819809Z",
   "translation": "愿祸患遮盖环绕我之人的头，他们嘴唇的⟨病患⟩，愿其遮盖他们！",
   "tokens": [
     {
       "surface": "ראש",
-      "english": "愿……的头"
+      "gloss": "愿……的头"
     },
     {
       "surface": "מסבי",
-      "english": "环绕我之人"
+      "gloss": "环绕我之人"
     },
     {
       "surface": "עמל",
-      "english": "祸患"
+      "gloss": "祸患"
     },
     {
       "surface": "שפתימו",
-      "english": "他们的嘴唇"
+      "gloss": "他们的嘴唇"
     },
     {
       "surface": "יכסומו",
-      "english": "愿其遮盖他们"
+      "gloss": "愿其遮盖他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:28.168819809Z",
-  "model": "glm-5.2"
+  ]
 }

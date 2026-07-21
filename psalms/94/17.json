@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 17,
   "ref": "psalms 94:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 382,
-    "prompt_tokens": 64531,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64913
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:17.657308933Z",
   "translation": "若非雅威是我的帮助，我的魂几乎已安居于静默之中。",
   "tokens": [
     {
       "surface": "לולי",
-      "english": "若非"
+      "gloss": "若非"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עזרתה",
-      "english": "是我的帮助"
+      "gloss": "是我的帮助"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "כמעט",
-      "english": "几乎"
+      "gloss": "几乎"
     },
     {
       "surface": "שכנה",
-      "english": "已安居"
+      "gloss": "已安居"
     },
     {
       "surface": "דומה",
-      "english": "于静默之中"
+      "gloss": "于静默之中"
     },
     {
       "surface": "נפשי",
-      "english": "我的魂"
+      "gloss": "我的魂"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:17.657308933Z",
-  "model": "glm-4.5"
+  ]
 }

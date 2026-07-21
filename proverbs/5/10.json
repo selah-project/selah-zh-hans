@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 5:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54437,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54983
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:49.008388553Z",
   "translation": "免得生人饱足你的力量,⟨而⟩你的劳苦 ⟨⟨את⟩⟩ ⟨在⟩陌生人家中;",
   "tokens": [
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "ישבעו",
-      "english": "饱足"
+      "gloss": "饱足"
     },
     {
       "surface": "זרים",
-      "english": "生人"
+      "gloss": "生人"
     },
     {
       "surface": "כחך",
-      "english": "你的力量"
+      "gloss": "你的力量"
     },
     {
       "surface": "ועצביך",
-      "english": "⟨而⟩你的劳苦 ⟨⟨את⟩⟩"
+      "gloss": "⟨而⟩你的劳苦 ⟨⟨את⟩⟩"
     },
     {
       "surface": "בבית",
-      "english": "⟨在⟩……家中"
+      "gloss": "⟨在⟩……家中"
     },
     {
       "surface": "נכרי",
-      "english": "陌生人"
+      "gloss": "陌生人"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:49.008388553Z",
-  "model": "glm-5.2"
+  ]
 }

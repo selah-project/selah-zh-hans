@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 21:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64465,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64815
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:54.056202758Z",
   "translation": "他所受的尊荣在⟨你的⟩救恩中为大；⟨你⟩将威严与华美放置在他身上。",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "为大"
+      "gloss": "为大"
     },
     {
       "surface": "כבודו",
-      "english": "他所受的尊荣"
+      "gloss": "他所受的尊荣"
     },
     {
       "surface": "בישועתך",
-      "english": "在⟨你的⟩救恩中"
+      "gloss": "在⟨你的⟩救恩中"
     },
     {
       "surface": "הוד",
-      "english": "威严"
+      "gloss": "威严"
     },
     {
       "surface": "והדר",
-      "english": "与华美"
+      "gloss": "与华美"
     },
     {
       "surface": "תשוה",
-      "english": "⟨你⟩放置 \/ 使其相称"
+      "gloss": "⟨你⟩放置 \/ 使其相称"
     },
     {
       "surface": "עליו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:54.056202758Z",
-  "model": "glm-5.2"
+  ]
 }

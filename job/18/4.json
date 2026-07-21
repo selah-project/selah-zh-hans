@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 18:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21854,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22351
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:51.905272393Z",
   "translation": "他在怒气中撕裂自己的נפש（生命气息）——难道为了你⟨的缘故⟩，大地就要被弃绝吗？岩石也要从它的所在被移走吗？",
   "tokens": [
     {
       "surface": "טרף",
-      "english": "撕裂"
+      "gloss": "撕裂"
     },
     {
       "surface": "נפשו",
-      "english": "自己的נפש（生命气息）"
+      "gloss": "自己的נפש（生命气息）"
     },
     {
       "surface": "באפו",
-      "english": "在他的怒气中"
+      "gloss": "在他的怒气中"
     },
     {
       "surface": "הלמענך",
-      "english": "难道为了你⟨的缘故⟩"
+      "gloss": "难道为了你⟨的缘故⟩"
     },
     {
       "surface": "תעזב",
-      "english": "就要被弃绝吗"
+      "gloss": "就要被弃绝吗"
     },
     {
       "surface": "ארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "ויעתק",
-      "english": "也要被移走吗"
+      "gloss": "也要被移走吗"
     },
     {
       "surface": "צור",
-      "english": "岩石"
+      "gloss": "岩石"
     },
     {
       "surface": "ממקמו",
-      "english": "从它的所在"
+      "gloss": "从它的所在"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:51.905272393Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "psalms 78:21",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64759,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65107
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:36.306745522Z",
   "translation": "因此雅威听见，⟨就⟩发怒，火就在雅各中被点燃，怒气也在以色列中升起。",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "שמע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויתעבר",
-      "english": "⟨就⟩发怒"
+      "gloss": "⟨就⟩发怒"
     },
     {
       "surface": "ואש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "נשקה",
-      "english": "被点燃"
+      "gloss": "被点燃"
     },
     {
       "surface": "ביעקב",
-      "english": "在雅各中"
+      "gloss": "在雅各中"
     },
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אף",
-      "english": "怒气"
+      "gloss": "怒气"
     },
     {
       "surface": "עלה",
-      "english": "升起"
+      "gloss": "升起"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列中"
+      "gloss": "在以色列中"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:36.306745522Z",
-  "model": "glm-5.2"
+  ]
 }

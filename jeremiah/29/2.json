@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 29:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 700,
-    "prompt_tokens": 19728,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20428
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:20:40.060692354Z",
   "translation": "在约雅斤王、太-{后}、太监、犹大和耶路撒冷的领袖、以及-{工匠}和-{铁匠}从耶路撒冷-{出去}之后",
   "tokens": [
     {
       "surface": "אחרי",
-      "english": "在...之后"
+      "gloss": "在...之后"
     },
     {
       "surface": "צאת",
-      "english": "{出去}"
+      "gloss": "{出去}"
     },
     {
       "surface": "יכניה",
-      "english": "约雅斤"
+      "gloss": "约雅斤"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "והגבירה",
-      "english": "、太-{后}"
+      "gloss": "、太-{后}"
     },
     {
       "surface": "והסריסים",
-      "english": "、太监"
+      "gloss": "、太监"
     },
     {
       "surface": "שרי",
-      "english": "领袖"
+      "gloss": "领袖"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וירושלם",
-      "english": "和耶路撒冷"
+      "gloss": "和耶路撒冷"
     },
     {
       "surface": "והחרש",
-      "english": "、以及-{工匠}"
+      "gloss": "、以及-{工匠}"
     },
     {
       "surface": "והמסגר",
-      "english": "和-{铁匠}"
+      "gloss": "和-{铁匠}"
     },
     {
       "surface": "מירושלם",
-      "english": "从耶路撒冷"
+      "gloss": "从耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-21T13:20:40.060692354Z",
-  "model": "glm-4.5"
+  ]
 }

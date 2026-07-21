@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 35:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64668,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65138
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:44.383592099Z",
   "translation": "大卫的。雅威啊，求你与⟨את⟩控告我的人争辩；与⟨את⟩攻击我的人争战。",
   "tokens": [
     {
       "surface": "לְ\/דָוִ֨ד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "רִיבָ֣\/ה",
-      "english": "求你争辩"
+      "gloss": "求你争辩"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "控告我的人"
     },
     {
       "surface": "יְרִיבַ֑\/י",
-      "english": "控告我的人"
+      "gloss": "控告我的人"
     },
     {
       "surface": "לְ֝חַ֗ם",
-      "english": "求你争战"
+      "gloss": "求你争战"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "攻击我的人"
     },
     {
       "surface": "לֹֽחֲמָֽ\/י",
-      "english": "攻击我的人"
+      "gloss": "攻击我的人"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:44.383592099Z",
-  "model": "glm-5.2"
+  ]
 }

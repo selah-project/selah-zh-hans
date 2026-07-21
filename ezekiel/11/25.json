@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "ezekiel 11:25",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19042,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19350
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:45:28.474700855Z",
   "translation": "我便向被掳之民讲述雅威所指示我的一切 ⟨את⟩ 事。",
   "tokens": [
     {
       "surface": "ואדבר",
-      "english": "我便讲论"
+      "gloss": "我便讲论"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "הגולה",
-      "english": "被掳之民"
+      "gloss": "被掳之民"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切事"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דברי",
-      "english": "事"
+      "gloss": "事"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "הראני",
-      "english": "指示我的"
+      "gloss": "指示我的"
     }
-  ],
-  "timestamp": "2026-07-17T22:45:28.474700855Z",
-  "model": "glm-5.2"
+  ]
 }

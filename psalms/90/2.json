@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 90:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64799,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65206
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:41.886134401Z",
   "translation": "群山尚未出生之前,你尚未来临产出地与世界之前,从永恒直到永恒,你⟨是⟩以罗欣(神)。",
   "tokens": [
     {
       "surface": "בטרם",
-      "english": "尚未……之前"
+      "gloss": "尚未……之前"
     },
     {
       "surface": "הרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "ילדו",
-      "english": "出生"
+      "gloss": "出生"
     },
     {
       "surface": "ותחולל",
-      "english": "你尚未来临产出"
+      "gloss": "你尚未来临产出"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ותבל",
-      "english": "与世界"
+      "gloss": "与世界"
     },
     {
       "surface": "ומעולם",
-      "english": "从永恒"
+      "gloss": "从永恒"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עולם",
-      "english": "永恒"
+      "gloss": "永恒"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אל",
-      "english": "以罗欣(神)"
+      "gloss": "以罗欣(神)"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:41.886134401Z",
-  "model": "glm-5.2"
+  ]
 }

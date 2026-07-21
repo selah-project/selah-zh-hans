@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 118:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64388,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:58.575033538Z",
   "translation": "这是雅威造的⟨那⟩日子;我们要在其中欢跃和喜乐。",
   "tokens": [
     {
       "surface": "זה",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "היום",
-      "english": "⟨那⟩日子"
+      "gloss": "⟨那⟩日子"
     },
     {
       "surface": "עשה",
-      "english": "造了"
+      "gloss": "造了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נגילה",
-      "english": "我们要欢跃"
+      "gloss": "我们要欢跃"
     },
     {
       "surface": "ונשמחה",
-      "english": "和喜乐"
+      "gloss": "和喜乐"
     },
     {
       "surface": "בו",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:58.575033538Z",
-  "model": "glm-5.2"
+  ]
 }

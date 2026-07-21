@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 1:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54294,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54737
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:53.444375035Z",
   "translation": "智慧 ⟨בַּ\/ח֣וּץ⟩ 在街上呼喊；⟨בָּ֝\/רְחֹב֗וֹת⟩ 在宽阔处她发出她的声音。",
   "tokens": [
     {
       "surface": "חכמות",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "בחוץ",
-      "english": "在街上"
+      "gloss": "在街上"
     },
     {
       "surface": "תרנה",
-      "english": "呼喊"
+      "gloss": "呼喊"
     },
     {
       "surface": "ברחבות",
-      "english": "在宽阔处"
+      "gloss": "在宽阔处"
     },
     {
       "surface": "תתן",
-      "english": "她发出"
+      "gloss": "她发出"
     },
     {
       "surface": "קולה",
-      "english": "她的声音"
+      "gloss": "她的声音"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:53.444375035Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "2-chronicles 12:6",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59658,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60011
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:20:28.875063023Z",
   "translation": "于是以色列的首领们和⟨那⟩王降卑了自己，他们就说：“雅威⟨是⟩公义的。”",
   "tokens": [
     {
       "surface": "ויכנעו",
-      "english": "于是……降卑了自己"
+      "gloss": "于是……降卑了自己"
     },
     {
       "surface": "שרי",
-      "english": "首领们"
+      "gloss": "首领们"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "והמלך",
-      "english": "和⟨那⟩王"
+      "gloss": "和⟨那⟩王"
     },
     {
       "surface": "ויאמרו",
-      "english": "他们就说"
+      "gloss": "他们就说"
     },
     {
       "surface": "צדיק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T02:20:28.875063023Z",
-  "model": "glm-5.2"
+  ]
 }

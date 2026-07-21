@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "numbers 26:28",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 260,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19377,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19637
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:10.436738568Z",
   "translation": "约瑟的子,按他们的宗族:玛拿西和以法莲。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "למשפחתם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     },
     {
       "surface": "מנשה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "ואפרים",
-      "english": "和以法莲"
+      "gloss": "和以法莲"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:10.436738568Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "jeremiah 8:21",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19077,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19605
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:11:47.531788733Z",
   "translation": "因我民女儿⟨的⟩破碎,我⟨被⟩打碎;我⟨变⟩黑暗,惊骇抓住了我。",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "שֶׁבֶר",
-      "english": "破碎"
+      "gloss": "破碎"
     },
     {
       "surface": "בַּת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "עַמִּ\/י",
-      "english": "我民⟨的⟩"
+      "gloss": "我民⟨的⟩"
     },
     {
       "surface": "הָשְׁבָּרְתִּי",
-      "english": "我⟨被⟩打碎"
+      "gloss": "我⟨被⟩打碎"
     },
     {
       "surface": "קָדַרְתִּי",
-      "english": "我⟨变⟩黑暗"
+      "gloss": "我⟨变⟩黑暗"
     },
     {
       "surface": "שַׁמָּה",
-      "english": "惊骇"
+      "gloss": "惊骇"
     },
     {
       "surface": "הֶחֱזִיקָֽ\/נִי",
-      "english": "抓住了我"
+      "gloss": "抓住了我"
     }
-  ],
-  "timestamp": "2026-07-17T22:11:47.531788733Z",
-  "model": "glm-5.2"
+  ]
 }

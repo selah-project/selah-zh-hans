@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 54,
   "ref": "leviticus 13:54",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19421,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19942
-  },
+  "verse": 54,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:31.859922830Z",
   "translation": "祭司要吩咐⟨他們⟩洗⟨את⟩其中⟨那⟩有災病的東西,並要將它隔離七天,第二次。",
   "tokens": [
     {
       "surface": "וצוה",
-      "english": "要吩咐"
+      "gloss": "要吩咐"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "וכבסו",
-      "english": "⟨他們⟩洗"
+      "gloss": "⟨他們⟩洗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "其中⟨那⟩有災病的東西 (אשר בו הנגע)"
     },
     {
       "surface": "אשר",
-      "english": "其中"
+      "gloss": "其中"
     },
     {
       "surface": "בו",
-      "english": "在它裡"
+      "gloss": "在它裡"
     },
     {
       "surface": "הנגע",
-      "english": "災病"
+      "gloss": "災病"
     },
     {
       "surface": "והסגירו",
-      "english": "並要將它隔離"
+      "gloss": "並要將它隔離"
     },
     {
       "surface": "שבעת",
-      "english": "七天"
+      "gloss": "七天"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "שנית",
-      "english": "第二次"
+      "gloss": "第二次"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:31.859922830Z",
-  "model": "glm-5.2"
+  ]
 }

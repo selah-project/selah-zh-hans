@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "joshua 4:17",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17975,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18218
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:46:58.721261596Z",
   "translation": "约书亚就吩咐⟨את⟩众祭司,说:你们从约旦河中上来。",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "就吩咐"
+      "gloss": "就吩咐"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "众祭司"
     },
     {
       "surface": "הכהנים",
-      "english": "众祭司"
+      "gloss": "众祭司"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "עלו",
-      "english": "你们上来"
+      "gloss": "你们上来"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河中"
+      "gloss": "约旦河中"
     }
-  ],
-  "timestamp": "2026-07-18T02:46:58.721261596Z",
-  "model": "glm-5.2"
+  ]
 }

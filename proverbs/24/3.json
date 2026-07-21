@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 24:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 54209,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54598
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:56.073347771Z",
   "translation": "借由 *Jojmá*，房屋被建造；借由 *Tevuná*，它被建立。",
   "tokens": [
     {
       "surface": "בחכמה",
-      "english": "借由 *Jojmá*"
+      "gloss": "借由 *Jojmá*"
     },
     {
       "surface": "יבנה",
-      "english": "房屋被建造"
+      "gloss": "房屋被建造"
     },
     {
       "surface": "בית",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ובתבונה",
-      "english": "借由 *Tevuná*"
+      "gloss": "借由 *Tevuná*"
     },
     {
       "surface": "יתכונן",
-      "english": "它被建立"
+      "gloss": "它被建立"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:56.073347771Z",
-  "model": "glm-4.5"
+  ]
 }

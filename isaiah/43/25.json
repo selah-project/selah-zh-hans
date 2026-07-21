@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "isaiah 43:25",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20793,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21320
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:51.568024619Z",
   "translation": "我,就是我自己,是⟨那⟩涂抹你悖逆的那一位——为我的缘故;你的罪过,我不记念。",
   "tokens": [
     {
       "surface": "אָנֹכִ֨י",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אָנֹכִ֥י",
-      "english": "就是我自己"
+      "gloss": "就是我自己"
     },
     {
       "surface": "ה֛וּא",
-      "english": "⟨他⟩是"
+      "gloss": "⟨他⟩是"
     },
     {
       "surface": "מֹחֶ֥ה",
-      "english": "涂抹"
+      "gloss": "涂抹"
     },
     {
       "surface": "פְשָׁעֶ֖י\/ךָ",
-      "english": "你的悖逆"
+      "gloss": "你的悖逆"
     },
     {
       "surface": "לְמַעֲנִ֑\/י",
-      "english": "为我的缘故"
+      "gloss": "为我的缘故"
     },
     {
       "surface": "וְ\/חַטֹּאתֶ֖י\/ךָ",
-      "english": "而你的罪过"
+      "gloss": "而你的罪过"
     },
     {
       "surface": "לֹ֥א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אֶזְכֹּֽר",
-      "english": "我⟨将⟩记念"
+      "gloss": "我⟨将⟩记念"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:51.568024619Z",
-  "model": "glm-5.2"
+  ]
 }

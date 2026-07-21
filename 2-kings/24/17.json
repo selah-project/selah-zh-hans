@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "2-kings 24:17",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18902,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19398
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:33:30.197230898Z",
   "translation": "巴比伦王立⟨את⟩玛探雅——他父亲的兄弟——代替他,并将他的名字改为西底家。",
   "tokens": [
     {
       "surface": "וימלך",
-      "english": "立……为王"
+      "gloss": "立……为王"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "玛探雅"
     },
     {
       "surface": "מתניה",
-      "english": "玛探雅"
+      "gloss": "玛探雅"
     },
     {
       "surface": "דדו",
-      "english": "他父亲的兄弟"
+      "gloss": "他父亲的兄弟"
     },
     {
       "surface": "תחתיו",
-      "english": "代替他"
+      "gloss": "代替他"
     },
     {
       "surface": "ויסב",
-      "english": "将……改为"
+      "gloss": "将……改为"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的名字"
     },
     {
       "surface": "שמו",
-      "english": "他的名字"
+      "gloss": "他的名字"
     },
     {
       "surface": "צדקיהו",
-      "english": "西底家"
+      "gloss": "西底家"
     }
-  ],
-  "timestamp": "2026-07-17T21:33:30.197230898Z",
-  "model": "glm-5.2"
+  ]
 }

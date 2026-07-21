@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 146:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64598,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65138
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:21.282129500Z",
   "translation": "雅威必作王,直到永远;锡安啊,⟨这是⟩你的以罗欣,直到世世代代。哈利路雅!",
   "tokens": [
     {
       "surface": "יִמְלֹ֤ךְ",
-      "english": "必作王"
+      "gloss": "必作王"
     },
     {
       "surface": "יְהוָ֨ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לְ\/עוֹלָ֗ם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "אֱלֹהַ֣יִ\/ךְ",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "צִ֭יּוֹן",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "לְ\/דֹ֥ר",
-      "english": "直到世代"
+      "gloss": "直到世代"
     },
     {
       "surface": "וָ\/דֹ֗ר",
-      "english": "又世代"
+      "gloss": "又世代"
     },
     {
       "surface": "הַֽלְלוּ",
-      "english": "哈利路(你们赞美)"
+      "gloss": "哈利路(你们赞美)"
     },
     {
       "surface": "יָֽהּ",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:21.282129500Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 40:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21624,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22015
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:13.481908471Z",
   "translation": "看一切高傲的，使他屈膝；⟨又⟩践踏恶人在他们⟨的⟩本处。",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "看"
+      "gloss": "看"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "גאה",
-      "english": "高傲的"
+      "gloss": "高傲的"
     },
     {
       "surface": "הכניעהו",
-      "english": "使他屈膝"
+      "gloss": "使他屈膝"
     },
     {
       "surface": "והדך",
-      "english": "⟨又⟩践踏"
+      "gloss": "⟨又⟩践踏"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "תחתם",
-      "english": "在他们的本处"
+      "gloss": "在他们的本处"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:13.481908471Z",
-  "model": "glm-5.2"
+  ]
 }

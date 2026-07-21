@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 105:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64440,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64781
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:34.404890319Z",
   "translation": "他使他的子民 ⟨את⟩ 极其繁多,并使他们比他们的压迫者更强盛。",
   "tokens": [
     {
       "surface": "ויפר",
-      "english": "他使……繁多"
+      "gloss": "他使……繁多"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的子民"
     },
     {
       "surface": "עמו",
-      "english": "他的子民"
+      "gloss": "他的子民"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     },
     {
       "surface": "ויעצמהו",
-      "english": "并使他们更强盛"
+      "gloss": "并使他们更强盛"
     },
     {
       "surface": "מצריו",
-      "english": "比他们的压迫者"
+      "gloss": "比他们的压迫者"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:34.404890319Z",
-  "model": "glm-5.2"
+  ]
 }

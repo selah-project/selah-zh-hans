@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "exodus 35:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18782,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19235
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:35:47.054936017Z",
   "translation": "⟨את⟩ ⟨הָ⟩柜和它的杠，⟨את⟩ ⟨הַ⟩施恩座，以及⟨את⟩遮蔽的幔子",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "柜"
     },
     {
       "surface": "הארן",
-      "english": "⟨הָ⟩柜"
+      "gloss": "⟨הָ⟩柜"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的杠"
     },
     {
       "surface": "בדיו",
-      "english": "它的杠"
+      "gloss": "它的杠"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "施恩座"
     },
     {
       "surface": "הכפרת",
-      "english": "⟨הַ⟩施恩座"
+      "gloss": "⟨הַ⟩施恩座"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "遮蔽的幔子"
     },
     {
       "surface": "פרכת",
-      "english": "幔子"
+      "gloss": "幔子"
     },
     {
       "surface": "המסך",
-      "english": "遮蔽"
+      "gloss": "遮蔽"
     }
-  ],
-  "timestamp": "2026-07-17T18:35:47.054936017Z",
-  "model": "glm-5.2"
+  ]
 }

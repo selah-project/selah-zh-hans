@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 40:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20918,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21378
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:18.147265926Z",
   "translation": "雅威的荣耀将要被启示,凡血肉之体将一同看见,因为雅威的口已说过 ⟨话语⟩。",
   "tokens": [
     {
       "surface": "ונגלה",
-      "english": "将要被启示"
+      "gloss": "将要被启示"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "וראו",
-      "english": "将看见"
+      "gloss": "将看见"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "בשר",
-      "english": "血肉之体"
+      "gloss": "血肉之体"
     },
     {
       "surface": "יחדו",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "דבר",
-      "english": "已说过 ⟨话语⟩"
+      "gloss": "已说过 ⟨话语⟩"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:18.147265926Z",
-  "model": "glm-5.2"
+  ]
 }

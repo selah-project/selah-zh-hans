@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "nahum 3:6",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17945,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 18452
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:34:30.319925349Z",
   "translation": "我必将可憎之物丢⟨在你身上⟩,将⟨你⟩当作可卑⟨的⟩,将⟨你⟩设如废物。",
   "tokens": [
     {
       "surface": "והשלכתי",
-      "english": "我必将……丢"
+      "gloss": "我必将……丢"
     },
     {
       "surface": "עליך",
-      "english": "在你身上"
+      "gloss": "在你身上"
     },
     {
       "surface": "שקצים",
-      "english": "可憎之物"
+      "gloss": "可憎之物"
     },
     {
       "surface": "ונבלתיך",
-      "english": "将⟨你⟩当作可卑"
+      "gloss": "将⟨你⟩当作可卑"
     },
     {
       "surface": "ושמתיך",
-      "english": "将⟨你⟩设"
+      "gloss": "将⟨你⟩设"
     },
     {
       "surface": "כראי",
-      "english": "如废物"
+      "gloss": "如废物"
     }
-  ],
-  "timestamp": "2026-07-20T06:34:30.319925349Z",
-  "model": "glm-5.2"
+  ]
 }

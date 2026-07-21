@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "leviticus 27:29",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19210,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19700
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:24.267520390Z",
   "translation": "凡从人类中⟨被⟩拔除归绝（*jérem*）的，不可赎回；⟨他⟩必被处死。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "חרם",
-      "english": "拔除归绝（*jérem*）"
+      "gloss": "拔除归绝（*jérem*）"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "יחרם",
-      "english": "⟨被⟩拔除归绝"
+      "gloss": "⟨被⟩拔除归绝"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "האדם",
-      "english": "人类"
+      "gloss": "人类"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יפדה",
-      "english": "赎回"
+      "gloss": "赎回"
     },
     {
       "surface": "מות",
-      "english": "⟨他⟩必死"
+      "gloss": "⟨他⟩必死"
     },
     {
       "surface": "יומת",
-      "english": "⟨被⟩处死"
+      "gloss": "⟨被⟩处死"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:24.267520390Z",
-  "model": "glm-5.2"
+  ]
 }

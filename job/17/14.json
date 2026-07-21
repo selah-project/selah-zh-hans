@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 17:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21592,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22099
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:39.855017307Z",
   "translation": "我对腐朽呼叫:⟨你⟩是我的父亲;对我的母亲和我的姐妹 —— ⟨对⟩蛆虫。",
   "tokens": [
     {
       "surface": "לַ\/שַּׁ֣חַת",
-      "english": "对腐朽"
+      "gloss": "对腐朽"
     },
     {
       "surface": "קָ֭רָאתִי",
-      "english": "我呼叫"
+      "gloss": "我呼叫"
     },
     {
       "surface": "אָ֣בִ\/י",
-      "english": "我的父亲"
+      "gloss": "我的父亲"
     },
     {
       "surface": "אָ֑תָּה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "אִמִּ֥\/י",
-      "english": "我的母亲"
+      "gloss": "我的母亲"
     },
     {
       "surface": "וַ֝\/אֲחֹתִ֗\/י",
-      "english": "和我的姐妹"
+      "gloss": "和我的姐妹"
     },
     {
       "surface": "לָֽ\/רִמָּֽה",
-      "english": "对蛆虫"
+      "gloss": "对蛆虫"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:39.855017307Z",
-  "model": "glm-5.2"
+  ]
 }

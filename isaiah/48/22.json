@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "isaiah 48:22",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 214,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20265,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20479
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:57:39.237632543Z",
   "translation": "没有平安，雅威说，给恶人。",
   "tokens": [
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לרשעים",
-      "english": "给恶人"
+      "gloss": "给恶人"
     }
-  ],
-  "timestamp": "2026-07-17T21:57:39.237632543Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-chronicles 9:30",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58479,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58919
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:58:39.279254072Z",
   "translation": "祭司⟨的⟩子嗣中，有配制香料⟨的⟩调香者⟨是⟩为制香料油⟨而设⟩。",
   "tokens": [
     {
       "surface": "ומן",
-      "english": "……中（有）"
+      "gloss": "……中（有）"
     },
     {
       "surface": "בני",
-      "english": "祭司⟨的⟩子嗣"
+      "gloss": "祭司⟨的⟩子嗣"
     },
     {
       "surface": "הכהנים",
-      "english": "（祭司）"
+      "gloss": "（祭司）"
     },
     {
       "surface": "רקחי",
-      "english": "调香者"
+      "gloss": "调香者"
     },
     {
       "surface": "המרקחת",
-      "english": "⟨是⟩配制（混合物）"
+      "gloss": "⟨是⟩配制（混合物）"
     },
     {
       "surface": "לבשמים",
-      "english": "为制香料油"
+      "gloss": "为制香料油"
     }
-  ],
-  "timestamp": "2026-07-18T01:58:39.279254072Z",
-  "model": "glm-5.2"
+  ]
 }

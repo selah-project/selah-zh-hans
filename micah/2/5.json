@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "micah 2:5",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17408,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17987
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:25:03.120535494Z",
   "translation": "因此,你⟨将⟩不⟨会⟩有掷绳拈阄的⟨人⟩,在雅威的会众中。",
   "tokens": [
     {
       "surface": "לָכֵן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יִהְיֶה",
-      "english": "⟨将⟩有"
+      "gloss": "⟨将⟩有"
     },
     {
       "surface": "לְ\/ךָ",
-      "english": "⟨属于⟩你"
+      "gloss": "⟨属于⟩你"
     },
     {
       "surface": "מַשְׁלִיךְ",
-      "english": "掷出 (绳者)"
+      "gloss": "掷出 (绳者)"
     },
     {
       "surface": "חֶבֶל",
-      "english": "绳"
+      "gloss": "绳"
     },
     {
       "surface": "בְּ\/גוֹרָל",
-      "english": "在拈阄中"
+      "gloss": "在拈阄中"
     },
     {
       "surface": "בִּ\/קְהַל",
-      "english": "在……会众中"
+      "gloss": "在……会众中"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:25:03.120535494Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 2:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17858,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18362
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:21:49.325714150Z",
   "translation": "勇士的弓 ⟨已⟩ 碎裂，跌倒的人 ⟨以⟩ 力量束腰。",
   "tokens": [
     {
       "surface": "קֶ֥שֶׁת",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "גִּבֹּרִ֖ים",
-      "english": "勇士的"
+      "gloss": "勇士的"
     },
     {
       "surface": "חַתִּ֑ים",
-      "english": "⟨已⟩ 碎裂"
+      "gloss": "⟨已⟩ 碎裂"
     },
     {
       "surface": "וְ\/נִכְשָׁלִ֖ים",
-      "english": "跌倒的人"
+      "gloss": "跌倒的人"
     },
     {
       "surface": "אָ֥זְרוּ",
-      "english": "束腰"
+      "gloss": "束腰"
     },
     {
       "surface": "חָֽיִל",
-      "english": "力量"
+      "gloss": "力量"
     }
-  ],
-  "timestamp": "2026-07-17T20:21:49.325714150Z",
-  "model": "glm-5.2"
+  ]
 }

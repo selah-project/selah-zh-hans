@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 19:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21126,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21608
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:21.455694546Z",
   "translation": "渔夫也必哀悼,所有在河里抛钩的必悲伤,凡在水面上张网的必衰残。",
   "tokens": [
     {
       "surface": "ואנו",
-      "english": "也必"
+      "gloss": "也必"
     },
     {
       "surface": "הדיגים",
-      "english": "渔夫"
+      "gloss": "渔夫"
     },
     {
       "surface": "ואבלו",
-      "english": "哀悼"
+      "gloss": "哀悼"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "משליכי",
-      "english": "抛……的"
+      "gloss": "抛……的"
     },
     {
       "surface": "ביאור",
-      "english": "在河里"
+      "gloss": "在河里"
     },
     {
       "surface": "חכה",
-      "english": "钩"
+      "gloss": "钩"
     },
     {
       "surface": "ופרשי",
-      "english": "凡……张……的"
+      "gloss": "凡……张……的"
     },
     {
       "surface": "מכמרת",
-      "english": "网"
+      "gloss": "网"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פני",
-      "english": "……面"
+      "gloss": "……面"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "אמללו",
-      "english": "必衰残"
+      "gloss": "必衰残"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:21.455694546Z",
-  "model": "glm-5.2"
+  ]
 }

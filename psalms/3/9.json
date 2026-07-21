@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 3:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64175,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64531
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:08.908566656Z",
   "translation": "救恩属于雅威;⟨你的⟩祝福 ⟨是⟩ ⟨在你的⟩百姓 ⟨之上⟩。*细拉*。",
   "tokens": [
     {
       "surface": "לַ\/יהוָ֥ה",
-      "english": "属于雅威"
+      "gloss": "属于雅威"
     },
     {
       "surface": "הַ\/יְשׁוּעָ֑ה",
-      "english": "⟨这⟩救恩"
+      "gloss": "⟨这⟩救恩"
     },
     {
       "surface": "עַֽל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "עַמְּ\/ךָ֖",
-      "english": "你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "בִרְכָתֶ֣\/ךָ",
-      "english": "你的祝福"
+      "gloss": "你的祝福"
     },
     {
       "surface": "סֶּֽלָה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:08.908566656Z",
-  "model": "glm-5.2"
+  ]
 }

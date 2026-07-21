@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "2-samuel 24:19",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 232,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18641,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 18873
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:55:51.363345906Z",
   "translation": "大卫就上去了，按照迦得的*话*，正如雅威所吩咐的。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "就上去了"
+      "gloss": "就上去了"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כדבר",
-      "english": "按照……的话"
+      "gloss": "按照……的话"
     },
     {
       "surface": "גד",
-      "english": "迦得"
+      "gloss": "迦得"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐的"
+      "gloss": "所吩咐的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T20:55:51.363345906Z",
-  "model": "glm-5.2"
+  ]
 }

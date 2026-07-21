@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 5:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 508,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23132,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23640
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:36:12.153757463Z",
   "translation": "מְתוּשֶׁלַח活了八十七岁⟨和⟩一百岁，就生了⟨את⟩拉麦。",
   "tokens": [
     {
       "surface": "וַ\/יְחִ֣י",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "מְתוּשցֶ֔לַח",
-      "english": "מְתוּשֶׁלַח"
+      "gloss": "מְתוּשֶׁלַח"
     },
     {
       "surface": "שֶׁ֧בַע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "וּ\/שְׁמֹנִ֛ים",
-      "english": "⟨和⟩八十"
+      "gloss": "⟨和⟩八十"
     },
     {
       "surface": "שָׁנָ֖ה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וּ\/מְאַ֣ת",
-      "english": "⟨和⟩一百"
+      "gloss": "⟨和⟩一百"
     },
     {
       "surface": "שָׁנָ֑ה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "就生了"
+      "gloss": "就生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拉麦"
     },
     {
       "surface": "לָֽמֶךְ",
-      "english": "拉麦"
+      "gloss": "拉麦"
     }
-  ],
-  "timestamp": "2026-07-17T17:36:12.153757463Z",
-  "model": "glm-5.2"
+  ]
 }

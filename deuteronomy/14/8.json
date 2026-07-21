@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "deuteronomy 14:8",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20191,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20727
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:53.957561781Z",
   "translation": "至于⟨את⟩猪,因为⟨它⟩分蹄,⟨它⟩却不反刍,⟨它⟩对你们是不洁净的;⟨你们⟩不可吃⟨它们的⟩肉,⟨它们的⟩尸体也不可触摸。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "至于⟨את⟩",
+      "gloss": "至于⟨את⟩",
       "marks": "猪"
     },
     {
       "surface": "החזיר",
-      "english": "猪"
+      "gloss": "猪"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מפריס",
-      "english": "⟨它⟩分"
+      "gloss": "⟨它⟩分"
     },
     {
       "surface": "פרסה",
-      "english": "蹄"
+      "gloss": "蹄"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "גרה",
-      "english": "反刍"
+      "gloss": "反刍"
     },
     {
       "surface": "טמא",
-      "english": "不洁净的"
+      "gloss": "不洁净的"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "לכם",
-      "english": "对你们"
+      "gloss": "对你们"
     },
     {
       "surface": "מבשרם",
-      "english": "⟨它们的⟩肉"
+      "gloss": "⟨它们的⟩肉"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "ובנבלתם",
-      "english": "⟨它们的⟩尸体也"
+      "gloss": "⟨它们的⟩尸体也"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תגעו",
-      "english": "触摸"
+      "gloss": "触摸"
     }
-  ],
-  "timestamp": "2026-07-17T19:36:53.957561781Z",
-  "model": "glm-5.2"
+  ]
 }

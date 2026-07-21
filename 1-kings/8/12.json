@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 8:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63758,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64119
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:15.900399048Z",
   "translation": "那时，所罗门说：“雅威说过，⟨他⟩要居住在浓密黑暗中。”",
   "tokens": [
     {
       "surface": "אז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אמר",
-      "english": "说过"
+      "gloss": "说过"
     },
     {
       "surface": "לשכן",
-      "english": "要居住"
+      "gloss": "要居住"
     },
     {
       "surface": "בערפל",
-      "english": "在浓密黑暗中"
+      "gloss": "在浓密黑暗中"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:15.900399048Z",
-  "model": "glm-5.2"
+  ]
 }

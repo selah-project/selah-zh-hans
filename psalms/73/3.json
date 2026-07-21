@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 73:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64389,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64892
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:30.826133969Z",
   "translation": "因为我嫉妒了愚妄人⟨，⟩当我看见恶人的平安时。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "קנאתי",
-      "english": "我嫉妒了"
+      "gloss": "我嫉妒了"
     },
     {
       "surface": "בהוללים",
-      "english": "愚妄人"
+      "gloss": "愚妄人"
     },
     {
       "surface": "שלום",
-      "english": "……的平安"
+      "gloss": "……的平安"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "אראה",
-      "english": "当我看见"
+      "gloss": "当我看见"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:30.826133969Z",
-  "model": "glm-5.2"
+  ]
 }

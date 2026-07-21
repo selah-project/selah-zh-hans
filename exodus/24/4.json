@@ -1,101 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 24:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 599,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19683,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20282
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:26:46.694401678Z",
   "translation": "摩西写下 ⟨את⟩ 雅威的一切*话语*；清晨早早就起来，在山下筑了一座祭坛，又立了十二根柱石，对应以色列的十二支派。",
   "tokens": [
     {
       "surface": "ויכתב",
-      "english": "写下"
+      "gloss": "写下"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切话语"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דברי",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "וישכם",
-      "english": "清晨早早就起来"
+      "gloss": "清晨早早就起来"
     },
     {
       "surface": "בבקר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ויבן",
-      "english": "筑了"
+      "gloss": "筑了"
     },
     {
       "surface": "מזבח",
-      "english": "一座祭坛"
+      "gloss": "一座祭坛"
     },
     {
       "surface": "תחת",
-      "english": "在……下"
+      "gloss": "在……下"
     },
     {
       "surface": "ההר",
-      "english": "那山"
+      "gloss": "那山"
     },
     {
       "surface": "ושתים",
-      "english": "又十二"
+      "gloss": "又十二"
     },
     {
       "surface": "עשרה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מצבה",
-      "english": "根柱石"
+      "gloss": "根柱石"
     },
     {
       "surface": "לשנים",
-      "english": "对应十二"
+      "gloss": "对应十二"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שבטי",
-      "english": "支派"
+      "gloss": "支派"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T18:26:46.694401678Z",
-  "model": "glm-5.2"
+  ]
 }

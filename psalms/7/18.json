@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 7:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64360,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64639
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:13.036530940Z",
   "translation": "我要称谢雅威,按⟨着⟩他的公义,我要弹奏⟨歌唱⟩称颂至高者雅威的名。",
   "tokens": [
     {
       "surface": "אודה",
-      "english": "我要称谢"
+      "gloss": "我要称谢"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כצדקו",
-      "english": "按⟨着⟩他的公义"
+      "gloss": "按⟨着⟩他的公义"
     },
     {
       "surface": "ואזמרה",
-      "english": "我要弹奏⟨歌唱⟩称颂"
+      "gloss": "我要弹奏⟨歌唱⟩称颂"
     },
     {
       "surface": "שם",
-      "english": "……的名"
+      "gloss": "……的名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עליון",
-      "english": "至高者"
+      "gloss": "至高者"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:13.036530940Z",
-  "model": "glm-5.2"
+  ]
 }

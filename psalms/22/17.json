@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 22:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64613,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65107
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:13.387953996Z",
   "translation": "因为犬类环绕我,恶人的会众围困了我;⟨他们⟩如狮子 ⟨在⟩我的手和我的脚。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "סבבוני",
-      "english": "环绕我"
+      "gloss": "环绕我"
     },
     {
       "surface": "כלבים",
-      "english": "犬类"
+      "gloss": "犬类"
     },
     {
       "surface": "עדת",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "מרעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "הקיפוני",
-      "english": "围困了我"
+      "gloss": "围困了我"
     },
     {
       "surface": "כארי",
-      "english": "如狮子"
+      "gloss": "如狮子"
     },
     {
       "surface": "ידי",
-      "english": "我的手"
+      "gloss": "我的手"
     },
     {
       "surface": "ורגלי",
-      "english": "和我的脚"
+      "gloss": "和我的脚"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:13.387953996Z",
-  "model": "glm-5.2"
+  ]
 }

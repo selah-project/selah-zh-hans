@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 72:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64577,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:01.649773376Z",
   "translation": "愿他为这民的贫苦人 ⟨判断⟩，拯救穷乏人的众子；愿他 ⟨且⟩ 粉碎欺压者。",
   "tokens": [
     {
       "surface": "ישפט",
-      "english": "愿他判断"
+      "gloss": "愿他判断"
     },
     {
       "surface": "עניי",
-      "english": "贫苦人"
+      "gloss": "贫苦人"
     },
     {
       "surface": "עם",
-      "english": "这民⟨的⟩"
+      "gloss": "这民⟨的⟩"
     },
     {
       "surface": "יושיע",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "לבני",
-      "english": "众子⟨⟩"
+      "gloss": "众子⟨⟩"
     },
     {
       "surface": "אביון",
-      "english": "穷乏人⟨的⟩"
+      "gloss": "穷乏人⟨的⟩"
     },
     {
       "surface": "וידכא",
-      "english": "愿他且粉碎"
+      "gloss": "愿他且粉碎"
     },
     {
       "surface": "עושק",
-      "english": "欺压者"
+      "gloss": "欺压者"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:01.649773376Z",
-  "model": "glm-5.2"
+  ]
 }

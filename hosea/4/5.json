@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "hosea 4:5",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21213,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21656
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:08.560873117Z",
   "translation": "你必在白天绊倒,naví 也必在夜间与你一同绊倒;我必将你母亲 ⟨置为静默⟩。",
   "tokens": [
     {
       "surface": "וכשלת",
-      "english": "你必绊倒"
+      "gloss": "你必绊倒"
     },
     {
       "surface": "היום",
-      "english": "在白天"
+      "gloss": "在白天"
     },
     {
       "surface": "וכשל",
-      "english": "也必绊倒"
+      "gloss": "也必绊倒"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "נביא",
-      "english": "naví"
+      "gloss": "naví"
     },
     {
       "surface": "עמך",
-      "english": "与你一同"
+      "gloss": "与你一同"
     },
     {
       "surface": "לילה",
-      "english": "在夜间"
+      "gloss": "在夜间"
     },
     {
       "surface": "ודמיתי",
-      "english": "我必将……⟨置为静默⟩"
+      "gloss": "我必将……⟨置为静默⟩"
     },
     {
       "surface": "אמך",
-      "english": "你母亲"
+      "gloss": "你母亲"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:08.560873117Z",
-  "model": "glm-5.2"
+  ]
 }

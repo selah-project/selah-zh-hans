@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 11:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19481,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19908
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:08:48.186758901Z",
   "translation": "那吗哪仿佛芫荽种子，它的外观如同בְּדֹלַח（bdolaj）的外观。",
   "tokens": [
     {
       "surface": "והמן",
-      "english": "那吗哪"
+      "gloss": "那吗哪"
     },
     {
       "surface": "כזרע",
-      "english": "仿佛……种子"
+      "gloss": "仿佛……种子"
     },
     {
       "surface": "גד",
-      "english": "芫荽"
+      "gloss": "芫荽"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "ועינו",
-      "english": "它的外观"
+      "gloss": "它的外观"
     },
     {
       "surface": "כעין",
-      "english": "如同……的外观"
+      "gloss": "如同……的外观"
     },
     {
       "surface": "הבדלח",
-      "english": "בְּדֹלַח（bdolaj）"
+      "gloss": "בְּדֹלַח（bdolaj）"
     }
-  ],
-  "timestamp": "2026-07-17T19:08:48.186758901Z",
-  "model": "glm-5.2"
+  ]
 }

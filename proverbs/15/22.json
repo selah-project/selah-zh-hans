@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "proverbs 15:22",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54426,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54895
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:12.680493421Z",
   "translation": "计谋被挫败,⟨当⟩缺乏 סוֹד (密议) ⟨之时⟩;但在众多谋士之中,它⟨才⟩被确立。",
   "tokens": [
     {
       "surface": "הפר",
-      "english": "被挫败"
+      "gloss": "被挫败"
     },
     {
       "surface": "מחשבות",
-      "english": "计谋"
+      "gloss": "计谋"
     },
     {
       "surface": "באין",
-      "english": "⟨当⟩缺乏……⟨之时⟩"
+      "gloss": "⟨当⟩缺乏……⟨之时⟩"
     },
     {
       "surface": "סוד",
-      "english": "סוֹד (密议)"
+      "gloss": "סוֹד (密议)"
     },
     {
       "surface": "וברב",
-      "english": "但在众多……之中"
+      "gloss": "但在众多……之中"
     },
     {
       "surface": "יועצים",
-      "english": "谋士"
+      "gloss": "谋士"
     },
     {
       "surface": "תקום",
-      "english": "它被确立"
+      "gloss": "它被确立"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:12.680493421Z",
-  "model": "glm-5.2"
+  ]
 }

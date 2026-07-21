@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 7:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18888,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19422
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:13:59.586575318Z",
   "translation": "河裡的魚必死,河也必發臭,埃及人必厭倦⟨無法⟩從河裡⟨取⟩水喝。",
   "tokens": [
     {
       "surface": "והדגה",
-      "english": "魚"
+      "gloss": "魚"
     },
     {
       "surface": "אשר",
-      "english": "〈那〉在"
+      "gloss": "〈那〉在"
     },
     {
       "surface": "ביאר",
-      "english": "河裡的"
+      "gloss": "河裡的"
     },
     {
       "surface": "תמות",
-      "english": "必死"
+      "gloss": "必死"
     },
     {
       "surface": "ובאש",
-      "english": "河也必發臭"
+      "gloss": "河也必發臭"
     },
     {
       "surface": "היאר",
-      "english": "〈那河〉"
+      "gloss": "〈那河〉"
     },
     {
       "surface": "ונלאו",
-      "english": "必厭倦"
+      "gloss": "必厭倦"
     },
     {
       "surface": "מצרים",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "לשתות",
-      "english": "喝"
+      "gloss": "喝"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "מן",
-      "english": "從"
+      "gloss": "從"
     },
     {
       "surface": "היאר",
-      "english": "河裡"
+      "gloss": "河裡"
     }
-  ],
-  "timestamp": "2026-07-17T18:13:59.586575318Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 10:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59899,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60303
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:19:28.751938915Z",
   "translation": "罗波安往示剑去,因为全以色列来到示剑,要立⟨他⟩⟨את⟩为王。",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "往……去"
+      "gloss": "往……去"
     },
     {
       "surface": "רחבעם",
-      "english": "罗波安"
+      "gloss": "罗波安"
     },
     {
       "surface": "שכמה",
-      "english": "往示剑(带方向后缀)"
+      "gloss": "往示剑(带方向后缀)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שכם",
-      "english": "示剑"
+      "gloss": "示剑"
     },
     {
       "surface": "באו",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "להמליך",
-      "english": "要立……为王"
+      "gloss": "要立……为王"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     }
-  ],
-  "timestamp": "2026-07-18T02:19:28.751938915Z",
-  "model": "glm-5.2"
+  ]
 }

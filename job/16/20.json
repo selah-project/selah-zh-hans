@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 16:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21483,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21840
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:14.044298230Z",
   "translation": "我的嘲笑者是 ⟨我的⟩ 朋友，我的眼睛向以罗欣 ⟨流泪⟩。",
   "tokens": [
     {
       "surface": "מליצי",
-      "english": "我的嘲笑者"
+      "gloss": "我的嘲笑者"
     },
     {
       "surface": "רעי",
-      "english": "⟨我的⟩ 朋友"
+      "gloss": "⟨我的⟩ 朋友"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "דלפה",
-      "english": "⟨流泪⟩"
+      "gloss": "⟨流泪⟩"
     },
     {
       "surface": "עיני",
-      "english": "我的眼睛"
+      "gloss": "我的眼睛"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:14.044298230Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "jeremiah 10:4",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19116,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19564
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:56:38.008873889Z",
   "translation": "用银子和金子他们装饰它；用钉子和锤子他们固定它，它⟨将⟩不摇动。",
   "tokens": [
     {
       "surface": "בכסף",
-      "english": "用银子"
+      "gloss": "用银子"
     },
     {
       "surface": "ובזהב",
-      "english": "和金子"
+      "gloss": "和金子"
     },
     {
       "surface": "ייפהו",
-      "english": "他们装饰它"
+      "gloss": "他们装饰它"
     },
     {
       "surface": "במסמרות",
-      "english": "用钉子"
+      "gloss": "用钉子"
     },
     {
       "surface": "ובמקבות",
-      "english": "和锤子"
+      "gloss": "和锤子"
     },
     {
       "surface": "יחזקום",
-      "english": "他们固定它"
+      "gloss": "他们固定它"
     },
     {
       "surface": "ולוא",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "יפיק",
-      "english": "摇动"
+      "gloss": "摇动"
     }
-  ],
-  "timestamp": "2026-07-18T02:56:38.008873889Z",
-  "model": "glm-5.2"
+  ]
 }

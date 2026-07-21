@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-kings 8:17",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64175,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64635
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:04.611049015Z",
   "translation": "事就这样成了：⟨这⟩与大卫我父亲心中同在——要为雅威、以罗欣（⟨就是⟩以色列的以罗欣）的שם建造一座בית。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事就这样成了："
+      "gloss": "事就这样成了："
     },
     {
       "surface": "עם",
-      "english": "与……同在"
+      "gloss": "与……同在"
     },
     {
       "surface": "לבב",
-      "english": "心中"
+      "gloss": "心中"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אבי",
-      "english": "我父亲"
+      "gloss": "我父亲"
     },
     {
       "surface": "לבנות",
-      "english": "要建造"
+      "gloss": "要建造"
     },
     {
       "surface": "בית",
-      "english": "一座בית"
+      "gloss": "一座בית"
     },
     {
       "surface": "לשם",
-      "english": "为שם"
+      "gloss": "为שם"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣（……的以罗欣）"
+      "gloss": "以罗欣（……的以罗欣）"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:04.611049015Z",
-  "model": "glm-5.2"
+  ]
 }

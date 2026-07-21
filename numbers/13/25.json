@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "numbers 13:25",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19398,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19749
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:51.990716065Z",
   "translation": "他们从窥探那地之后回来,满了四十天 ⟨⟩。",
   "tokens": [
     {
       "surface": "וַ\/יָּשֻׁ֖בוּ",
-      "english": "他们……回来"
+      "gloss": "他们……回来"
     },
     {
       "surface": "מִ\/תּ֣וּר",
-      "english": "从窥探"
+      "gloss": "从窥探"
     },
     {
       "surface": "הָ\/אָ֑רֶץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "מִ\/קֵּ֖ץ",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "אַרְבָּעִ֥ים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "יֽוֹם",
-      "english": "天"
+      "gloss": "天"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:51.990716065Z",
-  "model": "glm-5.2"
+  ]
 }

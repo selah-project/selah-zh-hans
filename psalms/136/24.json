@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 136:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64247,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64604
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:25.822309294Z",
   "translation": "他拯救了我们脱离我们的敌人，因为他的慈爱⟨存到⟩永远：",
   "tokens": [
     {
       "surface": "ויפרקנו",
-      "english": "他拯救了我们"
+      "gloss": "他拯救了我们"
     },
     {
       "surface": "מצרינו",
-      "english": "脱离我们的敌人"
+      "gloss": "脱离我们的敌人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לעולם",
-      "english": "⟨存到⟩永远"
+      "gloss": "⟨存到⟩永远"
     },
     {
       "surface": "חסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:25.822309294Z",
-  "model": "glm-5.2"
+  ]
 }

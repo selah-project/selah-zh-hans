@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-samuel 22:15",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18514,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 18957
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:58.289533960Z",
   "translation": "他射出箭,⟨וַ\/יְפִיצֵ֑\/ם⟩驱散⟨他们⟩;闪电,⟨וַ\/יְהִמֵּם\/ם⟩使他们溃乱。",
   "tokens": [
     {
       "surface": "וַ\/יִּשְׁלַ֥ח",
-      "english": "他射出"
+      "gloss": "他射出"
     },
     {
       "surface": "חִצִּ֖ים",
-      "english": "箭"
+      "gloss": "箭"
     },
     {
       "surface": "וַ\/יְפִיצֵ֑\/ם",
-      "english": "驱散"
+      "gloss": "驱散"
     },
     {
       "surface": "בָּרָ֖ק",
-      "english": "闪电"
+      "gloss": "闪电"
     },
     {
       "surface": "ו\/יהמ\/ם",
-      "english": "使他们溃乱"
+      "gloss": "使他们溃乱"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:58.289533960Z",
-  "model": "glm-5.2"
+  ]
 }

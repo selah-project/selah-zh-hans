@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "genesis 23:14",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 201,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22777,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22978
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:46:19.971882204Z",
   "translation": "以弗仑回答了⟨את⟩亚伯拉罕，对他说：",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答了"
+      "gloss": "回答了"
     },
     {
       "surface": "עפרון",
-      "english": "以弗仑"
+      "gloss": "以弗仑"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯拉罕"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     }
-  ],
-  "timestamp": "2026-07-17T17:46:19.971882204Z",
-  "model": "glm-5.2"
+  ]
 }

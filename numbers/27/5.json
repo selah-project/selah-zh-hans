@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 27:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19498,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19811
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:20:01.562512522Z",
   "translation": "摩西将⟨את⟩她们的案件呈到雅威面前。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "将……呈到"
+      "gloss": "将……呈到"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她们的案件"
     },
     {
       "surface": "משפטן",
-      "english": "她们的案件"
+      "gloss": "她们的案件"
     },
     {
       "surface": "לפני",
-      "english": "面前"
+      "gloss": "面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T19:20:01.562512522Z",
-  "model": "glm-5.2"
+  ]
 }

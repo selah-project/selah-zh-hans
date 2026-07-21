@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 4:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23125,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23497
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:03.824404806Z",
   "translation": "阿达生下⟨את⟩雅巴耳；他⟨是⟩住帐篷者和拥有牲畜者的父。",
   "tokens": [
     {
       "surface": "ותלד",
-      "english": "生下"
+      "gloss": "生下"
     },
     {
       "surface": "עדה",
-      "english": "阿达"
+      "gloss": "阿达"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅巴耳"
     },
     {
       "surface": "יבל",
-      "english": "雅巴耳"
+      "gloss": "雅巴耳"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "היה",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "אבי",
-      "english": "……的父"
+      "gloss": "……的父"
     },
     {
       "surface": "ישב",
-      "english": "住……者"
+      "gloss": "住……者"
     },
     {
       "surface": "אהל",
-      "english": "帐篷"
+      "gloss": "帐篷"
     },
     {
       "surface": "ומקנה",
-      "english": "和拥有牲畜者"
+      "gloss": "和拥有牲畜者"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:03.824404806Z",
-  "model": "glm-5.2"
+  ]
 }

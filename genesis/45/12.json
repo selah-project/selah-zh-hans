@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 45:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23140,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23723
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:05:21.730516235Z",
   "translation": "看哪，⟨你們的⟩眼睛⟨正⟩看見，以及我兄弟本雅明的眼睛，⟨看見⟩就是⟨這⟩口在向你們說話。",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "עיניכם",
-      "english": "你們的眼睛"
+      "gloss": "你們的眼睛"
     },
     {
       "surface": "ראות",
-      "english": "正看見"
+      "gloss": "正看見"
     },
     {
       "surface": "ועיני",
-      "english": "以及……的眼睛"
+      "gloss": "以及……的眼睛"
     },
     {
       "surface": "אחי",
-      "english": "我兄弟"
+      "gloss": "我兄弟"
     },
     {
       "surface": "בנימין",
-      "english": "本雅明"
+      "gloss": "本雅明"
     },
     {
       "surface": "כי",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "המדבר",
-      "english": "（那）說話的"
+      "gloss": "（那）說話的"
     },
     {
       "surface": "אליכם",
-      "english": "向你們"
+      "gloss": "向你們"
     }
-  ],
-  "timestamp": "2026-07-17T18:05:21.730516235Z",
-  "model": "glm-5.2"
+  ]
 }

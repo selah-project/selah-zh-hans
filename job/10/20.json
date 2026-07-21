@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 10:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21646,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22035
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:19.473779173Z",
   "translation": "我的日子岂不是短少吗？让⟨他⟩停手,放⟨我⟩过去,好让我微得欢畅。",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不是"
+      "gloss": "岂不是"
     },
     {
       "surface": "מעט",
-      "english": "短少"
+      "gloss": "短少"
     },
     {
       "surface": "ימי",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "יחדל",
-      "english": "让⟨他⟩停手"
+      "gloss": "让⟨他⟩停手"
     },
     {
       "surface": "ישית",
-      "english": "放⟨我⟩过去"
+      "gloss": "放⟨我⟩过去"
     },
     {
       "surface": "ממני",
-      "english": "从我"
+      "gloss": "从我"
     },
     {
       "surface": "ואבליגה",
-      "english": "好让我微得欢畅"
+      "gloss": "好让我微得欢畅"
     },
     {
       "surface": "מעט",
-      "english": "微"
+      "gloss": "微"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:19.473779173Z",
-  "model": "glm-5.2"
+  ]
 }

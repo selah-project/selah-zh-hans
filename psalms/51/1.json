@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 51:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64162,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64423
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:44.970413492Z",
   "translation": "交与指挥者。大卫的מִזְמוֹר（诗篇）。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "交与指挥者。"
+      "gloss": "交与指挥者。"
     },
     {
       "surface": "מזמור",
-      "english": "מִזְמוֹר（诗篇）"
+      "gloss": "מִזְמוֹר（诗篇）"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:44.970413492Z",
-  "model": "glm-5.2"
+  ]
 }

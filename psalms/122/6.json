@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 122:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64253,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64589
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:22.628802363Z",
   "translation": "要为耶路撒冷的平安祈求；愿爱你的人得享舒安。",
   "tokens": [
     {
       "surface": "שאלו",
-      "english": "要……祈求"
+      "gloss": "要……祈求"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ישליו",
-      "english": "愿……得享舒安"
+      "gloss": "愿……得享舒安"
     },
     {
       "surface": "אהביך",
-      "english": "爱你的人"
+      "gloss": "爱你的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:22.628802363Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,79 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "genesis 1:27",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 619,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23668,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24287
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:33:45.674344646Z",
   "translation": "于是以罗欣创造了 ⟨את⟩ 那亚当（人类），按着祂的形像；按着以罗欣的形像 ⟨את⟩⟨他⟩创造了 ⟨他⟩；男性和女性，⟨祂⟩创造了 ⟨את⟩⟨他们⟩。",
   "tokens": [
     {
       "surface": "ויברא",
-      "english": "于是……创造了"
+      "gloss": "于是……创造了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那亚当（人类）"
     },
     {
       "surface": "האדם",
-      "english": "那亚当（人类）"
+      "gloss": "那亚当（人类）"
     },
     {
       "surface": "בצלמו",
-      "english": "按着祂的形像"
+      "gloss": "按着祂的形像"
     },
     {
       "surface": "בצלם",
-      "english": "按着……的形像"
+      "gloss": "按着……的形像"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ברא",
-      "english": "创造了"
+      "gloss": "创造了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩⟨他⟩",
+      "gloss": "⟨את⟩⟨他⟩",
       "marks": "男性"
     },
     {
       "surface": "זכר",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "ונקבה",
-      "english": "和女性"
+      "gloss": "和女性"
     },
     {
       "surface": "ברא",
-      "english": "创造了"
+      "gloss": "创造了"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩⟨他们⟩",
+      "gloss": "⟨את⟩⟨他们⟩",
       "marks": "男性和女性"
     }
-  ],
-  "timestamp": "2026-07-17T17:33:45.674344646Z",
-  "model": "glm-5.2"
+  ]
 }

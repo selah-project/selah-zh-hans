@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "hosea 4:9",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21216,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21777
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:12.330089909Z",
   "translation": "⟨情况⟩将如何:百姓如何,祭司也如何;我将察罚他的道路,将他的行为归还给他。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨情况⟩将如何"
+      "gloss": "⟨情况⟩将如何"
     },
     {
       "surface": "כעם",
-      "english": "百姓如何"
+      "gloss": "百姓如何"
     },
     {
       "surface": "ככהן",
-      "english": "祭司也如何"
+      "gloss": "祭司也如何"
     },
     {
       "surface": "ופקדתי",
-      "english": "我将察罚"
+      "gloss": "我将察罚"
     },
     {
       "surface": "עליו",
-      "english": "⟨临到⟩他"
+      "gloss": "⟨临到⟩他"
     },
     {
       "surface": "דרכיו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "ומעלליו",
-      "english": "他的行为"
+      "gloss": "他的行为"
     },
     {
       "surface": "אשיב",
-      "english": "将……归还"
+      "gloss": "将……归还"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:12.330089909Z",
-  "model": "glm-5.2"
+  ]
 }

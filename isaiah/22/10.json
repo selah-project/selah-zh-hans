@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 22:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20776,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21198
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:29.845491558Z",
   "translation": "你们数点了耶路撒冷的房屋⟨את⟩，又拆毁了⟨那些⟩房屋，用来加固城墙⟨那堵墙⟩。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶路撒冷的房屋"
     },
     {
       "surface": "בתי",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ספרתם",
-      "english": "你们数点了"
+      "gloss": "你们数点了"
     },
     {
       "surface": "ותתצו",
-      "english": "又拆毁了"
+      "gloss": "又拆毁了"
     },
     {
       "surface": "הבתים",
-      "english": "⟨那些⟩房屋"
+      "gloss": "⟨那些⟩房屋"
     },
     {
       "surface": "לבצר",
-      "english": "用来加固"
+      "gloss": "用来加固"
     },
     {
       "surface": "החומה",
-      "english": "城墙⟨那堵墙⟩"
+      "gloss": "城墙⟨那堵墙⟩"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:29.845491558Z",
-  "model": "glm-5.2"
+  ]
 }

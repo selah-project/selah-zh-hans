@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 24:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18280,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18736
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:05:21.087938460Z",
   "translation": "百姓回答说：绝对不可！我们怎能离弃⟨את⟩雅威，去事奉别神明呢！",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "חלילה",
-      "english": "绝对不可！"
+      "gloss": "绝对不可！"
     },
     {
       "surface": "לנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "מעזב",
-      "english": "离弃"
+      "gloss": "离弃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעבד",
-      "english": "去事奉"
+      "gloss": "去事奉"
     },
     {
       "surface": "אלהים",
-      "english": "神明"
+      "gloss": "神明"
     },
     {
       "surface": "אחרים",
-      "english": "别"
+      "gloss": "别"
     }
-  ],
-  "timestamp": "2026-07-17T20:05:21.087938460Z",
-  "model": "glm-5.2"
+  ]
 }

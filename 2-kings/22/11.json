@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-kings 22:11",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18742,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19255
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:32:10.794861580Z",
   "translation": "王听见⟨את⟩妥拉之书的话时，⟨他⟩就撕裂了⟨את⟩自己的衣服。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨那时⟩"
+      "gloss": "⟨那时⟩"
     },
     {
       "surface": "כשמע",
-      "english": "当……听见时"
+      "gloss": "当……听见时"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "妥拉之书的话"
     },
     {
       "surface": "דברי",
-      "english": "⟨……的⟩话"
+      "gloss": "⟨……的⟩话"
     },
     {
       "surface": "ספר",
-      "english": "书"
+      "gloss": "书"
     },
     {
       "surface": "התורה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "ויקרע",
-      "english": "他就撕裂了"
+      "gloss": "他就撕裂了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "自己的衣服"
     },
     {
       "surface": "בגדיו",
-      "english": "自己的衣服"
+      "gloss": "自己的衣服"
     }
-  ],
-  "timestamp": "2026-07-17T21:32:10.794861580Z",
-  "model": "glm-5.2"
+  ]
 }

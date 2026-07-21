@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 59:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21127,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21751
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:02:53.721157173Z",
   "translation": "真理 ⟨被⟩缺失,转离恶的人 ⟨被⟩掠夺;雅威看见了,这在 ⟨他⟩眼中 ⟨变⟩为恶,因为没有 mishpát (审判)。",
   "tokens": [
     {
       "surface": "ותהי",
-      "english": "⟨于是⟩"
+      "gloss": "⟨于是⟩"
     },
     {
       "surface": "האמת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "נעדרת",
-      "english": "⟨被⟩缺失"
+      "gloss": "⟨被⟩缺失"
     },
     {
       "surface": "וסר",
-      "english": "转离"
+      "gloss": "转离"
     },
     {
       "surface": "מרע",
-      "english": "恶 ⟨的人⟩"
+      "gloss": "恶 ⟨的人⟩"
     },
     {
       "surface": "משתולל",
-      "english": "⟨被⟩掠夺"
+      "gloss": "⟨被⟩掠夺"
     },
     {
       "surface": "וירא",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וירע",
-      "english": "⟨变⟩为恶"
+      "gloss": "⟨变⟩为恶"
     },
     {
       "surface": "בעיניו",
-      "english": "在 ⟨他⟩眼中"
+      "gloss": "在 ⟨他⟩眼中"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "משפט",
-      "english": "mishpát (审判)"
+      "gloss": "mishpát (审判)"
     }
-  ],
-  "timestamp": "2026-07-17T22:02:53.721157173Z",
-  "model": "glm-5.2"
+  ]
 }

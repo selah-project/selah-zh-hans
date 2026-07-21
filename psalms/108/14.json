@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 108:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64195,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64605
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:04.663195775Z",
   "translation": "藉着以罗欣，我们要做出大能的事；⟨而是⟩他，他必践踏我们的敌人。",
   "tokens": [
     {
       "surface": "בֵּֽ\/אלֹהִ֥ים",
-      "english": "藉着以罗欣"
+      "gloss": "藉着以罗欣"
     },
     {
       "surface": "נַעֲשֶׂה",
-      "english": "我们要做出"
+      "gloss": "我们要做出"
     },
     {
       "surface": "חָ֑יִל",
-      "english": "大能的事"
+      "gloss": "大能的事"
     },
     {
       "surface": "וְ֝\/ה֗וּא",
-      "english": "⟨而是⟩他"
+      "gloss": "⟨而是⟩他"
     },
     {
       "surface": "יָב֥וּס",
-      "english": "他必践踏"
+      "gloss": "他必践踏"
     },
     {
       "surface": "צָרֵֽי\/נוּ",
-      "english": "我们的敌人"
+      "gloss": "我们的敌人"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:04.663195775Z",
-  "model": "glm-5.2"
+  ]
 }

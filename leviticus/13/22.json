@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "leviticus 13:22",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19188,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19588
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:57:41.076903924Z",
   "translation": "若它在皮肤上确实扩散，祭司就必宣布他为不洁净：⟨את⟩它宣告为נגע（灾病）。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "פשה",
-      "english": "确实扩散"
+      "gloss": "确实扩散"
     },
     {
       "surface": "תפשה",
-      "english": "它扩散"
+      "gloss": "它扩散"
     },
     {
       "surface": "בעור",
-      "english": "在皮肤上"
+      "gloss": "在皮肤上"
     },
     {
       "surface": "וטמא",
-      "english": "就必宣布……为不洁净"
+      "gloss": "就必宣布……为不洁净"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "נגע（灾病）"
     },
     {
       "surface": "נגע",
-      "english": "灾病"
+      "gloss": "灾病"
     },
     {
       "surface": "הוא",
-      "english": "它（是）"
+      "gloss": "它（是）"
     }
-  ],
-  "timestamp": "2026-07-20T06:57:41.076903924Z",
-  "model": "glm-5.2"
+  ]
 }

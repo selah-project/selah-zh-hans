@@ -1,63 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "1-chronicles 7:18",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 546,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58955,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59501
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:56:48.006816149Z",
   "translation": "他的妹妹 המלכת 生了 伊施荷，以及⟨את⟩亚比以谢，以及⟨את⟩玛拉。",
   "tokens": [
     {
       "surface": "ואחתו",
-      "english": "他的妹妹"
+      "gloss": "他的妹妹"
     },
     {
       "surface": "המלכת",
-      "english": "המלכת"
+      "gloss": "המלכת"
     },
     {
       "surface": "ילדה",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אִישְׁהוֹד"
     },
     {
       "surface": "אישהוד",
-      "english": "伊施荷"
+      "gloss": "伊施荷"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "אֲבִיעֶזֶר"
     },
     {
       "surface": "אביעזר",
-      "english": "亚比以谢"
+      "gloss": "亚比以谢"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "מַחְלָה"
     },
     {
       "surface": "מחלה",
-      "english": "玛拉"
+      "gloss": "玛拉"
     }
-  ],
-  "timestamp": "2026-07-18T01:56:48.006816149Z",
-  "model": "glm-5.2"
+  ]
 }

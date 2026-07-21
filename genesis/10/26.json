@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "genesis 10:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23344,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23771
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:36.548314650Z",
   "translation": "约坍生了⟨את⟩阿尔莫达德、⟨את⟩谢列夫、⟨את⟩哈察玛委特，和⟨את⟩雅拉；",
   "tokens": [
     {
       "surface": "ויקטן",
-      "english": "约坍"
+      "gloss": "约坍"
     },
     {
       "surface": "יָלַד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "阿尔莫达德"
     },
     {
       "surface": "אַלְמוֹדָד",
-      "english": "阿尔莫达德"
+      "gloss": "阿尔莫达德"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谢列夫"
     },
     {
       "surface": "שָׁלֶף",
-      "english": "谢列夫"
+      "gloss": "谢列夫"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈察玛委特"
     },
     {
       "surface": "חֲצַרְמָוֶת",
-      "english": "哈察玛委特"
+      "gloss": "哈察玛委特"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅拉"
     },
     {
       "surface": "יָרַח",
-      "english": "雅拉"
+      "gloss": "雅拉"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:36.548314650Z",
-  "model": "glm-5.2"
+  ]
 }

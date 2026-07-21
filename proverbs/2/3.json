@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "proverbs 2:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 404,
-    "prompt_tokens": 54362,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54766
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:15:05.855699326Z",
   "translation": "是的,倘若你为 *biná* (明辨) 呼求,并向 *tevuná* (洞察) 发出 ⟨你的⟩声音",
   "tokens": [
     {
       "surface": "כי",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "אם",
-      "english": "倘若"
+      "gloss": "倘若"
     },
     {
       "surface": "לבינה",
-      "english": "为 *biná* (明辨)"
+      "gloss": "为 *biná* (明辨)"
     },
     {
       "surface": "תקרא",
-      "english": "呼求"
+      "gloss": "呼求"
     },
     {
       "surface": "לתבונה",
-      "english": "向 *tevuná* (洞察)"
+      "gloss": "向 *tevuná* (洞察)"
     },
     {
       "surface": "תתן",
-      "english": "发出"
+      "gloss": "发出"
     },
     {
       "surface": "קולך",
-      "english": "⟨你的⟩声音"
+      "gloss": "⟨你的⟩声音"
     }
-  ],
-  "timestamp": "2026-07-21T13:15:05.855699326Z",
-  "model": "glm-4.5"
+  ]
 }

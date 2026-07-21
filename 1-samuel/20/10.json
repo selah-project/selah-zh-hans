@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-samuel 20:10",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18298,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18743
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:33:14.911794245Z",
   "translation": "大卫对约拿单说:\"谁将⟨这⟩告诉我呢?或者你父亲用严厉的话回答你,⟨那又⟩如何?\"",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יהונתן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יגיד",
-      "english": "将……告诉"
+      "gloss": "将……告诉"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "או",
-      "english": "或者"
+      "gloss": "或者"
     },
     {
       "surface": "מה",
-      "english": "如何"
+      "gloss": "如何"
     },
     {
       "surface": "יענך",
-      "english": "回答你"
+      "gloss": "回答你"
     },
     {
       "surface": "אביך",
-      "english": "你父亲"
+      "gloss": "你父亲"
     },
     {
       "surface": "קשה",
-      "english": "严厉地"
+      "gloss": "严厉地"
     }
-  ],
-  "timestamp": "2026-07-17T20:33:14.911794245Z",
-  "model": "glm-5.2"
+  ]
 }

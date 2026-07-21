@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "job 38:32",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21643,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22175
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:01.920696250Z",
   "translation": "你能按时领出 ⟨את⟩ *Mazarót* 吗？你能引导 *Ayísh* ⟨对⟩ 它的众子吗？",
   "tokens": [
     {
       "surface": "הֲ\/תֹצִ֣יא",
-      "english": "你能……领出"
+      "gloss": "你能……领出"
     },
     {
       "surface": "מַזָּר֣וֹת",
-      "english": "*Mazarót*"
+      "gloss": "*Mazarót*"
     },
     {
       "surface": "בְּ\/עִתּ֑\/וֹ",
-      "english": "按时"
+      "gloss": "按时"
     },
     {
       "surface": "וְ֝\/עַ֗יִשׁ",
-      "english": "而 *Ayísh*"
+      "gloss": "而 *Ayísh*"
     },
     {
       "surface": "עַל",
-      "english": "⟨对⟩"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "בָּנֶ֥י\/הָ",
-      "english": "它的众子"
+      "gloss": "它的众子"
     },
     {
       "surface": "תַנְחֵֽ\/ם",
-      "english": "你能引导……吗？"
+      "gloss": "你能引导……吗？"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:01.920696250Z",
-  "model": "glm-5.2"
+  ]
 }

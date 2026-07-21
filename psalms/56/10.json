@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 56:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64736,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65163
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:31.762022643Z",
   "translation": "那时我呼求的日子,我的仇敌必退后;这我知道:以罗欣是⟨为⟩我的。",
   "tokens": [
     {
       "surface": "אז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "ישובו",
-      "english": "必退后"
+      "gloss": "必退后"
     },
     {
       "surface": "אויבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "אחור",
-      "english": "向后"
+      "gloss": "向后"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "אקרא",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "כי",
-      "english": "⟨即⟩"
+      "gloss": "⟨即⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "לי",
-      "english": "⟨为⟩我的"
+      "gloss": "⟨为⟩我的"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:31.762022643Z",
-  "model": "glm-5.2"
+  ]
 }

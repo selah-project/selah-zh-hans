@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 41,
   "ref": "judges 9:41",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18186,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18634
-  },
+  "verse": 41,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:12:56.907824437Z",
   "translation": "亚比米勒住在阿鲁玛;西布勒赶出了⟨את⟩迦勒和⟨את⟩他的弟兄,不让⟨他们⟩住在示剑。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "住在"
+      "gloss": "住在"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "בארומה",
-      "english": "在阿鲁玛"
+      "gloss": "在阿鲁玛"
     },
     {
       "surface": "ויגרש",
-      "english": "赶出了"
+      "gloss": "赶出了"
     },
     {
       "surface": "זבל",
-      "english": "西布勒"
+      "gloss": "西布勒"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "迦勒"
     },
     {
       "surface": "געל",
-      "english": "迦勒"
+      "gloss": "迦勒"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的弟兄"
     },
     {
       "surface": "אחיו",
-      "english": "他的弟兄"
+      "gloss": "他的弟兄"
     },
     {
       "surface": "משבת",
-      "english": "不让⟨他们⟩住在"
+      "gloss": "不让⟨他们⟩住在"
     },
     {
       "surface": "בשכם",
-      "english": "示剑"
+      "gloss": "示剑"
     }
-  ],
-  "timestamp": "2026-07-17T20:12:56.907824437Z",
-  "model": "glm-5.2"
+  ]
 }

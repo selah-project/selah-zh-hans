@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "genesis 36:32",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22928,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23293
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:29.519328108Z",
   "translation": "比拉，比珥的儿子，在以东作王；他的城的名字是丁哈巴。",
   "tokens": [
     {
       "surface": "וימלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "באדום",
-      "english": "在以东"
+      "gloss": "在以东"
     },
     {
       "surface": "בלע",
-      "english": "比拉"
+      "gloss": "比拉"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "בעור",
-      "english": "比珥"
+      "gloss": "比珥"
     },
     {
       "surface": "ושם",
-      "english": "……的名字"
+      "gloss": "……的名字"
     },
     {
       "surface": "עירו",
-      "english": "他的城"
+      "gloss": "他的城"
     },
     {
       "surface": "דנהבה",
-      "english": "丁哈巴"
+      "gloss": "丁哈巴"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:29.519328108Z",
-  "model": "glm-5.2"
+  ]
 }

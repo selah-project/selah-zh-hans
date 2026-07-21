@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 121,
   "ref": "psalms 119:121",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64344,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64682
-  },
+  "verse": 121,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:01.051023654Z",
   "translation": "我行了公平与公义,求你不要将我交弃给⟨那⟩欺压我的人。",
   "tokens": [
     {
       "surface": "עשיתי",
-      "english": "我行了"
+      "gloss": "我行了"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "וצדק",
-      "english": "与公义"
+      "gloss": "与公义"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תניחני",
-      "english": "求你将我交弃"
+      "gloss": "求你将我交弃"
     },
     {
       "surface": "לעשקי",
-      "english": "给欺压我的人"
+      "gloss": "给欺压我的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:01.051023654Z",
-  "model": "glm-5.2"
+  ]
 }

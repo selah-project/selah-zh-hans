@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 37:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18707,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19117
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:16.008871163Z",
   "translation": "他将杠穿入柜侧面的环内，为要抬⟨את⟩柜。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "他穿入"
+      "gloss": "他穿入"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "杠"
     },
     {
       "surface": "הבדים",
-      "english": "杠"
+      "gloss": "杠"
     },
     {
       "surface": "בטבעת",
-      "english": "穿入环内"
+      "gloss": "穿入环内"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "צלעת",
-      "english": "侧面"
+      "gloss": "侧面"
     },
     {
       "surface": "הארן",
-      "english": "柜"
+      "gloss": "柜"
     },
     {
       "surface": "לשאת",
-      "english": "为要抬"
+      "gloss": "为要抬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "柜"
     },
     {
       "surface": "הארן",
-      "english": "柜"
+      "gloss": "柜"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:16.008871163Z",
-  "model": "glm-5.2"
+  ]
 }

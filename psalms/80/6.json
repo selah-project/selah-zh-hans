@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 80:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64761
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:55.966902076Z",
   "translation": "你使他们吃流泪的饼，你使他们喝泪水 ⟨用⟩ 三分之一 ⟨的量⟩。",
   "tokens": [
     {
       "surface": "האכלתם",
-      "english": "你使他们吃"
+      "gloss": "你使他们吃"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "דמעה",
-      "english": "流泪"
+      "gloss": "流泪"
     },
     {
       "surface": "ותשקמו",
-      "english": "你使他们喝"
+      "gloss": "你使他们喝"
     },
     {
       "surface": "בדמעות",
-      "english": "泪水"
+      "gloss": "泪水"
     },
     {
       "surface": "שליש",
-      "english": "三分之一"
+      "gloss": "三分之一"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:55.966902076Z",
-  "model": "glm-5.2"
+  ]
 }

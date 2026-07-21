@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "exodus 30:1",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 241,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18567,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18808
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:39.520893928Z",
   "translation": "你要用皂荚木造一座烧香的祭坛,制作⟨את⟩它。",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "你要造"
+      "gloss": "你要造"
     },
     {
       "surface": "מזבח",
-      "english": "一座祭坛"
+      "gloss": "一座祭坛"
     },
     {
       "surface": "מקטר",
-      "english": "烧香"
+      "gloss": "烧香"
     },
     {
       "surface": "קטרת",
-      "english": "香"
+      "gloss": "香"
     },
     {
       "surface": "עצי",
-      "english": "……的木"
+      "gloss": "……的木"
     },
     {
       "surface": "שטים",
-      "english": "皂荚"
+      "gloss": "皂荚"
     },
     {
       "surface": "תעשה",
-      "english": "你要制作"
+      "gloss": "你要制作"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:39.520893928Z",
-  "model": "glm-5.2"
+  ]
 }

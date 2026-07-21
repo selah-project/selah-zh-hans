@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "proverbs 6:22",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54902,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55303
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:25.227432408Z",
   "translation": "在你行走时,她必引导你;⟨את⟩你躺卧时,她必守护你;你醒来时,⟨她⟩必与你交谈。",
   "tokens": [
     {
       "surface": "בהתהלכך",
-      "english": "在你行走时"
+      "gloss": "在你行走时"
     },
     {
       "surface": "תנחה",
-      "english": "她必引导"
+      "gloss": "她必引导"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "בשכבך",
-      "english": "你躺卧时"
+      "gloss": "你躺卧时"
     },
     {
       "surface": "תשמר",
-      "english": "她必守护"
+      "gloss": "她必守护"
     },
     {
       "surface": "עליך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "והקיצות",
-      "english": "你醒来时"
+      "gloss": "你醒来时"
     },
     {
       "surface": "היא",
-      "english": "⟨她⟩"
+      "gloss": "⟨她⟩"
     },
     {
       "surface": "תשיחך",
-      "english": "必与你交谈"
+      "gloss": "必与你交谈"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:25.227432408Z",
-  "model": "glm-5.2"
+  ]
 }

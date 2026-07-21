@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 34:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21549,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21846
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:45.221801436Z",
   "translation": "因为约伯曾说：我是公义的，⟨但⟩以罗欣挪去了⟨את⟩我的判决。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמר",
-      "english": "曾说"
+      "gloss": "曾说"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "צדקתי",
-      "english": "我是公义的"
+      "gloss": "我是公义的"
     },
     {
       "surface": "ואל",
-      "english": "⟨但⟩以罗欣"
+      "gloss": "⟨但⟩以罗欣"
     },
     {
       "surface": "הסיר",
-      "english": "挪去了"
+      "gloss": "挪去了"
     },
     {
       "surface": "משפטי",
-      "english": "⟨את⟩我的判决",
+      "gloss": "⟨את⟩我的判决",
       "marks": "我的判决"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:45.221801436Z",
-  "model": "glm-5.2"
+  ]
 }

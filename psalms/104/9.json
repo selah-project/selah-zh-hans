@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 104:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64538,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64840
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:54.854334276Z",
   "translation": "界限⟨你⟩立定，它们必不越过；它们必不转回遮盖⟨ה⟩地。",
   "tokens": [
     {
       "surface": "גבול",
-      "english": "界限"
+      "gloss": "界限"
     },
     {
       "surface": "שמת",
-      "english": "⟨你⟩立定"
+      "gloss": "⟨你⟩立定"
     },
     {
       "surface": "בל",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "יעברון",
-      "english": "它们越过"
+      "gloss": "它们越过"
     },
     {
       "surface": "בל",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "ישובון",
-      "english": "它们转回"
+      "gloss": "它们转回"
     },
     {
       "surface": "לכסות",
-      "english": "去遮盖"
+      "gloss": "去遮盖"
     },
     {
       "surface": "הארץ",
-      "english": "⟨ה⟩地"
+      "gloss": "⟨ה⟩地"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:54.854334276Z",
-  "model": "glm-5.2"
+  ]
 }

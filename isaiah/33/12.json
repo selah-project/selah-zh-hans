@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 33:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20638,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21039
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:50.506248443Z",
   "translation": "万民必成为石灰的燃烧物；被砍下的荆棘，他们必在火中点燃。",
   "tokens": [
     {
       "surface": "והיו",
-      "english": "他们必成为"
+      "gloss": "他们必成为"
     },
     {
       "surface": "עמים",
-      "english": "万民"
+      "gloss": "万民"
     },
     {
       "surface": "משרפות",
-      "english": "燃烧物"
+      "gloss": "燃烧物"
     },
     {
       "surface": "שיד",
-      "english": "石灰的"
+      "gloss": "石灰的"
     },
     {
       "surface": "קוצים",
-      "english": "荆棘"
+      "gloss": "荆棘"
     },
     {
       "surface": "כסוחים",
-      "english": "被砍下的"
+      "gloss": "被砍下的"
     },
     {
       "surface": "באש",
-      "english": "在火中"
+      "gloss": "在火中"
     },
     {
       "surface": "יצתו",
-      "english": "他们必点燃"
+      "gloss": "他们必点燃"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:50.506248443Z",
-  "model": "glm-5.2"
+  ]
 }

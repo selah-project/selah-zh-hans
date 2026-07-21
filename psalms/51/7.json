@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 51:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64441,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64883
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:56.120494458Z",
   "translation": "看哪，在עָווֹן中我⟨被⟩塑造；在חֵטְא中我母亲怀了我。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "בעוון",
-      "english": "在עָווֹן中"
+      "gloss": "在עָווֹן中"
     },
     {
       "surface": "חוללתי",
-      "english": "我⟨被⟩塑造"
+      "gloss": "我⟨被⟩塑造"
     },
     {
       "surface": "ובחטא",
-      "english": "在חֵטְא中"
+      "gloss": "在חֵטְא中"
     },
     {
       "surface": "יחמתני",
-      "english": "我母亲怀了我"
+      "gloss": "我母亲怀了我"
     },
     {
       "surface": "אמי",
-      "english": "（我母亲）"
+      "gloss": "（我母亲）"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:56.120494458Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 30:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19545,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20220
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:44.856859660Z",
   "translation": "你要用纯金包裹它——⟨את⟩它的顶、⟨את⟩它的四壁周围、⟨את⟩它的四角；你要为它做一个金的冠冕周围环绕。",
   "tokens": [
     {
       "surface": "וְ\/צִפִּיתָ֨",
-      "english": "你要包裹"
+      "gloss": "你要包裹"
     },
     {
       "surface": "אֹת֜\/וֹ",
-      "english": "⟨את⟩它",
+      "gloss": "⟨את⟩它",
       "marks": "金"
     },
     {
       "surface": "זָהָ֣ב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "טָה֗וֹר",
-      "english": "纯"
+      "gloss": "纯"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的顶"
     },
     {
       "surface": "גַּגּ֧\/וֹ",
-      "english": "它的顶"
+      "gloss": "它的顶"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的四壁"
     },
     {
       "surface": "קִירֹתָ֛י\/ו",
-      "english": "它的四壁"
+      "gloss": "它的四壁"
     },
     {
       "surface": "סָבִ֖יב",
-      "english": "周围"
+      "gloss": "周围"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的四角"
     },
     {
       "surface": "קַרְנֹתָ֑י\/ו",
-      "english": "它的四角"
+      "gloss": "它的四角"
     },
     {
       "surface": "וְ\/עָשִׂ֥יתָ",
-      "english": "你要做"
+      "gloss": "你要做"
     },
     {
       "surface": "לּ֛\/וֹ",
-      "english": "为它"
+      "gloss": "为它"
     },
     {
       "surface": "זֵ֥ר",
-      "english": "一个冠冕"
+      "gloss": "一个冠冕"
     },
     {
       "surface": "זָהָ֖ב",
-      "english": "金的"
+      "gloss": "金的"
     },
     {
       "surface": "סָבִֽיב",
-      "english": "周围环绕"
+      "gloss": "周围环绕"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:44.856859660Z",
-  "model": "glm-5.2"
+  ]
 }

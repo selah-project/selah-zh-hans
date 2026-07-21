@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "ecclesiastes 9:17",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18925,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19251
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:22:17.613890948Z",
   "translation": "智慧人的*davar* ⟨דִּבְרֵי⟩ בְּ\/נַ֖חַת 被听见，胜过愚昧人中统治者的呼喊。",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "*davar*（话）"
+      "gloss": "*davar*（话）"
     },
     {
       "surface": "חכמים",
-      "english": "智慧人的"
+      "gloss": "智慧人的"
     },
     {
       "surface": "בנחת",
-      "english": "在安静中"
+      "gloss": "在安静中"
     },
     {
       "surface": "נשמעים",
-      "english": "被听见"
+      "gloss": "被听见"
     },
     {
       "surface": "מזעקת",
-      "english": "胜过……的呼喊"
+      "gloss": "胜过……的呼喊"
     },
     {
       "surface": "מושל",
-      "english": "统治者的"
+      "gloss": "统治者的"
     },
     {
       "surface": "בכסילים",
-      "english": "在愚昧人中"
+      "gloss": "在愚昧人中"
     }
-  ],
-  "timestamp": "2026-07-18T01:22:17.613890948Z",
-  "model": "glm-5.2"
+  ]
 }

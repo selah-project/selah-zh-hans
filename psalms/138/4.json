@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 138:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 138,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64624,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65026
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:46.817778384Z",
   "translation": "地上的众王都称谢⟨你⟩，雅威，因为他们听见了⟨你⟩口中的言语。",
   "tokens": [
     {
       "surface": "יודוך",
-      "english": "都称谢"
+      "gloss": "都称谢"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "מלכי",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמעו",
-      "english": "他们听见了"
+      "gloss": "他们听见了"
     },
     {
       "surface": "אמרי",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "פיך",
-      "english": "你口中的"
+      "gloss": "你口中的"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:46.817778384Z",
-  "model": "glm-5.2"
+  ]
 }

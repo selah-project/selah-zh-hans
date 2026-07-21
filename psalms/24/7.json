@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 24:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64705,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65320
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:01.030422963Z",
   "translation": "门哪，抬起⟨你们的⟩头，永久的门户啊，当被高举；好让荣耀之王进来！",
   "tokens": [
     {
       "surface": "שְׂאוּ",
-      "english": "抬起"
+      "gloss": "抬起"
     },
     {
       "surface": "שְׁעָרִים",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "רָאשֵׁי\/כֶם",
-      "english": "⟨你们的⟩头"
+      "gloss": "⟨你们的⟩头"
     },
     {
       "surface": "וְ\/הִנָּשְׂאוּ",
-      "english": "当被高举"
+      "gloss": "当被高举"
     },
     {
       "surface": "פִּתְחֵי",
-      "english": "门户"
+      "gloss": "门户"
     },
     {
       "surface": "עוֹלָם",
-      "english": "永久"
+      "gloss": "永久"
     },
     {
       "surface": "וְ\/יָבֹא",
-      "english": "好让……进来"
+      "gloss": "好让……进来"
     },
     {
       "surface": "מֶלֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הַ\/כָּבוֹד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:01.030422963Z",
-  "model": "glm-5.2"
+  ]
 }

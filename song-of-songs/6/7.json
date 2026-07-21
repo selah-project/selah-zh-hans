@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "song-of-songs 6:7",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21755,
-    "prompt_tokens_details": {
-      "cached_tokens": 20480
-    },
-    "total_tokens": 22177
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:52.986817881Z",
   "translation": "如同一片石榴⟨את⟩你的太阳穴，从你的发辫后面（显露）。",
   "tokens": [
     {
       "surface": "כְּ\/פֶ֤לַח",
-      "english": "如同一片"
+      "gloss": "如同一片"
     },
     {
       "surface": "הָ\/רִמּוֹן֙",
-      "english": "石榴"
+      "gloss": "石榴"
     },
     {
       "surface": "רַקָּתֵ֔\/ךְ",
-      "english": "⟨את⟩你的太阳穴"
+      "gloss": "⟨את⟩你的太阳穴"
     },
     {
       "surface": "מִ\/בַּ֖עַד",
-      "english": "从……后面"
+      "gloss": "从……后面"
     },
     {
       "surface": "לְ\/צַמָּתֵֽ\/ךְ",
-      "english": "你的发辫"
+      "gloss": "你的发辫"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:52.986817881Z",
-  "model": "glm-5.2"
+  ]
 }

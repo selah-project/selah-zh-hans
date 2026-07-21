@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "lamentations 3:45",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33389,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33664
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:05.286013031Z",
   "translation": "你把我们放在诸民中间⟨作⟩渣滓和废弃物。",
   "tokens": [
     {
       "surface": "סחי",
-      "english": "渣滓"
+      "gloss": "渣滓"
     },
     {
       "surface": "ומאוס",
-      "english": "和废弃物"
+      "gloss": "和废弃物"
     },
     {
       "surface": "תשימנו",
-      "english": "你把我们放置"
+      "gloss": "你把我们放置"
     },
     {
       "surface": "בקרב",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "העמים",
-      "english": "诸民"
+      "gloss": "诸民"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:05.286013031Z",
-  "model": "glm-5.2"
+  ]
 }

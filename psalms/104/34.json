@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 104:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64342,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64707
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:14.434329329Z",
   "translation": "愿我的默念 ⟨对⟩他甘甜；至于我，我必因雅威欢喜。",
   "tokens": [
     {
       "surface": "יֶעֱרַ֣ב",
-      "english": "愿……甘甜"
+      "gloss": "愿……甘甜"
     },
     {
       "surface": "עָלָ֣י\/ו",
-      "english": "⟨对⟩他"
+      "gloss": "⟨对⟩他"
     },
     {
       "surface": "שִׂיחִ֑\/י",
-      "english": "我的默念"
+      "gloss": "我的默念"
     },
     {
       "surface": "אָ֝נֹכִ֗י",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "אֶשְׂמַ֥ח",
-      "english": "我必欢喜"
+      "gloss": "我必欢喜"
     },
     {
       "surface": "בַּ\/יהוָֽה",
-      "english": "因雅威"
+      "gloss": "因雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:14.434329329Z",
-  "model": "glm-5.2"
+  ]
 }

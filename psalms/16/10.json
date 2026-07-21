@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 16:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64710,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65413
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:40.016387386Z",
   "translation": "因为你必不撇下我的נפשי（生命气息）往，也不容你的חסידך（敬虔人）לראות（去见）שחת（坑）。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תַעֲזֹ֣ב",
-      "english": "⟨你⟩必撇下"
+      "gloss": "⟨你⟩必撇下"
     },
     {
       "surface": "נַפְשִׁ֣\/י",
-      "english": "我的נפשי（生命气息）"
+      "gloss": "我的נפשי（生命气息）"
     },
     {
       "surface": "לִ\/שְׁא֑וֹל",
-      "english": "往"
+      "gloss": "往"
     },
     {
       "surface": "לֹֽא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "תִתֵּ֥ן",
-      "english": "⟨你⟩容"
+      "gloss": "⟨你⟩容"
     },
     {
       "surface": "חֲ֝סִידְ\/ךָ֗",
-      "english": "你的חסידך（敬虔人）"
+      "gloss": "你的חסידך（敬虔人）"
     },
     {
       "surface": "לִ\/רְא֥וֹת",
-      "english": "לראות（去见）"
+      "gloss": "לראות（去见）"
     },
     {
       "surface": "שָֽׁחַת",
-      "english": "שחת（坑）"
+      "gloss": "שחת（坑）"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:40.016387386Z",
-  "model": "glm-5.2"
+  ]
 }

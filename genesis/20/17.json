@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 20:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23518,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24113
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:44:50.989316834Z",
   "translation": "亚伯拉罕向⟨那⟩以罗欣祈祷，以罗欣就医治了 ⟨את⟩ 亚比米勒，以及 ⟨את⟩ 他的妻子，和他的女仆们；她们便生育了。",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "english": "祈祷了"
+      "gloss": "祈祷了"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "האלהים",
-      "english": "⟨那⟩以罗欣"
+      "gloss": "⟨那⟩以罗欣"
     },
     {
       "surface": "וירפא",
-      "english": "就医治了"
+      "gloss": "就医治了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚比米勒"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "他的妻子"
     },
     {
       "surface": "אשתו",
-      "english": "他的妻子"
+      "gloss": "他的妻子"
     },
     {
       "surface": "ואמהתיו",
-      "english": "和他的女仆们"
+      "gloss": "和他的女仆们"
     },
     {
       "surface": "וילדו",
-      "english": "她们便生育了"
+      "gloss": "她们便生育了"
     }
-  ],
-  "timestamp": "2026-07-17T17:44:50.989316834Z",
-  "model": "glm-5.2"
+  ]
 }

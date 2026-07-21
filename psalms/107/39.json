@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
   "ref": "psalms 107:39",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64200,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64592
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:41.201178161Z",
   "translation": "他们减少并屈身,因压迫、灾祸与悲伤。",
   "tokens": [
     {
       "surface": "וימעטו",
-      "english": "他们减少"
+      "gloss": "他们减少"
     },
     {
       "surface": "וישחו",
-      "english": "并屈身"
+      "gloss": "并屈身"
     },
     {
       "surface": "מעצר",
-      "english": "因压迫"
+      "gloss": "因压迫"
     },
     {
       "surface": "רעה",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "ויגון",
-      "english": "与悲伤"
+      "gloss": "与悲伤"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:41.201178161Z",
-  "model": "glm-5.2"
+  ]
 }

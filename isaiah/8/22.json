@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "isaiah 8:22",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20830,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21308
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:15.208237677Z",
   "translation": "他向地观看,看哪,患难与黑暗——anguish(צוֹקָה)的昏暗,他被驱入幽暗中。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "יביט",
-      "english": "⟨他⟩观看"
+      "gloss": "⟨他⟩观看"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "צרה",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "וחשכה",
-      "english": "与黑暗"
+      "gloss": "与黑暗"
     },
     {
       "surface": "מעוף",
-      "english": "昏暗"
+      "gloss": "昏暗"
     },
     {
       "surface": "צוקה",
-      "english": "anguish(צוֹקָה)"
+      "gloss": "anguish(צוֹקָה)"
     },
     {
       "surface": "ואפלה",
-      "english": "幽暗中"
+      "gloss": "幽暗中"
     },
     {
       "surface": "מנדח",
-      "english": "⟨他⟩被驱入"
+      "gloss": "⟨他⟩被驱入"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:15.208237677Z",
-  "model": "glm-5.2"
+  ]
 }

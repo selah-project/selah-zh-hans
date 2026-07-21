@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 28:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21525,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21934
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:29.081296161Z",
   "translation": "而 *Jojmá*（智慧），从何处寻得？*Biná*（理解）的地方，这又在哪？",
   "tokens": [
     {
       "surface": "והחכמה",
-      "english": "而 *Jojmá*（智慧）"
+      "gloss": "而 *Jojmá*（智慧）"
     },
     {
       "surface": "מאין",
-      "english": "从何处"
+      "gloss": "从何处"
     },
     {
       "surface": "תמצא",
-      "english": "寻得"
+      "gloss": "寻得"
     },
     {
       "surface": "ואי",
-      "english": "又在哪"
+      "gloss": "又在哪"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "מקום",
-      "english": "地方"
+      "gloss": "地方"
     },
     {
       "surface": "בינה",
-      "english": "*Biná*（理解）"
+      "gloss": "*Biná*（理解）"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:29.081296161Z",
-  "model": "glm-5.2"
+  ]
 }

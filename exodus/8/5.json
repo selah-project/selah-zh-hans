@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 8:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 682,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19446,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20128
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:14:45.952496174Z",
   "translation": "摩西对法老说：请你在我之上自炫⟨吧⟩，⟨定⟩⟨一个⟩时候，我何时为你、为你的仆人们、并为你的百姓祈求，将青蛙从你身上和你的房屋中剪除？只⟨有⟩在河里它们会留下。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לפרעה",
-      "english": "对法老"
+      "gloss": "对法老"
     },
     {
       "surface": "התפאר",
-      "english": "请你自炫"
+      "gloss": "请你自炫"
     },
     {
       "surface": "עלי",
-      "english": "在我之上"
+      "gloss": "在我之上"
     },
     {
       "surface": "למתי",
-      "english": "⟨定⟩⟨一个⟩时候"
+      "gloss": "⟨定⟩⟨一个⟩时候"
     },
     {
       "surface": "אעתיר",
-      "english": "我祈求"
+      "gloss": "我祈求"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "ולעבדיך",
-      "english": "和为你的仆人们"
+      "gloss": "和为你的仆人们"
     },
     {
       "surface": "ולעמך",
-      "english": "并为你的百姓"
+      "gloss": "并为你的百姓"
     },
     {
       "surface": "להכרית",
-      "english": "将……剪除"
+      "gloss": "将……剪除"
     },
     {
       "surface": "הצפרדעים",
-      "english": "青蛙"
+      "gloss": "青蛙"
     },
     {
       "surface": "ממך",
-      "english": "从你身上"
+      "gloss": "从你身上"
     },
     {
       "surface": "ומבתיך",
-      "english": "和你的房屋中"
+      "gloss": "和你的房屋中"
     },
     {
       "surface": "רק",
-      "english": "只"
+      "gloss": "只"
     },
     {
       "surface": "ביאר",
-      "english": "在河里"
+      "gloss": "在河里"
     },
     {
       "surface": "תשארנה",
-      "english": "它们会留下"
+      "gloss": "它们会留下"
     }
-  ],
-  "timestamp": "2026-07-17T18:14:45.952496174Z",
-  "model": "glm-5.2"
+  ]
 }

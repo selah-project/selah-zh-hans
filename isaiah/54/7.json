@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 54:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20523,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21006
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:00:24.445818321Z",
   "translation": "在一微小时刻我离弃了⟨你⟩，但以大怜悯我将聚集⟨你⟩。",
   "tokens": [
     {
       "surface": "ברגע",
-      "english": "在一时刻"
+      "gloss": "在一时刻"
     },
     {
       "surface": "קטן",
-      "english": "微小的"
+      "gloss": "微小的"
     },
     {
       "surface": "עזבתיך",
-      "english": "我离弃了"
+      "gloss": "我离弃了"
     },
     {
       "surface": "וברחמים",
-      "english": "但以大怜悯"
+      "gloss": "但以大怜悯"
     },
     {
       "surface": "גדלים",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "אקבצך",
-      "english": "我将聚集"
+      "gloss": "我将聚集"
     }
-  ],
-  "timestamp": "2026-07-17T22:00:24.445818321Z",
-  "model": "glm-5.2"
+  ]
 }

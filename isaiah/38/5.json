@@ -1,118 +1,107 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 38:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 734,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22275,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 23009
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:25.900936169Z",
   "translation": "你去,对你⟨的⟩希西家说:雅威、你⟨的⟩父大卫之以罗欣如此说:我听见了⟨את⟩你的祷告,我看见了⟨את⟩你的眼泪。看哪,我⟨将⟩加添⟨给⟩你的日子十五年。",
   "tokens": [
     {
       "surface": "הלוך",
-      "english": "你去"
+      "gloss": "你去"
     },
     {
       "surface": "ואמרת",
-      "english": "对你⟨的⟩……说"
+      "gloss": "对你⟨的⟩……说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "חזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביך",
-      "english": "你⟨的⟩父"
+      "gloss": "你⟨的⟩父"
     },
     {
       "surface": "שמעתי",
-      "english": "我听见了"
+      "gloss": "我听见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的祷告"
     },
     {
       "surface": "תפלתך",
-      "english": "你的祷告"
+      "gloss": "你的祷告"
     },
     {
       "surface": "ראיתי",
-      "english": "我看见了"
+      "gloss": "我看见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的眼泪"
     },
     {
       "surface": "דמעתך",
-      "english": "你的眼泪"
+      "gloss": "你的眼泪"
     },
     {
       "surface": "הנני",
-      "english": "看哪,我"
+      "gloss": "看哪,我"
     },
     {
       "surface": "יוסף",
-      "english": "加添"
+      "gloss": "加添"
     },
     {
       "surface": "על",
-      "english": "⟨给⟩"
+      "gloss": "⟨给⟩"
     },
     {
       "surface": "ימיך",
-      "english": "你的日子"
+      "gloss": "你的日子"
     },
     {
       "surface": "חמש",
-      "english": "十五"
+      "gloss": "十五"
     },
     {
       "surface": "עשרה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:25.900936169Z",
-  "model": "glm-5.2"
+  ]
 }

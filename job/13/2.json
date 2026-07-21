@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 13:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21627,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21998
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:32.718116565Z",
   "translation": "你们所知道的,我也知道;我也⟨不⟩是 Falling-low 的人——我并不比你们 falling-low。",
   "tokens": [
     {
       "surface": "כְֽדַעְתְּכֶם",
-      "english": "你们所知道的"
+      "gloss": "你们所知道的"
     },
     {
       "surface": "יָדַעְתִּי",
-      "english": "我也知道"
+      "gloss": "我也知道"
     },
     {
       "surface": "גַם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אָנִי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נֹפֵל",
-      "english": "falling-low"
+      "gloss": "falling-low"
     },
     {
       "surface": "אָנֹכִי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מִכֶּם",
-      "english": "比你们"
+      "gloss": "比你们"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:32.718116565Z",
-  "model": "glm-5.2"
+  ]
 }

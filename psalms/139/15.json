@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 139:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64758,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65192
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:13.159768924Z",
   "translation": "我的骨体不从⟨你⟩隐藏，⟨我⟩在隐秘处被造，⟨我⟩在大地最深处被绣造，",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נכחד",
-      "english": "被隐藏"
+      "gloss": "被隐藏"
     },
     {
       "surface": "עצמי",
-      "english": "我的骨体"
+      "gloss": "我的骨体"
     },
     {
       "surface": "ממך",
-      "english": "从⟨你⟩"
+      "gloss": "从⟨你⟩"
     },
     {
       "surface": "אשר",
-      "english": "当⟨我⟩"
+      "gloss": "当⟨我⟩"
     },
     {
       "surface": "עשיתי",
-      "english": "被造"
+      "gloss": "被造"
     },
     {
       "surface": "בסתר",
-      "english": "在隐秘处"
+      "gloss": "在隐秘处"
     },
     {
       "surface": "רקמתי",
-      "english": "被绣造"
+      "gloss": "被绣造"
     },
     {
       "surface": "בתחתיות",
-      "english": "在最深处"
+      "gloss": "在最深处"
     },
     {
       "surface": "ארץ",
-      "english": "大地的"
+      "gloss": "大地的"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:13.159768924Z",
-  "model": "glm-5.2"
+  ]
 }

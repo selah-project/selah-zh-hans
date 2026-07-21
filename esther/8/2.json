@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "esther 8:2",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20234,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20880
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:26:54.314357692Z",
   "translation": "王取下⟨את⟩他的印章戒指,就是他从哈曼那里取回的,赐给末底改。以斯帖设立⟨את⟩末底改治理哈曼的家。",
   "tokens": [
     {
       "surface": "ויסר",
-      "english": "取下"
+      "gloss": "取下"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的印章戒指"
     },
     {
       "surface": "טבעתו",
-      "english": "他的印章戒指"
+      "gloss": "他的印章戒指"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "העביר",
-      "english": "他取回的"
+      "gloss": "他取回的"
     },
     {
       "surface": "מהמן",
-      "english": "从哈曼那里"
+      "gloss": "从哈曼那里"
     },
     {
       "surface": "ויתנה",
-      "english": "赐给"
+      "gloss": "赐给"
     },
     {
       "surface": "למרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "ותשם",
-      "english": "设立"
+      "gloss": "设立"
     },
     {
       "surface": "אסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "末底改"
     },
     {
       "surface": "מרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "על",
-      "english": "治理"
+      "gloss": "治理"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "המן",
-      "english": "哈曼的"
+      "gloss": "哈曼的"
     }
-  ],
-  "timestamp": "2026-07-18T01:26:54.314357692Z",
-  "model": "glm-5.2"
+  ]
 }

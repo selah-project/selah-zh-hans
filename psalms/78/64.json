@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 64,
   "ref": "psalms 78:64",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64331,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64695
-  },
+  "verse": 64,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:51.738727037Z",
   "translation": "他的祭司在刀剑中倒下,他的寡妇却不哭泣——",
   "tokens": [
     {
       "surface": "כהניו",
-      "english": "他的祭司"
+      "gloss": "他的祭司"
     },
     {
       "surface": "בחרב",
-      "english": "在刀剑中"
+      "gloss": "在刀剑中"
     },
     {
       "surface": "נפלו",
-      "english": "倒下"
+      "gloss": "倒下"
     },
     {
       "surface": "ואלמנתיו",
-      "english": "他的寡妇"
+      "gloss": "他的寡妇"
     },
     {
       "surface": "לא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "תבכינה",
-      "english": "哭泣——"
+      "gloss": "哭泣——"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:51.738727037Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 40:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18856,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19255
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:05:28.007061477Z",
   "translation": "他量了⟨את⟩门的门廊，从那房屋⟨起⟩，一竿。",
   "tokens": [
     {
       "surface": "וַ\/יָּ֜מָד",
-      "english": "他量了"
+      "gloss": "他量了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "门的门廊"
     },
     {
       "surface": "אֻלָ֥ם",
-      "english": "门廊"
+      "gloss": "门廊"
     },
     {
       "surface": "הַ\/שַּׁ֛עַר",
-      "english": "门的"
+      "gloss": "门的"
     },
     {
       "surface": "מֵ\/הַ\/בַּ֖יִת",
-      "english": "从那房屋"
+      "gloss": "从那房屋"
     },
     {
       "surface": "קָנֶ֥ה",
-      "english": "一竿"
+      "gloss": "一竿"
     },
     {
       "surface": "אֶחָֽד",
-      "english": "一"
+      "gloss": "一"
     }
-  ],
-  "timestamp": "2026-07-17T23:05:28.007061477Z",
-  "model": "glm-5.2"
+  ]
 }

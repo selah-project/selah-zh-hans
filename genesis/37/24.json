@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "genesis 37:24",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23091,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23503
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:30.424987381Z",
   "translation": "他们拿了他，把他扔进⟨הַבֹּרָה⟩（⟨那⟩坑）里；⟨而⟩那坑是空的，里面没有水。",
   "tokens": [
     {
       "surface": "ויקחהו",
-      "english": "他们拿了他"
+      "gloss": "他们拿了他"
     },
     {
       "surface": "וישלכו",
-      "english": "把他们扔进"
+      "gloss": "把他们扔进"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩坑"
     },
     {
       "surface": "הברה",
-      "english": "⟨那⟩坑"
+      "gloss": "⟨那⟩坑"
     },
     {
       "surface": "והבור",
-      "english": "⟨而⟩那坑"
+      "gloss": "⟨而⟩那坑"
     },
     {
       "surface": "רק",
-      "english": "是空的"
+      "gloss": "是空的"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בו",
-      "english": "里面"
+      "gloss": "里面"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:30.424987381Z",
-  "model": "glm-5.2"
+  ]
 }

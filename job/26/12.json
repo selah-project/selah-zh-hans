@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 26:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 597,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21460,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22057
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:46.649059754Z",
   "translation": "以他的力量他平息了海,而以他的理解力他击碎了 Rahab(傲慢者)。",
   "tokens": [
     {
       "surface": "בְּכֹחוֹ",
-      "english": "以他的力量"
+      "gloss": "以他的力量"
     },
     {
       "surface": "רָגַע",
-      "english": "他平息了"
+      "gloss": "他平息了"
     },
     {
       "surface": "הַיָּם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "וּבְתוּבֻנְתּוֹ",
-      "english": "而以他的理解力"
+      "gloss": "而以他的理解力"
     },
     {
       "surface": "מָחַץ",
-      "english": "他击碎了"
+      "gloss": "他击碎了"
     },
     {
       "surface": "רָהַב",
-      "english": "Rahab(傲慢者)"
+      "gloss": "Rahab(傲慢者)"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:46.649059754Z",
-  "model": "glm-5.2"
+  ]
 }

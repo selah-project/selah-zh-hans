@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "psalms 69:33",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64442,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64858
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:10.661180707Z",
   "translation": "谦卑人看见了,就欢喜;寻求以罗欣的人,你们的心要活着。",
   "tokens": [
     {
       "surface": "ראו",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "ענוים",
-      "english": "谦卑人"
+      "gloss": "谦卑人"
     },
     {
       "surface": "ישמחו",
-      "english": "就欢喜"
+      "gloss": "就欢喜"
     },
     {
       "surface": "דרשי",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ויחי",
-      "english": "要活着"
+      "gloss": "要活着"
     },
     {
       "surface": "לבבכם",
-      "english": "你们的心"
+      "gloss": "你们的心"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:10.661180707Z",
-  "model": "glm-5.2"
+  ]
 }

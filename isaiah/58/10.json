@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 58:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21071,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21633
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:02:13.081987033Z",
   "translation": "你若倾出你的נֶפֶשׁ给饥饿的人，使受苦的נֶפֶשׁ得饱足，你的光就必在黑暗中升起，你的幽暗必如正午。",
   "tokens": [
     {
       "surface": "ותפק",
-      "english": "你若倾出"
+      "gloss": "你若倾出"
     },
     {
       "surface": "לרעב",
-      "english": "给饥饿的人"
+      "gloss": "给饥饿的人"
     },
     {
       "surface": "נפשך",
-      "english": "你的נֶפֶשׁ"
+      "gloss": "你的נֶפֶשׁ"
     },
     {
       "surface": "ונפש",
-      "english": "使……的נֶפֶשׁ"
+      "gloss": "使……的נֶפֶשׁ"
     },
     {
       "surface": "נענה",
-      "english": "受苦的"
+      "gloss": "受苦的"
     },
     {
       "surface": "תשביע",
-      "english": "得饱足"
+      "gloss": "得饱足"
     },
     {
       "surface": "וזרח",
-      "english": "就必升起"
+      "gloss": "就必升起"
     },
     {
       "surface": "בחשך",
-      "english": "在黑暗中"
+      "gloss": "在黑暗中"
     },
     {
       "surface": "אורך",
-      "english": "你的光"
+      "gloss": "你的光"
     },
     {
       "surface": "ואפלתך",
-      "english": "你的幽暗"
+      "gloss": "你的幽暗"
     },
     {
       "surface": "כצהרים",
-      "english": "必如正午"
+      "gloss": "必如正午"
     }
-  ],
-  "timestamp": "2026-07-17T22:02:13.081987033Z",
-  "model": "glm-5.2"
+  ]
 }

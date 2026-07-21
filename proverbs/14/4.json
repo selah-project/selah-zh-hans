@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 14:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54424,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54824
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:16.498203716Z",
   "translation": "若无牛群，槽⟨是⟩空的；但丰厚的出产⟨藉⟩牛的力气而来。",
   "tokens": [
     {
       "surface": "בְּ\/אֵ֣ין",
-      "english": "若无"
+      "gloss": "若无"
     },
     {
       "surface": "אֲ֭לָפִים",
-      "english": "牛群"
+      "gloss": "牛群"
     },
     {
       "surface": "אֵב֣וּס",
-      "english": "槽"
+      "gloss": "槽"
     },
     {
       "surface": "בָּ֑ר",
-      "english": "空的"
+      "gloss": "空的"
     },
     {
       "surface": "וְ\/רָב",
-      "english": "丰厚的"
+      "gloss": "丰厚的"
     },
     {
       "surface": "תְּבוּא֗וֹת",
-      "english": "出产"
+      "gloss": "出产"
     },
     {
       "surface": "בְּ\/כֹ֣חַ",
-      "english": "力气"
+      "gloss": "力气"
     },
     {
       "surface": "שֽׁוֹר",
-      "english": "牛"
+      "gloss": "牛"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:16.498203716Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 27:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21606,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22021
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:55.794215878Z",
   "translation": "⟨他若⟩以沙代 ⟨为乐⟩，⟨他⟩会 ⟨在⟩一切 ⟨时候⟩呼求以罗欣吗？",
   "tokens": [
     {
       "surface": "אם",
-      "english": "⟨他若⟩"
+      "gloss": "⟨他若⟩"
     },
     {
       "surface": "על",
-      "english": "⟨为乐⟩"
+      "gloss": "⟨为乐⟩"
     },
     {
       "surface": "שדי",
-      "english": "以沙代"
+      "gloss": "以沙代"
     },
     {
       "surface": "יתענג",
-      "english": "⟨以……为乐⟩"
+      "gloss": "⟨以……为乐⟩"
     },
     {
       "surface": "יקרא",
-      "english": "⟨他⟩会呼求"
+      "gloss": "⟨他⟩会呼求"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בכל",
-      "english": "⟨在⟩一切"
+      "gloss": "⟨在⟩一切"
     },
     {
       "surface": "עת",
-      "english": "⟨时候⟩"
+      "gloss": "⟨时候⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:55.794215878Z",
-  "model": "glm-5.2"
+  ]
 }

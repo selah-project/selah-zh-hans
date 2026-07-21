@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "isaiah 23:14",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20499,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20821
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:42.973914498Z",
   "translation": "哀号吧,他施的船只!因为你们的堡垒被毁坏了。",
   "tokens": [
     {
       "surface": "הילילו",
-      "english": "哀号吧"
+      "gloss": "哀号吧"
     },
     {
       "surface": "אניות",
-      "english": "船只"
+      "gloss": "船只"
     },
     {
       "surface": "תרשיש",
-      "english": "他施"
+      "gloss": "他施"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שדד",
-      "english": "被毁坏了"
+      "gloss": "被毁坏了"
     },
     {
       "surface": "מעזכן",
-      "english": "你们的堡垒"
+      "gloss": "你们的堡垒"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:42.973914498Z",
-  "model": "glm-5.2"
+  ]
 }

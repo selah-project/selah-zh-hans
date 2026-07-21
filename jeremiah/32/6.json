@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "jeremiah 32:6",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18901,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19173
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:26:11.862866291Z",
   "translation": "耶利米说:雅威的*davar* (话) 临到我,说:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "היה",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T22:26:11.862866291Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 23:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22846,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23219
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:46:22.237333204Z",
   "translation": "赫的子孙回答亚伯拉罕，⟨את⟩ 亚伯拉罕，对他说：",
   "tokens": [
     {
       "surface": "ויענו",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "חת",
-      "english": "赫"
+      "gloss": "赫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯拉罕"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     }
-  ],
-  "timestamp": "2026-07-17T17:46:22.237333204Z",
-  "model": "glm-5.2"
+  ]
 }

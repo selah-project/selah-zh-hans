@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "deuteronomy 5:12",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19339,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19787
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:31:19.485546194Z",
   "translation": "你要守安息日,分别为圣⟨它⟩,正如雅威你的以罗欣所吩咐你的。",
   "tokens": [
     {
       "surface": "שמור",
-      "english": "你要守"
+      "gloss": "你要守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "安息日"
     },
     {
       "surface": "יום",
-      "english": "⟨的日子⟩"
+      "gloss": "⟨的日子⟩"
     },
     {
       "surface": "השבת",
-      "english": "安息日"
+      "gloss": "安息日"
     },
     {
       "surface": "לקדשו",
-      "english": "分别为圣它"
+      "gloss": "分别为圣它"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוך",
-      "english": "所吩咐你的"
+      "gloss": "所吩咐你的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:31:19.485546194Z",
-  "model": "glm-5.2"
+  ]
 }

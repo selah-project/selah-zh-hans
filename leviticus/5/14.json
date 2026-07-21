@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "leviticus 5:14",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 115,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18685,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18800
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:42:17.369688650Z",
   "translation": "雅威对摩西说，说：",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     }
-  ],
-  "timestamp": "2026-07-17T18:42:17.369688650Z",
-  "model": "glm-5.2"
+  ]
 }

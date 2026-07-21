@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 16:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54527,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54926
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:42.827352981Z",
   "translation": "当雅威使一个人的道路蒙悦纳时,他也使⟨他的⟩仇敌与他和平。",
   "tokens": [
     {
       "surface": "ברצות",
-      "english": "当……蒙悦纳时"
+      "gloss": "当……蒙悦纳时"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דרכי",
-      "english": "一个人的道路"
+      "gloss": "一个人的道路"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אויביו",
-      "english": "他的仇敌"
+      "gloss": "他的仇敌"
     },
     {
       "surface": "ישלם",
-      "english": "他使……和平"
+      "gloss": "他使……和平"
     },
     {
       "surface": "אתו",
-      "english": "与他"
+      "gloss": "与他"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:42.827352981Z",
-  "model": "glm-5.2"
+  ]
 }

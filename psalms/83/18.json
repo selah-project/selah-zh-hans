@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 83:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64342,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64654
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:53.491035115Z",
   "translation": "愿他们蒙羞，且惊惶，⟨直到⟩永远；愿他们受辱，且灭亡。",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "愿他们蒙羞"
+      "gloss": "愿他们蒙羞"
     },
     {
       "surface": "וה\/יבהלו",
-      "english": "且惊惶"
+      "gloss": "且惊惶"
     },
     {
       "surface": "עדי",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "עד",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "וה\/יחפרו",
-      "english": "愿他们受辱"
+      "gloss": "愿他们受辱"
     },
     {
       "surface": "וה\/יאבדו",
-      "english": "且灭亡"
+      "gloss": "且灭亡"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:53.491035115Z",
-  "model": "glm-5.2"
+  ]
 }

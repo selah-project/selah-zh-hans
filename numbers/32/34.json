@@ -1,63 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "numbers 32:34",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19904,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20310
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:04.266586934Z",
   "translation": "迦得之子建造了 ⟨את⟩ 底本、⟨את⟩ 亚他录，以及 ⟨את⟩ 亚罗珥。",
   "tokens": [
     {
       "surface": "ויבנו",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "בני",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "גד",
-      "english": "迦得"
+      "gloss": "迦得"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "底本"
     },
     {
       "surface": "דיבן",
-      "english": "底本"
+      "gloss": "底本"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚他录"
     },
     {
       "surface": "עטרת",
-      "english": "亚他录"
+      "gloss": "亚他录"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚罗珥"
     },
     {
       "surface": "ערער",
-      "english": "亚罗珥"
+      "gloss": "亚罗珥"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:04.266586934Z",
-  "model": "glm-5.2"
+  ]
 }

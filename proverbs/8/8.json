@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "proverbs 8:8",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54428,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54848
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:15.318864842Z",
   "translation": "我口中的言语尽都⟨在⟩公义之中,它们⟨里面⟩没有扭曲,也沒有乖僻。",
   "tokens": [
     {
       "surface": "בצדק",
-      "english": "⟨在⟩公义之中"
+      "gloss": "⟨在⟩公义之中"
     },
     {
       "surface": "כל",
-      "english": "尽都"
+      "gloss": "尽都"
     },
     {
       "surface": "אמרי",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "פי",
-      "english": "我口中⟨的⟩"
+      "gloss": "我口中⟨的⟩"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בהם",
-      "english": "它们⟨里面⟩"
+      "gloss": "它们⟨里面⟩"
     },
     {
       "surface": "נפתל",
-      "english": "扭曲"
+      "gloss": "扭曲"
     },
     {
       "surface": "ועקש",
-      "english": "也沒有乖僻"
+      "gloss": "也沒有乖僻"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:15.318864842Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "leviticus 10:10",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19024,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19390
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:05.047145487Z",
   "translation": "为要区分圣与俗，并在不洁与洁净之间⟨做出区分⟩。",
   "tokens": [
     {
       "surface": "ולהבדיל",
-      "english": "为要区分"
+      "gloss": "为要区分"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "הקדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "החל",
-      "english": "俗"
+      "gloss": "俗"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "הטמא",
-      "english": "不洁"
+      "gloss": "不洁"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "הטהור",
-      "english": "洁净"
+      "gloss": "洁净"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:05.047145487Z",
-  "model": "glm-5.2"
+  ]
 }

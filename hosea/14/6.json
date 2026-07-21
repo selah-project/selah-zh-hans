@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "hosea 14:6",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21132,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21613
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:01.786215666Z",
   "translation": "我将成为以色列的甘露；⟨他⟩必如百合花绽放，⟨他⟩必击出⟨他⟩的根如黎巴嫩。",
   "tokens": [
     {
       "surface": "אהיה",
-      "english": "我将成为"
+      "gloss": "我将成为"
     },
     {
       "surface": "כטל",
-      "english": "如甘露"
+      "gloss": "如甘露"
     },
     {
       "surface": "לישראל",
-      "english": "给以色列"
+      "gloss": "给以色列"
     },
     {
       "surface": "יפרח",
-      "english": "⟨他⟩必绽放"
+      "gloss": "⟨他⟩必绽放"
     },
     {
       "surface": "כשושנה",
-      "english": "如百合花"
+      "gloss": "如百合花"
     },
     {
       "surface": "ויך",
-      "english": "且⟨他⟩必击出"
+      "gloss": "且⟨他⟩必击出"
     },
     {
       "surface": "שרשיו",
-      "english": "⟨他⟩的根"
+      "gloss": "⟨他⟩的根"
     },
     {
       "surface": "כלבנון",
-      "english": "如黎巴嫩"
+      "gloss": "如黎巴嫩"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:01.786215666Z",
-  "model": "glm-5.2"
+  ]
 }

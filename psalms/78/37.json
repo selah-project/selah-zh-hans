@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "psalms 78:37",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64412,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64768
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:05.707228642Z",
   "translation": "他们的心与他⟨不⟩坚定，他们在他的盟约中也不可信。",
   "tokens": [
     {
       "surface": "ולבם",
-      "english": "他们的心"
+      "gloss": "他们的心"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נכון",
-      "english": "坚定"
+      "gloss": "坚定"
     },
     {
       "surface": "עמו",
-      "english": "与他"
+      "gloss": "与他"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "נאמנו",
-      "english": "可信"
+      "gloss": "可信"
     },
     {
       "surface": "בבריתו",
-      "english": "在他的盟约中"
+      "gloss": "在他的盟约中"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:05.707228642Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,75 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "jeremiah 12:7",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19691,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20307
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:13:51.333077095Z",
   "translation": "我离弃了我的家,我撇下了我的产业;我将我性命所亲爱的交在了她仇敌的手掌中。",
   "tokens": [
     {
       "surface": "עזבתי",
-      "english": "我离弃了"
+      "gloss": "我离弃了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的家"
     },
     {
       "surface": "ביתי",
-      "english": "我的家"
+      "gloss": "我的家"
     },
     {
       "surface": "נטשתי",
-      "english": "我撇下了"
+      "gloss": "我撇下了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的产业"
     },
     {
       "surface": "נחלתי",
-      "english": "我的产业"
+      "gloss": "我的产业"
     },
     {
       "surface": "נתתי",
-      "english": "我将……交了"
+      "gloss": "我将……交了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我所亲爱的"
     },
     {
       "surface": "ידדות",
-      "english": "亲爱的"
+      "gloss": "亲爱的"
     },
     {
       "surface": "נפשי",
-      "english": "我性命的"
+      "gloss": "我性命的"
     },
     {
       "surface": "בכף",
-      "english": "在……的手掌中"
+      "gloss": "在……的手掌中"
     },
     {
       "surface": "איביה",
-      "english": "她仇敌"
+      "gloss": "她仇敌"
     }
-  ],
-  "timestamp": "2026-07-17T22:13:51.333077095Z",
-  "model": "glm-5.2"
+  ]
 }

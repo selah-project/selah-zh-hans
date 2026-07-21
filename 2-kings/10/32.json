@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "2-kings 10:32",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18716,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19309
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:23:56.886415550Z",
   "translation": "在那些日子裡，雅威開始削減以色列；哈薩埃爾在以色列的一切邊界擊打他們。",
   "tokens": [
     {
       "surface": "בַּ\/יָּמִ֣ים",
-      "english": "在……日子裡"
+      "gloss": "在……日子裡"
     },
     {
       "surface": "הָ\/הֵ֔ם",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "הֵחֵ֣ל",
-      "english": "⟨他⟩開始"
+      "gloss": "⟨他⟩開始"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לְ\/קַצּ֖וֹת",
-      "english": "削減"
+      "gloss": "削減"
     },
     {
       "surface": "בְּ\/יִשְׂרָאֵ֑ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וַ\/יַּכֵּ֥\/ם",
-      "english": "他就擊打⟨他們⟩"
+      "gloss": "他就擊打⟨他們⟩"
     },
     {
       "surface": "חֲזָאֵ֖ל",
-      "english": "哈薩埃爾"
+      "gloss": "哈薩埃爾"
     },
     {
       "surface": "בְּ\/כָל",
-      "english": "在一切"
+      "gloss": "在一切"
     },
     {
       "surface": "גְּב֥וּל",
-      "english": "邊界"
+      "gloss": "邊界"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:23:56.886415550Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 25:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54521,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54853
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:57.072148924Z",
   "translation": "宁可在屋顶的角落居住,胜过⟨与⟩争辩之妻⟨和⟩宽广的房屋。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "宁可"
+      "gloss": "宁可"
     },
     {
       "surface": "שבת",
-      "english": "居住"
+      "gloss": "居住"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "פנת",
-      "english": "角落"
+      "gloss": "角落"
     },
     {
       "surface": "גג",
-      "english": "屋顶"
+      "gloss": "屋顶"
     },
     {
       "surface": "מאשת",
-      "english": "胜过⟨与⟩……之妻"
+      "gloss": "胜过⟨与⟩……之妻"
     },
     {
       "surface": "מדונים",
-      "english": "争辩"
+      "gloss": "争辩"
     },
     {
       "surface": "ובית",
-      "english": "⟨和⟩房屋"
+      "gloss": "⟨和⟩房屋"
     },
     {
       "surface": "חבר",
-      "english": "宽广的"
+      "gloss": "宽广的"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:57.072148924Z",
-  "model": "glm-5.2"
+  ]
 }

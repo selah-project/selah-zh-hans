@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 93:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 93,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64722,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65138
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:32.674562398Z",
   "translation": "河流扬起了⟨声音⟩，雅威；河流扬起了它们的响声，河流扬起了它们的碎浪。",
   "tokens": [
     {
       "surface": "נשאו",
-      "english": "扬起了"
+      "gloss": "扬起了"
     },
     {
       "surface": "נהרות",
-      "english": "河流"
+      "gloss": "河流"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נשאו",
-      "english": "扬起了"
+      "gloss": "扬起了"
     },
     {
       "surface": "נהרות",
-      "english": "河流"
+      "gloss": "河流"
     },
     {
       "surface": "קולם",
-      "english": "它们的响声"
+      "gloss": "它们的响声"
     },
     {
       "surface": "ישאו",
-      "english": "扬起了"
+      "gloss": "扬起了"
     },
     {
       "surface": "נהרות",
-      "english": "河流"
+      "gloss": "河流"
     },
     {
       "surface": "דכים",
-      "english": "碎浪"
+      "gloss": "碎浪"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:32.674562398Z",
-  "model": "glm-5.2"
+  ]
 }

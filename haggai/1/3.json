@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "haggai 1:3",
   "book": "haggai",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20558,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20832
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:31:37.210550388Z",
   "translation": "于是雅威的*话*借哈该先知的手临到,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "于是……临到"
+      "gloss": "于是……临到"
     },
     {
       "surface": "דבר",
-      "english": "*davar* \/ 话"
+      "gloss": "*davar* \/ 话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ביד",
-      "english": "借……的手"
+      "gloss": "借……的手"
     },
     {
       "surface": "חגי",
-      "english": "哈该"
+      "gloss": "哈该"
     },
     {
       "surface": "הנביא",
-      "english": "先知"
+      "gloss": "先知"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T23:31:37.210550388Z",
-  "model": "glm-5.2"
+  ]
 }

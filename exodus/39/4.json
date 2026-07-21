@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "exodus 39:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 304,
-    "prompt_tokens": 18525,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 18829
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:48.980981270Z",
   "translation": "他们为它制作了肩带,⟨它是⟩相连的;在其两端,它被连接在一起。",
   "tokens": [
     {
       "surface": "כתפת",
-      "english": "肩带"
+      "gloss": "肩带"
     },
     {
       "surface": "עשו",
-      "english": "他们制作了"
+      "gloss": "他们制作了"
     },
     {
       "surface": "לו",
-      "english": "为它"
+      "gloss": "为它"
     },
     {
       "surface": "חברת",
-      "english": "⟨它是⟩相连的"
+      "gloss": "⟨它是⟩相连的"
     },
     {
       "surface": "על",
-      "english": "在其"
+      "gloss": "在其"
     },
     {
       "surface": "שני",
-      "english": "两端"
+      "gloss": "两端"
     },
     {
       "surface": "קצוותו",
-      "english": "两端"
+      "gloss": "两端"
     },
     {
       "surface": "חבר",
-      "english": "被连接在一起"
+      "gloss": "被连接在一起"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:48.980981270Z",
-  "model": "glm-4.5"
+  ]
 }

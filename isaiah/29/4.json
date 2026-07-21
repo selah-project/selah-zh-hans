@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 29:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21294,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21957
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:29.965675319Z",
   "translation": "你必从地中被降卑，你说话，你的话语必从尘土中发出低语；你的声音必如地中的幽灵，你的话语必从尘土中发出哀鸣。",
   "tokens": [
     {
       "surface": "ושפלת",
-      "english": "你必被降卑"
+      "gloss": "你必被降卑"
     },
     {
       "surface": "מארץ",
-      "english": "从地中"
+      "gloss": "从地中"
     },
     {
       "surface": "תדברי",
-      "english": "你说话"
+      "gloss": "你说话"
     },
     {
       "surface": "ומעפר",
-      "english": "从尘土中"
+      "gloss": "从尘土中"
     },
     {
       "surface": "תשח",
-      "english": "⟨你的话语⟩必……发出低语"
+      "gloss": "⟨你的话语⟩必……发出低语"
     },
     {
       "surface": "אמרתך",
-      "english": "你的话语"
+      "gloss": "你的话语"
     },
     {
       "surface": "והיה",
-      "english": "必"
+      "gloss": "必"
     },
     {
       "surface": "כאוב",
-      "english": "如幽灵"
+      "gloss": "如幽灵"
     },
     {
       "surface": "מארץ",
-      "english": "地中的"
+      "gloss": "地中的"
     },
     {
       "surface": "קולך",
-      "english": "你的声音"
+      "gloss": "你的声音"
     },
     {
       "surface": "ומעפר",
-      "english": "从尘土中"
+      "gloss": "从尘土中"
     },
     {
       "surface": "אמרתך",
-      "english": "你的话语"
+      "gloss": "你的话语"
     },
     {
       "surface": "תצפצף",
-      "english": "必发出哀鸣"
+      "gloss": "必发出哀鸣"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:29.965675319Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 102:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:07.001402816Z",
   "translation": "我如同旷野的鹈鹕，⟨我⟩变⟨得⟩像废墟中的鸱鸮。",
   "tokens": [
     {
       "surface": "דמיתי",
-      "english": "我如同"
+      "gloss": "我如同"
     },
     {
       "surface": "לקאת",
-      "english": "鹈鹕"
+      "gloss": "鹈鹕"
     },
     {
       "surface": "מדבר",
-      "english": "旷野的"
+      "gloss": "旷野的"
     },
     {
       "surface": "הייתי",
-      "english": "⟨我⟩变⟨得⟩"
+      "gloss": "⟨我⟩变⟨得⟩"
     },
     {
       "surface": "ככוס",
-      "english": "像……的鸱鸮"
+      "gloss": "像……的鸱鸮"
     },
     {
       "surface": "חרבות",
-      "english": "废墟"
+      "gloss": "废墟"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:07.001402816Z",
-  "model": "glm-5.2"
+  ]
 }

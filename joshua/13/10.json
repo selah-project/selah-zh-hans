@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "joshua 13:10",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 716,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18332,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19048
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:28.919642582Z",
   "translation": "以及 西宏的所有城邑——⟨他⟩是 אֱמֹרִי（亚摩利人）的王，曾作王 希实本，直 亚扪的 בְּנֵי（子孙）之边界；",
   "tokens": [
     {
       "surface": "וְ\/כֹ֗ל",
-      "english": "以及……的所有"
+      "gloss": "以及……的所有"
     },
     {
       "surface": "עָרֵי֙",
-      "english": "城邑"
+      "gloss": "城邑"
     },
     {
       "surface": "סִיחוֹן֙",
-      "english": "西宏"
+      "gloss": "西宏"
     },
     {
       "surface": "מֶ֣לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הָ\/אֱמֹרִ֔י",
-      "english": "אֱמֹרִי（亚摩利人）的"
+      "gloss": "אֱמֹרִי（亚摩利人）的"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "מָלַ֖ךְ",
-      "english": "曾作王"
+      "gloss": "曾作王"
     },
     {
       "surface": "בְּ\/חֶשְׁבּ֑וֹן",
-      "english": "希实本"
+      "gloss": "希实本"
     },
     {
       "surface": "עַד",
-      "english": "直……"
+      "gloss": "直……"
     },
     {
       "surface": "גְּב֖וּל",
-      "english": "边界"
+      "gloss": "边界"
     },
     {
       "surface": "בְּנֵ֥י",
-      "english": "בְּנֵי（子孙）"
+      "gloss": "בְּנֵי（子孙）"
     },
     {
       "surface": "עַמּֽוֹן",
-      "english": "亚扪"
+      "gloss": "亚扪"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:28.919642582Z",
-  "model": "glm-5.2"
+  ]
 }

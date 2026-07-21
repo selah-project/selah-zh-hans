@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 11:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54495,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54960
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:55.683894Z",
   "translation": "恶人死亡时，⟨他的⟩指望归于灭亡；强暴之徒的盼望也一同消逝。",
   "tokens": [
     {
       "surface": "במות",
-      "english": "在……死亡时"
+      "gloss": "在……死亡时"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "רשע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "תאבד",
-      "english": "归于灭亡"
+      "gloss": "归于灭亡"
     },
     {
       "surface": "תקוה",
-      "english": "指望"
+      "gloss": "指望"
     },
     {
       "surface": "ותוחלת",
-      "english": "而盼望"
+      "gloss": "而盼望"
     },
     {
       "surface": "אונים",
-      "english": "强暴之徒的"
+      "gloss": "强暴之徒的"
     },
     {
       "surface": "אבדה",
-      "english": "消逝了"
+      "gloss": "消逝了"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:55.683894Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "isaiah 33:17",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20582,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20994
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:20.648707487Z",
   "translation": "王在他的华美中 —— 你的眼睛要注视；⟨它们⟩要看见遥远之地。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ביפיו",
-      "english": "在他的华美中"
+      "gloss": "在他的华美中"
     },
     {
       "surface": "תחזינה",
-      "english": "要注视"
+      "gloss": "要注视"
     },
     {
       "surface": "עיניך",
-      "english": "你的眼睛"
+      "gloss": "你的眼睛"
     },
     {
       "surface": "תראינה",
-      "english": "⟨它们⟩要看见"
+      "gloss": "⟨它们⟩要看见"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "מרחקים",
-      "english": "遥远的"
+      "gloss": "遥远的"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:20.648707487Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-samuel 8:17",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17806,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18178
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:25:08.907082831Z",
   "translation": "他必从你们的羊群取十分之一,而⟨你们⟩⟨将⟩成为他的奴仆。",
   "tokens": [
     {
       "surface": "צאנכם",
-      "english": "你们的羊群"
+      "gloss": "你们的羊群"
     },
     {
       "surface": "יעשר",
-      "english": "他必取十分之一"
+      "gloss": "他必取十分之一"
     },
     {
       "surface": "ואתם",
-      "english": "而⟨你们⟩"
+      "gloss": "而⟨你们⟩"
     },
     {
       "surface": "תהיו",
-      "english": "⟨将⟩成为"
+      "gloss": "⟨将⟩成为"
     },
     {
       "surface": "לו",
-      "english": "他的"
+      "gloss": "他的"
     },
     {
       "surface": "לעבדים",
-      "english": "奴仆"
+      "gloss": "奴仆"
     }
-  ],
-  "timestamp": "2026-07-17T20:25:08.907082831Z",
-  "model": "glm-5.2"
+  ]
 }

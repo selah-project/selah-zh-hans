@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 49:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 693,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21354,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22047
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:58:20.175570127Z",
   "translation": "他们不饥饿，也不口渴，炽热与太阳也不⟨会⟩击打他们；因为那怜悯他们的⟨那一位⟩必引导他们，在水之泉源旁他必领他们。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ירעבו",
-      "english": "他们饥饿"
+      "gloss": "他们饥饿"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יצמאו",
-      "english": "他们口渴"
+      "gloss": "他们口渴"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יכם",
-      "english": "⟨会⟩击打他们"
+      "gloss": "⟨会⟩击打他们"
     },
     {
       "surface": "שרב",
-      "english": "炽热"
+      "gloss": "炽热"
     },
     {
       "surface": "ושמש",
-      "english": "与太阳"
+      "gloss": "与太阳"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מרחמם",
-      "english": "那怜悯他们的⟨那一位⟩"
+      "gloss": "那怜悯他们的⟨那一位⟩"
     },
     {
       "surface": "ינהגם",
-      "english": "必引导他们"
+      "gloss": "必引导他们"
     },
     {
       "surface": "ועל",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "מבועי",
-      "english": "泉源"
+      "gloss": "泉源"
     },
     {
       "surface": "מים",
-      "english": "水之"
+      "gloss": "水之"
     },
     {
       "surface": "ינהלם",
-      "english": "他必领他们"
+      "gloss": "他必领他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:58:20.175570127Z",
-  "model": "glm-5.2"
+  ]
 }

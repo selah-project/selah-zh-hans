@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 39:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21529,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21915
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:32.970370977Z",
   "translation": "她们屈身,她们的孩子⟨降生⟩,她们撕开⟨产痛⟩,⟨将其⟩送出。",
   "tokens": [
     {
       "surface": "תכרענה",
-      "english": "她们屈身"
+      "gloss": "她们屈身"
     },
     {
       "surface": "ילדיהן",
-      "english": "她们的孩子"
+      "gloss": "她们的孩子"
     },
     {
       "surface": "תפלחנה",
-      "english": "⟨降生⟩"
+      "gloss": "⟨降生⟩"
     },
     {
       "surface": "חבליהם",
-      "english": "⟨产痛⟩"
+      "gloss": "⟨产痛⟩"
     },
     {
       "surface": "תשלחנה",
-      "english": "送出"
+      "gloss": "送出"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:32.970370977Z",
-  "model": "glm-5.2"
+  ]
 }

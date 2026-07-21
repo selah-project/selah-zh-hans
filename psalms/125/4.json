@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 125:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64602
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:52.118044772Z",
   "translation": "雅威啊,求你向善人行善,向心里正直的人⟨也⟩如此。",
   "tokens": [
     {
       "surface": "היטיבה",
-      "english": "求你行善"
+      "gloss": "求你行善"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "לטובים",
-      "english": "向善人"
+      "gloss": "向善人"
     },
     {
       "surface": "ולישרים",
-      "english": "向心里正直的人"
+      "gloss": "向心里正直的人"
     },
     {
       "surface": "בלבותם",
-      "english": "在他们的心里"
+      "gloss": "在他们的心里"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:52.118044772Z",
-  "model": "glm-5.2"
+  ]
 }

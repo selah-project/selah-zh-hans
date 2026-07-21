@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 134,
   "ref": "psalms 119:134",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64241,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64551
-  },
+  "verse": 134,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:16.355694653Z",
   "translation": "赎我脱离人的欺压，我就谨守你的训谕。",
   "tokens": [
     {
       "surface": "פְּדֵנִי",
-      "english": "赎我"
+      "gloss": "赎我"
     },
     {
       "surface": "מֵעֹשֶׁק",
-      "english": "脱离……的欺压"
+      "gloss": "脱离……的欺压"
     },
     {
       "surface": "אָדָם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "וְאֶשְׁמְרָה",
-      "english": "我就谨守"
+      "gloss": "我就谨守"
     },
     {
       "surface": "פִּקּוּדֶיךָ",
-      "english": "你的训谕"
+      "gloss": "你的训谕"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:16.355694653Z",
-  "model": "glm-5.2"
+  ]
 }

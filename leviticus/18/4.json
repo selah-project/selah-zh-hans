@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 18:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19519,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19997
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:52:42.749164689Z",
   "translation": "⟨את⟩ 我的 mishpat 你们要行，⟨את⟩ 我的 chuqot 你们要守，为要在其中行走；我是雅威你们的以罗欣。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的 mishpat"
     },
     {
       "surface": "משפטי",
-      "english": "我的 mishpat"
+      "gloss": "我的 mishpat"
     },
     {
       "surface": "תעשו",
-      "english": "你们要行"
+      "gloss": "你们要行"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的 chuqot"
     },
     {
       "surface": "חקתי",
-      "english": "我的 chuqot"
+      "gloss": "我的 chuqot"
     },
     {
       "surface": "תשמרו",
-      "english": "你们要守"
+      "gloss": "你们要守"
     },
     {
       "surface": "ללכת",
-      "english": "为要行走"
+      "gloss": "为要行走"
     },
     {
       "surface": "בהם",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T18:52:42.749164689Z",
-  "model": "glm-5.2"
+  ]
 }

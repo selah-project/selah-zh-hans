@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 16:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58627,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59006
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:03:39.266885745Z",
   "translation": "要记念他所行的奇事，⟨他的⟩神迹，和他口中的典章，",
   "tokens": [
     {
       "surface": "זכרו",
-      "english": "要记念"
+      "gloss": "要记念"
     },
     {
       "surface": "נפלאתיו",
-      "english": "他所行的奇事"
+      "gloss": "他所行的奇事"
     },
     {
       "surface": "אשר",
-      "english": "⟨他所行的⟩"
+      "gloss": "⟨他所行的⟩"
     },
     {
       "surface": "עשה",
-      "english": "⟨行了⟩"
+      "gloss": "⟨行了⟩"
     },
     {
       "surface": "מפתיו",
-      "english": "⟨他的⟩神迹"
+      "gloss": "⟨他的⟩神迹"
     },
     {
       "surface": "ומשפטי",
-      "english": "和他口中的典章"
+      "gloss": "和他口中的典章"
     },
     {
       "surface": "פיהו",
-      "english": "⟨他的⟩口中"
+      "gloss": "⟨他的⟩口中"
     }
-  ],
-  "timestamp": "2026-07-18T02:03:39.266885745Z",
-  "model": "glm-5.2"
+  ]
 }

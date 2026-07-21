@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 4:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21605,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21996
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:29.039110791Z",
   "translation": "狮子的吼叫和壮狮的声音，⟨与⟩少壮狮的牙齿都被拔出。",
   "tokens": [
     {
       "surface": "שאגת",
-      "english": "狮子的吼叫"
+      "gloss": "狮子的吼叫"
     },
     {
       "surface": "אריה",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "וקול",
-      "english": "和……的声音"
+      "gloss": "和……的声音"
     },
     {
       "surface": "שחל",
-      "english": "壮狮"
+      "gloss": "壮狮"
     },
     {
       "surface": "ושני",
-      "english": "⟨与⟩……的牙齿"
+      "gloss": "⟨与⟩……的牙齿"
     },
     {
       "surface": "כפירים",
-      "english": "少壮狮"
+      "gloss": "少壮狮"
     },
     {
       "surface": "נתעו",
-      "english": "被拔出"
+      "gloss": "被拔出"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:29.039110791Z",
-  "model": "glm-5.2"
+  ]
 }

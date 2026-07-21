@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 9:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19121,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19722
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:15:28.170083885Z",
   "translation": "雅威将在以色列的牲畜与埃及的牲畜之间作出区分；凡属以色列人的一切，一个 ⟨davar⟩ 也不死。”",
   "tokens": [
     {
       "surface": "והפלה",
-      "english": "⟨将⟩作出区分"
+      "gloss": "⟨将⟩作出区分"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "מקנה",
-      "english": "以色列的牲畜"
+      "gloss": "以色列的牲畜"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "מקנה",
-      "english": "埃及的牲畜"
+      "gloss": "埃及的牲畜"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "ולא",
-      "english": "⟨也⟩不"
+      "gloss": "⟨也⟩不"
     },
     {
       "surface": "ימות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "מכל",
-      "english": "凡属……的一切"
+      "gloss": "凡属……的一切"
     },
     {
       "surface": "לבני",
-      "english": "以色列人"
+      "gloss": "以色列人"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "דבר",
-      "english": "⟨davar⟩（一物\/一事）"
+      "gloss": "⟨davar⟩（一物\/一事）"
     }
-  ],
-  "timestamp": "2026-07-17T18:15:28.170083885Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 37:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 245,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22883,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23128
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:58:29.386804890Z",
   "translation": "他的兄弟们去牧放他们父亲的羊群 ⟨את⟩ 羊群，在示剑。",
   "tokens": [
     {
       "surface": "וילכו",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟们"
+      "gloss": "他的兄弟们"
     },
     {
       "surface": "לרעות",
-      "english": "牧放"
+      "gloss": "牧放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "אביהם",
-      "english": "他们父亲的"
+      "gloss": "他们父亲的"
     },
     {
       "surface": "בשכם",
-      "english": "在示剑"
+      "gloss": "在示剑"
     }
-  ],
-  "timestamp": "2026-07-17T17:58:29.386804890Z",
-  "model": "glm-5.2"
+  ]
 }

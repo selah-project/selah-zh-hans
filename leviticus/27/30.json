@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "leviticus 27:30",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19237,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19651
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:32.087182551Z",
   "translation": "凡地上的十分之一,无论是地上的种子,是树上的果实,⟨都⟩属雅威;⟨它⟩是归雅威的圣物。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "מעשר",
-      "english": "十分之一"
+      "gloss": "十分之一"
     },
     {
       "surface": "הארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "מזרע",
-      "english": "从……种子"
+      "gloss": "从……种子"
     },
     {
       "surface": "הארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "מפרי",
-      "english": "从……果实"
+      "gloss": "从……果实"
     },
     {
       "surface": "העץ",
-      "english": "树上的"
+      "gloss": "树上的"
     },
     {
       "surface": "ליהוה",
-      "english": "属雅威"
+      "gloss": "属雅威"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "קדש",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "ליהוה",
-      "english": "归雅威的"
+      "gloss": "归雅威的"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:32.087182551Z",
-  "model": "glm-5.2"
+  ]
 }

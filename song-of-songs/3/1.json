@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "song-of-songs 3:1",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22391,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22926
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:18.963212483Z",
   "translation": "夜里在⟨我的⟩床上，我的נפשי寻求⟨את⟩我所爱的；我寻找他，却未找到他。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "משכבי",
-      "english": "⟨我的⟩床上"
+      "gloss": "⟨我的⟩床上"
     },
     {
       "surface": "בלילות",
-      "english": "夜里"
+      "gloss": "夜里"
     },
     {
       "surface": "בקשתי",
-      "english": "我寻求"
+      "gloss": "我寻求"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我所爱的"
     },
     {
       "surface": "שאהבה",
-      "english": "我所爱的"
+      "gloss": "我所爱的"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפשי"
+      "gloss": "我的נפשי"
     },
     {
       "surface": "בקשתיו",
-      "english": "我寻找他"
+      "gloss": "我寻找他"
     },
     {
       "surface": "ולא",
-      "english": "却未"
+      "gloss": "却未"
     },
     {
       "surface": "מצאתיו",
-      "english": "找到他"
+      "gloss": "找到他"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:18.963212483Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 86:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 477,
-    "prompt_tokens": 64623,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65100
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:17.973696139Z",
   "translation": "因为 你, 雅威, 是 善良 的 和 宽恕 的, 且 拥有 极大的 *chesed* 给 所有 呼求 ⟨你⟩ 的 ⟨人⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אדני",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "טוב",
-      "english": "是 善良 的"
+      "gloss": "是 善良 的"
     },
     {
       "surface": "וסלח",
-      "english": "和 宽恕 的"
+      "gloss": "和 宽恕 的"
     },
     {
       "surface": "ורב",
-      "english": "且 拥有 极大的"
+      "gloss": "且 拥有 极大的"
     },
     {
       "surface": "חסד",
-      "english": "*chesed*"
+      "gloss": "*chesed*"
     },
     {
       "surface": "לכל",
-      "english": "给 所有"
+      "gloss": "给 所有"
     },
     {
       "surface": "קראיך",
-      "english": "呼求 ⟨你⟩ 的 ⟨人⟩"
+      "gloss": "呼求 ⟨你⟩ 的 ⟨人⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:17.973696139Z",
-  "model": "glm-4.5"
+  ]
 }

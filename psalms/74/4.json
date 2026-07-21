@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 74:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64501,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 64873
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:59.641814653Z",
   "translation": "你的压迫者们在你的会幕之中吼叫；他们设立了他们的记号⟨作为⟩征兆。",
   "tokens": [
     {
       "surface": "שאגו",
-      "english": "吼叫了"
+      "gloss": "吼叫了"
     },
     {
       "surface": "צרריך",
-      "english": "你的压迫者们"
+      "gloss": "你的压迫者们"
     },
     {
       "surface": "בקרב",
-      "english": "在……之中"
+      "gloss": "在……之中"
     },
     {
       "surface": "מועדך",
-      "english": "你的会幕"
+      "gloss": "你的会幕"
     },
     {
       "surface": "שמו",
-      "english": "他们设立了"
+      "gloss": "他们设立了"
     },
     {
       "surface": "אותתם",
-      "english": "他们的记号"
+      "gloss": "他们的记号"
     },
     {
       "surface": "אותות",
-      "english": "征兆"
+      "gloss": "征兆"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:59.641814653Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "song-of-songs 2:16",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21790,
-    "prompt_tokens_details": {
-      "cached_tokens": 20480
-    },
-    "total_tokens": 22142
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:51.527530427Z",
   "translation": "我的良人属于我,我也属于他;⟨他⟩在百合花中牧放。",
   "tokens": [
     {
       "surface": "דודי",
-      "english": "我的良人"
+      "gloss": "我的良人"
     },
     {
       "surface": "לי",
-      "english": "属于我"
+      "gloss": "属于我"
     },
     {
       "surface": "ואני",
-      "english": "而我也"
+      "gloss": "而我也"
     },
     {
       "surface": "לו",
-      "english": "属于他"
+      "gloss": "属于他"
     },
     {
       "surface": "הרעה",
-      "english": "⟨他⟩牧放"
+      "gloss": "⟨他⟩牧放"
     },
     {
       "surface": "בשושנים",
-      "english": "在百合花中"
+      "gloss": "在百合花中"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:51.527530427Z",
-  "model": "glm-5.2"
+  ]
 }

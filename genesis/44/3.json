@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 44:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22748,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23094
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:04:18.561482344Z",
   "translation": "早晨 ⟨发光了⟩,那些人被送走了,他们和他们的驴。",
   "tokens": [
     {
       "surface": "הַ\/בֹּזֶר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "אוֹר",
-      "english": "⟨发光了⟩"
+      "gloss": "⟨发光了⟩"
     },
     {
       "surface": "וְ\/הָ\/אֲנָשִׁים",
-      "english": "那些人"
+      "gloss": "那些人"
     },
     {
       "surface": "שֻׁלְחוּ",
-      "english": "被送走了"
+      "gloss": "被送走了"
     },
     {
       "surface": "הֵמָּה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "וַ\/חֲמֹרֵי\/הֶם",
-      "english": "和他们的驴"
+      "gloss": "和他们的驴"
     }
-  ],
-  "timestamp": "2026-07-17T18:04:18.561482344Z",
-  "model": "glm-5.2"
+  ]
 }

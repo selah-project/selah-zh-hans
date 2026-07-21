@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "leviticus 16:28",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19702,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20214
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:51:25.318858944Z",
   "translation": "那焚烧它们的人要洗⟨他的⟩衣服,并在水中洗⟨את⟩⟨他的⟩肉身;此事之后,他可以进⟨入⟩⟨那⟩营。",
   "tokens": [
     {
       "surface": "והשרף",
-      "english": "那焚烧"
+      "gloss": "那焚烧"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们"
     },
     {
       "surface": "יכבס",
-      "english": "要洗"
+      "gloss": "要洗"
     },
     {
       "surface": "בגדיו",
-      "english": "⟨他的⟩衣服"
+      "gloss": "⟨他的⟩衣服"
     },
     {
       "surface": "ורחץ",
-      "english": "并洗"
+      "gloss": "并洗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨他的⟩肉身"
     },
     {
       "surface": "בשרו",
-      "english": "⟨他的⟩肉身"
+      "gloss": "⟨他的⟩肉身"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "ואחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "כן",
-      "english": "此事"
+      "gloss": "此事"
     },
     {
       "surface": "יבוא",
-      "english": "他可以进"
+      "gloss": "他可以进"
     },
     {
       "surface": "אל",
-      "english": "⟨入⟩"
+      "gloss": "⟨入⟩"
     },
     {
       "surface": "המחנה",
-      "english": "⟨那⟩营"
+      "gloss": "⟨那⟩营"
     }
-  ],
-  "timestamp": "2026-07-17T18:51:25.318858944Z",
-  "model": "glm-5.2"
+  ]
 }

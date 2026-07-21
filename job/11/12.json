@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 11:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21577,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22097
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:46.569144691Z",
   "translation": "而⟨一个⟩空洞之人将被赋予⟨心⟩,⟨尽管⟩野驴驹⟨以⟩人⟨的身份⟩⟨被⟩生⟨出⟩。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "而⟨一个⟩人"
+      "gloss": "而⟨一个⟩人"
     },
     {
       "surface": "נבוב",
-      "english": "空洞的"
+      "gloss": "空洞的"
     },
     {
       "surface": "ילבב",
-      "english": "将被赋予⟨心⟩"
+      "gloss": "将被赋予⟨心⟩"
     },
     {
       "surface": "ועיר",
-      "english": "⟨尽管⟩驹"
+      "gloss": "⟨尽管⟩驹"
     },
     {
       "surface": "פרא",
-      "english": "野驴"
+      "gloss": "野驴"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "יולד",
-      "english": "⟨被⟩生⟨出⟩"
+      "gloss": "⟨被⟩生⟨出⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:46.569144691Z",
-  "model": "glm-5.2"
+  ]
 }

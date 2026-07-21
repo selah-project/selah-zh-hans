@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "leviticus 8:32",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 242,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18776,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19018
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:31.582829472Z",
   "translation": "剩余的肉和饼,⟨你们⟩要用火焚烧。",
   "tokens": [
     {
       "surface": "והנותר",
-      "english": "剩余的"
+      "gloss": "剩余的"
     },
     {
       "surface": "בבשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "ובלחם",
-      "english": "和饼"
+      "gloss": "和饼"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     },
     {
       "surface": "תשרפו",
-      "english": "⟨你们⟩要焚烧"
+      "gloss": "⟨你们⟩要焚烧"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:31.582829472Z",
-  "model": "glm-5.2"
+  ]
 }

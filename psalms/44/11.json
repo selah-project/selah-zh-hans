@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 44:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64436,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64789
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:19.816715630Z",
   "translation": "你使我们转退离开敌人，恨恶我们的人随意抢掠。",
   "tokens": [
     {
       "surface": "תשיבנו",
-      "english": "你使我们转退"
+      "gloss": "你使我们转退"
     },
     {
       "surface": "אחור",
-      "english": "向后"
+      "gloss": "向后"
     },
     {
       "surface": "מני",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "צר",
-      "english": "敌人"
+      "gloss": "敌人"
     },
     {
       "surface": "ומשנאינו",
-      "english": "而恨恶我们的人"
+      "gloss": "而恨恶我们的人"
     },
     {
       "surface": "שסו",
-      "english": "抢掠了"
+      "gloss": "抢掠了"
     },
     {
       "surface": "למו",
-      "english": "随他们的意"
+      "gloss": "随他们的意"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:19.816715630Z",
-  "model": "glm-5.2"
+  ]
 }

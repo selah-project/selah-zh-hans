@@ -1,94 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 4:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23876,
-    "prompt_tokens_details": {
-      "cached_tokens": 19008
-    },
-    "total_tokens": 24478
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:39:27.052991717Z",
   "translation": "该隐认识⟨את⟩他的妻子，她就怀孕，生下⟨את⟩哈诺克。他建造一座城，就按他儿子哈诺克的名字称呼那城的名字。",
   "tokens": [
     {
       "surface": "וידע",
-      "english": "认识"
+      "gloss": "认识"
     },
     {
       "surface": "קין",
-      "english": "该隐"
+      "gloss": "该隐"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的妻子"
     },
     {
       "surface": "אשתו",
-      "english": "他的妻子"
+      "gloss": "他的妻子"
     },
     {
       "surface": "ותהר",
-      "english": "她就怀孕"
+      "gloss": "她就怀孕"
     },
     {
       "surface": "ותלד",
-      "english": "她就生下"
+      "gloss": "她就生下"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈诺克"
     },
     {
       "surface": "חנוך",
-      "english": "哈诺克"
+      "gloss": "哈诺克"
     },
     {
       "surface": "ויהי",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בנה",
-      "english": "建造"
+      "gloss": "建造"
     },
     {
       "surface": "עיר",
-      "english": "一座城"
+      "gloss": "一座城"
     },
     {
       "surface": "ויקרא",
-      "english": "他就称呼"
+      "gloss": "他就称呼"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "העיר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "כשם",
-      "english": "按……的名字"
+      "gloss": "按……的名字"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "חנוך",
-      "english": "哈诺克"
+      "gloss": "哈诺克"
     }
-  ],
-  "timestamp": "2026-07-18T02:39:27.052991717Z",
-  "model": "glm-5.2"
+  ]
 }

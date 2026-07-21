@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 143:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65131,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65691
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:26.264885634Z",
   "translation": "求你快快回答我，雅威！我的鲁阿已经耗尽；不要向我把你的脸隐藏起来，免得我与下坑的人同列。",
   "tokens": [
     {
       "surface": "מהר",
-      "english": "求你快快"
+      "gloss": "求你快快"
     },
     {
       "surface": "ענני",
-      "english": "回答我"
+      "gloss": "回答我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כלתה",
-      "english": "已经耗尽"
+      "gloss": "已经耗尽"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תסתר",
-      "english": "你隐藏"
+      "gloss": "你隐藏"
     },
     {
       "surface": "פניך",
-      "english": "你的脸"
+      "gloss": "你的脸"
     },
     {
       "surface": "ממני",
-      "english": "从我"
+      "gloss": "从我"
     },
     {
       "surface": "ונמשלתי",
-      "english": "免得我与……同列"
+      "gloss": "免得我与……同列"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "ירדי",
-      "english": "下……的人"
+      "gloss": "下……的人"
     },
     {
       "surface": "בור",
-      "english": "坑"
+      "gloss": "坑"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:26.264885634Z",
-  "model": "glm-5.2"
+  ]
 }

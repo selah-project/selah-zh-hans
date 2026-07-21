@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 10:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19872,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20334
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:58.514240627Z",
   "translation": "哥辖人起行，抬圣所的⟨人⟩⟨起行⟩；他们竖立会幕 ⟨את⟩，直到他们来到⟨为止⟩。",
   "tokens": [
     {
       "surface": "ונסעו",
-      "english": "起行"
+      "gloss": "起行"
     },
     {
       "surface": "הקהתים",
-      "english": "哥辖人"
+      "gloss": "哥辖人"
     },
     {
       "surface": "נשאי",
-      "english": "抬……的⟨人⟩"
+      "gloss": "抬……的⟨人⟩"
     },
     {
       "surface": "המקדש",
-      "english": "圣所"
+      "gloss": "圣所"
     },
     {
       "surface": "והקימו",
-      "english": "他们竖立"
+      "gloss": "他们竖立"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "המשכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "עד",
-      "english": "直到……为止"
+      "gloss": "直到……为止"
     },
     {
       "surface": "באם",
-      "english": "他们来到"
+      "gloss": "他们来到"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:58.514240627Z",
-  "model": "glm-5.2"
+  ]
 }

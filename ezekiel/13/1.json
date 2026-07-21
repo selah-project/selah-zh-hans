@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 13:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 222,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18530,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18752
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:46:16.846844984Z",
   "translation": "雅威的*davar*临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨临到⟩"
+      "gloss": "⟨临到⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:46:16.846844984Z",
-  "model": "glm-5.2"
+  ]
 }

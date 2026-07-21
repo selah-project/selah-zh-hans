@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 139:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64329,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64731
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:14.927174591Z",
   "translation": "我往哪里去躲避你的鲁阿？我往哪里逃离你的面？",
   "tokens": [
     {
       "surface": "אנה",
-      "english": "我往哪里"
+      "gloss": "我往哪里"
     },
     {
       "surface": "אלך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "מרוחך",
-      "english": "躲避你的鲁阿"
+      "gloss": "躲避你的鲁阿"
     },
     {
       "surface": "ואנה",
-      "english": "我往哪里"
+      "gloss": "我往哪里"
     },
     {
       "surface": "מפניך",
-      "english": "逃离你的面"
+      "gloss": "逃离你的面"
     },
     {
       "surface": "אברח",
-      "english": "逃离"
+      "gloss": "逃离"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:14.927174591Z",
-  "model": "glm-5.2"
+  ]
 }

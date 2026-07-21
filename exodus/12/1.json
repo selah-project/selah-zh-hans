@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "exodus 12:1",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18413,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18747
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:14.417490161Z",
   "translation": "雅威对摩西和⟨对⟩亚伦说话,在埃及地,说:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对……说话"
+      "gloss": "对……说话"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואל",
-      "english": "和⟨对⟩"
+      "gloss": "和⟨对⟩"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:14.417490161Z",
-  "model": "glm-5.2"
+  ]
 }

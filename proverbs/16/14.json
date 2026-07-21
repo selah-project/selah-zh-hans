@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "proverbs 16:14",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54429,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54854
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:49.147379679Z",
   "translation": "王的烈怒是死亡之使者,而智慧人必⟨将其⟩平息。",
   "tokens": [
     {
       "surface": "חמת",
-      "english": "烈怒"
+      "gloss": "烈怒"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מלאכי",
-      "english": "……的使者"
+      "gloss": "……的使者"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "ואיש",
-      "english": "而……的人"
+      "gloss": "而……的人"
     },
     {
       "surface": "חכם",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "יכפרנה",
-      "english": "必平息"
+      "gloss": "必平息"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:49.147379679Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,54 +1,46 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "daniel 3:4",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 444,
-    "prompt_tokens": 18873,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 19317
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:07.573547200Z",
   "translation": "有传令官大声宣告:众民啊、邦国啊、语言啊,这是对你们发出的命令 ⟨כון⟩:",
   "tokens": [
     {
       "surface": "וכרוזא",
-      "english": "有传令官"
+      "gloss": "有传令官"
     },
     {
       "surface": "קרא",
-      "english": "大声宣告"
+      "gloss": "大声宣告"
     },
     {
       "surface": "בחיל",
-      "english": "用力量"
+      "gloss": "用力量"
     },
     {
       "surface": "לכון",
-      "english": "כון",
+      "gloss": "כון",
       "marks": "听吧 \/ 听着"
     },
     {
       "surface": "אמרין",
-      "english": "这是 ⟨命令⟩"
+      "gloss": "这是 ⟨命令⟩"
     },
     {
       "surface": "עממיא",
-      "english": "众民啊"
+      "gloss": "众民啊"
     },
     {
       "surface": "אמיא",
-      "english": "邦国啊"
+      "gloss": "邦国啊"
     },
     {
       "surface": "ולשניא",
-      "english": "语言啊"
+      "gloss": "语言啊"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:07.573547200Z",
-  "model": "glm-4.5"
+  ]
 }

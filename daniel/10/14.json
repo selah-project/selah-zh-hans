@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "daniel 10:14",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 623,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19208,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19831
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:35:03.804670341Z",
   "translation": "我来使你明白⟨את⟩⟨那将要发生的事⟩——这必在末后的日子临到你百姓；因为这*异象*还关系到许多日子。”",
   "tokens": [
     {
       "surface": "ובאתי",
-      "english": "我来"
+      "gloss": "我来"
     },
     {
       "surface": "להבינך",
-      "english": "使你明白"
+      "gloss": "使你明白"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אשר (那将要发生的事)"
     },
     {
       "surface": "אשר",
-      "english": "那……的事"
+      "gloss": "那……的事"
     },
     {
       "surface": "יקרה",
-      "english": "将要发生 \/ 临到"
+      "gloss": "将要发生 \/ 临到"
     },
     {
       "surface": "לעמך",
-      "english": "你百姓"
+      "gloss": "你百姓"
     },
     {
       "surface": "באחרית",
-      "english": "在末后的"
+      "gloss": "在末后的"
     },
     {
       "surface": "הימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עוד",
-      "english": "还"
+      "gloss": "还"
     },
     {
       "surface": "חזון",
-      "english": "*异象*"
+      "gloss": "*异象*"
     },
     {
       "surface": "לימים",
-      "english": "关系到许多日子"
+      "gloss": "关系到许多日子"
     }
-  ],
-  "timestamp": "2026-07-18T01:35:03.804670341Z",
-  "model": "glm-5.2"
+  ]
 }

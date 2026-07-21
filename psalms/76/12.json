@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 76:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64603,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65042
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:41.198487797Z",
   "translation": "他们许了愿,并向雅威⟨他们的⟩以罗欣还愿;他周围的一切都当将礼物带到⟨那⟩可畏者面前。",
   "tokens": [
     {
       "surface": "נדרו",
-      "english": "他们许了愿"
+      "gloss": "他们许了愿"
     },
     {
       "surface": "ושלמו",
-      "english": "并还愿"
+      "gloss": "并还愿"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "⟨你们的⟩以罗欣"
+      "gloss": "⟨你们的⟩以罗欣"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "סביביו",
-      "english": "他周围的"
+      "gloss": "他周围的"
     },
     {
       "surface": "יובילו",
-      "english": "都当带来"
+      "gloss": "都当带来"
     },
     {
       "surface": "שי",
-      "english": "礼物"
+      "gloss": "礼物"
     },
     {
       "surface": "למורא",
-      "english": "给⟨那⟩可畏者"
+      "gloss": "给⟨那⟩可畏者"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:41.198487797Z",
-  "model": "glm-5.2"
+  ]
 }

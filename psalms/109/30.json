@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "psalms 109:30",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64435,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64780
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:29.596891338Z",
   "translation": "我要极力用我的口称谢雅威，在许多人中间我要赞美他。",
   "tokens": [
     {
       "surface": "אודה",
-      "english": "我要称谢"
+      "gloss": "我要称谢"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מאד",
-      "english": "极力"
+      "gloss": "极力"
     },
     {
       "surface": "בפי",
-      "english": "用我的口"
+      "gloss": "用我的口"
     },
     {
       "surface": "ובתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "רבים",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "אהללנו",
-      "english": "我要赞美他"
+      "gloss": "我要赞美他"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:29.596891338Z",
-  "model": "glm-5.2"
+  ]
 }

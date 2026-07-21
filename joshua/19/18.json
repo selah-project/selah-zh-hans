@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "joshua 19:18",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 236,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17670,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17906
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:02:07.675750439Z",
   "translation": "他们的境界⟨是⟩耶斯列、基苏录、和书念;",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨过去是⟩"
+      "gloss": "⟨过去是⟩"
     },
     {
       "surface": "גבולם",
-      "english": "他们的境界"
+      "gloss": "他们的境界"
     },
     {
       "surface": "יזרעאלה",
-      "english": "耶斯列"
+      "gloss": "耶斯列"
     },
     {
       "surface": "והכסולת",
-      "english": "和基苏录"
+      "gloss": "和基苏录"
     },
     {
       "surface": "ושונם",
-      "english": "和书念"
+      "gloss": "和书念"
     }
-  ],
-  "timestamp": "2026-07-17T20:02:07.675750439Z",
-  "model": "glm-5.2"
+  ]
 }

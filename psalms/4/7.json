@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "psalms 4:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 517,
-    "prompt_tokens": 64763,
-    "prompt_tokens_details": {
-      "cached_tokens": 53632
-    },
-    "total_tokens": 65280
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:34:59.508098442Z",
   "translation": "许多人说,谁要让我们看见好呢? 雅威,求你使你脸上的光,照在我们身上。",
   "tokens": [
     {
       "surface": "רבים",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "אמרים",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יראנו",
-      "english": "要让我们看见"
+      "gloss": "要让我们看见"
     },
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "נסה",
-      "english": "求你使……照"
+      "gloss": "求你使……照"
     },
     {
       "surface": "עלינו",
-      "english": "在我们身上"
+      "gloss": "在我们身上"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "פניך",
-      "english": "你脸"
+      "gloss": "你脸"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-21T02:34:59.508098442Z",
-  "model": "glm-4.5"
+  ]
 }

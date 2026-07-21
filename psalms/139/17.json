@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 139:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64506,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65021
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:08.558883596Z",
   "translation": "至于我,你的同伴⟨是⟩何等宝贵,⟨אֵל⟩(大能者):他们的首领⟨是⟩何等强盛!",
   "tokens": [
     {
       "surface": "ולי",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "יקרו",
-      "english": "宝贵"
+      "gloss": "宝贵"
     },
     {
       "surface": "רעיך",
-      "english": "你的同伴"
+      "gloss": "你的同伴"
     },
     {
       "surface": "אל",
-      "english": "⟨אֵל⟩"
+      "gloss": "⟨אֵל⟩"
     },
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "עצמו",
-      "english": "强盛"
+      "gloss": "强盛"
     },
     {
       "surface": "ראשיהם",
-      "english": "他们的首领"
+      "gloss": "他们的首领"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:08.558883596Z",
-  "model": "glm-5.2"
+  ]
 }

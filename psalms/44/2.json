@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 44:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64928,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65385
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:27.547028856Z",
   "translation": "以罗欣,我们亲耳听见,我们的祖先向我们述说了——你在他们的日子、在远古的日子所行 ⟨的⟩ 作为。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "באזנינו",
-      "english": "在我们的耳中"
+      "gloss": "在我们的耳中"
     },
     {
       "surface": "שמענו",
-      "english": "我们听见"
+      "gloss": "我们听见"
     },
     {
       "surface": "אבותינו",
-      "english": "我们的祖先"
+      "gloss": "我们的祖先"
     },
     {
       "surface": "ספרו",
-      "english": "述说了"
+      "gloss": "述说了"
     },
     {
       "surface": "לנו",
-      "english": "向我们"
+      "gloss": "向我们"
     },
     {
       "surface": "פעל",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "פעלת",
-      "english": "你行了"
+      "gloss": "你行了"
     },
     {
       "surface": "בימיהם",
-      "english": "在他们的日子"
+      "gloss": "在他们的日子"
     },
     {
       "surface": "בימי",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "קדם",
-      "english": "远古"
+      "gloss": "远古"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:27.547028856Z",
-  "model": "glm-5.2"
+  ]
 }

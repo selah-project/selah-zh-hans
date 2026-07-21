@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "jeremiah 42:3",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 625,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19577,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20202
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:32:04.984343237Z",
   "translation": "愿雅威你的以罗欣向我们指明 ⟨את⟩ ⟨那⟩道路，就是我们当在其中行的，以及 ⟨את⟩ ⟨那⟩话（*davar*），就是我们当行的。",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "愿……指明"
+      "gloss": "愿……指明"
     },
     {
       "surface": "לנו",
-      "english": "向我们"
+      "gloss": "向我们"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩道路"
     },
     {
       "surface": "הדרך",
-      "english": "⟨那⟩道路"
+      "gloss": "⟨那⟩道路"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "נלך",
-      "english": "我们当行"
+      "gloss": "我们当行"
     },
     {
       "surface": "בה",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩话（*davar*）"
     },
     {
       "surface": "הדבר",
-      "english": "⟨那⟩话（*davar*）"
+      "gloss": "⟨那⟩话（*davar*）"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "נעשה",
-      "english": "我们当行的"
+      "gloss": "我们当行的"
     }
-  ],
-  "timestamp": "2026-07-17T22:32:04.984343237Z",
-  "model": "glm-5.2"
+  ]
 }

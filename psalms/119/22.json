@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 119:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64362,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64719
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:23.499406164Z",
   "translation": "求你从我上头滚开辱骂和⟨藐视⟩，因为我守护了你的见证。",
   "tokens": [
     {
       "surface": "גַּ֣ל",
-      "english": "求你滚开"
+      "gloss": "求你滚开"
     },
     {
       "surface": "מֵֽ\/עָלַ\/י",
-      "english": "从我上头"
+      "gloss": "从我上头"
     },
     {
       "surface": "חֶרְפָּ֣ה",
-      "english": "辱骂"
+      "gloss": "辱骂"
     },
     {
       "surface": "וָ\/ב֑וּז",
-      "english": "和⟨藐视⟩"
+      "gloss": "和⟨藐视⟩"
     },
     {
       "surface": "כִּ֖י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עֵדֹתֶ֣י\/ךָ",
-      "english": "你的见证"
+      "gloss": "你的见证"
     },
     {
       "surface": "נָצָֽרְתִּי",
-      "english": "我守护了"
+      "gloss": "我守护了"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:23.499406164Z",
-  "model": "glm-5.2"
+  ]
 }

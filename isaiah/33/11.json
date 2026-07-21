@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "isaiah 33:11",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 574,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20558,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21132
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:55.551944594Z",
   "translation": "你们怀孕⟨的是⟩干草，你们生下⟨的是⟩碎秸；你们的鲁阿 ⟨是⟩火，⟨它⟩必吞吃你们。",
   "tokens": [
     {
       "surface": "תַּהֲר֥וּ",
-      "english": "你们怀孕"
+      "gloss": "你们怀孕"
     },
     {
       "surface": "חֲשַׁ֖שׁ",
-      "english": "干草"
+      "gloss": "干草"
     },
     {
       "surface": "תֵּ֣לְדוּ",
-      "english": "你们生下"
+      "gloss": "你们生下"
     },
     {
       "surface": "קַ֑שׁ",
-      "english": "碎秸"
+      "gloss": "碎秸"
     },
     {
       "surface": "רוּחֲ\/כֶ֕ם",
-      "english": "你们的鲁阿"
+      "gloss": "你们的鲁阿"
     },
     {
       "surface": "אֵ֖שׁ",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "תֹּאכַלְ\/כֶֽם",
-      "english": "⟨它⟩必吞吃你们"
+      "gloss": "⟨它⟩必吞吃你们"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:55.551944594Z",
-  "model": "glm-5.2"
+  ]
 }

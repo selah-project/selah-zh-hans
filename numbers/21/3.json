@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "numbers 21:3",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20603,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21223
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:44.544063035Z",
   "translation": "雅威听了以色列的声音,就把那迦南人交出来;他们就把他们当חֶרֶם(当灭之物)献上,以及他们的城邑,⟨他⟩就称那地方的名字为חָרְמָה(何珥玛)。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "雅威听了"
+      "gloss": "雅威听了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בקול",
-      "english": "听见了……的声音"
+      "gloss": "听见了……的声音"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויתן",
-      "english": "就把……交出来"
+      "gloss": "就把……交出来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那迦南人"
     },
     {
       "surface": "הכנעני",
-      "english": "那迦南人"
+      "gloss": "那迦南人"
     },
     {
       "surface": "ויחרם",
-      "english": "他们就把……当חֶרֶם献上"
+      "gloss": "他们就把……当חֶרֶם献上"
     },
     {
       "surface": "אתהם",
-      "english": "⟨את⟩他们",
+      "gloss": "⟨את⟩他们",
       "marks": "他们及其城邑"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩"
+      "gloss": "以及⟨את⟩"
     },
     {
       "surface": "עריהם",
-      "english": "他们的城邑"
+      "gloss": "他们的城邑"
     },
     {
       "surface": "ויקרא",
-      "english": "⟨他⟩就称"
+      "gloss": "⟨他⟩就称"
     },
     {
       "surface": "שם",
-      "english": "……的名字"
+      "gloss": "……的名字"
     },
     {
       "surface": "המקום",
-      "english": "那地方"
+      "gloss": "那地方"
     },
     {
       "surface": "חרמה",
-      "english": "为חָרְמָה(何珥玛)"
+      "gloss": "为חָרְמָה(何珥玛)"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:44.544063035Z",
-  "model": "glm-5.2"
+  ]
 }

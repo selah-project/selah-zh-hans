@@ -1,70 +1,62 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 14:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 451,
-    "prompt_tokens": 59237,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59688
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:19.224665397Z",
   "translation": "大卫行 ⟨the⟩ 以罗欣所吩咐他的事,就击打 ⟨the⟩ 非利士人的营,从基遍 ⟨until⟩ 基色",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "大卫行"
+      "gloss": "大卫行"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כאשר",
-      "english": "⟨the⟩"
+      "gloss": "⟨the⟩"
     },
     {
       "surface": "צוהו",
-      "english": "以罗欣所吩咐他的事"
+      "gloss": "以罗欣所吩咐他的事"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ויכו",
-      "english": "就击打"
+      "gloss": "就击打"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "非利士人的营"
     },
     {
       "surface": "מחנה",
-      "english": "⟨the⟩ 营"
+      "gloss": "⟨the⟩ 营"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "מגבעון",
-      "english": "从基遍"
+      "gloss": "从基遍"
     },
     {
       "surface": "ועד",
-      "english": "⟨until⟩"
+      "gloss": "⟨until⟩"
     },
     {
       "surface": "גזרה",
-      "english": "基色"
+      "gloss": "基色"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:19.224665397Z",
-  "model": "glm-4.5"
+  ]
 }

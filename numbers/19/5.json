@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 19:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20321,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20832
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:14:26.244390412Z",
   "translation": "他要在他的眼前焚烧⟨את⟩那母牛——⟨את⟩它的皮和⟨את⟩它的肉和⟨את⟩它的血，连同它的粪，他要焚烧。",
   "tokens": [
     {
       "surface": "ושרף",
-      "english": "他要焚烧"
+      "gloss": "他要焚烧"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那母牛"
     },
     {
       "surface": "הפרה",
-      "english": "那母牛"
+      "gloss": "那母牛"
     },
     {
       "surface": "לעיניו",
-      "english": "在他的眼前"
+      "gloss": "在他的眼前"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的皮"
     },
     {
       "surface": "ערה",
-      "english": "它的皮"
+      "gloss": "它的皮"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的肉"
     },
     {
       "surface": "בשרה",
-      "english": "它的肉"
+      "gloss": "它的肉"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的血"
     },
     {
       "surface": "דמה",
-      "english": "它的血"
+      "gloss": "它的血"
     },
     {
       "surface": "על",
-      "english": "连同"
+      "gloss": "连同"
     },
     {
       "surface": "פרשה",
-      "english": "它的粪"
+      "gloss": "它的粪"
     },
     {
       "surface": "ישרף",
-      "english": "他要焚烧"
+      "gloss": "他要焚烧"
     }
-  ],
-  "timestamp": "2026-07-17T19:14:26.244390412Z",
-  "model": "glm-5.2"
+  ]
 }

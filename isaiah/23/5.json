@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 23:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20442,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20809
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:42.719295097Z",
   "translation": "当风声传到埃及，他们必痛苦翻滚，如同听见关于 צֹר（推罗）的风声。",
   "tokens": [
     {
       "surface": "כַּֽ\/אֲשֶׁר",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "שֵׁ֖מַע",
-      "english": "风声"
+      "gloss": "风声"
     },
     {
       "surface": "לְ\/מִצְרָ֑יִם",
-      "english": "传到埃及"
+      "gloss": "传到埃及"
     },
     {
       "surface": "יָחִ֖ילוּ",
-      "english": "他们必痛苦翻滚"
+      "gloss": "他们必痛苦翻滚"
     },
     {
       "surface": "כְּ\/שֵׁ֥מַע",
-      "english": "如同听见风声"
+      "gloss": "如同听见风声"
     },
     {
       "surface": "צֹֽר",
-      "english": "צֹר（推罗）"
+      "gloss": "צֹר（推罗）"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:42.719295097Z",
-  "model": "glm-5.2"
+  ]
 }

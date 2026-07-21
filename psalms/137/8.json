@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 137:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64845,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65405
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:37.262884673Z",
   "translation": "巴比伦女儿⟨那⟩被掠夺者！有福了，那将向你⟨还⟩报⟨את⟩你的报应⟨的⟩——就是你向我们行出的！",
   "tokens": [
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "השדודה",
-      "english": "⟨那⟩被掠夺者"
+      "gloss": "⟨那⟩被掠夺者"
     },
     {
       "surface": "אשרי",
-      "english": "有福了"
+      "gloss": "有福了"
     },
     {
       "surface": "שישלם",
-      "english": "那将⟨还⟩报"
+      "gloss": "那将⟨还⟩报"
     },
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的报应"
     },
     {
       "surface": "גמולך",
-      "english": "你的报应"
+      "gloss": "你的报应"
     },
     {
       "surface": "שגמלת",
-      "english": "就是你行出的"
+      "gloss": "就是你行出的"
     },
     {
       "surface": "לנו",
-      "english": "向我们"
+      "gloss": "向我们"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:37.262884673Z",
-  "model": "glm-5.2"
+  ]
 }

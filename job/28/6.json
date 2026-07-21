@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 28:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21477,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21845
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:20.141408880Z",
   "translation": "蓝宝石之处是它的石头，它的尘土是金子——⟨金子⟩有给它。",
   "tokens": [
     {
       "surface": "מקום",
-      "english": "之处"
+      "gloss": "之处"
     },
     {
       "surface": "ספיר",
-      "english": "蓝宝石"
+      "gloss": "蓝宝石"
     },
     {
       "surface": "אבניה",
-      "english": "是它的石头"
+      "gloss": "是它的石头"
     },
     {
       "surface": "ועפרת",
-      "english": "它的尘土"
+      "gloss": "它的尘土"
     },
     {
       "surface": "זהב",
-      "english": "金子"
+      "gloss": "金子"
     },
     {
       "surface": "לו",
-      "english": "有给它"
+      "gloss": "有给它"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:20.141408880Z",
-  "model": "glm-5.2"
+  ]
 }

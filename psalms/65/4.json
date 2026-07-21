@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 65:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64630,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65046
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:07.872610672Z",
   "translation": "罪孽的*事*胜过我；至于我们的过犯，⟨是⟩你⟨要⟩遮盖它们。",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "*事* (话语\/事物)"
+      "gloss": "*事* (话语\/事物)"
     },
     {
       "surface": "עונת",
-      "english": "罪孽"
+      "gloss": "罪孽"
     },
     {
       "surface": "גברו",
-      "english": "胜过"
+      "gloss": "胜过"
     },
     {
       "surface": "מני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "פשעינו",
-      "english": "我们的过犯"
+      "gloss": "我们的过犯"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תכפרם",
-      "english": "⟨要⟩遮盖它们"
+      "gloss": "⟨要⟩遮盖它们"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:07.872610672Z",
-  "model": "glm-5.2"
+  ]
 }

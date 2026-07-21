@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 32:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21573,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21952
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:52.212030284Z",
   "translation": "因为我不知道⟨如何⟩奉承,否则我的造我的会在短时间内将我带走。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "אכנה",
-      "english": "⟨如何⟩奉承"
+      "gloss": "⟨如何⟩奉承"
     },
     {
       "surface": "כמעט",
-      "english": "在短时间内"
+      "gloss": "在短时间内"
     },
     {
       "surface": "ישאני",
-      "english": "将我带走"
+      "gloss": "将我带走"
     },
     {
       "surface": "עשני",
-      "english": "我的造我的"
+      "gloss": "我的造我的"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:52.212030284Z",
-  "model": "glm-5.2"
+  ]
 }

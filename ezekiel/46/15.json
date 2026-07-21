@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "ezekiel 46:15",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19375,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19868
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:10:00.689953532Z",
   "translation": "他们要预备 ⟨את⟩ ⟨הַכֶּבֶשׂ⟩，和 ⟨את⟩ ⟨הַמִּנְחָה⟩，和 ⟨את⟩ ⟨הַשֶּׁמֶן；早晨早晨，持续的燔祭。",
   "tokens": [
     {
       "surface": "ו\/עשו",
-      "english": "他们要预备"
+      "gloss": "他们要预备"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הכבש"
     },
     {
       "surface": "ה\/כבש",
-      "english": "那只羔羊"
+      "gloss": "那只羔羊"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "המנחה"
     },
     {
       "surface": "ה\/מנחה",
-      "english": "那素祭"
+      "gloss": "那素祭"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "השמן"
     },
     {
       "surface": "ה\/שמן",
-      "english": "那油"
+      "gloss": "那油"
     },
     {
       "surface": "ב\/בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "ב\/בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "עולת",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "תמיד",
-      "english": "持续的"
+      "gloss": "持续的"
     }
-  ],
-  "timestamp": "2026-07-17T23:10:00.689953532Z",
-  "model": "glm-5.2"
+  ]
 }

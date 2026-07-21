@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 7:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 222,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54304,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54526
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:44.176266980Z",
   "translation": "我儿，你要遵守我的话语，也要把我的诫命与你 ⟨את⟩ 一起藏起来",
   "tokens": [
     {
       "surface": "בני",
-      "english": "我儿"
+      "gloss": "我儿"
     },
     {
       "surface": "שמר",
-      "english": "你要遵守"
+      "gloss": "你要遵守"
     },
     {
       "surface": "אמרי",
-      "english": "我的话语"
+      "gloss": "我的话语"
     },
     {
       "surface": "ומצותי",
-      "english": "也要把我的诫命"
+      "gloss": "也要把我的诫命"
     },
     {
       "surface": "תצפן",
-      "english": "藏起来"
+      "gloss": "藏起来"
     },
     {
       "surface": "אתך",
-      "english": "与你 ⟨את⟩ 一起"
+      "gloss": "与你 ⟨את⟩ 一起"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:44.176266980Z",
-  "model": "glm-5.2"
+  ]
 }

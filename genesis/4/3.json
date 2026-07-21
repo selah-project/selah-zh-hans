@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 4:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22983,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23360
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:18:02.799179294Z",
   "translation": "到了一些日子的末尾,该隐从地土的果实中带了供物来,归于雅威。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "到了⟨……的末尾⟩"
+      "gloss": "到了⟨……的末尾⟩"
     },
     {
       "surface": "מקץ",
-      "english": "末尾"
+      "gloss": "末尾"
     },
     {
       "surface": "ימים",
-      "english": "一些日子"
+      "gloss": "一些日子"
     },
     {
       "surface": "ויבא",
-      "english": "带了……来"
+      "gloss": "带了……来"
     },
     {
       "surface": "קין",
-      "english": "该隐"
+      "gloss": "该隐"
     },
     {
       "surface": "מפרי",
-      "english": "从……的果实中"
+      "gloss": "从……的果实中"
     },
     {
       "surface": "האדמה",
-      "english": "地土"
+      "gloss": "地土"
     },
     {
       "surface": "מנחה",
-      "english": "供物"
+      "gloss": "供物"
     },
     {
       "surface": "ליהוה",
-      "english": "归于雅威"
+      "gloss": "归于雅威"
     }
-  ],
-  "timestamp": "2026-07-18T03:18:02.799179294Z",
-  "model": "glm-5.2"
+  ]
 }

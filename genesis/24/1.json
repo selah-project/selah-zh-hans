@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 24:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23045,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23368
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:46:52.315017670Z",
   "translation": "亚伯拉罕老了，步入⟨了⟩晚年，雅威在一切事上祝福⟨את⟩亚伯拉罕。",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "זקן",
-      "english": "老了"
+      "gloss": "老了"
     },
     {
       "surface": "בא",
-      "english": "步入"
+      "gloss": "步入"
     },
     {
       "surface": "בימים",
-      "english": "晚年"
+      "gloss": "晚年"
     },
     {
       "surface": "ויהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ברך",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯拉罕"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "בכל",
-      "english": "在一切事上"
+      "gloss": "在一切事上"
     }
-  ],
-  "timestamp": "2026-07-17T17:46:52.315017670Z",
-  "model": "glm-5.2"
+  ]
 }

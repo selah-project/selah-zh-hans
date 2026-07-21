@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 28:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 907,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64910,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65817
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:20.015562677Z",
   "translation": "因为他们不明白 פְעֻלֹּת יְהֹוָה（雅威的作为），也不留意他双手的 מַעֲשֶׂה（工作）；⟨他⟩要拆毁他们，不再建立他们。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹ֤א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יָבִ֡ינוּ",
-      "english": "他们明白"
+      "gloss": "他们明白"
     },
     {
       "surface": "אֶל",
-      "english": "留意⟨向⟩"
+      "gloss": "留意⟨向⟩"
     },
     {
       "surface": "פְּעֻלֹּ֣ת",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/אֶל",
-      "english": "也不留意⟨向⟩"
+      "gloss": "也不留意⟨向⟩"
     },
     {
       "surface": "מַעֲשֵׂ֣ה",
-      "english": "工作"
+      "gloss": "工作"
     },
     {
       "surface": "יָדָ֑י\/ו",
-      "english": "他双手的"
+      "gloss": "他双手的"
     },
     {
       "surface": "יֶ֝הֶרְסֵ֗\/ם",
-      "english": "⟨他⟩要拆毁他们"
+      "gloss": "⟨他⟩要拆毁他们"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "יִבְנֵֽ\/ם",
-      "english": "建立他们"
+      "gloss": "建立他们"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:20.015562677Z",
-  "model": "glm-5.2"
+  ]
 }

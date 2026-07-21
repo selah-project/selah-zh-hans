@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 74:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64518,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65005
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:08.490339285Z",
   "translation": "你劈开泉源和溪谷,你使永恒的众河流干涸。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "בקעת",
-      "english": "劈开了"
+      "gloss": "劈开了"
     },
     {
       "surface": "מעין",
-      "english": "泉源"
+      "gloss": "泉源"
     },
     {
       "surface": "ונחל",
-      "english": "和溪谷"
+      "gloss": "和溪谷"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "הובשת",
-      "english": "使……干涸"
+      "gloss": "使……干涸"
     },
     {
       "surface": "נהרות",
-      "english": "众河流"
+      "gloss": "众河流"
     },
     {
       "surface": "איתן",
-      "english": "永恒的"
+      "gloss": "永恒的"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:08.490339285Z",
-  "model": "glm-5.2"
+  ]
 }

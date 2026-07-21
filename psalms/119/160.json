@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 160,
   "ref": "psalms 119:160",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64482,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64848
-  },
+  "verse": 160,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:43:06.247249328Z",
   "translation": "你话语的总纲⟨是⟩אֶמֶת（真理），⟨而⟩你一切的公义典章⟨存立⟩直到永远。",
   "tokens": [
     {
       "surface": "ראש",
-      "english": "总纲"
+      "gloss": "总纲"
     },
     {
       "surface": "דברך",
-      "english": "你*话语*的"
+      "gloss": "你*话语*的"
     },
     {
       "surface": "אמת",
-      "english": "אֶמֶת（真理）"
+      "gloss": "אֶמֶת（真理）"
     },
     {
       "surface": "ולעולם",
-      "english": "⟨而⟩……直到永远"
+      "gloss": "⟨而⟩……直到永远"
     },
     {
       "surface": "כל",
-      "english": "你一切的"
+      "gloss": "你一切的"
     },
     {
       "surface": "משפט",
-      "english": "典章"
+      "gloss": "典章"
     },
     {
       "surface": "צדקך",
-      "english": "公义"
+      "gloss": "公义"
     }
-  ],
-  "timestamp": "2026-07-20T06:43:06.247249328Z",
-  "model": "glm-5.2"
+  ]
 }

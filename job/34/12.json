@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "job 34:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 473,
-    "prompt_tokens": 21727,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22200
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:49.325697758Z",
   "translation": "Indeed, truly, El ⟨will⟩ not do wickedly, and Shaddai ⟨will⟩ not pervert judgment.",
   "tokens": [
     {
       "surface": "אף",
-      "english": "Indeed"
+      "gloss": "Indeed"
     },
     {
       "surface": "אמנם",
-      "english": "truly"
+      "gloss": "truly"
     },
     {
       "surface": "אל",
-      "english": "El"
+      "gloss": "El"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "ירשיע",
-      "english": "do wickedly"
+      "gloss": "do wickedly"
     },
     {
       "surface": "ושדי",
-      "english": "and Shaddai"
+      "gloss": "and Shaddai"
     },
     {
       "surface": "לא",
-      "english": "not"
+      "gloss": "not"
     },
     {
       "surface": "יעות",
-      "english": "pervert"
+      "gloss": "pervert"
     },
     {
       "surface": "משפט",
-      "english": "judgment"
+      "gloss": "judgment"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:49.325697758Z",
-  "model": "glm-4.5"
+  ]
 }

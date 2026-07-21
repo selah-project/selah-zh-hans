@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 75,
   "ref": "psalms 119:75",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64512,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64919
-  },
+  "verse": 75,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:26.969747537Z",
   "translation": "我知道，雅威，⟨כי⟩ ⟨⟨你的⟩判语 ⟨是⟩公义的，且以信实 ⟨את⟩我降卑。",
   "tokens": [
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "⟨כי⟩"
+      "gloss": "⟨כי⟩"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "משפטיך",
-      "english": "你的判语"
+      "gloss": "你的判语"
     },
     {
       "surface": "ואמונה",
-      "english": "且以信实"
+      "gloss": "且以信实"
     },
     {
       "surface": "עניתני",
-      "english": "⟨את⟩我降卑"
+      "gloss": "⟨את⟩我降卑"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:26.969747537Z",
-  "model": "glm-5.2"
+  ]
 }

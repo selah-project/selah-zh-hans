@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 34:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64456,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64777
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:20.649790468Z",
   "translation": "来吧,众子,听我:雅威的敬畏,我要教你们⟨关于⟩。",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "来吧"
+      "gloss": "来吧"
     },
     {
       "surface": "בנים",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "שמעו",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יראת",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אלמדכם",
-      "english": "我要教你们"
+      "gloss": "我要教你们"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:20.649790468Z",
-  "model": "glm-5.2"
+  ]
 }

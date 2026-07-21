@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 16:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59029,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59528
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:03:41.397828276Z",
   "translation": "他分给以色列众人,每人,从男到女,每人一个饼、一份肉和⟨一份⟩葡萄饼。",
   "tokens": [
     {
       "surface": "ויחלק",
-      "english": "他分给"
+      "gloss": "他分给"
     },
     {
       "surface": "לכל",
-      "english": "众人"
+      "gloss": "众人"
     },
     {
       "surface": "איש",
-      "english": "每人"
+      "gloss": "每人"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מאיש",
-      "english": "从男"
+      "gloss": "从男"
     },
     {
       "surface": "ועד",
-      "english": "到女"
+      "gloss": "到女"
     },
     {
       "surface": "אשה",
-      "english": "女人"
+      "gloss": "女人"
     },
     {
       "surface": "לאיש",
-      "english": "每人"
+      "gloss": "每人"
     },
     {
       "surface": "ככר",
-      "english": "一个饼"
+      "gloss": "一个饼"
     },
     {
       "surface": "לחם",
-      "english": "面包"
+      "gloss": "面包"
     },
     {
       "surface": "ואשפר",
-      "english": "和一份肉"
+      "gloss": "和一份肉"
     },
     {
       "surface": "ואשישה",
-      "english": "和葡萄饼"
+      "gloss": "和葡萄饼"
     }
-  ],
-  "timestamp": "2026-07-18T02:03:41.397828276Z",
-  "model": "glm-5.2"
+  ]
 }

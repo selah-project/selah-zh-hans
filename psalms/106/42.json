@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "psalms 106:42",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64297,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64567
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:50.294926951Z",
   "translation": "他们的仇敌压迫他们，他们⟨被⟩制伏在他们手下。",
   "tokens": [
     {
       "surface": "וילחצום",
-      "english": "压迫他们"
+      "gloss": "压迫他们"
     },
     {
       "surface": "אויביהם",
-      "english": "他们的仇敌"
+      "gloss": "他们的仇敌"
     },
     {
       "surface": "ויכנעו",
-      "english": "他们⟨被⟩制伏"
+      "gloss": "他们⟨被⟩制伏"
     },
     {
       "surface": "תחת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "ידם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:50.294926951Z",
-  "model": "glm-5.2"
+  ]
 }

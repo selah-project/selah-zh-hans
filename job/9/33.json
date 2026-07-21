@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "job 9:33",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21645,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22139
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:01.464163209Z",
   "translation": "我们之间没有 ⟨לא\/יש⟩ ⟨代求者⟩，⟨他可以⟩ 将 ⟨他的⟩ 手放在我们 ⟨二人⟩ 之上。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "没有（非）"
+      "gloss": "没有（非）"
     },
     {
       "surface": "יש",
-      "english": "存在"
+      "gloss": "存在"
     },
     {
       "surface": "בינינו",
-      "english": "我们之间"
+      "gloss": "我们之间"
     },
     {
       "surface": "מוכיח",
-      "english": "⟨代求者⟩（仲裁者\/决断者）"
+      "gloss": "⟨代求者⟩（仲裁者\/决断者）"
     },
     {
       "surface": "ישת",
-      "english": " ⟨他可以⟩ 放"
+      "gloss": " ⟨他可以⟩ 放"
     },
     {
       "surface": "ידו",
-      "english": " ⟨他的⟩ 手"
+      "gloss": " ⟨他的⟩ 手"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "שנינו",
-      "english": "我们 ⟨二人⟩"
+      "gloss": "我们 ⟨二人⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:01.464163209Z",
-  "model": "glm-5.2"
+  ]
 }

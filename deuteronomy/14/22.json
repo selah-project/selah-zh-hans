@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "deuteronomy 14:22",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19525,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19931
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:58.807328977Z",
   "translation": "你务要缴纳你种子的一切出产 —— ⟨את⟩ 田里年复一年所出的 —— 的十分之一。",
   "tokens": [
     {
       "surface": "עשר",
-      "english": "你务要缴纳十分之一"
+      "gloss": "你务要缴纳十分之一"
     },
     {
       "surface": "תעשר",
-      "english": "十分之一"
+      "gloss": "十分之一"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切出产"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תבואת",
-      "english": "出产"
+      "gloss": "出产"
     },
     {
       "surface": "זרעך",
-      "english": "你的种子"
+      "gloss": "你的种子"
     },
     {
       "surface": "היצא",
-      "english": "所出的"
+      "gloss": "所出的"
     },
     {
       "surface": "השדה",
-      "english": "田里"
+      "gloss": "田里"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "שנה",
-      "english": "复一年"
+      "gloss": "复一年"
     }
-  ],
-  "timestamp": "2026-07-17T19:36:58.807328977Z",
-  "model": "glm-5.2"
+  ]
 }

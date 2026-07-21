@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "exodus 15:14",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18440,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18950
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:09.108755318Z",
   "translation": "众民 ⟨已⟩ 听见，他们颤抖：阵痛 ⟨已⟩ 抓住非利士的居民。",
   "tokens": [
     {
       "surface": "שָֽׁמְע֥וּ",
-      "english": "众民 ⟨已⟩ 听见"
+      "gloss": "众民 ⟨已⟩ 听见"
     },
     {
       "surface": "עַמִּ֖ים",
-      "english": "（含于上文）"
+      "gloss": "（含于上文）"
     },
     {
       "surface": "יִרְגָּז֑וּ\/ן",
-      "english": "他们颤抖"
+      "gloss": "他们颤抖"
     },
     {
       "surface": "חִ֣יל",
-      "english": "阵痛"
+      "gloss": "阵痛"
     },
     {
       "surface": "אָחַ֔ז",
-      "english": "⟨已⟩ 抓住"
+      "gloss": "⟨已⟩ 抓住"
     },
     {
       "surface": "יֹשְׁבֵ֖י",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "פְּלָֽשֶׁת",
-      "english": "非利士"
+      "gloss": "非利士"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:09.108755318Z",
-  "model": "glm-5.2"
+  ]
 }

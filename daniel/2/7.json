@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "daniel 2:7",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18839,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19275
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:28:42.138927185Z",
   "translation": "他们第二次回答说：王啊，请向他的仆人们说明那梦，⟨את⟩那释义⟨我们⟩就⟨能⟩显明。",
   "tokens": [
     {
       "surface": "ענו",
-      "english": "他们回答"
+      "gloss": "他们回答"
     },
     {
       "surface": "תנינות",
-      "english": "第二次"
+      "gloss": "第二次"
     },
     {
       "surface": "ואמרין",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מלכא",
-      "english": "王啊"
+      "gloss": "王啊"
     },
     {
       "surface": "חלמא",
-      "english": "梦"
+      "gloss": "梦"
     },
     {
       "surface": "יאמר",
-      "english": "请说明"
+      "gloss": "请说明"
     },
     {
       "surface": "לעבדוהי",
-      "english": "向他的仆人们"
+      "gloss": "向他的仆人们"
     },
     {
       "surface": "ופשרה",
-      "english": "⟨את⟩那释义"
+      "gloss": "⟨את⟩那释义"
     },
     {
       "surface": "נהחוה",
-      "english": "⟨我们⟩就⟨能⟩显明"
+      "gloss": "⟨我们⟩就⟨能⟩显明"
     }
-  ],
-  "timestamp": "2026-07-18T01:28:42.138927185Z",
-  "model": "glm-5.2"
+  ]
 }

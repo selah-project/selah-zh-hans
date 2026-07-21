@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "leviticus 4:21",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19909,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20405
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:44.786718951Z",
   "translation": "他要把 ⟨את⟩ 那公牛带到营外,焚烧它,正如他焚烧了 ⟨את⟩ 头一只公牛;它是会众的赎罪祭。",
   "tokens": [
     {
       "surface": "והוציא",
-      "english": "他要把……带出"
+      "gloss": "他要把……带出"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那公牛"
     },
     {
       "surface": "הפר",
-      "english": "那公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מחוץ",
-      "english": "外面"
+      "gloss": "外面"
     },
     {
       "surface": "למחנה",
-      "english": "营"
+      "gloss": "营"
     },
     {
       "surface": "ושרף",
-      "english": "他要焚烧"
+      "gloss": "他要焚烧"
     },
     {
       "surface": "אתו",
-      "english": "它 (⟨את⟩+代词后缀)"
+      "gloss": "它 (⟨את⟩+代词后缀)"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "שרף",
-      "english": "他焚烧了"
+      "gloss": "他焚烧了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "头一只公牛"
     },
     {
       "surface": "הפר",
-      "english": "那公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "הראשון",
-      "english": "头一只"
+      "gloss": "头一只"
     },
     {
       "surface": "חטאת",
-      "english": "赎罪祭 (חַטָּאָה)"
+      "gloss": "赎罪祭 (חַטָּאָה)"
     },
     {
       "surface": "הקהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:44.786718951Z",
-  "model": "glm-5.2"
+  ]
 }

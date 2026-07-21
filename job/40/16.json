@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 40:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21561,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21922
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:10.671177667Z",
   "translation": "看哪,⟨请看⟩,他的力量在⟨他的⟩腰中,他的能力在⟨他的⟩腹部肌肉中。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "נא",
-      "english": "⟨请看⟩"
+      "gloss": "⟨请看⟩"
     },
     {
       "surface": "כחו",
-      "english": "他的力量"
+      "gloss": "他的力量"
     },
     {
       "surface": "במתניו",
-      "english": "在⟨他的⟩腰中"
+      "gloss": "在⟨他的⟩腰中"
     },
     {
       "surface": "ואנו",
-      "english": "和他的能力"
+      "gloss": "和他的能力"
     },
     {
       "surface": "בשרירי",
-      "english": "在肌肉中"
+      "gloss": "在肌肉中"
     },
     {
       "surface": "בטנו",
-      "english": "在⟨他的⟩腹部"
+      "gloss": "在⟨他的⟩腹部"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:10.671177667Z",
-  "model": "glm-5.2"
+  ]
 }

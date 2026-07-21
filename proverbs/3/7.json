@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 3:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54607,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54985
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:42.011582786Z",
   "translation": "不要在你自己的眼中⟨做⟩智者；要敬畏⟨את⟩雅威,并要转离恶。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תהי",
-      "english": "你⟨做⟩"
+      "gloss": "你⟨做⟩"
     },
     {
       "surface": "חכם",
-      "english": "智者"
+      "gloss": "智者"
     },
     {
       "surface": "בעיניך",
-      "english": "在你自己的眼中"
+      "gloss": "在你自己的眼中"
     },
     {
       "surface": "ירא",
-      "english": "要敬畏"
+      "gloss": "要敬畏"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וסור",
-      "english": "并要转离"
+      "gloss": "并要转离"
     },
     {
       "surface": "מרע",
-      "english": "从恶"
+      "gloss": "从恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:42.011582786Z",
-  "model": "glm-5.2"
+  ]
 }

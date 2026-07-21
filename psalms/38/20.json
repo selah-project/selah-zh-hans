@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 38:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64313,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64702
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:14.933353525Z",
   "translation": "而我活着的仇敌变强壮了,而恨我的人⟨是⟩多的,⟨他們⟩行虛假。",
   "tokens": [
     {
       "surface": "ואיבי",
-      "english": "而我……的仇敌"
+      "gloss": "而我……的仇敌"
     },
     {
       "surface": "חיים",
-      "english": "活着的"
+      "gloss": "活着的"
     },
     {
       "surface": "עצמו",
-      "english": "变强壮了"
+      "gloss": "变强壮了"
     },
     {
       "surface": "ורבו",
-      "english": "而……多的"
+      "gloss": "而……多的"
     },
     {
       "surface": "שנאי",
-      "english": "恨我的人"
+      "gloss": "恨我的人"
     },
     {
       "surface": "שקר",
-      "english": "⟨他们行⟩虚假"
+      "gloss": "⟨他们行⟩虚假"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:14.933353525Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "numbers 7:20",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19408,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19677
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:25.074408583Z",
   "translation": "一个金盘子,重十舍客勒,满了香料;",
   "tokens": [
     {
       "surface": "כף",
-      "english": "盘子"
+      "gloss": "盘子"
     },
     {
       "surface": "אחת",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "עשרה",
-      "english": "重十"
+      "gloss": "重十"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "מלאה",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "קטרת",
-      "english": "香料"
+      "gloss": "香料"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:25.074408583Z",
-  "model": "glm-5.2"
+  ]
 }

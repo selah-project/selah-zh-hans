@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 64:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64573,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65011
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:54.588527539Z",
   "translation": "所有亚当都害怕，他们宣告以罗欣的作为，⟨并⟩对他的工作留心思考。",
   "tokens": [
     {
       "surface": "וייראו",
-      "english": "都害怕"
+      "gloss": "都害怕"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "ויגידו",
-      "english": "他们宣告"
+      "gloss": "他们宣告"
     },
     {
       "surface": "פעל",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ומעשהו",
-      "english": "⟨并⟩对他的工作"
+      "gloss": "⟨并⟩对他的工作"
     },
     {
       "surface": "השכילו",
-      "english": "留心思考"
+      "gloss": "留心思考"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:54.588527539Z",
-  "model": "glm-5.2"
+  ]
 }

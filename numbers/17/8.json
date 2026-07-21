@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 17:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19618,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19879
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:12:54.808943927Z",
   "translation": "摩西和亚伦来到会幕的面前。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואהרן",
-      "english": "和亚伦"
+      "gloss": "和亚伦"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "פני",
-      "english": "面前"
+      "gloss": "面前"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "(指定相会之处)"
+      "gloss": "(指定相会之处)"
     }
-  ],
-  "timestamp": "2026-07-17T19:12:54.808943927Z",
-  "model": "glm-5.2"
+  ]
 }

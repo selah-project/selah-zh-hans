@@ -1,103 +1,92 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 7:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 675,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19793,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20468
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:13:48.614905766Z",
   "translation": "法老必不听从你们,我必将⟨את⟩我的手加在埃及之上,并将我的军队——⟨את⟩我的子民以色列的儿子们——用大审判从埃及地领出来。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "ישמע",
-      "english": "听从"
+      "gloss": "听从"
     },
     {
       "surface": "אלכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "ונתתי",
-      "english": "我必将"
+      "gloss": "我必将"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的手"
     },
     {
       "surface": "ידי",
-      "english": "我的手"
+      "gloss": "我的手"
     },
     {
       "surface": "במצרים",
-      "english": "在埃及之上"
+      "gloss": "在埃及之上"
     },
     {
       "surface": "והוצאתי",
-      "english": "并将……领出来"
+      "gloss": "并将……领出来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的军队"
     },
     {
       "surface": "צבאתי",
-      "english": "我的军队"
+      "gloss": "我的军队"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的子民"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "בני",
-      "english": "的儿子们"
+      "gloss": "的儿子们"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "בשפטים",
-      "english": "用审判"
+      "gloss": "用审判"
     },
     {
       "surface": "גדלים",
-      "english": "大"
+      "gloss": "大"
     }
-  ],
-  "timestamp": "2026-07-17T18:13:48.614905766Z",
-  "model": "glm-5.2"
+  ]
 }

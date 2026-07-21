@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 16:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18349,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18834
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:30:37.204386469Z",
   "translation": "他们来到的时候，⟨他⟩看见了⟨את⟩以利押，就说：\"真正在雅威面前的，⟨是⟩他的受膏者。\"",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨事件发生⟩"
+      "gloss": "⟨事件发生⟩"
     },
     {
       "surface": "בבואם",
-      "english": "他们来到的时候"
+      "gloss": "他们来到的时候"
     },
     {
       "surface": "וירא",
-      "english": "⟨他⟩看见了"
+      "gloss": "⟨他⟩看见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以利押"
     },
     {
       "surface": "אליאב",
-      "english": "以利押"
+      "gloss": "以利押"
     },
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "אך",
-      "english": "真正"
+      "gloss": "真正"
     },
     {
       "surface": "נגד",
-      "english": "在……面前的"
+      "gloss": "在……面前的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "משיחו",
-      "english": "他的受膏者"
+      "gloss": "他的受膏者"
     }
-  ],
-  "timestamp": "2026-07-17T20:30:37.204386469Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-samuel 8:10",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18328,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18790
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:25:00.604766739Z",
   "translation": "撒母耳将雅威的一切*话语* ⟨את⟩ 告诉向他求一位王的⟨那⟩百姓。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "告诉了"
+      "gloss": "告诉了"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切话语"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דברי",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אל",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "השאלים",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "מאתו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "מלך",
-      "english": "一位王"
+      "gloss": "一位王"
     }
-  ],
-  "timestamp": "2026-07-17T20:25:00.604766739Z",
-  "model": "glm-5.2"
+  ]
 }

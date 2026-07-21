@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "numbers 18:27",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19801,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20297
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:13:38.378040058Z",
   "translation": "⟨它⟩必被算给你们 ⟨为⟩你们的 *terumá*，如同谷粒出自打谷场，也如同满溢出自榨酒池。",
   "tokens": [
     {
       "surface": "ונחשב",
-      "english": "⟨它⟩必被算"
+      "gloss": "⟨它⟩必被算"
     },
     {
       "surface": "לכם",
-      "english": "给你们"
+      "gloss": "给你们"
     },
     {
       "surface": "תרומתכם",
-      "english": "⟨为⟩你们的 *terumá*"
+      "gloss": "⟨为⟩你们的 *terumá*"
     },
     {
       "surface": "כדגן",
-      "english": "如同谷粒"
+      "gloss": "如同谷粒"
     },
     {
       "surface": "מן",
-      "english": "出自"
+      "gloss": "出自"
     },
     {
       "surface": "הגרן",
-      "english": "打谷场"
+      "gloss": "打谷场"
     },
     {
       "surface": "וכמלאה",
-      "english": "也如同满溢"
+      "gloss": "也如同满溢"
     },
     {
       "surface": "מן",
-      "english": "出自"
+      "gloss": "出自"
     },
     {
       "surface": "היקב",
-      "english": "榨酒池"
+      "gloss": "榨酒池"
     }
-  ],
-  "timestamp": "2026-07-17T19:13:38.378040058Z",
-  "model": "glm-5.2"
+  ]
 }

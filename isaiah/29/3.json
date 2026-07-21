@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 29:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20821,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21209
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:47:28.596811729Z",
   "translation": "我必在你周围如圆环般扎营,我必在你四周部署兵站,我必对你竖起围城壁垒。",
   "tokens": [
     {
       "surface": "וחניתי",
-      "english": "我必……扎营"
+      "gloss": "我必……扎营"
     },
     {
       "surface": "כדור",
-      "english": "如圆环"
+      "gloss": "如圆环"
     },
     {
       "surface": "עליך",
-      "english": "在你周围"
+      "gloss": "在你周围"
     },
     {
       "surface": "וצרתי",
-      "english": "我必……围困"
+      "gloss": "我必……围困"
     },
     {
       "surface": "עליך",
-      "english": "在你四周"
+      "gloss": "在你四周"
     },
     {
       "surface": "מצב",
-      "english": "部署兵站"
+      "gloss": "部署兵站"
     },
     {
       "surface": "והקימתי",
-      "english": "我必竖起"
+      "gloss": "我必竖起"
     },
     {
       "surface": "עליך",
-      "english": "对你"
+      "gloss": "对你"
     },
     {
       "surface": "מצרת",
-      "english": "围城壁垒"
+      "gloss": "围城壁垒"
     }
-  ],
-  "timestamp": "2026-07-17T21:47:28.596811729Z",
-  "model": "glm-5.2"
+  ]
 }

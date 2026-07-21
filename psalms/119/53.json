@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 53,
   "ref": "psalms 119:53",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64276,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64631
-  },
+  "verse": 53,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:55.103854722Z",
   "translation": "灼烧 ⟨的⟩ 怒气抓住了我，⟨是⟩ 因 ⟨从⟩ 恶人，离弃 ⟨את⟩ 你妥拉 ⟨的⟩。",
   "tokens": [
     {
       "surface": "זלעפה",
-      "english": "灼烧的怒气"
+      "gloss": "灼烧的怒气"
     },
     {
       "surface": "אחזתני",
-      "english": "抓住了我"
+      "gloss": "抓住了我"
     },
     {
       "surface": "מרשעים",
-      "english": "因恶人"
+      "gloss": "因恶人"
     },
     {
       "surface": "עזבי",
-      "english": "离弃"
+      "gloss": "离弃"
     },
     {
       "surface": "תורתך",
-      "english": "你的妥拉"
+      "gloss": "你的妥拉"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:55.103854722Z",
-  "model": "glm-5.2"
+  ]
 }

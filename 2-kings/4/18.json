@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "2-kings 4:18",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18388,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18749
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:25.985267743Z",
   "translation": "孩子⟨长大了⟩；有一天，他出去到他父亲那里，到收割的人中间。",
   "tokens": [
     {
       "surface": "ויגדל",
-      "english": "⟨长大了⟩"
+      "gloss": "⟨长大了⟩"
     },
     {
       "surface": "הילד",
-      "english": "孩子"
+      "gloss": "孩子"
     },
     {
       "surface": "ויהי",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "היום",
-      "english": "有一天"
+      "gloss": "有一天"
     },
     {
       "surface": "ויצא",
-      "english": "他出去"
+      "gloss": "他出去"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "אל",
-      "english": "到……中间"
+      "gloss": "到……中间"
     },
     {
       "surface": "הקצרים",
-      "english": "收割的人"
+      "gloss": "收割的人"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:25.985267743Z",
-  "model": "glm-5.2"
+  ]
 }

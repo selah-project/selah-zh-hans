@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 88:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64391,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64644
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:23.818849871Z",
   "translation": "他们终日如水环绕我；他们一同将我围困。",
   "tokens": [
     {
       "surface": "סבוני",
-      "english": "他们环绕我"
+      "gloss": "他们环绕我"
     },
     {
       "surface": "כמים",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "כל",
-      "english": "尽"
+      "gloss": "尽"
     },
     {
       "surface": "היום",
-      "english": "⟨一日⟩（终日）"
+      "gloss": "⟨一日⟩（终日）"
     },
     {
       "surface": "הקיפו",
-      "english": "他们围困"
+      "gloss": "他们围困"
     },
     {
       "surface": "עלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:23.818849871Z",
-  "model": "glm-5.2"
+  ]
 }

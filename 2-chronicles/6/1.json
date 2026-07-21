@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 6:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59442,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59754
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:38.393448894Z",
   "translation": "那时，所罗门说：“雅威说过，⟨他⟩要居住在幽暗中。”",
   "tokens": [
     {
       "surface": "אז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אמר",
-      "english": "说过"
+      "gloss": "说过"
     },
     {
       "surface": "לשכון",
-      "english": "要居住"
+      "gloss": "要居住"
     },
     {
       "surface": "בערפל",
-      "english": "在幽暗中"
+      "gloss": "在幽暗中"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:38.393448894Z",
-  "model": "glm-5.2"
+  ]
 }

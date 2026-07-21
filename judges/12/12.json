@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "judges 12:12",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17702,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18032
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:14:54.896829550Z",
   "translation": "西布伦人以伦⟨去世了⟩，⟨他⟩被葬在洗比仑地的亚雅仑。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨去世了⟩"
+      "gloss": "⟨去世了⟩"
     },
     {
       "surface": "אלון",
-      "english": "以伦"
+      "gloss": "以伦"
     },
     {
       "surface": "הזבולני",
-      "english": "西布伦人"
+      "gloss": "西布伦人"
     },
     {
       "surface": "ויקבר",
-      "english": "⟨他⟩被葬在"
+      "gloss": "⟨他⟩被葬在"
     },
     {
       "surface": "באילון",
-      "english": "亚雅仑"
+      "gloss": "亚雅仑"
     },
     {
       "surface": "בארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "זבולן",
-      "english": "洗比仑"
+      "gloss": "洗比仑"
     }
-  ],
-  "timestamp": "2026-07-17T20:14:54.896829550Z",
-  "model": "glm-5.2"
+  ]
 }

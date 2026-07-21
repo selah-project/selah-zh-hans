@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 24:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19116,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19486
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:54:27.610944809Z",
   "translation": "雅威的*话*临到我⟨我⟩：在第九年，第十个月，⟨该⟩月的第十日，说：",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "דבר",
-      "english": "的话 (*davar*)"
+      "gloss": "的话 (*davar*)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "到我⟨我⟩"
+      "gloss": "到我⟨我⟩"
     },
     {
       "surface": "בשנה",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "התשיעית",
-      "english": "第九"
+      "gloss": "第九"
     },
     {
       "surface": "בחדש",
-      "english": "⟨在⟩月"
+      "gloss": "⟨在⟩月"
     },
     {
       "surface": "העשירי",
-      "english": "第十"
+      "gloss": "第十"
     },
     {
       "surface": "בעשור",
-      "english": "在第十日"
+      "gloss": "在第十日"
     },
     {
       "surface": "לחדש",
-      "english": "⟨该⟩月的"
+      "gloss": "⟨该⟩月的"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T22:54:27.610944809Z",
-  "model": "glm-5.2"
+  ]
 }

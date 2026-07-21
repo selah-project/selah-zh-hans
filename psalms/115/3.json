@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 115:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64330,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64644
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:51.710853032Z",
   "translation": "而我们的以罗欣⟨在天上⟩；凡他所情愿的，他都行了。",
   "tokens": [
     {
       "surface": "ואלהינו",
-      "english": "而我们的以罗欣"
+      "gloss": "而我们的以罗欣"
     },
     {
       "surface": "בשמים",
-      "english": "⟨在天上⟩"
+      "gloss": "⟨在天上⟩"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "חפץ",
-      "english": "他情愿的"
+      "gloss": "他情愿的"
     },
     {
       "surface": "עשה",
-      "english": "他都行了"
+      "gloss": "他都行了"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:51.710853032Z",
-  "model": "glm-5.2"
+  ]
 }

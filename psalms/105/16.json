@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 105:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64438,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64820
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:50.065821683Z",
   "translation": "他呼唤饥荒降在地上，他折断了⟨所有的⟩粮的杖。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "他呼唤"
+      "gloss": "他呼唤"
     },
     {
       "surface": "רעב",
-      "english": "饥荒"
+      "gloss": "饥荒"
     },
     {
       "surface": "על",
-      "english": "降在\/临到"
+      "gloss": "降在\/临到"
     },
     {
       "surface": "הארץ",
-      "english": "地上"
+      "gloss": "地上"
     },
     {
       "surface": "כל",
-      "english": "⟨所有的⟩"
+      "gloss": "⟨所有的⟩"
     },
     {
       "surface": "מטה",
-      "english": "杖"
+      "gloss": "杖"
     },
     {
       "surface": "לחם",
-      "english": "粮的"
+      "gloss": "粮的"
     },
     {
       "surface": "שבר",
-      "english": "他折断了"
+      "gloss": "他折断了"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:50.065821683Z",
-  "model": "glm-5.2"
+  ]
 }

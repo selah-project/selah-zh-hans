@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "genesis 24:34",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 219,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22521,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22740
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:47:28.381163660Z",
   "translation": "他说：“⟨我⟩是亚伯拉罕的仆人，我就是。”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "עבד",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-17T17:47:28.381163660Z",
-  "model": "glm-5.2"
+  ]
 }

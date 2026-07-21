@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "genesis 31:9",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22916,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23211
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:36.022009920Z",
   "translation": "以罗欣抢走了⟨את⟩你们父亲的牲畜,并赐给了我。",
   "tokens": [
     {
       "surface": "ויצל",
-      "english": "抢走了"
+      "gloss": "抢走了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们父亲的牲畜"
     },
     {
       "surface": "מקנה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "אביכם",
-      "english": "你们父亲的"
+      "gloss": "你们父亲的"
     },
     {
       "surface": "ויתן",
-      "english": "并赐了"
+      "gloss": "并赐了"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:36.022009920Z",
-  "model": "glm-5.2"
+  ]
 }

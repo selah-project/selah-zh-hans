@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 46,
   "ref": "psalms 89:46",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64452,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64863
-  },
+  "verse": 46,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:32.126186350Z",
   "translation": "你缩短了他青年的日子，你用羞耻笼罩⟨在⟩他身上。细拉。",
   "tokens": [
     {
       "surface": "הקצרת",
-      "english": "你缩短了"
+      "gloss": "你缩短了"
     },
     {
       "surface": "ימי",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "עלומיו",
-      "english": "他的青年"
+      "gloss": "他的青年"
     },
     {
       "surface": "העטית",
-      "english": "你笼罩了"
+      "gloss": "你笼罩了"
     },
     {
       "surface": "עליו",
-      "english": "⟨在⟩他身上"
+      "gloss": "⟨在⟩他身上"
     },
     {
       "surface": "בושה",
-      "english": "羞耻"
+      "gloss": "羞耻"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:32.126186350Z",
-  "model": "glm-5.2"
+  ]
 }

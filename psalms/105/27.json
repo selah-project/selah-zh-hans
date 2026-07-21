@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 105:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64394,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64771
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:51.127602155Z",
   "translation": "他们在他⟨们⟩中间设立了⟨את⟩他的记号的*话语*，以及在含之地的奇事。",
   "tokens": [
     {
       "surface": "שמו",
-      "english": "他们设立了"
+      "gloss": "他们设立了"
     },
     {
       "surface": "בם",
-      "english": "在他⟨们⟩中间"
+      "gloss": "在他⟨们⟩中间"
     },
     {
       "surface": "דברי",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "אתותיו",
-      "english": "他的记号"
+      "gloss": "他的记号"
     },
     {
       "surface": "ומפתים",
-      "english": "以及奇事"
+      "gloss": "以及奇事"
     },
     {
       "surface": "בארץ",
-      "english": "在……之地"
+      "gloss": "在……之地"
     },
     {
       "surface": "חם",
-      "english": "含"
+      "gloss": "含"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:51.127602155Z",
-  "model": "glm-5.2"
+  ]
 }

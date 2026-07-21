@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 26:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19822,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20228
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:09.405933146Z",
   "translation": "法勒斯的子孙 ⟨是⟩ 属赫斯伦的 —— 赫斯伦宗族；属哈母勒的 —— 哈母勒宗族。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨他们⟩是"
+      "gloss": "⟨他们⟩是"
     },
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "פרץ",
-      "english": "法勒斯"
+      "gloss": "法勒斯"
     },
     {
       "surface": "לחצרן",
-      "english": "属赫斯伦的"
+      "gloss": "属赫斯伦的"
     },
     {
       "surface": "משפחת",
-      "english": "宗族"
+      "gloss": "宗族"
     },
     {
       "surface": "החצרני",
-      "english": "赫斯伦"
+      "gloss": "赫斯伦"
     },
     {
       "surface": "לחמול",
-      "english": "属哈母勒的"
+      "gloss": "属哈母勒的"
     },
     {
       "surface": "משפחת",
-      "english": "宗族"
+      "gloss": "宗族"
     },
     {
       "surface": "החמולי",
-      "english": "哈母勒"
+      "gloss": "哈母勒"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:09.405933146Z",
-  "model": "glm-5.2"
+  ]
 }

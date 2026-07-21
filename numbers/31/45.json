@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "numbers 31:45",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19225,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19488
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:22:54.742914427Z",
   "translation": "驴,三万零五百。",
   "tokens": [
     {
       "surface": "וַ\/חֲמֹרִ֕ים",
-      "english": "驴,"
+      "gloss": "驴,"
     },
     {
       "surface": "שְׁלֹשִׁ֥ים",
-      "english": "三万"
+      "gloss": "三万"
     },
     {
       "surface": "אֶ֖לֶף",
-      "english": "（千）"
+      "gloss": "（千）"
     },
     {
       "surface": "וַ\/חֲמֵ֥שׁ",
-      "english": "零五"
+      "gloss": "零五"
     },
     {
       "surface": "מֵאֽוֹת",
-      "english": "百。"
+      "gloss": "百。"
     }
-  ],
-  "timestamp": "2026-07-17T19:22:54.742914427Z",
-  "model": "glm-5.2"
+  ]
 }

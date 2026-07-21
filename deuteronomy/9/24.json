@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "deuteronomy 9:24",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19243,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19639
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:33:38.832604306Z",
   "translation": "悖逆之民,你们一直⟨是⟩与雅威在一起的 —— 自我认识⟨את⟩你们之日。",
   "tokens": [
     {
       "surface": "ממרים",
-      "english": "悖逆之民"
+      "gloss": "悖逆之民"
     },
     {
       "surface": "הייתם",
-      "english": "你们一直⟨是⟩"
+      "gloss": "你们一直⟨是⟩"
     },
     {
       "surface": "עם",
-      "english": "与……在一起的"
+      "gloss": "与……在一起的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מיום",
-      "english": "自……之日"
+      "gloss": "自……之日"
     },
     {
       "surface": "דעתי",
-      "english": "我认识"
+      "gloss": "我认识"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     }
-  ],
-  "timestamp": "2026-07-17T19:33:38.832604306Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 37:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 336,
-    "prompt_tokens": 64303,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64639
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:44.676073280Z",
   "translation": "终日他施恩并且借贷，而他的后代蒙福。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "终日"
+      "gloss": "终日"
     },
     {
       "surface": "היום",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "חונן",
-      "english": "他施恩"
+      "gloss": "他施恩"
     },
     {
       "surface": "ומלוה",
-      "english": "并且借贷"
+      "gloss": "并且借贷"
     },
     {
       "surface": "וזרעו",
-      "english": "而他的后代"
+      "gloss": "而他的后代"
     },
     {
       "surface": "לברכה",
-      "english": "蒙福"
+      "gloss": "蒙福"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:44.676073280Z",
-  "model": "glm-4.5"
+  ]
 }

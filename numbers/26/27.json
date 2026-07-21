@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "numbers 26:27",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19658,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19991
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:11.045328346Z",
   "translation": "这些⟨是⟩西布伦人的宗族，按他们被点算的数目：六十个千和五百。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "משפחת",
-      "english": "宗族"
+      "gloss": "宗族"
     },
     {
       "surface": "הזבולני",
-      "english": "西布伦人的"
+      "gloss": "西布伦人的"
     },
     {
       "surface": "לפקדיהם",
-      "english": "按他们被点算的数目"
+      "gloss": "按他们被点算的数目"
     },
     {
       "surface": "ששים",
-      "english": "六十"
+      "gloss": "六十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "和五"
+      "gloss": "和五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:11.045328346Z",
-  "model": "glm-5.2"
+  ]
 }

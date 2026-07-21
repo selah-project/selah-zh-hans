@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 6:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21758,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22200
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:06.588497634Z",
   "translation": "因为如今 ⟨它⟩ 比海沙更重,所以我的*话语* ⟨已经⟩ 吞咽了。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עתה",
-      "english": "如今"
+      "gloss": "如今"
     },
     {
       "surface": "מ\/חול",
-      "english": "比……的沙"
+      "gloss": "比……的沙"
     },
     {
       "surface": "ימים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "יכבד",
-      "english": "更重"
+      "gloss": "更重"
     },
     {
       "surface": "על",
-      "english": "在……之上 \/ 比"
+      "gloss": "在……之上 \/ 比"
     },
     {
       "surface": "כן",
-      "english": "所以"
+      "gloss": "所以"
     },
     {
       "surface": "דברי\/",
-      "english": "我的话语"
+      "gloss": "我的话语"
     },
     {
       "surface": "לעו",
-      "english": "吞咽了"
+      "gloss": "吞咽了"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:06.588497634Z",
-  "model": "glm-5.2"
+  ]
 }

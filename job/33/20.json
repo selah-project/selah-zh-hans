@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 33:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21538,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21953
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:26.716370612Z",
   "translation": "并且他的生命⟨使⟩面包变得可憎,他的 *néfesh* 厌恶美味食物。",
   "tokens": [
     {
       "surface": "וְ\/זִֽהֲמַ֣תּ\/וּ",
-      "english": "并且他的生命使……变得可憎"
+      "gloss": "并且他的生命使……变得可憎"
     },
     {
       "surface": "חַיָּת֣\/וֹ",
-      "english": "他的生命"
+      "gloss": "他的生命"
     },
     {
       "surface": "לָ֑חֶם",
-      "english": "面包"
+      "gloss": "面包"
     },
     {
       "surface": "וְ֝\/נַפְשׁ֗\/וֹ",
-      "english": "他的 *néfesh*"
+      "gloss": "他的 *néfesh*"
     },
     {
       "surface": "מַאֲכַ֥ל",
-      "english": "美味食物"
+      "gloss": "美味食物"
     },
     {
       "surface": "תַּאֲוָֽה",
-      "english": "渴望"
+      "gloss": "渴望"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:26.716370612Z",
-  "model": "glm-5.2"
+  ]
 }

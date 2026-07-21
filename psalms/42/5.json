@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 42:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 885,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65505,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 66390
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:50.241084099Z",
   "translation": "这些事我要记念,将我的נפש倾倒在我之上:因为我曾穿过⟨המון⟩,我步履沉重地走,直到以罗欣的殿,在欢呼与感谢的声音中——一个节庆的人群。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些事"
+      "gloss": "这些事"
     },
     {
       "surface": "אזכרה",
-      "english": "我要记念"
+      "gloss": "我要记念"
     },
     {
       "surface": "ואשפכה",
-      "english": "我将倾倒"
+      "gloss": "我将倾倒"
     },
     {
       "surface": "עלי",
-      "english": "在我之上"
+      "gloss": "在我之上"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אעבר",
-      "english": "我曾穿过"
+      "gloss": "我曾穿过"
     },
     {
       "surface": "בסך",
-      "english": "⟨המון⟩之中"
+      "gloss": "⟨המון⟩之中"
     },
     {
       "surface": "אדדם",
-      "english": "我步履沉重地走"
+      "gloss": "我步履沉重地走"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "בקול",
-      "english": "在……的声音中"
+      "gloss": "在……的声音中"
     },
     {
       "surface": "רנה",
-      "english": "欢呼"
+      "gloss": "欢呼"
     },
     {
       "surface": "ותודה",
-      "english": "与感谢"
+      "gloss": "与感谢"
     },
     {
       "surface": "המון",
-      "english": "一个……的人群"
+      "gloss": "一个……的人群"
     },
     {
       "surface": "חוגג",
-      "english": "节庆的"
+      "gloss": "节庆的"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:50.241084099Z",
-  "model": "glm-5.2"
+  ]
 }

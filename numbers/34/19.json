@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "numbers 34:19",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19582,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19970
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:25:33.397485912Z",
   "translation": "这些就是⟨那⟩人⟨们⟩的名字：属犹大支派的，迦勒，本-耶孚尼的儿子。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些就是"
+      "gloss": "这些就是"
     },
     {
       "surface": "שמות",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "האנשים",
-      "english": "⟨那⟩人⟨们⟩的"
+      "gloss": "⟨那⟩人⟨们⟩的"
     },
     {
       "surface": "למטה",
-      "english": "属……支派的"
+      "gloss": "属……支派的"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "כלב",
-      "english": "迦勒"
+      "gloss": "迦勒"
     },
     {
       "surface": "בן",
-      "english": "本-（儿子）"
+      "gloss": "本-（儿子）"
     },
     {
       "surface": "יפנה",
-      "english": "耶孚尼"
+      "gloss": "耶孚尼"
     }
-  ],
-  "timestamp": "2026-07-17T19:25:33.397485912Z",
-  "model": "glm-5.2"
+  ]
 }

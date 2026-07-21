@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 94:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64612,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65044
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:02.540804633Z",
   "translation": "那栽植耳朵的,⟨他⟩岂不听吗?那塑造眼睛的,⟨他⟩岂不看吗?",
   "tokens": [
     {
       "surface": "הנטע",
-      "english": "那栽植"
+      "gloss": "那栽植"
     },
     {
       "surface": "אזן",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "הלא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "ישמע",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "אם",
-      "english": "⟨吗⟩"
+      "gloss": "⟨吗⟩"
     },
     {
       "surface": "יצר",
-      "english": "那塑造"
+      "gloss": "那塑造"
     },
     {
       "surface": "עין",
-      "english": "眼睛"
+      "gloss": "眼睛"
     },
     {
       "surface": "הלא",
-      "english": "岂不"
+      "gloss": "岂不"
     },
     {
       "surface": "יביט",
-      "english": "看"
+      "gloss": "看"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:02.540804633Z",
-  "model": "glm-5.2"
+  ]
 }

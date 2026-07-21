@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-chronicles 1:30",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58368,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58622
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:28.012873030Z",
   "translation": "米施玛、⟨和⟩杜玛、玛撒、哈达德、⟨和⟩提玛",
   "tokens": [
     {
       "surface": "משמע",
-      "english": "米施玛"
+      "gloss": "米施玛"
     },
     {
       "surface": "ודומה",
-      "english": "⟨和⟩杜玛"
+      "gloss": "⟨和⟩杜玛"
     },
     {
       "surface": "משא",
-      "english": "玛撒"
+      "gloss": "玛撒"
     },
     {
       "surface": "חדד",
-      "english": "哈达德"
+      "gloss": "哈达德"
     },
     {
       "surface": "ותימא",
-      "english": "⟨和⟩提玛"
+      "gloss": "⟨和⟩提玛"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:28.012873030Z",
-  "model": "glm-5.2"
+  ]
 }

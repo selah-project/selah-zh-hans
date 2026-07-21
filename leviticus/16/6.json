@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 16:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19356,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19858
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:51:19.800753350Z",
   "translation": "亚伦要献上⟨את⟩属他的罪祭之公牛，为他自己和他家室履行卡帕拉。",
   "tokens": [
     {
       "surface": "והקריב",
-      "english": "要献上"
+      "gloss": "要献上"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "公牛"
     },
     {
       "surface": "פר",
-      "english": "公牛"
+      "gloss": "公牛"
     },
     {
       "surface": "החטאת",
-      "english": "罪祭之"
+      "gloss": "罪祭之"
     },
     {
       "surface": "אשר",
-      "english": "⟨即⟩"
+      "gloss": "⟨即⟩"
     },
     {
       "surface": "לו",
-      "english": "属他的"
+      "gloss": "属他的"
     },
     {
       "surface": "וכפר",
-      "english": "并履行卡帕拉"
+      "gloss": "并履行卡帕拉"
     },
     {
       "surface": "בעדו",
-      "english": "为他自己"
+      "gloss": "为他自己"
     },
     {
       "surface": "ובעד",
-      "english": "并为"
+      "gloss": "并为"
     },
     {
       "surface": "ביתו",
-      "english": "他家室"
+      "gloss": "他家室"
     }
-  ],
-  "timestamp": "2026-07-17T18:51:19.800753350Z",
-  "model": "glm-5.2"
+  ]
 }

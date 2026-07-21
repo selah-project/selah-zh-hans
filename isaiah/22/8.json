@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 22:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20955,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21498
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:12.911221553Z",
   "translation": "而他揭开了 ⟨את⟩ 犹大的遮蔽，在那日你注视 ⟨向⟩ 林中之屋的兵器库。",
   "tokens": [
     {
       "surface": "ויגל",
-      "english": "而他揭开了"
+      "gloss": "而他揭开了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "犹大的遮蔽"
     },
     {
       "surface": "מסך",
-      "english": "遮蔽"
+      "gloss": "遮蔽"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ותבט",
-      "english": "你注视"
+      "gloss": "你注视"
     },
     {
       "surface": "ביום",
-      "english": "在……日"
+      "gloss": "在……日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "נשק",
-      "english": "兵器库"
+      "gloss": "兵器库"
     },
     {
       "surface": "בית",
-      "english": "之屋"
+      "gloss": "之屋"
     },
     {
       "surface": "היער",
-      "english": "林"
+      "gloss": "林"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:12.911221553Z",
-  "model": "glm-5.2"
+  ]
 }

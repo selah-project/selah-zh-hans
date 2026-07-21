@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 23:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21146,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21609
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:45.156143958Z",
   "translation": "关于推罗的神谕：他施的船只啊，哀号吧！因为⟨那⟩家被毁坏了，⟨再无⟩从基提地来的进港，这向他们显露了。",
   "tokens": [
     {
       "surface": "משא",
-      "english": "神谕"
+      "gloss": "神谕"
     },
     {
       "surface": "צר",
-      "english": "关于推罗"
+      "gloss": "关于推罗"
     },
     {
       "surface": "הילילו",
-      "english": "哀号吧"
+      "gloss": "哀号吧"
     },
     {
       "surface": "אניות",
-      "english": "船只"
+      "gloss": "船只"
     },
     {
       "surface": "תרשיש",
-      "english": "他施"
+      "gloss": "他施"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שדד",
-      "english": "被毁坏了"
+      "gloss": "被毁坏了"
     },
     {
       "surface": "מבית",
-      "english": "从家"
+      "gloss": "从家"
     },
     {
       "surface": "מבוא",
-      "english": "进港"
+      "gloss": "进港"
     },
     {
       "surface": "מארץ",
-      "english": "从地"
+      "gloss": "从地"
     },
     {
       "surface": "כתים",
-      "english": "基提"
+      "gloss": "基提"
     },
     {
       "surface": "נגלה",
-      "english": "显露了"
+      "gloss": "显露了"
     },
     {
       "surface": "למו",
-      "english": "向他们"
+      "gloss": "向他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:45.156143958Z",
-  "model": "glm-5.2"
+  ]
 }

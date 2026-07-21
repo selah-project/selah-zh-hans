@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joel 2:15",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17845,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18250
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:50.079467848Z",
   "translation": "在锡安吹角！宣告禁食为圣,召集严肃会！",
   "tokens": [
     {
       "surface": "תִּקְעוּ",
-      "english": "吹"
+      "gloss": "吹"
     },
     {
       "surface": "שׁוֹפָר",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "בְּ\/צִיּוֹן",
-      "english": "在锡安"
+      "gloss": "在锡安"
     },
     {
       "surface": "קַדְּשׁוּ",
-      "english": "宣告……为圣"
+      "gloss": "宣告……为圣"
     },
     {
       "surface": "צוֹם",
-      "english": "禁食"
+      "gloss": "禁食"
     },
     {
       "surface": "קִרְאוּ",
-      "english": "召集"
+      "gloss": "召集"
     },
     {
       "surface": "עֲצָרָה",
-      "english": "严肃会"
+      "gloss": "严肃会"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:50.079467848Z",
-  "model": "glm-5.2"
+  ]
 }

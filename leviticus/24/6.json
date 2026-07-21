@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 24:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19401,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19910
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:56:43.668576420Z",
   "translation": "你 ⟨要⟩ 把 ⟨את⟩ 它们摆成两排,每排六 ⟨个⟩,摆在雅威面前 ⟨的⟩ 纯净桌子上。",
   "tokens": [
     {
       "surface": "ושמת",
-      "english": "你 ⟨要⟩ 摆"
+      "gloss": "你 ⟨要⟩ 摆"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩ 它们",
+      "gloss": "⟨את⟩ 它们",
       "marks": "两排 (שתים)"
     },
     {
       "surface": "שתים",
-      "english": "两排"
+      "gloss": "两排"
     },
     {
       "surface": "מערכות",
-      "english": "排"
+      "gloss": "排"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "המערכת",
-      "english": "⟨每⟩ 排 ⟨的⟩"
+      "gloss": "⟨每⟩ 排 ⟨的⟩"
     },
     {
       "surface": "על",
-      "english": "摆在……上"
+      "gloss": "摆在……上"
     },
     {
       "surface": "השלחן",
-      "english": "桌子"
+      "gloss": "桌子"
     },
     {
       "surface": "הטהר",
-      "english": "纯净的"
+      "gloss": "纯净的"
     },
     {
       "surface": "לפני",
-      "english": "面前"
+      "gloss": "面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:56:43.668576420Z",
-  "model": "glm-5.2"
+  ]
 }

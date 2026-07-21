@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 90:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64701,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65199
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:49.400185337Z",
   "translation": "因为在你眼中千年如昨日,在它消逝之时,又如夜里的一更。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֶ֪לֶף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "שָׁנִ֡ים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "בְּֽ\/עֵינֶ֗י\/ךָ",
-      "english": "在你眼中"
+      "gloss": "在你眼中"
     },
     {
       "surface": "כְּ\/י֣וֹם",
-      "english": "如⟨那⟩日"
+      "gloss": "如⟨那⟩日"
     },
     {
       "surface": "אֶ֭תְמוֹל",
-      "english": "昨日"
+      "gloss": "昨日"
     },
     {
       "surface": "כִּ֣י",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "יַעֲבֹ֑ר",
-      "english": "它消逝"
+      "gloss": "它消逝"
     },
     {
       "surface": "וְ\/אַשְׁמוּרָ֥ה",
-      "english": "又如一更"
+      "gloss": "又如一更"
     },
     {
       "surface": "בַ\/לָּֽיְלָה",
-      "english": "在夜里"
+      "gloss": "在夜里"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:49.400185337Z",
-  "model": "glm-5.2"
+  ]
 }

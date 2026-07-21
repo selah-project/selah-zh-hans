@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "leviticus 3:17",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19299,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19829
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:13.817922203Z",
   "translation": "永远 ⟨的⟩ 律例,归你们的世代,在你们一切的居住处:一切的脂油和一切的血,⟨你们⟩不可吃。",
   "tokens": [
     {
       "surface": "חֻקַּת",
-      "english": "律例"
+      "gloss": "律例"
     },
     {
       "surface": "עוֹלָם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "לְ\/דֹרֹתֵי\/כֶם",
-      "english": "归你们的世代"
+      "gloss": "归你们的世代"
     },
     {
       "surface": "בְּ\/כֹל",
-      "english": "在一切"
+      "gloss": "在一切"
     },
     {
       "surface": "מוֹשְׁבֹתֵי\/כֶם",
-      "english": "你们的居住处"
+      "gloss": "你们的居住处"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "חֵלֶב",
-      "english": "脂油"
+      "gloss": "脂油"
     },
     {
       "surface": "וְ\/כָל",
-      "english": "和一切"
+      "gloss": "和一切"
     },
     {
       "surface": "דָּם",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תֹאכֵלוּ",
-      "english": "吃"
+      "gloss": "吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:13.817922203Z",
-  "model": "glm-5.2"
+  ]
 }

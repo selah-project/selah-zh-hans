@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 51:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64413,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64857
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:46.515998604Z",
   "translation": "求你在你的喜悦中向锡安行善⟨את⟩；你必建造耶路撒冷的城墙。",
   "tokens": [
     {
       "surface": "היטיבה",
-      "english": "求你……行善"
+      "gloss": "求你……行善"
     },
     {
       "surface": "ברצונך",
-      "english": "在你的喜悦中"
+      "gloss": "在你的喜悦中"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "锡安"
     },
     {
       "surface": "ציון",
-      "english": "向锡安"
+      "gloss": "向锡安"
     },
     {
       "surface": "תבנה",
-      "english": "你必建造"
+      "gloss": "你必建造"
     },
     {
       "surface": "חומות",
-      "english": "城墙"
+      "gloss": "城墙"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:46.515998604Z",
-  "model": "glm-5.2"
+  ]
 }

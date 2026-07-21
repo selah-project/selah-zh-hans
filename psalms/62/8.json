@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 62:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64575,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64990
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:12.922481130Z",
   "translation": "在以罗欣 ⟨是⟩ 我的拯救和我的荣耀；我力量的磐石，我的避难所，⟨⟩ 在以罗欣。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ישעי",
-      "english": "我的拯救"
+      "gloss": "我的拯救"
     },
     {
       "surface": "וכבודי",
-      "english": "和我的荣耀"
+      "gloss": "和我的荣耀"
     },
     {
       "surface": "צור",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "עזי",
-      "english": "我力量的"
+      "gloss": "我力量的"
     },
     {
       "surface": "מחסי",
-      "english": "我的避难所"
+      "gloss": "我的避难所"
     },
     {
       "surface": "באלהים",
-      "english": "在以罗欣"
+      "gloss": "在以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:12.922481130Z",
-  "model": "glm-5.2"
+  ]
 }

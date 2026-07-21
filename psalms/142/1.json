@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 142:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64315,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64568
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:04.363419455Z",
   "translation": "训诲诗,属大卫,⟨是在⟩他⟨正⟩在洞中时:祷告。",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "训诲诗"
+      "gloss": "训诲诗"
     },
     {
       "surface": "לדוד",
-      "english": "属大卫"
+      "gloss": "属大卫"
     },
     {
       "surface": "בהיותו",
-      "english": "⟨是在⟩他……时"
+      "gloss": "⟨是在⟩他……时"
     },
     {
       "surface": "במערה",
-      "english": "在洞中"
+      "gloss": "在洞中"
     },
     {
       "surface": "תפלה",
-      "english": "祷告"
+      "gloss": "祷告"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:04.363419455Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
   "ref": "psalms 78:48",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64250,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64584
-  },
+  "verse": 48,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:04.210919462Z",
   "translation": "他将他们的牲畜交于冰雹,将他们的牛群交于火焰。",
   "tokens": [
     {
       "surface": "ויסגר",
-      "english": "他将……交于"
+      "gloss": "他将……交于"
     },
     {
       "surface": "לברד",
-      "english": "冰雹"
+      "gloss": "冰雹"
     },
     {
       "surface": "בעירם",
-      "english": "他们的牲畜"
+      "gloss": "他们的牲畜"
     },
     {
       "surface": "ומקניהם",
-      "english": "以及他们的牛群"
+      "gloss": "以及他们的牛群"
     },
     {
       "surface": "לרשפים",
-      "english": "于火焰"
+      "gloss": "于火焰"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:04.210919462Z",
-  "model": "glm-5.2"
+  ]
 }

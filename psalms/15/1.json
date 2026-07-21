@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 15:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64696,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65158
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:23.498335984Z",
   "translation": "大卫的诗歌。雅威啊,谁能在⟨你的⟩帐幕中寄居?谁能在⟨你的⟩圣山上居住?",
   "tokens": [
     {
       "surface": "מזמור",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יגור",
-      "english": "能寄居"
+      "gloss": "能寄居"
     },
     {
       "surface": "באהלך",
-      "english": "在⟨你的⟩帐幕中"
+      "gloss": "在⟨你的⟩帐幕中"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "ישכן",
-      "english": "能居住"
+      "gloss": "能居住"
     },
     {
       "surface": "בהר",
-      "english": "在……山上"
+      "gloss": "在……山上"
     },
     {
       "surface": "קדשך",
-      "english": "⟨你的⟩圣"
+      "gloss": "⟨你的⟩圣"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:23.498335984Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 56,
   "ref": "psalms 119:56",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64286,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64631
-  },
+  "verse": 56,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:46.097329027Z",
   "translation": "这⟨曾是我的⟩,因为我守了你的训令。",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "היתה",
-      "english": "⟨曾是我的⟩"
+      "gloss": "⟨曾是我的⟩"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "פקדיך",
-      "english": "你的训令"
+      "gloss": "你的训令"
     },
     {
       "surface": "נצרתי",
-      "english": "我守了"
+      "gloss": "我守了"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:46.097329027Z",
-  "model": "glm-5.2"
+  ]
 }

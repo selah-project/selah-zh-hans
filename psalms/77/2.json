@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 77:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64642,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65129
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:58.472116026Z",
   "translation": "我的声音⟨向⟩以罗欣，我便呼求；我的声音⟨向⟩以罗欣，他便留心听⟨我⟩。",
   "tokens": [
     {
       "surface": "קולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ואצעקה",
-      "english": "我便呼求"
+      "gloss": "我便呼求"
     },
     {
       "surface": "קולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "והאזין",
-      "english": "他便留心听"
+      "gloss": "他便留心听"
     },
     {
       "surface": "אלי",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:58.472116026Z",
-  "model": "glm-5.2"
+  ]
 }

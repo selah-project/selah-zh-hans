@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 62:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64598,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64984
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:12.689275939Z",
   "translation": "唯独 ⟨הוּא⟩ ⟨是⟩ 我的磐石和我的救恩，我的高台，我必不致大大动摇。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "唯独"
+      "gloss": "唯独"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "צורי",
-      "english": "我的磐石"
+      "gloss": "我的磐石"
     },
     {
       "surface": "וישועתי",
-      "english": "和我的救恩"
+      "gloss": "和我的救恩"
     },
     {
       "surface": "משגבי",
-      "english": "我的高台"
+      "gloss": "我的高台"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אמוט",
-      "english": "⟨我⟩动摇"
+      "gloss": "⟨我⟩动摇"
     },
     {
       "surface": "רבה",
-      "english": "大大"
+      "gloss": "大大"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:12.689275939Z",
-  "model": "glm-5.2"
+  ]
 }

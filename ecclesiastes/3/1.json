@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ecclesiastes 3:1",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18790,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19126
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:30.963394058Z",
   "translation": "凡事都有定期,天下每一个חֵפֶץ(意愿)都有⟨其⟩עֵת(定时)。",
   "tokens": [
     {
       "surface": "לכל",
-      "english": "凡事都有"
+      "gloss": "凡事都有"
     },
     {
       "surface": "זמן",
-      "english": "定期"
+      "gloss": "定期"
     },
     {
       "surface": "ועת",
-      "english": "和⟨其⟩定时"
+      "gloss": "和⟨其⟩定时"
     },
     {
       "surface": "לכל",
-      "english": "每一个"
+      "gloss": "每一个"
     },
     {
       "surface": "חפץ",
-      "english": "意愿"
+      "gloss": "意愿"
     },
     {
       "surface": "תחת",
-      "english": "天下"
+      "gloss": "天下"
     },
     {
       "surface": "השמים",
-      "english": "(诸天之下)"
+      "gloss": "(诸天之下)"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:30.963394058Z",
-  "model": "glm-5.2"
+  ]
 }

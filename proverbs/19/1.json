@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 19:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54473,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54889
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:14.449412465Z",
   "translation": "一个贫穷人行走在他的完全中，比嘴唇乖谬、他⟨是⟩愚顽人的更好。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好"
+      "gloss": "更好"
     },
     {
       "surface": "רש",
-      "english": "一个贫穷人"
+      "gloss": "一个贫穷人"
     },
     {
       "surface": "הולך",
-      "english": "行走在"
+      "gloss": "行走在"
     },
     {
       "surface": "בתמו",
-      "english": "他的完全中"
+      "gloss": "他的完全中"
     },
     {
       "surface": "מעקש",
-      "english": "乖谬"
+      "gloss": "乖谬"
     },
     {
       "surface": "שפתיו",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "והוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "כסיל",
-      "english": "愚顽人"
+      "gloss": "愚顽人"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:14.449412465Z",
-  "model": "glm-5.2"
+  ]
 }

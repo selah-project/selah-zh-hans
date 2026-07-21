@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 31:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54371,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54766
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:31.674835976Z",
   "translation": "不要将你的力量给妇女,也不要将你的道路给⟨那⟩毁灭君王的;",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתן",
-      "english": "将……给"
+      "gloss": "将……给"
     },
     {
       "surface": "לנשים",
-      "english": "妇女"
+      "gloss": "妇女"
     },
     {
       "surface": "חילך",
-      "english": "你的力量"
+      "gloss": "你的力量"
     },
     {
       "surface": "ודרכיך",
-      "english": "也不要将你的道路"
+      "gloss": "也不要将你的道路"
     },
     {
       "surface": "למחות",
-      "english": "给毁灭"
+      "gloss": "给毁灭"
     },
     {
       "surface": "מלכין",
-      "english": "君王的"
+      "gloss": "君王的"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:31.674835976Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 127:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 127,
-  "usage": {
-    "completion_tokens": 814,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65032,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65846
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:43:00.711368701Z",
   "translation": "虚空 ⟨归⟩\/你们——早起者、晚歇者、吃痛苦之饼的人；照样，他⟨将⟩赐给⟨他的⟩所爱之人睡眠。",
   "tokens": [
     {
       "surface": "שוא",
-      "english": "虚空"
+      "gloss": "虚空"
     },
     {
       "surface": "לכם",
-      "english": "⟨归⟩\/你们"
+      "gloss": "⟨归⟩\/你们"
     },
     {
       "surface": "משכימי",
-      "english": "早起者"
+      "gloss": "早起者"
     },
     {
       "surface": "קום",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מאחרי",
-      "english": "晚歇者"
+      "gloss": "晚歇者"
     },
     {
       "surface": "שבת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אכלי",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "לחם",
-      "english": "……之饼"
+      "gloss": "……之饼"
     },
     {
       "surface": "העצבים",
-      "english": "痛苦"
+      "gloss": "痛苦"
     },
     {
       "surface": "כן",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "יתן",
-      "english": "他⟨将⟩赐给"
+      "gloss": "他⟨将⟩赐给"
     },
     {
       "surface": "לידידו",
-      "english": "⟨他的⟩所爱之人"
+      "gloss": "⟨他的⟩所爱之人"
     },
     {
       "surface": "שנא",
-      "english": "睡眠"
+      "gloss": "睡眠"
     }
-  ],
-  "timestamp": "2026-07-20T06:43:00.711368701Z",
-  "model": "glm-5.2"
+  ]
 }

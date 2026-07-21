@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "proverbs 27:26",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54249,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54621
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:19.556194847Z",
   "translation": "羊羔作你的衣服，公山羊⟨作⟩田地的代价。",
   "tokens": [
     {
       "surface": "כבשים",
-      "english": "羊羔"
+      "gloss": "羊羔"
     },
     {
       "surface": "ללבושך",
-      "english": "作你的衣服"
+      "gloss": "作你的衣服"
     },
     {
       "surface": "ומחיר",
-      "english": "公山羊⟨作⟩……的代价"
+      "gloss": "公山羊⟨作⟩……的代价"
     },
     {
       "surface": "שדה",
-      "english": "田地"
+      "gloss": "田地"
     },
     {
       "surface": "עתודים",
-      "english": "……的代价"
+      "gloss": "……的代价"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:19.556194847Z",
-  "model": "glm-5.2"
+  ]
 }

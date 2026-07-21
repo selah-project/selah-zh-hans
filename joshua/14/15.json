@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joshua 14:15",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18305,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18822
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:59:02.954766089Z",
   "translation": "希伯仑从前的名字是*Qiryat-Arba*（亚巴城）——他在亚衲族人中是⟨那⟩大人；那地息了战事，免于争战。",
   "tokens": [
     {
       "surface": "ושם",
-      "english": "⟨而⟩名字"
+      "gloss": "⟨而⟩名字"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "לפנים",
-      "english": "从前"
+      "gloss": "从前"
     },
     {
       "surface": "קרית",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "ארבע",
-      "english": "亚巴"
+      "gloss": "亚巴"
     },
     {
       "surface": "האדם",
-      "english": "⟨那⟩人"
+      "gloss": "⟨那⟩人"
     },
     {
       "surface": "הגדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "בענקים",
-      "english": "在亚衲族人中间"
+      "gloss": "在亚衲族人中间"
     },
     {
       "surface": "הוא",
-      "english": "他（即亚巴）"
+      "gloss": "他（即亚巴）"
     },
     {
       "surface": "והארץ",
-      "english": "⟨而⟩那地"
+      "gloss": "⟨而⟩那地"
     },
     {
       "surface": "שקטה",
-      "english": "息了（战事）"
+      "gloss": "息了（战事）"
     },
     {
       "surface": "ממלחמה",
-      "english": "免于争战"
+      "gloss": "免于争战"
     }
-  ],
-  "timestamp": "2026-07-17T19:59:02.954766089Z",
-  "model": "glm-5.2"
+  ]
 }

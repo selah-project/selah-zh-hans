@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 10:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21809,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22224
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:10.839966084Z",
   "translation": "我的性命厌弃⟨我的⟩生命；我要任凭⟨我⟩自己的哀诉⟨在我身上⟩——我要在苦楚中述说我的性命。",
   "tokens": [
     {
       "surface": "נקטה",
-      "english": "厌弃"
+      "gloss": "厌弃"
     },
     {
       "surface": "נפשי",
-      "english": "我的性命"
+      "gloss": "我的性命"
     },
     {
       "surface": "בחיי",
-      "english": "⟨在⟩我的生命⟨中⟩"
+      "gloss": "⟨在⟩我的生命⟨中⟩"
     },
     {
       "surface": "אעזבה",
-      "english": "我要任凭"
+      "gloss": "我要任凭"
     },
     {
       "surface": "עלי",
-      "english": "⟨在我身上⟩"
+      "gloss": "⟨在我身上⟩"
     },
     {
       "surface": "שיחי",
-      "english": "我⟨的⟩哀诉"
+      "gloss": "我⟨的⟩哀诉"
     },
     {
       "surface": "אדברה",
-      "english": "我要述说"
+      "gloss": "我要述说"
     },
     {
       "surface": "במר",
-      "english": "在苦楚中"
+      "gloss": "在苦楚中"
     },
     {
       "surface": "נפשי",
-      "english": "我的性命"
+      "gloss": "我的性命"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:10.839966084Z",
-  "model": "glm-5.2"
+  ]
 }

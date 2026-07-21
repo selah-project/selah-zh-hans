@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 47:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64389,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64933
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:26.604577869Z",
   "translation": "当向以罗欣弹奏乐音，弹奏吧！当向我们的君王弹奏乐音，弹奏吧！",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "当弹奏乐音"
+      "gloss": "当弹奏乐音"
     },
     {
       "surface": "אלהים",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "זמרו",
-      "english": "弹奏吧"
+      "gloss": "弹奏吧"
     },
     {
       "surface": "זמרו",
-      "english": "当弹奏乐音"
+      "gloss": "当弹奏乐音"
     },
     {
       "surface": "למלכנו",
-      "english": "向我们的君王"
+      "gloss": "向我们的君王"
     },
     {
       "surface": "זמרו",
-      "english": "弹奏吧"
+      "gloss": "弹奏吧"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:26.604577869Z",
-  "model": "glm-5.2"
+  ]
 }

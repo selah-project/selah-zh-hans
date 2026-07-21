@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 9:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21551,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21937
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:59.527426678Z",
   "translation": "若我用雪沐浴，并用碱净⟨我的⟩双手，",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "התרחצתי",
-      "english": "我沐浴"
+      "gloss": "我沐浴"
     },
     {
       "surface": "במו",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "שלג",
-      "english": "雪"
+      "gloss": "雪"
     },
     {
       "surface": "והזכותי",
-      "english": "且我净"
+      "gloss": "且我净"
     },
     {
       "surface": "בבר",
-      "english": "用碱"
+      "gloss": "用碱"
     },
     {
       "surface": "כפי",
-      "english": "⟨我的⟩双手"
+      "gloss": "⟨我的⟩双手"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:59.527426678Z",
-  "model": "glm-5.2"
+  ]
 }

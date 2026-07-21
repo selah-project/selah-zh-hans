@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 31:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54340,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54709
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:21.277131570Z",
   "translation": "她的丈夫的心倚靠她，并且他不缺乏掠物。",
   "tokens": [
     {
       "surface": "בטח",
-      "english": "倚靠"
+      "gloss": "倚靠"
     },
     {
       "surface": "בה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "בעלה",
-      "english": "她的丈夫"
+      "gloss": "她的丈夫"
     },
     {
       "surface": "ושלל",
-      "english": "并且掠物"
+      "gloss": "并且掠物"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יחסר",
-      "english": "⟨他⟩缺乏"
+      "gloss": "⟨他⟩缺乏"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:21.277131570Z",
-  "model": "glm-5.2"
+  ]
 }

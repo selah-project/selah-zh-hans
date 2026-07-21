@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 38:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21513,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21903
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:43.441745447Z",
   "translation": "水如石头一样隐藏起来，⟨深渊的⟩面被冻结。",
   "tokens": [
     {
       "surface": "כאבן",
-      "english": "如石头"
+      "gloss": "如石头"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "יתחבאו",
-      "english": "隐藏起来"
+      "gloss": "隐藏起来"
     },
     {
       "surface": "ופני",
-      "english": "而⟨……的⟩面"
+      "gloss": "而⟨……的⟩面"
     },
     {
       "surface": "תהום",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "יתלכדו",
-      "english": "被冻结"
+      "gloss": "被冻结"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:43.441745447Z",
-  "model": "glm-5.2"
+  ]
 }

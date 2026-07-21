@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 124:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 124,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64640,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65170
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:46.250451495Z",
   "translation": "上行之⟨歌⟩。大卫的。若不是雅威为我们存留⟨在这里⟩，愿以色列现在说：",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "上行之⟨歌⟩"
+      "gloss": "上行之⟨歌⟩"
     },
     {
       "surface": "המעלות",
-      "english": "上行之"
+      "gloss": "上行之"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "לולי",
-      "english": "若不是"
+      "gloss": "若不是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שהיה",
-      "english": "为我们存留⟨在这里⟩"
+      "gloss": "为我们存留⟨在这里⟩"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "יאמר",
-      "english": "愿……说"
+      "gloss": "愿……说"
     },
     {
       "surface": "נא",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:46.250451495Z",
-  "model": "glm-5.2"
+  ]
 }

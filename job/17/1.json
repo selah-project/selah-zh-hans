@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 17:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21466,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21915
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:31.107252388Z",
   "translation": "我的鲁阿被绞碎，我的日子被熄灭，坟墓⟨是⟩给我的。",
   "tokens": [
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "חבלה",
-      "english": "被绞碎"
+      "gloss": "被绞碎"
     },
     {
       "surface": "ימי",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "נזעכו",
-      "english": "被熄灭"
+      "gloss": "被熄灭"
     },
     {
       "surface": "קברים",
-      "english": "坟墓"
+      "gloss": "坟墓"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:31.107252388Z",
-  "model": "glm-5.2"
+  ]
 }

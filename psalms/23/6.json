@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 23:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 529,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64901,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65430
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:49.643550380Z",
   "translation": "诚然,טוֹב (善) 与 חֶסֶד (חֶסֶד) 必追赶我,尽我生命的所有日子;我必住在雅威的殿中,直到永远。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "טוב",
-      "english": "טוֹב (善)"
+      "gloss": "טוֹב (善)"
     },
     {
       "surface": "וחסד",
-      "english": "与 חֶסֶד"
+      "gloss": "与 חֶסֶד"
     },
     {
       "surface": "ירדפוני",
-      "english": "必追赶我"
+      "gloss": "必追赶我"
     },
     {
       "surface": "כל",
-      "english": "尽"
+      "gloss": "尽"
     },
     {
       "surface": "ימי",
-      "english": "的所有日子"
+      "gloss": "的所有日子"
     },
     {
       "surface": "חיי",
-      "english": "我生命"
+      "gloss": "我生命"
     },
     {
       "surface": "ושבתי",
-      "english": "我必住在"
+      "gloss": "我必住在"
     },
     {
       "surface": "בבית",
-      "english": "在……的殿中"
+      "gloss": "在……的殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לארך",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "ימים",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:49.643550380Z",
-  "model": "glm-5.2"
+  ]
 }

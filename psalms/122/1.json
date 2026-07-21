@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 122:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64580,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65015
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:23.295273751Z",
   "translation": "上行之⟨歌⟩。⟨属⟩大卫的。他们对我说：雅威的殿，我们⟨去⟩吧！我就欢喜了。",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "上行之⟨歌⟩"
+      "gloss": "上行之⟨歌⟩"
     },
     {
       "surface": "המעלות",
-      "english": "上行"
+      "gloss": "上行"
     },
     {
       "surface": "לדוד",
-      "english": "⟨属⟩大卫的"
+      "gloss": "⟨属⟩大卫的"
     },
     {
       "surface": "שמחתי",
-      "english": "我就欢喜了"
+      "gloss": "我就欢喜了"
     },
     {
       "surface": "באמרים",
-      "english": "当他们说"
+      "gloss": "当他们说"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נלך",
-      "english": "我们⟨去⟩吧"
+      "gloss": "我们⟨去⟩吧"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:23.295273751Z",
-  "model": "glm-5.2"
+  ]
 }

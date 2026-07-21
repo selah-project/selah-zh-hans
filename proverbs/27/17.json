@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 27:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54359,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54766
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:23.934708597Z",
   "translation": "铁磨铁,使其锋利;如此,一个人磨利⟨他⟩同伴的面。",
   "tokens": [
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "בברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "יחד",
-      "english": "使其锋利"
+      "gloss": "使其锋利"
     },
     {
       "surface": "ואיש",
-      "english": "如此,一个人"
+      "gloss": "如此,一个人"
     },
     {
       "surface": "יחד",
-      "english": "磨利"
+      "gloss": "磨利"
     },
     {
       "surface": "פני",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "רעהו",
-      "english": "⟨他⟩同伴"
+      "gloss": "⟨他⟩同伴"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:23.934708597Z",
-  "model": "glm-5.2"
+  ]
 }

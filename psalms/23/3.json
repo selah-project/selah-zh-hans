@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 23:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64534,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64991
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:48.605697815Z",
   "translation": "我的生命气息,他转回;他在公义的轨迹中引导我——为了他名字的缘故。",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "我的生命气息"
+      "gloss": "我的生命气息"
     },
     {
       "surface": "ישובב",
-      "english": "他转回"
+      "gloss": "他转回"
     },
     {
       "surface": "ינחני",
-      "english": "他引导我"
+      "gloss": "他引导我"
     },
     {
       "surface": "במעגלי",
-      "english": "在……的轨迹中"
+      "gloss": "在……的轨迹中"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "למען",
-      "english": "为了……的缘故"
+      "gloss": "为了……的缘故"
     },
     {
       "surface": "שמו",
-      "english": "他的名字"
+      "gloss": "他的名字"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:48.605697815Z",
-  "model": "glm-5.2"
+  ]
 }

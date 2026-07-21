@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 35:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64843,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65381
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:03.912401290Z",
   "translation": "愿毁灭临到他,他⟨不⟩知晓;而他隐藏的网,⟨就是⟩他暗设的,愿⟨它⟩捉住他;愿他落入⟨那⟩毁灭之中。",
   "tokens": [
     {
       "surface": "תבואהו",
-      "english": "愿毁灭临到他"
+      "gloss": "愿毁灭临到他"
     },
     {
       "surface": "שואה",
-      "english": "毁灭"
+      "gloss": "毁灭"
     },
     {
       "surface": "לא",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "ידע",
-      "english": "知晓"
+      "gloss": "知晓"
     },
     {
       "surface": "ורשתו",
-      "english": "而他的网"
+      "gloss": "而他的网"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "טמן",
-      "english": "他暗设的"
+      "gloss": "他暗设的"
     },
     {
       "surface": "תלכדו",
-      "english": "愿⟨它⟩捉住他"
+      "gloss": "愿⟨它⟩捉住他"
     },
     {
       "surface": "בשואה",
-      "english": "在毁灭之中"
+      "gloss": "在毁灭之中"
     },
     {
       "surface": "יפל",
-      "english": "愿他落入"
+      "gloss": "愿他落入"
     },
     {
       "surface": "בה",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:03.912401290Z",
-  "model": "glm-5.2"
+  ]
 }

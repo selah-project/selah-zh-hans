@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 31:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22755,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23071
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:26.623267377Z",
   "translation": "第三天有人告诉拉班，雅各逃跑了，",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "有人告诉"
+      "gloss": "有人告诉"
     },
     {
       "surface": "ללבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "ביום",
-      "english": "在……日"
+      "gloss": "在……日"
     },
     {
       "surface": "השלישי",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "כי",
-      "english": "（连词）"
+      "gloss": "（连词）"
     },
     {
       "surface": "ברח",
-      "english": "逃跑了"
+      "gloss": "逃跑了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:26.623267377Z",
-  "model": "glm-5.2"
+  ]
 }

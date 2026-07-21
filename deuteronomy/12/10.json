@@ -1,94 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 12:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 692,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20363,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 21055
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:35:57.532527708Z",
   "translation": "你们将渡过 ⟨את⟩ 约旦河,住在那地上 —— 就是雅威你们的以罗欣使你们为业的,他必赐你们脱离周围一切仇敌的扰乱,〈他〉使你们得安宁,你们便安然居住。",
   "tokens": [
     {
       "surface": "ועברתם",
-      "english": "你们将渡过"
+      "gloss": "你们将渡过"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约旦河"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "וישבתם",
-      "english": "你们将住在"
+      "gloss": "你们将住在"
     },
     {
       "surface": "בארץ",
-      "english": "在那地上"
+      "gloss": "在那地上"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     },
     {
       "surface": "מנחיל",
-      "english": "使……为业的"
+      "gloss": "使……为业的"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "使你们"
     },
     {
       "surface": "והניח",
-      "english": "他必赐……得安宁"
+      "gloss": "他必赐……得安宁"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "מכל",
-      "english": "脱离一切"
+      "gloss": "脱离一切"
     },
     {
       "surface": "איביכם",
-      "english": "你们的仇敌"
+      "gloss": "你们的仇敌"
     },
     {
       "surface": "מסביב",
-      "english": "周围的"
+      "gloss": "周围的"
     },
     {
       "surface": "וישבתם",
-      "english": "你们将居住"
+      "gloss": "你们将居住"
     },
     {
       "surface": "בטח",
-      "english": "安然"
+      "gloss": "安然"
     }
-  ],
-  "timestamp": "2026-07-17T19:35:57.532527708Z",
-  "model": "glm-5.2"
+  ]
 }

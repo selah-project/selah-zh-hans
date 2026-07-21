@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 8:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23267,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23596
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:37:28.173771282Z",
   "translation": "他又等候了七日,又再次差遣鸽子离开方舟;",
   "tokens": [
     {
       "surface": "ויחל",
-      "english": "他又等候了"
+      "gloss": "他又等候了"
     },
     {
       "surface": "עוד",
-      "english": "又"
+      "gloss": "又"
     },
     {
       "surface": "שבעת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "אחרים",
-      "english": "其他的"
+      "gloss": "其他的"
     },
     {
       "surface": "ויסף",
-      "english": "又再次"
+      "gloss": "又再次"
     },
     {
       "surface": "שלח",
-      "english": "差遣"
+      "gloss": "差遣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "鸽子"
     },
     {
       "surface": "היונה",
-      "english": "鸽子"
+      "gloss": "鸽子"
     },
     {
       "surface": "מן",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "התבה",
-      "english": "方舟"
+      "gloss": "方舟"
     }
-  ],
-  "timestamp": "2026-07-17T17:37:28.173771282Z",
-  "model": "glm-5.2"
+  ]
 }

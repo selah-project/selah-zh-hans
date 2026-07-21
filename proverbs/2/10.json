@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 2:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54344,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54692
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:19.340248144Z",
   "translation": "因为 *Jojmá* 进入你的心，*da'at* 对你的 *nephesh* ⟨成为⟩ 愉悦——",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "חכמה",
-      "english": "*Jojmá* (智慧)"
+      "gloss": "*Jojmá* (智慧)"
     },
     {
       "surface": "בלבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "ודעת",
-      "english": "*da'at* (知识)"
+      "gloss": "*da'at* (知识)"
     },
     {
       "surface": "לנפשך",
-      "english": "你的 *nephesh*"
+      "gloss": "你的 *nephesh*"
     },
     {
       "surface": "ינעם",
-      "english": "⟨成为⟩ 愉悦"
+      "gloss": "⟨成为⟩ 愉悦"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:19.340248144Z",
-  "model": "glm-5.2"
+  ]
 }

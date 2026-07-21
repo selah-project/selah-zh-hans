@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "2-kings 10:16",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18679,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19147
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:24:14.405933684Z",
   "translation": "他⟨说⟩：与我同来，看⟨我⟩对雅威的⟨热忱⟩；他们就使他骑⟨את⟩他的战车。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "לכה",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "אתי",
-      "english": "与我"
+      "gloss": "与我"
     },
     {
       "surface": "וראה",
-      "english": "看"
+      "gloss": "看"
     },
     {
       "surface": "בקנאתי",
-      "english": "我的热忱"
+      "gloss": "我的热忱"
     },
     {
       "surface": "ליהוה",
-      "english": "对雅威"
+      "gloss": "对雅威"
     },
     {
       "surface": "וירכבו",
-      "english": "他们使……骑"
+      "gloss": "他们使……骑"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的战车"
     },
     {
       "surface": "ברכבו",
-      "english": "在他的战车中"
+      "gloss": "在他的战车中"
     }
-  ],
-  "timestamp": "2026-07-17T21:24:14.405933684Z",
-  "model": "glm-5.2"
+  ]
 }

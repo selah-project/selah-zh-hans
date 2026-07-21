@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 34:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64623,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64991
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:24.854254470Z",
   "translation": "少壮狮子 ⟨有⟩缺乏 ⟨和⟩饥饿,但寻求雅威的,任何美物都不缺。",
   "tokens": [
     {
       "surface": "כפירים",
-      "english": "少壮狮子"
+      "gloss": "少壮狮子"
     },
     {
       "surface": "רשו",
-      "english": "缺乏"
+      "gloss": "缺乏"
     },
     {
       "surface": "ורעבו",
-      "english": "和饥饿"
+      "gloss": "和饥饿"
     },
     {
       "surface": "ודרשי",
-      "english": "但寻求"
+      "gloss": "但寻求"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יחסרו",
-      "english": "缺"
+      "gloss": "缺"
     },
     {
       "surface": "כל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "טוב",
-      "english": "美物"
+      "gloss": "美物"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:24.854254470Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 40:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64994,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65490
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:04.351255751Z",
   "translation": "有福的⟨是⟩⟨那⟩勇士,⟨那⟩以雅威为⟨他⟩信靠的,不转向狂妄之徒,⟨也不转向⟩偏向谎言的人。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福的"
+      "gloss": "有福的"
     },
     {
       "surface": "הגבר",
-      "english": "⟨那⟩勇士"
+      "gloss": "⟨那⟩勇士"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "שם",
-      "english": "设立"
+      "gloss": "设立"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מבטחו",
-      "english": "为⟨他⟩信靠的"
+      "gloss": "为⟨他⟩信靠的"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "פנה",
-      "english": "转向"
+      "gloss": "转向"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "רהבים",
-      "english": "狂妄之徒"
+      "gloss": "狂妄之徒"
     },
     {
       "surface": "ושטי",
-      "english": "⟨也不转向⟩偏向的人"
+      "gloss": "⟨也不转向⟩偏向的人"
     },
     {
       "surface": "כזב",
-      "english": "谎言"
+      "gloss": "谎言"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:04.351255751Z",
-  "model": "glm-5.2"
+  ]
 }

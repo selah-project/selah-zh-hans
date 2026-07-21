@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "proverbs 28:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 460,
-    "prompt_tokens": 54487,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54947
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:31.516615554Z",
   "translation": "A faithful man ⟨has⟩ abundant blessings; but he who hastens to be rich will not be unpunished.",
   "tokens": [
     {
       "surface": "איש",
-      "english": "A faithful man"
+      "gloss": "A faithful man"
     },
     {
       "surface": "אמונות",
-      "english": "faithful"
+      "gloss": "faithful"
     },
     {
       "surface": "רב",
-      "english": "abundant"
+      "gloss": "abundant"
     },
     {
       "surface": "ברכות",
-      "english": "blessings"
+      "gloss": "blessings"
     },
     {
       "surface": "ואץ",
-      "english": "but he who hastens"
+      "gloss": "but he who hastens"
     },
     {
       "surface": "להעשיר",
-      "english": "to be rich"
+      "gloss": "to be rich"
     },
     {
       "surface": "לא",
-      "english": "will not"
+      "gloss": "will not"
     },
     {
       "surface": "ינקה",
-      "english": "be unpunished"
+      "gloss": "be unpunished"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:31.516615554Z",
-  "model": "glm-4.5"
+  ]
 }

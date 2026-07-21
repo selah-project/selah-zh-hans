@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 1:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22883,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 23254
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:32:23.515896779Z",
   "translation": "起初，以罗欣创造了 ⟨את⟩ 天和 ⟨את⟩ 地。",
   "tokens": [
     {
       "surface": "בראשית",
-      "english": "起初"
+      "gloss": "起初"
     },
     {
       "surface": "ברא",
-      "english": "创造了"
+      "gloss": "创造了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "天"
     },
     {
       "surface": "השמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "地"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T17:32:23.515896779Z",
-  "model": "glm-5.2"
+  ]
 }

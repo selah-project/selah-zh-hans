@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "genesis 40:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23084,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23504
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:00:49.170677982Z",
   "translation": "约瑟回答并说:这⟨是⟩它的解:三个篮子⟨是⟩三天 —— ⟨它们⟩。",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "ויאמר",
-      "english": "并说"
+      "gloss": "并说"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "פתרנו",
-      "english": "⟨是⟩它的解"
+      "gloss": "⟨是⟩它的解"
     },
     {
       "surface": "שלשת",
-      "english": "三个"
+      "gloss": "三个"
     },
     {
       "surface": "הסלים",
-      "english": "篮子"
+      "gloss": "篮子"
     },
     {
       "surface": "שלשת",
-      "english": "⟨是⟩三"
+      "gloss": "⟨是⟩三"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "הם",
-      "english": "—— ⟨它们⟩"
+      "gloss": "—— ⟨它们⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:00:49.170677982Z",
-  "model": "glm-5.2"
+  ]
 }

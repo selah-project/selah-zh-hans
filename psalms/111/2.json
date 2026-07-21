@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 111:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64438,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64815
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:58.792907421Z",
   "translation": "雅威的作为大，被一切喜悦它们的人寻求。",
   "tokens": [
     {
       "surface": "גדלים",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "מעשי",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דרושים",
-      "english": "被寻求"
+      "gloss": "被寻求"
     },
     {
       "surface": "לכל",
-      "english": "被一切"
+      "gloss": "被一切"
     },
     {
       "surface": "חפציהם",
-      "english": "喜悦它们的人"
+      "gloss": "喜悦它们的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:58.792907421Z",
-  "model": "glm-5.2"
+  ]
 }

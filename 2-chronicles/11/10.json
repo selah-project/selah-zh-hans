@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-chronicles 11:10",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60151,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60666
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:20:16.419804799Z",
   "translation": "和⟨את⟩琐拉、和⟨את⟩亚雅仑、和⟨את⟩希伯仑,⟨它们⟩在犹大和便雅悯中,堡障之城。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "琐拉"
     },
     {
       "surface": "צרעה",
-      "english": "琐拉"
+      "gloss": "琐拉"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "亚雅仑"
     },
     {
       "surface": "אילון",
-      "english": "亚雅仑"
+      "gloss": "亚雅仑"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "希伯仑"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "אשר",
-      "english": "⟨它们⟩在"
+      "gloss": "⟨它们⟩在"
     },
     {
       "surface": "ביהודה",
-      "english": "犹大中"
+      "gloss": "犹大中"
     },
     {
       "surface": "ובבנימן",
-      "english": "和便雅悯中"
+      "gloss": "和便雅悯中"
     },
     {
       "surface": "ערי",
-      "english": "之城"
+      "gloss": "之城"
     },
     {
       "surface": "מצרות",
-      "english": "堡障"
+      "gloss": "堡障"
     }
-  ],
-  "timestamp": "2026-07-18T02:20:16.419804799Z",
-  "model": "glm-5.2"
+  ]
 }

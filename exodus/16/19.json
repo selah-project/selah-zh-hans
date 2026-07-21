@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "exodus 16:19",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18516,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18816
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:01.616753481Z",
   "translation": "摩西对他们说：各人不可让它余剩⟨任何部分⟩直到早晨。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יותר",
-      "english": "让它余剩"
+      "gloss": "让它余剩"
     },
     {
       "surface": "ממנו",
-      "english": "⟨任何部分⟩"
+      "gloss": "⟨任何部分⟩"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:01.616753481Z",
-  "model": "glm-5.2"
+  ]
 }

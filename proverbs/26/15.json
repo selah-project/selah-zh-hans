@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 26:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54477,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54968
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:52.606816002Z",
   "translation": "懒惰人把⟨他的⟩手藏在⟨⟨את⟩⟩深盘⟨里⟩;⟨⟨את⟩⟩收回它到⟨他的⟩口⟨中⟩,⟨这⟩令他疲乏。",
   "tokens": [
     {
       "surface": "טמן",
-      "english": "藏"
+      "gloss": "藏"
     },
     {
       "surface": "עצל",
-      "english": "懒惰人"
+      "gloss": "懒惰人"
     },
     {
       "surface": "ידו",
-      "english": "⟨他的⟩手"
+      "gloss": "⟨他的⟩手"
     },
     {
       "surface": "בצלחת",
-      "english": "在⟨⟨את⟩⟩深盘⟨里⟩"
+      "gloss": "在⟨⟨את⟩⟩深盘⟨里⟩"
     },
     {
       "surface": "נלאה",
-      "english": "⟨这⟩令他疲乏"
+      "gloss": "⟨这⟩令他疲乏"
     },
     {
       "surface": "להשיבה",
-      "english": "收回⟨⟨את⟩⟩"
+      "gloss": "收回⟨⟨את⟩⟩"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "פיו",
-      "english": "⟨他的⟩口⟨中⟩"
+      "gloss": "⟨他的⟩口⟨中⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:52.606816002Z",
-  "model": "glm-5.2"
+  ]
 }

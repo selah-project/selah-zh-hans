@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "2-kings 12:9",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19066,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19512
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:56:53.275823072Z",
   "translation": "于是祭司们同意不再从百姓那里收银子，也不再去修缮⟨את⟩殿宇的破损之处。",
   "tokens": [
     {
       "surface": "ויאתו",
-      "english": "于是同意"
+      "gloss": "于是同意"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "לבלתי",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "קחת",
-      "english": "收取"
+      "gloss": "收取"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "מאת",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "העם",
-      "english": "百姓那里"
+      "gloss": "百姓那里"
     },
     {
       "surface": "ולבלתי",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "חזק",
-      "english": "修缮"
+      "gloss": "修缮"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "殿宇的破损之处"
     },
     {
       "surface": "בדק",
-      "english": "破损之处"
+      "gloss": "破损之处"
     },
     {
       "surface": "הבית",
-      "english": "殿宇"
+      "gloss": "殿宇"
     }
-  ],
-  "timestamp": "2026-07-20T06:56:53.275823072Z",
-  "model": "glm-5.2"
+  ]
 }

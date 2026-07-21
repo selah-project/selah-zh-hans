@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "ezekiel 22:6",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19089,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19557
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:52:57.586980848Z",
   "translation": "看哪,以色列的领袖们,各人仗着⟨他⟩的臂力,曾⟨是⟩在你中间,为要流⟨人⟩血。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "נשיאי",
-      "english": "领袖们"
+      "gloss": "领袖们"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "לזרעו",
-      "english": "仗着他的臂力"
+      "gloss": "仗着他的臂力"
     },
     {
       "surface": "היו",
-      "english": "曾是"
+      "gloss": "曾是"
     },
     {
       "surface": "בך",
-      "english": "在你中间"
+      "gloss": "在你中间"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "שפך",
-      "english": "流"
+      "gloss": "流"
     },
     {
       "surface": "דם",
-      "english": "血"
+      "gloss": "血"
     }
-  ],
-  "timestamp": "2026-07-17T22:52:57.586980848Z",
-  "model": "glm-5.2"
+  ]
 }

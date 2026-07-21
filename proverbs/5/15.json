@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 5:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54271,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54709
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:41.311976430Z",
   "translation": "你要喝你自己池中的水,⟨并⟩流淌的⟨水⟩从你自己的井里出来。",
   "tokens": [
     {
       "surface": "שתה",
-      "english": "你要喝"
+      "gloss": "你要喝"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "מבורך",
-      "english": "从你自己的池中"
+      "gloss": "从你自己的池中"
     },
     {
       "surface": "ונזלים",
-      "english": "⟨并⟩流淌的⟨水⟩"
+      "gloss": "⟨并⟩流淌的⟨水⟩"
     },
     {
       "surface": "מתוך",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "בארך",
-      "english": "你自己的井"
+      "gloss": "你自己的井"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:41.311976430Z",
-  "model": "glm-5.2"
+  ]
 }

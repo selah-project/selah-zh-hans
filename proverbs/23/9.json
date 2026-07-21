@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 23:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 670,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54466,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55136
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:42.162808604Z",
   "translation": "在愚昧人的耳中不要说话，因为他必藐视你口中的言语。",
   "tokens": [
     {
       "surface": "באזני",
-      "english": "在……的耳中"
+      "gloss": "在……的耳中"
     },
     {
       "surface": "כסיל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תדבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יבוז",
-      "english": "他必藐视"
+      "gloss": "他必藐视"
     },
     {
       "surface": "לשכל",
-      "english": "……的明辨"
+      "gloss": "……的明辨"
     },
     {
       "surface": "מליך",
-      "english": "你口中的言语"
+      "gloss": "你口中的言语"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:42.162808604Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 47,
   "ref": "psalms 78:47",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64237,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64578
-  },
+  "verse": 47,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:57.392211669Z",
   "translation": "他用冰雹击杀了他们的葡萄树,用寒霜⟨击杀了⟩他们的西克莫无花果树。",
   "tokens": [
     {
       "surface": "יהרג",
-      "english": "击杀了"
+      "gloss": "击杀了"
     },
     {
       "surface": "בברד",
-      "english": "用冰雹"
+      "gloss": "用冰雹"
     },
     {
       "surface": "גפנם",
-      "english": "他们的葡萄树"
+      "gloss": "他们的葡萄树"
     },
     {
       "surface": "ושקמותם",
-      "english": "和他们的西克莫无花果树"
+      "gloss": "和他们的西克莫无花果树"
     },
     {
       "surface": "בחנמל",
-      "english": "用寒霜"
+      "gloss": "用寒霜"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:57.392211669Z",
-  "model": "glm-5.2"
+  ]
 }

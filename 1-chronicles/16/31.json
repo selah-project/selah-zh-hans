@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "1-chronicles 16:31",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58676,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59080
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:03:57.536427804Z",
   "translation": "愿诸天欢喜,愿地快乐!愿他们在列国中说:雅威作王了!",
   "tokens": [
     {
       "surface": "יִשְׂמְח֤וּ",
-      "english": "愿……欢喜"
+      "gloss": "愿……欢喜"
     },
     {
       "surface": "הַ\/שָּׁמַ֨יִם֙",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "וְ\/תָגֵ֣ל",
-      "english": "愿……快乐"
+      "gloss": "愿……快乐"
     },
     {
       "surface": "הָ\/אָ֔רֶץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "וְ\/יֹאמְר֥וּ",
-      "english": "愿他们说"
+      "gloss": "愿他们说"
     },
     {
       "surface": "בַ\/גּוֹיִ֖ם",
-      "english": "在列国中"
+      "gloss": "在列国中"
     },
     {
       "surface": "יְהוָ֥ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מָלָֽךְ",
-      "english": "作王了"
+      "gloss": "作王了"
     }
-  ],
-  "timestamp": "2026-07-18T02:03:57.536427804Z",
-  "model": "glm-5.2"
+  ]
 }

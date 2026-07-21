@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 9:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21704,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22089
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:36.921387625Z",
   "translation": "看哪，他经过我身旁，我看不见⟨他⟩；他掠过去，我也不明白⟨他⟩。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יַעֲבֹר",
-      "english": "他经过"
+      "gloss": "他经过"
     },
     {
       "surface": "עָ֭לַ\/י",
-      "english": "我身旁"
+      "gloss": "我身旁"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "我不"
+      "gloss": "我不"
     },
     {
       "surface": "אֶרְאֶ֑ה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "וְ֝\/יַחֲלֹ֗ף",
-      "english": "他掠过去"
+      "gloss": "他掠过去"
     },
     {
       "surface": "וְֽ\/לֹא",
-      "english": "我也不"
+      "gloss": "我也不"
     },
     {
       "surface": "אָבִ֥ין",
-      "english": "明白"
+      "gloss": "明白"
     },
     {
       "surface": "לֽ\/וֹ",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:36.921387625Z",
-  "model": "glm-5.2"
+  ]
 }

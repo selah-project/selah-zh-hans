@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 94:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64435,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64777
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:40.944927519Z",
   "translation": "雅威知道人的心思意念,⟨它们⟩是虚妄。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "מחשבות",
-      "english": "心思意念"
+      "gloss": "心思意念"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "כי",
-      "english": "⟨它们⟩是"
+      "gloss": "⟨它们⟩是"
     },
     {
       "surface": "המה",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "הבל",
-      "english": "虚妄"
+      "gloss": "虚妄"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:40.944927519Z",
-  "model": "glm-5.2"
+  ]
 }

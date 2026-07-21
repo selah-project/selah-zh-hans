@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "genesis 32:27",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23191,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23611
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:54:52.551294686Z",
   "translation": "他⟨说⟩：“放我走吧，因为黎明已经升起。”他⟨说⟩：“我不放你走，除非你祝福我。”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他⟨说⟩"
+      "gloss": "他⟨说⟩"
     },
     {
       "surface": "שלחני",
-      "english": "放我走吧"
+      "gloss": "放我走吧"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עלה",
-      "english": "已经升起"
+      "gloss": "已经升起"
     },
     {
       "surface": "השחר",
-      "english": "黎明"
+      "gloss": "黎明"
     },
     {
       "surface": "ויאמר",
-      "english": "他⟨说⟩"
+      "gloss": "他⟨说⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אשלחך",
-      "english": "放你走"
+      "gloss": "放你走"
     },
     {
       "surface": "כי",
-      "english": "⟨…⟩"
+      "gloss": "⟨…⟩"
     },
     {
       "surface": "אם",
-      "english": "除非"
+      "gloss": "除非"
     },
     {
       "surface": "ברכתני",
-      "english": "你祝福我"
+      "gloss": "你祝福我"
     }
-  ],
-  "timestamp": "2026-07-17T17:54:52.551294686Z",
-  "model": "glm-5.2"
+  ]
 }

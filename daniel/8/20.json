@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "daniel 8:20",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18687,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19077
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:33:35.489375175Z",
   "translation": "你所看见的那有两只角的公绵羊⟨是⟩玛代和波斯的王。",
   "tokens": [
     {
       "surface": "האיל",
-      "english": "公绵羊"
+      "gloss": "公绵羊"
     },
     {
       "surface": "אשר",
-      "english": "……的⟨那⟩"
+      "gloss": "……的⟨那⟩"
     },
     {
       "surface": "ראית",
-      "english": "你看见"
+      "gloss": "你看见"
     },
     {
       "surface": "בעל",
-      "english": "拥有"
+      "gloss": "拥有"
     },
     {
       "surface": "הקרנים",
-      "english": "那角"
+      "gloss": "那角"
     },
     {
       "surface": "מלכי",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מדי",
-      "english": "玛代"
+      "gloss": "玛代"
     },
     {
       "surface": "ופרס",
-      "english": "和波斯"
+      "gloss": "和波斯"
     }
-  ],
-  "timestamp": "2026-07-18T01:33:35.489375175Z",
-  "model": "glm-5.2"
+  ]
 }

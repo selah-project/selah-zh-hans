@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 28:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21478,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21808
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:36.742645590Z",
   "translation": "人在坚石上伸出手,从根基翻转群山。",
   "tokens": [
     {
       "surface": "בחלמיש",
-      "english": "在坚石上"
+      "gloss": "在坚石上"
     },
     {
       "surface": "שלח",
-      "english": "伸"
+      "gloss": "伸"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "הפך",
-      "english": "翻转"
+      "gloss": "翻转"
     },
     {
       "surface": "משרש",
-      "english": "从根基"
+      "gloss": "从根基"
     },
     {
       "surface": "הרים",
-      "english": "群山"
+      "gloss": "群山"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:36.742645590Z",
-  "model": "glm-5.2"
+  ]
 }

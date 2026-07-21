@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-chronicles 8:11",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58632,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58966
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:47.628825697Z",
   "translation": "从胡实姆 ⟨他⟩ 生了 ⟨את⟩ 阿维图布和 ⟨את⟩ 埃勒帕阿尔。",
   "tokens": [
     {
       "surface": "ומחשים",
-      "english": "从胡实姆"
+      "gloss": "从胡实姆"
     },
     {
       "surface": "הוליד",
-      "english": "⟨他⟩ 生了"
+      "gloss": "⟨他⟩ 生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "阿维图布"
     },
     {
       "surface": "אביטוב",
-      "english": "阿维图布"
+      "gloss": "阿维图布"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "埃勒帕阿尔"
     },
     {
       "surface": "אלפעל",
-      "english": "埃勒帕阿尔"
+      "gloss": "埃勒帕阿尔"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:47.628825697Z",
-  "model": "glm-5.2"
+  ]
 }

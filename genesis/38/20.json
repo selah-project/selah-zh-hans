@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 38:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23577,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24188
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:25.723593259Z",
   "translation": "犹大就借着他的朋友⟨הָעֲדֻלָּמִי⟩的手差遣山羊羔，要从那女人手中取回⟨הָעֵרָבוֹן⟩，⟨את⟩他却找不着她。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "差遣了"
+      "gloss": "差遣了"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "山羊羔 (גְּדִי)"
     },
     {
       "surface": "גדי",
-      "english": "山羊羔"
+      "gloss": "山羊羔"
     },
     {
       "surface": "העזים",
-      "english": "山羊的"
+      "gloss": "山羊的"
     },
     {
       "surface": "ביד",
-      "english": "借着……的手"
+      "gloss": "借着……的手"
     },
     {
       "surface": "רעהו",
-      "english": "他的朋友"
+      "gloss": "他的朋友"
     },
     {
       "surface": "העדלמי",
-      "english": "⟨那⟩亚杜兰人"
+      "gloss": "⟨那⟩亚杜兰人"
     },
     {
       "surface": "לקחת",
-      "english": "要取回"
+      "gloss": "要取回"
     },
     {
       "surface": "הערבון",
-      "english": "⟨那⟩抵押品"
+      "gloss": "⟨那⟩抵押品"
     },
     {
       "surface": "מיד",
-      "english": "从……的手"
+      "gloss": "从……的手"
     },
     {
       "surface": "האשה",
-      "english": "那女人"
+      "gloss": "那女人"
     },
     {
       "surface": "ולא",
-      "english": "却没有"
+      "gloss": "却没有"
     },
     {
       "surface": "מצאה",
-      "english": "找着⟨她⟩"
+      "gloss": "找着⟨她⟩"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:25.723593259Z",
-  "model": "glm-5.2"
+  ]
 }

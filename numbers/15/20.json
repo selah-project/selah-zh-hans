@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "numbers 15:20",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20040,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 20557
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:38.909137211Z",
   "translation": "⟨作为⟩你们面团 עֲרִסָה 的初熟之物,你们要举起一个饼作为举祭;正如谷场的举祭一样,你们也要照样举起⟨את⟩它。",
   "tokens": [
     {
       "surface": "ראשית",
-      "english": "初熟之物"
+      "gloss": "初熟之物"
     },
     {
       "surface": "ערסתכם",
-      "english": "你们的面团"
+      "gloss": "你们的面团"
     },
     {
       "surface": "חלה",
-      "english": "一个饼"
+      "gloss": "一个饼"
     },
     {
       "surface": "תרימו",
-      "english": "你们要举起"
+      "gloss": "你们要举起"
     },
     {
       "surface": "תרומה",
-      "english": "举祭"
+      "gloss": "举祭"
     },
     {
       "surface": "כתרומת",
-      "english": "正如……的举祭"
+      "gloss": "正如……的举祭"
     },
     {
       "surface": "גרן",
-      "english": "谷场"
+      "gloss": "谷场"
     },
     {
       "surface": "כן",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "תרימו",
-      "english": "你们要举起"
+      "gloss": "你们要举起"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:38.909137211Z",
-  "model": "glm-5.2"
+  ]
 }

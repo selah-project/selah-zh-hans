@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 21:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21584,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22079
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:24.658194588Z",
   "translation": "他们的房屋 ⟨有⟩ 平安，出于惧怕，⟨也⟩ 没有以罗欣 ⟨את⟩ 杖 ⟨临⟩ 在他们之上。",
   "tokens": [
     {
       "surface": "בתיהם",
-      "english": "他们的房屋"
+      "gloss": "他们的房屋"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "מפחד",
-      "english": "出于惧怕"
+      "gloss": "出于惧怕"
     },
     {
       "surface": "ולא",
-      "english": "⟨也⟩ 没有"
+      "gloss": "⟨也⟩ 没有"
     },
     {
       "surface": "שבט",
-      "english": "⟨את⟩ 杖"
+      "gloss": "⟨את⟩ 杖"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "עליהם",
-      "english": "⟨临⟩ 在他们之上"
+      "gloss": "⟨临⟩ 在他们之上"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:24.658194588Z",
-  "model": "glm-5.2"
+  ]
 }

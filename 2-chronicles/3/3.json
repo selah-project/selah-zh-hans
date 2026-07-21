@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 3:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60511,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61051
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:15:12.793752640Z",
   "translation": "这些是所罗门为建造⟨את⟩以罗欣的殿所立的根基：按最初的度量，长度是六十肘，宽度是二十肘。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "הוסד",
-      "english": "所立的根基"
+      "gloss": "所立的根基"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "לבנות",
-      "english": "为建造"
+      "gloss": "为建造"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "殿"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "הארך",
-      "english": "长度"
+      "gloss": "长度"
     },
     {
       "surface": "אמות",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "במדה",
-      "english": "按度量"
+      "gloss": "按度量"
     },
     {
       "surface": "הראשונה",
-      "english": "最初的"
+      "gloss": "最初的"
     },
     {
       "surface": "אמות",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "ששים",
-      "english": "六十"
+      "gloss": "六十"
     },
     {
       "surface": "ורחב",
-      "english": "宽度"
+      "gloss": "宽度"
     },
     {
       "surface": "אמות",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     }
-  ],
-  "timestamp": "2026-07-18T02:15:12.793752640Z",
-  "model": "glm-5.2"
+  ]
 }

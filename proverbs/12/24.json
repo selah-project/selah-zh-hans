@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 12:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54312,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54645
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:25.227146951Z",
   "translation": "勤快人的手掌权,但怠惰必服劳役。",
   "tokens": [
     {
       "surface": "יד",
-      "english": "手"
+      "gloss": "手"
     },
     {
       "surface": "חרוצים",
-      "english": "勤快人的"
+      "gloss": "勤快人的"
     },
     {
       "surface": "תמשול",
-      "english": "掌权"
+      "gloss": "掌权"
     },
     {
       "surface": "ורמיה",
-      "english": "但怠惰"
+      "gloss": "但怠惰"
     },
     {
       "surface": "תהיה",
-      "english": "⟨必⟩"
+      "gloss": "⟨必⟩"
     },
     {
       "surface": "למס",
-      "english": "服劳役"
+      "gloss": "服劳役"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:25.227146951Z",
-  "model": "glm-5.2"
+  ]
 }

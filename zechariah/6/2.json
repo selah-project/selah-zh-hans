@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "zechariah 6:2",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17712,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 18305
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:34:25.112041924Z",
   "translation": "在第一辆战车中⟨有⟩红马,在第二辆战车中⟨有⟩黑马。",
   "tokens": [
     {
       "surface": "בַּ\/מֶּרְכָּבָ֥ה",
-      "english": "在第一辆战车中"
+      "gloss": "在第一辆战车中"
     },
     {
       "surface": "הָ\/רִֽאשֹׁנָ֖ה",
-      "english": "第一"
+      "gloss": "第一"
     },
     {
       "surface": "סוּסִ֣ים",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "אֲדֻמִּ֑ים",
-      "english": "红的"
+      "gloss": "红的"
     },
     {
       "surface": "וּ\/בַ\/מֶּרְכָּבָ֥ה",
-      "english": "在第二辆战车中"
+      "gloss": "在第二辆战车中"
     },
     {
       "surface": "הַ\/שֵּׁנִ֖ית",
-      "english": "第二"
+      "gloss": "第二"
     },
     {
       "surface": "סוּסִ֥ים",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "שְׁחֹרִֽים",
-      "english": "黑的"
+      "gloss": "黑的"
     }
-  ],
-  "timestamp": "2026-07-17T23:34:25.112041924Z",
-  "model": "glm-5.2"
+  ]
 }

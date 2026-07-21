@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 8:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54347,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54816
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:15:50.507574534Z",
   "translation": "藉着我，官长们施行统治；⟨也藉着我⟩贵族们——所有公正的审判官。",
   "tokens": [
     {
       "surface": "בי",
-      "english": "藉着我"
+      "gloss": "藉着我"
     },
     {
       "surface": "שרים",
-      "english": "官长们"
+      "gloss": "官长们"
     },
     {
       "surface": "ישרו",
-      "english": "施行统治"
+      "gloss": "施行统治"
     },
     {
       "surface": "ונדיבים",
-      "english": "⟨也藉着我⟩贵族们"
+      "gloss": "⟨也藉着我⟩贵族们"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "שפטי",
-      "english": "审判官"
+      "gloss": "审判官"
     },
     {
       "surface": "צדק",
-      "english": "公正的"
+      "gloss": "公正的"
     }
-  ],
-  "timestamp": "2026-07-18T03:15:50.507574534Z",
-  "model": "glm-5.2"
+  ]
 }

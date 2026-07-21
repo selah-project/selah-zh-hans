@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 40:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64538,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64949
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:54.012248513Z",
   "translation": "行你的喜悦，以罗欣啊，我喜悦；你的妥拉⟨在⟩我肺腑之中。",
   "tokens": [
     {
       "surface": "לעשות",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "רצונך",
-      "english": "你的喜悦"
+      "gloss": "你的喜悦"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "חפצתי",
-      "english": "我喜悦"
+      "gloss": "我喜悦"
     },
     {
       "surface": "ותורתך",
-      "english": "而你的妥拉"
+      "gloss": "而你的妥拉"
     },
     {
       "surface": "בתוך",
-      "english": "⟨在⟩……之中"
+      "gloss": "⟨在⟩……之中"
     },
     {
       "surface": "מעי",
-      "english": "我的肺腑"
+      "gloss": "我的肺腑"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:54.012248513Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 135:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64599,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 65047
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:03:17.775809365Z",
   "translation": "你们要赞美 יה,因为雅威是טוב的;要向他的שם唱诗,因为是נעים的。",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "Yah(雅威的诗歌缩写)"
+      "gloss": "Yah(雅威的诗歌缩写)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "טוב",
-      "english": "טוב(美善)"
+      "gloss": "טוב(美善)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "זמרו",
-      "english": "你们要……唱诗"
+      "gloss": "你们要……唱诗"
     },
     {
       "surface": "לשמו",
-      "english": "向他的שם(名)"
+      "gloss": "向他的שם(名)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נעים",
-      "english": "נעים(令人愉悦\/美好)"
+      "gloss": "נעים(令人愉悦\/美好)"
     }
-  ],
-  "timestamp": "2026-07-20T15:03:17.775809365Z",
-  "model": "glm-5.2"
+  ]
 }

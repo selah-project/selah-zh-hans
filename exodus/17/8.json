@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "exodus 17:8",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18322,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18761
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:51.112932695Z",
   "translation": "亚玛力来了,他就与以色列在利非订打仗。",
   "tokens": [
     {
       "surface": "וַ\/יָּבֹא",
-      "english": "来了"
+      "gloss": "来了"
     },
     {
       "surface": "עֲמָלֵק",
-      "english": "亚玛力"
+      "gloss": "亚玛力"
     },
     {
       "surface": "וַ\/יִּלָּחֶם",
-      "english": "他就打仗"
+      "gloss": "他就打仗"
     },
     {
       "surface": "עִם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "בִּ\/רְפִידִֽם",
-      "english": "在利非订"
+      "gloss": "在利非订"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:51.112932695Z",
-  "model": "glm-5.2"
+  ]
 }

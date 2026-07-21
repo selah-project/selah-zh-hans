@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "2-chronicles 25:28",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59798,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60064
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:28:52.913119024Z",
   "translation": "他们将他放在马上,埋葬了他 ⟨את⟩,与他的列祖一起,在犹大的城中。",
   "tokens": [
     {
       "surface": "וישאהו",
-      "english": "他们将他放在"
+      "gloss": "他们将他放在"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הסוסים",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "ויקברו",
-      "english": "埋葬了"
+      "gloss": "埋葬了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "עם",
-      "english": "与……一起"
+      "gloss": "与……一起"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "בעיר",
-      "english": "在城中"
+      "gloss": "在城中"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-18T02:28:52.913119024Z",
-  "model": "glm-5.2"
+  ]
 }

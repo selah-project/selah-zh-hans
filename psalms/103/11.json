@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 103:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64621,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65077
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:28.373400049Z",
   "translation": "因为正如天高於地之上，⟨他的⟩坚稳之爱也强过敬畏他的人之上。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כגבה",
-      "english": "正如……高"
+      "gloss": "正如……高"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "על",
-      "english": "於……之上"
+      "gloss": "於……之上"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "גבר",
-      "english": "强过"
+      "gloss": "强过"
     },
     {
       "surface": "חסדו",
-      "english": "他的坚稳之爱"
+      "gloss": "他的坚稳之爱"
     },
     {
       "surface": "על",
-      "english": "於……之上"
+      "gloss": "於……之上"
     },
     {
       "surface": "יראיו",
-      "english": "敬畏他的人"
+      "gloss": "敬畏他的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:28.373400049Z",
-  "model": "glm-5.2"
+  ]
 }

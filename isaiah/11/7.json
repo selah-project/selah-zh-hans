@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 11:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20881,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21313
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:39:59.004911850Z",
   "translation": "牛与熊必一同吃草，它们的幼崽必一同躺卧；狮子必像牛一样吃干草。",
   "tokens": [
     {
       "surface": "וּ\/פָרָ֤ה",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "וָ\/דֹב֙",
-      "english": "与熊"
+      "gloss": "与熊"
     },
     {
       "surface": "תִּרְעֶ֔ינָה",
-      "english": "必吃草"
+      "gloss": "必吃草"
     },
     {
       "surface": "יַחְדָּ֖ו",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "יִרְבְּצ֣וּ",
-      "english": "必躺卧"
+      "gloss": "必躺卧"
     },
     {
       "surface": "יַלְדֵי\/הֶ֑ן",
-      "english": "它们的幼崽"
+      "gloss": "它们的幼崽"
     },
     {
       "surface": "וְ\/אַרְיֵ֖ה",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "כַּ\/בָּקָ֥ר",
-      "english": "像牛一样"
+      "gloss": "像牛一样"
     },
     {
       "surface": "יֹֽאכַל",
-      "english": "必吃"
+      "gloss": "必吃"
     },
     {
       "surface": "תֶּֽבֶן",
-      "english": "干草"
+      "gloss": "干草"
     }
-  ],
-  "timestamp": "2026-07-17T21:39:59.004911850Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-kings 7:4",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63900,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64311
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:02:18.374700325Z",
   "translation": "三排透明的窗户，⟨并⟩窗对着窗，三层。",
   "tokens": [
     {
       "surface": "ושקפים",
-      "english": "透明的窗户"
+      "gloss": "透明的窗户"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "טורים",
-      "english": "排"
+      "gloss": "排"
     },
     {
       "surface": "ומחזה",
-      "english": "⟨并⟩窗"
+      "gloss": "⟨并⟩窗"
     },
     {
       "surface": "אל",
-      "english": "对着"
+      "gloss": "对着"
     },
     {
       "surface": "מחזה",
-      "english": "窗"
+      "gloss": "窗"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "פעמים",
-      "english": "层"
+      "gloss": "层"
     }
-  ],
-  "timestamp": "2026-07-17T21:02:18.374700325Z",
-  "model": "glm-5.2"
+  ]
 }

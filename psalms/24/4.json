@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 24:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64861,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65507
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:01.541006122Z",
   "translation": "清洁的手掌,纯洁的心,⟨他⟩不向虚空高举⟨他的⟩生命气息,也不起誓向欺诈。",
   "tokens": [
     {
       "surface": "נקי",
-      "english": "清洁的"
+      "gloss": "清洁的"
     },
     {
       "surface": "כפים",
-      "english": "手掌"
+      "gloss": "手掌"
     },
     {
       "surface": "ובר",
-      "english": "纯洁的"
+      "gloss": "纯洁的"
     },
     {
       "surface": "לבב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "אשר",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נשא",
-      "english": "高举"
+      "gloss": "高举"
     },
     {
       "surface": "לשוא",
-      "english": "向虚空"
+      "gloss": "向虚空"
     },
     {
       "surface": "נפשי",
-      "english": "⟨他的⟩生命气息"
+      "gloss": "⟨他的⟩生命气息"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "נשבע",
-      "english": "起誓"
+      "gloss": "起誓"
     },
     {
       "surface": "למרמה",
-      "english": "向欺诈"
+      "gloss": "向欺诈"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:01.541006122Z",
-  "model": "glm-5.2"
+  ]
 }

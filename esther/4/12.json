@@ -1,45 +1,34 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "esther 4:12",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 226,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19092,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19318
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:25:18.976015801Z",
   "translation": "他们将以斯帖的*话语*告诉末底改。",
   "tokens": [
     {
       "surface": "ויגידו",
-      "english": "他们将……告诉"
+      "gloss": "他们将……告诉"
     },
     {
       "surface": "למרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以斯贴的*话语*"
     },
     {
       "surface": "דברי",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "אסתר",
-      "english": "以斯贴的"
+      "gloss": "以斯贴的"
     }
-  ],
-  "timestamp": "2026-07-18T01:25:18.976015801Z",
-  "model": "glm-5.2"
+  ]
 }

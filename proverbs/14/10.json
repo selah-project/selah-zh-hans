@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 14:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 640,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54507,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55147
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:34.811342570Z",
   "translation": "心知道 ⟨他⟩ 灵魂的苦楚;而在 ⟨他⟩ 的喜乐中,外人不会 ⟨被⟩ 混合进去。",
   "tokens": [
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "יודע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "מרת",
-      "english": "⟨他⟩ ……的苦楚"
+      "gloss": "⟨他⟩ ……的苦楚"
     },
     {
       "surface": "נפשו",
-      "english": "灵魂"
+      "gloss": "灵魂"
     },
     {
       "surface": "ובשמחתו",
-      "english": "而在 ⟨他⟩ 的喜乐中"
+      "gloss": "而在 ⟨他⟩ 的喜乐中"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יתערב",
-      "english": "会混合"
+      "gloss": "会混合"
     },
     {
       "surface": "זר",
-      "english": "外人"
+      "gloss": "外人"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:34.811342570Z",
-  "model": "glm-5.2"
+  ]
 }

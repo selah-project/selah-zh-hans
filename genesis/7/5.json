@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 7:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 183,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22675,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22858
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:36:52.379587208Z",
   "translation": "挪亚就照雅威所吩咐他的一切去做了。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "就做了"
+      "gloss": "就做了"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "ככל",
-      "english": "照……一切"
+      "gloss": "照……一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "צוהו",
-      "english": "吩咐他"
+      "gloss": "吩咐他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T17:36:52.379587208Z",
-  "model": "glm-5.2"
+  ]
 }

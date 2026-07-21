@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "joshua 8:30",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18027,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18425
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:54:33.396590805Z",
   "translation": "那时,约书亚为雅威、以罗欣、以色列的 神,在以巴路山上筑了一座坛。",
   "tokens": [
     {
       "surface": "אָז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "יִבְנֶה",
-      "english": "筑了"
+      "gloss": "筑了"
     },
     {
       "surface": "יְהוֹשֻׁעַ",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "מִזְבֵּחַ",
-      "english": "一座坛"
+      "gloss": "一座坛"
     },
     {
       "surface": "לַ\/יהוָה",
-      "english": "为雅威"
+      "gloss": "为雅威"
     },
     {
       "surface": "אֱלֹהֵי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "בְּ\/הַר",
-      "english": "在⟨הַר⟩ (山上)"
+      "gloss": "在⟨הַר⟩ (山上)"
     },
     {
       "surface": "עֵיבָל",
-      "english": "以巴路"
+      "gloss": "以巴路"
     }
-  ],
-  "timestamp": "2026-07-17T19:54:33.396590805Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "genesis 4:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23067,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23495
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:17.824066317Z",
   "translation": "雅威对該隐说：你为何燃烧愤怒，你为何面容坠落？",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "קין",
-      "english": "該隐"
+      "gloss": "該隐"
     },
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "חרה",
-      "english": "⟨你⟩燃烧愤怒"
+      "gloss": "⟨你⟩燃烧愤怒"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "ולמה",
-      "english": "又为何"
+      "gloss": "又为何"
     },
     {
       "surface": "נפלו",
-      "english": "坠落"
+      "gloss": "坠落"
     },
     {
       "surface": "פניך",
-      "english": "你的面容"
+      "gloss": "你的面容"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:17.824066317Z",
-  "model": "glm-5.2"
+  ]
 }

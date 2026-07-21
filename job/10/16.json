@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 10:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21596,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22143
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:22.938593064Z",
   "translation": "它⟨高抬自己⟩——你如少壮狮子猎捕我,你又折返,在我身上显⟨为⟩奇妙的作为。",
   "tokens": [
     {
       "surface": "ויגאה",
-      "english": "它⟨高抬自己⟩"
+      "gloss": "它⟨高抬自己⟩"
     },
     {
       "surface": "כשחל",
-      "english": "如少壮狮子"
+      "gloss": "如少壮狮子"
     },
     {
       "surface": "תצודני",
-      "english": "你猎捕我"
+      "gloss": "你猎捕我"
     },
     {
       "surface": "ותשב",
-      "english": "你又折返"
+      "gloss": "你又折返"
     },
     {
       "surface": "תתפלא",
-      "english": "你显奇妙的作为"
+      "gloss": "你显奇妙的作为"
     },
     {
       "surface": "בי",
-      "english": "在我身上"
+      "gloss": "在我身上"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:22.938593064Z",
-  "model": "glm-5.2"
+  ]
 }

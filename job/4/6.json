@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 4:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21578,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21969
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:15.173295885Z",
   "translation": "你的敬畏岂不是你的确据,你的盼望和⟨你⟩道路的完全吗?",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不是"
+      "gloss": "岂不是"
     },
     {
       "surface": "יראתך",
-      "english": "你的敬畏"
+      "gloss": "你的敬畏"
     },
     {
       "surface": "כסלתך",
-      "english": "你的确据"
+      "gloss": "你的确据"
     },
     {
       "surface": "תקותך",
-      "english": "你的盼望"
+      "gloss": "你的盼望"
     },
     {
       "surface": "ותם",
-      "english": "和完全"
+      "gloss": "和完全"
     },
     {
       "surface": "דרכיך",
-      "english": "⟨你⟩道路的"
+      "gloss": "⟨你⟩道路的"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:15.173295885Z",
-  "model": "glm-5.2"
+  ]
 }

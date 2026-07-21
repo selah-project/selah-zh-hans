@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 62:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21098,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21673
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:04:06.970313665Z",
   "translation": "因为聚集它的人必将吃它，并赞美⟨את⟩雅威；收集它的人必在圣别的院子里喝它。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מְאַסְפָי\/ו֙",
-      "english": "聚集它的人"
+      "gloss": "聚集它的人"
     },
     {
       "surface": "יֹאכְלֻ֔\/הוּ",
-      "english": "必将吃它"
+      "gloss": "必将吃它"
     },
     {
       "surface": "וְ\/הִֽלְל֖וּ",
-      "english": "并赞美"
+      "gloss": "并赞美"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וּֽ\/מְקַבְּצָ֥י\/ו",
-      "english": "收集它的人"
+      "gloss": "收集它的人"
     },
     {
       "surface": "יִשְׁתֻּ֖\/הוּ",
-      "english": "必将喝它"
+      "gloss": "必将喝它"
     },
     {
       "surface": "בְּ\/חַצְר֥וֹת",
-      "english": "在……的院子里"
+      "gloss": "在……的院子里"
     },
     {
       "surface": "קָדְשִֽׁ\/י",
-      "english": "我的圣别"
+      "gloss": "我的圣别"
     }
-  ],
-  "timestamp": "2026-07-17T22:04:06.970313665Z",
-  "model": "glm-5.2"
+  ]
 }

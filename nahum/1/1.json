@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "nahum 1:1",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17786,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18202
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:27:25.017425413Z",
   "translation": "尼尼微的重担：*חָזוֹן* 之卷，那鸿 ⟨那⟩以勒歌示人的。",
   "tokens": [
     {
       "surface": "משא",
-      "english": "重担"
+      "gloss": "重担"
     },
     {
       "surface": "נינוה",
-      "english": "尼尼微"
+      "gloss": "尼尼微"
     },
     {
       "surface": "ספר",
-      "english": "……之卷"
+      "gloss": "……之卷"
     },
     {
       "surface": "חזון",
-      "english": "*חָזוֹן*"
+      "gloss": "*חָזוֹן*"
     },
     {
       "surface": "נחום",
-      "english": "那鸿"
+      "gloss": "那鸿"
     },
     {
       "surface": "האלקשי",
-      "english": "⟨那⟩以勒歌示人的"
+      "gloss": "⟨那⟩以勒歌示人的"
     }
-  ],
-  "timestamp": "2026-07-17T23:27:25.017425413Z",
-  "model": "glm-5.2"
+  ]
 }

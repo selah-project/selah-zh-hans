@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 94:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64357,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64643
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:53.103311182Z",
   "translation": "雅威成为⟨了⟩我的高台,我的以罗欣成为我避难所的磐石。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨他⟩成为"
+      "gloss": "⟨他⟩成为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "למשגב",
-      "english": "高台"
+      "gloss": "高台"
     },
     {
       "surface": "ואלהי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "לצור",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "מחסי",
-      "english": "我的避难所"
+      "gloss": "我的避难所"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:53.103311182Z",
-  "model": "glm-5.2"
+  ]
 }

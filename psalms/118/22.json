@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 118:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64275,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64647
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:49.651993786Z",
   "translation": "匠人所弃绝的石头，⟨成了⟩头块房角石。",
   "tokens": [
     {
       "surface": "אֶ֭בֶן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "מָאֲס֣וּ",
-      "english": "所弃绝的"
+      "gloss": "所弃绝的"
     },
     {
       "surface": "הַ\/בּוֹנִ֑ים",
-      "english": "匠人"
+      "gloss": "匠人"
     },
     {
       "surface": "הָ֝יְתָ֗ה",
-      "english": "⟨成了⟩"
+      "gloss": "⟨成了⟩"
     },
     {
       "surface": "לְ\/רֹאשׁ",
-      "english": "头块"
+      "gloss": "头块"
     },
     {
       "surface": "פִּנָּֽה",
-      "english": "房角石"
+      "gloss": "房角石"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:49.651993786Z",
-  "model": "glm-5.2"
+  ]
 }

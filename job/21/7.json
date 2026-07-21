@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "job 21:7",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21619,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22116
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:19.104350981Z",
   "translation": "恶人为何⟨得⟩活着？他们老迈,甚至势力强盛⟨于⟩财富。",
   "tokens": [
     {
       "surface": "מדוע",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יחיו",
-      "english": "⟨得⟩活着"
+      "gloss": "⟨得⟩活着"
     },
     {
       "surface": "עתקו",
-      "english": "他们老迈"
+      "gloss": "他们老迈"
     },
     {
       "surface": "גם",
-      "english": "甚至"
+      "gloss": "甚至"
     },
     {
       "surface": "גברו",
-      "english": "势力强盛"
+      "gloss": "势力强盛"
     },
     {
       "surface": "חיל",
-      "english": "⟨于⟩财富"
+      "gloss": "⟨于⟩财富"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:19.104350981Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 45,
   "ref": "1-chronicles 2:45",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 58595,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58972
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:26:21.180756912Z",
   "translation": "示迈的儿子是玛云,玛云是伯-伯的父亲",
   "tokens": [
     {
       "surface": "ובן",
-      "english": "示迈的儿子"
+      "gloss": "示迈的儿子"
     },
     {
       "surface": "שמי",
-      "english": "示迈"
+      "gloss": "示迈"
     },
     {
       "surface": "מעון",
-      "english": "玛云"
+      "gloss": "玛云"
     },
     {
       "surface": "ומעון",
-      "english": "玛云"
+      "gloss": "玛云"
     },
     {
       "surface": "אבי",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "בית",
-      "english": "伯-"
+      "gloss": "伯-"
     },
     {
       "surface": "צור",
-      "english": "伯"
+      "gloss": "伯"
     }
-  ],
-  "timestamp": "2026-07-21T13:26:21.180756912Z",
-  "model": "glm-4.5"
+  ]
 }

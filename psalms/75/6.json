@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 75:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64470,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64939
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:28.108222866Z",
   "translation": "不要向高处举起你们的角,不要以颈项之傲说话。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תרימו",
-      "english": "举起 (你们)"
+      "gloss": "举起 (你们)"
     },
     {
       "surface": "למרום",
-      "english": "向高处"
+      "gloss": "向高处"
     },
     {
       "surface": "קרנכם",
-      "english": "你们的角"
+      "gloss": "你们的角"
     },
     {
       "surface": "תדברו",
-      "english": "说话 (你们)"
+      "gloss": "说话 (你们)"
     },
     {
       "surface": "בצואר",
-      "english": "以颈项"
+      "gloss": "以颈项"
     },
     {
       "surface": "עתק",
-      "english": "⟨傲⟩"
+      "gloss": "⟨傲⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:28.108222866Z",
-  "model": "glm-5.2"
+  ]
 }

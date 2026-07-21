@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 88:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64505,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64939
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:26.177466795Z",
   "translation": "雅威啊，为什么你 ⟨要⟩ 拒绝我的 נפש（生命气息），掩藏你的脸面不 ⟨要⟩ 看着我？",
   "tokens": [
     {
       "surface": "למה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "תזנח",
-      "english": "你 ⟨要⟩ 拒绝"
+      "gloss": "你 ⟨要⟩ 拒绝"
     },
     {
       "surface": "נפשי",
-      "english": "我的 נפש（生命气息）"
+      "gloss": "我的 נפש（生命气息）"
     },
     {
       "surface": "תסתיר",
-      "english": "⟨你⟩ 掩藏"
+      "gloss": "⟨你⟩ 掩藏"
     },
     {
       "surface": "פניך",
-      "english": "你的脸面"
+      "gloss": "你的脸面"
     },
     {
       "surface": "ממני",
-      "english": "不 ⟨要⟩ 看着我（从我）"
+      "gloss": "不 ⟨要⟩ 看着我（从我）"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:26.177466795Z",
-  "model": "glm-5.2"
+  ]
 }

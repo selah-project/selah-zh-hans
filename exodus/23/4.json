@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 23:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18618,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19074
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:25:48.597463289Z",
   "translation": "当你遇见你仇敌的牛 ⟨את⟩，或 ⟨את⟩ 他迷路的驴，你一定要把它带回去还给他。",
   "tokens": [
     {
       "surface": "כִּ֣י",
-      "english": "当……时"
+      "gloss": "当……时"
     },
     {
       "surface": "תִפְגַּ֞ע",
-      "english": "你遇见"
+      "gloss": "你遇见"
     },
     {
       "surface": "שׁ֧וֹר",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "אֹֽיִבְ\/ךָ֛",
-      "english": "你仇敌的"
+      "gloss": "你仇敌的"
     },
     {
       "surface": "א֥וֹ",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "חֲמֹר֖\/וֹ",
-      "english": "他的驴"
+      "gloss": "他的驴"
     },
     {
       "surface": "תֹּעֶ֑ה",
-      "english": "迷路的"
+      "gloss": "迷路的"
     },
     {
       "surface": "הָשֵׁ֥ב",
-      "english": "一定要带回"
+      "gloss": "一定要带回"
     },
     {
       "surface": "תְּשִׁיבֶ֖\/נּוּ",
-      "english": "你要把它带回去"
+      "gloss": "你要把它带回去"
     },
     {
       "surface": "לֽ\/וֹ",
-      "english": "给他"
+      "gloss": "给他"
     }
-  ],
-  "timestamp": "2026-07-17T18:25:48.597463289Z",
-  "model": "glm-5.2"
+  ]
 }

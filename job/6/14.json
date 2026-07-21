@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 6:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21503,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21928
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:16.485280700Z",
   "translation": "对⟨那⟩绝望的人，⟨他的⟩同伴⟨欠⟩慈爱；⟨甚至⟩对⟨那⟩舍弃沙代之敬畏的人。",
   "tokens": [
     {
       "surface": "למס",
-      "english": "对绝望的人"
+      "gloss": "对绝望的人"
     },
     {
       "surface": "מרעהו",
-      "english": "⟨他的⟩同伴"
+      "gloss": "⟨他的⟩同伴"
     },
     {
       "surface": "חסד",
-      "english": "慈爱"
+      "gloss": "慈爱"
     },
     {
       "surface": "ויראת",
-      "english": "甚至……的敬畏"
+      "gloss": "甚至……的敬畏"
     },
     {
       "surface": "שדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "יעזוב",
-      "english": "⟨那⟩舍弃"
+      "gloss": "⟨那⟩舍弃"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:16.485280700Z",
-  "model": "glm-5.2"
+  ]
 }

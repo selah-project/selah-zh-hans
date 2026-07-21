@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "deuteronomy 32:31",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19011,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19523
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:48:31.869685374Z",
   "translation": "因为他们的磐石不像我们的磐石,甚至我们的敌人也是审判者。",
   "tokens": [
     {
       "surface": "כִּ֛י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹ֥א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "כְ\/צוּרֵ֖\/נוּ",
-      "english": "像我们的磐石"
+      "gloss": "像我们的磐石"
     },
     {
       "surface": "צוּרָ֑\/ם",
-      "english": "他们的磐石"
+      "gloss": "他们的磐石"
     },
     {
       "surface": "וְ\/אֹיְבֵ֖י\/נוּ",
-      "english": "甚至我们的敌人"
+      "gloss": "甚至我们的敌人"
     },
     {
       "surface": "פְּלִילִֽים",
-      "english": "也是审判者"
+      "gloss": "也是审判者"
     }
-  ],
-  "timestamp": "2026-07-17T19:48:31.869685374Z",
-  "model": "glm-5.2"
+  ]
 }

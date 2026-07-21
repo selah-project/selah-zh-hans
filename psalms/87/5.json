@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 87:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 87,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64650,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65169
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:09.529096163Z",
   "translation": "论及锡安,⟨人⟩要说:אִישׁ、וְאִישׁ 都生在其中;至高者⟨他⟩必亲自建立她。",
   "tokens": [
     {
       "surface": "ולציון",
-      "english": "论及锡安,"
+      "gloss": "论及锡安,"
     },
     {
       "surface": "יאמר",
-      "english": "⟨人⟩要说:"
+      "gloss": "⟨人⟩要说:"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "gloss": "אִישׁ"
     },
     {
       "surface": "ואיש",
-      "english": "וְאִישׁ"
+      "gloss": "וְאִישׁ"
     },
     {
       "surface": "ילד",
-      "english": "都生"
+      "gloss": "都生"
     },
     {
       "surface": "בה",
-      "english": "在其中;"
+      "gloss": "在其中;"
     },
     {
       "surface": "והוא",
-      "english": "至高者⟨他⟩"
+      "gloss": "至高者⟨他⟩"
     },
     {
       "surface": "יכוננה",
-      "english": "必亲自建立"
+      "gloss": "必亲自建立"
     },
     {
       "surface": "עליון",
-      "english": "她。"
+      "gloss": "她。"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:09.529096163Z",
-  "model": "glm-5.2"
+  ]
 }

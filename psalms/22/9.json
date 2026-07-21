@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 22:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64529,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65026
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:23.608900051Z",
   "translation": "向雅威滚 ⟨את⟩ 他,⟨愿⟩他救他脱离,⟨愿⟩他搭救他,因为他喜悦他。",
   "tokens": [
     {
       "surface": "גל",
-      "english": "滚"
+      "gloss": "滚"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יפלטהו",
-      "english": "⟨愿⟩他救他脱离"
+      "gloss": "⟨愿⟩他救他脱离"
     },
     {
       "surface": "יצילהו",
-      "english": "⟨愿⟩他搭救他"
+      "gloss": "⟨愿⟩他搭救他"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חפץ",
-      "english": "喜悦"
+      "gloss": "喜悦"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:23.608900051Z",
-  "model": "glm-5.2"
+  ]
 }

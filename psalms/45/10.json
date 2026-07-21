@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 45:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64626,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65072
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:38.430246603Z",
   "translation": "众君王的女儿们⟨在⟩你的贵客之中；镶以俄斐纯金的王后站在你的右边。",
   "tokens": [
     {
       "surface": "בנות",
-      "english": "众……的女儿们"
+      "gloss": "众……的女儿们"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "ביקרותיך",
-      "english": "⟨在⟩你的贵客之中"
+      "gloss": "⟨在⟩你的贵客之中"
     },
     {
       "surface": "נצבה",
-      "english": "站⟨着⟩"
+      "gloss": "站⟨着⟩"
     },
     {
       "surface": "שגל",
-      "english": "王后"
+      "gloss": "王后"
     },
     {
       "surface": "לימינך",
-      "english": "在你的右边"
+      "gloss": "在你的右边"
     },
     {
       "surface": "בכתם",
-      "english": "⟨镶⟩以俄斐纯金"
+      "gloss": "⟨镶⟩以俄斐纯金"
     },
     {
       "surface": "אופיר",
-      "english": "俄斐"
+      "gloss": "俄斐"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:38.430246603Z",
-  "model": "glm-5.2"
+  ]
 }

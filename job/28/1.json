@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 28:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21548,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22020
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:20.165495976Z",
   "translation": "因为银有⟨它的⟩出处,给金有⟨一个⟩地方,他们提炼⟨它⟩。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יֵ֣שׁ",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "לַ\/כֶּ֣סֶף",
-      "english": "给银"
+      "gloss": "给银"
     },
     {
       "surface": "מוֹצָ֑א",
-      "english": "出处"
+      "gloss": "出处"
     },
     {
       "surface": "וּ֝\/מָק֗וֹם",
-      "english": "和地方"
+      "gloss": "和地方"
     },
     {
       "surface": "לַ\/זָּהָ֥ב",
-      "english": "给金"
+      "gloss": "给金"
     },
     {
       "surface": "יָזֹֽקּוּ",
-      "english": "他们提炼"
+      "gloss": "他们提炼"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:20.165495976Z",
-  "model": "glm-5.2"
+  ]
 }

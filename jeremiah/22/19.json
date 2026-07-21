@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "jeremiah 22:19",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19072,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19543
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:19:26.575596700Z",
   "translation": "⟨一具⟩驴的埋葬,他必被埋葬;被拖拽并被抛掷,⟨从⟩那边⟨到⟩耶路撒冷的门口。",
   "tokens": [
     {
       "surface": "קבורת",
-      "english": "⟨一具⟩……的埋葬"
+      "gloss": "⟨一具⟩……的埋葬"
     },
     {
       "surface": "חמור",
-      "english": "驴"
+      "gloss": "驴"
     },
     {
       "surface": "יקבר",
-      "english": "他必被埋葬"
+      "gloss": "他必被埋葬"
     },
     {
       "surface": "סחוב",
-      "english": "被拖拽"
+      "gloss": "被拖拽"
     },
     {
       "surface": "והשלך",
-      "english": "并被抛掷"
+      "gloss": "并被抛掷"
     },
     {
       "surface": "מהלאה",
-      "english": "⟨从⟩那边"
+      "gloss": "⟨从⟩那边"
     },
     {
       "surface": "לשערי",
-      "english": "⟨到⟩……的门口"
+      "gloss": "⟨到⟩……的门口"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T22:19:26.575596700Z",
-  "model": "glm-5.2"
+  ]
 }

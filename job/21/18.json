@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 21:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21616,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22029
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:36.087078345Z",
   "translation": "愿他们 ⟨作⟩ 如碎秸在鲁阿面前，又如糠秕⟨被⟩旋风窃去。",
   "tokens": [
     {
       "surface": "יהיו",
-      "english": "愿他们 ⟨作⟩"
+      "gloss": "愿他们 ⟨作⟩"
     },
     {
       "surface": "כתבן",
-      "english": "如碎秸"
+      "gloss": "如碎秸"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     },
     {
       "surface": "וכמץ",
-      "english": "又如糠秕"
+      "gloss": "又如糠秕"
     },
     {
       "surface": "גנבתו",
-      "english": "⟨被⟩窃去"
+      "gloss": "⟨被⟩窃去"
     },
     {
       "surface": "סופה",
-      "english": "旋风"
+      "gloss": "旋风"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:36.087078345Z",
-  "model": "glm-5.2"
+  ]
 }

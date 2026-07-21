@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 40:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21548,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21914
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:06.823208891Z",
   "translation": "请⟨你⟩披上骄傲与崇高,以华美与尊贵为衣装饰自己。",
   "tokens": [
     {
       "surface": "עדה",
-      "english": "披上"
+      "gloss": "披上"
     },
     {
       "surface": "נא",
-      "english": "请"
+      "gloss": "请"
     },
     {
       "surface": "גאון",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "וגבה",
-      "english": "与崇高"
+      "gloss": "与崇高"
     },
     {
       "surface": "והוד",
-      "english": "以华美"
+      "gloss": "以华美"
     },
     {
       "surface": "והדר",
-      "english": "与尊贵"
+      "gloss": "与尊贵"
     },
     {
       "surface": "תלבש",
-      "english": "为衣装饰自己"
+      "gloss": "为衣装饰自己"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:06.823208891Z",
-  "model": "glm-5.2"
+  ]
 }

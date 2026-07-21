@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 31:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54433,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54726
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:45.527238744Z",
   "translation": "她筹画了一块田地，就买下它；她手掌的果子，她栽种了一个葡萄园。",
   "tokens": [
     {
       "surface": "זממה",
-      "english": "她筹画了"
+      "gloss": "她筹画了"
     },
     {
       "surface": "שדה",
-      "english": "一块田地"
+      "gloss": "一块田地"
     },
     {
       "surface": "ותקחהו",
-      "english": "就买下它"
+      "gloss": "就买下它"
     },
     {
       "surface": "מפרי",
-      "english": "……的果子"
+      "gloss": "……的果子"
     },
     {
       "surface": "כפיה",
-      "english": "她手掌"
+      "gloss": "她手掌"
     },
     {
       "surface": "נטע",
-      "english": "她栽种了"
+      "gloss": "她栽种了"
     },
     {
       "surface": "כרם",
-      "english": "一个葡萄园"
+      "gloss": "一个葡萄园"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:45.527238744Z",
-  "model": "glm-5.2"
+  ]
 }

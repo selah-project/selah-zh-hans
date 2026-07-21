@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-samuel 22:20",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18799,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19140
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:57.815845570Z",
   "translation": "他领我出到宽阔之地；他拯救⟨את⟩我，因为他喜悦我。",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "他领出"
+      "gloss": "他领出"
     },
     {
       "surface": "למרחב",
-      "english": "到宽阔之处"
+      "gloss": "到宽阔之处"
     },
     {
       "surface": "אתי",
-      "english": "⟨את⟩我",
+      "gloss": "⟨את⟩我",
       "marks": "我"
     },
     {
       "surface": "יחלצני",
-      "english": "他拯救我"
+      "gloss": "他拯救我"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חפץ",
-      "english": "他喜悦"
+      "gloss": "他喜悦"
     },
     {
       "surface": "בי",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:57.815845570Z",
-  "model": "glm-5.2"
+  ]
 }

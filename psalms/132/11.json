@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 132:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 665,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64858,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65523
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:22.744174783Z",
   "translation": "雅威向大卫起了誓，emét（信实），他必不⟨从⟩其中转回：从你腹中的果子，我必将⟨一位⟩安置宝座，给你。",
   "tokens": [
     {
       "surface": "נִשְׁבַּֽע",
-      "english": "起了誓"
+      "gloss": "起了誓"
     },
     {
       "surface": "יְהוָ֨ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לְ\/דָוִ֡ד",
-      "english": "向大卫"
+      "gloss": "向大卫"
     },
     {
       "surface": "אֱמֶת֮",
-      "english": "emét（信实）"
+      "gloss": "emét（信实）"
     },
     {
       "surface": "לֹֽא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "יָשׁ֪וּב",
-      "english": "转回"
+      "gloss": "转回"
     },
     {
       "surface": "מִ֫מֶּ֥\/נָּה",
-      "english": "⟨从⟩其中"
+      "gloss": "⟨从⟩其中"
     },
     {
       "surface": "מִ\/פְּרִ֥י",
-      "english": "从……的果子"
+      "gloss": "从……的果子"
     },
     {
       "surface": "בִטְנְ\/ךָ֑",
-      "english": "你腹中"
+      "gloss": "你腹中"
     },
     {
       "surface": "אָ֝שִׁ֗ית",
-      "english": "我必将……安置"
+      "gloss": "我必将……安置"
     },
     {
       "surface": "לְ\/כִסֵּא",
-      "english": "宝座"
+      "gloss": "宝座"
     },
     {
       "surface": "לָֽ\/ךְ",
-      "english": "给你"
+      "gloss": "给你"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:22.744174783Z",
-  "model": "glm-5.2"
+  ]
 }

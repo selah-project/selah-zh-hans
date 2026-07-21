@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 118:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64706,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65352
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:05.726523995Z",
   "translation": "אֵל ⟨是⟩ 雅威,他赐光给我们:用绳索绑住节庆 ⟨祭牲⟩,直到 ⟨המזבח⟩ 的四角!",
   "tokens": [
     {
       "surface": "אֵל",
-      "english": "以勒 (大能者)"
+      "gloss": "以勒 (大能者)"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וַ\/יָּאֶר",
-      "english": "他赐光"
+      "gloss": "他赐光"
     },
     {
       "surface": "לָ\/נוּ",
-      "english": "给我们"
+      "gloss": "给我们"
     },
     {
       "surface": "אִסְרוּ",
-      "english": "你们要绑住!"
+      "gloss": "你们要绑住!"
     },
     {
       "surface": "חַג",
-      "english": "节庆"
+      "gloss": "节庆"
     },
     {
       "surface": "בַּ\/עֲבֹתִים",
-      "english": "用绳索"
+      "gloss": "用绳索"
     },
     {
       "surface": "עַד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "קַרְנוֹת",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "הַ\/מִּזְבֵּחַ",
-      "english": "祭坛的"
+      "gloss": "祭坛的"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:05.726523995Z",
-  "model": "glm-5.2"
+  ]
 }

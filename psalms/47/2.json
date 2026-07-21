@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 47:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64510,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64836
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:21.941307852Z",
   "translation": "万民哪,你们都要拍掌!要以欢呼的声音向以罗欣 (Elohim) 呼喊!",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "העמים",
-      "english": "万民啊"
+      "gloss": "万民啊"
     },
     {
       "surface": "תקעו",
-      "english": "你们要拍"
+      "gloss": "你们要拍"
     },
     {
       "surface": "כף",
-      "english": "掌"
+      "gloss": "掌"
     },
     {
       "surface": "הריעו",
-      "english": "你们要呼喊"
+      "gloss": "你们要呼喊"
     },
     {
       "surface": "לאלהים",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "בקול",
-      "english": "以声音"
+      "gloss": "以声音"
     },
     {
       "surface": "רנה",
-      "english": "(欢呼)"
+      "gloss": "(欢呼)"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:21.941307852Z",
-  "model": "glm-5.2"
+  ]
 }

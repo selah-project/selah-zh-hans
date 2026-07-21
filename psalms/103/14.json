@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 103:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64885
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:22.936244626Z",
   "translation": "因为他知道我们的本体，他记念我们不过是尘土。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "יצרנו",
-      "english": "我们的本体"
+      "gloss": "我们的本体"
     },
     {
       "surface": "זכור",
-      "english": "记念"
+      "gloss": "记念"
     },
     {
       "surface": "כי",
-      "english": "⟨因为⟩"
+      "gloss": "⟨因为⟩"
     },
     {
       "surface": "עפר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "אנחנו",
-      "english": "我们"
+      "gloss": "我们"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:22.936244626Z",
-  "model": "glm-5.2"
+  ]
 }

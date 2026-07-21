@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "exodus 40:35",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19219,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19735
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:05.837355376Z",
   "translation": "摩西不能进入会幕,因为云彩停在其上,⟨且⟩雅威的荣耀充满了⟨את⟩会幕。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יכל",
-      "english": "⟨能够⟩"
+      "gloss": "⟨能够⟩"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "אל",
-      "english": "⟨进入⟩"
+      "gloss": "⟨进入⟩"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "⟨会幕⟩"
+      "gloss": "⟨会幕⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שכן",
-      "english": "停在"
+      "gloss": "停在"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "הענן",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "וכבוד",
-      "english": "⟨且⟩……的荣耀"
+      "gloss": "⟨且⟩……的荣耀"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מלא",
-      "english": "充满"
+      "gloss": "充满"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "המשכן",
-      "english": "会幕"
+      "gloss": "会幕"
     }
-  ],
-  "timestamp": "2026-07-17T18:40:05.837355376Z",
-  "model": "glm-5.2"
+  ]
 }

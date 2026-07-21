@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 68:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64663,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65078
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:17.386979824Z",
   "translation": "实在地，以罗欣必击碎⟨他⟩仇敌的头，那往来行走于⟨他⟩过犯中之人的毛茸头顶。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "实在地"
+      "gloss": "实在地"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ימחץ",
-      "english": "必击碎"
+      "gloss": "必击碎"
     },
     {
       "surface": "ראש",
-      "english": "⟨……的⟩头"
+      "gloss": "⟨……的⟩头"
     },
     {
       "surface": "איביו",
-      "english": "他仇敌"
+      "gloss": "他仇敌"
     },
     {
       "surface": "קדקד",
-      "english": "头顶"
+      "gloss": "头顶"
     },
     {
       "surface": "שער",
-      "english": "毛茸的"
+      "gloss": "毛茸的"
     },
     {
       "surface": "מתהלך",
-      "english": "往来行走于……之人"
+      "gloss": "往来行走于……之人"
     },
     {
       "surface": "באשמיו",
-      "english": "他的过犯中"
+      "gloss": "他的过犯中"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:17.386979824Z",
-  "model": "glm-5.2"
+  ]
 }

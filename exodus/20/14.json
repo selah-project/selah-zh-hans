@@ -1,32 +1,21 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "exodus 20:14",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 146,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17843,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 17989
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:47.795200741Z",
   "translation": "不可奸淫。",
   "tokens": [
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תִּנְאָֽף",
-      "english": "奸淫"
+      "gloss": "奸淫"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:47.795200741Z",
-  "model": "glm-5.2"
+  ]
 }

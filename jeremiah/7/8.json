@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "jeremiah 7:8",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19000,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19450
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:56:21.514918266Z",
   "translation": "看哪，你们正在依靠⟨你们自己⟩虚谎的*davar*（话语），⟨以至⟩毫无益处。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "בטחים",
-      "english": "正在依靠"
+      "gloss": "正在依靠"
     },
     {
       "surface": "לכם",
-      "english": "⟨你们自己⟩"
+      "gloss": "⟨你们自己⟩"
     },
     {
       "surface": "על",
-      "english": "在……之上 \/ 于"
+      "gloss": "在……之上 \/ 于"
     },
     {
       "surface": "דברי",
-      "english": "虚谎的*davar*（话语）"
+      "gloss": "虚谎的*davar*（话语）"
     },
     {
       "surface": "השקר",
-      "english": "虚谎"
+      "gloss": "虚谎"
     },
     {
       "surface": "לבלתי",
-      "english": "⟨以至⟩不 \/ 无法"
+      "gloss": "⟨以至⟩不 \/ 无法"
     },
     {
       "surface": "הועיל",
-      "english": "带来益处"
+      "gloss": "带来益处"
     }
-  ],
-  "timestamp": "2026-07-18T02:56:21.514918266Z",
-  "model": "glm-5.2"
+  ]
 }

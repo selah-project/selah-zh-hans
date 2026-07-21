@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "zechariah 8:1",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 245,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17324,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 17569
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:35:03.842250816Z",
   "translation": "雅威万军之⟨雅威⟩的话临到,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "דבר",
-      "english": "话 (*davar*)"
+      "gloss": "话 (*davar*)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军的"
+      "gloss": "万军的"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T23:35:03.842250816Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "exodus 18:26",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 643,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19205,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19848
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:22:29.222924896Z",
   "translation": "他们⟨在⟩所有时刻审判⟨את⟩那百姓：⟨את⟩那难的*话语*（*davar*），他们会带到摩西那里；而⟨关于⟩⟨את⟩每一句小的*话语*（*davar*），他们自己审判。",
   "tokens": [
     {
       "surface": "ושפטו",
-      "english": "他们审判"
+      "gloss": "他们审判"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "בכל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "עת",
-      "english": "时刻"
+      "gloss": "时刻"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那难的话语"
     },
     {
       "surface": "הדבר",
-      "english": "那话语"
+      "gloss": "那话语"
     },
     {
       "surface": "הקשה",
-      "english": "难的"
+      "gloss": "难的"
     },
     {
       "surface": "יביאון",
-      "english": "他们会带到"
+      "gloss": "他们会带到"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "וכל",
-      "english": "而每一句"
+      "gloss": "而每一句"
     },
     {
       "surface": "הדבר",
-      "english": "那话语"
+      "gloss": "那话语"
     },
     {
       "surface": "הקטן",
-      "english": "小的"
+      "gloss": "小的"
     },
     {
       "surface": "ישפוטו",
-      "english": "他们自己审判"
+      "gloss": "他们自己审判"
     },
     {
       "surface": "הם",
-      "english": "他们自己"
+      "gloss": "他们自己"
     }
-  ],
-  "timestamp": "2026-07-17T18:22:29.222924896Z",
-  "model": "glm-5.2"
+  ]
 }

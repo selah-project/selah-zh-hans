@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "jonah 4:7",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21469,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 22069
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:17.994096814Z",
   "translation": "以罗欣指定了一条虫,在黎明升起次日⟨时⟩,它击打⟨את⟩那蓖麻,⟨它⟩就枯干了。",
   "tokens": [
     {
       "surface": "וַ\/יְמַ֤ן",
-      "english": "指定了"
+      "gloss": "指定了"
     },
     {
       "surface": "הָֽ\/אֱלֹהִים֙",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "תּוֹלַ֔עַת",
-      "english": "一条虫"
+      "gloss": "一条虫"
     },
     {
       "surface": "בַּ\/עֲל֥וֹת",
-      "english": "在……升起"
+      "gloss": "在……升起"
     },
     {
       "surface": "הַ\/שַּׁ֖חַר",
-      "english": "黎明"
+      "gloss": "黎明"
     },
     {
       "surface": "לַֽ\/מָּחֳרָ֑ת",
-      "english": "次日"
+      "gloss": "次日"
     },
     {
       "surface": "וַ\/תַּ֥ךְ",
-      "english": "它击打"
+      "gloss": "它击打"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那蓖麻"
     },
     {
       "surface": "הַ\/קִּֽיקָי֖וֹן",
-      "english": "那蓖麻"
+      "gloss": "那蓖麻"
     },
     {
       "surface": "וַ\/יִּיבָֽשׁ",
-      "english": "枯干了"
+      "gloss": "枯干了"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:17.994096814Z",
-  "model": "glm-5.2"
+  ]
 }

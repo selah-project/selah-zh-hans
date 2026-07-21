@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 19:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59626,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59902
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:24:46.650683853Z",
   "translation": "约沙法，犹大之王，平平安安地回到他在耶路撒冷的家。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "回去了 (וַיָּשָׁב, *vayasáv*)"
+      "gloss": "回去了 (וַיָּשָׁב, *vayasáv*)"
     },
     {
       "surface": "יהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "מלך",
-      "english": "……之王 (מֶלֶךְ, *mélek*)"
+      "gloss": "……之王 (מֶלֶךְ, *mélek*)"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "אל",
-      "english": "到 (אֶל)"
+      "gloss": "到 (אֶל)"
     },
     {
       "surface": "ביתו",
-      "english": "他的家 (בֵּיתוֹ)"
+      "gloss": "他的家 (בֵּיתוֹ)"
     },
     {
       "surface": "בשלום",
-      "english": "平平安安地 (בְּשָׁלוֹם)"
+      "gloss": "平平安安地 (בְּשָׁלוֹם)"
     },
     {
       "surface": "לירושלם",
-      "english": "⟨去⟩耶路撒冷"
+      "gloss": "⟨去⟩耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T02:24:46.650683853Z",
-  "model": "glm-5.2"
+  ]
 }

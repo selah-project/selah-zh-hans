@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "ezekiel 18:27",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19510,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20011
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:50:09.220901261Z",
   "translation": "至于恶人转离他所行的恶，他⟨他⟩行了，又行公平公义——他必保全⟨את⟩自己的性命存活。",
   "tokens": [
     {
       "surface": "ובשוב",
-      "english": "至于……转离"
+      "gloss": "至于……转离"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "מרשעתו",
-      "english": "他所行的恶"
+      "gloss": "他所行的恶"
     },
     {
       "surface": "אשר",
-      "english": "（关系代词）"
+      "gloss": "（关系代词）"
     },
     {
       "surface": "עשה",
-      "english": "行了"
+      "gloss": "行了"
     },
     {
       "surface": "ויעש",
-      "english": "又行"
+      "gloss": "又行"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "וצדקה",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "הוא",
-      "english": "他⟨他⟩"
+      "gloss": "他⟨他⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "自己的性命"
     },
     {
       "surface": "נפשו",
-      "english": "自己的性命"
+      "gloss": "自己的性命"
     },
     {
       "surface": "יחיה",
-      "english": "必保全……存活"
+      "gloss": "必保全……存活"
     }
-  ],
-  "timestamp": "2026-07-17T22:50:09.220901261Z",
-  "model": "glm-5.2"
+  ]
 }

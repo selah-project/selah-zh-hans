@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 89:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64555,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64937
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:48.167798577Z",
   "translation": "北方和右手,你创造了⟨את⟩它们;他泊和黑门必因你的名欢呼。",
   "tokens": [
     {
       "surface": "צפון",
-      "english": "北方"
+      "gloss": "北方"
     },
     {
       "surface": "וימין",
-      "english": "和右手"
+      "gloss": "和右手"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "בראתם",
-      "english": "创造了"
+      "gloss": "创造了"
     },
     {
       "surface": "תבור",
-      "english": "他泊"
+      "gloss": "他泊"
     },
     {
       "surface": "וחרמון",
-      "english": "和黑门"
+      "gloss": "和黑门"
     },
     {
       "surface": "בשמך",
-      "english": "因你的名"
+      "gloss": "因你的名"
     },
     {
       "surface": "ירננו",
-      "english": "必欢呼"
+      "gloss": "必欢呼"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:48.167798577Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "2-samuel 21:21",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19004,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19421
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:04.452625467Z",
   "translation": "他辱骂了⟨את⟩以色列，雅威拿坦，示每的儿子，大卫的兄弟，击杀了他。",
   "tokens": [
     {
       "surface": "ויחרף",
-      "english": "他辱骂了"
+      "gloss": "他辱骂了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויכהו",
-      "english": "击杀了他"
+      "gloss": "击杀了他"
     },
     {
       "surface": "יהונתן",
-      "english": "雅威拿坦"
+      "gloss": "雅威拿坦"
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "שמעי",
-      "english": "示每"
+      "gloss": "示每"
     },
     {
       "surface": "אחי",
-      "english": "……的兄弟"
+      "gloss": "……的兄弟"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:04.452625467Z",
-  "model": "glm-5.2"
+  ]
 }

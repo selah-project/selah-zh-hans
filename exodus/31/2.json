@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 31:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18645,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19060
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:37.705064581Z",
   "translation": "看哪,我按名召了比撒列,乌利的子,户珥的子,属犹大支派的。",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "קראתי",
-      "english": "我……召了"
+      "gloss": "我……召了"
     },
     {
       "surface": "בשם",
-      "english": "按名"
+      "gloss": "按名"
     },
     {
       "surface": "בצלאל",
-      "english": "比撒列"
+      "gloss": "比撒列"
     },
     {
       "surface": "בן",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "אורי",
-      "english": "乌利"
+      "gloss": "乌利"
     },
     {
       "surface": "בן",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "חור",
-      "english": "户珥"
+      "gloss": "户珥"
     },
     {
       "surface": "למטה",
-      "english": "属……支派的"
+      "gloss": "属……支派的"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:37.705064581Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 13:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18181,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18462
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:27.560511764Z",
   "translation": "今天 ⟨是⟩ 你们出去的时候 —— ⟨在⟩ 亚笔月。",
   "tokens": [
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "יצאים",
-      "english": "出去的（时候）"
+      "gloss": "出去的（时候）"
     },
     {
       "surface": "בחדש",
-      "english": "⟨在⟩ 月"
+      "gloss": "⟨在⟩ 月"
     },
     {
       "surface": "האביב",
-      "english": "亚笔"
+      "gloss": "亚笔"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:27.560511764Z",
-  "model": "glm-5.2"
+  ]
 }

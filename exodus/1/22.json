@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 1:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18874,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19381
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:54.507302960Z",
   "translation": "法老吩咐⟨他⟩的全体百姓,⟨他⟩作为 *davar*,说:每一个新生的儿子,你们要扔进河里;但每一个女儿,你们要让她存活。",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "于是吩咐"
+      "gloss": "于是吩咐"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "לכל",
-      "english": "对全体"
+      "gloss": "对全体"
     },
     {
       "surface": "עמו",
-      "english": "他的百姓"
+      "gloss": "他的百姓"
     },
     {
       "surface": "לאמר",
-      "english": "作为 *davar*,说"
+      "gloss": "作为 *davar*,说"
     },
     {
       "surface": "כל",
-      "english": "每一个"
+      "gloss": "每一个"
     },
     {
       "surface": "הבן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "הילוד",
-      "english": "新生的"
+      "gloss": "新生的"
     },
     {
       "surface": "היארה",
-      "english": "河"
+      "gloss": "河"
     },
     {
       "surface": "תשליכהו",
-      "english": "你们要扔⟨他⟩进去"
+      "gloss": "你们要扔⟨他⟩进去"
     },
     {
       "surface": "וכל",
-      "english": "但每一个"
+      "gloss": "但每一个"
     },
     {
       "surface": "הבת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "תחיון",
-      "english": "你们要让她存活"
+      "gloss": "你们要让她存活"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:54.507302960Z",
-  "model": "glm-5.2"
+  ]
 }

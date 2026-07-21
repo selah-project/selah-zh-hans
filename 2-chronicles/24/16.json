@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "2-chronicles 24:16",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59984,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60481
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:27:50.925873276Z",
   "translation": "他们把他葬在大卫城里，与诸王同处，因为他在以色列中行了善，⟨也⟩与以罗欣⟨及⟩他的家同处。",
   "tokens": [
     {
       "surface": "ויקברהו",
-      "english": "他们把他葬了"
+      "gloss": "他们把他葬了"
     },
     {
       "surface": "בעיר",
-      "english": "在……城里"
+      "gloss": "在……城里"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "עם",
-      "english": "与……同处"
+      "gloss": "与……同处"
     },
     {
       "surface": "המלכים",
-      "english": "诸王"
+      "gloss": "诸王"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עשה",
-      "english": "他行了"
+      "gloss": "他行了"
     },
     {
       "surface": "טובה",
-      "english": "善"
+      "gloss": "善"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列中"
+      "gloss": "在以色列中"
     },
     {
       "surface": "ועם",
-      "english": "⟨也⟩与……同处"
+      "gloss": "⟨也⟩与……同处"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "וביתו",
-      "english": "⟨及⟩他的家"
+      "gloss": "⟨及⟩他的家"
     }
-  ],
-  "timestamp": "2026-07-18T02:27:50.925873276Z",
-  "model": "glm-5.2"
+  ]
 }

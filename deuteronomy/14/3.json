@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "deuteronomy 14:3",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 177,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18770,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 18947
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:44.264748268Z",
   "translation": "不可吃 ⟨任何⟩ 可憎之物。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "כל",
-      "english": "⟨任何⟩"
+      "gloss": "⟨任何⟩"
     },
     {
       "surface": "תועעבה",
-      "english": "可憎之物"
+      "gloss": "可憎之物"
     }
-  ],
-  "timestamp": "2026-07-17T19:36:44.264748268Z",
-  "model": "glm-5.2"
+  ]
 }

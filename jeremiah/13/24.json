@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "jeremiah 13:24",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18722,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 19072
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:14:32.761913523Z",
   "translation": "我将使他们如糠秕吹散，被旷野的鲁阿（风）吹过。",
   "tokens": [
     {
       "surface": "ואפיצם",
-      "english": "我将使他们如……吹散"
+      "gloss": "我将使他们如……吹散"
     },
     {
       "surface": "כקש",
-      "english": "糠秕"
+      "gloss": "糠秕"
     },
     {
       "surface": "עובר",
-      "english": "被……吹过"
+      "gloss": "被……吹过"
     },
     {
       "surface": "לרוח",
-      "english": "被鲁阿（风）"
+      "gloss": "被鲁阿（风）"
     },
     {
       "surface": "מדבר",
-      "english": "旷野的"
+      "gloss": "旷野的"
     }
-  ],
-  "timestamp": "2026-07-17T22:14:32.761913523Z",
-  "model": "glm-5.2"
+  ]
 }

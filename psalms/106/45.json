@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "psalms 106:45",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64300,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64740
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:51.672526956Z",
   "translation": "他⟨为⟩他们记念他的布瑞特,并因他丰盛的חֶסֶד而回心转意。",
   "tokens": [
     {
       "surface": "ויזכר",
-      "english": "他记念"
+      "gloss": "他记念"
     },
     {
       "surface": "להם",
-      "english": "⟨为⟩他们"
+      "gloss": "⟨为⟩他们"
     },
     {
       "surface": "בריתו",
-      "english": "他的布瑞特"
+      "gloss": "他的布瑞特"
     },
     {
       "surface": "וינחם",
-      "english": "并……回心转意"
+      "gloss": "并……回心转意"
     },
     {
       "surface": "כרב",
-      "english": "因……丰盛"
+      "gloss": "因……丰盛"
     },
     {
       "surface": "חסדו",
-      "english": "他的חֶסֶד"
+      "gloss": "他的חֶסֶד"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:51.672526956Z",
-  "model": "glm-5.2"
+  ]
 }

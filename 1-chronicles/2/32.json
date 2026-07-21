@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "1-chronicles 2:32",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58802,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59106
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:52:13.296124711Z",
   "translation": "雅达的儿子是⟨──⟩示迈的兄弟⟨──⟩耶帖和约拿单。耶帖死了，没有儿子。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "ידע",
-      "english": "雅达"
+      "gloss": "雅达"
     },
     {
       "surface": "אחי",
-      "english": "兄弟"
+      "gloss": "兄弟"
     },
     {
       "surface": "שמי",
-      "english": "示迈"
+      "gloss": "示迈"
     },
     {
       "surface": "יתר",
-      "english": "耶帖"
+      "gloss": "耶帖"
     },
     {
       "surface": "ויונתן",
-      "english": "和约拿单"
+      "gloss": "和约拿单"
     },
     {
       "surface": "וימת",
-      "english": "……死了"
+      "gloss": "……死了"
     },
     {
       "surface": "יתר",
-      "english": "耶帖"
+      "gloss": "耶帖"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בנים",
-      "english": "儿子"
+      "gloss": "儿子"
     }
-  ],
-  "timestamp": "2026-07-18T01:52:13.296124711Z",
-  "model": "glm-5.2"
+  ]
 }

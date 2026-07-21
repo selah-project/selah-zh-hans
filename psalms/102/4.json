@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 102:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64519,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64910
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:52.490555135Z",
   "translation": "因为我的日子如烟雾消散，我的骨头如 ⟨像⟩ 炉火 ⟨般⟩ 被烤焦。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כָל֣וּ",
-      "english": "消散"
+      "gloss": "消散"
     },
     {
       "surface": "בְ\/עָשָׁ֣ן",
-      "english": "在烟雾中"
+      "gloss": "在烟雾中"
     },
     {
       "surface": "יָמָ֑\/י",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "וְ֝\/עַצְמוֹתַ֗\/י",
-      "english": "而我的骨头"
+      "gloss": "而我的骨头"
     },
     {
       "surface": "כְּ\/מוֹ",
-      "english": "如 ⟨像⟩"
+      "gloss": "如 ⟨像⟩"
     },
     {
       "surface": "קֵ֥ד",
-      "english": "炉火"
+      "gloss": "炉火"
     },
     {
       "surface": "נִחָֽרוּ",
-      "english": "被烤焦 ⟨般⟩"
+      "gloss": "被烤焦 ⟨般⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:52.490555135Z",
-  "model": "glm-5.2"
+  ]
 }

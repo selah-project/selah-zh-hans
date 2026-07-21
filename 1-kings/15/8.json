@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-kings 15:8",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64452,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64828
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:10:09.642901720Z",
   "translation": "亚比雅与他的列祖同睡,他们将他葬在大卫城;他的儿子亚撒在他之后作王。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "与……同睡"
+      "gloss": "与……同睡"
     },
     {
       "surface": "אבים",
-      "english": "亚比雅"
+      "gloss": "亚比雅"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "ויקברו",
-      "english": "他们葬了"
+      "gloss": "他们葬了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "在大卫城"
     },
     {
       "surface": "בעיר",
-      "english": "在城"
+      "gloss": "在城"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "וימלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "אסא",
-      "english": "亚撒"
+      "gloss": "亚撒"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "תחתיו",
-      "english": "在他之后"
+      "gloss": "在他之后"
     }
-  ],
-  "timestamp": "2026-07-17T21:10:09.642901720Z",
-  "model": "glm-5.2"
+  ]
 }

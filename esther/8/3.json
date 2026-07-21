@@ -1,111 +1,103 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "esther 8:3",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 676,
-    "prompt_tokens": 20836,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 21512
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:39.560586867Z",
   "translation": "以斯帖又在王面前说话,俯伏在王脚前,哭泣哀求,要使哈曼——亚甲族人的恶,和他图谋谋害犹太人的计谋 ⟨את⟩ 废除",
   "tokens": [
     {
       "surface": "ותוסף",
-      "english": "又"
+      "gloss": "又"
     },
     {
       "surface": "אסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     },
     {
       "surface": "ותדבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "לפני",
-      "english": "在...面前"
+      "gloss": "在...面前"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ותפל",
-      "english": "俯伏"
+      "gloss": "俯伏"
     },
     {
       "surface": "לפני",
-      "english": "在...前"
+      "gloss": "在...前"
     },
     {
       "surface": "רגליו",
-      "english": "他脚"
+      "gloss": "他脚"
     },
     {
       "surface": "ותבך",
-      "english": "哭泣"
+      "gloss": "哭泣"
     },
     {
       "surface": "ותתחנן",
-      "english": "哀求"
+      "gloss": "哀求"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "להעביר",
-      "english": "要使...废除"
+      "gloss": "要使...废除"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "恶"
     },
     {
       "surface": "רעת",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "המן",
-      "english": "哈曼"
+      "gloss": "哈曼"
     },
     {
       "surface": "האגגי",
-      "english": "——亚甲族人的"
+      "gloss": "——亚甲族人的"
     },
     {
       "surface": "ואת",
-      "english": "和",
+      "gloss": "和",
       "marks": "计谋"
     },
     {
       "surface": "מחשבתו",
-      "english": "他...计谋"
+      "gloss": "他...计谋"
     },
     {
       "surface": "אשר",
-      "english": "图谋谋害"
+      "gloss": "图谋谋害"
     },
     {
       "surface": "חשב",
-      "english": "图谋"
+      "gloss": "图谋"
     },
     {
       "surface": "על",
-      "english": "谋害"
+      "gloss": "谋害"
     },
     {
       "surface": "היהודים",
-      "english": "犹太人"
+      "gloss": "犹太人"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:39.560586867Z",
-  "model": "glm-4.5"
+  ]
 }

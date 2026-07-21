@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 89:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64571,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64969
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:50.095625356Z",
   "translation": "你掌管海的狂傲;当它的波浪翻腾时,你平息它们。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "מושל",
-      "english": "掌管"
+      "gloss": "掌管"
     },
     {
       "surface": "בגאות",
-      "english": "⟨在⟩ 狂傲中"
+      "gloss": "⟨在⟩ 狂傲中"
     },
     {
       "surface": "הים",
-      "english": "海的"
+      "gloss": "海的"
     },
     {
       "surface": "בשוא",
-      "english": "当……翻腾时"
+      "gloss": "当……翻腾时"
     },
     {
       "surface": "גליו",
-      "english": "它的波浪"
+      "gloss": "它的波浪"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תשבחם",
-      "english": "平息它们"
+      "gloss": "平息它们"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:50.095625356Z",
-  "model": "glm-5.2"
+  ]
 }

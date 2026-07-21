@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "2-samuel 18:30",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 267,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18720,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 18987
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:50:35.676835090Z",
   "translation": "王说：转过去，站在那里。⟨他⟩就转过去，站住了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "סב",
-      "english": "转过去"
+      "gloss": "转过去"
     },
     {
       "surface": "התיצב",
-      "english": "站"
+      "gloss": "站"
     },
     {
       "surface": "כה",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "ויסב",
-      "english": "⟨他⟩就转过去"
+      "gloss": "⟨他⟩就转过去"
     },
     {
       "surface": "ויעמד",
-      "english": "站住了"
+      "gloss": "站住了"
     }
-  ],
-  "timestamp": "2026-07-17T20:50:35.676835090Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 35:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21549,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22043
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:26.151598271Z",
   "translation": "你的邪恶⟨只及⟩⟨את⟩像你的人；你的公义⟨只及⟩人子。",
   "tokens": [
     {
       "surface": "לְ\/אִישׁ",
-      "english": "⟨只及⟩"
+      "gloss": "⟨只及⟩"
     },
     {
       "surface": "כָּמ֥וֹ\/ךָ",
-      "english": "像你的"
+      "gloss": "像你的"
     },
     {
       "surface": "רִשְׁעֶ֑\/ךָ",
-      "english": "你的邪恶"
+      "gloss": "你的邪恶"
     },
     {
       "surface": "וּ\/לְ\/בֶן",
-      "english": "⟨只及⟩"
+      "gloss": "⟨只及⟩"
     },
     {
       "surface": "אָ֝דָ֗ם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "צִדְקָתֶֽ\/ךָ",
-      "english": "你的公义"
+      "gloss": "你的公义"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:26.151598271Z",
-  "model": "glm-5.2"
+  ]
 }

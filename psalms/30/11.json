@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 30:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64463,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64801
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:44.867281457Z",
   "translation": "雅威啊,求你听,并恩待我;雅威啊,求你作我的帮助者!",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "求你听"
+      "gloss": "求你听"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וחנני",
-      "english": "并恩待我"
+      "gloss": "并恩待我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "היה",
-      "english": "求你作"
+      "gloss": "求你作"
     },
     {
       "surface": "עזר",
-      "english": "帮助者"
+      "gloss": "帮助者"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:44.867281457Z",
-  "model": "glm-5.2"
+  ]
 }

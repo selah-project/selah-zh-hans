@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "deuteronomy 6:16",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19295,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19691
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:31:55.640251852Z",
   "translation": "不可试探雅威 ⟨את⟩ 你们的以罗欣,正如你们在玛撒 ⟨所⟩试探的那样。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תנסו",
-      "english": "你们当试探"
+      "gloss": "你们当试探"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "נסיתם",
-      "english": "你们试探"
+      "gloss": "你们试探"
     },
     {
       "surface": "במסה",
-      "english": "在玛撒"
+      "gloss": "在玛撒"
     }
-  ],
-  "timestamp": "2026-07-17T19:31:55.640251852Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 39:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21531,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21866
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:31.696703010Z",
   "translation": "我使荒野成为他的房屋,他的居所 ⟨在⟩ 盐地。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "שמתי",
-      "english": "使……"
+      "gloss": "使……"
     },
     {
       "surface": "ערבה",
-      "english": "荒野"
+      "gloss": "荒野"
     },
     {
       "surface": "ביתו",
-      "english": "成为他的房屋"
+      "gloss": "成为他的房屋"
     },
     {
       "surface": "ומשכנותיו",
-      "english": "他的居所"
+      "gloss": "他的居所"
     },
     {
       "surface": "מלחה",
-      "english": "盐地"
+      "gloss": "盐地"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:31.696703010Z",
-  "model": "glm-5.2"
+  ]
 }

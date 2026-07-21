@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 78:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64365,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64707
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:20.622918945Z",
   "translation": "就是我们（אשר）所听见、所知道的，我们的列祖向我们讲述的——",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "שמענו",
-      "english": "我们（אשר）所听见的"
+      "gloss": "我们（אשר）所听见的"
     },
     {
       "surface": "ונדעם",
-      "english": "和我们知道的"
+      "gloss": "和我们知道的"
     },
     {
       "surface": "ואבותינו",
-      "english": "以及我们的列祖"
+      "gloss": "以及我们的列祖"
     },
     {
       "surface": "ספרו",
-      "english": "向我们讲述的"
+      "gloss": "向我们讲述的"
     },
     {
       "surface": "לנו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-18T00:06:20.622918945Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "jeremiah 23:1",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19203,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19673
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:19:50.434926994Z",
   "translation": "祸哉！那些毁坏、驱散我牧场上羊群的牧人——雅威的宣谕。",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "祸哉"
+      "gloss": "祸哉"
     },
     {
       "surface": "רעים",
-      "english": "那些牧人"
+      "gloss": "那些牧人"
     },
     {
       "surface": "מאבדים",
-      "english": "毁坏"
+      "gloss": "毁坏"
     },
     {
       "surface": "ומפצים",
-      "english": "并驱散"
+      "gloss": "并驱散"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "מרעיתי",
-      "english": "我牧场上的"
+      "gloss": "我牧场上的"
     },
     {
       "surface": "נאם",
-      "english": "的宣谕"
+      "gloss": "的宣谕"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:19:50.434926994Z",
-  "model": "glm-5.2"
+  ]
 }

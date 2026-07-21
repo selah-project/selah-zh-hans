@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "zephaniah 3:4",
   "book": "zephaniah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18021,
-    "prompt_tokens_details": {
-      "cached_tokens": 16704
-    },
-    "total_tokens": 18612
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:31:09.491978008Z",
   "translation": "她的 *naví* ⟨是⟩轻浮的,是奸诈之人;她的祭司亵渎了 ⟨הקדש⟩圣物,他们向妥拉行了强暴。",
   "tokens": [
     {
       "surface": "נְבִיאֶ֨י\/הָ֙",
-      "english": "她的 *naví*"
+      "gloss": "她的 *naví*"
     },
     {
       "surface": "פֹּֽחֲזִ֔ים",
-      "english": "轻浮的"
+      "gloss": "轻浮的"
     },
     {
       "surface": "אַנְשֵׁ֖י",
-      "english": "……之人"
+      "gloss": "……之人"
     },
     {
       "surface": "בֹּֽגְד֑וֹת",
-      "english": "奸诈"
+      "gloss": "奸诈"
     },
     {
       "surface": "כֹּהֲנֶ֨י\/הָ֙",
-      "english": "她的祭司"
+      "gloss": "她的祭司"
     },
     {
       "surface": "חִלְּלוּ",
-      "english": "亵渎了"
+      "gloss": "亵渎了"
     },
     {
       "surface": "קֹ֔דֶשׁ",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "חָמְס֖וּ",
-      "english": "向……行了强暴"
+      "gloss": "向……行了强暴"
     },
     {
       "surface": "תּוֹרָֽה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:31:09.491978008Z",
-  "model": "glm-5.2"
+  ]
 }

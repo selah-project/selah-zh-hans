@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
   "ref": "psalms 89:48",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64724,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65245
-  },
+  "verse": 48,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:27.132241816Z",
   "translation": "求你记念我存活之日何等短暂！你为⟨何⟩这⟨שוא⟩创造了全人类？",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "求你记念"
+      "gloss": "求你记念"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "חלד",
-      "english": "短暂（存活之日）"
+      "gloss": "短暂（存活之日）"
     },
     {
       "surface": "על",
-      "english": "为了"
+      "gloss": "为了"
     },
     {
       "surface": "מה",
-      "english": "⟨何⟩"
+      "gloss": "⟨何⟩"
     },
     {
       "surface": "שוא",
-      "english": "⟨שוא⟩（虚幻\/虚空）"
+      "gloss": "⟨שוא⟩（虚幻\/虚空）"
     },
     {
       "surface": "בראת",
-      "english": "你创造了"
+      "gloss": "你创造了"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "בני",
-      "english": "之子（人类）"
+      "gloss": "之子（人类）"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:27.132241816Z",
-  "model": "glm-5.2"
+  ]
 }

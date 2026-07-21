@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 41:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64696,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65069
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:13.848616732Z",
   "translation": "我说：雅威啊，求你恩待⟨את⟩我，医治我的נפש，因为我向你犯罪了。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אמרתי",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חנני",
-      "english": "求你恩待⟨את⟩我"
+      "gloss": "求你恩待⟨את⟩我"
     },
     {
       "surface": "רפאה",
-      "english": "医治"
+      "gloss": "医治"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חטאתי",
-      "english": "我犯罪了"
+      "gloss": "我犯罪了"
     },
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:13.848616732Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "exodus 29:43",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18328,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18811
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:28.479660925Z",
   "translation": "我将在那里与以色列的子孙相会,⟨它⟩必因我的荣耀成为圣。",
   "tokens": [
     {
       "surface": "ונעדתי",
-      "english": "我[将]相会"
+      "gloss": "我[将]相会"
     },
     {
       "surface": "שמה",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "לבני",
-      "english": "与……的子孙"
+      "gloss": "与……的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ונקדש",
-      "english": "⟨它⟩必成为圣"
+      "gloss": "⟨它⟩必成为圣"
     },
     {
       "surface": "בכבדי",
-      "english": "因我的荣耀"
+      "gloss": "因我的荣耀"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:28.479660925Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 36:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64838,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65183
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:26.405416977Z",
   "translation": "⟨雅威啊⟩，你的公义如⟨אֵל⟩的山脉，你的审判如浩大的深渊；你拯救人与牲畜。",
   "tokens": [
     {
       "surface": "צדקתך",
-      "english": "你的公义"
+      "gloss": "你的公义"
     },
     {
       "surface": "כהררי",
-      "english": "如山脉"
+      "gloss": "如山脉"
     },
     {
       "surface": "אל",
-      "english": "אֵל"
+      "gloss": "אֵל"
     },
     {
       "surface": "משפטך",
-      "english": "你的审判"
+      "gloss": "你的审判"
     },
     {
       "surface": "תהום",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "רבה",
-      "english": "浩大的"
+      "gloss": "浩大的"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "ובהמה",
-      "english": "与牲畜"
+      "gloss": "与牲畜"
     },
     {
       "surface": "תושיע",
-      "english": "你拯救"
+      "gloss": "你拯救"
     },
     {
       "surface": "יהוה",
-      "english": "⟨雅威啊⟩"
+      "gloss": "⟨雅威啊⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:26.405416977Z",
-  "model": "glm-5.2"
+  ]
 }

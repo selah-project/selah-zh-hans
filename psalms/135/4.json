@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 135:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64371,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64725
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:56.015281564Z",
   "translation": "因为雅各是雅威为自己所拣选的，以色列是他自己的珍宝产业。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יַעֲקֹ֗ב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "בָּחַ֣ר",
-      "english": "拣选了"
+      "gloss": "拣选了"
     },
     {
       "surface": "ל֣\/וֹ",
-      "english": "为自己"
+      "gloss": "为自己"
     },
     {
       "surface": "יָ֑הּ",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יִ֝שְׂרָאֵ֗ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לִ\/סְגֻלָּתֽ\/וֹ",
-      "english": "为他自己的珍宝产业"
+      "gloss": "为他自己的珍宝产业"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:56.015281564Z",
-  "model": "glm-5.2"
+  ]
 }

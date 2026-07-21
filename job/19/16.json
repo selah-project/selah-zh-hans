@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 19:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21642,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21980
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:18.620614213Z",
   "translation": "我呼召我的仆人，他不回答；我用自己的口向他乞求。",
   "tokens": [
     {
       "surface": "לעבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     },
     {
       "surface": "קראתי",
-      "english": "我呼召"
+      "gloss": "我呼召"
     },
     {
       "surface": "ולא",
-      "english": "他不"
+      "gloss": "他不"
     },
     {
       "surface": "יענה",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "במו",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "אתחנן",
-      "english": "我乞求"
+      "gloss": "我乞求"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:18.620614213Z",
-  "model": "glm-5.2"
+  ]
 }

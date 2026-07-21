@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-chronicles 30:20",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59632,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 59965
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:31:56.360518419Z",
   "translation": "雅威垂听希西家,就医治了⟨את⟩⟨ה⟩百姓。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "垂听"
+      "gloss": "垂听"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "了"
+      "gloss": "了"
     },
     {
       "surface": "יחזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "וירפא",
-      "english": "就医治了"
+      "gloss": "就医治了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "百姓"
     },
     {
       "surface": "העם",
-      "english": "⟨ה⟩百姓"
+      "gloss": "⟨ה⟩百姓"
     }
-  ],
-  "timestamp": "2026-07-18T02:31:56.360518419Z",
-  "model": "glm-5.2"
+  ]
 }

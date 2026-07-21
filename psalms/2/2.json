@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 2:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64751,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65429
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:01.460405497Z",
   "translation": "地上的君王们站立起来,权贵们一同密谋,反对雅威和反对他的受膏者。",
   "tokens": [
     {
       "surface": "יִ֥תְיַצְּב֨וּ",
-      "english": "站立起来"
+      "gloss": "站立起来"
     },
     {
       "surface": "מַלְכֵי",
-      "english": "君王们"
+      "gloss": "君王们"
     },
     {
       "surface": "אֶ֗רֶץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "וְ\/רוֹזְנִ֥ים",
-      "english": "和权贵们"
+      "gloss": "和权贵们"
     },
     {
       "surface": "נֽוֹסְדוּ",
-      "english": "密谋"
+      "gloss": "密谋"
     },
     {
       "surface": "יָ֑חַד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "עַל",
-      "english": "反对"
+      "gloss": "反对"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/עַל",
-      "english": "和反对"
+      "gloss": "和反对"
     },
     {
       "surface": "מְשִׁ֥יחֽ\/וֹ",
-      "english": "他的受膏者"
+      "gloss": "他的受膏者"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:01.460405497Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 37:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64485,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64716
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:57.115108029Z",
   "translation": "雅威认识完全人的日子，他们的产业⟨将⟩存到永远。",
   "tokens": [
     {
       "surface": "יודע",
-      "english": "认识"
+      "gloss": "认识"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ימי",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "תמימם",
-      "english": "完全人"
+      "gloss": "完全人"
     },
     {
       "surface": "ונחלתם",
-      "english": "和他们的产业"
+      "gloss": "和他们的产业"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "תהיה",
-      "english": "⟨将⟩存"
+      "gloss": "⟨将⟩存"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:57.115108029Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "2-samuel 20:25",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 205,
-    "prompt_tokens": 18494,
-    "prompt_tokens_details": {
-      "cached_tokens": 17408
-    },
-    "total_tokens": 18699
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:10:40.195203856Z",
   "translation": "示雅是书记；撒督和亚比亚他 ⟨是⟩ 祭司。",
   "tokens": [
     {
       "surface": "ושיא",
-      "english": "示雅"
+      "gloss": "示雅"
     },
     {
       "surface": "ספר",
-      "english": "书记"
+      "gloss": "书记"
     },
     {
       "surface": "וצדוק",
-      "english": "撒督"
+      "gloss": "撒督"
     },
     {
       "surface": "ואביתר",
-      "english": "亚比亚他"
+      "gloss": "亚比亚他"
     },
     {
       "surface": "כהנים",
-      "english": "祭司"
+      "gloss": "祭司"
     }
-  ],
-  "timestamp": "2026-07-21T13:10:40.195203856Z",
-  "model": "glm-4.5"
+  ]
 }

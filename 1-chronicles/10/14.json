@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "1-chronicles 10:14",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58879,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59263
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:59:51.166080008Z",
   "translation": "而他没有求问雅威,他就将他处死,并将⟨את⟩王权转给大卫,耶西的儿子。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "而他没有"
+      "gloss": "而他没有"
     },
     {
       "surface": "דרש",
-      "english": "求问"
+      "gloss": "求问"
     },
     {
       "surface": "ביהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וימיתהו",
-      "english": "他就将他处死"
+      "gloss": "他就将他处死"
     },
     {
       "surface": "ויסב",
-      "english": "并将……转给"
+      "gloss": "并将……转给"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "王权"
     },
     {
       "surface": "המלוכה",
-      "english": "王权"
+      "gloss": "王权"
     },
     {
       "surface": "לדויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "ישי",
-      "english": "耶西"
+      "gloss": "耶西"
     }
-  ],
-  "timestamp": "2026-07-18T01:59:51.166080008Z",
-  "model": "glm-5.2"
+  ]
 }

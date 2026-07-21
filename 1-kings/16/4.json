@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-kings 16:4",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64223,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64586
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:10:43.193308150Z",
   "translation": "בעשא בעיר中死的人,狗必吃;ובשדה中死的人,空中的鸟必吃。",
   "tokens": [
     {
       "surface": "המת",
-      "english": "死的人"
+      "gloss": "死的人"
     },
     {
       "surface": "לבעשא",
-      "english": "属巴沙的"
+      "gloss": "属巴沙的"
     },
     {
       "surface": "בעיר",
-      "english": "在城中"
+      "gloss": "在城中"
     },
     {
       "surface": "יאכלו",
-      "english": "必吃"
+      "gloss": "必吃"
     },
     {
       "surface": "הכלבים",
-      "english": "狗"
+      "gloss": "狗"
     },
     {
       "surface": "והמת",
-      "english": "而死的人"
+      "gloss": "而死的人"
     },
     {
       "surface": "לו",
-      "english": "属他的"
+      "gloss": "属他的"
     },
     {
       "surface": "בשדה",
-      "english": "在田野中"
+      "gloss": "在田野中"
     },
     {
       "surface": "יאכלו",
-      "english": "必吃"
+      "gloss": "必吃"
     },
     {
       "surface": "עוף",
-      "english": "飞鸟"
+      "gloss": "飞鸟"
     },
     {
       "surface": "השמים",
-      "english": "空中的"
+      "gloss": "空中的"
     }
-  ],
-  "timestamp": "2026-07-17T21:10:43.193308150Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 9:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21656,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22056
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:55.356937490Z",
   "translation": "我若公义,⟨我自己的⟩口定我有罪;我若完全,⟨我⟩正直,⟨他⟩却使我弯曲。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אצדק",
-      "english": "我公义"
+      "gloss": "我公义"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "ירשיעני",
-      "english": "定我有罪"
+      "gloss": "定我有罪"
     },
     {
       "surface": "תם",
-      "english": "我完全"
+      "gloss": "我完全"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ועקשני",
-      "english": "他却使我弯曲"
+      "gloss": "他却使我弯曲"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:55.356937490Z",
-  "model": "glm-5.2"
+  ]
 }

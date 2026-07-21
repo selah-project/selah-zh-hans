@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 30:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 225,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22684,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22909
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:52:41.894024425Z",
   "translation": "悉帕——莉阿的婢女——为雅各生了一个儿子。",
   "tokens": [
     {
       "surface": "ו\/תלד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "זלפה",
-      "english": "悉帕"
+      "gloss": "悉帕"
     },
     {
       "surface": "שפחת",
-      "english": "婢女"
+      "gloss": "婢女"
     },
     {
       "surface": "לאה",
-      "english": "莉阿的"
+      "gloss": "莉阿的"
     },
     {
       "surface": "ל\/יעקב",
-      "english": "为雅各"
+      "gloss": "为雅各"
     },
     {
       "surface": "בן",
-      "english": "一个儿子"
+      "gloss": "一个儿子"
     }
-  ],
-  "timestamp": "2026-07-17T17:52:41.894024425Z",
-  "model": "glm-5.2"
+  ]
 }

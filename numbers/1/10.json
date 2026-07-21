@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 1:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19882,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20202
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:29.786119468Z",
   "translation": "约瑟的众子：属以法莲的，有亚米忽的子以利沙玛；属玛拿西的，有比大苏的子迦玛列。",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "……的众子："
+      "gloss": "……的众子："
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "לאפרים",
-      "english": "属以法莲的，"
+      "gloss": "属以法莲的，"
     },
     {
       "surface": "אלישמע",
-      "english": "以利沙玛"
+      "gloss": "以利沙玛"
     },
     {
       "surface": "בן",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "עמיהוד",
-      "english": "亚米忽"
+      "gloss": "亚米忽"
     },
     {
       "surface": "למנשה",
-      "english": "属玛拿西的，"
+      "gloss": "属玛拿西的，"
     },
     {
       "surface": "גמליאל",
-      "english": "迦玛列"
+      "gloss": "迦玛列"
     },
     {
       "surface": "בן",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "פדהצור",
-      "english": "比大苏"
+      "gloss": "比大苏"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:29.786119468Z",
-  "model": "glm-5.2"
+  ]
 }

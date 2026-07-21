@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 17:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54380,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54720
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:24.229273559Z",
   "translation": "宁可让人遇见一头丧失幼崽的熊，也不要遇见 ⟨一个⟩ 愚昧人陷在他的愚妄中。",
   "tokens": [
     {
       "surface": "פגוש",
-      "english": "宁可让人遇见"
+      "gloss": "宁可让人遇见"
     },
     {
       "surface": "דב",
-      "english": "一头熊"
+      "gloss": "一头熊"
     },
     {
       "surface": "שכול",
-      "english": "丧失幼崽的"
+      "gloss": "丧失幼崽的"
     },
     {
       "surface": "באיש",
-      "english": "让人遇见"
+      "gloss": "让人遇见"
     },
     {
       "surface": "ואל",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "כסיל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "באולתו",
-      "english": "陷在他的愚妄中"
+      "gloss": "陷在他的愚妄中"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:24.229273559Z",
-  "model": "glm-5.2"
+  ]
 }

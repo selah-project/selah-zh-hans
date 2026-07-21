@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 32:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 599,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19464,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20063
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:59:16.438080730Z",
   "translation": "天上一切发光的发光体,我必使它们在你上空昏暗;我必将黑暗放在你的地上——这是阿多奈雅威的神谕。",
   "tokens": [
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מְא֤וֹרֵי",
-      "english": "发光的发光体"
+      "gloss": "发光的发光体"
     },
     {
       "surface": "אוֹר֙",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "בַּ\/שָּׁמַ֔יִם",
-      "english": "在天上"
+      "gloss": "在天上"
     },
     {
       "surface": "אַקְדִּירֵ֖\/ם",
-      "english": "我必使……昏暗"
+      "gloss": "我必使……昏暗"
     },
     {
       "surface": "עָלֶ֑י\/ךָ",
-      "english": "在你上空"
+      "gloss": "在你上空"
     },
     {
       "surface": "וְ\/נָתַ֤תִּי",
-      "english": "我必将……放在"
+      "gloss": "我必将……放在"
     },
     {
       "surface": "חֹ֨שֶׁךְ֙",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "עַֽל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "אַרְצְ\/ךָ֔",
-      "english": "你的地"
+      "gloss": "你的地"
     },
     {
       "surface": "נְאֻ֖ם",
-      "english": "神谕"
+      "gloss": "神谕"
     },
     {
       "surface": "אֲדֹנָ֥\/י",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יְהוִֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:59:16.438080730Z",
-  "model": "glm-5.2"
+  ]
 }

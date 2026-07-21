@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-chronicles 11:5",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59555,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59836
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:20:05.343258543Z",
   "translation": "罗波安住在耶路撒冷，并在犹大建造城邑为要塞。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "住在"
+      "gloss": "住在"
     },
     {
       "surface": "רחבעם",
-      "english": "罗波安"
+      "gloss": "罗波安"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     },
     {
       "surface": "ויבן",
-      "english": "建造"
+      "gloss": "建造"
     },
     {
       "surface": "ערים",
-      "english": "城邑"
+      "gloss": "城邑"
     },
     {
       "surface": "למצור",
-      "english": "为要塞"
+      "gloss": "为要塞"
     },
     {
       "surface": "ביהודה",
-      "english": "在犹大"
+      "gloss": "在犹大"
     }
-  ],
-  "timestamp": "2026-07-18T02:20:05.343258543Z",
-  "model": "glm-5.2"
+  ]
 }

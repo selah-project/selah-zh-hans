@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "genesis 35:9",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23154,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23587
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:16.912338804Z",
   "translation": "以罗欣向雅各再次显现，在他从帕丹·亚兰回来的时候；⟨他⟩就祝福⟨את⟩他。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "显现了"
+      "gloss": "显现了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "עוד",
-      "english": "再次"
+      "gloss": "再次"
     },
     {
       "surface": "בבאו",
-      "english": "在他来的时候"
+      "gloss": "在他来的时候"
     },
     {
       "surface": "מפדן",
-      "english": "从帕丹"
+      "gloss": "从帕丹"
     },
     {
       "surface": "ארם",
-      "english": "亚兰"
+      "gloss": "亚兰"
     },
     {
       "surface": "ויברך",
-      "english": "他就祝福了"
+      "gloss": "他就祝福了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:16.912338804Z",
-  "model": "glm-5.2"
+  ]
 }

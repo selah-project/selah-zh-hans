@@ -1,67 +1,59 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "genesis 5:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 565,
-    "prompt_tokens": 23413,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23978
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:09.518747251Z",
   "translation": "男性与女性以罗欣创造了他们,并且祝福了他们,并且呼叫他们的名字是亚当,在他们被造的日子。",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "ונקבה",
-      "english": "与女性"
+      "gloss": "与女性"
     },
     {
       "surface": "בראם",
-      "english": "以罗欣创造了他们"
+      "gloss": "以罗欣创造了他们"
     },
     {
       "surface": "ויברך",
-      "english": "并且祝福了他们"
+      "gloss": "并且祝福了他们"
     },
     {
       "surface": "אתם",
-      "english": "他们",
+      "gloss": "他们",
       "marks": "祝福"
     },
     {
       "surface": "ויקרא",
-      "english": "并且呼叫"
+      "gloss": "并且呼叫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的名字"
     },
     {
       "surface": "שמם",
-      "english": "他们的名字"
+      "gloss": "他们的名字"
     },
     {
       "surface": "אדם",
-      "english": "是亚当"
+      "gloss": "是亚当"
     },
     {
       "surface": "ביום",
-      "english": "在日子"
+      "gloss": "在日子"
     },
     {
       "surface": "הבראם",
-      "english": "他们被造的"
+      "gloss": "他们被造的"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:09.518747251Z",
-  "model": "glm-4.5"
+  ]
 }

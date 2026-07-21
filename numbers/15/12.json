@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "numbers 15:12",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19529,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20008
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:45.502071672Z",
   "translation": "按着你们所献⟨的⟩数目，你们也要照样为每一只献上，按着它们的数目。",
   "tokens": [
     {
       "surface": "כַּ\/מִּסְפָּ֖ר",
-      "english": "按着⟨的⟩数目"
+      "gloss": "按着⟨的⟩数目"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "你们所献"
+      "gloss": "你们所献"
     },
     {
       "surface": "תַּעֲשׂ֑וּ",
-      "english": "你们做"
+      "gloss": "你们做"
     },
     {
       "surface": "כָּ֛כָה",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "תַּעֲשׂ֥וּ",
-      "english": "你们要做"
+      "gloss": "你们要做"
     },
     {
       "surface": "לָ\/אֶחָ֖ד",
-      "english": "为每一只"
+      "gloss": "为每一只"
     },
     {
       "surface": "כְּ\/מִסְפָּרָֽ\/ם",
-      "english": "按着它们的数目"
+      "gloss": "按着它们的数目"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:45.502071672Z",
-  "model": "glm-5.2"
+  ]
 }

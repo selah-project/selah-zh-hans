@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 24:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64451,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64797
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:04.460242290Z",
   "translation": "大卫的诗歌。属于雅威的⟨是⟩大地和其中所充满的；世界和住在其中的居民。",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "מזמור",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "ליהוה",
-      "english": "属于雅威的"
+      "gloss": "属于雅威的"
     },
     {
       "surface": "הארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "ומלואה",
-      "english": "和其中所充满的"
+      "gloss": "和其中所充满的"
     },
     {
       "surface": "תבל",
-      "english": "世界"
+      "gloss": "世界"
     },
     {
       "surface": "וישבי",
-      "english": "和居民"
+      "gloss": "和居民"
     },
     {
       "surface": "בה",
-      "english": "住在其中的"
+      "gloss": "住在其中的"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:04.460242290Z",
-  "model": "glm-5.2"
+  ]
 }

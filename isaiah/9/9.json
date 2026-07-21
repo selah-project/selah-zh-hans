@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 9:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20732,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21205
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:48.005831785Z",
   "translation": "砖块坠落了，⟨但我们⟩要用凿成的石头建造；桑树被砍伐了，⟨但我们⟩要用香柏树替换。",
   "tokens": [
     {
       "surface": "לבנים",
-      "english": "砖块"
+      "gloss": "砖块"
     },
     {
       "surface": "נפלו",
-      "english": "坠落了"
+      "gloss": "坠落了"
     },
     {
       "surface": "וגזית",
-      "english": "但用凿成的石头"
+      "gloss": "但用凿成的石头"
     },
     {
       "surface": "נבנה",
-      "english": "我们要建造"
+      "gloss": "我们要建造"
     },
     {
       "surface": "שקמים",
-      "english": "桑树"
+      "gloss": "桑树"
     },
     {
       "surface": "גדעו",
-      "english": "被砍伐了"
+      "gloss": "被砍伐了"
     },
     {
       "surface": "וארזים",
-      "english": "但用香柏树"
+      "gloss": "但用香柏树"
     },
     {
       "surface": "נחליף",
-      "english": "我们要替换"
+      "gloss": "我们要替换"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:48.005831785Z",
-  "model": "glm-5.2"
+  ]
 }

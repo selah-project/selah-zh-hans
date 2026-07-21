@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "leviticus 23:16",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19379,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19938
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:53.048890255Z",
   "translation": "直到第七个安息日的次日,你们要数算五十天;然后你们要献上一份新的素祭给雅威。",
   "tokens": [
     {
       "surface": "עַ֣ד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "מִֽ\/מָּחֳרַ֤ת",
-      "english": "……的次日"
+      "gloss": "……的次日"
     },
     {
       "surface": "הַ\/שַּׁבָּת֙",
-      "english": "安息日"
+      "gloss": "安息日"
     },
     {
       "surface": "הַ\/שְּׁבִיעִ֔ת",
-      "english": "第七个"
+      "gloss": "第七个"
     },
     {
       "surface": "תִּסְפְּר֖וּ",
-      "english": "你们要数算"
+      "gloss": "你们要数算"
     },
     {
       "surface": "חֲמִשִּׁ֣ים",
-      "english": "五十"
+      "gloss": "五十"
     },
     {
       "surface": "י֑וֹם",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "וְ\/הִקְרַבְתֶּ֛ם",
-      "english": "然后你们要献上"
+      "gloss": "然后你们要献上"
     },
     {
       "surface": "מִנְחָ֥ה",
-      "english": "素祭"
+      "gloss": "素祭"
     },
     {
       "surface": "חֲדָשָׁ֖ה",
-      "english": "新的"
+      "gloss": "新的"
     },
     {
       "surface": "לַ\/יהוָֽה",
-      "english": "给雅威"
+      "gloss": "给雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:53.048890255Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 55:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64584,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65048
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:59.675345346Z",
   "translation": "他救赎了我的*נפש*（归於平安），从亲近我的人中间⟨被赎出⟩；因为与我同在的甚多。",
   "tokens": [
     {
       "surface": "פדה",
-      "english": "他救赎了"
+      "gloss": "他救赎了"
     },
     {
       "surface": "בשלום",
-      "english": "归於平安"
+      "gloss": "归於平安"
     },
     {
       "surface": "נפשי",
-      "english": "我的*נפש*"
+      "gloss": "我的*נפש*"
     },
     {
       "surface": "מקרב",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "לי",
-      "english": "亲近我（的人）"
+      "gloss": "亲近我（的人）"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ברבים",
-      "english": "甚多"
+      "gloss": "甚多"
     },
     {
       "surface": "היו",
-      "english": "他们曾是"
+      "gloss": "他们曾是"
     },
     {
       "surface": "עמדי",
-      "english": "与我同在"
+      "gloss": "与我同在"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:59.675345346Z",
-  "model": "glm-5.2"
+  ]
 }

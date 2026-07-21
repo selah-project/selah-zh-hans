@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "exodus 29:31",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18704,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19095
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:30:48.473105475Z",
   "translation": "⟨而⟩你要取 ⟨את⟩ 授任之公羊,你 ⟨要⟩在圣处煮 ⟨את⟩ 它的肉。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨而⟩⟨את⟩",
+      "gloss": "⟨而⟩⟨את⟩",
       "marks": "授任之公羊"
     },
     {
       "surface": "איל",
-      "english": "公羊"
+      "gloss": "公羊"
     },
     {
       "surface": "המלאים",
-      "english": "授任(之)"
+      "gloss": "授任(之)"
     },
     {
       "surface": "תקח",
-      "english": "你要取"
+      "gloss": "你要取"
     },
     {
       "surface": "ובשלת",
-      "english": "你 ⟨要⟩煮"
+      "gloss": "你 ⟨要⟩煮"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的肉"
     },
     {
       "surface": "בשרו",
-      "english": "它的肉"
+      "gloss": "它的肉"
     },
     {
       "surface": "במקם",
-      "english": "在……处"
+      "gloss": "在……处"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     }
-  ],
-  "timestamp": "2026-07-17T18:30:48.473105475Z",
-  "model": "glm-5.2"
+  ]
 }

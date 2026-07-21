@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "numbers 4:13",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19712,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20050
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:03.069016687Z",
   "translation": "他们要清除⟨את⟩祭坛的灰烬,并在它上面铺展紫色的布料,",
   "tokens": [
     {
       "surface": "ודשנו",
-      "english": "他们要清除……的灰烬"
+      "gloss": "他们要清除……的灰烬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "祭坛"
     },
     {
       "surface": "המזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "ופרשו",
-      "english": "他们要铺展"
+      "gloss": "他们要铺展"
     },
     {
       "surface": "עליו",
-      "english": "在它上面"
+      "gloss": "在它上面"
     },
     {
       "surface": "בגד",
-      "english": "布料"
+      "gloss": "布料"
     },
     {
       "surface": "ארגמן",
-      "english": "紫色的"
+      "gloss": "紫色的"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:03.069016687Z",
-  "model": "glm-5.2"
+  ]
 }

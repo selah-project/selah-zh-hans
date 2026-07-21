@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "isaiah 26:11",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21177,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21702
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:55.795016010Z",
   "translation": "雅威啊,你高举了你的手,他们竟看不见;愿他们看见并蒙羞 —— ⟨对⟩你为子民的妒火;是的,火必吞灭你的敌人。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "רמה",
-      "english": "高举"
+      "gloss": "高举"
     },
     {
       "surface": "ידך",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יחזיון",
-      "english": "他们看见"
+      "gloss": "他们看见"
     },
     {
       "surface": "יחזו",
-      "english": "愿他们看见"
+      "gloss": "愿他们看见"
     },
     {
       "surface": "ויבשו",
-      "english": "并蒙羞"
+      "gloss": "并蒙羞"
     },
     {
       "surface": "קנאת",
-      "english": "妒火"
+      "gloss": "妒火"
     },
     {
       "surface": "עם",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "אף",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "צריך",
-      "english": "你的敌人"
+      "gloss": "你的敌人"
     },
     {
       "surface": "תאכלם",
-      "english": "必吞灭他们"
+      "gloss": "必吞灭他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:55.795016010Z",
-  "model": "glm-5.2"
+  ]
 }

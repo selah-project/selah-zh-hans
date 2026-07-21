@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "1-chronicles 8:21",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 255,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58345,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58600
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:55.241234408Z",
   "translation": "又有 阿达雅、乌-布拉雅 和 细姆拉特 —— 细姆仪的儿子。",
   "tokens": [
     {
       "surface": "ועדיה",
-      "english": "又有 阿达雅"
+      "gloss": "又有 阿达雅"
     },
     {
       "surface": "ובראיה",
-      "english": "乌-布拉雅"
+      "gloss": "乌-布拉雅"
     },
     {
       "surface": "ושמרת",
-      "english": "和 细姆拉特"
+      "gloss": "和 细姆拉特"
     },
     {
       "surface": "בני",
-      "english": "的儿子"
+      "gloss": "的儿子"
     },
     {
       "surface": "שמעי",
-      "english": "细姆仪"
+      "gloss": "细姆仪"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:55.241234408Z",
-  "model": "glm-5.2"
+  ]
 }

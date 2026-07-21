@@ -1,41 +1,30 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "leviticus 11:15",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 183,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18610,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18793
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:20.401822404Z",
   "translation": "⟨את⟩ 各种的乌鸦，按⟨它的⟩类；",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "各种的乌鸦 (כל ערב)"
     },
     {
       "surface": "כל",
-      "english": "各种的"
+      "gloss": "各种的"
     },
     {
       "surface": "ערב",
-      "english": "乌鸦"
+      "gloss": "乌鸦"
     },
     {
       "surface": "למינו",
-      "english": "按⟨它的⟩类"
+      "gloss": "按⟨它的⟩类"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:20.401822404Z",
-  "model": "glm-5.2"
+  ]
 }

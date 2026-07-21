@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 145:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64599,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65125
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:05.841718897Z",
   "translation": "赞美 ⟨诗⟩，⟨属⟩ 大卫 ⟨的⟩：我的以罗欣啊，⟨这⟩ 王，我要高举你；我要称颂你的名，直到永远 ⟨与⟩ 永世。",
   "tokens": [
     {
       "surface": "תהלה",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "לדוד",
-      "english": "⟨属⟩大卫"
+      "gloss": "⟨属⟩大卫"
     },
     {
       "surface": "ארוממך",
-      "english": "我要高举你"
+      "gloss": "我要高举你"
     },
     {
       "surface": "אלוהי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "המלך",
-      "english": "⟨这⟩王"
+      "gloss": "⟨这⟩王"
     },
     {
       "surface": "ואברכה",
-      "english": "我要称颂"
+      "gloss": "我要称颂"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "ועד",
-      "english": "⟨与⟩永世"
+      "gloss": "⟨与⟩永世"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:05.841718897Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 60:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64198,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64578
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:41.154309715Z",
   "translation": "求你赐给我们脱离患难的救助；而人的拯救 ⟨是⟩ 虚妄的。",
   "tokens": [
     {
       "surface": "הבה",
-      "english": "求你赐给"
+      "gloss": "求你赐给"
     },
     {
       "surface": "לנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "עזרת",
-      "english": "救助"
+      "gloss": "救助"
     },
     {
       "surface": "מצר",
-      "english": "脱离患难"
+      "gloss": "脱离患难"
     },
     {
       "surface": "ושוא",
-      "english": "⟨是⟩ 虚妄的"
+      "gloss": "⟨是⟩ 虚妄的"
     },
     {
       "surface": "תשועת",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "אדם",
-      "english": "人的"
+      "gloss": "人的"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:41.154309715Z",
-  "model": "glm-5.2"
+  ]
 }

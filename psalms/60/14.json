@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 60:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64108,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64440
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:40.143204989Z",
   "translation": "借以罗欣我们将行大能的事；是他，他将践踏我们的压迫者。",
   "tokens": [
     {
       "surface": "באלהים",
-      "english": "借以罗欣"
+      "gloss": "借以罗欣"
     },
     {
       "surface": "נעשה",
-      "english": "我们将行"
+      "gloss": "我们将行"
     },
     {
       "surface": "חיל",
-      "english": "大能的事"
+      "gloss": "大能的事"
     },
     {
       "surface": "והוא",
-      "english": "是他"
+      "gloss": "是他"
     },
     {
       "surface": "יבוס",
-      "english": "他将践踏"
+      "gloss": "他将践踏"
     },
     {
       "surface": "צרינו",
-      "english": "我们的压迫者"
+      "gloss": "我们的压迫者"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:40.143204989Z",
-  "model": "glm-5.2"
+  ]
 }

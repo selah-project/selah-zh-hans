@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "leviticus 11:16",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19325,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19933
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:35.414732217Z",
   "translation": "和⟨את⟩鸵鸟，和⟨את⟩猫头鹰，和⟨את⟩海鸥，和⟨את⟩鹰，各按其类；",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "鸵鸟"
     },
     {
       "surface": "בת",
-      "english": "鸵鸟"
+      "gloss": "鸵鸟"
     },
     {
       "surface": "היענה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "猫头鹰"
     },
     {
       "surface": "התחמס",
-      "english": "猫头鹰"
+      "gloss": "猫头鹰"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "海鸥"
     },
     {
       "surface": "השחף",
-      "english": "海鸥"
+      "gloss": "海鸥"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "鹰"
     },
     {
       "surface": "הנץ",
-      "english": "鹰"
+      "gloss": "鹰"
     },
     {
       "surface": "למינהו",
-      "english": "各按其类"
+      "gloss": "各按其类"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:35.414732217Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 24:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21593,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21965
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:06.486843175Z",
   "translation": "他们使贫乏人偏离道路；地上的困苦人一同⟨被⟩隐藏。",
   "tokens": [
     {
       "surface": "יטו",
-      "english": "他们使……偏离"
+      "gloss": "他们使……偏离"
     },
     {
       "surface": "אביונים",
-      "english": "贫乏人"
+      "gloss": "贫乏人"
     },
     {
       "surface": "מדרך",
-      "english": "从道路"
+      "gloss": "从道路"
     },
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "חבאו",
-      "english": "⟨被⟩隐藏"
+      "gloss": "⟨被⟩隐藏"
     },
     {
       "surface": "עניי",
-      "english": "困苦人"
+      "gloss": "困苦人"
     },
     {
       "surface": "ארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:06.486843175Z",
-  "model": "glm-5.2"
+  ]
 }

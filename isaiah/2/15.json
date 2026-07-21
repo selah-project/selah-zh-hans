@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 2:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20491,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20875
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:13.729552039Z",
   "translation": "又临到每一座高塔，又临到每一道坚固的墙；",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "又临到"
+      "gloss": "又临到"
     },
     {
       "surface": "כל",
-      "english": "每一"
+      "gloss": "每一"
     },
     {
       "surface": "מגדל",
-      "english": "塔"
+      "gloss": "塔"
     },
     {
       "surface": "גבה",
-      "english": "高的"
+      "gloss": "高的"
     },
     {
       "surface": "ועל",
-      "english": "又临到"
+      "gloss": "又临到"
     },
     {
       "surface": "כל",
-      "english": "每一"
+      "gloss": "每一"
     },
     {
       "surface": "חומה",
-      "english": "墙"
+      "gloss": "墙"
     },
     {
       "surface": "בצורה",
-      "english": "坚固的"
+      "gloss": "坚固的"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:13.729552039Z",
-  "model": "glm-5.2"
+  ]
 }

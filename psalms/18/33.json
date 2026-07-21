@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "psalms 18:33",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64329,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64695
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:06.403782705Z",
   "translation": "这位以罗欣 ⟨他⟩ 以力量束我的腰，⟨他⟩ 使我的道路无可指摘。",
   "tokens": [
     {
       "surface": "האל",
-      "english": "这位以罗欣"
+      "gloss": "这位以罗欣"
     },
     {
       "surface": "המאזרני",
-      "english": "束我的腰"
+      "gloss": "束我的腰"
     },
     {
       "surface": "חיל",
-      "english": "以力量"
+      "gloss": "以力量"
     },
     {
       "surface": "ויתן",
-      "english": "⟨他⟩ 使"
+      "gloss": "⟨他⟩ 使"
     },
     {
       "surface": "תמים",
-      "english": "无可指摘"
+      "gloss": "无可指摘"
     },
     {
       "surface": "דרכי",
-      "english": "我的道路"
+      "gloss": "我的道路"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:06.403782705Z",
-  "model": "glm-5.2"
+  ]
 }

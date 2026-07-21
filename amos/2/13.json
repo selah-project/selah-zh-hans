@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "amos 2:13",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18112,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18664
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:36.252244752Z",
   "translation": "看哪，我 ⟨要⟩ 在你们下面压挤，如同装满谷捆的牛车 ⟨被⟩ 压挤一样。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מעיק",
-      "english": "⟨要⟩ 压挤"
+      "gloss": "⟨要⟩ 压挤"
     },
     {
       "surface": "תחתיכם",
-      "english": "在你们下面"
+      "gloss": "在你们下面"
     },
     {
       "surface": "כאשר",
-      "english": "如同"
+      "gloss": "如同"
     },
     {
       "surface": "תעיק",
-      "english": "⟨被⟩ 压挤"
+      "gloss": "⟨被⟩ 压挤"
     },
     {
       "surface": "העגלה",
-      "english": "牛车"
+      "gloss": "牛车"
     },
     {
       "surface": "המלאה",
-      "english": "装满的"
+      "gloss": "装满的"
     },
     {
       "surface": "לה",
-      "english": "给它"
+      "gloss": "给它"
     },
     {
       "surface": "עמיר",
-      "english": "谷捆"
+      "gloss": "谷捆"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:36.252244752Z",
-  "model": "glm-5.2"
+  ]
 }

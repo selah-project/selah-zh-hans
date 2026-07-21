@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 12:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18263,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18652
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:27:03.263427645Z",
   "translation": "他们便说:「你没有欺压我们,也没有碾碎我们,你也没有从任何人手中取走任何东西。」",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "他们便说"
+      "gloss": "他们便说"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עשקתנו",
-      "english": "你欺压我们"
+      "gloss": "你欺压我们"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "רצותנו",
-      "english": "碾碎我们"
+      "gloss": "碾碎我们"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "לקחת",
-      "english": "你取走"
+      "gloss": "你取走"
     },
     {
       "surface": "מיד",
-      "english": "从……手中"
+      "gloss": "从……手中"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "gloss": "任何人"
     },
     {
       "surface": "מאומה",
-      "english": "任何东西"
+      "gloss": "任何东西"
     }
-  ],
-  "timestamp": "2026-07-17T20:27:03.263427645Z",
-  "model": "glm-5.2"
+  ]
 }

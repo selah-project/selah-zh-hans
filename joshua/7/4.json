@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "joshua 7:4",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18137,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18490
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:53:40.933153681Z",
   "translation": "于是百姓中约有三千人上那里去,但他们在艾城的人面前逃跑了。",
   "tokens": [
     {
       "surface": "ויעלו",
-      "english": "于是……上去"
+      "gloss": "于是……上去"
     },
     {
       "surface": "מן",
-      "english": "从……中"
+      "gloss": "从……中"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "שמה",
-      "english": "那里"
+      "gloss": "那里"
     },
     {
       "surface": "כשלשת",
-      "english": "约三"
+      "gloss": "约三"
     },
     {
       "surface": "אלפים",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "וינסו",
-      "english": "但……逃跑"
+      "gloss": "但……逃跑"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אנשי",
-      "english": "艾城的人"
+      "gloss": "艾城的人"
     },
     {
       "surface": "העי",
-      "english": "⟨那⟩艾(城)"
+      "gloss": "⟨那⟩艾(城)"
     }
-  ],
-  "timestamp": "2026-07-17T19:53:40.933153681Z",
-  "model": "glm-5.2"
+  ]
 }

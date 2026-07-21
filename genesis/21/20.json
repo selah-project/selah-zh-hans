@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 21:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23169,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23598
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:10.888644006Z",
   "translation": "以罗欣与⟨את⟩那少年同在;他长大了,住在旷野,成了一名弓箭手。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "与……同在(就成了)"
+      "gloss": "与……同在(就成了)"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那少年"
     },
     {
       "surface": "הנער",
-      "english": "那少年"
+      "gloss": "那少年"
     },
     {
       "surface": "ויגדל",
-      "english": "他长大了"
+      "gloss": "他长大了"
     },
     {
       "surface": "וישב",
-      "english": "他住在"
+      "gloss": "他住在"
     },
     {
       "surface": "במדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "ויהי",
-      "english": "他成了"
+      "gloss": "他成了"
     },
     {
       "surface": "רבה",
-      "english": "长大(成为)"
+      "gloss": "长大(成为)"
     },
     {
       "surface": "קשת",
-      "english": "弓箭手"
+      "gloss": "弓箭手"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:10.888644006Z",
-  "model": "glm-5.2"
+  ]
 }

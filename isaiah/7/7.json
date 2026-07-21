@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 7:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20571,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20941
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:37:30.782007892Z",
   "translation": "阿多奈雅威如此说：它必不立住，它也必不⟨成⟩。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תקום",
-      "english": "它必立住"
+      "gloss": "它必立住"
     },
     {
       "surface": "ולא",
-      "english": "也必不"
+      "gloss": "也必不"
     },
     {
       "surface": "תהיה",
-      "english": "它⟨成⟩"
+      "gloss": "它⟨成⟩"
     }
-  ],
-  "timestamp": "2026-07-17T21:37:30.782007892Z",
-  "model": "glm-5.2"
+  ]
 }

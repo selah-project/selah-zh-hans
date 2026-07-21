@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 10:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65200,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65833
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:21.714500941Z",
   "translation": "你看见了,因为你注视劳苦和恼怒,⟨为要⟩交在你的手中;不幸的人将自己交托⟨给⟩你——对孤儿来说,你一直是帮助者。",
   "tokens": [
     {
       "surface": "ראתה",
-      "english": "你看见了"
+      "gloss": "你看见了"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עמל",
-      "english": "劳苦"
+      "gloss": "劳苦"
     },
     {
       "surface": "וכעס",
-      "english": "和恼怒"
+      "gloss": "和恼怒"
     },
     {
       "surface": "תביט",
-      "english": "注视"
+      "gloss": "注视"
     },
     {
       "surface": "לתת",
-      "english": "交"
+      "gloss": "交"
     },
     {
       "surface": "בידך",
-      "english": "在你的手中"
+      "gloss": "在你的手中"
     },
     {
       "surface": "עליך",
-      "english": "⟨给⟩你"
+      "gloss": "⟨给⟩你"
     },
     {
       "surface": "יעזב",
-      "english": "将自己交托"
+      "gloss": "将自己交托"
     },
     {
       "surface": "חלכה",
-      "english": "不幸的人"
+      "gloss": "不幸的人"
     },
     {
       "surface": "יתום",
-      "english": "孤儿"
+      "gloss": "孤儿"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "היית",
-      "english": "一直是"
+      "gloss": "一直是"
     },
     {
       "surface": "עוזר",
-      "english": "帮助者"
+      "gloss": "帮助者"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:21.714500941Z",
-  "model": "glm-5.2"
+  ]
 }

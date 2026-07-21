@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "proverbs 17:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54385,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54810
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:32.001848525Z",
   "translation": "恶人从怀中收取贿赂,为要歪曲公正的道路。",
   "tokens": [
     {
       "surface": "שֹׁחַד",
-      "english": "贿赂"
+      "gloss": "贿赂"
     },
     {
       "surface": "מֵ֭\/חֵיק",
-      "english": "从怀中"
+      "gloss": "从怀中"
     },
     {
       "surface": "רָשָׁ֣ע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יִקָּ֑ח",
-      "english": "收取"
+      "gloss": "收取"
     },
     {
       "surface": "לְ֝\/הַטּ֗וֹת",
-      "english": "为要歪曲"
+      "gloss": "为要歪曲"
     },
     {
       "surface": "אָרְח֥וֹת",
-      "english": "⟨……⟩道路"
+      "gloss": "⟨……⟩道路"
     },
     {
       "surface": "מִשְׁפָּֽט",
-      "english": "公正(的)"
+      "gloss": "公正(的)"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:32.001848525Z",
-  "model": "glm-5.2"
+  ]
 }

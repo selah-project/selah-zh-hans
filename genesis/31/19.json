@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 31:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23317,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23742
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:28.103959433Z",
   "translation": "拉班去剪⟨他⟩的羊群,拉结偷了⟨את⟩她父亲所拥有的那些特拉非。",
   "tokens": [
     {
       "surface": "ולבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "הלך",
-      "english": "去了"
+      "gloss": "去了"
     },
     {
       "surface": "לגזז",
-      "english": "去剪"
+      "gloss": "去剪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的羊群"
     },
     {
       "surface": "צאנו",
-      "english": "他的羊群"
+      "gloss": "他的羊群"
     },
     {
       "surface": "ותגנב",
-      "english": "拉结偷了"
+      "gloss": "拉结偷了"
     },
     {
       "surface": "רחל",
-      "english": "拉结"
+      "gloss": "拉结"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些特拉非"
     },
     {
       "surface": "התרפים",
-      "english": "那些特拉非"
+      "gloss": "那些特拉非"
     },
     {
       "surface": "אשר",
-      "english": "所拥有的"
+      "gloss": "所拥有的"
     },
     {
       "surface": "לאביה",
-      "english": "她父亲的"
+      "gloss": "她父亲的"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:28.103959433Z",
-  "model": "glm-5.2"
+  ]
 }

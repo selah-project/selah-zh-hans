@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "amos 8:7",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18162,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18748
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:22:06.620421557Z",
   "translation": "雅威以雅各的威荣起誓:「我绝不会忘记他们一切的作为,直到永远。」",
   "tokens": [
     {
       "surface": "נִשְׁבַּ֥ע",
-      "english": "起誓"
+      "gloss": "起誓"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בִּ\/גְא֣וֹן",
-      "english": "以……的威荣"
+      "gloss": "以……的威荣"
     },
     {
       "surface": "יַעֲקֹ֑ב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אִם",
-      "english": "绝不 (若)"
+      "gloss": "绝不 (若)"
     },
     {
       "surface": "אֶשְׁכַּ֥ח",
-      "english": "我会忘记"
+      "gloss": "我会忘记"
     },
     {
       "surface": "לָ\/נֶ֖צַח",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מַעֲשֵׂי\/הֶֽם",
-      "english": "他们的作为"
+      "gloss": "他们的作为"
     }
-  ],
-  "timestamp": "2026-07-17T23:22:06.620421557Z",
-  "model": "glm-5.2"
+  ]
 }

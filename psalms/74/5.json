@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 74:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64349,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64816
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:00.612702194Z",
   "translation": "他被认识如同那带来向高处之物,在树木的茂密丛中 ⟨是⟩ 斧头。",
   "tokens": [
     {
       "surface": "יודע",
-      "english": "他被认识"
+      "gloss": "他被认识"
     },
     {
       "surface": "כמביא",
-      "english": "如同那带来"
+      "gloss": "如同那带来"
     },
     {
       "surface": "למעלה",
-      "english": "向高处"
+      "gloss": "向高处"
     },
     {
       "surface": "בסבך",
-      "english": "在……的茂密丛中"
+      "gloss": "在……的茂密丛中"
     },
     {
       "surface": "עץ",
-      "english": "树木"
+      "gloss": "树木"
     },
     {
       "surface": "קרדמות",
-      "english": "斧头"
+      "gloss": "斧头"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:00.612702194Z",
-  "model": "glm-5.2"
+  ]
 }

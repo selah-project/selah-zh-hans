@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 21:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21500,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21967
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:25.348193261Z",
   "translation": "他们在美好中度尽他们的日子，⟨כִּי⟩在转瞬之间⟨他们⟩下到舒阿。",
   "tokens": [
     {
       "surface": "יִבְלוּ",
-      "english": "他们度尽"
+      "gloss": "他们度尽"
     },
     {
       "surface": "בְ\/טוֹב",
-      "english": "在美好中"
+      "gloss": "在美好中"
     },
     {
       "surface": "יְמֵי\/הֶם",
-      "english": "他们的日子"
+      "gloss": "他们的日子"
     },
     {
       "surface": "וּ\/בְ\/רֶגַע",
-      "english": "在转瞬之间"
+      "gloss": "在转瞬之间"
     },
     {
       "surface": "שְׁאוֹל",
-      "english": "舒阿"
+      "gloss": "舒阿"
     },
     {
       "surface": "יֵחָתוּ",
-      "english": "他们下到"
+      "gloss": "他们下到"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:25.348193261Z",
-  "model": "glm-5.2"
+  ]
 }

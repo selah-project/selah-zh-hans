@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 3:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54456,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54742
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:41.833666748Z",
   "translation": "不要畏惧突如其来的恐惧，也不要畏惧恶人⟨的⟩毁灭，当它来到时；",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תירא",
-      "english": "畏惧"
+      "gloss": "畏惧"
     },
     {
       "surface": "מפחד",
-      "english": "来自突如其来的恐惧"
+      "gloss": "来自突如其来的恐惧"
     },
     {
       "surface": "פתאם",
-      "english": "突然"
+      "gloss": "突然"
     },
     {
       "surface": "ומשאת",
-      "english": "以及来自⟨的⟩毁灭"
+      "gloss": "以及来自⟨的⟩毁灭"
     },
     {
       "surface": "רשעים",
-      "english": "恶人们"
+      "gloss": "恶人们"
     },
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תבא",
-      "english": "它来到时"
+      "gloss": "它来到时"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:41.833666748Z",
-  "model": "glm-5.2"
+  ]
 }

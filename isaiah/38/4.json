@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 38:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20400,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 20671
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:18.242212927Z",
   "translation": "雅威的*davar*临到以赛亚,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生⟩"
+      "gloss": "⟨发生⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "ישעיהו",
-      "english": "以赛亚"
+      "gloss": "以赛亚"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:18.242212927Z",
-  "model": "glm-5.2"
+  ]
 }

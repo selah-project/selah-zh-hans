@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "nahum 3:8",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18458,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19136
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:28:17.085048702Z",
   "translation": "你比挪-阿们更好吗？⟨她⟩坐在河流⟨之间⟩，水在她四围，她的壁垒⟨是⟩海，水⟨是⟩她的城墙。",
   "tokens": [
     {
       "surface": "הֲ\/תֵֽיטְבִי֙",
-      "english": "你比……更好吗"
+      "gloss": "你比……更好吗"
     },
     {
       "surface": "מִ\/נֹּ֣א",
-      "english": "比挪"
+      "gloss": "比挪"
     },
     {
       "surface": "אָמ֔וֹן",
-      "english": "阿们"
+      "gloss": "阿们"
     },
     {
       "surface": "הַ\/יֹּֽשְׁבָה֙",
-      "english": "⟨她⟩坐在"
+      "gloss": "⟨她⟩坐在"
     },
     {
       "surface": "בַּ\/יְאֹרִ֔ים",
-      "english": "在河流"
+      "gloss": "在河流"
     },
     {
       "surface": "מַ֖יִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "סָבִ֣יב",
-      "english": "四围"
+      "gloss": "四围"
     },
     {
       "surface": "לָ֑\/הּ",
-      "english": "在她"
+      "gloss": "在她"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "她的"
+      "gloss": "她的"
     },
     {
       "surface": "חֵ֣יל",
-      "english": "壁垒"
+      "gloss": "壁垒"
     },
     {
       "surface": "יָ֔ם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "מִ\/יָּ֖ם",
-      "english": "从海"
+      "gloss": "从海"
     },
     {
       "surface": "חוֹמָתָֽ\/הּ",
-      "english": "她的城墙"
+      "gloss": "她的城墙"
     }
-  ],
-  "timestamp": "2026-07-17T23:28:17.085048702Z",
-  "model": "glm-5.2"
+  ]
 }

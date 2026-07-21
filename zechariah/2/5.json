@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "zechariah 2:5",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17710,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 17982
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:32:58.060949659Z",
   "translation": "我举目观看,看哪,有一人,⟨他⟩手中拿着测量绳。",
   "tokens": [
     {
       "surface": "ואשא",
-      "english": "我举起"
+      "gloss": "我举起"
     },
     {
       "surface": "עיני",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "וארא",
-      "english": "我观看"
+      "gloss": "我观看"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "איש",
-      "english": "一人"
+      "gloss": "一人"
     },
     {
       "surface": "ובידו",
-      "english": "在他手中"
+      "gloss": "在他手中"
     },
     {
       "surface": "חבל",
-      "english": "绳子"
+      "gloss": "绳子"
     },
     {
       "surface": "מדה",
-      "english": "测量"
+      "gloss": "测量"
     }
-  ],
-  "timestamp": "2026-07-17T23:32:58.060949659Z",
-  "model": "glm-5.2"
+  ]
 }

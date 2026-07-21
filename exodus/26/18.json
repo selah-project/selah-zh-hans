@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 26:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18693,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19192
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:28:18.974894157Z",
   "translation": "你要为 ⟨ה⟩会幕造 ⟨את⟩木板：南方的方向，二十块木板，⟨向⟩南。",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "你要造"
+      "gloss": "你要造"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "木板"
     },
     {
       "surface": "הקרשים",
-      "english": "⟨ה⟩木板"
+      "gloss": "⟨ה⟩木板"
     },
     {
       "surface": "למשכן",
-      "english": "为 ⟨ה⟩会幕"
+      "gloss": "为 ⟨ה⟩会幕"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "קרש",
-      "english": "块木板"
+      "gloss": "块木板"
     },
     {
       "surface": "לפאת",
-      "english": "⟨向⟩……的方向"
+      "gloss": "⟨向⟩……的方向"
     },
     {
       "surface": "נגבה",
-      "english": "南"
+      "gloss": "南"
     },
     {
       "surface": "תימנה",
-      "english": "南"
+      "gloss": "南"
     }
-  ],
-  "timestamp": "2026-07-17T18:28:18.974894157Z",
-  "model": "glm-5.2"
+  ]
 }

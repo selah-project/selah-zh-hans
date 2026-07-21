@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "1-kings 3:27",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64439,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64908
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:05.566979717Z",
   "translation": "王⟨就⟩回答⟨并⟩说：把⟨那⟩活的孩子给她，⟨而⟩那死的⟨孩子⟩，你们不可⟨将他⟩治死——她⟨是⟩他母亲。",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "תנו",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "活的孩子"
     },
     {
       "surface": "הילוד",
-      "english": "孩子"
+      "gloss": "孩子"
     },
     {
       "surface": "החי",
-      "english": "活的"
+      "gloss": "活的"
     },
     {
       "surface": "והמת",
-      "english": "而那死的"
+      "gloss": "而那死的"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תמיתהו",
-      "english": "将他治死"
+      "gloss": "将他治死"
     },
     {
       "surface": "היא",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "אמו",
-      "english": "他母亲"
+      "gloss": "他母亲"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:05.566979717Z",
-  "model": "glm-5.2"
+  ]
 }

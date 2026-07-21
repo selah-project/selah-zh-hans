@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-samuel 4:11",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18110,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18512
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:23:09.943602051Z",
   "translation": "以罗欣的约柜被夺去,以利的两个儿子死了 —— 何弗尼与非尼哈。",
   "tokens": [
     {
       "surface": "וארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "נלקח",
-      "english": "被夺去"
+      "gloss": "被夺去"
     },
     {
       "surface": "ושני",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "בני",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "עלי",
-      "english": "以利的"
+      "gloss": "以利的"
     },
     {
       "surface": "מתו",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "חפני",
-      "english": "何弗尼"
+      "gloss": "何弗尼"
     },
     {
       "surface": "ופינחס",
-      "english": "与非尼哈"
+      "gloss": "与非尼哈"
     }
-  ],
-  "timestamp": "2026-07-17T20:23:09.943602051Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 82:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64523,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64953
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:34.045942910Z",
   "translation": "直到何时？你们审判 ⟨עָוֶל⟩，你们抬举恶人的脸面。*细拉*。",
   "tokens": [
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "מתי",
-      "english": "何时？"
+      "gloss": "何时？"
     },
     {
       "surface": "תשפטו",
-      "english": "你们审判"
+      "gloss": "你们审判"
     },
     {
       "surface": "עול",
-      "english": "不公"
+      "gloss": "不公"
     },
     {
       "surface": "ופני",
-      "english": "和脸面"
+      "gloss": "和脸面"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "תשאו",
-      "english": "你们抬举"
+      "gloss": "你们抬举"
     },
     {
       "surface": "סלה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:34.045942910Z",
-  "model": "glm-5.2"
+  ]
 }

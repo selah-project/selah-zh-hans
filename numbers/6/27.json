@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "numbers 6:27",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19656,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19992
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:04:46.507079974Z",
   "translation": "他们要将 ⟨את⟩ 我的名放在以色列的子身上，我也将祝福他们。",
   "tokens": [
     {
       "surface": "ושמו",
-      "english": "他们要将"
+      "gloss": "他们要将"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的名"
     },
     {
       "surface": "שמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "על",
-      "english": "放在"
+      "gloss": "放在"
     },
     {
       "surface": "בני",
-      "english": "子身上"
+      "gloss": "子身上"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ואני",
-      "english": "我也将"
+      "gloss": "我也将"
     },
     {
       "surface": "אברכם",
-      "english": "祝福他们"
+      "gloss": "祝福他们"
     }
-  ],
-  "timestamp": "2026-07-17T19:04:46.507079974Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "leviticus 4:10",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19243,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19672
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:56.166289630Z",
   "translation": "正如从平安祭的牛⟨所取下⟩的,祭司要在燔祭坛上将其焚烧;",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "יורם",
-      "english": "⟨所取下⟩"
+      "gloss": "⟨所取下⟩"
     },
     {
       "surface": "משור",
-      "english": "从牛"
+      "gloss": "从牛"
     },
     {
       "surface": "זבח",
-      "english": "祭"
+      "gloss": "祭"
     },
     {
       "surface": "השלמים",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "והקטירם",
-      "english": "祭司要将其焚烧"
+      "gloss": "祭司要将其焚烧"
     },
     {
       "surface": "הכהן",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "מזבח",
-      "english": "坛"
+      "gloss": "坛"
     },
     {
       "surface": "העלה",
-      "english": "燔祭"
+      "gloss": "燔祭"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:56.166289630Z",
-  "model": "glm-5.2"
+  ]
 }

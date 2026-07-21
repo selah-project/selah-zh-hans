@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 38:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21488,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21987
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:59.796560662Z",
   "translation": "这⟨是⟩谁，以无知识的话使筹谋变暗？",
   "tokens": [
     {
       "surface": "מִי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "זֶה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "מַחְשִׁיךְ",
-      "english": "使……变暗"
+      "gloss": "使……变暗"
     },
     {
       "surface": "עֵצָה",
-      "english": "筹谋"
+      "gloss": "筹谋"
     },
     {
       "surface": "בְ\/מִלִּין",
-      "english": "以话"
+      "gloss": "以话"
     },
     {
       "surface": "בְּלִי",
-      "english": "无"
+      "gloss": "无"
     },
     {
       "surface": "דַּעַת",
-      "english": "知识"
+      "gloss": "知识"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:59.796560662Z",
-  "model": "glm-5.2"
+  ]
 }

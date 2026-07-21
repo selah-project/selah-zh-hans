@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "psalms 119:35",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64338,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64833
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:42.585131538Z",
   "translation": "求你引导⟨我⟩走在你诫命的路径上，因为我在其中乐愿前行。",
   "tokens": [
     {
       "surface": "הַ֭דְרִיכֵנִי",
-      "english": "求你引导我走在"
+      "gloss": "求你引导我走在"
     },
     {
       "surface": "בִּ\/נְתִ֣יב",
-      "english": "……的路径上"
+      "gloss": "……的路径上"
     },
     {
       "surface": "מִצְוֺתֶ֑י\/ךָ",
-      "english": "你的诫命（מִצְוָה）"
+      "gloss": "你的诫命（מִצְוָה）"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ב֥\/וֹ",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "חָפָֽצְתִּי",
-      "english": "我乐愿前行"
+      "gloss": "我乐愿前行"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:42.585131538Z",
-  "model": "glm-5.2"
+  ]
 }

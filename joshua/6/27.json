@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "joshua 6:27",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17920,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18318
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:53:16.748195447Z",
   "translation": "雅威与约书亚同在,⟨את⟩ 约书亚 ⟨被⟩ 雅威 ⟨标记⟩;他的名声传遍全地。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨与⟩ 同在"
+      "gloss": "⟨与⟩ 同在"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约书亚"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "ויהי",
-      "english": "⟨被⟩ 传遍"
+      "gloss": "⟨被⟩ 传遍"
     },
     {
       "surface": "שמעו",
-      "english": "他的名声"
+      "gloss": "他的名声"
     },
     {
       "surface": "בכל",
-      "english": "在 全"
+      "gloss": "在 全"
     },
     {
       "surface": "הארץ",
-      "english": "⟨这⟩ 地"
+      "gloss": "⟨这⟩ 地"
     }
-  ],
-  "timestamp": "2026-07-17T19:53:16.748195447Z",
-  "model": "glm-5.2"
+  ]
 }

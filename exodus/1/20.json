@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "exodus 1:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 363,
-    "prompt_tokens": 18347,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18710
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:24:00.791109012Z",
   "translation": "以罗欣待 ⟨接生婆⟩ 很好，并且 ⟨那⟩ 百姓多起来，且 ⟨变得⟩ 极其强盛。",
   "tokens": [
     {
       "surface": "וייטב",
-      "english": "待...很好"
+      "gloss": "待...很好"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "למילדת",
-      "english": "⟨接生婆⟩"
+      "gloss": "⟨接生婆⟩"
     },
     {
       "surface": "וירב",
-      "english": "并且...多起来"
+      "gloss": "并且...多起来"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩ 百姓"
+      "gloss": "⟨那⟩ 百姓"
     },
     {
       "surface": "ויעצמו",
-      "english": "且 ⟨变得⟩ 极其强盛"
+      "gloss": "且 ⟨变得⟩ 极其强盛"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     }
-  ],
-  "timestamp": "2026-07-21T13:24:00.791109012Z",
-  "model": "glm-4.5"
+  ]
 }

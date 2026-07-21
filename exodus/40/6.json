@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "exodus 40:6",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18637,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19044
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:36.026958940Z",
   "translation": "你要把⟨את⟩燔祭的壇放在會幕——會見之帳棚——入口的前面。",
   "tokens": [
     {
       "surface": "ונתתה",
-      "english": "你要把……放"
+      "gloss": "你要把……放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭的壇"
     },
     {
       "surface": "מזבח",
-      "english": "壇"
+      "gloss": "壇"
     },
     {
       "surface": "העלה",
-      "english": "燔祭的"
+      "gloss": "燔祭的"
     },
     {
       "surface": "לפני",
-      "english": "在……的前面"
+      "gloss": "在……的前面"
     },
     {
       "surface": "פתח",
-      "english": "入口"
+      "gloss": "入口"
     },
     {
       "surface": "משכן",
-      "english": "會幕"
+      "gloss": "會幕"
     },
     {
       "surface": "אהל",
-      "english": "帳棚"
+      "gloss": "帳棚"
     },
     {
       "surface": "מועד",
-      "english": "會見"
+      "gloss": "會見"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:36.026958940Z",
-  "model": "glm-5.2"
+  ]
 }

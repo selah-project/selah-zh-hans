@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 130:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64234,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64588
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:47.783802437Z",
   "translation": "因为与你同在的是⟨那⟩赦免，为要使人敬畏⟨你⟩。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עִמְּ\/ךָ֥",
-      "english": "与你同在"
+      "gloss": "与你同在"
     },
     {
       "surface": "הַ\/סְּלִיחָ֑ה",
-      "english": "⟨那⟩赦免"
+      "gloss": "⟨那⟩赦免"
     },
     {
       "surface": "לְ֝מַ֗עַן",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "תִּוָּרֵֽא",
-      "english": "使人敬畏⟨你⟩"
+      "gloss": "使人敬畏⟨你⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:47.783802437Z",
-  "model": "glm-5.2"
+  ]
 }

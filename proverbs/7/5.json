@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 7:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54301,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54746
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:48.039256859Z",
   "translation": "为要保守你远离淫妇 ⟨את⟩——那陌生的女子,远离外女 ⟨את⟩——她用甜言蜜语 smoothing ⟨她的言语⟩。",
   "tokens": [
     {
       "surface": "לשמרך",
-      "english": "为要保守你"
+      "gloss": "为要保守你"
     },
     {
       "surface": "מאשה",
-      "english": "远离淫妇"
+      "gloss": "远离淫妇"
     },
     {
       "surface": "זרה",
-      "english": "陌生的女子"
+      "gloss": "陌生的女子"
     },
     {
       "surface": "מנכריה",
-      "english": "远离外女"
+      "gloss": "远离外女"
     },
     {
       "surface": "אמריה",
-      "english": "她的言语"
+      "gloss": "她的言语"
     },
     {
       "surface": "החליקה",
-      "english": "使平滑(甜言蜜语)"
+      "gloss": "使平滑(甜言蜜语)"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:48.039256859Z",
-  "model": "glm-5.2"
+  ]
 }

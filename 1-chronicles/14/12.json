@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 14:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58751,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59132
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:02:37.232158581Z",
   "translation": "他们把⟨他们⟩的以罗欣丢弃在那里，大卫下令，它们就在火中被烧了。",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "他们丢弃"
+      "gloss": "他们丢弃"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的以罗欣"
     },
     {
       "surface": "אלהיהם",
-      "english": "他们的以罗欣"
+      "gloss": "他们的以罗欣"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨大卫⟩下令"
+      "gloss": "⟨大卫⟩下令"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "וישרפו",
-      "english": "它们被烧了"
+      "gloss": "它们被烧了"
     },
     {
       "surface": "באש",
-      "english": "在火中"
+      "gloss": "在火中"
     }
-  ],
-  "timestamp": "2026-07-18T02:02:37.232158581Z",
-  "model": "glm-5.2"
+  ]
 }

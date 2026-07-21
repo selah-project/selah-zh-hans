@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "leviticus 2:9",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 669,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19583,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20252
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:40:49.047480070Z",
   "translation": "祭司要从 מִנְחָה (献礼) 中举起 ⟨את⟩ 它的记念部分,在 הַ\/מִּזְבֵּחַ (祭坛) 上焚烧;这是火祭,献给雅威的安息香气。",
   "tokens": [
     {
       "surface": "וְ\/הֵרִ֨ים",
-      "english": "祭司要举起"
+      "gloss": "祭司要举起"
     },
     {
       "surface": "הַ\/כֹּהֵ֤ן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "מִן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הַ\/מִּנְחָה֙",
-      "english": "献礼"
+      "gloss": "献礼"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "记念部分"
     },
     {
       "surface": "אַזְכָּ֣רָתָ֔\/הּ",
-      "english": "它的记念部分"
+      "gloss": "它的记念部分"
     },
     {
       "surface": "וְ\/הִקְטִ֖יר",
-      "english": "要焚烧"
+      "gloss": "要焚烧"
     },
     {
       "surface": "הַ\/מִּזְבֵּ֑חָ\/הּ",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "אִשֵּׁ֛ה",
-      "english": "火祭"
+      "gloss": "火祭"
     },
     {
       "surface": "רֵ֥יחַ",
-      "english": "香气"
+      "gloss": "香气"
     },
     {
       "surface": "נִיחֹ֖חַ",
-      "english": "安息的"
+      "gloss": "安息的"
     },
     {
       "surface": "לַ\/יהוָֽה",
-      "english": "献给雅威的"
+      "gloss": "献给雅威的"
     }
-  ],
-  "timestamp": "2026-07-17T18:40:49.047480070Z",
-  "model": "glm-5.2"
+  ]
 }

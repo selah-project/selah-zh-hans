@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 107:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64484,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65009
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:25.517152609Z",
   "translation": "愿雅威救赎之〈人〉说,⟨就是⟩⟨他⟩从敌人之<手>中所救赎的;",
   "tokens": [
     {
       "surface": "יֹ֭אמְרוּ",
-      "english": "愿……说"
+      "gloss": "愿……说"
     },
     {
       "surface": "גְּאוּלֵ֣י",
-      "english": "救赎之〈人〉"
+      "gloss": "救赎之〈人〉"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "גְּאָלָ֗\/ם",
-      "english": "⟨他⟩所救赎的"
+      "gloss": "⟨他⟩所救赎的"
     },
     {
       "surface": "מִ\/יַּד",
-      "english": "从……之〈手〉中"
+      "gloss": "从……之〈手〉中"
     },
     {
       "surface": "צָֽר",
-      "english": "敌人"
+      "gloss": "敌人"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:25.517152609Z",
-  "model": "glm-5.2"
+  ]
 }

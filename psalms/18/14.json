@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 18:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64625,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65036
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:38.556586840Z",
   "translation": "雅威在天上雷鸣,至高者发出⟨他⟩的声音 —— 冰雹与火炭。",
   "tokens": [
     {
       "surface": "וירעם",
-      "english": "雅威雷鸣"
+      "gloss": "雅威雷鸣"
     },
     {
       "surface": "בשמים",
-      "english": "在天上"
+      "gloss": "在天上"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ועליון",
-      "english": "至高者"
+      "gloss": "至高者"
     },
     {
       "surface": "יתן",
-      "english": "发出"
+      "gloss": "发出"
     },
     {
       "surface": "קלו",
-      "english": "他的声音"
+      "gloss": "他的声音"
     },
     {
       "surface": "ברד",
-      "english": "冰雹"
+      "gloss": "冰雹"
     },
     {
       "surface": "וגחלי",
-      "english": "与火炭"
+      "gloss": "与火炭"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:38.556586840Z",
-  "model": "glm-5.2"
+  ]
 }

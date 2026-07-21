@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 12:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20318,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20586
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:23.183815492Z",
   "translation": "你们必从救恩的泉源欢然打水。",
   "tokens": [
     {
       "surface": "ושאבתם",
-      "english": "你们必打"
+      "gloss": "你们必打"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "בששון",
-      "english": "欢然"
+      "gloss": "欢然"
     },
     {
       "surface": "ממעיני",
-      "english": "从泉源"
+      "gloss": "从泉源"
     },
     {
       "surface": "הישועה",
-      "english": "救恩"
+      "gloss": "救恩"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:23.183815492Z",
-  "model": "glm-5.2"
+  ]
 }

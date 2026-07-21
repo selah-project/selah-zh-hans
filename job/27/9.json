@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "job 27:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 301,
-    "prompt_tokens": 21531,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21832
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:41.512139623Z",
   "translation": "Will אֵל hear his cry, when trouble comes upon him?",
   "tokens": [
     {
       "surface": "הצעקתו",
-      "english": "his cry"
+      "gloss": "his cry"
     },
     {
       "surface": "ישמע",
-      "english": "hear"
+      "gloss": "hear"
     },
     {
       "surface": "אל",
-      "english": "אֵל"
+      "gloss": "אֵל"
     },
     {
       "surface": "כי",
-      "english": "when"
+      "gloss": "when"
     },
     {
       "surface": "תבוא",
-      "english": "comes"
+      "gloss": "comes"
     },
     {
       "surface": "עליו",
-      "english": "upon him"
+      "gloss": "upon him"
     },
     {
       "surface": "צרה",
-      "english": "trouble"
+      "gloss": "trouble"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:41.512139623Z",
-  "model": "glm-4.5"
+  ]
 }

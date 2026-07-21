@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-chronicles 15:7",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58509,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58813
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:02:54.824185980Z",
   "translation": "属革顺的子孙:约珥⟨是⟩首领,和他的弟兄一百三十⟨人⟩。",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "属……的子孙"
+      "gloss": "属……的子孙"
     },
     {
       "surface": "גרשום",
-      "english": "革顺"
+      "gloss": "革顺"
     },
     {
       "surface": "יואל",
-      "english": "约珥"
+      "gloss": "约珥"
     },
     {
       "surface": "השר",
-      "english": "⟨是⟩首领"
+      "gloss": "⟨是⟩首领"
     },
     {
       "surface": "ואחיו",
-      "english": "和他的弟兄"
+      "gloss": "和他的弟兄"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "ושלשים",
-      "english": "和三十"
+      "gloss": "和三十"
     }
-  ],
-  "timestamp": "2026-07-18T02:02:54.824185980Z",
-  "model": "glm-5.2"
+  ]
 }

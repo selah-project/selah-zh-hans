@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 9:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64648,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65122
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:50.747240532Z",
   "translation": "雅威啊，求你兴起！不要让必死的人得强暴，愿列邦在你面前 ⟨被⟩ 蒙审判。",
   "tokens": [
     {
       "surface": "קומה",
-      "english": "求你兴起"
+      "gloss": "求你兴起"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "יעז",
-      "english": "让……得强暴"
+      "gloss": "让……得强暴"
     },
     {
       "surface": "אנוש",
-      "english": "必死的人"
+      "gloss": "必死的人"
     },
     {
       "surface": "ישפטו",
-      "english": "愿……蒙审判"
+      "gloss": "愿……蒙审判"
     },
     {
       "surface": "גוים",
-      "english": "列邦"
+      "gloss": "列邦"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "פניך",
-      "english": "你面前"
+      "gloss": "你面前"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:50.747240532Z",
-  "model": "glm-5.2"
+  ]
 }

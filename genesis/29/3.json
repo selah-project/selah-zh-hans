@@ -1,107 +1,96 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 29:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 740,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24184,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24924
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:37:02.337149026Z",
   "translation": "所有的畜群都聚集到那里,他们滚开⟨את⟩井口上的石头,饮了⟨את⟩羊群,再把⟨את⟩石头放回井口上原来的位置。",
   "tokens": [
     {
       "surface": "ונאספו",
-      "english": "都聚集"
+      "gloss": "都聚集"
     },
     {
       "surface": "שמה",
-      "english": "到那里"
+      "gloss": "到那里"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "העדרים",
-      "english": "畜群"
+      "gloss": "畜群"
     },
     {
       "surface": "וגללו",
-      "english": "他们滚开"
+      "gloss": "他们滚开"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石头"
     },
     {
       "surface": "האבן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "מעל",
-      "english": "……之上(移开)"
+      "gloss": "……之上(移开)"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "הבאר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "והשקו",
-      "english": "饮了"
+      "gloss": "饮了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "והשיבו",
-      "english": "他们放回"
+      "gloss": "他们放回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石头"
     },
     {
       "surface": "האבן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "הבאר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "למקמה",
-      "english": "原来的位置"
+      "gloss": "原来的位置"
     }
-  ],
-  "timestamp": "2026-07-20T06:37:02.337149026Z",
-  "model": "glm-5.2"
+  ]
 }

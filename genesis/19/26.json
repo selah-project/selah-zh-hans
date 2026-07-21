@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "genesis 19:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22697,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22972
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:43:57.918502534Z",
   "translation": "他的妻子从他身后回头看,她就成了一根盐柱。",
   "tokens": [
     {
       "surface": "ותבט",
-      "english": "她回头看"
+      "gloss": "她回头看"
     },
     {
       "surface": "אשתו",
-      "english": "他的妻子"
+      "gloss": "他的妻子"
     },
     {
       "surface": "מאחריו",
-      "english": "从他身后"
+      "gloss": "从他身后"
     },
     {
       "surface": "ותהי",
-      "english": "她就成了"
+      "gloss": "她就成了"
     },
     {
       "surface": "נציב",
-      "english": "柱子"
+      "gloss": "柱子"
     },
     {
       "surface": "מלח",
-      "english": "盐"
+      "gloss": "盐"
     }
-  ],
-  "timestamp": "2026-07-17T17:43:57.918502534Z",
-  "model": "glm-5.2"
+  ]
 }

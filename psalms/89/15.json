@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 89:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64639,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65141
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:43.217846008Z",
   "translation": "公义与公平是你宝座的根基；חֶסֶד（慈爱）与真理必行在你 ⟨פָנֶי\/ךָ⟩（你的脸面）之前。",
   "tokens": [
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "ומשפט",
-      "english": "与公平"
+      "gloss": "与公平"
     },
     {
       "surface": "מכון",
-      "english": "根基"
+      "gloss": "根基"
     },
     {
       "surface": "כסאך",
-      "english": "是你宝座的"
+      "gloss": "是你宝座的"
     },
     {
       "surface": "חסד",
-      "english": "חֶסֶד（慈爱）"
+      "gloss": "חֶסֶד（慈爱）"
     },
     {
       "surface": "ואמת",
-      "english": "与真理"
+      "gloss": "与真理"
     },
     {
       "surface": "יקדמו",
-      "english": "必行在……之前"
+      "gloss": "必行在……之前"
     },
     {
       "surface": "פניך",
-      "english": "⟨פָנֶי\/ךָ⟩（你的脸面）"
+      "gloss": "⟨פָנֶי\/ךָ⟩（你的脸面）"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:43.217846008Z",
-  "model": "glm-5.2"
+  ]
 }

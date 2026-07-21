@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 25:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22632,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22960
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:22.096654030Z",
   "translation": "哈达德、⟨和⟩提瑪、耶突爾、拿非施、⟨和⟩基底瑪。",
   "tokens": [
     {
       "surface": "חדד",
-      "english": "哈达德"
+      "gloss": "哈达德"
     },
     {
       "surface": "ותימא",
-      "english": "⟨和⟩提瑪"
+      "gloss": "⟨和⟩提瑪"
     },
     {
       "surface": "יטור",
-      "english": "耶突爾"
+      "gloss": "耶突爾"
     },
     {
       "surface": "נפיש",
-      "english": "拿非施"
+      "gloss": "拿非施"
     },
     {
       "surface": "וקדמה",
-      "english": "⟨和⟩基底瑪"
+      "gloss": "⟨和⟩基底瑪"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:22.096654030Z",
-  "model": "glm-5.2"
+  ]
 }

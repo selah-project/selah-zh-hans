@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 148:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64956,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65499
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:05.129457218Z",
   "translation": "他为他的子民高举 ⟨הקרן⟩ 角，为⟨他⟩所有敬虔者的赞美，为以色列的子民，⟨一支⟩亲近他的子民。哈利路雅！",
   "tokens": [
     {
       "surface": "וירם",
-      "english": "他为...高举"
+      "gloss": "他为...高举"
     },
     {
       "surface": "קרן",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "לעמו",
-      "english": "为他的子民"
+      "gloss": "为他的子民"
     },
     {
       "surface": "תהלה",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "לכל",
-      "english": "为⟨他⟩所有"
+      "gloss": "为⟨他⟩所有"
     },
     {
       "surface": "חסידיו",
-      "english": "敬虔者"
+      "gloss": "敬虔者"
     },
     {
       "surface": "לבני",
-      "english": "为...的子民"
+      "gloss": "为...的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עם",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "קרבו",
-      "english": "亲近他的"
+      "gloss": "亲近他的"
     },
     {
       "surface": "הללו",
-      "english": "哈利路"
+      "gloss": "哈利路"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:05.129457218Z",
-  "model": "glm-5.2"
+  ]
 }

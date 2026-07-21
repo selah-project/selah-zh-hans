@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "proverbs 8:31",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54502,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54959
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:33.453127417Z",
   "translation": "在他〈的〉地（תֵבֵל）上欢跃，我〈的〉欢愉⟨את⟩众人之子。",
   "tokens": [
     {
       "surface": "משחקת",
-      "english": "欢跃"
+      "gloss": "欢跃"
     },
     {
       "surface": "בתבל",
-      "english": "在……地（תֵבֵל）上"
+      "gloss": "在……地（תֵבֵל）上"
     },
     {
       "surface": "ארצו",
-      "english": "他的"
+      "gloss": "他的"
     },
     {
       "surface": "ושעשעי",
-      "english": "我〈的〉欢愉"
+      "gloss": "我〈的〉欢愉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "众人之子"
     },
     {
       "surface": "בני",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "אדם",
-      "english": "众人"
+      "gloss": "众人"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:33.453127417Z",
-  "model": "glm-5.2"
+  ]
 }

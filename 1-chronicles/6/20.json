@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 20,
   "ref": "1-chronicles 6:20",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 213,
-    "prompt_tokens": 58716,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58929
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:13.979128191Z",
   "translation": "本 绪、本 以利加拿、本 玛哈、本 亚玛赛",
   "tokens": [
     {
       "surface": "בן",
-      "english": "本"
+      "gloss": "本"
     },
     {
       "surface": "ציף",
-      "english": "绪"
+      "gloss": "绪"
     },
     {
       "surface": "בן",
-      "english": "本"
+      "gloss": "本"
     },
     {
       "surface": "אלקנה",
-      "english": "以利加拿"
+      "gloss": "以利加拿"
     },
     {
       "surface": "בן",
-      "english": "本"
+      "gloss": "本"
     },
     {
       "surface": "מחת",
-      "english": "玛哈"
+      "gloss": "玛哈"
     },
     {
       "surface": "בן",
-      "english": "本"
+      "gloss": "本"
     },
     {
       "surface": "עמשי",
-      "english": "亚玛赛"
+      "gloss": "亚玛赛"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:13.979128191Z",
-  "model": "glm-4.5"
+  ]
 }

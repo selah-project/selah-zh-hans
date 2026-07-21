@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "exodus 14:29",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18781,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19248
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:19:42.614968273Z",
   "translation": "以色列的子民走在干地上,在海的中间;水对他们成了墙,在他们右边和左边。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "而……的子民"
+      "gloss": "而……的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "הלכו",
-      "english": "他们走"
+      "gloss": "他们走"
     },
     {
       "surface": "ביבשה",
-      "english": "在干地上"
+      "gloss": "在干地上"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "והמים",
-      "english": "而水"
+      "gloss": "而水"
     },
     {
       "surface": "להם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "חמה",
-      "english": "⟨成了⟩墙"
+      "gloss": "⟨成了⟩墙"
     },
     {
       "surface": "מימינם",
-      "english": "在他们右边"
+      "gloss": "在他们右边"
     },
     {
       "surface": "ומשמאלם",
-      "english": "和在他们左边"
+      "gloss": "和在他们左边"
     }
-  ],
-  "timestamp": "2026-07-17T18:19:42.614968273Z",
-  "model": "glm-5.2"
+  ]
 }

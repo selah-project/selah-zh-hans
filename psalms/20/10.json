@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 20:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64243,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64505
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:37.936093859Z",
   "translation": "雅威,求祢施行拯救!愿⟨את⟩君王在我们呼求的日子应允我们。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הושיעה",
-      "english": "求祢施行拯救"
+      "gloss": "求祢施行拯救"
     },
     {
       "surface": "המלך",
-      "english": "愿君王"
+      "gloss": "愿君王"
     },
     {
       "surface": "יעננו",
-      "english": "应允我们"
+      "gloss": "应允我们"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "קראנו",
-      "english": "我们呼求"
+      "gloss": "我们呼求"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:37.936093859Z",
-  "model": "glm-5.2"
+  ]
 }

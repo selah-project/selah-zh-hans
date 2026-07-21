@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "numbers 10:12",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19836,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20268
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:37.855640289Z",
   "translation": "以色列的子民按⟨他们⟩的行程段落，从西奈的旷野拔营起行；云在帕兰的旷野住下。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "拔营起行"
+      "gloss": "拔营起行"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "למסעיהם",
-      "english": "按⟨他们⟩的行程段落"
+      "gloss": "按⟨他们⟩的行程段落"
     },
     {
       "surface": "ממדבר",
-      "english": "从……的旷野"
+      "gloss": "从……的旷野"
     },
     {
       "surface": "סיני",
-      "english": "西奈"
+      "gloss": "西奈"
     },
     {
       "surface": "וישכן",
-      "english": "住下"
+      "gloss": "住下"
     },
     {
       "surface": "הענן",
-      "english": "云"
+      "gloss": "云"
     },
     {
       "surface": "במדבר",
-      "english": "在……的旷野"
+      "gloss": "在……的旷野"
     },
     {
       "surface": "פארן",
-      "english": "帕兰"
+      "gloss": "帕兰"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:37.855640289Z",
-  "model": "glm-5.2"
+  ]
 }

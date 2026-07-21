@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 20:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19572,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20213
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:17.146262028Z",
   "translation": "若⟨有⟩人與⟨את⟩他的兒婦同寢，二人必被治死；他們行了混雜之事，他們的血⟨歸⟩在他們身上。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "若⟨有⟩人"
+      "gloss": "若⟨有⟩人"
     },
     {
       "surface": "אשר",
-      "english": "（關係詞）"
+      "gloss": "（關係詞）"
     },
     {
       "surface": "ישכב",
-      "english": "與……同寢"
+      "gloss": "與……同寢"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的兒婦"
     },
     {
       "surface": "כלתו",
-      "english": "他的兒婦"
+      "gloss": "他的兒婦"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "יומתו",
-      "english": "必被治死"
+      "gloss": "必被治死"
     },
     {
       "surface": "שניהם",
-      "english": "二人"
+      "gloss": "二人"
     },
     {
       "surface": "תבל",
-      "english": "混雜之事"
+      "gloss": "混雜之事"
     },
     {
       "surface": "עשו",
-      "english": "他們行了"
+      "gloss": "他們行了"
     },
     {
       "surface": "דמיהם",
-      "english": "他們的血"
+      "gloss": "他們的血"
     },
     {
       "surface": "בם",
-      "english": "在他們身上"
+      "gloss": "在他們身上"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:17.146262028Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "numbers 25:19",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18977,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19192
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:18:38.835926344Z",
   "translation": "那场瘟疫之后,⟨发生了⟩⟨以下的事⟩。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生了⟩⟨以下的事⟩"
+      "gloss": "⟨发生了⟩⟨以下的事⟩"
     },
     {
       "surface": "אחרי",
-      "english": "之后"
+      "gloss": "之后"
     },
     {
       "surface": "המגפה",
-      "english": "那场瘟疫"
+      "gloss": "那场瘟疫"
     }
-  ],
-  "timestamp": "2026-07-17T19:18:38.835926344Z",
-  "model": "glm-5.2"
+  ]
 }

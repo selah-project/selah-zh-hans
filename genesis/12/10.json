@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 12:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23259,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23635
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:51.919193079Z",
   "translation": "那地有了饥荒，亚伯兰下到埃及去，在那里寄居，因为那地的饥荒沉重。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "有了"
+      "gloss": "有了"
     },
     {
       "surface": "רעב",
-      "english": "饥荒"
+      "gloss": "饥荒"
     },
     {
       "surface": "בארץ",
-      "english": "在那地"
+      "gloss": "在那地"
     },
     {
       "surface": "וירד",
-      "english": "下到"
+      "gloss": "下到"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "מצרימה",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "לגור",
-      "english": "去寄居"
+      "gloss": "去寄居"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כבד",
-      "english": "沉重"
+      "gloss": "沉重"
     },
     {
       "surface": "הרעב",
-      "english": "那饥荒"
+      "gloss": "那饥荒"
     },
     {
       "surface": "בארץ",
-      "english": "在那地"
+      "gloss": "在那地"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:51.919193079Z",
-  "model": "glm-5.2"
+  ]
 }

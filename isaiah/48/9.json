@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 48:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20782,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21248
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:57:33.043740100Z",
   "translation": "为我的名的缘故,我延迟我的怒气;为我的赞美,我向你 ⟨将它⟩ 止息 —— 免得将你剪除。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "为了……的缘故"
+      "gloss": "为了……的缘故"
     },
     {
       "surface": "שמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "אאריך",
-      "english": "我延迟"
+      "gloss": "我延迟"
     },
     {
       "surface": "אפי",
-      "english": "我的怒气"
+      "gloss": "我的怒气"
     },
     {
       "surface": "ותהלתי",
-      "english": "以及我的赞美"
+      "gloss": "以及我的赞美"
     },
     {
       "surface": "אחטם",
-      "english": "我止息"
+      "gloss": "我止息"
     },
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "לבלתי",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "הכריתך",
-      "english": "将你剪除"
+      "gloss": "将你剪除"
     }
-  ],
-  "timestamp": "2026-07-17T21:57:33.043740100Z",
-  "model": "glm-5.2"
+  ]
 }

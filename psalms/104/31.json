@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "psalms 104:31",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64471,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64788
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:03.947373389Z",
   "translation": "愿雅威的荣耀存到永远；愿雅威在他的作为中欢喜！",
   "tokens": [
     {
       "surface": "יהי",
-      "english": "愿⟨存到⟩"
+      "gloss": "愿⟨存到⟩"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "ישמח",
-      "english": "愿……欢喜"
+      "gloss": "愿……欢喜"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "במעשיו",
-      "english": "在他的作为中"
+      "gloss": "在他的作为中"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:03.947373389Z",
-  "model": "glm-5.2"
+  ]
 }

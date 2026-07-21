@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 143:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64743,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65242
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:25.269512866Z",
   "translation": "在⟨你的⟩חסד (חֶסֶד,坚爱) 中,⟨你⟩将剪除我的仇敌,并消灭所有压迫我 nefesh (נֶפֶשׁ,生命气息) 的人;因为我是⟨你的⟩仆人。",
   "tokens": [
     {
       "surface": "ובחסדך",
-      "english": "在⟨你的⟩חסד (חֶסֶד,坚爱) 中"
+      "gloss": "在⟨你的⟩חסד (חֶסֶד,坚爱) 中"
     },
     {
       "surface": "תצמית",
-      "english": "⟨你⟩将剪除"
+      "gloss": "⟨你⟩将剪除"
     },
     {
       "surface": "איבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "והאבדת",
-      "english": "并消灭"
+      "gloss": "并消灭"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "צררי",
-      "english": "压迫"
+      "gloss": "压迫"
     },
     {
       "surface": "נפשי",
-      "english": "我 nefesh (נֶפֶשׁ,生命气息) 的人"
+      "gloss": "我 nefesh (נֶפֶשׁ,生命气息) 的人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "עבדך",
-      "english": "⟨你的⟩仆人"
+      "gloss": "⟨你的⟩仆人"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:25.269512866Z",
-  "model": "glm-5.2"
+  ]
 }

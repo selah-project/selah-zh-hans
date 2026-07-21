@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "leviticus 25:1",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18773,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19093
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:10.331271639Z",
   "translation": "雅威在西奈山对摩西说话,*leimór* (说):",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "בהר",
-      "english": "在……山"
+      "gloss": "在……山"
     },
     {
       "surface": "סיני",
-      "english": "西奈"
+      "gloss": "西奈"
     },
     {
       "surface": "לאמר",
-      "english": "*leimór* (说)"
+      "gloss": "*leimór* (说)"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:10.331271639Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "deuteronomy 25:6",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19689,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20262
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:46:38.331784305Z",
   "translation": "⟨事情⟩必是如此:她所生的长子必在死去的兄弟的名上兴起,使他的名不从以色列中被涂抹。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨事情⟩必是如此"
+      "gloss": "⟨事情⟩必是如此"
     },
     {
       "surface": "הבכור",
-      "english": "长子"
+      "gloss": "长子"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "תלד",
-      "english": "她所生的"
+      "gloss": "她所生的"
     },
     {
       "surface": "יקום",
-      "english": "必兴起"
+      "gloss": "必兴起"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "שם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "gloss": "他的兄弟"
     },
     {
       "surface": "המת",
-      "english": "死去的"
+      "gloss": "死去的"
     },
     {
       "surface": "ולא",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "ימחה",
-      "english": "被涂抹"
+      "gloss": "被涂抹"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     },
     {
       "surface": "מישראל",
-      "english": "从以色列中"
+      "gloss": "从以色列中"
     }
-  ],
-  "timestamp": "2026-07-18T02:46:38.331784305Z",
-  "model": "glm-5.2"
+  ]
 }

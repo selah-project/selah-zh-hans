@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "joshua 13:20",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17764,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18107
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:24.911618473Z",
   "translation": "和伯·毗珥,和毗斯迦的斜坡,和伯·耶施末;",
   "tokens": [
     {
       "surface": "וּ\/בֵ֥ית",
-      "english": "和伯·"
+      "gloss": "和伯·"
     },
     {
       "surface": "פְּע֛וֹר",
-      "english": "毗珥"
+      "gloss": "毗珥"
     },
     {
       "surface": "וְ\/אַשְׁדּ֥וֹת",
-      "english": "和……的斜坡"
+      "gloss": "和……的斜坡"
     },
     {
       "surface": "הַ\/פִּסְגָּ֖ה",
-      "english": "毗斯迦"
+      "gloss": "毗斯迦"
     },
     {
       "surface": "וּ\/בֵ֥ית",
-      "english": "和伯·"
+      "gloss": "和伯·"
     },
     {
       "surface": "הַיְשִׁמֽוֹת",
-      "english": "耶施末"
+      "gloss": "耶施末"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:24.911618473Z",
-  "model": "glm-5.2"
+  ]
 }

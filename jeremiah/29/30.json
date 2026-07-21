@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "jeremiah 29:30",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 202,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18758,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18960
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:24:00.977500565Z",
   "translation": "于是雅威的话临到耶利米,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "于是"
+      "gloss": "于是"
     },
     {
       "surface": "דבר",
-      "english": "话"
+      "gloss": "话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:24:00.977500565Z",
-  "model": "glm-5.2"
+  ]
 }

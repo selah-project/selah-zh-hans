@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 29:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54425,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54820
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:16.356378596Z",
   "translation": "恶人增多,过犯⟨就⟩增多;但义人⟨必⟩看见⟨他们⟩的覆亡。",
   "tokens": [
     {
       "surface": "ברבות",
-      "english": "……增多时"
+      "gloss": "……增多时"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ירבה",
-      "english": "增多"
+      "gloss": "增多"
     },
     {
       "surface": "פשע",
-      "english": "过犯"
+      "gloss": "过犯"
     },
     {
       "surface": "וצדיקים",
-      "english": "但义人"
+      "gloss": "但义人"
     },
     {
       "surface": "במפלתם",
-      "english": "⟨他们⟩的覆亡"
+      "gloss": "⟨他们⟩的覆亡"
     },
     {
       "surface": "יראו",
-      "english": "⟨必⟩看见"
+      "gloss": "⟨必⟩看见"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:16.356378596Z",
-  "model": "glm-5.2"
+  ]
 }

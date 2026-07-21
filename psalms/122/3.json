@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 122:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 369,
-    "prompt_tokens": 64393,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64762
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:49.116309546Z",
   "translation": "耶路撒冷这被建造的城, ⟨是⟩ ⟨如同⟩ 一座 ⟨互相⟩ 连结 ⟨在一起的⟩ 城市,",
   "tokens": [
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "הבנויה",
-      "english": "这被建造的"
+      "gloss": "这被建造的"
     },
     {
       "surface": "כעיר",
-      "english": "如同...城市"
+      "gloss": "如同...城市"
     },
     {
       "surface": "שחברה",
-      "english": "互相连结"
+      "gloss": "互相连结"
     },
     {
       "surface": "לה",
-      "english": "在一起的"
+      "gloss": "在一起的"
     },
     {
       "surface": "יחדו",
-      "english": "互相"
+      "gloss": "互相"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:49.116309546Z",
-  "model": "glm-4.5"
+  ]
 }

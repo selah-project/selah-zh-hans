@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "numbers 19:22",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19865,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20295
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:14:30.561536370Z",
   "translation": "凡不洁之人所触碰的一切都⟨将⟩不洁;触碰⟨它⟩的נפש(活物)必不洁直到傍晚。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡……的一切"
+      "gloss": "凡……的一切"
     },
     {
       "surface": "אשר",
-      "english": "(关系代词)"
+      "gloss": "(关系代词)"
     },
     {
       "surface": "יגע",
-      "english": "触碰"
+      "gloss": "触碰"
     },
     {
       "surface": "בו",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "הטמא",
-      "english": "不洁之人"
+      "gloss": "不洁之人"
     },
     {
       "surface": "יטמא",
-      "english": "⟨将⟩不洁"
+      "gloss": "⟨将⟩不洁"
     },
     {
       "surface": "והנפש",
-      "english": "而那נפש(活物)"
+      "gloss": "而那נפש(活物)"
     },
     {
       "surface": "הנגעת",
-      "english": "触碰⟨它⟩的"
+      "gloss": "触碰⟨它⟩的"
     },
     {
       "surface": "תטמא",
-      "english": "必不洁"
+      "gloss": "必不洁"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "傍晚"
+      "gloss": "傍晚"
     }
-  ],
-  "timestamp": "2026-07-17T19:14:30.561536370Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 38:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22997,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23301
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:20.949710845Z",
   "translation": "她起来，走了，从自己身上除下她的面纱，穿上她寡居的衣裳。",
   "tokens": [
     {
       "surface": "ותקם",
-      "english": "她起来"
+      "gloss": "她起来"
     },
     {
       "surface": "ותלך",
-      "english": "走了"
+      "gloss": "走了"
     },
     {
       "surface": "ותסר",
-      "english": "除下"
+      "gloss": "除下"
     },
     {
       "surface": "צעיפה",
-      "english": "她的面纱"
+      "gloss": "她的面纱"
     },
     {
       "surface": "מעליה",
-      "english": "从自己身上"
+      "gloss": "从自己身上"
     },
     {
       "surface": "ותלבש",
-      "english": "穿上"
+      "gloss": "穿上"
     },
     {
       "surface": "בגדי",
-      "english": "……的衣裳"
+      "gloss": "……的衣裳"
     },
     {
       "surface": "אלמנותה",
-      "english": "她寡居的"
+      "gloss": "她寡居的"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:20.949710845Z",
-  "model": "glm-5.2"
+  ]
 }

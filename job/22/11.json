@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 22:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21608,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21984
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:05.517210499Z",
   "translation": "或黑暗，你看不见，⟨而⟩充沛的水⟨必⟩遮盖你。",
   "tokens": [
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "חשך",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תראה",
-      "english": "你看⟨见⟩"
+      "gloss": "你看⟨见⟩"
     },
     {
       "surface": "ושפעת",
-      "english": "⟨而⟩充沛的"
+      "gloss": "⟨而⟩充沛的"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "תכסך",
-      "english": "⟨必⟩遮盖你"
+      "gloss": "⟨必⟩遮盖你"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:05.517210499Z",
-  "model": "glm-5.2"
+  ]
 }

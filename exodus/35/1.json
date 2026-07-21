@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "exodus 35:1",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19306,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19844
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:35:40.141950122Z",
   "translation": "摩西召集了⟨את⟩以色列人子孙的全以色列人子孙的全会众，对他们说：这些是雅威所吩咐的*davar*（话语），要⟨你们⟩遵行⟨את⟩它们：",
   "tokens": [
     {
       "surface": "ויקהל",
-      "english": "召集了"
+      "gloss": "召集了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全 (会众)"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "עדת",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列人"
+      "gloss": "以色列人"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "הדברים",
-      "english": "*davar*（话语）"
+      "gloss": "*davar*（话语）"
     },
     {
       "surface": "אשר",
-      "english": "（关系代词）"
+      "gloss": "（关系代词）"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐的"
+      "gloss": "所吩咐的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעשת",
-      "english": "要遵行"
+      "gloss": "要遵行"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们 (那些话语)"
     }
-  ],
-  "timestamp": "2026-07-17T18:35:40.141950122Z",
-  "model": "glm-5.2"
+  ]
 }

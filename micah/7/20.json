@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "micah 7:20",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17539,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17974
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:27:06.817685913Z",
   "translation": "你将信实赐给雅各， Chesed ⟨חֶסֶד⟩ 赐给亚伯拉罕，就是你向我们的列祖从上古之日起誓的。",
   "tokens": [
     {
       "surface": "תתן",
-      "english": "你将……赐给"
+      "gloss": "你将……赐给"
     },
     {
       "surface": "אמת",
-      "english": "信实"
+      "gloss": "信实"
     },
     {
       "surface": "ליעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "חסד",
-      "english": "Chesed ⟨חֶסֶד⟩"
+      "gloss": "Chesed ⟨חֶסֶד⟩"
     },
     {
       "surface": "לאברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "נשבעת",
-      "english": "你……起誓的"
+      "gloss": "你……起誓的"
     },
     {
       "surface": "לאבתינו",
-      "english": "我们的列祖"
+      "gloss": "我们的列祖"
     },
     {
       "surface": "מימי",
-      "english": "从……之日"
+      "gloss": "从……之日"
     },
     {
       "surface": "קדם",
-      "english": "上古"
+      "gloss": "上古"
     }
-  ],
-  "timestamp": "2026-07-17T23:27:06.817685913Z",
-  "model": "glm-5.2"
+  ]
 }

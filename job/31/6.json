@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 31:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21489,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21821
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:49:06.728689762Z",
   "translation": "愿他⟨用⟩公义的天平称量我，以罗欣将知道我的无瑕。",
   "tokens": [
     {
       "surface": "ישקלני",
-      "english": "愿他称量我"
+      "gloss": "愿他称量我"
     },
     {
       "surface": "במאזני",
-      "english": "⟨用⟩天平"
+      "gloss": "⟨用⟩天平"
     },
     {
       "surface": "צדק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "ואלהים",
-      "english": "אלהים"
+      "gloss": "אלהים"
     },
     {
       "surface": "וידע",
-      "english": "将知道"
+      "gloss": "将知道"
     },
     {
       "surface": "תמתי",
-      "english": "我的无瑕"
+      "gloss": "我的无瑕"
     }
-  ],
-  "timestamp": "2026-07-20T06:49:06.728689762Z",
-  "model": "glm-5.2"
+  ]
 }

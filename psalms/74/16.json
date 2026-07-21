@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 74:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64528,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64810
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:06.978830194Z",
   "translation": "白天属于你，黑夜也属于你；你设立了 ⟨את⟩ 发光体和太阳。",
   "tokens": [
     {
       "surface": "לך",
-      "english": "属于你"
+      "gloss": "属于你"
     },
     {
       "surface": "יום",
-      "english": "白天"
+      "gloss": "白天"
     },
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "לך",
-      "english": "属于你"
+      "gloss": "属于你"
     },
     {
       "surface": "לילה",
-      "english": "黑夜"
+      "gloss": "黑夜"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "הכינות",
-      "english": "设立了"
+      "gloss": "设立了"
     },
     {
       "surface": "מאור",
-      "english": "发光体"
+      "gloss": "发光体"
     },
     {
       "surface": "ושמש",
-      "english": "和太阳"
+      "gloss": "和太阳"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:06.978830194Z",
-  "model": "glm-5.2"
+  ]
 }

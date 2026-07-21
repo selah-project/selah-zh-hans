@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 8:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21619,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22101
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:11.428373689Z",
   "translation": "到⟨何时⟩你还要讲说这些事？你口中的言语⟨是⟩一阵狂风。",
   "tokens": [
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אן",
-      "english": "⟨何时⟩"
+      "gloss": "⟨何时⟩"
     },
     {
       "surface": "תמלל",
-      "english": "你还要讲说"
+      "gloss": "你还要讲说"
     },
     {
       "surface": "אלה",
-      "english": "这些事"
+      "gloss": "这些事"
     },
     {
       "surface": "ורוח",
-      "english": "一阵风 \/ 鲁阿"
+      "gloss": "一阵风 \/ 鲁阿"
     },
     {
       "surface": "כביר",
-      "english": "狂"
+      "gloss": "狂"
     },
     {
       "surface": "אמרי",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "פיך",
-      "english": "你口中"
+      "gloss": "你口中"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:11.428373689Z",
-  "model": "glm-5.2"
+  ]
 }

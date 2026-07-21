@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "jeremiah 49:11",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18973,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19380
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:35:58.146055256Z",
   "translation": "离弃你的孤儿吧,我⟨雅威⟩将使他们存活;至于你的寡妇,让她们在我身上倚靠。",
   "tokens": [
     {
       "surface": "עזבה",
-      "english": "离弃"
+      "gloss": "离弃"
     },
     {
       "surface": "יתמיך",
-      "english": "你的孤儿"
+      "gloss": "你的孤儿"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אחיה",
-      "english": "将使他们存活"
+      "gloss": "将使他们存活"
     },
     {
       "surface": "ואלמנתיך",
-      "english": "至于你的寡妇"
+      "gloss": "至于你的寡妇"
     },
     {
       "surface": "עלי",
-      "english": "在我身上"
+      "gloss": "在我身上"
     },
     {
       "surface": "תבטחו",
-      "english": "让她们倚靠"
+      "gloss": "让她们倚靠"
     }
-  ],
-  "timestamp": "2026-07-17T22:35:58.146055256Z",
-  "model": "glm-5.2"
+  ]
 }

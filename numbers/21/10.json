@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 21:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 223,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19312,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 19535
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:29.775144710Z",
   "translation": "以色列的子〈们〉起行,在奥博特扎营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "起行"
+      "gloss": "起行"
     },
     {
       "surface": "בני",
-      "english": "的子〈们〉"
+      "gloss": "的子〈们〉"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויחנו",
-      "english": "扎营"
+      "gloss": "扎营"
     },
     {
       "surface": "באבת",
-      "english": "在奥博特"
+      "gloss": "在奥博特"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:29.775144710Z",
-  "model": "glm-5.2"
+  ]
 }

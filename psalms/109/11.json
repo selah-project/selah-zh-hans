@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 109:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64479,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64914
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:14.094512160Z",
   "translation": "愿放债者设网罗缠住凡⟨他⟩所有的；愿外族人抢夺⟨他的⟩劳碌所得。",
   "tokens": [
     {
       "surface": "יְנַקֵּ֣שׁ",
-      "english": "愿……设网罗缠住"
+      "gloss": "愿……设网罗缠住"
     },
     {
       "surface": "נ֭וֹשֶׁה",
-      "english": "放债者"
+      "gloss": "放债者"
     },
     {
       "surface": "לְ\/כָל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ל֑\/וֹ",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "וְ\/יָבֹ֖זּוּ",
-      "english": "愿……抢夺"
+      "gloss": "愿……抢夺"
     },
     {
       "surface": "זָרִ֣ים",
-      "english": "外族人"
+      "gloss": "外族人"
     },
     {
       "surface": "יְגִיעֽ\/וֹ",
-      "english": "⟨他的⟩劳碌所得"
+      "gloss": "⟨他的⟩劳碌所得"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:14.094512160Z",
-  "model": "glm-5.2"
+  ]
 }

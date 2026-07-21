@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "1-kings 3:19",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63883,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64241
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:58:56.099578091Z",
   "translation": "这⟨个⟩女人的儿子夜间死了 —— 她⟨⟩躺在他身上⟨压住了他⟩。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "האשה",
-      "english": "这⟨个⟩女人的"
+      "gloss": "这⟨个⟩女人的"
     },
     {
       "surface": "הזאת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לילה",
-      "english": "夜间"
+      "gloss": "夜间"
     },
     {
       "surface": "אשר",
-      "english": "—— 她"
+      "gloss": "—— 她"
     },
     {
       "surface": "שכבה",
-      "english": "躺在他身上"
+      "gloss": "躺在他身上"
     },
     {
       "surface": "עליו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T20:58:56.099578091Z",
-  "model": "glm-5.2"
+  ]
 }

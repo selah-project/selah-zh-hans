@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 91:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64493,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64858
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:05.661119578Z",
   "translation": "你要踩在沙哈勒 (狮子) 和毒蛇身上；你要践踏少壮的狮子和大蛇。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……上\/踩在"
+      "gloss": "在……上\/踩在"
     },
     {
       "surface": "שחל",
-      "english": "沙哈勒 (狮子)"
+      "gloss": "沙哈勒 (狮子)"
     },
     {
       "surface": "ופתן",
-      "english": "和毒蛇"
+      "gloss": "和毒蛇"
     },
     {
       "surface": "תדרך",
-      "english": "你要踩"
+      "gloss": "你要踩"
     },
     {
       "surface": "תרמס",
-      "english": "你要践踏"
+      "gloss": "你要践踏"
     },
     {
       "surface": "כפיר",
-      "english": "少壮的狮子"
+      "gloss": "少壮的狮子"
     },
     {
       "surface": "ותנין",
-      "english": "和大蛇"
+      "gloss": "和大蛇"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:05.661119578Z",
-  "model": "glm-5.2"
+  ]
 }

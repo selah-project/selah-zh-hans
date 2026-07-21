@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 24:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18421,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18725
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:26:53.576353075Z",
   "translation": "摩西上到⟨那⟩山,云彩覆盖⟨את⟩⟨那⟩山。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "上到"
+      "gloss": "上到"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ההר",
-      "english": "⟨那⟩山"
+      "gloss": "⟨那⟩山"
     },
     {
       "surface": "ויכס",
-      "english": "覆盖"
+      "gloss": "覆盖"
     },
     {
       "surface": "הענן",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩山"
     },
     {
       "surface": "ההר",
-      "english": "⟨那⟩山"
+      "gloss": "⟨那⟩山"
     }
-  ],
-  "timestamp": "2026-07-17T18:26:53.576353075Z",
-  "model": "glm-5.2"
+  ]
 }

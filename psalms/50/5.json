@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 50:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64431,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64898
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:37.018086252Z",
   "translation": "为我招聚我的敬虔人——那些以祭物为我切立布瑞特的人。",
   "tokens": [
     {
       "surface": "אספו",
-      "english": "招聚"
+      "gloss": "招聚"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "חסידי",
-      "english": "我的敬虔人"
+      "gloss": "我的敬虔人"
     },
     {
       "surface": "כרתי",
-      "english": "切立"
+      "gloss": "切立"
     },
     {
       "surface": "בריתי",
-      "english": "我的布瑞特"
+      "gloss": "我的布瑞特"
     },
     {
       "surface": "עלי",
-      "english": "以 \/ 在……之上"
+      "gloss": "以 \/ 在……之上"
     },
     {
       "surface": "זבח",
-      "english": "祭物"
+      "gloss": "祭物"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:37.018086252Z",
-  "model": "glm-5.2"
+  ]
 }

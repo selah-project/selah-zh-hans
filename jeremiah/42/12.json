@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "jeremiah 42:12",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19319,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19729
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:32:01.901136323Z",
   "translation": "我必向你们赐下怜悯,他必怜悯⟨את⟩你们,并将⟨את⟩你们带回你们的土地。",
   "tokens": [
     {
       "surface": "ואתן",
-      "english": "我必赐下"
+      "gloss": "我必赐下"
     },
     {
       "surface": "לכם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "רחמים",
-      "english": "怜悯"
+      "gloss": "怜悯"
     },
     {
       "surface": "ורחם",
-      "english": "他必怜悯"
+      "gloss": "他必怜悯"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "והשיב",
-      "english": "并将……带回"
+      "gloss": "并将……带回"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אדמתכם",
-      "english": "你们的土地"
+      "gloss": "你们的土地"
     }
-  ],
-  "timestamp": "2026-07-17T22:32:01.901136323Z",
-  "model": "glm-5.2"
+  ]
 }

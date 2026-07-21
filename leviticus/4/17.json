@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "leviticus 4:17",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19599,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20302
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:36.485124485Z",
   "translation": "祭司要蘸 ⟨他⟩ 的指頭,從血中 ⟨出來⟩,向雅威的面 ⟨前⟩ 彈七次,⟨את⟩ 幔子的面。",
   "tokens": [
     {
       "surface": "וְ\/טָבַ֧ל",
-      "english": "要蘸"
+      "gloss": "要蘸"
     },
     {
       "surface": "הַ\/כֹּהֵ֛ן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "אֶצְבָּע֖\/וֹ",
-      "english": "⟨他⟩ 的指頭"
+      "gloss": "⟨他⟩ 的指頭"
     },
     {
       "surface": "מִן",
-      "english": "從"
+      "gloss": "從"
     },
     {
       "surface": "הַ\/דָּ֑ם",
-      "english": "血中"
+      "gloss": "血中"
     },
     {
       "surface": "וְ\/הִזָּ֞ה",
-      "english": "並要彈"
+      "gloss": "並要彈"
     },
     {
       "surface": "שֶׁ֤בַע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "פְּעָמִים֙",
-      "english": "次"
+      "gloss": "次"
     },
     {
       "surface": "לִ\/פְנֵ֣י",
-      "english": "向……的面 ⟨前⟩"
+      "gloss": "向……的面 ⟨前⟩"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "幔子的面"
     },
     {
       "surface": "פְּנֵ֥י",
-      "english": "的面"
+      "gloss": "的面"
     },
     {
       "surface": "הַ\/פָּרֹֽכֶת",
-      "english": "幔子"
+      "gloss": "幔子"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:36.485124485Z",
-  "model": "glm-5.2"
+  ]
 }

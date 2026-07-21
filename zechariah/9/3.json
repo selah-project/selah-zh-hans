@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "zechariah 9:3",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17851,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 18248
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:35:36.209425467Z",
   "translation": "推罗为自己建造了保障,堆积银子如尘土, ⟨并⟩金子如街上的泥土。",
   "tokens": [
     {
       "surface": "ותבן",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "צר",
-      "english": "推罗"
+      "gloss": "推罗"
     },
     {
       "surface": "מצור",
-      "english": "保障"
+      "gloss": "保障"
     },
     {
       "surface": "לה",
-      "english": "为自己"
+      "gloss": "为自己"
     },
     {
       "surface": "ותצבר",
-      "english": "堆积"
+      "gloss": "堆积"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "כעפר",
-      "english": "如尘土"
+      "gloss": "如尘土"
     },
     {
       "surface": "וחרוץ",
-      "english": "⟨并⟩金子"
+      "gloss": "⟨并⟩金子"
     },
     {
       "surface": "כטיט",
-      "english": "如泥土"
+      "gloss": "如泥土"
     },
     {
       "surface": "חוצות",
-      "english": "街上的"
+      "gloss": "街上的"
     }
-  ],
-  "timestamp": "2026-07-17T23:35:36.209425467Z",
-  "model": "glm-5.2"
+  ]
 }

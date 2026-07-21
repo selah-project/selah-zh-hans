@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 41:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64639,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64952
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:14.066731790Z",
   "translation": "一同针对我低声耳语的就是我所有的恨我者；针对我他们图谋灾祸⟨为要降⟨于⟩我⟩。",
   "tokens": [
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "עלי",
-      "english": "针对我"
+      "gloss": "针对我"
     },
     {
       "surface": "יתלחשו",
-      "english": "低声耳语"
+      "gloss": "低声耳语"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "שנאי",
-      "english": "恨我者"
+      "gloss": "恨我者"
     },
     {
       "surface": "עלי",
-      "english": "针对我"
+      "gloss": "针对我"
     },
     {
       "surface": "יחשבו",
-      "english": "他们图谋"
+      "gloss": "他们图谋"
     },
     {
       "surface": "רעה",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "לי",
-      "english": "⟨为要降⟨于⟩我⟩"
+      "gloss": "⟨为要降⟨于⟩我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:14.066731790Z",
-  "model": "glm-5.2"
+  ]
 }

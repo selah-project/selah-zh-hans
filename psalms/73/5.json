@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 73:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64401,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64870
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:31.899255127Z",
   "translation": "在⟨凡⟩人的劳苦中，他们不在；他们与⟨亚当⟩同类的人也⟨不⟩被触及⟨折磨⟩。",
   "tokens": [
     {
       "surface": "בעמל",
-      "english": "在……的劳苦中"
+      "gloss": "在……的劳苦中"
     },
     {
       "surface": "אנוש",
-      "english": "凡人"
+      "gloss": "凡人"
     },
     {
       "surface": "אינמו",
-      "english": "他们不在"
+      "gloss": "他们不在"
     },
     {
       "surface": "ועם",
-      "english": "以及与……"
+      "gloss": "以及与……"
     },
     {
       "surface": "אדם",
-      "english": "亚当同类的人"
+      "gloss": "亚当同类的人"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ינגעו",
-      "english": "被触及（折磨）"
+      "gloss": "被触及（折磨）"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:31.899255127Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 104:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64783,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65255
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:07.269398844Z",
   "translation": "⟨那⟩在水域中架设楼阁椽梁的，⟨那⟩使云成为⟨他⟩战车的，⟨那⟩行走在鲁阿翅膀上的——",
   "tokens": [
     {
       "surface": "המקרה",
-      "english": "⟨那⟩架设椽梁的"
+      "gloss": "⟨那⟩架设椽梁的"
     },
     {
       "surface": "במים",
-      "english": "在水域中"
+      "gloss": "在水域中"
     },
     {
       "surface": "עליותיו",
-      "english": "他的楼阁"
+      "gloss": "他的楼阁"
     },
     {
       "surface": "השם",
-      "english": "⟨那⟩使……成为的"
+      "gloss": "⟨那⟩使……成为的"
     },
     {
       "surface": "עבים",
-      "english": "云"
+      "gloss": "云"
     },
     {
       "surface": "רכובו",
-      "english": "他的战车"
+      "gloss": "他的战车"
     },
     {
       "surface": "המהלך",
-      "english": "⟨那⟩行走的"
+      "gloss": "⟨那⟩行走的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כנפי",
-      "english": "翅膀"
+      "gloss": "翅膀"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:07.269398844Z",
-  "model": "glm-5.2"
+  ]
 }

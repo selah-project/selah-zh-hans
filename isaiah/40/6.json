@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 40:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21082,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21634
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:25.765899916Z",
   "translation": "声音说：「呼喊！」⟨他⟩便说：「我当呼喊什么？凡肉体如草，凡其忠诚如田间的花。」",
   "tokens": [
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "קרא",
-      "english": "「呼喊！」"
+      "gloss": "「呼喊！」"
     },
     {
       "surface": "ואמר",
-      "english": "⟨他⟩便说"
+      "gloss": "⟨他⟩便说"
     },
     {
       "surface": "מה",
-      "english": "什么？"
+      "gloss": "什么？"
     },
     {
       "surface": "אקרא",
-      "english": "我当呼喊"
+      "gloss": "我当呼喊"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "הבשר",
-      "english": "肉体"
+      "gloss": "肉体"
     },
     {
       "surface": "חציר",
-      "english": "如草"
+      "gloss": "如草"
     },
     {
       "surface": "וכל",
-      "english": "凡其"
+      "gloss": "凡其"
     },
     {
       "surface": "חסדו",
-      "english": "忠诚"
+      "gloss": "忠诚"
     },
     {
       "surface": "כציץ",
-      "english": "如……花"
+      "gloss": "如……花"
     },
     {
       "surface": "השדה",
-      "english": "田间的"
+      "gloss": "田间的"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:25.765899916Z",
-  "model": "glm-5.2"
+  ]
 }

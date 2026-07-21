@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 27:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23115,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23480
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:50:11.164396261Z",
   "translation": "他没有认出他，因为他的双手像他哥哥以扫的手一样有毛；他就祝福了他。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "他没有"
+      "gloss": "他没有"
     },
     {
       "surface": "הכירו",
-      "english": "认出他"
+      "gloss": "认出他"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "היו",
-      "english": "是"
+      "gloss": "是"
     },
     {
       "surface": "ידיו",
-      "english": "他的双手"
+      "gloss": "他的双手"
     },
     {
       "surface": "כידי",
-      "english": "像……的手"
+      "gloss": "像……的手"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "אחיו",
-      "english": "他哥哥"
+      "gloss": "他哥哥"
     },
     {
       "surface": "שערת",
-      "english": "有毛"
+      "gloss": "有毛"
     },
     {
       "surface": "ויברכהו",
-      "english": "他就祝福了他"
+      "gloss": "他就祝福了他"
     }
-  ],
-  "timestamp": "2026-07-17T17:50:11.164396261Z",
-  "model": "glm-5.2"
+  ]
 }

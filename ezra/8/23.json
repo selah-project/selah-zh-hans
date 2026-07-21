@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "ezra 8:23",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46389,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46798
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:40:43.655650901Z",
   "translation": "于是我们禁食,向我们的以罗欣寻求 ⟨关于⟩ 这事,⟨他⟩ 就为我们转求。",
   "tokens": [
     {
       "surface": "ונצומה",
-      "english": "于是我们禁食"
+      "gloss": "于是我们禁食"
     },
     {
       "surface": "ונבקשה",
-      "english": "向……寻求"
+      "gloss": "向……寻求"
     },
     {
       "surface": "מאלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "על",
-      "english": "⟨关于⟩"
+      "gloss": "⟨关于⟩"
     },
     {
       "surface": "זאת",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "ויעתר",
-      "english": "⟨他⟩ 就转求"
+      "gloss": "⟨他⟩ 就转求"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     }
-  ],
-  "timestamp": "2026-07-18T01:40:43.655650901Z",
-  "model": "glm-5.2"
+  ]
 }

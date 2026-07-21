@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "joshua 19:2",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17744,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18114
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:01:57.722724228Z",
   "translation": "他们⟨在⟩产业中⟨有⟩:别是巴、示巴 和摩拉大 (Moladá)。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "להם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "בנחלתם",
-      "english": "⟨在⟩产业中"
+      "gloss": "⟨在⟩产业中"
     },
     {
       "surface": "באר",
-      "english": "别是巴"
+      "gloss": "别是巴"
     },
     {
       "surface": "שבע",
-      "english": "示巴"
+      "gloss": "示巴"
     },
     {
       "surface": "ושבע",
-      "english": "和示巴"
+      "gloss": "和示巴"
     },
     {
       "surface": "ומולדה",
-      "english": "和摩拉大 (Moladá)"
+      "gloss": "和摩拉大 (Moladá)"
     }
-  ],
-  "timestamp": "2026-07-17T20:01:57.722724228Z",
-  "model": "glm-5.2"
+  ]
 }

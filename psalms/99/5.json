@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 99:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64617,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65129
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:15.833105917Z",
   "translation": "高举雅威我们的以罗欣,向⟨他⟩脚的凳子俯伏,⟨他⟩⟨是⟩圣的,⟨他⟩。",
   "tokens": [
     {
       "surface": "רוממו",
-      "english": "高举"
+      "gloss": "高举"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "והשתחוו",
-      "english": "并当俯伏"
+      "gloss": "并当俯伏"
     },
     {
       "surface": "להדם",
-      "english": "向凳子"
+      "gloss": "向凳子"
     },
     {
       "surface": "רגליו",
-      "english": "他脚的"
+      "gloss": "他脚的"
     },
     {
       "surface": "קדוש",
-      "english": "圣的"
+      "gloss": "圣的"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:15.833105917Z",
-  "model": "glm-5.2"
+  ]
 }

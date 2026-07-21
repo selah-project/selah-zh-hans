@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "jeremiah 2:32",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19283,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19845
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:07:29.937751985Z",
   "translation": "处女会忘记她的饰物吗?新娘⟨会忘记⟩她的佩带吗?而我的子民忘记了我——日子 ⟨没有⟩ 数目。",
   "tokens": [
     {
       "surface": "התשכח",
-      "english": "会忘记吗"
+      "gloss": "会忘记吗"
     },
     {
       "surface": "בתולה",
-      "english": "处女"
+      "gloss": "处女"
     },
     {
       "surface": "עדיה",
-      "english": "她的饰物"
+      "gloss": "她的饰物"
     },
     {
       "surface": "כלה",
-      "english": "新娘"
+      "gloss": "新娘"
     },
     {
       "surface": "קשריה",
-      "english": "她的佩带"
+      "gloss": "她的佩带"
     },
     {
       "surface": "ועמי",
-      "english": "而我的子民"
+      "gloss": "而我的子民"
     },
     {
       "surface": "שכחוני",
-      "english": "忘记了我"
+      "gloss": "忘记了我"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "אין",
-      "english": "⟨没有⟩"
+      "gloss": "⟨没有⟩"
     },
     {
       "surface": "מספר",
-      "english": "数目"
+      "gloss": "数目"
     }
-  ],
-  "timestamp": "2026-07-17T22:07:29.937751985Z",
-  "model": "glm-5.2"
+  ]
 }

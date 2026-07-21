@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 7:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64423,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64867
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:12.189733987Z",
   "translation": "以罗欣 ⟨是⟩公义的审判者，而且是日日发怒的 אֵל。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "שופט",
-      "english": "审判者"
+      "gloss": "审判者"
     },
     {
       "surface": "צדיק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "ואל",
-      "english": "而且是 אֵל"
+      "gloss": "而且是 אֵל"
     },
     {
       "surface": "זעם",
-      "english": "发怒的"
+      "gloss": "发怒的"
     },
     {
       "surface": "בכל",
-      "english": "在每一"
+      "gloss": "在每一"
     },
     {
       "surface": "יום",
-      "english": "日"
+      "gloss": "日"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:12.189733987Z",
-  "model": "glm-5.2"
+  ]
 }

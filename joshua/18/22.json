@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "joshua 18:22",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17569,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17825
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:01:37.453366091Z",
   "translation": "又 arabah 之家，和 采玛拉因，又 伯特 之家；",
   "tokens": [
     {
       "surface": "וּ\/בֵ֧ית",
-      "english": "又……之家"
+      "gloss": "又……之家"
     },
     {
       "surface": "הָֽעֲרָבָ֛ה",
-      "english": "的"
+      "gloss": "的"
     },
     {
       "surface": "וּ\/צְמָרַ֖יִם",
-      "english": "采玛拉因"
+      "gloss": "采玛拉因"
     },
     {
       "surface": "וּ\/בֵֽית",
-      "english": "又……之家"
+      "gloss": "又……之家"
     },
     {
       "surface": "אֵֽל",
-      "english": "伯特"
+      "gloss": "伯特"
     }
-  ],
-  "timestamp": "2026-07-17T20:01:37.453366091Z",
-  "model": "glm-5.2"
+  ]
 }

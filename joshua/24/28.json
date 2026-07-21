@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "joshua 24:28",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17792,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18115
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:05:20.347968980Z",
   "translation": "约书亚打发⟨את⟩那百姓走，各人⟨归⟩⟨他的⟩产业去。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "于是打发……走"
+      "gloss": "于是打发……走"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "לנחלתו",
-      "english": "⟨归⟩⟨他的⟩产业（继承之地）"
+      "gloss": "⟨归⟩⟨他的⟩产业（继承之地）"
     }
-  ],
-  "timestamp": "2026-07-17T20:05:20.347968980Z",
-  "model": "glm-5.2"
+  ]
 }

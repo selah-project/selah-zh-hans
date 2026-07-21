@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 31:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23211,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23646
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:28.462476558Z",
   "translation": "雅各观看拉班的面色,看哪,⟨它⟩不⟨是⟩与他同在,像昨日和前日一样。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "⟨他⟩观看"
+      "gloss": "⟨他⟩观看"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拉班的面色"
     },
     {
       "surface": "פני",
-      "english": "面色"
+      "gloss": "面色"
     },
     {
       "surface": "לבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "איננו",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עמו",
-      "english": "与他同在"
+      "gloss": "与他同在"
     },
     {
       "surface": "כתמול",
-      "english": "像昨日"
+      "gloss": "像昨日"
     },
     {
       "surface": "שלשום",
-      "english": "和前日"
+      "gloss": "和前日"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:28.462476558Z",
-  "model": "glm-5.2"
+  ]
 }

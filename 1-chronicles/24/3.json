@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "1-chronicles 24:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 617,
-    "prompt_tokens": 59263,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59880
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:29.970670685Z",
   "translation": "大卫同撒督,从以利亚撒的子孙中,同亚希米勒,从以他玛的子孙中,将他们分派,照他们的班次在服事中。",
   "tokens": [
     {
       "surface": "ויחלקם",
-      "english": "将他们分派"
+      "gloss": "将他们分派"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "וצדוק",
-      "english": "同撒督"
+      "gloss": "同撒督"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "אלעזר",
-      "english": "以利亚撒"
+      "gloss": "以利亚撒"
     },
     {
       "surface": "ואחימלך",
-      "english": "同亚希米勒"
+      "gloss": "同亚希米勒"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "איתמר",
-      "english": "以他玛"
+      "gloss": "以他玛"
     },
     {
       "surface": "לפקדתם",
-      "english": "照他们的班次"
+      "gloss": "照他们的班次"
     },
     {
       "surface": "בעבדתם",
-      "english": "在服事中"
+      "gloss": "在服事中"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:29.970670685Z",
-  "model": "glm-4.5"
+  ]
 }

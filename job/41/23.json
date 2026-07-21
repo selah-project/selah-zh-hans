@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 41:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21538,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22002
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:59.315780977Z",
   "translation": "他使深渊沸腾如 ⟨את⟩ 锅，他使 ⟨את⟩ 海如膏剂。",
   "tokens": [
     {
       "surface": "ירתיח",
-      "english": "他使……沸腾"
+      "gloss": "他使……沸腾"
     },
     {
       "surface": "כסיר",
-      "english": "如锅"
+      "gloss": "如锅"
     },
     {
       "surface": "מצולה",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "ים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "ישים",
-      "english": "他使……如"
+      "gloss": "他使……如"
     },
     {
       "surface": "כמרקחה",
-      "english": "如膏剂"
+      "gloss": "如膏剂"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:59.315780977Z",
-  "model": "glm-5.2"
+  ]
 }

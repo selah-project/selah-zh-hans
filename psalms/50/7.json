@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 50:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64692,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65224
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:22.493319825Z",
   "translation": "我的民哪,你要听,我就说话;以色列啊,我要向你作见证:以罗欣——你的以罗欣,⟨就是我⟩。",
   "tokens": [
     {
       "surface": "שִׁמְעָ֤\/ה",
-      "english": "你要听"
+      "gloss": "你要听"
     },
     {
       "surface": "עַמִּ֨\/י",
-      "english": "我的民哪"
+      "gloss": "我的民哪"
     },
     {
       "surface": "וַ\/אֲדַבֵּ֗רָה",
-      "english": "我就说话"
+      "gloss": "我就说话"
     },
     {
       "surface": "יִ֭שְׂרָאֵל",
-      "english": "以色列啊"
+      "gloss": "以色列啊"
     },
     {
       "surface": "וְ\/אָעִ֣ידָה",
-      "english": "我要作见证"
+      "gloss": "我要作见证"
     },
     {
       "surface": "בָּ֑\/ךְ",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "אֱלֹהִ֖ים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אֱלֹהֶ֣י\/ךָ",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "אָנֹֽכִי",
-      "english": "⟨就是我⟩"
+      "gloss": "⟨就是我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:22.493319825Z",
-  "model": "glm-5.2"
+  ]
 }

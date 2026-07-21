@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "psalms 107:36",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64310,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64597
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:38.126286632Z",
   "translation": "他⟨使⟩饥饿的人住在那里，他们建立一座可居住的城。",
   "tokens": [
     {
       "surface": "ויושב",
-      "english": "他⟨使⟩……住"
+      "gloss": "他⟨使⟩……住"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "רעבים",
-      "english": "饥饿的人"
+      "gloss": "饥饿的人"
     },
     {
       "surface": "ויכוננו",
-      "english": "他们建立"
+      "gloss": "他们建立"
     },
     {
       "surface": "עיר",
-      "english": "一座城"
+      "gloss": "一座城"
     },
     {
       "surface": "מושב",
-      "english": "可居住的（居所）"
+      "gloss": "可居住的（居所）"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:38.126286632Z",
-  "model": "glm-5.2"
+  ]
 }

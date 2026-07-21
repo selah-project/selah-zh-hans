@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 89:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64386,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64724
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:41.454277246Z",
   "translation": "我-cut了布瑞特给我所拣选的，我起誓给大卫我的仆人，",
   "tokens": [
     {
       "surface": "כרתי",
-      "english": "我-cut了 (cut)"
+      "gloss": "我-cut了 (cut)"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "לבחירי",
-      "english": "给我所拣选的"
+      "gloss": "给我所拣选的"
     },
     {
       "surface": "נשבעתי",
-      "english": "我起誓"
+      "gloss": "我起誓"
     },
     {
       "surface": "לדוד",
-      "english": "给大卫"
+      "gloss": "给大卫"
     },
     {
       "surface": "עבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:41.454277246Z",
-  "model": "glm-5.2"
+  ]
 }

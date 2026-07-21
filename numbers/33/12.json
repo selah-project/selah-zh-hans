@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "numbers 33:12",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 245,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19275,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19520
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:28.985180569Z",
   "translation": "他们从汛的旷野起行,在达普卡安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们起行"
+      "gloss": "他们起行"
     },
     {
       "surface": "ממדבר",
-      "english": "从旷野"
+      "gloss": "从旷野"
     },
     {
       "surface": "סין",
-      "english": "汛"
+      "gloss": "汛"
     },
     {
       "surface": "ויחנו",
-      "english": "他们安营"
+      "gloss": "他们安营"
     },
     {
       "surface": "בדפקה",
-      "english": "在达普卡"
+      "gloss": "在达普卡"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:28.985180569Z",
-  "model": "glm-5.2"
+  ]
 }

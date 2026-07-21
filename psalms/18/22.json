@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 18:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64433,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64705
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:43.530136922Z",
   "translation": "因为我遵守了雅威的道，我没有从我的以罗欣行恶偏离。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמרתי",
-      "english": "我遵守了"
+      "gloss": "我遵守了"
     },
     {
       "surface": "דרכי",
-      "english": "……的道"
+      "gloss": "……的道"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "而我没有"
+      "gloss": "而我没有"
     },
     {
       "surface": "רשעתי",
-      "english": "行恶"
+      "gloss": "行恶"
     },
     {
       "surface": "מאלהי",
-      "english": "从我的以罗欣 ⟨偏离⟩"
+      "gloss": "从我的以罗欣 ⟨偏离⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:43.530136922Z",
-  "model": "glm-5.2"
+  ]
 }

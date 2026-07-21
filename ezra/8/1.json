@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezra 8:1",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46769,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47217
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:55:56.731213985Z",
   "translation": "这些是⟨他们⟩祖宗⟨们⟩的首领，以及与⟨我⟩一同上去的人的家系，⟨就是⟩在亚达薛西王⟨的⟩国度里从巴比伦上来的。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "ראשי",
-      "english": "……的首领"
+      "gloss": "……的首领"
     },
     {
       "surface": "אבתיהם",
-      "english": "他们祖宗⟨们⟩"
+      "gloss": "他们祖宗⟨们⟩"
     },
     {
       "surface": "והתיחשם",
-      "english": "以及他们的家系"
+      "gloss": "以及他们的家系"
     },
     {
       "surface": "העלים",
-      "english": "上来的"
+      "gloss": "上来的"
     },
     {
       "surface": "עמי",
-      "english": "与我一同"
+      "gloss": "与我一同"
     },
     {
       "surface": "במלכות",
-      "english": "在……国度里"
+      "gloss": "在……国度里"
     },
     {
       "surface": "ארתחשסתא",
-      "english": "亚达薛西"
+      "gloss": "亚达薛西"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מבבל",
-      "english": "从巴比伦"
+      "gloss": "从巴比伦"
     }
-  ],
-  "timestamp": "2026-07-20T06:55:56.731213985Z",
-  "model": "glm-5.2"
+  ]
 }

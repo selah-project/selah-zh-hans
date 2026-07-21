@@ -1,41 +1,30 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "deuteronomy 3:15",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18958,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19290
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:29:19.974748320Z",
   "translation": "至于玛吉，我给了他⟨את⟩基列。",
   "tokens": [
     {
       "surface": "וּלְמָכִ֖יר",
-      "english": "至于玛吉，"
+      "gloss": "至于玛吉，"
     },
     {
       "surface": "נָתַ֥תִּי",
-      "english": "我给了他"
+      "gloss": "我给了他"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "基列"
     },
     {
       "surface": "הַ\/גִּלְעָֽד",
-      "english": "基列"
+      "gloss": "基列"
     }
-  ],
-  "timestamp": "2026-07-17T19:29:19.974748320Z",
-  "model": "glm-5.2"
+  ]
 }

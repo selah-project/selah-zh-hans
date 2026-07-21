@@ -1,51 +1,40 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "1-chronicles 1:21",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 219,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58599,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58818
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:30.926251752Z",
   "translation": "和 ⟨את⟩ 哈多兰,和 ⟨את⟩ 乌扎,和 ⟨את⟩ 迪克拉;",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "哈多兰"
     },
     {
       "surface": "הדורם",
-      "english": "哈多兰"
+      "gloss": "哈多兰"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "乌扎"
     },
     {
       "surface": "אוזל",
-      "english": "乌扎"
+      "gloss": "乌扎"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "迪克拉"
     },
     {
       "surface": "דקלה",
-      "english": "迪克拉"
+      "gloss": "迪克拉"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:30.926251752Z",
-  "model": "glm-5.2"
+  ]
 }

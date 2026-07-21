@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 8:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21747,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22326
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:22.382672031Z",
   "translation": "他倚靠自己的房屋，它必不⟨能⟩站住；他抓紧它，它必不⟨能⟩起来。",
   "tokens": [
     {
       "surface": "יִשָּׁעֵן",
-      "english": "他倚靠"
+      "gloss": "他倚靠"
     },
     {
       "surface": "עַל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "בֵּית\/וֹ",
-      "english": "他的房屋"
+      "gloss": "他的房屋"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "而它必不"
+      "gloss": "而它必不"
     },
     {
       "surface": "יַעֲמֹד",
-      "english": "站住"
+      "gloss": "站住"
     },
     {
       "surface": "יַחֲזִיק",
-      "english": "他抓紧"
+      "gloss": "他抓紧"
     },
     {
       "surface": "בּ\/וֹ",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "而它必不"
+      "gloss": "而它必不"
     },
     {
       "surface": "יָקוּם",
-      "english": "起来"
+      "gloss": "起来"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:22.382672031Z",
-  "model": "glm-5.2"
+  ]
 }

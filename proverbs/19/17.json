@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 19:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54440,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54882
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:29.630656892Z",
   "translation": "借给雅威的,⟨是⟩恩待穷乏人的；他的报偿,⟨雅威⟩必偿还给他。",
   "tokens": [
     {
       "surface": "מלוה",
-      "english": "借给……的"
+      "gloss": "借给……的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חונן",
-      "english": "⟨是⟩恩待"
+      "gloss": "⟨是⟩恩待"
     },
     {
       "surface": "דל",
-      "english": "穷乏人的"
+      "gloss": "穷乏人的"
     },
     {
       "surface": "וגמלו",
-      "english": "他的报偿"
+      "gloss": "他的报偿"
     },
     {
       "surface": "ישלם",
-      "english": "必偿还"
+      "gloss": "必偿还"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:29.630656892Z",
-  "model": "glm-5.2"
+  ]
 }

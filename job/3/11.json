@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 3:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21544,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21965
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:57.189192466Z",
   "translation": "为何我没有从母腹中死？从子宫⟨我⟩出来，我就断气？",
   "tokens": [
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "מרחם",
-      "english": "从母腹中"
+      "gloss": "从母腹中"
     },
     {
       "surface": "אמות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "מבטן",
-      "english": "从子宫"
+      "gloss": "从子宫"
     },
     {
       "surface": "יצאתי",
-      "english": "⟨我⟩出来"
+      "gloss": "⟨我⟩出来"
     },
     {
       "surface": "ואגוע",
-      "english": "我就断气"
+      "gloss": "我就断气"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:57.189192466Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "numbers 31:15",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19399,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19728
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:22:23.122085123Z",
   "translation": "摩西对他们说：你们让所有女性都存活了吗？",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אליהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "החייתם",
-      "english": "你们让……存活了吗"
+      "gloss": "你们让……存活了吗"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "נקבה",
-      "english": "女性"
+      "gloss": "女性"
     }
-  ],
-  "timestamp": "2026-07-17T19:22:23.122085123Z",
-  "model": "glm-5.2"
+  ]
 }

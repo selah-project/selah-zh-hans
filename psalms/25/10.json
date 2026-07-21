@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 25:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 483,
-    "prompt_tokens": 64626,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65109
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:43.342652462Z",
   "translation": "雅威所有的道 ⟨都是⟩ 慈爱 ⟨和⟩ 诚实,给那些遵守祂的布瑞特 ⟨和⟩ 埃杜特的人。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "ארחות",
-      "english": "道"
+      "gloss": "道"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חסד",
-      "english": "慈爱"
+      "gloss": "慈爱"
     },
     {
       "surface": "ואמת",
-      "english": "⟨和⟩ 诚实"
+      "gloss": "⟨和⟩ 诚实"
     },
     {
       "surface": "לנצרי",
-      "english": "给那些遵守...的人"
+      "gloss": "给那些遵守...的人"
     },
     {
       "surface": "בריתו",
-      "english": "祂的布瑞特"
+      "gloss": "祂的布瑞特"
     },
     {
       "surface": "ועדתיו",
-      "english": "⟨和⟩ 埃杜特"
+      "gloss": "⟨和⟩ 埃杜特"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:43.342652462Z",
-  "model": "glm-4.5"
+  ]
 }

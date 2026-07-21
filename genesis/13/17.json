@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 13:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22972,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23410
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:29.457961545Z",
   "translation": "起来,在⟨这⟩地中行走,按⟨它⟩的长度和⟨它⟩的宽度,因为我⟨要⟩把⟨它⟩赐给你。",
   "tokens": [
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "התהלך",
-      "english": "在……中行走"
+      "gloss": "在……中行走"
     },
     {
       "surface": "בארץ",
-      "english": "在⟨这⟩地中"
+      "gloss": "在⟨这⟩地中"
     },
     {
       "surface": "לארכה",
-      "english": "按⟨它⟩的长度"
+      "gloss": "按⟨它⟩的长度"
     },
     {
       "surface": "ולרחבה",
-      "english": "和⟨它⟩的宽度"
+      "gloss": "和⟨它⟩的宽度"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לך",
-      "english": "给你"
+      "gloss": "给你"
     },
     {
       "surface": "אתננה",
-      "english": "我⟨要⟩把⟨它⟩赐给"
+      "gloss": "我⟨要⟩把⟨它⟩赐给"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:29.457961545Z",
-  "model": "glm-5.2"
+  ]
 }

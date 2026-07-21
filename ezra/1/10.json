@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezra 1:10",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46909,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47415
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:36:54.195663216Z",
   "translation": "金碗三十，银碗次等⟨的⟩四百一十，其他器具一千。",
   "tokens": [
     {
       "surface": "כפורי",
-      "english": "碗"
+      "gloss": "碗"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "שלשים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "כפורי",
-      "english": "碗"
+      "gloss": "碗"
     },
     {
       "surface": "כסף",
-      "english": "银"
+      "gloss": "银"
     },
     {
       "surface": "משנים",
-      "english": "次等"
+      "gloss": "次等"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ועשרה",
-      "english": "一十"
+      "gloss": "一十"
     },
     {
       "surface": "כלים",
-      "english": "器具"
+      "gloss": "器具"
     },
     {
       "surface": "אחרים",
-      "english": "其他"
+      "gloss": "其他"
     },
     {
       "surface": "אלף",
-      "english": "一千"
+      "gloss": "一千"
     }
-  ],
-  "timestamp": "2026-07-18T01:36:54.195663216Z",
-  "model": "glm-5.2"
+  ]
 }

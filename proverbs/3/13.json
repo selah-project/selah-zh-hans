@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "proverbs 3:13",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54402,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54844
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:34.581190167Z",
   "translation": "其快乐属于⟨那⟩找到智慧的亚当 (人), ⟨那⟩引出理解力的亚当 (人)。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "其快乐属于"
+      "gloss": "其快乐属于"
     },
     {
       "surface": "אדם",
-      "english": "⟨那⟩……的亚当 (人)"
+      "gloss": "⟨那⟩……的亚当 (人)"
     },
     {
       "surface": "מצא",
-      "english": "找到"
+      "gloss": "找到"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "ואדם",
-      "english": "以及⟨那⟩……的亚当 (人)"
+      "gloss": "以及⟨那⟩……的亚当 (人)"
     },
     {
       "surface": "יפיק",
-      "english": "引出"
+      "gloss": "引出"
     },
     {
       "surface": "תבונה",
-      "english": "理解力"
+      "gloss": "理解力"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:34.581190167Z",
-  "model": "glm-5.2"
+  ]
 }

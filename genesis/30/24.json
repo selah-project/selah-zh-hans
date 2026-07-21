@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "genesis 30:24",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23112,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23520
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:01.249656922Z",
   "translation": "她⟨便⟩呼求⟨את⟩他的名字约瑟,说:雅威将加给我另一个儿子。",
   "tokens": [
     {
       "surface": "ותקרא",
-      "english": "她⟨便⟩呼求"
+      "gloss": "她⟨便⟩呼求"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的名字"
     },
     {
       "surface": "שמו",
-      "english": "他的名字"
+      "gloss": "他的名字"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יסף",
-      "english": "加给"
+      "gloss": "加给"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "אחר",
-      "english": "另一个"
+      "gloss": "另一个"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:01.249656922Z",
-  "model": "glm-5.2"
+  ]
 }

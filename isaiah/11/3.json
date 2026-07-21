@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 11:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 574,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20998,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21572
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:09.269828629Z",
   "translation": "他的气息是雅威的敬畏,他必不凭他眼睛的看见⟨来⟩判断,也不凭他耳朵的听见⟨来⟩责备;",
   "tokens": [
     {
       "surface": "וַ\/הֲרִיח֖\/וֹ",
-      "english": "他的气息是"
+      "gloss": "他的气息是"
     },
     {
       "surface": "בְּ\/יִרְאַ֣ת",
-      "english": "……的敬畏"
+      "gloss": "……的敬畏"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "english": "他不"
+      "gloss": "他不"
     },
     {
       "surface": "לְ\/מַרְאֵ֤ה",
-      "english": "凭……的看见"
+      "gloss": "凭……的看见"
     },
     {
       "surface": "עֵינָי\/ו֙",
-      "english": "他眼睛"
+      "gloss": "他眼睛"
     },
     {
       "surface": "יִשְׁפּ֔וֹט",
-      "english": "判断"
+      "gloss": "判断"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "לְ\/מִשְׁמַ֥ע",
-      "english": "凭……的听见"
+      "gloss": "凭……的听见"
     },
     {
       "surface": "אָזְנָי\/ו֖",
-      "english": "他耳朵"
+      "gloss": "他耳朵"
     },
     {
       "surface": "יוֹכִֽיחַ",
-      "english": "责备"
+      "gloss": "责备"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:09.269828629Z",
-  "model": "glm-5.2"
+  ]
 }

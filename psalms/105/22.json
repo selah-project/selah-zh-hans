@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 105:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64224,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64612
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:42.665819808Z",
   "translation": "为要束缚他的官员 ⟨用⟩他的נפש (nephesh),至于他的长老,他使他们有智慧。",
   "tokens": [
     {
       "surface": "לאסר",
-      "english": "为要束缚"
+      "gloss": "为要束缚"
     },
     {
       "surface": "שריו",
-      "english": "他的官员"
+      "gloss": "他的官员"
     },
     {
       "surface": "בנפשו",
-      "english": "⟨用⟩他的נפש (nephesh)"
+      "gloss": "⟨用⟩他的נפש (nephesh)"
     },
     {
       "surface": "וזקניו",
-      "english": "至于他的长老"
+      "gloss": "至于他的长老"
     },
     {
       "surface": "יחכם",
-      "english": "他使他们有智慧"
+      "gloss": "他使他们有智慧"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:42.665819808Z",
-  "model": "glm-5.2"
+  ]
 }

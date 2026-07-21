@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "isaiah 40:30",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20486,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 20851
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:32.081365933Z",
   "translation": "少年人也会疲乏困倦,年轻人也必踉跄绊跌;",
   "tokens": [
     {
       "surface": "וְ\/יִֽעֲפ֥וּ",
-      "english": "也会疲乏"
+      "gloss": "也会疲乏"
     },
     {
       "surface": "נְעָרִ֖ים",
-      "english": "少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "וְ\/יִגָ֑עוּ",
-      "english": "困倦"
+      "gloss": "困倦"
     },
     {
       "surface": "וּ\/בַחוּרִ֖ים",
-      "english": "年轻人"
+      "gloss": "年轻人"
     },
     {
       "surface": "כָּשׁ֥וֹל",
-      "english": "踉跄"
+      "gloss": "踉跄"
     },
     {
       "surface": "יִכָּשֵֽׁלוּ",
-      "english": "绊跌"
+      "gloss": "绊跌"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:32.081365933Z",
-  "model": "glm-5.2"
+  ]
 }

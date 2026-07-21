@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 34:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23540,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24040
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:36.871117944Z",
   "translation": "我们将我们的女儿给⟨给你们⟩,⟨את⟩你们的女儿我们为自己娶取,我们将与⟨你们⟩同住,我们将成为一个民族。",
   "tokens": [
     {
       "surface": "ונתנו",
-      "english": "我们将……给"
+      "gloss": "我们将……给"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们的女儿"
     },
     {
       "surface": "בנתינו",
-      "english": "我们的女儿"
+      "gloss": "我们的女儿"
     },
     {
       "surface": "לכם",
-      "english": "给你们"
+      "gloss": "给你们"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的女儿"
     },
     {
       "surface": "בנתיכם",
-      "english": "你们的女儿"
+      "gloss": "你们的女儿"
     },
     {
       "surface": "נקח",
-      "english": "我们为自己娶取"
+      "gloss": "我们为自己娶取"
     },
     {
       "surface": "לנו",
-      "english": "为我们自己"
+      "gloss": "为我们自己"
     },
     {
       "surface": "וישבנו",
-      "english": "我们将……同住"
+      "gloss": "我们将……同住"
     },
     {
       "surface": "אתכם",
-      "english": "与你们"
+      "gloss": "与你们"
     },
     {
       "surface": "והיינו",
-      "english": "我们将成为"
+      "gloss": "我们将成为"
     },
     {
       "surface": "לעם",
-      "english": "一个民族"
+      "gloss": "一个民族"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:36.871117944Z",
-  "model": "glm-5.2"
+  ]
 }

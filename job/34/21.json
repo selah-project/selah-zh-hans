@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "job 34:21",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21675,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22070
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:53.621125797Z",
   "translation": "因为他的眼睛 ⟨在⟩ 人的道路上,他观看他一切的步伐。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עיניו",
-      "english": "他的眼睛"
+      "gloss": "他的眼睛"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……上"
+      "gloss": "⟨在⟩……上"
     },
     {
       "surface": "דרכי",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "וכל",
-      "english": "和他一切"
+      "gloss": "和他一切"
     },
     {
       "surface": "צעדיו",
-      "english": "他的步伐"
+      "gloss": "他的步伐"
     },
     {
       "surface": "יראה",
-      "english": "他观看"
+      "gloss": "他观看"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:53.621125797Z",
-  "model": "glm-5.2"
+  ]
 }

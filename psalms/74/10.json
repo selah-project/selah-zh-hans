@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 74:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64619,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:58.787160868Z",
   "translation": "以罗欣啊,要到多久? adversary ⟨将⟩亵渎,敌人要藐视你的名到永远吗?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מתי",
-      "english": "多久"
+      "gloss": "多久"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "יחרף",
-      "english": "⟨将⟩亵渎"
+      "gloss": "⟨将⟩亵渎"
     },
     {
       "surface": "צר",
-      "english": "狭窄者\/对头"
+      "gloss": "狭窄者\/对头"
     },
     {
       "surface": "ינאץ",
-      "english": "要藐视"
+      "gloss": "要藐视"
     },
     {
       "surface": "אויב",
-      "english": "敌人"
+      "gloss": "敌人"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "לנצח",
-      "english": "到永远"
+      "gloss": "到永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:58.787160868Z",
-  "model": "glm-5.2"
+  ]
 }

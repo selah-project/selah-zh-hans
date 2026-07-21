@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-chronicles 8:7",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59020,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59525
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:44.500737231Z",
   "translation": "以及拿哈们、和阿希雅、及革拉;⟨他⟩就是⟨那⟩将他们迁徙者。他生了⟨את⟩乌撒和⟨את⟩阿希忽。",
   "tokens": [
     {
       "surface": "ונעמן",
-      "english": "以及拿哈们"
+      "gloss": "以及拿哈们"
     },
     {
       "surface": "ואחיה",
-      "english": "和阿希雅"
+      "gloss": "和阿希雅"
     },
     {
       "surface": "וגרא",
-      "english": "及革拉"
+      "gloss": "及革拉"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "הגלם",
-      "english": "就是⟨那⟩将他们迁徙者"
+      "gloss": "就是⟨那⟩将他们迁徙者"
     },
     {
       "surface": "והוליד",
-      "english": "他生了"
+      "gloss": "他生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "乌撒"
     },
     {
       "surface": "עזא",
-      "english": "乌撒"
+      "gloss": "乌撒"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "阿希忽"
     },
     {
       "surface": "אחיחד",
-      "english": "阿希忽"
+      "gloss": "阿希忽"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:44.500737231Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 83:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64420,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64926
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:48.254118861Z",
   "translation": "求你向他们行，如同⟨向⟩米甸，如同⟨向⟩西西拉，如同⟨向⟩耶宾，在基顺溪旁；",
   "tokens": [
     {
       "surface": "עֲשֵֽׂה",
-      "english": "求你向他们行"
+      "gloss": "求你向他们行"
     },
     {
       "surface": "לָ\/הֶ֥ם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "כְּ\/מִדְיָ֑ן",
-      "english": "如同⟨向⟩米甸"
+      "gloss": "如同⟨向⟩米甸"
     },
     {
       "surface": "כְּֽ\/סִֽיסְרָ֥א",
-      "english": "如同⟨向⟩西西拉"
+      "gloss": "如同⟨向⟩西西拉"
     },
     {
       "surface": "כְ֝\/יָבִ֗ין",
-      "english": "如同⟨向⟩耶宾"
+      "gloss": "如同⟨向⟩耶宾"
     },
     {
       "surface": "בְּ\/נַ֣חַל",
-      "english": "在溪旁"
+      "gloss": "在溪旁"
     },
     {
       "surface": "קִישֽׁוֹן",
-      "english": "基顺"
+      "gloss": "基顺"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:48.254118861Z",
-  "model": "glm-5.2"
+  ]
 }

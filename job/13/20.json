@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 13:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21692,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22074
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:33.703190625Z",
   "translation": "唯独两件事不要向我行, ⟨那时⟩我就不从你面前隐藏自己。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "唯独"
+      "gloss": "唯独"
     },
     {
       "surface": "שתים",
-      "english": "两件事"
+      "gloss": "两件事"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעש",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "עמדי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "אז",
-      "english": "⟨那时⟩"
+      "gloss": "⟨那时⟩"
     },
     {
       "surface": "מפניך",
-      "english": "从你面前"
+      "gloss": "从你面前"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אסתר",
-      "english": "隐藏自己"
+      "gloss": "隐藏自己"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:33.703190625Z",
-  "model": "glm-5.2"
+  ]
 }

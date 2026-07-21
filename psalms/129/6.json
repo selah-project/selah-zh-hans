@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 129:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64350,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64899
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:36.446220486Z",
   "translation": "愿他们像屋顶上的草，就是那在长出以先便枯干⟨的草⟩。",
   "tokens": [
     {
       "surface": "יִ֭הְיוּ",
-      "english": "愿他们像"
+      "gloss": "愿他们像"
     },
     {
       "surface": "כַּ\/חֲצִ֣יר",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "גַּגּ֑וֹת",
-      "english": "屋顶上的"
+      "gloss": "屋顶上的"
     },
     {
       "surface": "שֶׁ\/קַּדְמַ֖ת",
-      "english": "就是那在长出以先"
+      "gloss": "就是那在长出以先"
     },
     {
       "surface": "שָׁלַ֣ף",
-      "english": "⟨被拔出⟩"
+      "gloss": "⟨被拔出⟩"
     },
     {
       "surface": "יָבֵֽשׁ",
-      "english": "便枯干的"
+      "gloss": "便枯干的"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:36.446220486Z",
-  "model": "glm-5.2"
+  ]
 }

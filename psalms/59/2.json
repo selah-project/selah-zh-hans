@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 59:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64364,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64692
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:15.836109681Z",
   "translation": "我的以罗欣啊，从我的仇敌中解救我；从那些起来攻击我的人中，⟨你⟩ 将我安置在高处。",
   "tokens": [
     {
       "surface": "הצילני",
-      "english": "解救我"
+      "gloss": "解救我"
     },
     {
       "surface": "מאיבי",
-      "english": "从我的仇敌中"
+      "gloss": "从我的仇敌中"
     },
     {
       "surface": "אלהי",
-      "english": "我的以罗欣啊"
+      "gloss": "我的以罗欣啊"
     },
     {
       "surface": "ממתקוממי",
-      "english": "从那些起来攻击我的人中"
+      "gloss": "从那些起来攻击我的人中"
     },
     {
       "surface": "תשגבני",
-      "english": "⟨你⟩ 将我安置在高处"
+      "gloss": "⟨你⟩ 将我安置在高处"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:15.836109681Z",
-  "model": "glm-5.2"
+  ]
 }

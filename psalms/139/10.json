@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 139:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64380,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64770
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:00.606018420Z",
   "translation": "即使在那里,你的手也必引导我,你的右手也必握住我。",
   "tokens": [
     {
       "surface": "גַּם",
-      "english": "也 \/ 即使"
+      "gloss": "也 \/ 即使"
     },
     {
       "surface": "שָׁ֭ם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "יָדְ\/ךָ֣",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "תַנְחֵ֑\/נִי",
-      "english": "必引导我"
+      "gloss": "必引导我"
     },
     {
       "surface": "וְֽ\/תֹאחֲזֵ֥\/נִי",
-      "english": "也必握住我"
+      "gloss": "也必握住我"
     },
     {
       "surface": "יְמִינֶֽ\/ךָ",
-      "english": "你的右手"
+      "gloss": "你的右手"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:00.606018420Z",
-  "model": "glm-5.2"
+  ]
 }

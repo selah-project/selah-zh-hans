@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "job 36:32",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21583,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22004
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:50.312194866Z",
   "translation": "他用双手遮蔽 ⟨את⟩ 光，并命令它击中目标。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "כפים",
-      "english": "双手"
+      "gloss": "双手"
     },
     {
       "surface": "כסה",
-      "english": "遮蔽"
+      "gloss": "遮蔽"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "ויצו",
-      "english": "并命令它"
+      "gloss": "并命令它"
     },
     {
       "surface": "עליה",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "במפגיע",
-      "english": "击中目标"
+      "gloss": "击中目标"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:50.312194866Z",
-  "model": "glm-5.2"
+  ]
 }

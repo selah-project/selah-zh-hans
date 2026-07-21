@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 63:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64835
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:43.028155878Z",
   "translation": "如此,在圣所中我凝视了你,为要观看你的大能和你的荣耀。",
   "tokens": [
     {
       "surface": "כֵּן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "בַּ\/קֹּדֶשׁ",
-      "english": "在圣所中"
+      "gloss": "在圣所中"
     },
     {
       "surface": "חֲזִיתִי\/ךָ",
-      "english": "我凝视了你"
+      "gloss": "我凝视了你"
     },
     {
       "surface": "לִ\/רְאוֹת",
-      "english": "为要观看"
+      "gloss": "为要观看"
     },
     {
       "surface": "עֻזְּ\/ךָ",
-      "english": "你的大能"
+      "gloss": "你的大能"
     },
     {
       "surface": "וּ\/כְבוֹדֶ\/ךָ",
-      "english": "和你的荣耀"
+      "gloss": "和你的荣耀"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:43.028155878Z",
-  "model": "glm-5.2"
+  ]
 }

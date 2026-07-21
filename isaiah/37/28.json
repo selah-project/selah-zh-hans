@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "isaiah 37:28",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20737,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21092
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:51:56.799858390Z",
   "translation": "你的坐下和你出去、你进来,我都已知道;以及⟨את⟩你对我的暴怒。",
   "tokens": [
     {
       "surface": "ושבתך",
-      "english": "你的坐下"
+      "gloss": "你的坐下"
     },
     {
       "surface": "וצאתך",
-      "english": "和你出去"
+      "gloss": "和你出去"
     },
     {
       "surface": "ובואך",
-      "english": "你进来"
+      "gloss": "你进来"
     },
     {
       "surface": "ידעתי",
-      "english": "我都已知道"
+      "gloss": "我都已知道"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "你对我的暴怒"
     },
     {
       "surface": "התרגזך",
-      "english": "你……的暴怒"
+      "gloss": "你……的暴怒"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     }
-  ],
-  "timestamp": "2026-07-17T21:51:56.799858390Z",
-  "model": "glm-5.2"
+  ]
 }

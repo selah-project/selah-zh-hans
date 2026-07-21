@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "jeremiah 6:25",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19266,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19713
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:09:57.758414003Z",
   "translation": "不要往田里去,也不要在路上走,因为仇敌的刀剑,四面环绕着恐惧。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תצאי",
-      "english": "往……去"
+      "gloss": "往……去"
     },
     {
       "surface": "השדה",
-      "english": "田里"
+      "gloss": "田里"
     },
     {
       "surface": "ובדרך",
-      "english": "也不要在路上"
+      "gloss": "也不要在路上"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תלכי",
-      "english": "走"
+      "gloss": "走"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חרב",
-      "english": "刀剑"
+      "gloss": "刀剑"
     },
     {
       "surface": "לאיב",
-      "english": "仇敌的"
+      "gloss": "仇敌的"
     },
     {
       "surface": "מגור",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "מסביב",
-      "english": "四面环绕着"
+      "gloss": "四面环绕着"
     }
-  ],
-  "timestamp": "2026-07-17T22:09:57.758414003Z",
-  "model": "glm-5.2"
+  ]
 }

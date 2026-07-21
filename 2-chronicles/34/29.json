@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "2-chronicles 34:29",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59772,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60072
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:35:13.464896119Z",
   "translation": "王就差遣人,召集了犹大和耶路撒冷的众长老。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "就差遣"
+      "gloss": "就差遣"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ויאסף",
-      "english": "并召集了"
+      "gloss": "并召集了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "犹大和耶路撒冷的众长老"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "זקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וירושלם",
-      "english": "和耶路撒冷"
+      "gloss": "和耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T02:35:13.464896119Z",
-  "model": "glm-5.2"
+  ]
 }

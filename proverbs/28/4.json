@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 28:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54494,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54954
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:48.081644482Z",
   "translation": "那些离弃妥拉的人，赞美恶人；但那些遵守妥拉的人，⟨与他们⟩相争。",
   "tokens": [
     {
       "surface": "עֹזְבֵ֣י",
-      "english": "那些离弃……的人"
+      "gloss": "那些离弃……的人"
     },
     {
       "surface": "ת֭וֹרָה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "יְהַֽלְל֣וּ",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "רָשָׁ֑ע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "וְ\/שֹׁמְרֵ֥י",
-      "english": "但那些遵守……的人"
+      "gloss": "但那些遵守……的人"
     },
     {
       "surface": "ת֝וֹרָ֗ה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "יִתְגָּ֥רוּ",
-      "english": "相争"
+      "gloss": "相争"
     },
     {
       "surface": "בָֽ\/ם",
-      "english": "⟨与他们⟩"
+      "gloss": "⟨与他们⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:48.081644482Z",
-  "model": "glm-5.2"
+  ]
 }

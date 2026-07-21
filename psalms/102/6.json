@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 102:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64266,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64615
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:57.155268207Z",
   "translation": "因我叹息的声音，我的骨头紧贴我的肉身。",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "因……的声音"
+      "gloss": "因……的声音"
     },
     {
       "surface": "אנחתי",
-      "english": "我叹息"
+      "gloss": "我叹息"
     },
     {
       "surface": "דבקה",
-      "english": "紧贴"
+      "gloss": "紧贴"
     },
     {
       "surface": "עצמי",
-      "english": "我的骨头"
+      "gloss": "我的骨头"
     },
     {
       "surface": "לבשרי",
-      "english": "我的肉身"
+      "gloss": "我的肉身"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:57.155268207Z",
-  "model": "glm-5.2"
+  ]
 }

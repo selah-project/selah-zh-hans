@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "proverbs 31:31",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54359,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54700
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:40.300817947Z",
   "translation": "你们要将她双手的果子给她，愿她的作为在城门处赞美她！",
   "tokens": [
     {
       "surface": "תנו",
-      "english": "你们要将……给"
+      "gloss": "你们要将……给"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "מפרי",
-      "english": "……的果子"
+      "gloss": "……的果子"
     },
     {
       "surface": "ידיה",
-      "english": "她双手"
+      "gloss": "她双手"
     },
     {
       "surface": "ויהללוה",
-      "english": "愿……赞美她"
+      "gloss": "愿……赞美她"
     },
     {
       "surface": "בשערים",
-      "english": "在城门处"
+      "gloss": "在城门处"
     },
     {
       "surface": "מעשיה",
-      "english": "她的作为"
+      "gloss": "她的作为"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:40.300817947Z",
-  "model": "glm-5.2"
+  ]
 }

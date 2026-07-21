@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 36:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18599,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18966
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:36:48.990811653Z",
   "translation": "他造了五十个铜扣环，用来连接会幕，使它成为一体。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "קרסי",
-      "english": "扣环"
+      "gloss": "扣环"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "חמשים",
-      "english": "五十"
+      "gloss": "五十"
     },
     {
       "surface": "לחבר",
-      "english": "用来连接"
+      "gloss": "用来连接"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "האהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "להית",
-      "english": "使它成为"
+      "gloss": "使它成为"
     },
     {
       "surface": "אחד",
-      "english": "一体"
+      "gloss": "一体"
     }
-  ],
-  "timestamp": "2026-07-17T18:36:48.990811653Z",
-  "model": "glm-5.2"
+  ]
 }

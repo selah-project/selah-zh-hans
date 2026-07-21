@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 77:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64518,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65061
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:12.954578544Z",
   "translation": "在海中 ⟨是⟩ 你的道路,你的路径在许多水中,而你的足迹不 ⟨被⟩ 知道。",
   "tokens": [
     {
       "surface": "בַּ\/יָּ֤ם",
-      "english": "在海中"
+      "gloss": "在海中"
     },
     {
       "surface": "דַּרְכֶּ֗\/ךָ",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "ו\/שבילי\/ך",
-      "english": "和你的路径"
+      "gloss": "和你的路径"
     },
     {
       "surface": "בְּ\/מַ֣יִם",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "רַבִּ֑ים",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "וְ֝\/עִקְּבוֹתֶ֗י\/ךָ",
-      "english": "而你的足迹"
+      "gloss": "而你的足迹"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נֹדָֽעוּ",
-      "english": "⟨被⟩ 知道"
+      "gloss": "⟨被⟩ 知道"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:12.954578544Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joshua 15:15",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18062,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18442
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:59:38.739590761Z",
   "translation": "他从那里上去,到底璧的居民那里;底璧的名字从前是⟨⟩基列·西弗。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "他上去"
+      "gloss": "他上去"
     },
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "ישבי",
-      "english": "……的居民"
+      "gloss": "……的居民"
     },
     {
       "surface": "דבר",
-      "english": "底璧"
+      "gloss": "底璧"
     },
     {
       "surface": "ושם",
-      "english": "而……的名字"
+      "gloss": "而……的名字"
     },
     {
       "surface": "דבר",
-      "english": "底璧"
+      "gloss": "底璧"
     },
     {
       "surface": "לפנים",
-      "english": "从前"
+      "gloss": "从前"
     },
     {
       "surface": "קרית",
-      "english": "基列"
+      "gloss": "基列"
     },
     {
       "surface": "ספר",
-      "english": "·西弗"
+      "gloss": "·西弗"
     }
-  ],
-  "timestamp": "2026-07-17T19:59:38.739590761Z",
-  "model": "glm-5.2"
+  ]
 }

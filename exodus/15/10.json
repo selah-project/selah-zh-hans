@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 15:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18528,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19077
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:19.949862072Z",
   "translation": "你用你的鲁阿吹气,海就覆盖了他们;他们如铅沉入大能的水中。",
   "tokens": [
     {
       "surface": "נָשַׁ֥פְתָּ",
-      "english": "你吹气"
+      "gloss": "你吹气"
     },
     {
       "surface": "בְ\/רוּחֲ\/ךָ֖",
-      "english": "用你的鲁阿"
+      "gloss": "用你的鲁阿"
     },
     {
       "surface": "כִּסָּ֣\/מוֹ",
-      "english": "覆盖了他们"
+      "gloss": "覆盖了他们"
     },
     {
       "surface": "יָ֑ם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "צָֽלֲלוּ֙",
-      "english": "他们沉入"
+      "gloss": "他们沉入"
     },
     {
       "surface": "כַּֽ\/עוֹפֶ֔רֶת",
-      "english": "如铅"
+      "gloss": "如铅"
     },
     {
       "surface": "בְּ\/מַ֖יִם",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "אַדִּירִֽים",
-      "english": "大能的"
+      "gloss": "大能的"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:19.949862072Z",
-  "model": "glm-5.2"
+  ]
 }

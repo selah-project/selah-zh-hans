@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 14:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54379,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54730
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:16.392906494Z",
   "translation": "智慧出于女人,建造了她的家;愚妄却亲手将其拆毁。",
   "tokens": [
     {
       "surface": "חכמות",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "נשים",
-      "english": "出于女人"
+      "gloss": "出于女人"
     },
     {
       "surface": "בנתה",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "ביתה",
-      "english": "她的家"
+      "gloss": "她的家"
     },
     {
       "surface": "ואולת",
-      "english": "愚妄"
+      "gloss": "愚妄"
     },
     {
       "surface": "בידיה",
-      "english": "亲手"
+      "gloss": "亲手"
     },
     {
       "surface": "תהרסנו",
-      "english": "将其拆毁"
+      "gloss": "将其拆毁"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:16.392906494Z",
-  "model": "glm-5.2"
+  ]
 }

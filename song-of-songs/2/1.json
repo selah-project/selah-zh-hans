@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "song-of-songs 2:1",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21697,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22121
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:56.973640497Z",
   "translation": "我是沙仑的חֲבַצֶּלֶת，是深谷中的舒善娜。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "חבצלת",
-      "english": "חֲבַצֶּלֶת (平原之花)"
+      "gloss": "חֲבַצֶּלֶת (平原之花)"
     },
     {
       "surface": "השרון",
-      "english": "沙仑的"
+      "gloss": "沙仑的"
     },
     {
       "surface": "שושנת",
-      "english": "舒善娜 (百合\/玫瑰)"
+      "gloss": "舒善娜 (百合\/玫瑰)"
     },
     {
       "surface": "העמקים",
-      "english": "深谷中的"
+      "gloss": "深谷中的"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:56.973640497Z",
-  "model": "glm-5.2"
+  ]
 }

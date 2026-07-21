@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 28:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21475,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21834
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:19.813895218Z",
   "translation": "铁从尘土中被取出,וְ\/אֶבֶן (石)被熔铸出铜。",
   "tokens": [
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "מעפר",
-      "english": "从尘土"
+      "gloss": "从尘土"
     },
     {
       "surface": "יקח",
-      "english": "被取出"
+      "gloss": "被取出"
     },
     {
       "surface": "ואבן",
-      "english": "而石头"
+      "gloss": "而石头"
     },
     {
       "surface": "יצוק",
-      "english": "被倾倒熔铸"
+      "gloss": "被倾倒熔铸"
     },
     {
       "surface": "נחושה",
-      "english": "铜"
+      "gloss": "铜"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:19.813895218Z",
-  "model": "glm-5.2"
+  ]
 }

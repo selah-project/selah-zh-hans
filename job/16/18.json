@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 16:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21682,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22092
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:16.323963384Z",
   "translation": "地啊,不要遮盖我的血,让我的呼求⟨不⟩⟨有⟩去处!",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "地啊"
+      "gloss": "地啊"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תכסי",
-      "english": "遮盖"
+      "gloss": "遮盖"
     },
     {
       "surface": "דמי",
-      "english": "我的血"
+      "gloss": "我的血"
     },
     {
       "surface": "ואל",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "יהי",
-      "english": "⟨有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "מקום",
-      "english": "去处"
+      "gloss": "去处"
     },
     {
       "surface": "לזעקתי",
-      "english": "给(止息)我的呼求"
+      "gloss": "给(止息)我的呼求"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:16.323963384Z",
-  "model": "glm-5.2"
+  ]
 }

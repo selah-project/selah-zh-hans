@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 5:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64940,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65555
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:42:32.131347890Z",
   "translation": "以罗欣啊,求你定他们为有罪!愿他们因自己的计谋而仆倒;因他们过犯众多,求你将他们逐出——因为他们向你背叛了。",
   "tokens": [
     {
       "surface": "האשימם",
-      "english": "求你定他们为有罪"
+      "gloss": "求你定他们为有罪"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "יפלו",
-      "english": "愿他们仆倒"
+      "gloss": "愿他们仆倒"
     },
     {
       "surface": "ממעצותיהם",
-      "english": "因他们的计谋"
+      "gloss": "因他们的计谋"
     },
     {
       "surface": "ברב",
-      "english": "因……众多"
+      "gloss": "因……众多"
     },
     {
       "surface": "פשעיהם",
-      "english": "他们的过犯"
+      "gloss": "他们的过犯"
     },
     {
       "surface": "הדיחמו",
-      "english": "求你将他们逐出"
+      "gloss": "求你将他们逐出"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מרו",
-      "english": "他们背叛了"
+      "gloss": "他们背叛了"
     },
     {
       "surface": "בך",
-      "english": "向你"
+      "gloss": "向你"
     }
-  ],
-  "timestamp": "2026-07-20T06:42:32.131347890Z",
-  "model": "glm-5.2"
+  ]
 }

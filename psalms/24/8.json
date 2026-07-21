@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 24:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64737,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65149
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:57.719300301Z",
   "translation": "谁是⟨这位⟩荣耀的王？是雅威，强有力的大能者，雅威，争战中的大能者。",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "זה",
-      "english": "⟨这位⟩"
+      "gloss": "⟨这位⟩"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הכבוד",
-      "english": "荣耀的"
+      "gloss": "荣耀的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עזוז",
-      "english": "强有力的"
+      "gloss": "强有力的"
     },
     {
       "surface": "וגבור",
-      "english": "大能者"
+      "gloss": "大能者"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "גבור",
-      "english": "大能者"
+      "gloss": "大能者"
     },
     {
       "surface": "מלחמה",
-      "english": "争战中的"
+      "gloss": "争战中的"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:57.719300301Z",
-  "model": "glm-5.2"
+  ]
 }

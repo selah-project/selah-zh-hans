@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 116,
   "ref": "psalms 119:116",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64369,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64850
-  },
+  "verse": 116,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:10.138808330Z",
   "translation": "求你支撑我,照你的*imrat*之*话*,我⟨便⟩存活;不要让我因我的指望而蒙羞。",
   "tokens": [
     {
       "surface": "סָמְכֵ֣\/נִי",
-      "english": "求你支撑我"
+      "gloss": "求你支撑我"
     },
     {
       "surface": "כְ\/אִמְרָתְ\/ךָ֣",
-      "english": "照你的*imrat*之*话*"
+      "gloss": "照你的*imrat*之*话*"
     },
     {
       "surface": "וְ\/אֶֽחְיֶ֑ה",
-      "english": "我⟨便⟩存活"
+      "gloss": "我⟨便⟩存活"
     },
     {
       "surface": "וְ\/אַל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תְּ֝בִישֵׁ֗\/נִי",
-      "english": "让我蒙羞"
+      "gloss": "让我蒙羞"
     },
     {
       "surface": "מִ\/שִּׂבְרִֽ\/י",
-      "english": "因我的指望"
+      "gloss": "因我的指望"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:10.138808330Z",
-  "model": "glm-5.2"
+  ]
 }

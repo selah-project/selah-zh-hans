@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 67,
   "ref": "psalms 119:67",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64385,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64856
-  },
+  "verse": 67,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:28.104867561Z",
   "translation": "在我被苦待以先,我 ⟨是⟩ 迷途者;而现在,⟨את⟩ 你的话语我遵守了。",
   "tokens": [
     {
       "surface": "טרם",
-      "english": "在……以先"
+      "gloss": "在……以先"
     },
     {
       "surface": "אענה",
-      "english": "我被苦待"
+      "gloss": "我被苦待"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "שגג",
-      "english": "⟨是⟩ 迷途者"
+      "gloss": "⟨是⟩ 迷途者"
     },
     {
       "surface": "ועתה",
-      "english": "而现在"
+      "gloss": "而现在"
     },
     {
       "surface": "אמרתך",
-      "english": "你的话语"
+      "gloss": "你的话语"
     },
     {
       "surface": "שמרתי",
-      "english": "我遵守了"
+      "gloss": "我遵守了"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:28.104867561Z",
-  "model": "glm-5.2"
+  ]
 }

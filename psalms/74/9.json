@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 74:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64797,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65306
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:09.421855845Z",
   "translation": "我们的记号,我们不再看见;没有先知了, ⟨וְ\/לֹא⟩ ⟨אֵת⟩\/我们中间有知道的—— ⟨直到⟩ 何时。",
   "tokens": [
     {
       "surface": "אֽוֹתֹתֵ֗י\/נוּ",
-      "english": "我们的记号"
+      "gloss": "我们的记号"
     },
     {
       "surface": "לֹ֥א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "רָ֫אִ֥ינוּ",
-      "english": "我们看见"
+      "gloss": "我们看见"
     },
     {
       "surface": "אֵֽין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "ע֥וֹד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "נָבִ֑יא",
-      "english": "先知"
+      "gloss": "先知"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "אִ֝תָּ֗\/נוּ",
-      "english": "我们中间"
+      "gloss": "我们中间"
     },
     {
       "surface": "יֹדֵ֥עַ",
-      "english": "知道的"
+      "gloss": "知道的"
     },
     {
       "surface": "עַד",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "מָֽה",
-      "english": "何时"
+      "gloss": "何时"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:09.421855845Z",
-  "model": "glm-5.2"
+  ]
 }

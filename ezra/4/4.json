@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezra 4:4",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46806,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47356
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:38:30.286235511Z",
   "translation": "那地的百姓松懈了犹大百姓的手，並使他們灰心，⟨不讓他們⟩建造。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "於是"
+      "gloss": "於是"
     },
     {
       "surface": "עם",
-      "english": "……的百姓"
+      "gloss": "……的百姓"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "מרפים",
-      "english": "鬆懈了"
+      "gloss": "鬆懈了"
     },
     {
       "surface": "ידי",
-      "english": "……的手"
+      "gloss": "……的手"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "יהודה",
-      "english": "猶大"
+      "gloss": "猶大"
     },
     {
       "surface": "ומבלהים",
-      "english": "並使他們灰心"
+      "gloss": "並使他們灰心"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
       "surface": "לבנות",
-      "english": "去建造"
+      "gloss": "去建造"
     }
-  ],
-  "timestamp": "2026-07-18T01:38:30.286235511Z",
-  "model": "glm-5.2"
+  ]
 }

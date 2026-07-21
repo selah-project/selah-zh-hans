@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "joshua 19:21",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17779,
-    "prompt_tokens_details": {
-      "cached_tokens": 17728
-    },
-    "total_tokens": 18117
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:29:47.524049215Z",
   "translation": "还有拉默特、隐-加宁、隐-哈大和伯-帕采茨；",
   "tokens": [
     {
       "surface": "וְ\/רֶ֧מֶת",
-      "english": "还有拉默特"
+      "gloss": "还有拉默特"
     },
     {
       "surface": "וְ\/עֵין",
-      "english": "隐"
+      "gloss": "隐"
     },
     {
       "surface": "גַּנִּ֛ים",
-      "english": "-加宁"
+      "gloss": "-加宁"
     },
     {
       "surface": "וְ\/עֵ֥ין",
-      "english": "隐"
+      "gloss": "隐"
     },
     {
       "surface": "חַדָּ֖ה",
-      "english": "-哈大"
+      "gloss": "-哈大"
     },
     {
       "surface": "וּ\/בֵ֥ית",
-      "english": "和伯"
+      "gloss": "和伯"
     },
     {
       "surface": "פַּצֵּֽץ",
-      "english": "-帕采茨"
+      "gloss": "-帕采茨"
     }
-  ],
-  "timestamp": "2026-07-18T03:29:47.524049215Z",
-  "model": "glm-5.2"
+  ]
 }

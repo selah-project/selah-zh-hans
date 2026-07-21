@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 32:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21582,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22013
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:43.210029084Z",
   "translation": "诚然,是鲁阿在亚当里面,而沙代的气息使他们明白。",
   "tokens": [
     {
       "surface": "אכן",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     },
     {
       "surface": "היא",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "באנוש",
-      "english": "在亚当里面"
+      "gloss": "在亚当里面"
     },
     {
       "surface": "ונשמת",
-      "english": "而……的气息"
+      "gloss": "而……的气息"
     },
     {
       "surface": "שדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "תבינם",
-      "english": "使他们明白"
+      "gloss": "使他们明白"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:43.210029084Z",
-  "model": "glm-5.2"
+  ]
 }

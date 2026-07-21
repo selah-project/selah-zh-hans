@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 34:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19687,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20168
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:25:23.484125442Z",
   "translation": "边界要从阿兹蒙转向埃及的溪谷，它的出口⟨要⟩⟨朝向⟩大海。",
   "tokens": [
     {
       "surface": "ונסב",
-      "english": "要转向"
+      "gloss": "要转向"
     },
     {
       "surface": "הגבול",
-      "english": "边界"
+      "gloss": "边界"
     },
     {
       "surface": "מעצמון",
-      "english": "从阿兹蒙"
+      "gloss": "从阿兹蒙"
     },
     {
       "surface": "נחלה",
-      "english": "溪谷"
+      "gloss": "溪谷"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "והיו",
-      "english": "它们（出口）要"
+      "gloss": "它们（出口）要"
     },
     {
       "surface": "תוצאתיו",
-      "english": "它的出口"
+      "gloss": "它的出口"
     },
     {
       "surface": "הימה",
-      "english": "大海"
+      "gloss": "大海"
     }
-  ],
-  "timestamp": "2026-07-17T19:25:23.484125442Z",
-  "model": "glm-5.2"
+  ]
 }

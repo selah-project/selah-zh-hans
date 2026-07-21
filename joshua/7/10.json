@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "joshua 7:10",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18217,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18674
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:53:42.710996308Z",
   "translation": "雅威对约书亚说:起来吧,你为什么这样脸伏于地呢?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "קם",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "לך",
-      "english": "⟨你自己⟩"
+      "gloss": "⟨你自己⟩"
     },
     {
       "surface": "למה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "נפל",
-      "english": "伏于"
+      "gloss": "伏于"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פניך",
-      "english": "你的脸"
+      "gloss": "你的脸"
     }
-  ],
-  "timestamp": "2026-07-17T19:53:42.710996308Z",
-  "model": "glm-5.2"
+  ]
 }

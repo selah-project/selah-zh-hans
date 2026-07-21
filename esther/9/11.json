@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "esther 9:11",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19327,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19865
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:08:04.838682629Z",
   "translation": "在⟨那⟩日，被殺之人的數目來到書珊⟨那⟩堡壘，⟨來⟩到⟨那⟩王面前。",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "在⟨那⟩日"
+      "gloss": "在⟨那⟩日"
     },
     {
       "surface": "ההוא",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בא",
-      "english": "來到"
+      "gloss": "來到"
     },
     {
       "surface": "מספר",
-      "english": "⟨那⟩數目"
+      "gloss": "⟨那⟩數目"
     },
     {
       "surface": "ההרוגים",
-      "english": "被殺之人的"
+      "gloss": "被殺之人的"
     },
     {
       "surface": "בשושן",
-      "english": "書珊"
+      "gloss": "書珊"
     },
     {
       "surface": "הבירה",
-      "english": "⟨那⟩堡壘"
+      "gloss": "⟨那⟩堡壘"
     },
     {
       "surface": "לפני",
-      "english": "⟨來⟩到……面前"
+      "gloss": "⟨來⟩到……面前"
     },
     {
       "surface": "המלך",
-      "english": "⟨那⟩王"
+      "gloss": "⟨那⟩王"
     }
-  ],
-  "timestamp": "2026-07-18T03:08:04.838682629Z",
-  "model": "glm-5.2"
+  ]
 }

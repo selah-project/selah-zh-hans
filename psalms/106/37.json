@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "psalms 106:37",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64924
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:52.574130071Z",
   "translation": "他们献祭 ⟨את⟩ 他们的儿子和 ⟨את⟩ 他们的女儿给 שֵׁדִים (毁坏者)，",
   "tokens": [
     {
       "surface": "ויזבחו",
-      "english": "他们献祭"
+      "gloss": "他们献祭"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的儿子"
     },
     {
       "surface": "בניהם",
-      "english": "他们的儿子"
+      "gloss": "他们的儿子"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他们的女儿"
     },
     {
       "surface": "בנותיהם",
-      "english": "他们的女儿"
+      "gloss": "他们的女儿"
     },
     {
       "surface": "לשדים",
-      "english": "给 שֵׁדִים (毁坏者)"
+      "gloss": "给 שֵׁדִים (毁坏者)"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:52.574130071Z",
-  "model": "glm-5.2"
+  ]
 }

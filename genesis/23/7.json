@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "genesis 23:7",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22825,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23122
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:46:22.485828980Z",
   "translation": "亚伯拉罕起来,向那地之民,赫的子孙,俯伏下拜。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "וישתחו",
-      "english": "俯伏下拜"
+      "gloss": "俯伏下拜"
     },
     {
       "surface": "לעם",
-      "english": "向……之民"
+      "gloss": "向……之民"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "לבני",
-      "english": "向……的子孙"
+      "gloss": "向……的子孙"
     },
     {
       "surface": "חת",
-      "english": "赫"
+      "gloss": "赫"
     }
-  ],
-  "timestamp": "2026-07-17T17:46:22.485828980Z",
-  "model": "glm-5.2"
+  ]
 }

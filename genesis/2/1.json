@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 2:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 300,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22586,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22886
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:33:53.787896774Z",
   "translation": "天和地就被完成了，以及它们的一切万军。",
   "tokens": [
     {
       "surface": "ויכלו",
-      "english": "就被完成了"
+      "gloss": "就被完成了"
     },
     {
       "surface": "השמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "והארץ",
-      "english": "和地"
+      "gloss": "和地"
     },
     {
       "surface": "וכל",
-      "english": "以及一切"
+      "gloss": "以及一切"
     },
     {
       "surface": "צבאם",
-      "english": "它们的万军"
+      "gloss": "它们的万军"
     }
-  ],
-  "timestamp": "2026-07-17T17:33:53.787896774Z",
-  "model": "glm-5.2"
+  ]
 }

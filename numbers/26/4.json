@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 26:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20269,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20781
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:18:55.955083886Z",
   "translation": "从二十岁⟨⟩岁及以上，如雅威吩咐⟨את⟩摩西和以色列的众子——那从埃及地出来的：",
   "tokens": [
     {
       "surface": "מבן",
-      "english": "从……之子"
+      "gloss": "从……之子"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ומעלה",
-      "english": "及以上"
+      "gloss": "及以上"
     },
     {
       "surface": "כאשר",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐"
+      "gloss": "所吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ובני",
-      "english": "和……的众子"
+      "gloss": "和……的众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "היצאים",
-      "english": "那出来的"
+      "gloss": "那出来的"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T19:18:55.955083886Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 14:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19228,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19639
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:37:07.484502179Z",
   "translation": "鹿、瞪羚、獐子、野山羊、迪尚、提敖和山羚，",
   "tokens": [
     {
       "surface": "איל",
-      "english": "鹿"
+      "gloss": "鹿"
     },
     {
       "surface": "וצבי",
-      "english": "瞪羚"
+      "gloss": "瞪羚"
     },
     {
       "surface": "ויחמור",
-      "english": "獐子"
+      "gloss": "獐子"
     },
     {
       "surface": "ואקו",
-      "english": "野山羊"
+      "gloss": "野山羊"
     },
     {
       "surface": "ודישן",
-      "english": "迪尚"
+      "gloss": "迪尚"
     },
     {
       "surface": "ותאו",
-      "english": "提敖"
+      "gloss": "提敖"
     },
     {
       "surface": "וזמר",
-      "english": "山羚"
+      "gloss": "山羚"
     }
-  ],
-  "timestamp": "2026-07-17T19:37:07.484502179Z",
-  "model": "glm-5.2"
+  ]
 }

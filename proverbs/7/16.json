@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 7:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54356,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54756
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:46.172355125Z",
   "translation": "铺盖之物我已经铺了我的卧床，⟨还有⟩雕刻之作、扭卷之线——埃及的。",
   "tokens": [
     {
       "surface": "מרבדים",
-      "english": "铺盖之物"
+      "gloss": "铺盖之物"
     },
     {
       "surface": "רבדתי",
-      "english": "我已经铺了"
+      "gloss": "我已经铺了"
     },
     {
       "surface": "ערשי",
-      "english": "我的卧床"
+      "gloss": "我的卧床"
     },
     {
       "surface": "חטבות",
-      "english": "雕刻之作"
+      "gloss": "雕刻之作"
     },
     {
       "surface": "אטון",
-      "english": "扭卷之线"
+      "gloss": "扭卷之线"
     },
     {
       "surface": "מצרים",
-      "english": "埃及的"
+      "gloss": "埃及的"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:46.172355125Z",
-  "model": "glm-5.2"
+  ]
 }

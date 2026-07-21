@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "numbers 33:32",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19404,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19708
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:41.564057160Z",
   "translation": "他们从比尼的子孙⟨那里⟩启程，在霍尔·哈吉德加德（Hor-hag-Gidgad）扎营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们启程"
+      "gloss": "他们启程"
     },
     {
       "surface": "מבני",
-      "english": "从……的子孙"
+      "gloss": "从……的子孙"
     },
     {
       "surface": "יעקן",
-      "english": "比尼"
+      "gloss": "比尼"
     },
     {
       "surface": "ויחנו",
-      "english": "他们扎营"
+      "gloss": "他们扎营"
     },
     {
       "surface": "בחר",
-      "english": "在霍尔（Hor）"
+      "gloss": "在霍尔（Hor）"
     },
     {
       "surface": "הגדגד",
-      "english": "哈吉德加德"
+      "gloss": "哈吉德加德"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:41.564057160Z",
-  "model": "glm-5.2"
+  ]
 }

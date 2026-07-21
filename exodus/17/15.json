@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 17:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18339,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18677
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:48.858968386Z",
   "translation": "摩西筑了一座祭坛,并称它的名字为:雅威-尼西。",
   "tokens": [
     {
       "surface": "וַ\/יִּבֶן",
-      "english": "筑了"
+      "gloss": "筑了"
     },
     {
       "surface": "מֹשֶׁה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "מִזְבֵּחַ",
-      "english": "一座祭坛"
+      "gloss": "一座祭坛"
     },
     {
       "surface": "וַ\/יִּקְרָא",
-      "english": "并称"
+      "gloss": "并称"
     },
     {
       "surface": "שְׁמ\/וֹ",
-      "english": "它的名字"
+      "gloss": "它的名字"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נִסִּי",
-      "english": "尼西"
+      "gloss": "尼西"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:48.858968386Z",
-  "model": "glm-5.2"
+  ]
 }

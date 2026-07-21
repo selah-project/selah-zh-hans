@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "2-samuel 22:21",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18728,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19046
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:58.952814996Z",
   "translation": "雅威以我的公义待我；按我双手的清洁，他偿还给我。",
   "tokens": [
     {
       "surface": "יגמלני",
-      "english": "以我的公义待我"
+      "gloss": "以我的公义待我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כצדקתי",
-      "english": "按我的公义"
+      "gloss": "按我的公义"
     },
     {
       "surface": "כבר",
-      "english": "按……的清洁"
+      "gloss": "按……的清洁"
     },
     {
       "surface": "ידי",
-      "english": "我的双手"
+      "gloss": "我的双手"
     },
     {
       "surface": "ישיב",
-      "english": "他偿还"
+      "gloss": "他偿还"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:58.952814996Z",
-  "model": "glm-5.2"
+  ]
 }

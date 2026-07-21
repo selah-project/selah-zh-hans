@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 29:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64892
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:27.535610046Z",
   "translation": "要向雅威归⟨את⟩他名字的荣耀;在圣洁的华美中向雅威下拜。",
   "tokens": [
     {
       "surface": "הבו",
-      "english": "要归"
+      "gloss": "要归"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "שמו",
-      "english": "他名字的"
+      "gloss": "他名字的"
     },
     {
       "surface": "השתחוו",
-      "english": "下拜"
+      "gloss": "下拜"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "בהדרת",
-      "english": "在……的华美中"
+      "gloss": "在……的华美中"
     },
     {
       "surface": "קדש",
-      "english": "圣洁"
+      "gloss": "圣洁"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:27.535610046Z",
-  "model": "glm-5.2"
+  ]
 }

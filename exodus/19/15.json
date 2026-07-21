@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 19:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18686,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19069
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:14.755750176Z",
   "translation": "他对百姓说：你们要预备三天，不可亲近女人。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "היו",
-      "english": "你们要"
+      "gloss": "你们要"
     },
     {
       "surface": "נכנים",
-      "english": "预备"
+      "gloss": "预备"
     },
     {
       "surface": "לשלשת",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תגשו",
-      "english": "亲近"
+      "gloss": "亲近"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "אשה",
-      "english": "女人"
+      "gloss": "女人"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:14.755750176Z",
-  "model": "glm-5.2"
+  ]
 }

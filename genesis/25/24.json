@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "genesis 25:24",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22754,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23092
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:40:09.417843305Z",
   "translation": "她待产的日子满了,看哪,⟨有⟩双胞胎在她腹中。",
   "tokens": [
     {
       "surface": "וימלאו",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "ימיה",
-      "english": "她……的日子"
+      "gloss": "她……的日子"
     },
     {
       "surface": "ללדת",
-      "english": "待产"
+      "gloss": "待产"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "תומם",
-      "english": "双胞胎"
+      "gloss": "双胞胎"
     },
     {
       "surface": "בבטנה",
-      "english": "在她腹中"
+      "gloss": "在她腹中"
     }
-  ],
-  "timestamp": "2026-07-18T02:40:09.417843305Z",
-  "model": "glm-5.2"
+  ]
 }

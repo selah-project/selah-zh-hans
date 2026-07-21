@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "deuteronomy 3:6",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19813,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20413
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:29:10.923426429Z",
   "translation": "我们将⟨他们⟩尽行毁灭，正如我们对希实本王西宏所行的；我们将每一座城邑尽行毁灭——⟨那里的⟩男丁、妇女和孩童。",
   "tokens": [
     {
       "surface": "ונחרם",
-      "english": "我们将……尽行毁灭"
+      "gloss": "我们将……尽行毁灭"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "עשינו",
-      "english": "我们对……所行的"
+      "gloss": "我们对……所行的"
     },
     {
       "surface": "לסיחן",
-      "english": "对西宏"
+      "gloss": "对西宏"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חשבון",
-      "english": "希实本"
+      "gloss": "希实本"
     },
     {
       "surface": "החרם",
-      "english": "尽行毁灭"
+      "gloss": "尽行毁灭"
     },
     {
       "surface": "כל",
-      "english": "每一"
+      "gloss": "每一"
     },
     {
       "surface": "עיר",
-      "english": "城邑"
+      "gloss": "城邑"
     },
     {
       "surface": "מתם",
-      "english": "男丁"
+      "gloss": "男丁"
     },
     {
       "surface": "הנשים",
-      "english": "妇女"
+      "gloss": "妇女"
     },
     {
       "surface": "והטף",
-      "english": "和孩童"
+      "gloss": "和孩童"
     }
-  ],
-  "timestamp": "2026-07-17T19:29:10.923426429Z",
-  "model": "glm-5.2"
+  ]
 }

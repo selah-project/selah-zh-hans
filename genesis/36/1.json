@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 36:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 197,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22608,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22805
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:26.578400268Z",
   "translation": "这些是以扫的后代,⟨他⟩就是以东。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "תלדות",
-      "english": "后代"
+      "gloss": "后代"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:26.578400268Z",
-  "model": "glm-5.2"
+  ]
 }

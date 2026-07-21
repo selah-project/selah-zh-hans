@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "isaiah 10:21",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 551,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20480,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21031
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:39:31.038243998Z",
   "translation": "余民必归回,雅各的余民⟨归回⟩⟨אל⟩大能的以罗欣。",
   "tokens": [
     {
       "surface": "שְׁאָ֥ר",
-      "english": "余民"
+      "gloss": "余民"
     },
     {
       "surface": "יָשׁ֖וּב",
-      "english": "必归回"
+      "gloss": "必归回"
     },
     {
       "surface": "שְׁא֣אר",
-      "english": "余民"
+      "gloss": "余民"
     },
     {
       "surface": "יַעֲקֹ֑ב",
-      "english": "雅各的"
+      "gloss": "雅各的"
     },
     {
       "surface": "אֶל",
-      "english": "⟨אל⟩"
+      "gloss": "⟨אל⟩"
     },
     {
       "surface": "אֵ֖ל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "גִּבּֽוֹר",
-      "english": "大能的"
+      "gloss": "大能的"
     }
-  ],
-  "timestamp": "2026-07-17T21:39:31.038243998Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 174,
   "ref": "psalms 119:174",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64256,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64584
-  },
+  "verse": 174,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:54.580691654Z",
   "translation": "我渴望⟨你的⟩拯救，雅威，⟨而⟩你的妥拉⟨是⟩我的喜乐。",
   "tokens": [
     {
       "surface": "תאבתי",
-      "english": "我渴望"
+      "gloss": "我渴望"
     },
     {
       "surface": "לישועתך",
-      "english": "⟨你的⟩拯救"
+      "gloss": "⟨你的⟩拯救"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ותורתך",
-      "english": "⟨而⟩你的妥拉"
+      "gloss": "⟨而⟩你的妥拉"
     },
     {
       "surface": "שעשעי",
-      "english": "我的喜乐"
+      "gloss": "我的喜乐"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:54.580691654Z",
-  "model": "glm-5.2"
+  ]
 }

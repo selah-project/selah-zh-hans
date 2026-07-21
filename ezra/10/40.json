@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "ezra 10:40",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 45950,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46213
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:28.966220803Z",
   "translation": "玛拿底拜、沙赛、沙赖",
   "tokens": [
     {
       "surface": "מכנדבי",
-      "english": "玛拿底拜"
+      "gloss": "玛拿底拜"
     },
     {
       "surface": "ששי",
-      "english": "沙赛"
+      "gloss": "沙赛"
     },
     {
       "surface": "שרי",
-      "english": "沙赖"
+      "gloss": "沙赖"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:28.966220803Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 19:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64797,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65244
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:20.847908572Z",
   "translation": "对雅威的敬畏是纯洁的，⟨它⟩存立直到永远；雅威的典章是真理，它们一齐⟨被算为⟩公义。",
   "tokens": [
     {
       "surface": "יראת",
-      "english": "对……的敬畏"
+      "gloss": "对……的敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "טהורה",
-      "english": "是纯洁的"
+      "gloss": "是纯洁的"
     },
     {
       "surface": "עומדת",
-      "english": "存立"
+      "gloss": "存立"
     },
     {
       "surface": "לעד",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "משפטי",
-      "english": "的典章"
+      "gloss": "的典章"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אמת",
-      "english": "是真理"
+      "gloss": "是真理"
     },
     {
       "surface": "צדקו",
-      "english": "⟨被算为⟩公义"
+      "gloss": "⟨被算为⟩公义"
     },
     {
       "surface": "יחדו",
-      "english": "一齐"
+      "gloss": "一齐"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:20.847908572Z",
-  "model": "glm-5.2"
+  ]
 }

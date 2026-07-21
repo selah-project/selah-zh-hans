@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 106:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64374,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64696
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:25.278922149Z",
   "translation": "水淹没⟨了⟩他们的压迫者，他们之中连一个⟨也⟩没有存留。",
   "tokens": [
     {
       "surface": "ויכסו",
-      "english": "淹没"
+      "gloss": "淹没"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "צריהם",
-      "english": "他们的压迫者"
+      "gloss": "他们的压迫者"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מהם",
-      "english": "他们之中"
+      "gloss": "他们之中"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נותר",
-      "english": "存留"
+      "gloss": "存留"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:25.278922149Z",
-  "model": "glm-5.2"
+  ]
 }

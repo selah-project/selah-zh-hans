@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-samuel 18:9",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18015,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18415
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:57.932351136Z",
   "translation": "扫罗从那日起，此后一直以敌意目光看顾⟨את⟩大卫。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "עון",
-      "english": "怀有敌意"
+      "gloss": "怀有敌意"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מהיום",
-      "english": "从……那日"
+      "gloss": "从……那日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "והלאה",
-      "english": "此后一直"
+      "gloss": "此后一直"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:57.932351136Z",
-  "model": "glm-5.2"
+  ]
 }

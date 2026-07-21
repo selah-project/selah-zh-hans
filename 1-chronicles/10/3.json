@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 10:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58867,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59341
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:59:41.235375673Z",
   "translation": "战斗沉重地压在扫罗身上，弓箭手们发现了他，他便被弓箭手们刺伤。",
   "tokens": [
     {
       "surface": "ותכבד",
-      "english": "沉重地压"
+      "gloss": "沉重地压"
     },
     {
       "surface": "המלחמה",
-      "english": "战斗"
+      "gloss": "战斗"
     },
     {
       "surface": "על",
-      "english": "在……身上"
+      "gloss": "在……身上"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "וימצאהו",
-      "english": "发现了他"
+      "gloss": "发现了他"
     },
     {
       "surface": "המורים",
-      "english": "弓箭手们"
+      "gloss": "弓箭手们"
     },
     {
       "surface": "בקשת",
-      "english": "用弓"
+      "gloss": "用弓"
     },
     {
       "surface": "ויחל",
-      "english": "他便被刺伤"
+      "gloss": "他便被刺伤"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "היורים",
-      "english": "弓箭手们"
+      "gloss": "弓箭手们"
     }
-  ],
-  "timestamp": "2026-07-18T01:59:41.235375673Z",
-  "model": "glm-5.2"
+  ]
 }

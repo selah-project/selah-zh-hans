@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 37:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64427,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64791
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:40.470337395Z",
   "translation": "你当以雅威为乐，他就会把你心里的祈求赐⟨给⟩你。",
   "tokens": [
     {
       "surface": "והתענג",
-      "english": "你当以……为乐"
+      "gloss": "你当以……为乐"
     },
     {
       "surface": "על",
-      "english": "于"
+      "gloss": "于"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויתן",
-      "english": "他就会赐"
+      "gloss": "他就会赐"
     },
     {
       "surface": "לך",
-      "english": "⟨给⟩你"
+      "gloss": "⟨给⟩你"
     },
     {
       "surface": "משאלת",
-      "english": "祈求"
+      "gloss": "祈求"
     },
     {
       "surface": "לבך",
-      "english": "你心里的"
+      "gloss": "你心里的"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:40.470337395Z",
-  "model": "glm-5.2"
+  ]
 }

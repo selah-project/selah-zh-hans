@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 20:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19735,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20301
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:18.603016777Z",
   "translation": "与⟨他⟩父亲的妻子同寝的人——⟨他⟩揭露了⟨他⟩父亲的裸露:二人必被处死,⟨他们的⟩血⟨归⟩在他们身上。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "与……的人"
+      "gloss": "与……的人"
     },
     {
       "surface": "אשר",
-      "english": "⟨关系代词⟩"
+      "gloss": "⟨关系代词⟩"
     },
     {
       "surface": "ישכב",
-      "english": "同寝"
+      "gloss": "同寝"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他父亲的妻子"
     },
     {
       "surface": "אשת",
-      "english": "妻子"
+      "gloss": "妻子"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "ערות",
-      "english": "裸露"
+      "gloss": "裸露"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "גלה",
-      "english": "⟨他⟩揭露了"
+      "gloss": "⟨他⟩揭露了"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "יומתו",
-      "english": "必被处死"
+      "gloss": "必被处死"
     },
     {
       "surface": "שניהם",
-      "english": "他们二人"
+      "gloss": "他们二人"
     },
     {
       "surface": "דמיהם",
-      "english": "他们的血"
+      "gloss": "他们的血"
     },
     {
       "surface": "בם",
-      "english": "在他们身上"
+      "gloss": "在他们身上"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:18.603016777Z",
-  "model": "glm-5.2"
+  ]
 }

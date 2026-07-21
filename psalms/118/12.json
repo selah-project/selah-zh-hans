@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 118:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64697,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65231
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:41.049926610Z",
   "translation": "他们如蜜蜂般环绕我,他们如荆棘的火⟨被⟩熄灭;靠雅威的名,我必灭绝⟨他们⟩。",
   "tokens": [
     {
       "surface": "סבוני",
-      "english": "他们环绕我"
+      "gloss": "他们环绕我"
     },
     {
       "surface": "כדבורים",
-      "english": "如蜜蜂"
+      "gloss": "如蜜蜂"
     },
     {
       "surface": "דעכו",
-      "english": "他们熄灭"
+      "gloss": "他们熄灭"
     },
     {
       "surface": "כאש",
-      "english": "如火"
+      "gloss": "如火"
     },
     {
       "surface": "קוצים",
-      "english": "荆棘的"
+      "gloss": "荆棘的"
     },
     {
       "surface": "בשם",
-      "english": "靠……的名"
+      "gloss": "靠……的名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "⟨确实⟩"
+      "gloss": "⟨确实⟩"
     },
     {
       "surface": "אמילם",
-      "english": "我必灭绝他们"
+      "gloss": "我必灭绝他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:41.049926610Z",
-  "model": "glm-5.2"
+  ]
 }

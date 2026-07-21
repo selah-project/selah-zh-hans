@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-chronicles 25:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58453,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58759
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:09:13.245120693Z",
   "translation": "第三个给撒割，他的儿子们和他的兄弟们，共十二人；",
   "tokens": [
     {
       "surface": "השלשי",
-      "english": "第三个"
+      "gloss": "第三个"
     },
     {
       "surface": "זכור",
-      "english": "给撒割"
+      "gloss": "给撒割"
     },
     {
       "surface": "בניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ואחיו",
-      "english": "和他的兄弟们"
+      "gloss": "和他的兄弟们"
     },
     {
       "surface": "שנים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     }
-  ],
-  "timestamp": "2026-07-18T02:09:13.245120693Z",
-  "model": "glm-5.2"
+  ]
 }

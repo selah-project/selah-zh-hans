@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "zechariah 14:6",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17704,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 18192
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:00.899131079Z",
   "translation": "在那日必将如此:不会有光,光辉的将凝结凝固。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "必将如此"
+      "gloss": "必将如此"
     },
     {
       "surface": "ביום",
-      "english": "在……之日"
+      "gloss": "在……之日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יהיה",
-      "english": "会有"
+      "gloss": "会有"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "יקרות",
-      "english": "光辉的"
+      "gloss": "光辉的"
     },
     {
       "surface": "יקפאון",
-      "english": "凝结凝固"
+      "gloss": "凝结凝固"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:00.899131079Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 3:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 548,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19590,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20138
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:29:09.776240801Z",
   "translation": "所有这些城市都⟨是⟩有防护墙的，墙高、有双门和门闩——除了无城墙的乡村⟨城市⟩极多。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "ערים",
-      "english": "城市"
+      "gloss": "城市"
     },
     {
       "surface": "בצרות",
-      "english": "有防护墙的"
+      "gloss": "有防护墙的"
     },
     {
       "surface": "חומה",
-      "english": "墙"
+      "gloss": "墙"
     },
     {
       "surface": "גבהה",
-      "english": "高"
+      "gloss": "高"
     },
     {
       "surface": "דלתים",
-      "english": "双门"
+      "gloss": "双门"
     },
     {
       "surface": "ובריח",
-      "english": "和门闩"
+      "gloss": "和门闩"
     },
     {
       "surface": "לבד",
-      "english": "除了"
+      "gloss": "除了"
     },
     {
       "surface": "מערי",
-      "english": "……的乡村⟨城市⟩"
+      "gloss": "……的乡村⟨城市⟩"
     },
     {
       "surface": "הפרזי",
-      "english": "无城墙的"
+      "gloss": "无城墙的"
     },
     {
       "surface": "הרבה",
-      "english": "极多"
+      "gloss": "极多"
     },
     {
       "surface": "מאד",
-      "english": "非常"
+      "gloss": "非常"
     }
-  ],
-  "timestamp": "2026-07-17T19:29:09.776240801Z",
-  "model": "glm-5.2"
+  ]
 }

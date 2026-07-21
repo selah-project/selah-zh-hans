@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 27:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21541,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21965
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:11.993004474Z",
   "translation": "人向他拍手，向他发嘘声，⟨从他⟩之处将他驱赶。",
   "tokens": [
     {
       "surface": "יִשְׂפֹּק",
-      "english": "拍手"
+      "gloss": "拍手"
     },
     {
       "surface": "עָלֵי\/מוֹ",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "כַפֵּי\/מוֹ",
-      "english": "（双）手"
+      "gloss": "（双）手"
     },
     {
       "surface": "וְ\/יִשְׁרֹק",
-      "english": "发嘘声"
+      "gloss": "发嘘声"
     },
     {
       "surface": "עָלָי\/ו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "מִ\/מְּקֹמֽ\/וֹ",
-      "english": "从他之处"
+      "gloss": "从他之处"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:11.993004474Z",
-  "model": "glm-5.2"
+  ]
 }

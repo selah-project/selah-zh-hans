@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "psalms 107:31",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64350,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64782
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:16.321792551Z",
   "translation": "愿他们称谢雅威他的坚定之爱,以及他的奇妙作为给⟨人⟩子;",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "愿他们称谢"
+      "gloss": "愿他们称谢"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חסדו",
-      "english": "他的坚定之爱"
+      "gloss": "他的坚定之爱"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "以及他的奇妙作为"
+      "gloss": "以及他的奇妙作为"
     },
     {
       "surface": "לבני",
-      "english": "给……之子"
+      "gloss": "给……之子"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:16.321792551Z",
-  "model": "glm-5.2"
+  ]
 }

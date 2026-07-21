@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 26:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54381,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54690
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:53.375497757Z",
   "translation": "荆棘上升入醉酒者的手中,照样,*mashal*(比喻)在愚昧人口中。",
   "tokens": [
     {
       "surface": "חוח",
-      "english": "荆棘"
+      "gloss": "荆棘"
     },
     {
       "surface": "עלה",
-      "english": "上升"
+      "gloss": "上升"
     },
     {
       "surface": "ביד",
-      "english": "入……的手中"
+      "gloss": "入……的手中"
     },
     {
       "surface": "שכור",
-      "english": "醉酒者的"
+      "gloss": "醉酒者的"
     },
     {
       "surface": "ומשל",
-      "english": "照样,*mashal*(比喻)"
+      "gloss": "照样,*mashal*(比喻)"
     },
     {
       "surface": "בפי",
-      "english": "在……口中"
+      "gloss": "在……口中"
     },
     {
       "surface": "כסילים",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:53.375497757Z",
-  "model": "glm-5.2"
+  ]
 }

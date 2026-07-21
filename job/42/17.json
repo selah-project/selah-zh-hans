@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "job 42:17",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21286,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21575
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:38.493412726Z",
   "translation": "约伯死了,年纪老迈,满足⟨了⟩日子。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨于是⟩死了"
+      "gloss": "⟨于是⟩死了"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "זקן",
-      "english": "年纪老迈"
+      "gloss": "年纪老迈"
     },
     {
       "surface": "ושבע",
-      "english": "满足"
+      "gloss": "满足"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:38.493412726Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 54:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20932,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21547
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:00:26.796352218Z",
   "translation": "看哪，⟨若有⟩聚集攻击的，不是出于我；无论谁攻击你，⟨他⟩必倒在你面前。",
   "tokens": [
     {
       "surface": "הֵ֣ן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "גּ֥וֹר",
-      "english": "⟨若有⟩聚集攻击的"
+      "gloss": "⟨若有⟩聚集攻击的"
     },
     {
       "surface": "יָג֛וּר",
-      "english": "⟨若有⟩聚集"
+      "gloss": "⟨若有⟩聚集"
     },
     {
       "surface": "אֶ֖פֶס",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "מֵֽ\/אוֹתִ֑\/י",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我"
     },
     {
       "surface": "מִי",
-      "english": "出于我"
+      "gloss": "出于我"
     },
     {
       "surface": "גָ֥ר",
-      "english": "无论谁攻击"
+      "gloss": "无论谁攻击"
     },
     {
       "surface": "אִתָּ֖\/ךְ",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עָלַ֥יִ\/ךְ",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "יִפּֽוֹל",
-      "english": "⟨他⟩必倒"
+      "gloss": "⟨他⟩必倒"
     }
-  ],
-  "timestamp": "2026-07-17T22:00:26.796352218Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "genesis 34:27",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23117,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23677
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:25.422248967Z",
   "translation": "雅各的儿子们来到被杀的人身上，抢掠了那城——就是他们玷污了他们姐妹的那城。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的儿子们"
+      "gloss": "……的儿子们"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "באו",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "על",
-      "english": "……之上"
+      "gloss": "……之上"
     },
     {
       "surface": "החללים",
-      "english": "被杀的人"
+      "gloss": "被杀的人"
     },
     {
       "surface": "ויבזו",
-      "english": "他们就抢掠"
+      "gloss": "他们就抢掠"
     },
     {
       "surface": "העיר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "אשר",
-      "english": "就是（关系代词）"
+      "gloss": "就是（关系代词）"
     },
     {
       "surface": "טמאו",
-      "english": "他们玷污了"
+      "gloss": "他们玷污了"
     },
     {
       "surface": "אחותם",
-      "english": "他们的姐妹"
+      "gloss": "他们的姐妹"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:25.422248967Z",
-  "model": "glm-5.2"
+  ]
 }

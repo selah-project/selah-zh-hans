@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 62:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64331,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64727
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:13.428959670Z",
   "translation": "也属于你,阿多奈,⟨有⟩慈爱 (חֶסֶד);因为你必向人照他的作为偿还。",
   "tokens": [
     {
       "surface": "ולך",
-      "english": "也属于你"
+      "gloss": "也属于你"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "חסד",
-      "english": "慈爱 (חֶסֶד)"
+      "gloss": "慈爱 (חֶסֶד)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תשלם",
-      "english": "必偿还"
+      "gloss": "必偿还"
     },
     {
       "surface": "לאיש",
-      "english": "向人"
+      "gloss": "向人"
     },
     {
       "surface": "כמעשהו",
-      "english": "照他的作为"
+      "gloss": "照他的作为"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:13.428959670Z",
-  "model": "glm-5.2"
+  ]
 }

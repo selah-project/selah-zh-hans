@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 15:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54456,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54856
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:55.511901403Z",
   "translation": "穷乏人所有的日子都是恶的；但心里喜乐的人⟨有⟩常设的筵席。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有……的"
+      "gloss": "所有……的"
     },
     {
       "surface": "ימי",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "עני",
-      "english": "穷乏人"
+      "gloss": "穷乏人"
     },
     {
       "surface": "רעים",
-      "english": "都是恶的"
+      "gloss": "都是恶的"
     },
     {
       "surface": "וטוב",
-      "english": "但好"
+      "gloss": "但好"
     },
     {
       "surface": "לב",
-      "english": "心里"
+      "gloss": "心里"
     },
     {
       "surface": "משתה",
-      "english": "筵席"
+      "gloss": "筵席"
     },
     {
       "surface": "תמיד",
-      "english": "常设的"
+      "gloss": "常设的"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:55.511901403Z",
-  "model": "glm-5.2"
+  ]
 }

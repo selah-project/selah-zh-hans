@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "micah 5:12",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 534,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17540,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18074
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:26:16.871789682Z",
   "translation": "我必从你中间剪除你的 carved images 和你的柱像,你必不再敬拜你双手的造物。",
   "tokens": [
     {
       "surface": "והכרתי",
-      "english": "我必剪除"
+      "gloss": "我必剪除"
     },
     {
       "surface": "פסיליך",
-      "english": "你的 carved images"
+      "gloss": "你的 carved images"
     },
     {
       "surface": "ומצבותיך",
-      "english": "和你的柱像"
+      "gloss": "和你的柱像"
     },
     {
       "surface": "מקרבך",
-      "english": "从你中间"
+      "gloss": "从你中间"
     },
     {
       "surface": "ולא",
-      "english": "你必不"
+      "gloss": "你必不"
     },
     {
       "surface": "תשתחוה",
-      "english": "敬拜"
+      "gloss": "敬拜"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "למעשה",
-      "english": "……的造物"
+      "gloss": "……的造物"
     },
     {
       "surface": "ידיך",
-      "english": "你双手"
+      "gloss": "你双手"
     }
-  ],
-  "timestamp": "2026-07-17T23:26:16.871789682Z",
-  "model": "glm-5.2"
+  ]
 }

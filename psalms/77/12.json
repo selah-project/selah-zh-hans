@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 77:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64436,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64819
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:05.831171914Z",
   "translation": "我要记念雅的作为；因为我要从古时记念⟨你的⟩奇妙。",
   "tokens": [
     {
       "surface": "אזכיר",
-      "english": "我要记念"
+      "gloss": "我要记念"
     },
     {
       "surface": "מעללי",
-      "english": "⟨的⟩作为"
+      "gloss": "⟨的⟩作为"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אזכרה",
-      "english": "我要记念"
+      "gloss": "我要记念"
     },
     {
       "surface": "מקדם",
-      "english": "从古时"
+      "gloss": "从古时"
     },
     {
       "surface": "פלאך",
-      "english": "⟨你的⟩奇妙"
+      "gloss": "⟨你的⟩奇妙"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:05.831171914Z",
-  "model": "glm-5.2"
+  ]
 }

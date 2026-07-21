@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 34:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 239,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64363,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64602
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:22.099214813Z",
   "translation": "义人的患难虽多，雅威却从这一切中拯救他。",
   "tokens": [
     {
       "surface": "רבות",
-      "english": "虽多"
+      "gloss": "虽多"
     },
     {
       "surface": "רעות",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "צדיק",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "ומכלם",
-      "english": "却从这一切中"
+      "gloss": "却从这一切中"
     },
     {
       "surface": "יצילנו",
-      "english": "拯救他"
+      "gloss": "拯救他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:22.099214813Z",
-  "model": "glm-5.2"
+  ]
 }

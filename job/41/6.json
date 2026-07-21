@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 41:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21591,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22115
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:41.879302326Z",
   "translation": "他脸面的门，谁能⟨打开⟩？他牙齿的四围⟨是⟩恐怖。",
   "tokens": [
     {
       "surface": "דלתי",
-      "english": "……的门"
+      "gloss": "……的门"
     },
     {
       "surface": "פניו",
-      "english": "他的脸面"
+      "gloss": "他的脸面"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "פתח",
-      "english": "⟨打开⟩"
+      "gloss": "⟨打开⟩"
     },
     {
       "surface": "סביבות",
-      "english": "……的四围"
+      "gloss": "……的四围"
     },
     {
       "surface": "שניו",
-      "english": "他的牙齿"
+      "gloss": "他的牙齿"
     },
     {
       "surface": "אימה",
-      "english": "恐怖"
+      "gloss": "恐怖"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:41.879302326Z",
-  "model": "glm-5.2"
+  ]
 }

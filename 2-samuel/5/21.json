@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "2-samuel 5:21",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18803,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19157
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:42:31.731938516Z",
   "translation": "他們將他們的偶像留在那裡，大衛和他的人將它們帶走。",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "他們留下了"
+      "gloss": "他們留下了"
     },
     {
       "surface": "שם",
-      "english": "在那裡"
+      "gloss": "在那裡"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們的偶像"
     },
     {
       "surface": "עצביהם",
-      "english": "他們的偶像"
+      "gloss": "他們的偶像"
     },
     {
       "surface": "וישאם",
-      "english": "並將它們帶走"
+      "gloss": "並將它們帶走"
     },
     {
       "surface": "דוד",
-      "english": "大衛"
+      "gloss": "大衛"
     },
     {
       "surface": "ואנשיו",
-      "english": "和他的人"
+      "gloss": "和他的人"
     }
-  ],
-  "timestamp": "2026-07-17T20:42:31.731938516Z",
-  "model": "glm-5.2"
+  ]
 }

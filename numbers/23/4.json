@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 23:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20320,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20804
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:17:21.170116538Z",
   "translation": "以罗欣临到巴兰,他对他说:⟨את⟩七座祭坛我已经摆设,每座祭坛上我献上一头公牛和一只公绵羊。",
   "tokens": [
     {
       "surface": "ויקר",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "בלעם",
-      "english": "巴兰"
+      "gloss": "巴兰"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "七座祭坛"
     },
     {
       "surface": "שבעת",
-      "english": "七座"
+      "gloss": "七座"
     },
     {
       "surface": "המזבחת",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "ערכתי",
-      "english": "我已经摆设"
+      "gloss": "我已经摆设"
     },
     {
       "surface": "ואעל",
-      "english": "我献上"
+      "gloss": "我献上"
     },
     {
       "surface": "פר",
-      "english": "一头公牛"
+      "gloss": "一头公牛"
     },
     {
       "surface": "ואיל",
-      "english": "和一只公绵羊"
+      "gloss": "和一只公绵羊"
     },
     {
       "surface": "במזבח",
-      "english": "每座祭坛上"
+      "gloss": "每座祭坛上"
     }
-  ],
-  "timestamp": "2026-07-17T19:17:21.170116538Z",
-  "model": "glm-5.2"
+  ]
 }

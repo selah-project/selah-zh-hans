@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "psalms 119:43",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64650,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65136
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:08.663800429Z",
   "translation": "不要极其从⟨我的⟩口中夺走真理的*话语* (davar)，因为对你的典章我⟨曾⟩等候。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תצל",
-      "english": "夺走"
+      "gloss": "夺走"
     },
     {
       "surface": "מפי",
-      "english": "从⟨我的⟩口中"
+      "gloss": "从⟨我的⟩口中"
     },
     {
       "surface": "דבר",
-      "english": "*话语* (davar)"
+      "gloss": "*话语* (davar)"
     },
     {
       "surface": "אמת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "עד",
-      "english": "极其"
+      "gloss": "极其"
     },
     {
       "surface": "מאד",
-      "english": "(强调)"
+      "gloss": "(强调)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "למשפטך",
-      "english": "对你的典章"
+      "gloss": "对你的典章"
     },
     {
       "surface": "יחלתי",
-      "english": "我⟨曾⟩等候"
+      "gloss": "我⟨曾⟩等候"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:08.663800429Z",
-  "model": "glm-5.2"
+  ]
 }

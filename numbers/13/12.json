@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "numbers 13:12",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19308,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19557
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:57.056867207Z",
   "translation": "属但支派的，亚米利，迦玛利之子。",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "属……支派的"
+      "gloss": "属……支派的"
     },
     {
       "surface": "דן",
-      "english": "但"
+      "gloss": "但"
     },
     {
       "surface": "עמיאל",
-      "english": "亚米利"
+      "gloss": "亚米利"
     },
     {
       "surface": "בן",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "גמלי",
-      "english": "迦玛利"
+      "gloss": "迦玛利"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:57.056867207Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 34:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23364,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23837
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:13.691686874Z",
   "translation": "他的生命渴求 clinging 于雅各的女儿底拿，他爱 ⟨את⟩ ⟨那⟩少女，并对 ⟨那⟩少女的心说话。",
   "tokens": [
     {
       "surface": "ותדבק",
-      "english": "cling"
+      "gloss": "cling"
     },
     {
       "surface": "נפשו",
-      "english": "他的生命渴求"
+      "gloss": "他的生命渴求"
     },
     {
       "surface": "בדינה",
-      "english": "于底拿"
+      "gloss": "于底拿"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ויאהב",
-      "english": "他爱"
+      "gloss": "他爱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "少女"
     },
     {
       "surface": "הנער",
-      "english": "⟨那⟩少女"
+      "gloss": "⟨那⟩少女"
     },
     {
       "surface": "וידבר",
-      "english": "他说话"
+      "gloss": "他说话"
     },
     {
       "surface": "על",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "הנער",
-      "english": "⟨那⟩少女的"
+      "gloss": "⟨那⟩少女的"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:13.691686874Z",
-  "model": "glm-5.2"
+  ]
 }

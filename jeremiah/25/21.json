@@ -1,55 +1,44 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "jeremiah 25:21",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 250,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19045,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19295
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:21:35.654273040Z",
   "translation": "⟨את⟩ 以东、和 ⟨את⟩ 摩押、和 ⟨את⟩ 亚扪的子",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以东"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "摩押"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "亚扪的子"
     },
     {
       "surface": "בני",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "עמון",
-      "english": "亚扪"
+      "gloss": "亚扪"
     }
-  ],
-  "timestamp": "2026-07-17T22:21:35.654273040Z",
-  "model": "glm-5.2"
+  ]
 }

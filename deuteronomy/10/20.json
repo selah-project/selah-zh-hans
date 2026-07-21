@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "deuteronomy 10:20",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19589,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20119
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:34:22.750489001Z",
   "translation": "⟨את⟩ 雅威你的以罗欣你要敬畏；⟨את⟩他你要事奉，靠着他你要紧贴，靠着他的名你要起誓。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "תירא",
-      "english": "你要敬畏"
+      "gloss": "你要敬畏"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩他",
+      "gloss": "⟨את⟩他",
       "marks": "你要事奉的对象"
     },
     {
       "surface": "תעבד",
-      "english": "你要事奉"
+      "gloss": "你要事奉"
     },
     {
       "surface": "ובו",
-      "english": "靠着他"
+      "gloss": "靠着他"
     },
     {
       "surface": "תדבק",
-      "english": "你要紧贴"
+      "gloss": "你要紧贴"
     },
     {
       "surface": "ובשמו",
-      "english": "靠着他的名"
+      "gloss": "靠着他的名"
     },
     {
       "surface": "תשבע",
-      "english": "你要起誓"
+      "gloss": "你要起誓"
     }
-  ],
-  "timestamp": "2026-07-17T19:34:22.750489001Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "song-of-songs 4:12",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22058,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22409
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:41.870935115Z",
   "translation": "关锁的园,我的妹妹,⟨我的⟩新妇;封闭的泉源,封印的活泉。",
   "tokens": [
     {
       "surface": "גן",
-      "english": "园"
+      "gloss": "园"
     },
     {
       "surface": "נעול",
-      "english": "关锁的"
+      "gloss": "关锁的"
     },
     {
       "surface": "אחתי",
-      "english": "我的妹妹"
+      "gloss": "我的妹妹"
     },
     {
       "surface": "כלה",
-      "english": "新妇"
+      "gloss": "新妇"
     },
     {
       "surface": "גל",
-      "english": "封闭的"
+      "gloss": "封闭的"
     },
     {
       "surface": "נעול",
-      "english": "关锁的"
+      "gloss": "关锁的"
     },
     {
       "surface": "מעין",
-      "english": "泉源"
+      "gloss": "泉源"
     },
     {
       "surface": "חתום",
-      "english": "封印的"
+      "gloss": "封印的"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:41.870935115Z",
-  "model": "glm-5.2"
+  ]
 }

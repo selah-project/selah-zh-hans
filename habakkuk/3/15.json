@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "habakkuk 3:15",
   "book": "habakkuk",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22830,
-    "prompt_tokens_details": {
-      "cached_tokens": 21888
-    },
-    "total_tokens": 23180
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:29:42.927294151Z",
   "translation": "你践踏了海,⟨用⟩你的马匹——许多水⟨的⟩堆。",
   "tokens": [
     {
       "surface": "דָּרַ֥כְתָּ",
-      "english": "你践踏了"
+      "gloss": "你践踏了"
     },
     {
       "surface": "בַ\/יָּ֖ם",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוּסֶ֑י\/ךָ",
-      "english": "你的马匹"
+      "gloss": "你的马匹"
     },
     {
       "surface": "חֹ֖מֶר",
-      "english": "堆"
+      "gloss": "堆"
     },
     {
       "surface": "מַ֥יִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "רַבִּֽים",
-      "english": "许多"
+      "gloss": "许多"
     }
-  ],
-  "timestamp": "2026-07-17T23:29:42.927294151Z",
-  "model": "glm-5.2"
+  ]
 }

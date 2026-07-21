@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 37:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 632,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18981,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19613
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:33.099671661Z",
   "translation": "他造了 ⟨את⟩ ⟨הַ\/שֻּׁלְחָן⟩（桌子），用 שִׁטִּים（皂荚木）——它的长度两肘，它的宽度一肘，它的高度一肘半。",
   "tokens": [
     {
       "surface": "וַ\/יַּ֥עַשׂ",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "桌子"
     },
     {
       "surface": "הַ\/שֻּׁלְחָ֖ן",
-      "english": "桌子"
+      "gloss": "桌子"
     },
     {
       "surface": "עֲצֵ֣י",
-      "english": "木材"
+      "gloss": "木材"
     },
     {
       "surface": "שִׁטִּ֑ים",
-      "english": "皂荚"
+      "gloss": "皂荚"
     },
     {
       "surface": "אַמָּתַ֤יִם",
-      "english": "两肘"
+      "gloss": "两肘"
     },
     {
       "surface": "אָרְכּוֹ֙",
-      "english": "它的长度"
+      "gloss": "它的长度"
     },
     {
       "surface": "וְ\/אַמָּ֣ה",
-      "english": "一肘"
+      "gloss": "一肘"
     },
     {
       "surface": "רָחְבּ֔וֹ",
-      "english": "它的宽度"
+      "gloss": "它的宽度"
     },
     {
       "surface": "וְ\/אַמָּ֥ה",
-      "english": "一肘"
+      "gloss": "一肘"
     },
     {
       "surface": "וָ\/חֵ֖צִי",
-      "english": "和半"
+      "gloss": "和半"
     },
     {
       "surface": "קֹמָתֽ\/וֹ",
-      "english": "它的高度"
+      "gloss": "它的高度"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:33.099671661Z",
-  "model": "glm-5.2"
+  ]
 }

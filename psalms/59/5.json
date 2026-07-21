@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 59:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64518,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65042
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:29.326345340Z",
   "translation": "无故他们奔跑并预备自己；醒来⟨到⟩我的呼求，且看哪！",
   "tokens": [
     {
       "surface": "בלי",
-      "english": "无故"
+      "gloss": "无故"
     },
     {
       "surface": "עון",
-      "english": "（我的罪孽）"
+      "gloss": "（我的罪孽）"
     },
     {
       "surface": "ירוצון",
-      "english": "他们奔跑"
+      "gloss": "他们奔跑"
     },
     {
       "surface": "ויכוננו",
-      "english": "并预备自己"
+      "gloss": "并预备自己"
     },
     {
       "surface": "עורה",
-      "english": "醒来"
+      "gloss": "醒来"
     },
     {
       "surface": "לקראתי",
-      "english": "⟨到⟩我的呼求"
+      "gloss": "⟨到⟩我的呼求"
     },
     {
       "surface": "ו ראה",
-      "english": "且看哪！"
+      "gloss": "且看哪！"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:29.326345340Z",
-  "model": "glm-5.2"
+  ]
 }

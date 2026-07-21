@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 69:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64525,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64961
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:49.776163346Z",
   "translation": "不要向你仆人隐藏你的面，因为我身处窘迫，求你快快回答我。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תסתר",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "פניך",
-      "english": "你的面"
+      "gloss": "你的面"
     },
     {
       "surface": "מעבדך",
-      "english": "向你仆人"
+      "gloss": "向你仆人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "צר",
-      "english": "窘迫"
+      "gloss": "窘迫"
     },
     {
       "surface": "לי",
-      "english": "我⟨是⟩"
+      "gloss": "我⟨是⟩"
     },
     {
       "surface": "מהר",
-      "english": "快快地"
+      "gloss": "快快地"
     },
     {
       "surface": "ענני",
-      "english": "求你回答我"
+      "gloss": "求你回答我"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:49.776163346Z",
-  "model": "glm-5.2"
+  ]
 }

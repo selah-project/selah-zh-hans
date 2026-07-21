@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "ecclesiastes 3:20",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19330,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19787
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:40.296826306Z",
   "translation": "万物都往一处去:万物⟨都⟩是出于尘土,万物也都归回尘土。",
   "tokens": [
     {
       "surface": "הכל",
-      "english": "万物"
+      "gloss": "万物"
     },
     {
       "surface": "הולך",
-      "english": "都往……去"
+      "gloss": "都往……去"
     },
     {
       "surface": "אל",
-      "english": "往"
+      "gloss": "往"
     },
     {
       "surface": "מקום",
-      "english": "一处"
+      "gloss": "一处"
     },
     {
       "surface": "אחד",
-      "english": "同一"
+      "gloss": "同一"
     },
     {
       "surface": "הכל",
-      "english": "万物"
+      "gloss": "万物"
     },
     {
       "surface": "היה",
-      "english": "⟨都⟩是"
+      "gloss": "⟨都⟩是"
     },
     {
       "surface": "מן",
-      "english": "出于"
+      "gloss": "出于"
     },
     {
       "surface": "העפר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "והכל",
-      "english": "万物也都"
+      "gloss": "万物也都"
     },
     {
       "surface": "שב",
-      "english": "归回"
+      "gloss": "归回"
     },
     {
       "surface": "אל",
-      "english": "归于"
+      "gloss": "归于"
     },
     {
       "surface": "העפר",
-      "english": "尘土"
+      "gloss": "尘土"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:40.296826306Z",
-  "model": "glm-5.2"
+  ]
 }

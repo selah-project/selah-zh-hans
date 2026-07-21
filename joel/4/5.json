@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "joel 4:5",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17698,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18200
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:38.746730222Z",
   "translation": "因为你们拿了我的银子和我金子，⟨את⟩我美好的珍宝你们带进了你们的殿宇；",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כספי",
-      "english": "我的银子"
+      "gloss": "我的银子"
     },
     {
       "surface": "וזהבי",
-      "english": "和我金子"
+      "gloss": "和我金子"
     },
     {
       "surface": "לקחתם",
-      "english": "你们拿了"
+      "gloss": "你们拿了"
     },
     {
       "surface": "ומחמדי",
-      "english": "⟨את⟩我的珍宝",
+      "gloss": "⟨את⟩我的珍宝",
       "marks": "我的珍宝"
     },
     {
       "surface": "הטבים",
-      "english": "美好的"
+      "gloss": "美好的"
     },
     {
       "surface": "הבאתם",
-      "english": "你们带进了"
+      "gloss": "你们带进了"
     },
     {
       "surface": "להיכליכם",
-      "english": "你们的殿宇"
+      "gloss": "你们的殿宇"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:38.746730222Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 7:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 537,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64217,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64754
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:02:14.155574796Z",
   "translation": "而根基⟨是⟩用寶石鋪設的,大石頭 —— 十肘的石頭和八肘的石頭。",
   "tokens": [
     {
       "surface": "וּ\/מְיֻסָּ֕ד",
-      "english": "而根基"
+      "gloss": "而根基"
     },
     {
       "surface": "אֲבָנִ֥ים",
-      "english": "石頭"
+      "gloss": "石頭"
     },
     {
       "surface": "יְקָר֖וֹת",
-      "english": "寶貴的"
+      "gloss": "寶貴的"
     },
     {
       "surface": "אֲבָנִ֣ים",
-      "english": "石頭"
+      "gloss": "石頭"
     },
     {
       "surface": "גְּדֹל֑וֹת",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "אַבְנֵי֙",
-      "english": "……的石頭"
+      "gloss": "……的石頭"
     },
     {
       "surface": "עֶ֣שֶׂר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "אַמּ֔וֹת",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "וְ\/אַבְנֵ֖י",
-      "english": "和……的石頭"
+      "gloss": "和……的石頭"
     },
     {
       "surface": "שְׁמֹנֶ֥ה",
-      "english": "八"
+      "gloss": "八"
     },
     {
       "surface": "אַמּֽוֹת",
-      "english": "肘"
+      "gloss": "肘"
     }
-  ],
-  "timestamp": "2026-07-17T21:02:14.155574796Z",
-  "model": "glm-5.2"
+  ]
 }

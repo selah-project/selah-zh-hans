@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 35:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20611,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21017
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:50:42.575339685Z",
   "translation": "那时，瞎子的眼必被打开，聋子的耳必被开通。",
   "tokens": [
     {
       "surface": "אָז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "תִּפָּקַחְנָה",
-      "english": "必被打开"
+      "gloss": "必被打开"
     },
     {
       "surface": "עֵינֵי",
-      "english": "……的眼"
+      "gloss": "……的眼"
     },
     {
       "surface": "עִוְרִים",
-      "english": "瞎子"
+      "gloss": "瞎子"
     },
     {
       "surface": "וְ\/אָזְנֵי",
-      "english": "和……的耳"
+      "gloss": "和……的耳"
     },
     {
       "surface": "חֵרְשִׁים",
-      "english": "聋子"
+      "gloss": "聋子"
     },
     {
       "surface": "תִּפָּתַחְנָה",
-      "english": "必被开通"
+      "gloss": "必被开通"
     }
-  ],
-  "timestamp": "2026-07-17T21:50:42.575339685Z",
-  "model": "glm-5.2"
+  ]
 }

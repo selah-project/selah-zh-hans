@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 55:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20829,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21263
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:01:03.901204282Z",
   "translation": "因为我的意念不是你们的意念,你们的道路也不是我的道路,这是雅威的宣告。",
   "tokens": [
     {
       "surface": "כִּ֣י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹ֤א",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "מַחְשְׁב֣וֹתַ\/י",
-      "english": "我的意念"
+      "gloss": "我的意念"
     },
     {
       "surface": "מַחְשְׁב֣וֹתֵי\/כֶ֔ם",
-      "english": "你们的意念"
+      "gloss": "你们的意念"
     },
     {
       "surface": "וְ\/לֹ֥א",
-      "english": "也不是"
+      "gloss": "也不是"
     },
     {
       "surface": "דַּרְכֵ֖י\/כֶ֖ם",
-      "english": "你们的道路"
+      "gloss": "你们的道路"
     },
     {
       "surface": "דְּרָכָ֑\/י",
-      "english": "我的道路"
+      "gloss": "我的道路"
     },
     {
       "surface": "נְאֻ֖ם",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:01:03.901204282Z",
-  "model": "glm-5.2"
+  ]
 }

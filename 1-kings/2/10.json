@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 2:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63789,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64146
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:48.366974363Z",
   "translation": "大卫与他的列祖同睡,被葬在大卫城里。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "与……同睡"
+      "gloss": "与……同睡"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "ויקבר",
-      "english": "被葬"
+      "gloss": "被葬"
     },
     {
       "surface": "בעיר",
-      "english": "在……里"
+      "gloss": "在……里"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:48.366974363Z",
-  "model": "glm-5.2"
+  ]
 }

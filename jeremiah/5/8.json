@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "jeremiah 5:8",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 594,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19116,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19710
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:09:25.263863188Z",
   "translation": "⟨他们是⟩喂饱的马,各人向⟨他⟩同伴的妻子发嘶声。",
   "tokens": [
     {
       "surface": "סוּסִ֥ים",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "מְיֻזָּנִ֖ים",
-      "english": "喂饱的"
+      "gloss": "喂饱的"
     },
     {
       "surface": "מַשְׁכִּ֣ים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הָי֑וּ",
-      "english": "⟨他们是⟩"
+      "gloss": "⟨他们是⟩"
     },
     {
       "surface": "אִ֛ישׁ",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "אֶל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "אֵ֥שֶׁת",
-      "english": "妻子"
+      "gloss": "妻子"
     },
     {
       "surface": "רֵעֵ֖\/הוּ",
-      "english": "⟨他⟩同伴的"
+      "gloss": "⟨他⟩同伴的"
     },
     {
       "surface": "יִצְהָֽלוּ",
-      "english": "发嘶声"
+      "gloss": "发嘶声"
     }
-  ],
-  "timestamp": "2026-07-17T22:09:25.263863188Z",
-  "model": "glm-5.2"
+  ]
 }

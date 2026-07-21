@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 136:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64292,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64576
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:25.222316479Z",
   "translation": "击杀大君王的，因他的慈爱永远长存；",
   "tokens": [
     {
       "surface": "לְ֭\/מַכֵּה",
-      "english": "击杀"
+      "gloss": "击杀"
     },
     {
       "surface": "מְלָכִ֣ים",
-      "english": "君王的"
+      "gloss": "君王的"
     },
     {
       "surface": "גְּדֹלִ֑ים",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "כִּ֖י",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "חַסְדּֽ\/וֹ",
-      "english": "长存；"
+      "gloss": "长存；"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:25.222316479Z",
-  "model": "glm-5.2"
+  ]
 }

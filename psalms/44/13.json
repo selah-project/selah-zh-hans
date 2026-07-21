@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 44:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64434,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64794
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:19.019425622Z",
   "translation": "你⟨将⟩你的百姓卖⟨得⟩毫无财富，并未从他们的价银中加增；",
   "tokens": [
     {
       "surface": "תמכר",
-      "english": "你卖"
+      "gloss": "你卖"
     },
     {
       "surface": "עמך",
-      "english": "你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "בלא",
-      "english": "毫无"
+      "gloss": "毫无"
     },
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "ולא",
-      "english": "并未"
+      "gloss": "并未"
     },
     {
       "surface": "רבית",
-      "english": "加增"
+      "gloss": "加增"
     },
     {
       "surface": "במחיריהם",
-      "english": "从他们的价银中"
+      "gloss": "从他们的价银中"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:19.019425622Z",
-  "model": "glm-5.2"
+  ]
 }

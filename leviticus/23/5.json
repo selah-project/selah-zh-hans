@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 23:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19079,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19480
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:51.318390809Z",
   "translation": "在初一,在⟨那⟩月十四日,在黄昏之间,⟨是⟩Pésaj (逾越节) 归雅威。",
   "tokens": [
     {
       "surface": "בחדש",
-      "english": "在月"
+      "gloss": "在月"
     },
     {
       "surface": "הראשון",
-      "english": "初一的"
+      "gloss": "初一的"
     },
     {
       "surface": "בארבעה",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "לחדש",
-      "english": "⟨那⟩月⟨的日⟩"
+      "gloss": "⟨那⟩月⟨的日⟩"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "הערבים",
-      "english": "黄昏"
+      "gloss": "黄昏"
     },
     {
       "surface": "פסח",
-      "english": "Pésaj (逾越节)"
+      "gloss": "Pésaj (逾越节)"
     },
     {
       "surface": "ליהוה",
-      "english": "归雅威"
+      "gloss": "归雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:51.318390809Z",
-  "model": "glm-5.2"
+  ]
 }

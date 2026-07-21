@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "hosea 11:3",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21354,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21941
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:15:55.205318491Z",
   "translation": "而我，我教导以法莲行走，把他们抱在我的双臂上；但他们不知道 ⟨是⟩ 我医治了他们。",
   "tokens": [
     {
       "surface": "ואנכי",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "תרגלתי",
-      "english": "我教导……行走"
+      "gloss": "我教导……行走"
     },
     {
       "surface": "לאפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "קחם",
-      "english": "把他们抱起"
+      "gloss": "把他们抱起"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "זרועתיו",
-      "english": "我的双臂"
+      "gloss": "我的双臂"
     },
     {
       "surface": "ולא",
-      "english": "但他们不"
+      "gloss": "但他们不"
     },
     {
       "surface": "ידעו",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "כי",
-      "english": "（知道）"
+      "gloss": "（知道）"
     },
     {
       "surface": "רפאתים",
-      "english": "我医治了他们"
+      "gloss": "我医治了他们"
     }
-  ],
-  "timestamp": "2026-07-17T23:15:55.205318491Z",
-  "model": "glm-5.2"
+  ]
 }

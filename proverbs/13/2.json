@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 13:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54485,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54829
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:05.553965665Z",
   "translation": "人从口中的果实食用美好；背信者的*נפש*⟨胃口⟩，强暴。",
   "tokens": [
     {
       "surface": "מפרי",
-      "english": "从……的果实"
+      "gloss": "从……的果实"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "יאכל",
-      "english": "食用"
+      "gloss": "食用"
     },
     {
       "surface": "טוב",
-      "english": "美好"
+      "gloss": "美好"
     },
     {
       "surface": "ונפש",
-      "english": "而背信者的⟨胃口⟩"
+      "gloss": "而背信者的⟨胃口⟩"
     },
     {
       "surface": "בגדים",
-      "english": "背信者"
+      "gloss": "背信者"
     },
     {
       "surface": "חמס",
-      "english": "强暴"
+      "gloss": "强暴"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:05.553965665Z",
-  "model": "glm-5.2"
+  ]
 }

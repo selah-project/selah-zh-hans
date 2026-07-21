@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "esther 9:6",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19179,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19540
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:27:19.005811869Z",
   "translation": "在书珊城堡里,犹太人击杀了⟨并⟩毁灭了五百人。",
   "tokens": [
     {
       "surface": "ובשושן",
-      "english": "在书珊"
+      "gloss": "在书珊"
     },
     {
       "surface": "הבירה",
-      "english": "城堡里"
+      "gloss": "城堡里"
     },
     {
       "surface": "הרגו",
-      "english": "犹太人击杀了"
+      "gloss": "犹太人击杀了"
     },
     {
       "surface": "היהודים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואבד",
-      "english": "⟨并⟩毁灭了"
+      "gloss": "⟨并⟩毁灭了"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     }
-  ],
-  "timestamp": "2026-07-18T01:27:19.005811869Z",
-  "model": "glm-5.2"
+  ]
 }

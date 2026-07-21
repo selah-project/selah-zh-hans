@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 8:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19650,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20062
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:33:15.972790729Z",
   "translation": "你吃饱和足以后,要称颂雅威你的以罗欣,因⟨他赐⟩给你的那美地。",
   "tokens": [
     {
       "surface": "ואכלת",
-      "english": "你吃"
+      "gloss": "你吃"
     },
     {
       "surface": "ושבעת",
-      "english": "饱和足以后"
+      "gloss": "饱和足以后"
     },
     {
       "surface": "וברכת",
-      "english": "要称颂"
+      "gloss": "要称颂"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "על",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "הארץ",
-      "english": "⟨那⟩地"
+      "gloss": "⟨那⟩地"
     },
     {
       "surface": "הטבה",
-      "english": "美"
+      "gloss": "美"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נתן",
-      "english": "⟨他赐⟩"
+      "gloss": "⟨他赐⟩"
     },
     {
       "surface": "לך",
-      "english": "给你"
+      "gloss": "给你"
     }
-  ],
-  "timestamp": "2026-07-17T19:33:15.972790729Z",
-  "model": "glm-5.2"
+  ]
 }

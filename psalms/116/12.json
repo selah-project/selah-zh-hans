@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 116:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64284,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64750
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:18.178753101Z",
   "translation": "我能拿什么回报给雅威 ⟨为⟩ ⟨他⟩ 向我施行的⟨一切⟩恩待呢？",
   "tokens": [
     {
       "surface": "מָֽה",
-      "english": "什么 \/ 何"
+      "gloss": "什么 \/ 何"
     },
     {
       "surface": "אָשִׁ֥יב",
-      "english": "我必回报 \/ 我要归还"
+      "gloss": "我必回报 \/ 我要归还"
     },
     {
       "surface": "לַ\/יהוָ֑ה",
-      "english": "给雅威"
+      "gloss": "给雅威"
     },
     {
       "surface": "כָּֽל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תַּגְמוּל֥וֹ\/הִי",
-      "english": "他的恩待 \/ 他的报酬作为"
+      "gloss": "他的恩待 \/ 他的报酬作为"
     },
     {
       "surface": "עָלָֽ\/י",
-      "english": "在我身上 \/ 向着我"
+      "gloss": "在我身上 \/ 向着我"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:18.178753101Z",
-  "model": "glm-5.2"
+  ]
 }

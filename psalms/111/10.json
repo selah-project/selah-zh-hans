@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 111:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 536,
-    "prompt_tokens": 64919,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65455
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:19.816779445Z",
   "translation": "智慧的起初是对雅威的敬畏；凡实行它们的人都有美好的悟性；对他的称颂永远长存。",
   "tokens": [
     {
       "surface": "ראשית",
-      "english": "智慧的起初"
+      "gloss": "智慧的起初"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "יראת",
-      "english": "对雅威的敬畏"
+      "gloss": "对雅威的敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שכל",
-      "english": "悟性"
+      "gloss": "悟性"
     },
     {
       "surface": "טוב",
-      "english": "美好的"
+      "gloss": "美好的"
     },
     {
       "surface": "לכל",
-      "english": "凡...的人"
+      "gloss": "凡...的人"
     },
     {
       "surface": "עשיהם",
-      "english": "实行它们"
+      "gloss": "实行它们"
     },
     {
       "surface": "תהלתו",
-      "english": "对他的称颂"
+      "gloss": "对他的称颂"
     },
     {
       "surface": "עמדת",
-      "english": "长存"
+      "gloss": "长存"
     },
     {
       "surface": "לעד",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:19.816779445Z",
-  "model": "glm-4.5"
+  ]
 }

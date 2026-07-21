@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 93:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 93,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64625,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65015
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:32.604697311Z",
   "translation": "你的见证⟨⟩极为确实；圣洁⟨⟩适合⟨你的⟩家，雅威啊，直到长久之日。",
   "tokens": [
     {
       "surface": "עדתיך",
-      "english": "你的见证"
+      "gloss": "你的见证"
     },
     {
       "surface": "נאמנו",
-      "english": "极为确实"
+      "gloss": "极为确实"
     },
     {
       "surface": "מאד",
-      "english": "极"
+      "gloss": "极"
     },
     {
       "surface": "לביתך",
-      "english": "⟨你的⟩家"
+      "gloss": "⟨你的⟩家"
     },
     {
       "surface": "נאוה",
-      "english": "适合"
+      "gloss": "适合"
     },
     {
       "surface": "קדש",
-      "english": "圣洁"
+      "gloss": "圣洁"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "לארך",
-      "english": "直到长久"
+      "gloss": "直到长久"
     },
     {
       "surface": "ימים",
-      "english": "之日"
+      "gloss": "之日"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:32.604697311Z",
-  "model": "glm-5.2"
+  ]
 }

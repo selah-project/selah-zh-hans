@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 29:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64462,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64789
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:27.531136802Z",
   "translation": "雅威在洪水之时坐着为王,雅威坐着为王,直到永远。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "למבול",
-      "english": "在洪水之时"
+      "gloss": "在洪水之时"
     },
     {
       "surface": "ישב",
-      "english": "坐着为王"
+      "gloss": "坐着为王"
     },
     {
       "surface": "וישב",
-      "english": "坐着为王"
+      "gloss": "坐着为王"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מלך",
-      "english": "为王"
+      "gloss": "为王"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:27.531136802Z",
-  "model": "glm-5.2"
+  ]
 }

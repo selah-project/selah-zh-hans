@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "isaiah 41:25",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21437,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 22071
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:08.900138613Z",
   "translation": "我从北方唤醒了⟨一位⟩，他就来；从日出之处，⟨一位⟩要呼唤我的名；他必来到，像⟨踩踏⟩泥土一样⟨踩踏⟩官长，又像陶匠踩踏泥巴。",
   "tokens": [
     {
       "surface": "העירותי",
-      "english": "我唤醒了"
+      "gloss": "我唤醒了"
     },
     {
       "surface": "מצפון",
-      "english": "从北方"
+      "gloss": "从北方"
     },
     {
       "surface": "ויאת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他（受词标记前置 ו）"
     },
     {
       "surface": "ממזרח",
-      "english": "从……之处"
+      "gloss": "从……之处"
     },
     {
       "surface": "שמש",
-      "english": "日出"
+      "gloss": "日出"
     },
     {
       "surface": "יקרא",
-      "english": "他要呼唤"
+      "gloss": "他要呼唤"
     },
     {
       "surface": "בשמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "ויבא",
-      "english": "他必来到"
+      "gloss": "他必来到"
     },
     {
       "surface": "סגנים",
-      "english": "官长"
+      "gloss": "官长"
     },
     {
       "surface": "כמו",
-      "english": "像"
+      "gloss": "像"
     },
     {
       "surface": "חמר",
-      "english": "泥土"
+      "gloss": "泥土"
     },
     {
       "surface": "וכמו",
-      "english": "又像"
+      "gloss": "又像"
     },
     {
       "surface": "יוצר",
-      "english": "陶匠"
+      "gloss": "陶匠"
     },
     {
       "surface": "ירמס",
-      "english": "踩踏"
+      "gloss": "踩踏"
     },
     {
       "surface": "טיט",
-      "english": "泥巴"
+      "gloss": "泥巴"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:08.900138613Z",
-  "model": "glm-5.2"
+  ]
 }

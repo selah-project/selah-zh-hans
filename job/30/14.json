@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 30:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21520,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21908
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:22.385864931Z",
   "translation": "如⟨一场⟩大破口,他们宽阔地涌来;在毁坏之下,他们滚滚而来。",
   "tokens": [
     {
       "surface": "כפרץ",
-      "english": "如⟨一场⟩破口"
+      "gloss": "如⟨一场⟩破口"
     },
     {
       "surface": "רחב",
-      "english": "宽阔"
+      "gloss": "宽阔"
     },
     {
       "surface": "יאתיו",
-      "english": "他们涌来"
+      "gloss": "他们涌来"
     },
     {
       "surface": "תחת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "שאה",
-      "english": "毁坏"
+      "gloss": "毁坏"
     },
     {
       "surface": "התגלגלו",
-      "english": "他们滚滚而来"
+      "gloss": "他们滚滚而来"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:22.385864931Z",
-  "model": "glm-5.2"
+  ]
 }

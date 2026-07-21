@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 3:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64096,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64515
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:58:55.216841801Z",
   "translation": " ⟨而⟩这件事在阿多奈眼中看为好,因为所罗门求了⟨את⟩这件事。",
   "tokens": [
     {
       "surface": "וייטב",
-      "english": "⟨而⟩看为好"
+      "gloss": "⟨而⟩看为好"
     },
     {
       "surface": "הדבר",
-      "english": "这件事"
+      "gloss": "这件事"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שאל",
-      "english": "求了"
+      "gloss": "求了"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这件事"
     },
     {
       "surface": "הדבר",
-      "english": "这件事"
+      "gloss": "这件事"
     },
     {
       "surface": "הזה",
-      "english": "这个"
+      "gloss": "这个"
     }
-  ],
-  "timestamp": "2026-07-17T20:58:55.216841801Z",
-  "model": "glm-5.2"
+  ]
 }

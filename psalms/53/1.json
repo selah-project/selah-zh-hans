@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 53:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 53,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64356,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64684
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:32.048121917Z",
   "translation": "给诗班长,基于玛哈拉特,训诲诗,属大卫。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给诗班长"
+      "gloss": "给诗班长"
     },
     {
       "surface": "על",
-      "english": "基于"
+      "gloss": "基于"
     },
     {
       "surface": "מחלת",
-      "english": "玛哈拉特"
+      "gloss": "玛哈拉特"
     },
     {
       "surface": "משכיל",
-      "english": "训诲诗"
+      "gloss": "训诲诗"
     },
     {
       "surface": "לדוד",
-      "english": "属大卫"
+      "gloss": "属大卫"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:32.048121917Z",
-  "model": "glm-5.2"
+  ]
 }

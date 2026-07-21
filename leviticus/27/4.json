@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 27:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18901,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19202
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:17.930706111Z",
   "translation": "若是女性,那么你的估值就是三十舍客勒。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若是"
+      "gloss": "若是"
     },
     {
       "surface": "נקבה",
-      "english": "女性"
+      "gloss": "女性"
     },
     {
       "surface": "הוא",
-      "english": "⟨她⟩"
+      "gloss": "⟨她⟩"
     },
     {
       "surface": "והיה",
-      "english": "那么"
+      "gloss": "那么"
     },
     {
       "surface": "ערכך",
-      "english": "你的估值"
+      "gloss": "你的估值"
     },
     {
       "surface": "שלשים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "שקל",
-      "english": "舍客勒"
+      "gloss": "舍客勒"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:17.930706111Z",
-  "model": "glm-5.2"
+  ]
 }

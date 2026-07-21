@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 115:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64424,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64706
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:58.260331854Z",
   "translation": "至于我们,我们要称颂 雅,从今时直到永远。你们要赞美 雅!",
   "tokens": [
     {
       "surface": "ואנחנו",
-      "english": "至于我们"
+      "gloss": "至于我们"
     },
     {
       "surface": "נברך",
-      "english": "我们要称颂"
+      "gloss": "我们要称颂"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "מעתה",
-      "english": "从今时"
+      "gloss": "从今时"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:58.260331854Z",
-  "model": "glm-5.2"
+  ]
 }

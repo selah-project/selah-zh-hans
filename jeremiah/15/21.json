@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "jeremiah 15:21",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18849,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19192
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:15:51.277212972Z",
   "translation": "我将你从恶人手中救出，我将你从残暴者掌中赎回。",
   "tokens": [
     {
       "surface": "והצלתיך",
-      "english": "我将你……救出"
+      "gloss": "我将你……救出"
     },
     {
       "surface": "מיד",
-      "english": "从……手中"
+      "gloss": "从……手中"
     },
     {
       "surface": "רעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ופדתיך",
-      "english": "我将你……赎回"
+      "gloss": "我将你……赎回"
     },
     {
       "surface": "מכף",
-      "english": "从……掌中"
+      "gloss": "从……掌中"
     },
     {
       "surface": "ערצים",
-      "english": "残暴者"
+      "gloss": "残暴者"
     }
-  ],
-  "timestamp": "2026-07-17T22:15:51.277212972Z",
-  "model": "glm-5.2"
+  ]
 }

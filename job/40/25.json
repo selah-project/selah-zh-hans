@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "job 40:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21409,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21872
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:22.117154385Z",
   "translation": "你能用鱼钩拉住利维坦吗？能用绳子压下⟨它的⟩舌头吗？",
   "tokens": [
     {
       "surface": "תִּמְשֹׁ֣ךְ",
-      "english": "你能……拉住"
+      "gloss": "你能……拉住"
     },
     {
       "surface": "לִוְיָתָ֣ן",
-      "english": "利维坦"
+      "gloss": "利维坦"
     },
     {
       "surface": "בְּ\/חַכָּ֑ה",
-      "english": "用鱼钩"
+      "gloss": "用鱼钩"
     },
     {
       "surface": "וּ֝\/בְ\/חֶ֗בֶל",
-      "english": "能用绳子"
+      "gloss": "能用绳子"
     },
     {
       "surface": "תַּשְׁקִ֥יעַ",
-      "english": "压下"
+      "gloss": "压下"
     },
     {
       "surface": "לְשֹׁנֽ\/וֹ",
-      "english": "⟨它的⟩舌头"
+      "gloss": "⟨它的⟩舌头"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:22.117154385Z",
-  "model": "glm-5.2"
+  ]
 }

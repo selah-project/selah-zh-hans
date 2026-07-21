@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-samuel 2:3",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19015,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19362
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:40:22.868705691Z",
   "translation": "和大卫带上他的手下人,各人与⟨他的⟩家眷;他们就住在希伯仑的诸城中。",
   "tokens": [
     {
       "surface": "ו\/אנשיו",
-      "english": "和他的手下人"
+      "gloss": "和他的手下人"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "עמו",
-      "english": "与他同在的"
+      "gloss": "与他同在的"
     },
     {
       "surface": "העלה",
-      "english": "带上"
+      "gloss": "带上"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "ו\/ביתו",
-      "english": "和他的家眷"
+      "gloss": "和他的家眷"
     },
     {
       "surface": "ו\/ישבו",
-      "english": "他们就住"
+      "gloss": "他们就住"
     },
     {
       "surface": "ב\/ערי",
-      "english": "在……的诸城中"
+      "gloss": "在……的诸城中"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     }
-  ],
-  "timestamp": "2026-07-17T20:40:22.868705691Z",
-  "model": "glm-5.2"
+  ]
 }

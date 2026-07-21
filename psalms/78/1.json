@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 78:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64692,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65172
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:22.558455309Z",
   "translation": "训诲诗,属亚萨。我民哪,侧耳听我的妥拉;你们倾斜耳朵⟨去听⟩我口的话。",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "训诲诗"
+      "gloss": "训诲诗"
     },
     {
       "surface": "לאסף",
-      "english": "属亚萨"
+      "gloss": "属亚萨"
     },
     {
       "surface": "האזינה",
-      "english": "侧耳听"
+      "gloss": "侧耳听"
     },
     {
       "surface": "עמי",
-      "english": "我民哪"
+      "gloss": "我民哪"
     },
     {
       "surface": "תורתי",
-      "english": "我的妥拉"
+      "gloss": "我的妥拉"
     },
     {
       "surface": "הטו",
-      "english": "倾斜"
+      "gloss": "倾斜"
     },
     {
       "surface": "אזנכם",
-      "english": "你们的耳朵"
+      "gloss": "你们的耳朵"
     },
     {
       "surface": "לאמרי",
-      "english": "⟨去听⟩……的话"
+      "gloss": "⟨去听⟩……的话"
     },
     {
       "surface": "פי",
-      "english": "我口的"
+      "gloss": "我口的"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:22.558455309Z",
-  "model": "glm-5.2"
+  ]
 }

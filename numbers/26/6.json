@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "numbers 26:6",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19532,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20127
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:06.377295212Z",
   "translation": "属 的，הַֽ\/חֶצְרוֹנִ֑י (HaChezroni) 家族；属 的，הַ\/כַּרְמִֽי (HaCarmi) 家族。",
   "tokens": [
     {
       "surface": "לְ\/חֶצְרֹ֕ן",
-      "english": "属"
+      "gloss": "属"
     },
     {
       "surface": "מִשְׁפַּ֖חַת",
-      "english": "的……家族"
+      "gloss": "的……家族"
     },
     {
       "surface": "הַֽ\/חֶצְרוֹנִ֑י",
-      "english": "הַ\/חֶצְרוֹנִ֑י (HaChezroni)"
+      "gloss": "הַ\/חֶצְרוֹנִ֑י (HaChezroni)"
     },
     {
       "surface": "לְ\/כַרְמִ֕י",
-      "english": "属"
+      "gloss": "属"
     },
     {
       "surface": "מִשְׁפַּ֖חַת",
-      "english": "的……家族"
+      "gloss": "的……家族"
     },
     {
       "surface": "הַ\/כַּרְמִֽי",
-      "english": "הַ\/כַּרְמִֽי (HaCarmi)"
+      "gloss": "הַ\/כַּרְמִֽי (HaCarmi)"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:06.377295212Z",
-  "model": "glm-5.2"
+  ]
 }

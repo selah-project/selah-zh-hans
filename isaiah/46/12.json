@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 46:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20438,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20740
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:56:56.413433505Z",
   "translation": "你们要听我 —— ⟨你们这些⟩ 心里固执的,远离公义的人!",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אבירי",
-      "english": "固执的 ⟨你们这些⟩"
+      "gloss": "固执的 ⟨你们这些⟩"
     },
     {
       "surface": "לב",
-      "english": "心里"
+      "gloss": "心里"
     },
     {
       "surface": "הרחוקים",
-      "english": "远离……的人"
+      "gloss": "远离……的人"
     },
     {
       "surface": "מצדקה",
-      "english": "公义"
+      "gloss": "公义"
     }
-  ],
-  "timestamp": "2026-07-17T21:56:56.413433505Z",
-  "model": "glm-5.2"
+  ]
 }

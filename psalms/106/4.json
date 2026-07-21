@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 106:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64460,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64852
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:16.616352149Z",
   "translation": "雅威啊,在⟨你⟩向你百姓的恩典中记念我;在你的拯救中眷顾我。",
   "tokens": [
     {
       "surface": "זָכְרֵ֣נִי",
-      "english": "记念我"
+      "gloss": "记念我"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בִּ\/רְצ֣וֹן",
-      "english": "在⟨你⟩……的恩典中"
+      "gloss": "在⟨你⟩……的恩典中"
     },
     {
       "surface": "עַמֶּ֑\/ךָ",
-      "english": "向你百姓"
+      "gloss": "向你百姓"
     },
     {
       "surface": "פָּ֝קְדֵ֗\/נִי",
-      "english": "眷顾我"
+      "gloss": "眷顾我"
     },
     {
       "surface": "בִּ\/ישׁוּעָתֶֽ\/ךָ",
-      "english": "在你的拯救中"
+      "gloss": "在你的拯救中"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:16.616352149Z",
-  "model": "glm-5.2"
+  ]
 }

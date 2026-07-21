@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 6:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21540,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21971
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:16.342089128Z",
   "translation": "商队的道路弯曲偏转，⟨他们⟩上到荒野中，便亡失了。",
   "tokens": [
     {
       "surface": "ילפתו",
-      "english": "弯曲偏转"
+      "gloss": "弯曲偏转"
     },
     {
       "surface": "ארחות",
-      "english": "商队的道路"
+      "gloss": "商队的道路"
     },
     {
       "surface": "דרכם",
-      "english": "他们的道路"
+      "gloss": "他们的道路"
     },
     {
       "surface": "יעלו",
-      "english": "⟨他们⟩上到"
+      "gloss": "⟨他们⟩上到"
     },
     {
       "surface": "בתהו",
-      "english": "荒野中"
+      "gloss": "荒野中"
     },
     {
       "surface": "ויאבדו",
-      "english": "便亡失了"
+      "gloss": "便亡失了"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:16.342089128Z",
-  "model": "glm-5.2"
+  ]
 }

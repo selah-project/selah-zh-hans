@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "esther 6:7",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19269,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19689
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:26:11.463746177Z",
   "translation": "哈曼对王说：那王所喜爱尊荣的人⟨，⟩",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "המן",
-      "english": "哈曼"
+      "gloss": "哈曼"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חפץ",
-      "english": "所喜爱"
+      "gloss": "所喜爱"
     },
     {
       "surface": "ביקרו",
-      "english": "尊荣他"
+      "gloss": "尊荣他"
     }
-  ],
-  "timestamp": "2026-07-18T01:26:11.463746177Z",
-  "model": "glm-5.2"
+  ]
 }

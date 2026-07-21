@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 118,
   "ref": "psalms 119:118",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64445,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64806
-  },
+  "verse": 118,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:53.915294867Z",
   "translation": "你唾弃了一切从你的律例偏离的人，因为他们的诡诈就是虚假。",
   "tokens": [
     {
       "surface": "סלית",
-      "english": "你唾弃了"
+      "gloss": "你唾弃了"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שוגים",
-      "english": "偏离的人"
+      "gloss": "偏离的人"
     },
     {
       "surface": "מחקיך",
-      "english": "从你的律例"
+      "gloss": "从你的律例"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שקר",
-      "english": "虚假"
+      "gloss": "虚假"
     },
     {
       "surface": "תרמיתם",
-      "english": "他们的诡诈"
+      "gloss": "他们的诡诈"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:53.915294867Z",
-  "model": "glm-5.2"
+  ]
 }

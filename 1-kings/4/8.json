@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-kings 4:8",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 221,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63713,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63934
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:38.081910457Z",
   "translation": "这些是他们的名字：本-胡尔，在以法莲山地。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些是"
+      "gloss": "这些是"
     },
     {
       "surface": "שמותם",
-      "english": "他们的名字"
+      "gloss": "他们的名字"
     },
     {
       "surface": "בן",
-      "english": "本-（……之子）"
+      "gloss": "本-（……之子）"
     },
     {
       "surface": "חור",
-      "english": "胡尔"
+      "gloss": "胡尔"
     },
     {
       "surface": "בהר",
-      "english": "在山地"
+      "gloss": "在山地"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:38.081910457Z",
-  "model": "glm-5.2"
+  ]
 }

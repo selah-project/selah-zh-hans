@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-samuel 30:2",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18683,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19180
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:55.367025545Z",
   "translation": "他们掳走了⟨את⟩其中的妇女，从大到小；没有杀死任何人，就驱赶着⟨走了⟩，往自己的路去了。",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "他们掳走了"
+      "gloss": "他们掳走了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "其中的妇女"
     },
     {
       "surface": "הנשים",
-      "english": "其中的妇女"
+      "gloss": "其中的妇女"
     },
     {
       "surface": "אשר",
-      "english": "（关系词）"
+      "gloss": "（关系词）"
     },
     {
       "surface": "בה",
-      "english": "在⟨她\/它⟩（其中）"
+      "gloss": "在⟨她\/它⟩（其中）"
     },
     {
       "surface": "מקטן",
-      "english": "从小"
+      "gloss": "从小"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "גדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "המיתו",
-      "english": "他们杀死了"
+      "gloss": "他们杀死了"
     },
     {
       "surface": "איש",
-      "english": "任何人"
+      "gloss": "任何人"
     },
     {
       "surface": "וינהגו",
-      "english": "就驱赶着"
+      "gloss": "就驱赶着"
     },
     {
       "surface": "וילכו",
-      "english": "走了"
+      "gloss": "走了"
     },
     {
       "surface": "לדרכם",
-      "english": "往自己的路"
+      "gloss": "往自己的路"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:55.367025545Z",
-  "model": "glm-5.2"
+  ]
 }

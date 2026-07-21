@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 33:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64242,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64568
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:59.755932696Z",
   "translation": "为要救他们的נפשׁ（生命气息）脱离死亡，并在饥荒中使他们存活。",
   "tokens": [
     {
       "surface": "להציל",
-      "english": "为要救"
+      "gloss": "为要救"
     },
     {
       "surface": "ממות",
-      "english": "脱离死亡"
+      "gloss": "脱离死亡"
     },
     {
       "surface": "נפשם",
-      "english": "他们的נפשׁ"
+      "gloss": "他们的נפשׁ"
     },
     {
       "surface": "ולחיותם",
-      "english": "并使他们存活"
+      "gloss": "并使他们存活"
     },
     {
       "surface": "ברעב",
-      "english": "在饥荒中"
+      "gloss": "在饥荒中"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:59.755932696Z",
-  "model": "glm-5.2"
+  ]
 }

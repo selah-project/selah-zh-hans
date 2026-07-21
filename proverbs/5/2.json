@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 5:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54222,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54524
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:41.294276239Z",
   "translation": "为要谨守谋略,你的嘴唇也必守护知识。",
   "tokens": [
     {
       "surface": "לשמר",
-      "english": "为要谨守"
+      "gloss": "为要谨守"
     },
     {
       "surface": "מזמות",
-      "english": "谋略"
+      "gloss": "谋略"
     },
     {
       "surface": "ודעת",
-      "english": "而知识"
+      "gloss": "而知识"
     },
     {
       "surface": "שפתיך",
-      "english": "你的嘴唇"
+      "gloss": "你的嘴唇"
     },
     {
       "surface": "ינצרו",
-      "english": "它们必守护"
+      "gloss": "它们必守护"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:41.294276239Z",
-  "model": "glm-5.2"
+  ]
 }

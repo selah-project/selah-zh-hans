@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "jeremiah 13:9",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 531,
-    "prompt_tokens": 19632,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20163
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:10.743388004Z",
   "translation": "雅威如此说:我必照样败坏犹大的骄傲,和耶路撒冷极大的骄傲。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ככה",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "אשחית",
-      "english": "我必败坏"
+      "gloss": "我必败坏"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "骄傲"
     },
     {
       "surface": "גאון",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "骄傲"
     },
     {
       "surface": "גאון",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "הרב",
-      "english": "极大的"
+      "gloss": "极大的"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:10.743388004Z",
-  "model": "glm-4.5"
+  ]
 }

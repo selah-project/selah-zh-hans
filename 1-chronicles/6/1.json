@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-chronicles 6:1",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58299,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58579
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:55:08.150573728Z",
   "translation": "利未的子 ⟨是⟩ 革舜、哥辖 米拉利。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "גרשם",
-      "english": "革舜"
+      "gloss": "革舜"
     },
     {
       "surface": "קהת",
-      "english": "哥辖"
+      "gloss": "哥辖"
     },
     {
       "surface": "ומררי",
-      "english": "米拉利"
+      "gloss": "米拉利"
     }
-  ],
-  "timestamp": "2026-07-18T01:55:08.150573728Z",
-  "model": "glm-5.2"
+  ]
 }

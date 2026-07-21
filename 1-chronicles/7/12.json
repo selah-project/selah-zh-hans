@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 7:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58576,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58927
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:56:26.648978841Z",
   "translation": "还有舒平和胡平,是伊尔的儿子;胡实姆,是⟨另一个人⟩亚赫尔的儿子。",
   "tokens": [
     {
       "surface": "ושפם",
-      "english": "还有舒平"
+      "gloss": "还有舒平"
     },
     {
       "surface": "וחפם",
-      "english": "和胡平"
+      "gloss": "和胡平"
     },
     {
       "surface": "בני",
-      "english": "是……的儿子"
+      "gloss": "是……的儿子"
     },
     {
       "surface": "עיר",
-      "english": "伊尔"
+      "gloss": "伊尔"
     },
     {
       "surface": "חשם",
-      "english": "胡实姆"
+      "gloss": "胡实姆"
     },
     {
       "surface": "בני",
-      "english": "是……的儿子"
+      "gloss": "是……的儿子"
     },
     {
       "surface": "אחר",
-      "english": "亚赫尔 (⟨另一个人⟩)"
+      "gloss": "亚赫尔 (⟨另一个人⟩)"
     }
-  ],
-  "timestamp": "2026-07-18T01:56:26.648978841Z",
-  "model": "glm-5.2"
+  ]
 }

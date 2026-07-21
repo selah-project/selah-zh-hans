@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "proverbs 2:19",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54467,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54820
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:10.349143067Z",
   "translation": "凡进入她那里的,不⟨能⟩回转,也达不到生命的道路。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "באיה",
-      "english": "进入她那里的"
+      "gloss": "进入她那里的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישובון",
-      "english": "⟨能⟩回转"
+      "gloss": "⟨能⟩回转"
     },
     {
       "surface": "ולא",
-      "english": "也达不"
+      "gloss": "也达不"
     },
     {
       "surface": "ישיגו",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ארחות",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "חיים",
-      "english": "生命的"
+      "gloss": "生命的"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:10.349143067Z",
-  "model": "glm-5.2"
+  ]
 }

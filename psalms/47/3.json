@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 47:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64575,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64945
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:22.196571515Z",
   "translation": "因为 雅威 至高 可畏,⟨是⟩伟大的王,在全地之上。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עליון",
-      "english": "至高"
+      "gloss": "至高"
     },
     {
       "surface": "נורא",
-      "english": "可畏"
+      "gloss": "可畏"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "גדול",
-      "english": "伟大的"
+      "gloss": "伟大的"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:22.196571515Z",
-  "model": "glm-5.2"
+  ]
 }

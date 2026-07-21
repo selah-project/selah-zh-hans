@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
   "ref": "psalms 119:51",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64891
-  },
+  "verse": 51,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:01.898428438Z",
   "translation": "狂妄者极大地嘲弄了我，⟨但⟩从你的妥拉中我没有⟨转⟩偏。",
   "tokens": [
     {
       "surface": "זֵ֭דִים",
-      "english": "狂妄者"
+      "gloss": "狂妄者"
     },
     {
       "surface": "הֱלִיצֻ֣\/נִי",
-      "english": "极大地嘲弄了我"
+      "gloss": "极大地嘲弄了我"
     },
     {
       "surface": "עַד",
-      "english": "极大地"
+      "gloss": "极大地"
     },
     {
       "surface": "מְאֹ֑ד",
-      "english": "极大地"
+      "gloss": "极大地"
     },
     {
       "surface": "מִ֝\/תּֽוֹרָתְ\/ךָ֗",
-      "english": "从你的妥拉中"
+      "gloss": "从你的妥拉中"
     },
     {
       "surface": "לֹ֣א",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נָטִֽיתִי",
-      "english": "我转偏"
+      "gloss": "我转偏"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:01.898428438Z",
-  "model": "glm-5.2"
+  ]
 }

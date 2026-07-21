@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 3:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21538,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21916
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:48.656265012Z",
   "translation": "微小和⟨的⟩大的,在那里⟨都⟩⟨一样⟩;仆人摆脱了他的主人们。",
   "tokens": [
     {
       "surface": "קטן",
-      "english": "微小"
+      "gloss": "微小"
     },
     {
       "surface": "וגדול",
-      "english": "和大的"
+      "gloss": "和大的"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "הוא",
-      "english": "⟨都一样⟩"
+      "gloss": "⟨都一样⟩"
     },
     {
       "surface": "ועבד",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "חפשי",
-      "english": "摆脱了"
+      "gloss": "摆脱了"
     },
     {
       "surface": "מאדניו",
-      "english": "他的主人们"
+      "gloss": "他的主人们"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:48.656265012Z",
-  "model": "glm-5.2"
+  ]
 }

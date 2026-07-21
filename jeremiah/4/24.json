@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "jeremiah 4:24",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18956,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19292
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:08:39.979666790Z",
   "translation": "我观看群山,看哪,它们在震动,所有的丘陵都晃动了。",
   "tokens": [
     {
       "surface": "ראיתי",
-      "english": "我观看"
+      "gloss": "我观看"
     },
     {
       "surface": "ההרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "רעשים",
-      "english": "它们在震动"
+      "gloss": "它们在震动"
     },
     {
       "surface": "וכל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "הגבעות",
-      "english": "丘陵"
+      "gloss": "丘陵"
     },
     {
       "surface": "התקלקלו",
-      "english": "都晃动了"
+      "gloss": "都晃动了"
     }
-  ],
-  "timestamp": "2026-07-17T22:08:39.979666790Z",
-  "model": "glm-5.2"
+  ]
 }

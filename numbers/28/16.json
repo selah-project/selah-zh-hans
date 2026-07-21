@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 28:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19587,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19933
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:20:48.889816640Z",
   "translation": "在第一个月，⟨就是⟩该月的十四日，⟨是⟩雅威的逾越节。",
   "tokens": [
     {
       "surface": "ובחדש",
-      "english": "在⟨…⟩月"
+      "gloss": "在⟨…⟩月"
     },
     {
       "surface": "הראשון",
-      "english": "第一"
+      "gloss": "第一"
     },
     {
       "surface": "בארבעה",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "יום",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "לחדש",
-      "english": "该月的"
+      "gloss": "该月的"
     },
     {
       "surface": "פסח",
-      "english": "⟨是⟩逾越节"
+      "gloss": "⟨是⟩逾越节"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     }
-  ],
-  "timestamp": "2026-07-17T19:20:48.889816640Z",
-  "model": "glm-5.2"
+  ]
 }

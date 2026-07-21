@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 20:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 784,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20669,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21453
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:11.859692839Z",
   "translation": "你们为什么使我们从埃及上來，带⟨我们⟩⟨את⟩到这邪恶之地？这不是⟨一⟩处有种子之地，也没有无花果、葡萄藤、石榴，也没有水可喝。",
   "tokens": [
     {
       "surface": "וְ\/לָ\/מָ֤ה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "הֶֽעֱלִיתֻ֨\/נוּ֙",
-      "english": "你们使我们上來"
+      "gloss": "你们使我们上來"
     },
     {
       "surface": "מִ\/מִּצְרַ֔יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "לְ\/הָבִ֣יא",
-      "english": "带"
+      "gloss": "带"
     },
     {
       "surface": "אֹתָ֔\/נוּ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们"
     },
     {
       "surface": "אֶל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הַ\/מָּק֥וֹם",
-      "english": "之地"
+      "gloss": "之地"
     },
     {
       "surface": "הָ\/רָ֖ע",
-      "english": "这邪恶"
+      "gloss": "这邪恶"
     },
     {
       "surface": "הַ\/זֶּ֑ה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "מְק֣וֹם",
-      "english": "处"
+      "gloss": "处"
     },
     {
       "surface": "זֶ֗רַע",
-      "english": "有种子"
+      "gloss": "有种子"
     },
     {
       "surface": "וּ\/תְאֵנָ֤ה",
-      "english": "也没有无花果"
+      "gloss": "也没有无花果"
     },
     {
       "surface": "וְ\/גֶ֨פֶן֙",
-      "english": "葡萄藤"
+      "gloss": "葡萄藤"
     },
     {
       "surface": "וְ\/רִמּ֔וֹן",
-      "english": "石榴"
+      "gloss": "石榴"
     },
     {
       "surface": "וּ\/מַ֥יִם",
-      "english": "也没有水"
+      "gloss": "也没有水"
     },
     {
       "surface": "אַ֖יִן",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לִ\/שְׁתּֽוֹת",
-      "english": "可喝"
+      "gloss": "可喝"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:11.859692839Z",
-  "model": "glm-5.2"
+  ]
 }

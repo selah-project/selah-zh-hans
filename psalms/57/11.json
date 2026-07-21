@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 57:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 469,
-    "prompt_tokens": 64520,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64989
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:33.455592281Z",
   "translation": "因为你的慈爱 ⟨达到⟩ 诸天,你的诚实 ⟨达到⟩ 云霄。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גדל",
-      "english": "伟大"
+      "gloss": "伟大"
     },
     {
       "surface": "עד",
-      "english": "⟨达到⟩"
+      "gloss": "⟨达到⟩"
     },
     {
       "surface": "שמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "חסדך",
-      "english": "你的慈爱"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "ועד",
-      "english": "⟨达到⟩"
+      "gloss": "⟨达到⟩"
     },
     {
       "surface": "שחקים",
-      "english": "云霄"
+      "gloss": "云霄"
     },
     {
       "surface": "אמתך",
-      "english": "你的诚实"
+      "gloss": "你的诚实"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:33.455592281Z",
-  "model": "glm-4.5"
+  ]
 }

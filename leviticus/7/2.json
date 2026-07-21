@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "leviticus 7:2",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19762,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20276
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:34.158554836Z",
   "translation": "在⟨他们⟩宰杀⟨את⟩燔祭之处,⟨他们⟩要宰杀⟨את⟩赎愆祭,他的血他要弹在祭坛四围。",
   "tokens": [
     {
       "surface": "במקום",
-      "english": "在……之处"
+      "gloss": "在……之处"
     },
     {
       "surface": "אשר",
-      "english": "(关系词)"
+      "gloss": "(关系词)"
     },
     {
       "surface": "ישחטו",
-      "english": "⟨他们⟩宰杀"
+      "gloss": "⟨他们⟩宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭"
     },
     {
       "surface": "העלה",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "ישחטו",
-      "english": "⟨他们⟩要宰杀"
+      "gloss": "⟨他们⟩要宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "赎愆祭"
     },
     {
       "surface": "האשם",
-      "english": "赎愆祭"
+      "gloss": "赎愆祭"
     },
     {
       "surface": "ואת",
-      "english": "而⟨את⟩",
+      "gloss": "而⟨את⟩",
       "marks": "他的血"
     },
     {
       "surface": "דמו",
-      "english": "他的血"
+      "gloss": "他的血"
     },
     {
       "surface": "יזרק",
-      "english": "他要弹"
+      "gloss": "他要弹"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "המזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "סביב",
-      "english": "四围"
+      "gloss": "四围"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:34.158554836Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "numbers 3:32",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20022,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20451
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:10.327132529Z",
   "translation": "利未首领的首领⟨是⟩以利撒——亚伦之子、那位祭司；⟨他的⟩职务⟨是⟩守护圣所职责的守卫者。",
   "tokens": [
     {
       "surface": "ונשיא",
-      "english": "首领"
+      "gloss": "首领"
     },
     {
       "surface": "נשיאי",
-      "english": "……的首领"
+      "gloss": "……的首领"
     },
     {
       "surface": "הלוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "אלעזר",
-      "english": "以利撒"
+      "gloss": "以利撒"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "הכהן",
-      "english": "那位祭司"
+      "gloss": "那位祭司"
     },
     {
       "surface": "פקדת",
-      "english": "职务"
+      "gloss": "职务"
     },
     {
       "surface": "שמרי",
-      "english": "守卫者"
+      "gloss": "守卫者"
     },
     {
       "surface": "משמרת",
-      "english": "……的职责"
+      "gloss": "……的职责"
     },
     {
       "surface": "הקדש",
-      "english": "圣所"
+      "gloss": "圣所"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:10.327132529Z",
-  "model": "glm-5.2"
+  ]
 }

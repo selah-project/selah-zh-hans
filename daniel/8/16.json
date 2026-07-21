@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "daniel 8:16",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19227,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19772
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:33:44.990611930Z",
   "translation": "我听见⟨有⟩人的声音在乌莱⟨河⟩中间，⟨他⟩呼叫⟨并⟩说：加百列，使这个人明白⟨את⟩那异象。",
   "tokens": [
     {
       "surface": "ואשמע",
-      "english": "我听见"
+      "gloss": "我听见"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "אדם",
-      "english": "人的"
+      "gloss": "人的"
     },
     {
       "surface": "בין",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "אולי",
-      "english": "乌莱"
+      "gloss": "乌莱"
     },
     {
       "surface": "ויקרא",
-      "english": "他呼叫"
+      "gloss": "他呼叫"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨并⟩说"
+      "gloss": "⟨并⟩说"
     },
     {
       "surface": "גבריאל",
-      "english": "加百列"
+      "gloss": "加百列"
     },
     {
       "surface": "הבן",
-      "english": "使明白"
+      "gloss": "使明白"
     },
     {
       "surface": "להלז",
-      "english": "这个人"
+      "gloss": "这个人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那异象"
     },
     {
       "surface": "המראה",
-      "english": "那异象"
+      "gloss": "那异象"
     }
-  ],
-  "timestamp": "2026-07-18T01:33:44.990611930Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 133:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 133,
-  "usage": {
-    "completion_tokens": 573,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64963,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65536
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:33.623937023Z",
   "translation": "如馨香的膏油倒在头上，流到胡须，就是亚伦的胡须，流到他的衣襟开口处。",
   "tokens": [
     {
       "surface": "כשמן",
-      "english": "如膏油"
+      "gloss": "如膏油"
     },
     {
       "surface": "הטוב",
-      "english": "馨香的"
+      "gloss": "馨香的"
     },
     {
       "surface": "על",
-      "english": "倒在"
+      "gloss": "倒在"
     },
     {
       "surface": "הראש",
-      "english": "头上"
+      "gloss": "头上"
     },
     {
       "surface": "ירד",
-      "english": "流到"
+      "gloss": "流到"
     },
     {
       "surface": "על",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הזקן",
-      "english": "胡须"
+      "gloss": "胡须"
     },
     {
       "surface": "זקן",
-      "english": "胡须"
+      "gloss": "胡须"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦的"
+      "gloss": "亚伦的"
     },
     {
       "surface": "שירד",
-      "english": "流到"
+      "gloss": "流到"
     },
     {
       "surface": "על",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "פי",
-      "english": "开口处"
+      "gloss": "开口处"
     },
     {
       "surface": "מדותיו",
-      "english": "他的衣襟"
+      "gloss": "他的衣襟"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:33.623937023Z",
-  "model": "glm-5.2"
+  ]
 }

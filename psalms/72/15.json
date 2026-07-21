@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 72:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64850,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65341
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:11.079603409Z",
   "translation": "愿他存活，愿人将示巴的金子赐给他；愿人 continually 为他祷告，⟨愿人⟩终日⟨כל היום⟩祝福他。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "愿他存活"
+      "gloss": "愿他存活"
     },
     {
       "surface": "ויתן",
-      "english": "愿人赐"
+      "gloss": "愿人赐"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "מזהב",
-      "english": "金子"
+      "gloss": "金子"
     },
     {
       "surface": "שבא",
-      "english": "示巴的"
+      "gloss": "示巴的"
     },
     {
       "surface": "ויתפלל",
-      "english": "愿人为...祷告"
+      "gloss": "愿人为...祷告"
     },
     {
       "surface": "בעדו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "תמיד",
-      "english": "continually"
+      "gloss": "continually"
     },
     {
       "surface": "כל",
-      "english": "⟨כל היום⟩ 全"
+      "gloss": "⟨כל היום⟩ 全"
     },
     {
       "surface": "היום",
-      "english": "⟨כל היום⟩ 日"
+      "gloss": "⟨כל היום⟩ 日"
     },
     {
       "surface": "יברכנהו",
-      "english": "愿他们祝福他"
+      "gloss": "愿他们祝福他"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:11.079603409Z",
-  "model": "glm-5.2"
+  ]
 }

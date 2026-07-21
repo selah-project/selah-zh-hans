@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 114:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64312,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64662
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:40.998139088Z",
   "translation": "群山跳跃如公羊，丘陵如羊群的幼崽。",
   "tokens": [
     {
       "surface": "ההרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "רקדו",
-      "english": "跳跃了"
+      "gloss": "跳跃了"
     },
     {
       "surface": "כאילים",
-      "english": "如公羊"
+      "gloss": "如公羊"
     },
     {
       "surface": "גבעות",
-      "english": "丘陵"
+      "gloss": "丘陵"
     },
     {
       "surface": "כבני",
-      "english": "如...的幼崽"
+      "gloss": "如...的幼崽"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:40.998139088Z",
-  "model": "glm-5.2"
+  ]
 }

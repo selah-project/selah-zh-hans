@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 28:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23193,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23704
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:09.220490024Z",
   "translation": "愿沙代赐福⟨你⟩⟨את⟩，使⟨你⟩繁衍，使⟨你⟩增多，⟨你⟩将成为⟨许多⟩民族的会众。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "愿……以罗欣"
+      "gloss": "愿……以罗欣"
     },
     {
       "surface": "שדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "יברך",
-      "english": "赐福"
+      "gloss": "赐福"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你"
     },
     {
       "surface": "ויפרך",
-      "english": "使⟨你⟩繁衍"
+      "gloss": "使⟨你⟩繁衍"
     },
     {
       "surface": "וירבך",
-      "english": "使⟨你⟩增多"
+      "gloss": "使⟨你⟩增多"
     },
     {
       "surface": "והיית",
-      "english": "⟨你⟩将成为"
+      "gloss": "⟨你⟩将成为"
     },
     {
       "surface": "לקהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "עמים",
-      "english": "⟨许多⟩民族"
+      "gloss": "⟨许多⟩民族"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:09.220490024Z",
-  "model": "glm-5.2"
+  ]
 }

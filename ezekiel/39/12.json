@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "ezekiel 39:12",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19198,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19549
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:04:46.610513519Z",
   "translation": "以色列家要埋葬他们,为要洁净⟨את⟩地,七个月之久。",
   "tokens": [
     {
       "surface": "וּקְבָרוּם",
-      "english": "要埋葬他们"
+      "gloss": "要埋葬他们"
     },
     {
       "surface": "בֵּית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לְמַעַן",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "טַהֵר",
-      "english": "洁净"
+      "gloss": "洁净"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "地"
     },
     {
       "surface": "הָאָרֶץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "שִׁבְעָה",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "חֳדָשִׁים",
-      "english": "个月"
+      "gloss": "个月"
     }
-  ],
-  "timestamp": "2026-07-17T23:04:46.610513519Z",
-  "model": "glm-5.2"
+  ]
 }

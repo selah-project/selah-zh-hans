@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 99:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64595,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64992
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:14.257973434Z",
   "translation": "在云柱中 ⟨他⟩ 与他们说话；他们守了他的见证，⟨和⟩ 他赐给他们的律例。",
   "tokens": [
     {
       "surface": "בעמוד",
-      "english": "在柱中"
+      "gloss": "在柱中"
     },
     {
       "surface": "ענן",
-      "english": "云"
+      "gloss": "云"
     },
     {
       "surface": "ידבר",
-      "english": "⟨他⟩说话"
+      "gloss": "⟨他⟩说话"
     },
     {
       "surface": "אליהם",
-      "english": "与他们"
+      "gloss": "与他们"
     },
     {
       "surface": "שמרו",
-      "english": "他们守了"
+      "gloss": "他们守了"
     },
     {
       "surface": "עדתיו",
-      "english": "他的见证"
+      "gloss": "他的见证"
     },
     {
       "surface": "וחק",
-      "english": "⟨和⟩律例"
+      "gloss": "⟨和⟩律例"
     },
     {
       "surface": "נתן",
-      "english": "他赐给"
+      "gloss": "他赐给"
     },
     {
       "surface": "למו",
-      "english": "他们"
+      "gloss": "他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:14.257973434Z",
-  "model": "glm-5.2"
+  ]
 }

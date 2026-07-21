@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 32:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18757,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19116
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:59.858063010Z",
   "translation": "亚伦看见,就在它面前筑了一座祭坛;亚伦宣告,说:明天是向雅威守的节期。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ויבן",
-      "english": "就筑了"
+      "gloss": "就筑了"
     },
     {
       "surface": "מזבח",
-      "english": "一座祭坛"
+      "gloss": "一座祭坛"
     },
     {
       "surface": "לפניו",
-      "english": "在它面前"
+      "gloss": "在它面前"
     },
     {
       "surface": "ויקרא",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "חג",
-      "english": "节期"
+      "gloss": "节期"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "מחר",
-      "english": "明天"
+      "gloss": "明天"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:59.858063010Z",
-  "model": "glm-5.2"
+  ]
 }

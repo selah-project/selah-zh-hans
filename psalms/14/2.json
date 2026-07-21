@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 14:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65028,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65610
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:12.259891408Z",
   "translation": "雅威从天上俯看 בְּנֵי אָדָם (人类)，要看是否有明辨的人，是否有寻求 ⟨את⟩ 以罗欣的人。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "משמים",
-      "english": "从天上"
+      "gloss": "从天上"
     },
     {
       "surface": "השקיף",
-      "english": "俯看"
+      "gloss": "俯看"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……之上"
+      "gloss": "⟨在⟩……之上"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי (……之子)"
+      "gloss": "בְּנֵי (……之子)"
     },
     {
       "surface": "אדם",
-      "english": "אָדָם (亚当\/人类)"
+      "gloss": "אָדָם (亚当\/人类)"
     },
     {
       "surface": "לראות",
-      "english": "要看"
+      "gloss": "要看"
     },
     {
       "surface": "היש",
-      "english": "是否有"
+      "gloss": "是否有"
     },
     {
       "surface": "משכיל",
-      "english": "明辨的人"
+      "gloss": "明辨的人"
     },
     {
       "surface": "דרש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以罗欣"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:12.259891408Z",
-  "model": "glm-5.2"
+  ]
 }

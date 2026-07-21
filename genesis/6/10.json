@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 6:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23166,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23511
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:36:21.194066712Z",
   "translation": "挪亚生了三个儿子：⟨את⟩闪、⟨את⟩含和⟨את⟩雅弗。",
   "tokens": [
     {
       "surface": "ויולד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "שלשה",
-      "english": "三个"
+      "gloss": "三个"
     },
     {
       "surface": "בנים",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "闪"
     },
     {
       "surface": "שם",
-      "english": "闪"
+      "gloss": "闪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "含"
     },
     {
       "surface": "חם",
-      "english": "含"
+      "gloss": "含"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "雅弗"
     },
     {
       "surface": "יפת",
-      "english": "雅弗"
+      "gloss": "雅弗"
     }
-  ],
-  "timestamp": "2026-07-17T17:36:21.194066712Z",
-  "model": "glm-5.2"
+  ]
 }

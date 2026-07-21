@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 33:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21637,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21895
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:28.138684930Z",
   "translation": "然而，求你，约伯啊，听我的话，留心听我一切的*davar*。",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "שמע",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "נא",
-      "english": "求你"
+      "gloss": "求你"
     },
     {
       "surface": "איוב",
-      "english": "约伯啊"
+      "gloss": "约伯啊"
     },
     {
       "surface": "מלי",
-      "english": "我的话"
+      "gloss": "我的话"
     },
     {
       "surface": "וכל",
-      "english": "我一切的"
+      "gloss": "我一切的"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（话语）"
+      "gloss": "*davar*（话语）"
     },
     {
       "surface": "האזינה",
-      "english": "留心听"
+      "gloss": "留心听"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:28.138684930Z",
-  "model": "glm-5.2"
+  ]
 }

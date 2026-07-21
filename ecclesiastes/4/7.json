@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ecclesiastes 4:7",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18752,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19126
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:59.315967026Z",
   "translation": "我又转回,我⟨自己⟩,我就观看日光之下的 vapor:",
   "tokens": [
     {
       "surface": "ושבתי",
-      "english": "我又转回"
+      "gloss": "我又转回"
     },
     {
       "surface": "אני",
-      "english": "我⟨自己⟩"
+      "gloss": "我⟨自己⟩"
     },
     {
       "surface": "ואראה",
-      "english": "我就观看"
+      "gloss": "我就观看"
     },
     {
       "surface": "הבל",
-      "english": "vapor"
+      "gloss": "vapor"
     },
     {
       "surface": "תחת",
-      "english": "之下"
+      "gloss": "之下"
     },
     {
       "surface": "השמש",
-      "english": "日光"
+      "gloss": "日光"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:59.315967026Z",
-  "model": "glm-5.2"
+  ]
 }

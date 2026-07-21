@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 6:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54391,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54785
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:11.317966677Z",
   "translation": "亚当之子，无益之人，邪恶之男，⟨他⟩行以乖谬之口。",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "亚当之子"
+      "gloss": "亚当之子"
     },
     {
       "surface": "בליעל",
-      "english": "无益之人"
+      "gloss": "无益之人"
     },
     {
       "surface": "איש",
-      "english": "邪恶之男"
+      "gloss": "邪恶之男"
     },
     {
       "surface": "און",
-      "english": "邪恶"
+      "gloss": "邪恶"
     },
     {
       "surface": "הולך",
-      "english": "⟨他⟩行"
+      "gloss": "⟨他⟩行"
     },
     {
       "surface": "עקשות",
-      "english": "乖谬"
+      "gloss": "乖谬"
     },
     {
       "surface": "פה",
-      "english": "之口"
+      "gloss": "之口"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:11.317966677Z",
-  "model": "glm-5.2"
+  ]
 }

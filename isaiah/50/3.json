@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 50:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20551,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20925
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:58:39.075527851Z",
   "translation": "我给诸天穿上幽暗,把麻布作为它们的遮盖。",
   "tokens": [
     {
       "surface": "אלביש",
-      "english": "我给……穿上"
+      "gloss": "我给……穿上"
     },
     {
       "surface": "שמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "קדרות",
-      "english": "幽暗"
+      "gloss": "幽暗"
     },
     {
       "surface": "ושק",
-      "english": "把麻布"
+      "gloss": "把麻布"
     },
     {
       "surface": "אשים",
-      "english": "我放"
+      "gloss": "我放"
     },
     {
       "surface": "כסותם",
-      "english": "作为它们的遮盖"
+      "gloss": "作为它们的遮盖"
     }
-  ],
-  "timestamp": "2026-07-17T21:58:39.075527851Z",
-  "model": "glm-5.2"
+  ]
 }

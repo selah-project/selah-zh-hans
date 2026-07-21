@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "lamentations 5:3",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33479,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33902
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:12.987862140Z",
   "translation": "我们成了孤儿，没有父亲；我们的母亲如同寡妇。",
   "tokens": [
     {
       "surface": "יְתוֹמִ֤ים",
-      "english": "孤儿"
+      "gloss": "孤儿"
     },
     {
       "surface": "הָיִ֨ינוּ֙",
-      "english": "我们成了"
+      "gloss": "我们成了"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "אָ֔ב",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "אִמֹּתֵ֖י\/נוּ",
-      "english": "我们的母亲"
+      "gloss": "我们的母亲"
     },
     {
       "surface": "כְּ\/אַלְמָנֽוֹת",
-      "english": "如同寡妇"
+      "gloss": "如同寡妇"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:12.987862140Z",
-  "model": "glm-5.2"
+  ]
 }

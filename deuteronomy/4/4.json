@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "deuteronomy 4:4",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19130,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19491
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:29:51.957778464Z",
   "translation": "而你们 —— 那些紧贴雅威你们以罗欣的 —— ⟨你们⟩全部,今天⟨都⟩活着。",
   "tokens": [
     {
       "surface": "ואתם",
-      "english": "而你们"
+      "gloss": "而你们"
     },
     {
       "surface": "הדבקים",
-      "english": "那些紧贴的"
+      "gloss": "那些紧贴的"
     },
     {
       "surface": "ביהוה",
-      "english": "于雅威"
+      "gloss": "于雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们以罗欣"
+      "gloss": "你们以罗欣"
     },
     {
       "surface": "חיים",
-      "english": "活着"
+      "gloss": "活着"
     },
     {
       "surface": "כלכם",
-      "english": "你们全部"
+      "gloss": "你们全部"
     },
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     }
-  ],
-  "timestamp": "2026-07-17T19:29:51.957778464Z",
-  "model": "glm-5.2"
+  ]
 }

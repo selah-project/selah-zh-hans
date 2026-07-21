@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 8:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64721,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65093
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:24.327039604Z",
   "translation": "因为⟨我⟩观看⟨你的⟩诸天，⟨和你⟩手指的作为，⟨就是⟩月亮和星辰，⟨这些是你⟩所确立的；",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אראה",
-      "english": "⟨我⟩观看"
+      "gloss": "⟨我⟩观看"
     },
     {
       "surface": "שמיך",
-      "english": "⟨你的⟩诸天"
+      "gloss": "⟨你的⟩诸天"
     },
     {
       "surface": "מעשי",
-      "english": "……的作为"
+      "gloss": "……的作为"
     },
     {
       "surface": "אצבעתיך",
-      "english": "⟨和你⟩手指"
+      "gloss": "⟨和你⟩手指"
     },
     {
       "surface": "ירח",
-      "english": "月亮"
+      "gloss": "月亮"
     },
     {
       "surface": "וכוכבים",
-      "english": "和星辰"
+      "gloss": "和星辰"
     },
     {
       "surface": "אשר",
-      "english": "⟨这些是你⟩"
+      "gloss": "⟨这些是你⟩"
     },
     {
       "surface": "כוננתה",
-      "english": "所确立的"
+      "gloss": "所确立的"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:24.327039604Z",
-  "model": "glm-5.2"
+  ]
 }

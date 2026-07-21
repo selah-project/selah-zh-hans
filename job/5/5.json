@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 5:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21921,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22463
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:40.682862657Z",
   "translation": "他的庄稼，饥饿的人⟨要⟩吃掉，甚至从荆棘中⟨人要⟩把它夺走，陷阱⟨要⟩吞噬他们的财富。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "他的（关系代词，承前指愚妄人）"
+      "gloss": "他的（关系代词，承前指愚妄人）"
     },
     {
       "surface": "קצירו",
-      "english": "庄稼"
+      "gloss": "庄稼"
     },
     {
       "surface": "רעב",
-      "english": "饥饿的人"
+      "gloss": "饥饿的人"
     },
     {
       "surface": "יאכל",
-      "english": "⟨要⟩吃掉"
+      "gloss": "⟨要⟩吃掉"
     },
     {
       "surface": "ואל",
-      "english": "甚至到 \/ 从"
+      "gloss": "甚至到 \/ 从"
     },
     {
       "surface": "מצנים",
-      "english": "荆棘中"
+      "gloss": "荆棘中"
     },
     {
       "surface": "יקחהו",
-      "english": "⟨人要⟩把它夺走"
+      "gloss": "⟨人要⟩把它夺走"
     },
     {
       "surface": "ושאף",
-      "english": "⟨要⟩吞噬 \/ 贪婪吸尽"
+      "gloss": "⟨要⟩吞噬 \/ 贪婪吸尽"
     },
     {
       "surface": "צמים",
-      "english": "陷阱"
+      "gloss": "陷阱"
     },
     {
       "surface": "חילם",
-      "english": "他们的财富"
+      "gloss": "他们的财富"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:40.682862657Z",
-  "model": "glm-5.2"
+  ]
 }

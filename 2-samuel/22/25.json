@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "2-samuel 22:25",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18677,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19111
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:54:07.954245379Z",
   "translation": "雅威回报我,照我的公义,照我在他眼前的纯洁。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "⟨因此⟩他回报"
+      "gloss": "⟨因此⟩他回报"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "כצדקתי",
-      "english": "照我的公义"
+      "gloss": "照我的公义"
     },
     {
       "surface": "כברי",
-      "english": "照我的纯洁"
+      "gloss": "照我的纯洁"
     },
     {
       "surface": "לנגד",
-      "english": "在……眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "עיניו",
-      "english": "他的眼"
+      "gloss": "他的眼"
     }
-  ],
-  "timestamp": "2026-07-17T20:54:07.954245379Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "proverbs 11:14",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54409,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54697
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:43.553395877Z",
   "translation": "在没有筹谋之处，子民就跌倒；而解救在于谋士众多。",
   "tokens": [
     {
       "surface": "באין",
-      "english": "在没有……之处"
+      "gloss": "在没有……之处"
     },
     {
       "surface": "תחבלות",
-      "english": "筹谋"
+      "gloss": "筹谋"
     },
     {
       "surface": "יפל",
-      "english": "就跌倒"
+      "gloss": "就跌倒"
     },
     {
       "surface": "עם",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ותשועה",
-      "english": "而解救"
+      "gloss": "而解救"
     },
     {
       "surface": "ברב",
-      "english": "在于……众多"
+      "gloss": "在于……众多"
     },
     {
       "surface": "יועץ",
-      "english": "谋士"
+      "gloss": "谋士"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:43.553395877Z",
-  "model": "glm-5.2"
+  ]
 }

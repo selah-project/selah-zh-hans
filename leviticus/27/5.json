@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 27:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19752,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20236
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:20.174864039Z",
   "translation": "若从五岁之子直到二十岁之子,则你⟨对⟩男性的估值应为二十舍客勒,而对女性为十舍客勒。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "מבן",
-      "english": "从……之子"
+      "gloss": "从……之子"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "שנים",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "בן",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "והיה",
-      "english": "则"
+      "gloss": "则"
     },
     {
       "surface": "ערכך",
-      "english": "你的估值"
+      "gloss": "你的估值"
     },
     {
       "surface": "הזכר",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "שקלים",
-      "english": "舍客勒"
+      "gloss": "舍客勒"
     },
     {
       "surface": "ולנקבה",
-      "english": "而对女性"
+      "gloss": "而对女性"
     },
     {
       "surface": "עשרת",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "שקלים",
-      "english": "舍客勒"
+      "gloss": "舍客勒"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:20.174864039Z",
-  "model": "glm-5.2"
+  ]
 }

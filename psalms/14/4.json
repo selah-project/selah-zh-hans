@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 14:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64902,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65369
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:10.357027468Z",
   "translation": "所有作恶的人不⟨知道⟩吗？他们吃我的百姓如同吃饼；他们不求告雅威。",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "不……吗"
+      "gloss": "不……吗"
     },
     {
       "surface": "ידעו",
-      "english": "⟨知道⟩"
+      "gloss": "⟨知道⟩"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "פעלי",
-      "english": "作……的人"
+      "gloss": "作……的人"
     },
     {
       "surface": "און",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "אכלי",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "עמי",
-      "english": "我的百姓"
+      "gloss": "我的百姓"
     },
     {
       "surface": "אכלו",
-      "english": "他们吃"
+      "gloss": "他们吃"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "קראו",
-      "english": "他们求告"
+      "gloss": "他们求告"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:10.357027468Z",
-  "model": "glm-5.2"
+  ]
 }

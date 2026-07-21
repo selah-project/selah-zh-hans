@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "genesis 38:30",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23066,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23466
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:40.177100424Z",
   "translation": "后来他的兄弟出来了，就是那手上有朱红线的；他们就称他的名为扎拉赫。",
   "tokens": [
     {
       "surface": "ואחר",
-      "english": "后来"
+      "gloss": "后来"
     },
     {
       "surface": "יצא",
-      "english": "出来了"
+      "gloss": "出来了"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟"
+      "gloss": "他的兄弟"
     },
     {
       "surface": "אשר",
-      "english": "就是那"
+      "gloss": "就是那"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "השני",
-      "english": "朱红线"
+      "gloss": "朱红线"
     },
     {
       "surface": "ויקרא",
-      "english": "他们就称"
+      "gloss": "他们就称"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     },
     {
       "surface": "זרח",
-      "english": "扎拉赫"
+      "gloss": "扎拉赫"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:40.177100424Z",
-  "model": "glm-5.2"
+  ]
 }

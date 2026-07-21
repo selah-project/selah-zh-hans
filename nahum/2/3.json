@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "nahum 2:3",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 663,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18811,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19474
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:27:51.015669324Z",
   "translation": "因为雅威正在恢复⟨את⟩雅各的骄傲,如同以色列的骄傲;因为倒空他们的人正在倒空,他们的葡萄枝蔓 ⟨被⟩ 毁坏了。",
   "tokens": [
     {
       "surface": "כִּ֣י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שָׁ֤ב",
-      "english": "正在恢复"
+      "gloss": "正在恢复"
     },
     {
       "surface": "יְהוָה֙",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅各的骄傲"
     },
     {
       "surface": "גְּא֣וֹן",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "יַעֲקֹ֔ב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "כִּ\/גְא֖וֹן",
-      "english": "如同……的骄傲"
+      "gloss": "如同……的骄傲"
     },
     {
       "surface": "יִשְׂרָאֵ֑ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בְקָקוּ\/ם֙",
-      "english": "倒空他们的人"
+      "gloss": "倒空他们的人"
     },
     {
       "surface": "בֹּֽקְקִ֔ים",
-      "english": "正在倒空"
+      "gloss": "正在倒空"
     },
     {
       "surface": "וּ\/זְמֹרֵי\/הֶ֖ם",
-      "english": "他们的葡萄枝蔓"
+      "gloss": "他们的葡萄枝蔓"
     },
     {
       "surface": "שִׁחֵֽתוּ",
-      "english": "毁坏了"
+      "gloss": "毁坏了"
     }
-  ],
-  "timestamp": "2026-07-17T23:27:51.015669324Z",
-  "model": "glm-5.2"
+  ]
 }

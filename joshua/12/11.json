@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "joshua 12:11",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17658,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17955
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:43.839687852Z",
   "translation": "雅末王,一个;拉吉王,一个;",
   "tokens": [
     {
       "surface": "מֶ֤לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יַרְמוּת֙",
-      "english": "雅末"
+      "gloss": "雅末"
     },
     {
       "surface": "אֶחָ֔ד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מֶ֥לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "לָכִ֖ישׁ",
-      "english": "拉吉"
+      "gloss": "拉吉"
     },
     {
       "surface": "אֶחָֽד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:43.839687852Z",
-  "model": "glm-5.2"
+  ]
 }

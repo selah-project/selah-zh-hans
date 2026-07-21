@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "leviticus 21:1",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19616,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20289
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:01.297891441Z",
   "translation": "雅威对摩西说：你要对祭司们——亚伦的儿子们——说，你要对他们说：不可为 ⟨את⟩ 生命（נֶפֶשׁ）在他百姓中使自己不洁净。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אמר",
-      "english": "你要说"
+      "gloss": "你要说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "בני",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ואמרת",
-      "english": "你要对他们说"
+      "gloss": "你要对他们说"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "לנפש",
-      "english": "⟨את⟩ 生命"
+      "gloss": "⟨את⟩ 生命"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יטמא",
-      "english": "使自己不洁净"
+      "gloss": "使自己不洁净"
     },
     {
       "surface": "בעמיו",
-      "english": "在他百姓中"
+      "gloss": "在他百姓中"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:01.297891441Z",
-  "model": "glm-5.2"
+  ]
 }

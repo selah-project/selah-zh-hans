@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 125:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 125,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65114,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65641
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:55.146847401Z",
   "translation": "因为恶人的杖必不歇息在义人的分上，⟨为的是⟩使义人的手不致伸向不义。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ינוח",
-      "english": "必歇息"
+      "gloss": "必歇息"
     },
     {
       "surface": "שבט",
-      "english": "……的杖"
+      "gloss": "……的杖"
     },
     {
       "surface": "הרשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "גורל",
-      "english": "……的分"
+      "gloss": "……的分"
     },
     {
       "surface": "הצדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "למען",
-      "english": "⟨为的是⟩"
+      "gloss": "⟨为的是⟩"
     },
     {
       "surface": "לא",
-      "english": "不致"
+      "gloss": "不致"
     },
     {
       "surface": "ישלחו",
-      "english": "伸向"
+      "gloss": "伸向"
     },
     {
       "surface": "הצדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "בעולתה",
-      "english": "不义"
+      "gloss": "不义"
     },
     {
       "surface": "ידיהם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:55.146847401Z",
-  "model": "glm-5.2"
+  ]
 }

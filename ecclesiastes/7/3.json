@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "ecclesiastes 7:3",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19006,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19400
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:16:33.633866182Z",
   "translation": "忧愁⟨比⟩欢笑更好，因为面容之愁容使心变好。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好"
+      "gloss": "更好"
     },
     {
       "surface": "כעס",
-      "english": "忧愁"
+      "gloss": "忧愁"
     },
     {
       "surface": "משחק",
-      "english": "欢笑"
+      "gloss": "欢笑"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ברע",
-      "english": "之愁容"
+      "gloss": "之愁容"
     },
     {
       "surface": "פנים",
-      "english": "面容"
+      "gloss": "面容"
     },
     {
       "surface": "ייטב",
-      "english": "使……变好"
+      "gloss": "使……变好"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     }
-  ],
-  "timestamp": "2026-07-18T03:16:33.633866182Z",
-  "model": "glm-5.2"
+  ]
 }

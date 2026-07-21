@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-chronicles 18:15",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58810,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59209
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:05:30.172275633Z",
   "translation": "约押,洗鲁雅的儿子,⟨在⟩军队⟨之⟩上;约沙法,亚希路的儿子,⟨是⟩记念官。",
   "tokens": [
     {
       "surface": "ויואב",
-      "english": "约押"
+      "gloss": "约押"
     },
     {
       "surface": "בן",
-      "english": "的儿子"
+      "gloss": "的儿子"
     },
     {
       "surface": "צרויה",
-      "english": "洗鲁雅"
+      "gloss": "洗鲁雅"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……⟨之⟩上"
+      "gloss": "⟨在⟩……⟨之⟩上"
     },
     {
       "surface": "הצבא",
-      "english": "军队"
+      "gloss": "军队"
     },
     {
       "surface": "ויהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "בן",
-      "english": "的儿子"
+      "gloss": "的儿子"
     },
     {
       "surface": "אחילוד",
-      "english": "亚希路"
+      "gloss": "亚希路"
     },
     {
       "surface": "מזכיר",
-      "english": "记念官"
+      "gloss": "记念官"
     }
-  ],
-  "timestamp": "2026-07-18T02:05:30.172275633Z",
-  "model": "glm-5.2"
+  ]
 }

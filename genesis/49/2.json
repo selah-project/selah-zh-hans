@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 49:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22952,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23346
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:18:09.425778503Z",
   "translation": "你们聚集起来,听吧,雅各的众子;当听以色列——⟨你们的⟩父。",
   "tokens": [
     {
       "surface": "הקבצו",
-      "english": "你们聚集起来"
+      "gloss": "你们聚集起来"
     },
     {
       "surface": "ושמעו",
-      "english": "听吧"
+      "gloss": "听吧"
     },
     {
       "surface": "בני",
-      "english": "的众子"
+      "gloss": "的众子"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ושמעו",
-      "english": "当听"
+      "gloss": "当听"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אביכם",
-      "english": "⟨你们的⟩父"
+      "gloss": "⟨你们的⟩父"
     }
-  ],
-  "timestamp": "2026-07-18T03:18:09.425778503Z",
-  "model": "glm-5.2"
+  ]
 }

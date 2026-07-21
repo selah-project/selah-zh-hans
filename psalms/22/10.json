@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 22:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 629,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64485,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65114
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:23.238382339Z",
   "translation": "因为是你将⟨我⟩从母腹中催生出来；从⟨我⟩母亲的胸怀起，⟨我⟩⟨被放⟩在你身上⟨得着信靠⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "是你"
+      "gloss": "是你"
     },
     {
       "surface": "גחי",
-      "english": "将⟨我⟩催生出来"
+      "gloss": "将⟨我⟩催生出来"
     },
     {
       "surface": "מבטן",
-      "english": "从母腹中"
+      "gloss": "从母腹中"
     },
     {
       "surface": "מבטיחי",
-      "english": "⟨我⟩⟨被放⟩在你身上⟨得着信靠⟩"
+      "gloss": "⟨我⟩⟨被放⟩在你身上⟨得着信靠⟩"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "שדי",
-      "english": "母亲的胸怀"
+      "gloss": "母亲的胸怀"
     },
     {
       "surface": "אמי",
-      "english": "⟨我⟩母亲的"
+      "gloss": "⟨我⟩母亲的"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:23.238382339Z",
-  "model": "glm-5.2"
+  ]
 }

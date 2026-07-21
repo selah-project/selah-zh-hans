@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 89:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65226
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:45.213594004Z",
   "translation": "因为在诸天中，谁能与雅威并列？在众神 ⟨אֵלִים⟩ 的众子中，谁能比得上雅威？",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מִ֣י",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "בַ֭\/שַּׁחַק",
-      "english": "在诸天中"
+      "gloss": "在诸天中"
     },
     {
       "surface": "יַעֲרֹ֣ךְ",
-      "english": "能并列"
+      "gloss": "能并列"
     },
     {
       "surface": "לַ\/יהוָ֑ה",
-      "english": "与雅威"
+      "gloss": "与雅威"
     },
     {
       "surface": "יִדְמֶ֥ה",
-      "english": "能比得上"
+      "gloss": "能比得上"
     },
     {
       "surface": "לַ֝\/יהוָ֗ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בִּ\/בְנֵ֥י",
-      "english": "在……的众子中"
+      "gloss": "在……的众子中"
     },
     {
       "surface": "אֵלִים",
-      "english": "众神 ⟨אֵלִים⟩"
+      "gloss": "众神 ⟨אֵלִים⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:45.213594004Z",
-  "model": "glm-5.2"
+  ]
 }

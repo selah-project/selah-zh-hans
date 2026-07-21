@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "psalms 22:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 413,
-    "prompt_tokens": 64539,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64952
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:23.132250834Z",
   "translation": "我的赞美来自你,在大聚会中;我要在敬畏他的人面前还我的愿。",
   "tokens": [
     {
       "surface": "מאתך",
-      "english": "从你"
+      "gloss": "从你"
     },
     {
       "surface": "תהלתי",
-      "english": "我的赞美"
+      "gloss": "我的赞美"
     },
     {
       "surface": "בקהל",
-      "english": "在聚会中"
+      "gloss": "在聚会中"
     },
     {
       "surface": "רב",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "נדרי",
-      "english": "我的愿"
+      "gloss": "我的愿"
     },
     {
       "surface": "אשלם",
-      "english": "我要还"
+      "gloss": "我要还"
     },
     {
       "surface": "נגד",
-      "english": "在...面前"
+      "gloss": "在...面前"
     },
     {
       "surface": "יראיו",
-      "english": "敬畏他的人"
+      "gloss": "敬畏他的人"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:23.132250834Z",
-  "model": "glm-4.5"
+  ]
 }

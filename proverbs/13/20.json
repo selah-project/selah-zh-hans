@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 13:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54508,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55052
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:07.822912677Z",
   "translation": "与智者同行,就⟨要⟩有智慧;愚昧之人的同伴⟨必⟩变得像他们。",
   "tokens": [
     {
       "surface": "הלוך",
-      "english": "与……同行"
+      "gloss": "与……同行"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "智者"
     },
     {
       "surface": "חכמים",
-      "english": "智者"
+      "gloss": "智者"
     },
     {
       "surface": "וחכם",
-      "english": "就有智慧"
+      "gloss": "就有智慧"
     },
     {
       "surface": "ורעה",
-      "english": "……的同伴"
+      "gloss": "……的同伴"
     },
     {
       "surface": "כסילים",
-      "english": "愚昧之人"
+      "gloss": "愚昧之人"
     },
     {
       "surface": "ירוע",
-      "english": "⟨必⟩变得像他们"
+      "gloss": "⟨必⟩变得像他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:07.822912677Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "leviticus 23:19",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19381,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20009
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:54.858804730Z",
   "translation": "你们要献 ⟨את⟩ 一只公山羊为赎罪祭，又要献两只一岁的公绵羊为平安祭的祭物。",
   "tokens": [
     {
       "surface": "ועשיתם",
-      "english": "你们要献"
+      "gloss": "你们要献"
     },
     {
       "surface": "שעיר",
-      "english": "公山羊"
+      "gloss": "公山羊"
     },
     {
       "surface": "עזים",
-      "english": "（母山羊的）"
+      "gloss": "（母山羊的）"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "לחטאת",
-      "english": "为赎罪祭"
+      "gloss": "为赎罪祭"
     },
     {
       "surface": "ושני",
-      "english": "又要献两只"
+      "gloss": "又要献两只"
     },
     {
       "surface": "כבשים",
-      "english": "公绵羊"
+      "gloss": "公绵羊"
     },
     {
       "surface": "בני",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "שנה",
-      "english": "一岁"
+      "gloss": "一岁"
     },
     {
       "surface": "לזבח",
-      "english": "为……的祭物"
+      "gloss": "为……的祭物"
     },
     {
       "surface": "שלמים",
-      "english": "平安祭"
+      "gloss": "平安祭"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:54.858804730Z",
-  "model": "glm-5.2"
+  ]
 }

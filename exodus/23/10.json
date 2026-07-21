@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 23:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 246,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18631,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18877
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:25:47.286173899Z",
   "translation": "六年里你要撒种你的地，并收集⟨את⟩它的出产。",
   "tokens": [
     {
       "surface": "ושש",
-      "english": "六年"
+      "gloss": "六年"
     },
     {
       "surface": "שנים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "תזרע",
-      "english": "你要撒种"
+      "gloss": "你要撒种"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的地"
     },
     {
       "surface": "ארצך",
-      "english": "你的地"
+      "gloss": "你的地"
     },
     {
       "surface": "ואספת",
-      "english": "并收集"
+      "gloss": "并收集"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的出产"
     },
     {
       "surface": "תבואתה",
-      "english": "它的出产"
+      "gloss": "它的出产"
     }
-  ],
-  "timestamp": "2026-07-17T18:25:47.286173899Z",
-  "model": "glm-5.2"
+  ]
 }

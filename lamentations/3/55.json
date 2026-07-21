@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
   "ref": "lamentations 3:55",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33431,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33805
-  },
+  "verse": 55,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:11.720042401Z",
   "translation": "我从极深的坑中呼求你的名 —— 雅威啊,⟨我呼求⟩你的名。",
   "tokens": [
     {
       "surface": "קראתי",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מבור",
-      "english": "从坑中"
+      "gloss": "从坑中"
     },
     {
       "surface": "תחתיות",
-      "english": "极深的"
+      "gloss": "极深的"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:11.720042401Z",
-  "model": "glm-5.2"
+  ]
 }

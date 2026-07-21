@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-kings 4:1",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63687,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63960
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:32.116259029Z",
   "translation": "所罗门王⟨作⟩王治理全以色列。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨作⟩"
+      "gloss": "⟨作⟩"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "מלך",
-      "english": "⟨作⟩王"
+      "gloss": "⟨作⟩王"
     },
     {
       "surface": "על",
-      "english": "治理"
+      "gloss": "治理"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:32.116259029Z",
-  "model": "glm-5.2"
+  ]
 }

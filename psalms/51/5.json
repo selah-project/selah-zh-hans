@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 51:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64473,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64839
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:42:03.165320496Z",
   "translation": "因为我的悖逆,我 ⟨知道⟩,我的罪过常在我面前。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "פשעי",
-      "english": "我的悖逆"
+      "gloss": "我的悖逆"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אדע",
-      "english": "⟨知道⟩"
+      "gloss": "⟨知道⟩"
     },
     {
       "surface": "וחטאתי",
-      "english": "而我的罪过"
+      "gloss": "而我的罪过"
     },
     {
       "surface": "נגדי",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "תמיד",
-      "english": "常"
+      "gloss": "常"
     }
-  ],
-  "timestamp": "2026-07-20T06:42:03.165320496Z",
-  "model": "glm-5.2"
+  ]
 }

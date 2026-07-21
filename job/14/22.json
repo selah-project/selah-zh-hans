@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 14:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21562,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22022
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:58.512720061Z",
   "translation": "诚然,他的肉体 ⟨在他身上⟩ 必觉疼痛,他的 נפש ⟨在他身上⟩ 必为他哀悼。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "בשרו",
-      "english": "他的肉体"
+      "gloss": "他的肉体"
     },
     {
       "surface": "עליו",
-      "english": "⟨在他身上⟩"
+      "gloss": "⟨在他身上⟩"
     },
     {
       "surface": "יכאב",
-      "english": "必觉疼痛"
+      "gloss": "必觉疼痛"
     },
     {
       "surface": "ונפשו",
-      "english": "他的נפש"
+      "gloss": "他的נפש"
     },
     {
       "surface": "עליו",
-      "english": "⟨在他身上⟩"
+      "gloss": "⟨在他身上⟩"
     },
     {
       "surface": "תאבל",
-      "english": "必为他哀悼"
+      "gloss": "必为他哀悼"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:58.512720061Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-samuel 22:2",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18644,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19010
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:39.004353185Z",
   "translation": "他说:雅威是我的磐石、我的山寨,⟨是⟩我的拯救者,⟨属⟩我的。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "סלעי",
-      "english": "我的磐石"
+      "gloss": "我的磐石"
     },
     {
       "surface": "ומצדתי",
-      "english": "我的山寨"
+      "gloss": "我的山寨"
     },
     {
       "surface": "ומפלטי",
-      "english": "我的拯救者"
+      "gloss": "我的拯救者"
     },
     {
       "surface": "לי",
-      "english": "⟨属⟩我的"
+      "gloss": "⟨属⟩我的"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:39.004353185Z",
-  "model": "glm-5.2"
+  ]
 }

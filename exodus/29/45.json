@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "exodus 29:45",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18357,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18780
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:21.112826640Z",
   "translation": "我将住在以色列子孙中间,我将成为他们的以罗欣。",
   "tokens": [
     {
       "surface": "וְ\/שָׁ֣כַנְתִּ֔י",
-      "english": "我将住在"
+      "gloss": "我将住在"
     },
     {
       "surface": "בְּ\/ת֖וֹךְ",
-      "english": "中间"
+      "gloss": "中间"
     },
     {
       "surface": "בְּנֵ֣י",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "יִשְׂרָאֵ֑ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וְ\/הָיִ֥יתִי",
-      "english": "我将成为"
+      "gloss": "我将成为"
     },
     {
       "surface": "לָ\/הֶ֖ם",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "לֵ\/אלֹהִֽים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:21.112826640Z",
-  "model": "glm-5.2"
+  ]
 }

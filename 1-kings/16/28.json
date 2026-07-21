@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "1-kings 16:28",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64167,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64588
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:10:43.889562941Z",
   "translation": "暗利与⟨他的⟩列祖同睡,葬在撒玛利亚;他的子亚哈⟨在他⟩之下继位为王。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "与……同睡"
+      "gloss": "与……同睡"
     },
     {
       "surface": "עמרי",
-      "english": "暗利"
+      "gloss": "暗利"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "ויקבר",
-      "english": "葬"
+      "gloss": "葬"
     },
     {
       "surface": "בשמרון",
-      "english": "在撒玛利亚"
+      "gloss": "在撒玛利亚"
     },
     {
       "surface": "וימלך",
-      "english": "继位为王"
+      "gloss": "继位为王"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     },
     {
       "surface": "תחתיו",
-      "english": "在他之下"
+      "gloss": "在他之下"
     }
-  ],
-  "timestamp": "2026-07-17T21:10:43.889562941Z",
-  "model": "glm-5.2"
+  ]
 }

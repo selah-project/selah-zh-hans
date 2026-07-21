@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 102:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64430,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64858
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:56.131748463Z",
   "translation": "整日 ⟨יוֹם⟩ 我的仇敌辱骂我；发狂恨我的人指着⟨我⟩起誓。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "整"
+      "gloss": "整"
     },
     {
       "surface": "היום",
-      "english": "日 ⟨יוֹם⟩"
+      "gloss": "日 ⟨יוֹם⟩"
     },
     {
       "surface": "חרפוני",
-      "english": "我的仇敌辱骂我"
+      "gloss": "我的仇敌辱骂我"
     },
     {
       "surface": "אויבי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מהוללי",
-      "english": "发狂恨我的人"
+      "gloss": "发狂恨我的人"
     },
     {
       "surface": "בי",
-      "english": "指着⟨我⟩"
+      "gloss": "指着⟨我⟩"
     },
     {
       "surface": "נשבעו",
-      "english": "起誓"
+      "gloss": "起誓"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:56.131748463Z",
-  "model": "glm-5.2"
+  ]
 }

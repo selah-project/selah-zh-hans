@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 4:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64570,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65082
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:21.641099616Z",
   "translation": "在平安中,我要一同躺卧并且⟨我要⟩入睡;因为唯独你,雅威,在安全中使我安然居住。",
   "tokens": [
     {
       "surface": "בשלום",
-      "english": "在平安中"
+      "gloss": "在平安中"
     },
     {
       "surface": "יחדו",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "אשכבה",
-      "english": "我要躺卧"
+      "gloss": "我要躺卧"
     },
     {
       "surface": "ואישן",
-      "english": "并且⟨我要⟩入睡"
+      "gloss": "并且⟨我要⟩入睡"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "唯独你"
+      "gloss": "唯独你"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לבדד",
-      "english": "⟨独自⟩"
+      "gloss": "⟨独自⟩"
     },
     {
       "surface": "לבטח",
-      "english": "在安全中"
+      "gloss": "在安全中"
     },
     {
       "surface": "תושיבני",
-      "english": "使我居住"
+      "gloss": "使我居住"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:21.641099616Z",
-  "model": "glm-5.2"
+  ]
 }

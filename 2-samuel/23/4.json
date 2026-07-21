@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-samuel 23:4",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 705,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19153,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19858
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:54:48.131306384Z",
   "translation": "又如早晨的光辉、太阳 ⟨וְכְאוֹר⟩ 升起时⟨的⟩⟨样子⟩：一个没有云层的清晨——⟨从⟩光辉、⟨从⟩雨水之中，青草 ⟨מֵאֶרֶץ⟩ 从地⟨里长出来⟩。",
   "tokens": [
     {
       "surface": "וּ\/כְ\/א֥וֹר",
-      "english": "又如……的光辉"
+      "gloss": "又如……的光辉"
     },
     {
       "surface": "בֹּ֖קֶר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "יִזְרַח",
-      "english": "升起时"
+      "gloss": "升起时"
     },
     {
       "surface": "שָׁ֑מֶשׁ",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "בֹּ֚קֶר",
-      "english": "清晨"
+      "gloss": "清晨"
     },
     {
       "surface": "לֹ֣א",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עָב֔וֹת",
-      "english": "云层"
+      "gloss": "云层"
     },
     {
       "surface": "מִ\/נֹּ֥גַהּ",
-      "english": "⟨从⟩光辉"
+      "gloss": "⟨从⟩光辉"
     },
     {
       "surface": "מִ\/מָּטָ֖ר",
-      "english": "⟨从⟩雨水之中"
+      "gloss": "⟨从⟩雨水之中"
     },
     {
       "surface": "דֶּ֥שֶׁא",
-      "english": "青草"
+      "gloss": "青草"
     },
     {
       "surface": "מֵ\/אָֽרֶץ",
-      "english": "从地"
+      "gloss": "从地"
     }
-  ],
-  "timestamp": "2026-07-17T20:54:48.131306384Z",
-  "model": "glm-5.2"
+  ]
 }

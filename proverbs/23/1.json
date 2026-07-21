@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 23:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54715,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55220
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:05:19.280690242Z",
   "translation": "当你坐下来与掌权者一同进食时,你要明辨 ⟨את⟩ 摆在你面前的是什么。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תשב",
-      "english": "你坐"
+      "gloss": "你坐"
     },
     {
       "surface": "ללחום",
-      "english": "来进食"
+      "gloss": "来进食"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "掌权者"
     },
     {
       "surface": "מושל",
-      "english": "与掌权者"
+      "gloss": "与掌权者"
     },
     {
       "surface": "בין",
-      "english": "你要明辨"
+      "gloss": "你要明辨"
     },
     {
       "surface": "תבין",
-      "english": "〔你要〕明辨"
+      "gloss": "〔你要〕明辨"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摆在你面前的是什么"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前的"
+      "gloss": "在你面前的"
     }
-  ],
-  "timestamp": "2026-07-18T03:05:19.280690242Z",
-  "model": "glm-5.2"
+  ]
 }

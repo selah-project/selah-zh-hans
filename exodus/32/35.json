@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "exodus 32:35",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18858,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19396
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:47.498967402Z",
   "translation": "雅威击打⟨了⟩⟨את⟩那百姓,因为他们造了⟨את⟩那牛犊,就是亚伦所造的。",
   "tokens": [
     {
       "surface": "ויגף",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "על",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אשר",
-      "english": "(关系词)"
+      "gloss": "(关系词)"
     },
     {
       "surface": "עשו",
-      "english": "他们造了"
+      "gloss": "他们造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那牛犊"
     },
     {
       "surface": "העגל",
-      "english": "那牛犊"
+      "gloss": "那牛犊"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "עשה",
-      "english": "所造的"
+      "gloss": "所造的"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:47.498967402Z",
-  "model": "glm-5.2"
+  ]
 }

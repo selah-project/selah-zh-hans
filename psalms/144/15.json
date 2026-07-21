@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 144:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64453,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64827
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:43.628057832Z",
   "translation": "有福的⟨是⟩⟨ה⟩那民，就是这样⟨对待⟩他的；有福的⟨是⟩⟨ה⟩那民，雅威⟨是⟩他的以罗欣。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福的"
+      "gloss": "有福的"
     },
     {
       "surface": "העם",
-      "english": "⟨ה⟩那民"
+      "gloss": "⟨ה⟩那民"
     },
     {
       "surface": "שככה",
-      "english": "就是这样"
+      "gloss": "就是这样"
     },
     {
       "surface": "לו",
-      "english": "⟨对待⟩他的"
+      "gloss": "⟨对待⟩他的"
     },
     {
       "surface": "אשרי",
-      "english": "有福的"
+      "gloss": "有福的"
     },
     {
       "surface": "העם",
-      "english": "⟨ה⟩那民"
+      "gloss": "⟨ה⟩那民"
     },
     {
       "surface": "שיהוה",
-      "english": "雅威⟨是⟩"
+      "gloss": "雅威⟨是⟩"
     },
     {
       "surface": "אלהיו",
-      "english": "他的以罗欣"
+      "gloss": "他的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:43.628057832Z",
-  "model": "glm-5.2"
+  ]
 }

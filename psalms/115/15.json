@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 115:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64287,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64645
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:51.618281809Z",
   "translation": "你们蒙福归于雅威，⟨他是⟩造天与地的那一位。",
   "tokens": [
     {
       "surface": "ברוכים",
-      "english": "蒙福的"
+      "gloss": "蒙福的"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "ליהוה",
-      "english": "归于雅威"
+      "gloss": "归于雅威"
     },
     {
       "surface": "עשה",
-      "english": "造"
+      "gloss": "造"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "וארץ",
-      "english": "与地"
+      "gloss": "与地"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:51.618281809Z",
-  "model": "glm-5.2"
+  ]
 }

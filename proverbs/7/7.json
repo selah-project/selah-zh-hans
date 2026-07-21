@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 7:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54338,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54673
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:45.612388880Z",
   "translation": "我就看见在愚蒙人中,我在儿子们中分辨出一个心中缺少领悟的少年人。",
   "tokens": [
     {
       "surface": "וארא",
-      "english": "我就看见"
+      "gloss": "我就看见"
     },
     {
       "surface": "בפתאים",
-      "english": "在愚蒙人中"
+      "gloss": "在愚蒙人中"
     },
     {
       "surface": "אבינה",
-      "english": "我分辨出"
+      "gloss": "我分辨出"
     },
     {
       "surface": "בבנים",
-      "english": "在儿子们中"
+      "gloss": "在儿子们中"
     },
     {
       "surface": "נער",
-      "english": "⟨一个⟩少年人"
+      "gloss": "⟨一个⟩少年人"
     },
     {
       "surface": "חסר",
-      "english": "缺少"
+      "gloss": "缺少"
     },
     {
       "surface": "לב",
-      "english": "心中(领悟)"
+      "gloss": "心中(领悟)"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:45.612388880Z",
-  "model": "glm-5.2"
+  ]
 }

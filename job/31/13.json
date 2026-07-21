@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 31:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21611,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22047
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:15.079912529Z",
   "translation": "我若藐视了我男仆的⟨公平⟩，或我女仆的⟨公平⟩，在他们与我争辩之时；",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אמאס",
-      "english": "我藐视了"
+      "gloss": "我藐视了"
     },
     {
       "surface": "משפט",
-      "english": "⟨公平⟩"
+      "gloss": "⟨公平⟩"
     },
     {
       "surface": "עבדי",
-      "english": "我男仆的"
+      "gloss": "我男仆的"
     },
     {
       "surface": "ואמתי",
-      "english": "或我女仆的"
+      "gloss": "或我女仆的"
     },
     {
       "surface": "ברבם",
-      "english": "在他们的争辩中"
+      "gloss": "在他们的争辩中"
     },
     {
       "surface": "עמדי",
-      "english": "与我"
+      "gloss": "与我"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:15.079912529Z",
-  "model": "glm-5.2"
+  ]
 }

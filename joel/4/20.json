@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "joel 4:20",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17430,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17827
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:45.680688129Z",
   "translation": "犹大必永远居住,耶路撒冷必 ⟨存留⟩ 到代代。",
   "tokens": [
     {
       "surface": "וִ\/יהוּדָ֖ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "תֵּשֵׁ֑ב",
-      "english": "居住"
+      "gloss": "居住"
     },
     {
       "surface": "וִ\/ירוּשָׁלִַ֖ם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "לְ\/ד֥וֹר",
-      "english": "到代"
+      "gloss": "到代"
     },
     {
       "surface": "וָ\/דֽוֹר",
-      "english": "〔和〕代"
+      "gloss": "〔和〕代"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:45.680688129Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "proverbs 26:27",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54464,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 54822
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:38:07.988293727Z",
   "translation": "挖坑的，必掉在其中；滚石头的，石头必滚回他身上。",
   "tokens": [
     {
       "surface": "כרה",
-      "english": "挖"
+      "gloss": "挖"
     },
     {
       "surface": "שחת",
-      "english": "坑"
+      "gloss": "坑"
     },
     {
       "surface": "בה",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "יפל",
-      "english": "必掉落"
+      "gloss": "必掉落"
     },
     {
       "surface": "וגלל",
-      "english": "而滚"
+      "gloss": "而滚"
     },
     {
       "surface": "אבן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "אליו",
-      "english": "到他身上"
+      "gloss": "到他身上"
     },
     {
       "surface": "תשוב",
-      "english": "必滚回"
+      "gloss": "必滚回"
     }
-  ],
-  "timestamp": "2026-07-20T06:38:07.988293727Z",
-  "model": "glm-5.2"
+  ]
 }

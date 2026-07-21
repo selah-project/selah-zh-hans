@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 40:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 538,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64918,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65456
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:55.963976282Z",
   "translation": "我传扬了公义,在大⟨会众⟩之中;看哪,我的嘴唇我不禁止,雅威啊,⟨你⟩知道。",
   "tokens": [
     {
       "surface": "בשרתי",
-      "english": "我传扬了"
+      "gloss": "我传扬了"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "בקהל",
-      "english": "在⟨会众⟩之中"
+      "gloss": "在⟨会众⟩之中"
     },
     {
       "surface": "רב",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "שפתי",
-      "english": "我的嘴唇"
+      "gloss": "我的嘴唇"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אכלא",
-      "english": "我禁止"
+      "gloss": "我禁止"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "ידעת",
-      "english": "知道"
+      "gloss": "知道"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:55.963976282Z",
-  "model": "glm-5.2"
+  ]
 }

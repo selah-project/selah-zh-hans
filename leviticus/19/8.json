@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 19:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19536,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20104
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:12.262885857Z",
   "translation": "吃它的,必担当自己的罪孽,因为他亵渎了⟨את⟩雅威的圣物;那生命必从他百姓中被剪除。",
   "tokens": [
     {
       "surface": "ואכליו",
-      "english": "吃它的"
+      "gloss": "吃它的"
     },
     {
       "surface": "עונו",
-      "english": "自己的罪孽"
+      "gloss": "自己的罪孽"
     },
     {
       "surface": "ישא",
-      "english": "必担当"
+      "gloss": "必担当"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的圣物"
     },
     {
       "surface": "קדש",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "חלל",
-      "english": "他亵渎了"
+      "gloss": "他亵渎了"
     },
     {
       "surface": "ונכרתה",
-      "english": "必被剪除"
+      "gloss": "必被剪除"
     },
     {
       "surface": "הנפש",
-      "english": "那生命"
+      "gloss": "那生命"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "מעמיה",
-      "english": "从他百姓中"
+      "gloss": "从他百姓中"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:12.262885857Z",
-  "model": "glm-5.2"
+  ]
 }

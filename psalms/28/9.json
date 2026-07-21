@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 28:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64867,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65402
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:15.530036530Z",
   "translation": "求你拯救你的百姓，赐福给你的产业；牧养他们，抬举他们，⟨直到⟩永远。",
   "tokens": [
     {
       "surface": "הושיעה",
-      "english": "求你拯救"
+      "gloss": "求你拯救"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的百姓"
     },
     {
       "surface": "עמך",
-      "english": "你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "וברך",
-      "english": "并赐福给"
+      "gloss": "并赐福给"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的产业"
     },
     {
       "surface": "נחלתך",
-      "english": "你的产业"
+      "gloss": "你的产业"
     },
     {
       "surface": "ורעם",
-      "english": "牧养他们"
+      "gloss": "牧养他们"
     },
     {
       "surface": "ונשאם",
-      "english": "抬举他们"
+      "gloss": "抬举他们"
     },
     {
       "surface": "עד",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "העולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:15.530036530Z",
-  "model": "glm-5.2"
+  ]
 }

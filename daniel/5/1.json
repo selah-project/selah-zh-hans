@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "daniel 5:1",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18947,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19494
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:31:31.314191943Z",
   "translation": "伯沙撒 ⟨הַמֶּלֶךְ⟩为王，为他的千位大臣摆设大筵席，并在千人面前 ⟨הוּא⟩ 饮酒。",
   "tokens": [
     {
       "surface": "בלשאצר",
-      "english": "伯沙撒"
+      "gloss": "伯沙撒"
     },
     {
       "surface": "מלכא",
-      "english": "⟨הַמֶּלֶךְ⟩为王"
+      "gloss": "⟨הַמֶּלֶךְ⟩为王"
     },
     {
       "surface": "עבד",
-      "english": "摆设"
+      "gloss": "摆设"
     },
     {
       "surface": "לחם",
-      "english": "筵席"
+      "gloss": "筵席"
     },
     {
       "surface": "רב",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "לרברבנוהי",
-      "english": "为他的大臣"
+      "gloss": "为他的大臣"
     },
     {
       "surface": "אלף",
-      "english": "千位"
+      "gloss": "千位"
     },
     {
       "surface": "ולקבל",
-      "english": "并在……面前"
+      "gloss": "并在……面前"
     },
     {
       "surface": "אלפא",
-      "english": "千人"
+      "gloss": "千人"
     },
     {
       "surface": "חמרא",
-      "english": "酒"
+      "gloss": "酒"
     },
     {
       "surface": "שתה",
-      "english": "⟨הוּא⟩ 饮"
+      "gloss": "⟨הוּא⟩ 饮"
     }
-  ],
-  "timestamp": "2026-07-18T01:31:31.314191943Z",
-  "model": "glm-5.2"
+  ]
 }

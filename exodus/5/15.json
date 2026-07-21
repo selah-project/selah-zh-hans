@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 5:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18868,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19347
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:12:23.964313771Z",
   "translation": "以色列的官长们来了,向法老哀呼,说:你为何这样待⟨你⟩的仆人们?",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "来了"
+      "gloss": "来了"
     },
     {
       "surface": "שטרי",
-      "english": "⟨的⟩官长们"
+      "gloss": "⟨的⟩官长们"
     },
     {
       "surface": "בני",
-      "english": "⟨的⟩子⟨民⟩"
+      "gloss": "⟨的⟩子⟨民⟩"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויצעקו",
-      "english": "向……哀呼"
+      "gloss": "向……哀呼"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "תעשה",
-      "english": "⟨你⟩待"
+      "gloss": "⟨你⟩待"
     },
     {
       "surface": "כה",
-      "english": "这样"
+      "gloss": "这样"
     },
     {
       "surface": "לעבדיך",
-      "english": "⟨你⟩的仆人们"
+      "gloss": "⟨你⟩的仆人们"
     }
-  ],
-  "timestamp": "2026-07-17T18:12:23.964313771Z",
-  "model": "glm-5.2"
+  ]
 }

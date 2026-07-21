@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-chronicles 8:15",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59868,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60159
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:18:25.871784432Z",
   "translation": "他们没有偏离王的命令 ⟨对⟩ 祭司和利未人 ⟨的吩咐⟩,涉及每一件 *davar*,以及宝库。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "他们没有"
+      "gloss": "他们没有"
     },
     {
       "surface": "סרו",
-      "english": "偏离"
+      "gloss": "偏离"
     },
     {
       "surface": "מצות",
-      "english": "命令"
+      "gloss": "命令"
     },
     {
       "surface": "המלך",
-      "english": "王的"
+      "gloss": "王的"
     },
     {
       "surface": "על",
-      "english": "⟨对⟩"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "והלוים",
-      "english": "和利未人"
+      "gloss": "和利未人"
     },
     {
       "surface": "לכל",
-      "english": "每一"
+      "gloss": "每一"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (事务)"
+      "gloss": "*davar* (事务)"
     },
     {
       "surface": "ולאצרות",
-      "english": "以及宝库"
+      "gloss": "以及宝库"
     }
-  ],
-  "timestamp": "2026-07-18T02:18:25.871784432Z",
-  "model": "glm-5.2"
+  ]
 }

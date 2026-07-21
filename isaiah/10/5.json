@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 10:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20627,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21112
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:39:10.375801820Z",
   "translation": "祸哉！亚述，我怒气的棍，⟨和⟩他们手中的杖⟨是⟩我的愤恨。",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "祸哉！"
+      "gloss": "祸哉！"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "שבט",
-      "english": "……的棍"
+      "gloss": "……的棍"
     },
     {
       "surface": "אפי",
-      "english": "我怒气的"
+      "gloss": "我怒气的"
     },
     {
       "surface": "ומטה",
-      "english": "⟨和⟩……的杖"
+      "gloss": "⟨和⟩……的杖"
     },
     {
       "surface": "הוא",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "בידם",
-      "english": "他们手中的"
+      "gloss": "他们手中的"
     },
     {
       "surface": "זעמי",
-      "english": "我的愤恨"
+      "gloss": "我的愤恨"
     }
-  ],
-  "timestamp": "2026-07-17T21:39:10.375801820Z",
-  "model": "glm-5.2"
+  ]
 }

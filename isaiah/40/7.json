@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 40:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20960,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21435
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:18.205378130Z",
   "translation": "枯干了草,凋谢了花,因为雅威的鲁阿吹在其上;诚然,⟨这⟩民⟨是⟩草。",
   "tokens": [
     {
       "surface": "יבש",
-      "english": "枯干了"
+      "gloss": "枯干了"
     },
     {
       "surface": "חציר",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "נבל",
-      "english": "凋谢了"
+      "gloss": "凋谢了"
     },
     {
       "surface": "ציץ",
-      "english": "花"
+      "gloss": "花"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "נשבה",
-      "english": "吹"
+      "gloss": "吹"
     },
     {
       "surface": "בו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "אכן",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "חציר",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "העם",
-      "english": "⟨这⟩民"
+      "gloss": "⟨这⟩民"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:18.205378130Z",
-  "model": "glm-5.2"
+  ]
 }

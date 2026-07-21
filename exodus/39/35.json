@@ -1,55 +1,44 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "exodus 39:35",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18502,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18941
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:16.676431953Z",
   "translation": "⟨את⟩ 法柜的约柜及其杠子,并 ⟨את⟩ 施恩座,",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法柜的约柜"
     },
     {
       "surface": "ארן",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "העדת",
-      "english": "法柜的"
+      "gloss": "法柜的"
     },
     {
       "surface": "ואת",
-      "english": "并 ⟨את⟩",
+      "gloss": "并 ⟨את⟩",
       "marks": "其杠子"
     },
     {
       "surface": "בדיו",
-      "english": "其杠子"
+      "gloss": "其杠子"
     },
     {
       "surface": "ואת",
-      "english": "并 ⟨את⟩",
+      "gloss": "并 ⟨את⟩",
       "marks": "施恩座"
     },
     {
       "surface": "הכפרת",
-      "english": "施恩座"
+      "gloss": "施恩座"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:16.676431953Z",
-  "model": "glm-5.2"
+  ]
 }

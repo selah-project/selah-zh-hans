@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "jeremiah 5:11",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19200,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19707
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:09:21.870558604Z",
   "translation": "因为背叛之家以色列与犹大之家背叛了我,雅威的断言。",
   "tokens": [
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בָגַד",
-      "english": "背叛 (名词)"
+      "gloss": "背叛 (名词)"
     },
     {
       "surface": "בָּגְד֤וּ",
-      "english": "背叛了"
+      "gloss": "背叛了"
     },
     {
       "surface": "בִּי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "בֵּ֥ית",
-      "english": "……之家"
+      "gloss": "……之家"
     },
     {
       "surface": "יִשְׂרָאֵ֛ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וּ\/בֵ֥ית",
-      "english": "与……之家"
+      "gloss": "与……之家"
     },
     {
       "surface": "יְהוּדָ֖ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "נְאֻם",
-      "english": "断言"
+      "gloss": "断言"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:09:21.870558604Z",
-  "model": "glm-5.2"
+  ]
 }

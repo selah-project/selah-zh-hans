@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "song-of-songs 3:3",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22244,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22588
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:16.894468350Z",
   "translation": "城中巡行的守卫遇见了我⟨——⟩⟨你⟩们看见了我性命所爱的那一位吗？",
   "tokens": [
     {
       "surface": "מצאוני",
-      "english": "遇见了我"
+      "gloss": "遇见了我"
     },
     {
       "surface": "השמרים",
-      "english": "守卫"
+      "gloss": "守卫"
     },
     {
       "surface": "הסבבים",
-      "english": "巡行的"
+      "gloss": "巡行的"
     },
     {
       "surface": "בעיר",
-      "english": "在城中"
+      "gloss": "在城中"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "了我性命所爱的那一位"
     },
     {
       "surface": "שאהבה",
-      "english": "所爱的"
+      "gloss": "所爱的"
     },
     {
       "surface": "נפשי",
-      "english": "我性命"
+      "gloss": "我性命"
     },
     {
       "surface": "ראיתם",
-      "english": "⟨你⟩们看见了吗"
+      "gloss": "⟨你⟩们看见了吗"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:16.894468350Z",
-  "model": "glm-5.2"
+  ]
 }

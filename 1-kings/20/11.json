@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-kings 20:11",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64169,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64755
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:14:13.224146531Z",
   "translation": "以色列王回答,说:⟨你们⟩说吧 ⟨——⟩ 正在束上 ⟨铠甲⟩ 的,不可像已经卸下 ⟨铠甲⟩ 的那样夸口。",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "מלך",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "דברו",
-      "english": "⟨你们⟩说吧"
+      "gloss": "⟨你们⟩说吧"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יתהלל",
-      "english": "夸口"
+      "gloss": "夸口"
     },
     {
       "surface": "חגר",
-      "english": "正在束上 ⟨铠甲⟩ 的"
+      "gloss": "正在束上 ⟨铠甲⟩ 的"
     },
     {
       "surface": "כמפתח",
-      "english": "像已经卸下 ⟨铠甲⟩ 的那样"
+      "gloss": "像已经卸下 ⟨铠甲⟩ 的那样"
     }
-  ],
-  "timestamp": "2026-07-17T21:14:13.224146531Z",
-  "model": "glm-5.2"
+  ]
 }

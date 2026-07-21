@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 1:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64549,
-    "prompt_tokens_details": {
-      "cached_tokens": 43584
-    },
-    "total_tokens": 65085
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:56:24.407283494Z",
   "translation": "现在,去吧,请让我给你出主意:救 ⟨את⟩ 你的性命和 ⟨את⟩ 你儿子所罗门的性命。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "לכי",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "איעצך",
-      "english": "请让我给你出主意"
+      "gloss": "请让我给你出主意"
     },
     {
       "surface": "נא",
-      "english": "请"
+      "gloss": "请"
     },
     {
       "surface": "עצה",
-      "english": "主意"
+      "gloss": "主意"
     },
     {
       "surface": "ומלטי",
-      "english": "救"
+      "gloss": "救"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的性命"
     },
     {
       "surface": "נפשך",
-      "english": "你的性命"
+      "gloss": "你的性命"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "你儿子所罗门的性命"
     },
     {
       "surface": "נפש",
-      "english": "性命"
+      "gloss": "性命"
     },
     {
       "surface": "בנך",
-      "english": "你儿子"
+      "gloss": "你儿子"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     }
-  ],
-  "timestamp": "2026-07-17T20:56:24.407283494Z",
-  "model": "glm-5.2"
+  ]
 }

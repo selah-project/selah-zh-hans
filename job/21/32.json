@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "job 21:32",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21491,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21965
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:47.979006901Z",
   "translation": "而他⟨要⟩被带到坟墓，并在谷堆上⟨有人⟩彻夜守望。",
   "tokens": [
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "לקברות",
-      "english": "⟨要⟩被带到坟墓"
+      "gloss": "⟨要⟩被带到坟墓"
     },
     {
       "surface": "יובל",
-      "english": "被 pomp 地护送\/搬运"
+      "gloss": "被 pomp 地护送\/搬运"
     },
     {
       "surface": "ועל",
-      "english": "并在……上"
+      "gloss": "并在……上"
     },
     {
       "surface": "גדיש",
-      "english": "谷堆"
+      "gloss": "谷堆"
     },
     {
       "surface": "ישקוד",
-      "english": "彻夜守望"
+      "gloss": "彻夜守望"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:47.979006901Z",
-  "model": "glm-5.2"
+  ]
 }

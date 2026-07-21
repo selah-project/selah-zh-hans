@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 116:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64232,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64620
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:16.082165402Z",
   "translation": "我说,在我的惊慌中:⟨כל⟩ ⟨ה\/אדם⟩ ⟨是⟩谎言。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "בחפזי",
-      "english": "在我的惊慌中"
+      "gloss": "在我的惊慌中"
     },
     {
       "surface": "כל",
-      "english": "⟨כל⟩",
+      "gloss": "⟨כל⟩",
       "marks": "全人类"
     },
     {
       "surface": "האדם",
-      "english": "⟨ה\/אדם⟩",
+      "gloss": "⟨ה\/אדם⟩",
       "marks": "全人类"
     },
     {
       "surface": "כזב",
-      "english": "谎言"
+      "gloss": "谎言"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:16.082165402Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 10:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22890,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23266
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:42.020345163Z",
   "translation": "这些⟨是⟩含的儿子，按他们的宗族，按他们的语言，在他们的地土，在他们的国民中。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "⟨是⟩……的儿子"
+      "gloss": "⟨是⟩……的儿子"
     },
     {
       "surface": "חם",
-      "english": "含"
+      "gloss": "含"
     },
     {
       "surface": "למשפחתם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     },
     {
       "surface": "ללשנתם",
-      "english": "按他们的语言"
+      "gloss": "按他们的语言"
     },
     {
       "surface": "בארצתם",
-      "english": "在他们的地土"
+      "gloss": "在他们的地土"
     },
     {
       "surface": "בגויהם",
-      "english": "在他们的国民中"
+      "gloss": "在他们的国民中"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:42.020345163Z",
-  "model": "glm-5.2"
+  ]
 }

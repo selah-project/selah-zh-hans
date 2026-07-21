@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "hosea 6:10",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21279,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21718
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:59.062737300Z",
   "translation": "在以色列家中,我看见了可怕的שַׁעֲרוּרָה;在那里有以法莲的淫行,以色列被玷污了。",
   "tokens": [
     {
       "surface": "בבית",
-      "english": "在……家中"
+      "gloss": "在……家中"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ראיתי",
-      "english": "我看见了"
+      "gloss": "我看见了"
     },
     {
       "surface": "שעריריה",
-      "english": "可怕的"
+      "gloss": "可怕的"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "זנות",
-      "english": "淫行"
+      "gloss": "淫行"
     },
     {
       "surface": "לאפרים",
-      "english": "以法莲的"
+      "gloss": "以法莲的"
     },
     {
       "surface": "נטמא",
-      "english": "被玷污了"
+      "gloss": "被玷污了"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:59.062737300Z",
-  "model": "glm-5.2"
+  ]
 }

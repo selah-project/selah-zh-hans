@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "lamentations 3:23",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33299,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33564
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:43.239428037Z",
   "translation": "每早晨都是新的;你的信实极大。",
   "tokens": [
     {
       "surface": "חדשים",
-      "english": "⟨是⟩新的"
+      "gloss": "⟨是⟩新的"
     },
     {
       "surface": "לבקרים",
-      "english": "每早晨"
+      "gloss": "每早晨"
     },
     {
       "surface": "רבה",
-      "english": "极大"
+      "gloss": "极大"
     },
     {
       "surface": "אמונתך",
-      "english": "你的信实"
+      "gloss": "你的信实"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:43.239428037Z",
-  "model": "glm-5.2"
+  ]
 }

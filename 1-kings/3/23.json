@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "1-kings 3:23",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64691,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65369
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:25.658383514Z",
   "translation": "王就说：⟨这个⟩说：'我的儿子是 ⟨החי⟩ 活的，你的儿子是 ⟨המת⟩ 死的'；⟨那个⟩说：'不，你的儿子是死的，我的儿子是活的。'",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "זאת",
-      "english": "⟨这个⟩"
+      "gloss": "⟨这个⟩"
     },
     {
       "surface": "אמרת",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "זה",
-      "english": "（隐含：）"
+      "gloss": "（隐含：）"
     },
     {
       "surface": "בני",
-      "english": "我的儿子"
+      "gloss": "我的儿子"
     },
     {
       "surface": "החי",
-      "english": "⟨החי⟩ 活的"
+      "gloss": "⟨החי⟩ 活的"
     },
     {
       "surface": "ובנך",
-      "english": "你的儿子"
+      "gloss": "你的儿子"
     },
     {
       "surface": "המת",
-      "english": "⟨המת⟩ 死的"
+      "gloss": "⟨המת⟩ 死的"
     },
     {
       "surface": "וזאת",
-      "english": "⟨那个⟩"
+      "gloss": "⟨那个⟩"
     },
     {
       "surface": "אמרת",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "כי",
-      "english": "（强否定：）"
+      "gloss": "（强否定：）"
     },
     {
       "surface": "בנך",
-      "english": "你的儿子"
+      "gloss": "你的儿子"
     },
     {
       "surface": "המת",
-      "english": "死的"
+      "gloss": "死的"
     },
     {
       "surface": "ובני",
-      "english": "我的儿子"
+      "gloss": "我的儿子"
     },
     {
       "surface": "החי",
-      "english": "活的"
+      "gloss": "活的"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:25.658383514Z",
-  "model": "glm-5.2"
+  ]
 }

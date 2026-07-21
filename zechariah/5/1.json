@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "zechariah 5:1",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17538,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 17992
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:34:02.763607157Z",
   "translation": "我又转过身,举起我的眼,观看,看哪——一张飞行的书卷。",
   "tokens": [
     {
       "surface": "וָאָשׁוּב",
-      "english": "我又转过身"
+      "gloss": "我又转过身"
     },
     {
       "surface": "וָאֶשָּׂא",
-      "english": "举起"
+      "gloss": "举起"
     },
     {
       "surface": "עֵינַי",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "וָאֶרְאֶה",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "וְהִנֵּה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "מְגִלָּה",
-      "english": "一张书卷"
+      "gloss": "一张书卷"
     },
     {
       "surface": "עָפָה",
-      "english": "飞行的"
+      "gloss": "飞行的"
     }
-  ],
-  "timestamp": "2026-07-17T23:34:02.763607157Z",
-  "model": "glm-5.2"
+  ]
 }

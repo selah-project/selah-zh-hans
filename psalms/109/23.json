@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 109:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64274,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64805
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:31.853211342Z",
   "translation": "我如倾斜之影消逝；我如אַרְבֶּה被抖落。",
   "tokens": [
     {
       "surface": "כְּ\/צֵל",
-      "english": "如影"
+      "gloss": "如影"
     },
     {
       "surface": "כִּ\/נְטוֹת֥\/וֹ",
-      "english": "当它倾斜"
+      "gloss": "当它倾斜"
     },
     {
       "surface": "נֶהֱלָ֑כְתִּי",
-      "english": "我消逝了"
+      "gloss": "我消逝了"
     },
     {
       "surface": "נִ֝נְעַ֗רְתִּי",
-      "english": "我被抖落"
+      "gloss": "我被抖落"
     },
     {
       "surface": "כָּֽ\/אַרְבֶּֽה",
-      "english": "如אַרְבֶּה（蝗虫）"
+      "gloss": "如אַרְבֶּה（蝗虫）"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:31.853211342Z",
-  "model": "glm-5.2"
+  ]
 }

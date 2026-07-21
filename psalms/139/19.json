@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "psalms 139:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 435,
-    "prompt_tokens": 64496,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64931
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:18.546316368Z",
   "translation": "若你要杀戮，以罗欣啊，恶人和流血的人，就离开我吧：",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "תקטל",
-      "english": "你要杀戮"
+      "gloss": "你要杀戮"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ואנשי",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "דמים",
-      "english": "流血的人"
+      "gloss": "流血的人"
     },
     {
       "surface": "סורו",
-      "english": "就离开"
+      "gloss": "就离开"
     },
     {
       "surface": "מני",
-      "english": "我吧："
+      "gloss": "我吧："
     }
-  ],
-  "timestamp": "2026-07-21T13:22:18.546316368Z",
-  "model": "glm-4.5"
+  ]
 }

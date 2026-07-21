@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 91:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64377,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64760
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:07.840974288Z",
   "translation": "只管用你的眼观看，你将亲眼见证恶人⟨所受的⟩报应。",
   "tokens": [
     {
       "surface": "רק",
-      "english": "只管"
+      "gloss": "只管"
     },
     {
       "surface": "בעיניך",
-      "english": "用你的眼"
+      "gloss": "用你的眼"
     },
     {
       "surface": "תביט",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "ושלמת",
-      "english": "报应"
+      "gloss": "报应"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "תראה",
-      "english": "你将亲眼见证"
+      "gloss": "你将亲眼见证"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:07.840974288Z",
-  "model": "glm-5.2"
+  ]
 }

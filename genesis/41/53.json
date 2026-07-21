@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 53,
   "ref": "genesis 41:53",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22923,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23328
-  },
+  "verse": 53,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:01:58.904281002Z",
   "translation": "那在地上曾有⟨השבע⟩的七个丰年完毕了，⟨它们⟩就是在埃及地的。",
   "tokens": [
     {
       "surface": "ותכלינה",
-      "english": "完毕了"
+      "gloss": "完毕了"
     },
     {
       "surface": "שבע",
-      "english": "七个"
+      "gloss": "七个"
     },
     {
       "surface": "שני",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "השבע",
-      "english": "丰足（的）"
+      "gloss": "丰足（的）"
     },
     {
       "surface": "אשר",
-      "english": "⟨那些⟩"
+      "gloss": "⟨那些⟩"
     },
     {
       "surface": "היה",
-      "english": "曾有"
+      "gloss": "曾有"
     },
     {
       "surface": "בארץ",
-      "english": "在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:01:58.904281002Z",
-  "model": "glm-5.2"
+  ]
 }

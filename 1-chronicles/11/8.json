@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 11:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58982,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59467
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:00:10.235720037Z",
   "translation": "他建造了那城,四围从米罗直到⟨四围⟩;约阿布使⟨את⟩那城的其余部分存活。",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "他建造了"
+      "gloss": "他建造了"
     },
     {
       "surface": "העיר",
-      "english": "那城"
+      "gloss": "那城"
     },
     {
       "surface": "מסביב",
-      "english": "四围"
+      "gloss": "四围"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "המלוא",
-      "english": "米罗"
+      "gloss": "米罗"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הסביב",
-      "english": "⟨四围⟩"
+      "gloss": "⟨四围⟩"
     },
     {
       "surface": "ויואב",
-      "english": "约阿布"
+      "gloss": "约阿布"
     },
     {
       "surface": "יחיה",
-      "english": "使……存活"
+      "gloss": "使……存活"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那城的其余部分"
     },
     {
       "surface": "שאר",
-      "english": "其余部分"
+      "gloss": "其余部分"
     },
     {
       "surface": "העיר",
-      "english": "那城的"
+      "gloss": "那城的"
     }
-  ],
-  "timestamp": "2026-07-18T02:00:10.235720037Z",
-  "model": "glm-5.2"
+  ]
 }

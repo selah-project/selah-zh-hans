@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 147:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64240,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64663
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:36.198075597Z",
   "translation": "他医治心碎的人,包扎他们的痛苦。",
   "tokens": [
     {
       "surface": "הָ֭\/רֹפֵא",
-      "english": "医治"
+      "gloss": "医治"
     },
     {
       "surface": "לִ\/שְׁב֣וּרֵי",
-      "english": "……破碎的"
+      "gloss": "……破碎的"
     },
     {
       "surface": "לֵ֑ב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "וּ֝\/מְחַבֵּ֗שׁ",
-      "english": "和包扎"
+      "gloss": "和包扎"
     },
     {
       "surface": "לְ\/עַצְּבוֹתָֽ\/ם",
-      "english": "他们的痛苦"
+      "gloss": "他们的痛苦"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:36.198075597Z",
-  "model": "glm-5.2"
+  ]
 }

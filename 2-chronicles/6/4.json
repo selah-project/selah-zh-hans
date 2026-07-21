@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 6:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60385,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60853
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:47.718788855Z",
   "translation": "他说:可称颂的⟨是⟩雅威,以色列的以罗欣,他曾用口借着大卫我父亲口说话,又借着手亲自成就,说:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说:"
+      "gloss": "他说:"
     },
     {
       "surface": "ברוך",
-      "english": "可称颂的"
+      "gloss": "可称颂的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "……的以罗欣"
+      "gloss": "……的以罗欣"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "他曾"
+      "gloss": "他曾"
     },
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "בפיו",
-      "english": "用口"
+      "gloss": "用口"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "דויד (大卫)"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אבי",
-      "english": "我父"
+      "gloss": "我父"
     },
     {
       "surface": "ובידיו",
-      "english": "又借着手"
+      "gloss": "又借着手"
     },
     {
       "surface": "מלא",
-      "english": "成就"
+      "gloss": "成就"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:47.718788855Z",
-  "model": "glm-5.2"
+  ]
 }

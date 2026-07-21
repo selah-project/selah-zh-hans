@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 58:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 588,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21144,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21732
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:02:14.283032594Z",
   "translation": "大声呼唤，⟨从⟩喉咙里，不要抑制；如 ⟨一只⟩羊角 ⟨号⟩，扬起你的声音！向我的子民宣告他们的悖逆，向雅各家 ⟨宣告⟩他们的罪。",
   "tokens": [
     {
       "surface": "קרא",
-      "english": "大声呼唤"
+      "gloss": "大声呼唤"
     },
     {
       "surface": "בגרון",
-      "english": "⟨从⟩喉咙里"
+      "gloss": "⟨从⟩喉咙里"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תחשך",
-      "english": "抑制"
+      "gloss": "抑制"
     },
     {
       "surface": "כשופר",
-      "english": "如 ⟨一只⟩羊角 ⟨号⟩"
+      "gloss": "如 ⟨一只⟩羊角 ⟨号⟩"
     },
     {
       "surface": "הרם",
-      "english": "扬起"
+      "gloss": "扬起"
     },
     {
       "surface": "קולך",
-      "english": "你的声音"
+      "gloss": "你的声音"
     },
     {
       "surface": "והגד",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "לעמי",
-      "english": "向我的子民"
+      "gloss": "向我的子民"
     },
     {
       "surface": "פשעם",
-      "english": "他们的悖逆"
+      "gloss": "他们的悖逆"
     },
     {
       "surface": "ולבית",
-      "english": "向……家"
+      "gloss": "向……家"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "חטאתם",
-      "english": "他们的罪"
+      "gloss": "他们的罪"
     }
-  ],
-  "timestamp": "2026-07-17T22:02:14.283032594Z",
-  "model": "glm-5.2"
+  ]
 }

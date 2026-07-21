@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 35:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 533,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19504,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20037
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:35:30.193500737Z",
   "translation": "以及 ⟨את⟩ 香坛和 ⟨את⟩ 它的杠、 ⟨את⟩ 膏油、 ⟨את⟩ 香料的香、以及 ⟨את⟩ 帐幕门口的帘子，在 ⟨ה⟩ 会幕的入口处。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "香坛"
     },
     {
       "surface": "מזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "הקטרת",
-      "english": "香的"
+      "gloss": "香的"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "它的杠"
     },
     {
       "surface": "בדיו",
-      "english": "它的杠"
+      "gloss": "它的杠"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "膏油"
     },
     {
       "surface": "שמן",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "המשחה",
-      "english": "膏抹的"
+      "gloss": "膏抹的"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "香料的香"
     },
     {
       "surface": "קטרת",
-      "english": "香"
+      "gloss": "香"
     },
     {
       "surface": "הסמים",
-      "english": "香料的"
+      "gloss": "香料的"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "门口的帘子"
     },
     {
       "surface": "מסך",
-      "english": "帘子"
+      "gloss": "帘子"
     },
     {
       "surface": "הפתח",
-      "english": "门口的"
+      "gloss": "门口的"
     },
     {
       "surface": "לפתח",
-      "english": "在入口处"
+      "gloss": "在入口处"
     },
     {
       "surface": "המשכן",
-      "english": "会幕的"
+      "gloss": "会幕的"
     }
-  ],
-  "timestamp": "2026-07-17T18:35:30.193500737Z",
-  "model": "glm-5.2"
+  ]
 }

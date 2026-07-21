@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "numbers 4:20",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19562,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20075
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:09.539457455Z",
   "translation": "他们不可进来观看 ⟨בלע⟩ 那圣物 ⟨את⟩,⟨免得⟩ 他们死。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "他们不可"
+      "gloss": "他们不可"
     },
     {
       "surface": "יבאו",
-      "english": "进来"
+      "gloss": "进来"
     },
     {
       "surface": "לראות",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "כבלע",
-      "english": "⟨בלע⟩"
+      "gloss": "⟨בלע⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那圣物"
     },
     {
       "surface": "הקדש",
-      "english": "那圣物"
+      "gloss": "那圣物"
     },
     {
       "surface": "ומתו",
-      "english": "⟨免得⟩ 他们死"
+      "gloss": "⟨免得⟩ 他们死"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:09.539457455Z",
-  "model": "glm-5.2"
+  ]
 }

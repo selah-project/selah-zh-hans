@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 135:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64364,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64633
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:01.729596249Z",
   "translation": "⟨你们⟩站在雅威的殿中，在我们以罗欣之殿的院宇里。",
   "tokens": [
     {
       "surface": "שעמדים",
-      "english": "⟨你们⟩站在"
+      "gloss": "⟨你们⟩站在"
     },
     {
       "surface": "בבית",
-      "english": "在……的殿中"
+      "gloss": "在……的殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בחצרות",
-      "english": "在……的院宇里"
+      "gloss": "在……的院宇里"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "אלהינו",
-      "english": "我们以罗欣"
+      "gloss": "我们以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:01.729596249Z",
-  "model": "glm-5.2"
+  ]
 }

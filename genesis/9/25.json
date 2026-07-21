@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 9:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22803,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23201
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:10.871006882Z",
   "translation": "他说:可憎恶的⟨是⟩迦南;他必作众仆之仆⟨服事⟩他的兄弟。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "ארור",
-      "english": "可憎恶的"
+      "gloss": "可憎恶的"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     },
     {
       "surface": "עבד",
-      "english": "仆"
+      "gloss": "仆"
     },
     {
       "surface": "עבדים",
-      "english": "众仆之"
+      "gloss": "众仆之"
     },
     {
       "surface": "יהיה",
-      "english": "他必作"
+      "gloss": "他必作"
     },
     {
       "surface": "לאחיו",
-      "english": "他的兄弟"
+      "gloss": "他的兄弟"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:10.871006882Z",
-  "model": "glm-5.2"
+  ]
 }

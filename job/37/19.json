@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 37:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21648,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22073
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:34.990466211Z",
   "translation": "请让我们知道⟨我们⟩要对他说什么；因为黑暗，我们无法排列⟨我们的话语⟩。",
   "tokens": [
     {
       "surface": "הודיענו",
-      "english": "请让我们知道"
+      "gloss": "请让我们知道"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "נאמר",
-      "english": "⟨我们⟩要说"
+      "gloss": "⟨我们⟩要说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "לא",
-      "english": "不 \/ 无法"
+      "gloss": "不 \/ 无法"
     },
     {
       "surface": "נערך",
-      "english": "排列"
+      "gloss": "排列"
     },
     {
       "surface": "מפני",
-      "english": "因为 \/ 由于"
+      "gloss": "因为 \/ 由于"
     },
     {
       "surface": "חשך",
-      "english": "黑暗"
+      "gloss": "黑暗"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:34.990466211Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "amos 5:7",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17866,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18382
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:20:45.640177230Z",
   "translation": "将公平变为苦艾的,把公义弃于大地的 ——",
   "tokens": [
     {
       "surface": "הַ\/הֹפְכִ֥ים",
-      "english": "将……变为的"
+      "gloss": "将……变为的"
     },
     {
       "surface": "לְ\/לַעֲנָ֖ה",
-      "english": "苦艾"
+      "gloss": "苦艾"
     },
     {
       "surface": "מִשְׁפָּ֑ט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "וּ\/צְדָקָ֖ה",
-      "english": "而公义"
+      "gloss": "而公义"
     },
     {
       "surface": "לָ\/אָ֥רֶץ",
-      "english": "弃于大地"
+      "gloss": "弃于大地"
     },
     {
       "surface": "הִנִּֽיחוּ",
-      "english": "放置了"
+      "gloss": "放置了"
     }
-  ],
-  "timestamp": "2026-07-17T23:20:45.640177230Z",
-  "model": "glm-5.2"
+  ]
 }

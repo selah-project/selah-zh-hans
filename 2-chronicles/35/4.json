@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 35:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60077,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60637
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:36:08.945133967Z",
   "translation": "你们要按着你们的班次，为你们父家 ⟨预备⟩；按着以色列王大卫所写的，并他儿子所罗门所写的 ⟨文件⟩。",
   "tokens": [
     {
       "surface": "והכונו",
-      "english": "你们要预备"
+      "gloss": "你们要预备"
     },
     {
       "surface": "לבית",
-      "english": "为……的家"
+      "gloss": "为……的家"
     },
     {
       "surface": "אבותיכם",
-      "english": "你们父"
+      "gloss": "你们父"
     },
     {
       "surface": "כמחלקותיכם",
-      "english": "按着你们的班次"
+      "gloss": "按着你们的班次"
     },
     {
       "surface": "בכתב",
-      "english": "按着所写的"
+      "gloss": "按着所写的"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ובמכתב",
-      "english": "并按着所写的"
+      "gloss": "并按着所写的"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     }
-  ],
-  "timestamp": "2026-07-18T02:36:08.945133967Z",
-  "model": "glm-5.2"
+  ]
 }

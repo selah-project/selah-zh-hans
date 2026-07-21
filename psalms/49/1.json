@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 49:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 194,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64150,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64344
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:53.982047989Z",
   "translation": "给指挥者；可拉子孙的诗。",
   "tokens": [
     {
       "surface": "לַ\/מְנַצֵּ֬חַ",
-      "english": "给指挥者；"
+      "gloss": "给指挥者；"
     },
     {
       "surface": "לִ\/בְנֵי",
-      "english": "子孙的"
+      "gloss": "子孙的"
     },
     {
       "surface": "קֹ֬רַח",
-      "english": "可拉"
+      "gloss": "可拉"
     },
     {
       "surface": "מִזְמֽוֹר",
-      "english": "诗。"
+      "gloss": "诗。"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:53.982047989Z",
-  "model": "glm-5.2"
+  ]
 }

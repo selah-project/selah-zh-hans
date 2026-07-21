@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 9:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21730,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22175
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:35.976671274Z",
   "translation": "若⟨他⟩愿意与他争辩,⟨他⟩不能回答他一千之中的一次。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יחפץ",
-      "english": "⟨他⟩愿意"
+      "gloss": "⟨他⟩愿意"
     },
     {
       "surface": "לריב",
-      "english": "争辩"
+      "gloss": "争辩"
     },
     {
       "surface": "עמו",
-      "english": "与他"
+      "gloss": "与他"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יעננו",
-      "english": "能回答他"
+      "gloss": "能回答他"
     },
     {
       "surface": "אחת",
-      "english": "一次"
+      "gloss": "一次"
     },
     {
       "surface": "מני",
-      "english": "之中"
+      "gloss": "之中"
     },
     {
       "surface": "אלף",
-      "english": "一千"
+      "gloss": "一千"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:35.976671274Z",
-  "model": "glm-5.2"
+  ]
 }

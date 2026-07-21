@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "psalms 114:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 311,
-    "prompt_tokens": 64247,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64558
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:04.492698351Z",
   "translation": "大海看见,便逃跑;约旦河倒流 ⟨את⟩ 往后退。",
   "tokens": [
     {
       "surface": "הים",
-      "english": "大海"
+      "gloss": "大海"
     },
     {
       "surface": "ראה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "וינס",
-      "english": "便逃跑"
+      "gloss": "便逃跑"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "יסב",
-      "english": "倒流"
+      "gloss": "倒流"
     },
     {
       "surface": "לאחור",
-      "english": "往后退"
+      "gloss": "往后退"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:04.492698351Z",
-  "model": "glm-4.5"
+  ]
 }

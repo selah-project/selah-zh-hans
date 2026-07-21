@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "leviticus 7:1",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18790,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19237
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:32.756971909Z",
   "translation": "⟨而⟩这也是赎愆祭的妥拉,⟨它⟩是至圣的。",
   "tokens": [
     {
       "surface": "וְ\/זֹ֥את",
-      "english": "⟨而⟩这也"
+      "gloss": "⟨而⟩这也"
     },
     {
       "surface": "תּוֹרַ֖ת",
-      "english": "是……的妥拉"
+      "gloss": "是……的妥拉"
     },
     {
       "surface": "הָ\/אָשָׁ֑ם",
-      "english": "赎愆祭"
+      "gloss": "赎愆祭"
     },
     {
       "surface": "קֹ֥דֶשׁ",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "קָֽדָשִׁ֖ים",
-      "english": "至圣(直译:圣物的圣)"
+      "gloss": "至圣(直译:圣物的圣)"
     },
     {
       "surface": "הֽוּא",
-      "english": "⟨它⟩是"
+      "gloss": "⟨它⟩是"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:32.756971909Z",
-  "model": "glm-5.2"
+  ]
 }

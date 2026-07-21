@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 140:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64464,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64890
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:15:32.746751572Z",
   "translation": "实在地,义人要称颂你的名字;正直人要坐⟨在⟩你的⟨את⟩脸面之前。",
   "tokens": [
     {
       "surface": "אַ֣ךְ",
-      "english": "实在地"
+      "gloss": "实在地"
     },
     {
       "surface": "צַ֭דִּיקִים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "יוֹד֣וּ",
-      "english": "要称颂"
+      "gloss": "要称颂"
     },
     {
       "surface": "לִ\/שְׁמֶ֑\/ךָ",
-      "english": "你的名字"
+      "gloss": "你的名字"
     },
     {
       "surface": "יֵשְׁב֥וּ",
-      "english": "要坐"
+      "gloss": "要坐"
     },
     {
       "surface": "יְ֝שָׁרִ֗ים",
-      "english": "正直人"
+      "gloss": "正直人"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的脸面"
     },
     {
       "surface": "פָנֶֽי\/ךָ",
-      "english": "之前"
+      "gloss": "之前"
     }
-  ],
-  "timestamp": "2026-07-18T03:15:32.746751572Z",
-  "model": "glm-5.2"
+  ]
 }

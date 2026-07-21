@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 5:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 694,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23370,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24064
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:57.680328273Z",
   "translation": "亚当活了一百三十岁,生了一个儿子,按⟨他⟩的样式,如⟨他⟩的形像;⟨他⟩称⟨את⟩⟨他⟩的名字为塞特",
   "tokens": [
     {
       "surface": "וַֽ\/יְחִ֣י",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "אָדָ֗ם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "שְׁלֹשִׁ֤ים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "וּ\/מְאַת֙",
-      "english": "和一百"
+      "gloss": "和一百"
     },
     {
       "surface": "שָׁנָ֔ה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וַ\/יּ֥וֹלֶד",
-      "english": "生了一个儿子"
+      "gloss": "生了一个儿子"
     },
     {
       "surface": "בִּ\/דְמוּת֖\/וֹ",
-      "english": "按⟨他⟩的样式"
+      "gloss": "按⟨他⟩的样式"
     },
     {
       "surface": "כְּ\/צַלְמ֑\/וֹ",
-      "english": "如⟨他⟩的形像"
+      "gloss": "如⟨他⟩的形像"
     },
     {
       "surface": "וַ\/יִּקְרָ֥א",
-      "english": "⟨他⟩称"
+      "gloss": "⟨他⟩称"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的名字"
     },
     {
       "surface": "שְׁמ֖\/וֹ",
-      "english": "他的名字"
+      "gloss": "他的名字"
     },
     {
       "surface": "שֵֽׁת",
-      "english": "塞特"
+      "gloss": "塞特"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:57.680328273Z",
-  "model": "glm-5.2"
+  ]
 }

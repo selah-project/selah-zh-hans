@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-kings 11:3",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18710,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19161
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:24:42.670124334Z",
   "translation": "他与她⟨同在⟩雅威的殿中隐藏了六年；亚他利雅⟨则⟩统治那地。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "אתה",
-      "english": "与⟨她⟩"
+      "gloss": "与⟨她⟩"
     },
     {
       "surface": "בית",
-      "english": "殿中"
+      "gloss": "殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "מתחבא",
-      "english": "隐藏了"
+      "gloss": "隐藏了"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ועתליה",
-      "english": "亚他利雅"
+      "gloss": "亚他利雅"
     },
     {
       "surface": "מלכת",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     }
-  ],
-  "timestamp": "2026-07-17T21:24:42.670124334Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "jeremiah 52:13",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 642,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20015,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20657
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:39:37.049763859Z",
   "translation": "他焚烧了⟨את⟩雅威的殿和⟨את⟩王宫,以及耶路撒冷所有的房屋;⟨את⟩一切的宏伟大宅,他都付之一炬。",
   "tokens": [
     {
       "surface": "וישרף",
-      "english": "他焚烧了"
+      "gloss": "他焚烧了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的殿"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "王宫"
     },
     {
       "surface": "בית",
-      "english": "宫"
+      "gloss": "宫"
     },
     {
       "surface": "המלך",
-      "english": "王的"
+      "gloss": "王的"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "所有的房屋"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "בתי",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切的宏伟大宅"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "בית",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "הגדול",
-      "english": "宏伟大宅"
+      "gloss": "宏伟大宅"
     },
     {
       "surface": "שרף",
-      "english": "他都付之一炬"
+      "gloss": "他都付之一炬"
     },
     {
       "surface": "באש",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T22:39:37.049763859Z",
-  "model": "glm-5.2"
+  ]
 }

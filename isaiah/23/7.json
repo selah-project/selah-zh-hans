@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 23:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20838,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21331
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:45.525771474Z",
   "translation": "这⟨是⟩⟨给⟩你们的吗,那欢呼之城?⟨她⟩上古的日子⟨是⟩她的远古;她的脚将她带离远方去寄居。",
   "tokens": [
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לכם",
-      "english": "给你们的"
+      "gloss": "给你们的"
     },
     {
       "surface": "עליזה",
-      "english": "欢呼之城"
+      "gloss": "欢呼之城"
     },
     {
       "surface": "מימי",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "קדם",
-      "english": "上古"
+      "gloss": "上古"
     },
     {
       "surface": "קדמתה",
-      "english": "她的远古"
+      "gloss": "她的远古"
     },
     {
       "surface": "יבלוה",
-      "english": "将……带"
+      "gloss": "将……带"
     },
     {
       "surface": "רגליה",
-      "english": "她的脚"
+      "gloss": "她的脚"
     },
     {
       "surface": "מרחוק",
-      "english": "离远方"
+      "gloss": "离远方"
     },
     {
       "surface": "לגור",
-      "english": "去寄居"
+      "gloss": "去寄居"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:45.525771474Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 29:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19345,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19659
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:21:09.240489954Z",
   "translation": "并为七只羔羊中的每一只 ⟨את⟩ 一只,献一份十分之一的素祭;",
   "tokens": [
     {
       "surface": "ועשרון",
-      "english": "和一份十分之一的素祭"
+      "gloss": "和一份十分之一的素祭"
     },
     {
       "surface": "אחד",
-      "english": "一份"
+      "gloss": "一份"
     },
     {
       "surface": "לכבש",
-      "english": "为羔羊"
+      "gloss": "为羔羊"
     },
     {
       "surface": "האחד",
-      "english": "那一只"
+      "gloss": "那一只"
     },
     {
       "surface": "לשבעת",
-      "english": "为七只"
+      "gloss": "为七只"
     },
     {
       "surface": "הכבשים",
-      "english": "羔羊"
+      "gloss": "羔羊"
     }
-  ],
-  "timestamp": "2026-07-17T19:21:09.240489954Z",
-  "model": "glm-5.2"
+  ]
 }

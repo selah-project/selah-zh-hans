@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-kings 4:5",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64217,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64644
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:46.792061663Z",
   "translation": "亚撒利雅,南坦之子,⟨在⟩官长之上;撒布德,南坦之子,祭司,王的同伴。",
   "tokens": [
     {
       "surface": "ועזריהו",
-      "english": "亚撒利雅"
+      "gloss": "亚撒利雅"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "נתן",
-      "english": "南坦"
+      "gloss": "南坦"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הנצבים",
-      "english": "官长"
+      "gloss": "官长"
     },
     {
       "surface": "וזבוד",
-      "english": "撒布德"
+      "gloss": "撒布德"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "נתן",
-      "english": "南坦"
+      "gloss": "南坦"
     },
     {
       "surface": "כהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "רעה",
-      "english": "同伴"
+      "gloss": "同伴"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:46.792061663Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "isaiah 8:13",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21011,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21420
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:14.619055808Z",
   "translation": "⟨את⟩ 万军之雅威——是他你们当分别为圣，⟨את⟩ 他当作为你们的敬畏，而他当作为你们可畏畏之物。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "万军之雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "תקדישו",
-      "english": "你们当分别为圣"
+      "gloss": "你们当分别为圣"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "מוראכם",
-      "english": "当作为你们的敬畏"
+      "gloss": "当作为你们的敬畏"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "מערצכם",
-      "english": "当作为你们可畏畏之物"
+      "gloss": "当作为你们可畏畏之物"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:14.619055808Z",
-  "model": "glm-5.2"
+  ]
 }

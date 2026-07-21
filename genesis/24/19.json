@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 24:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23125,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23454
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:47:01.125462836Z",
   "translation": "她给⟨他⟩喝完了,就说:我也要为你的骆驼打水,直到它们喝足了。",
   "tokens": [
     {
       "surface": "ותכל",
-      "english": "她……完了"
+      "gloss": "她……完了"
     },
     {
       "surface": "להשקתו",
-      "english": "给他喝"
+      "gloss": "给他喝"
     },
     {
       "surface": "ותאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "לגמליך",
-      "english": "为你的骆驼"
+      "gloss": "为你的骆驼"
     },
     {
       "surface": "אשאב",
-      "english": "我要打水"
+      "gloss": "我要打水"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אם",
-      "english": "⟨若⟩"
+      "gloss": "⟨若⟩"
     },
     {
       "surface": "כלו",
-      "english": "它们喝足了"
+      "gloss": "它们喝足了"
     },
     {
       "surface": "לשתת",
-      "english": "喝"
+      "gloss": "喝"
     }
-  ],
-  "timestamp": "2026-07-17T17:47:01.125462836Z",
-  "model": "glm-5.2"
+  ]
 }

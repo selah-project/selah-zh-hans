@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 37:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21570,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22060
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:26.708358592Z",
   "translation": "他也以他的纯净使浓云负重，他分散⟨את⟩他的光之云。",
   "tokens": [
     {
       "surface": "אַף",
-      "english": "他也"
+      "gloss": "他也"
     },
     {
       "surface": "בְּרִי",
-      "english": "以他的纯净"
+      "gloss": "以他的纯净"
     },
     {
       "surface": "יַטְרִ֣יחַ",
-      "english": "使负重"
+      "gloss": "使负重"
     },
     {
       "surface": "עָב",
-      "english": "浓云"
+      "gloss": "浓云"
     },
     {
       "surface": "יָפִיץ",
-      "english": "他分散"
+      "gloss": "他分散"
     },
     {
       "surface": "עֲנַן",
-      "english": "云",
+      "gloss": "云",
       "marks": "⟨את⟩"
     },
     {
       "surface": "אוֹרוֹ",
-      "english": "他的光之"
+      "gloss": "他的光之"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:26.708358592Z",
-  "model": "glm-5.2"
+  ]
 }

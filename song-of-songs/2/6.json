@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "song-of-songs 2:6",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21804,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22163
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:55.795331280Z",
   "translation": "他的左手在我头下，他的右手拥抱我。",
   "tokens": [
     {
       "surface": "שְׂמֹאל\/וֹ֙",
-      "english": "他的左手"
+      "gloss": "他的左手"
     },
     {
       "surface": "תַּ֣חַת",
-      "english": "在……下"
+      "gloss": "在……下"
     },
     {
       "surface": "לְ\/רֹאשִׁ֔\/י",
-      "english": "我的头"
+      "gloss": "我的头"
     },
     {
       "surface": "וִ\/ימִינ֖\/וֹ",
-      "english": "他的右手"
+      "gloss": "他的右手"
     },
     {
       "surface": "תְּחַבְּקֵֽ\/נִי",
-      "english": "拥抱我"
+      "gloss": "拥抱我"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:55.795331280Z",
-  "model": "glm-5.2"
+  ]
 }

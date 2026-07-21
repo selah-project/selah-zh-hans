@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 1:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19739,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20261
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:12.752435320Z",
   "translation": "与⟨你们⟩同在的应有 ⟨את⟩各支派的人,各 ⟨את⟩人作其父家之首⟨的⟩,他。",
   "tokens": [
     {
       "surface": "ואתכם",
-      "english": "与你们同在的"
+      "gloss": "与你们同在的"
     },
     {
       "surface": "יהיו",
-      "english": "应有"
+      "gloss": "应有"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "איש",
-      "english": "各 (⟨את⟩)"
+      "gloss": "各 (⟨את⟩)"
     },
     {
       "surface": "למטה",
-      "english": "支派"
+      "gloss": "支派"
     },
     {
       "surface": "איש",
-      "english": "各 (⟨את⟩)"
+      "gloss": "各 (⟨את⟩)"
     },
     {
       "surface": "ראש",
-      "english": "首"
+      "gloss": "首"
     },
     {
       "surface": "לבית",
-      "english": "其父家"
+      "gloss": "其父家"
     },
     {
       "surface": "אבתיו",
-      "english": "其父家的"
+      "gloss": "其父家的"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:12.752435320Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 3:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22857,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23206
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:27.275524615Z",
   "translation": "女人对⟨ה⟩蛇说：「园中各树的果子,我们可以吃。」",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "האשה",
-      "english": "女人"
+      "gloss": "女人"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "הנחש",
-      "english": "⟨ה⟩蛇"
+      "gloss": "⟨ה⟩蛇"
     },
     {
       "surface": "מפרי",
-      "english": "……的果子"
+      "gloss": "……的果子"
     },
     {
       "surface": "עץ",
-      "english": "树"
+      "gloss": "树"
     },
     {
       "surface": "הגן",
-      "english": "⟨ה⟩园"
+      "gloss": "⟨ה⟩园"
     },
     {
       "surface": "נאכל",
-      "english": "我们可以吃"
+      "gloss": "我们可以吃"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:27.275524615Z",
-  "model": "glm-5.2"
+  ]
 }

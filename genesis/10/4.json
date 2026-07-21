@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 10:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22806,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23157
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:58.963340527Z",
   "translation": "雅完的儿子们:以利沙、他施、基提和多单。",
   "tokens": [
     {
       "surface": "וּ\/בְנֵ֥י",
-      "english": "……的儿子们:"
+      "gloss": "……的儿子们:"
     },
     {
       "surface": "יָוָ֖ן",
-      "english": "雅完"
+      "gloss": "雅完"
     },
     {
       "surface": "אֱלִישָׁ֣ה",
-      "english": "以利沙"
+      "gloss": "以利沙"
     },
     {
       "surface": "וְ\/תַרְשִׁ֑ישׁ",
-      "english": "他施"
+      "gloss": "他施"
     },
     {
       "surface": "כִּתִּ֖ים",
-      "english": "基提"
+      "gloss": "基提"
     },
     {
       "surface": "וְ\/דֹדָנִֽים",
-      "english": "多单"
+      "gloss": "多单"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:58.963340527Z",
-  "model": "glm-5.2"
+  ]
 }

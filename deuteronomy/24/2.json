@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "deuteronomy 24:2",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18992,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19304
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:42:33.460907704Z",
   "translation": "她从他的家出去，走开，⟨就⟩成为另一个男人的⟨妻子⟩。",
   "tokens": [
     {
       "surface": "ותצאה",
-      "english": "她出去"
+      "gloss": "她出去"
     },
     {
       "surface": "מביתו",
-      "english": "从他的家"
+      "gloss": "从他的家"
     },
     {
       "surface": "והלכה",
-      "english": "走开"
+      "gloss": "走开"
     },
     {
       "surface": "והיתה",
-      "english": "成为"
+      "gloss": "成为"
     },
     {
       "surface": "לאיש",
-      "english": "为一个男人"
+      "gloss": "为一个男人"
     },
     {
       "surface": "אחר",
-      "english": "另一个"
+      "gloss": "另一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:42:33.460907704Z",
-  "model": "glm-5.2"
+  ]
 }

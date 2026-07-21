@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 5:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 333,
-    "prompt_tokens": 23046,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 23379
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:10:59.647385360Z",
   "translation": "以挪士一生的日子 ⟨是⟩ 九百零五年,并且他死了",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "并且"
+      "gloss": "并且"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "ימי",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "אנוש",
-      "english": "以挪士"
+      "gloss": "以挪士"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ותשע",
-      "english": "和九百"
+      "gloss": "和九百"
     },
     {
       "surface": "מאות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שנה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "וימת",
-      "english": "并且他死了"
+      "gloss": "并且他死了"
     }
-  ],
-  "timestamp": "2026-07-21T13:10:59.647385360Z",
-  "model": "glm-4.5"
+  ]
 }

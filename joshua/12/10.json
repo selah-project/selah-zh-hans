@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "joshua 12:10",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 247,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17682,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17929
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:42.756793305Z",
   "translation": "耶路撒冷王,一个;希伯仑王,一个。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:42.756793305Z",
-  "model": "glm-5.2"
+  ]
 }

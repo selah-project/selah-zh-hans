@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 9:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64928
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:49.924196048Z",
   "translation": "当向雅威歌唱,⟨那⟩坐镇锡安的;在万民中传扬⟨他⟩的作为!",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "当歌唱"
+      "gloss": "当歌唱"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "ישב",
-      "english": "⟨那⟩坐镇的"
+      "gloss": "⟨那⟩坐镇的"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "הגידו",
-      "english": "传扬"
+      "gloss": "传扬"
     },
     {
       "surface": "בעמים",
-      "english": "在万民中"
+      "gloss": "在万民中"
     },
     {
       "surface": "עלילותיו",
-      "english": "⟨他⟩的作为"
+      "gloss": "⟨他⟩的作为"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:49.924196048Z",
-  "model": "glm-5.2"
+  ]
 }

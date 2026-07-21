@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 32:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65358,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65920
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:33.288500979Z",
   "translation": "我的罪过向你显明，我的罪孽我没有遮盖。我说：我要向雅威承认我的过犯，而⟨你⟩，你背负了我罪过的罪孽之罚。*细拉*",
   "tokens": [
     {
       "surface": "חטאתי",
-      "english": "我的罪过"
+      "gloss": "我的罪过"
     },
     {
       "surface": "אודיעך",
-      "english": "向你显明"
+      "gloss": "向你显明"
     },
     {
       "surface": "ועוני",
-      "english": "而我的罪孽"
+      "gloss": "而我的罪孽"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "כסיתי",
-      "english": "我遮盖了"
+      "gloss": "我遮盖了"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אודה",
-      "english": "我要承认"
+      "gloss": "我要承认"
     },
     {
       "surface": "עלי",
-      "english": "关于"
+      "gloss": "关于"
     },
     {
       "surface": "פשעי",
-      "english": "我的过犯"
+      "gloss": "我的过犯"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "ואתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "נשאת",
-      "english": "你背负了"
+      "gloss": "你背负了"
     },
     {
       "surface": "עון",
-      "english": "罪孽之罚"
+      "gloss": "罪孽之罚"
     },
     {
       "surface": "חטאתי",
-      "english": "我罪过的"
+      "gloss": "我罪过的"
     },
     {
       "surface": "סלה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:33.288500979Z",
-  "model": "glm-5.2"
+  ]
 }

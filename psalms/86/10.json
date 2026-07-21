@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 86:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64477,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64843
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:47.405570880Z",
   "translation": "因为 ⟨你⟩ ⟨是⟩ 伟大的，且行奇妙之事的，⟨是⟩ 以罗欣，唯独 ⟨你⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גדול",
-      "english": "伟大的"
+      "gloss": "伟大的"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "ועשה",
-      "english": "且行的"
+      "gloss": "且行的"
     },
     {
       "surface": "נפלאות",
-      "english": "奇妙之事"
+      "gloss": "奇妙之事"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "לבדך",
-      "english": "唯独你"
+      "gloss": "唯独你"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:47.405570880Z",
-  "model": "glm-5.2"
+  ]
 }

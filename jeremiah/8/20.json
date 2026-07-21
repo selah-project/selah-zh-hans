@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "jeremiah 8:20",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18946,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19299
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:11:46.386934187Z",
   "translation": "收获过去了，夏天结束了，而我们没有得救。",
   "tokens": [
     {
       "surface": "עבר",
-      "english": "过去了"
+      "gloss": "过去了"
     },
     {
       "surface": "קציר",
-      "english": "收获"
+      "gloss": "收获"
     },
     {
       "surface": "כלה",
-      "english": "结束了"
+      "gloss": "结束了"
     },
     {
       "surface": "קיץ",
-      "english": "夏天"
+      "gloss": "夏天"
     },
     {
       "surface": "ואנחנו",
-      "english": "而我们"
+      "gloss": "而我们"
     },
     {
       "surface": "לוא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נושענו",
-      "english": "得救"
+      "gloss": "得救"
     }
-  ],
-  "timestamp": "2026-07-17T22:11:46.386934187Z",
-  "model": "glm-5.2"
+  ]
 }

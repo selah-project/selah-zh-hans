@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "1-kings 21:23",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64346,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64906
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:15:34.688985336Z",
   "translation": "至于伊泽贝耳,雅威也说了⟨话语⟩,说:狗将吞食⟨את⟩伊泽贝耳在伊兹列耳的城墙处。",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "לאיזבל",
-      "english": "至于伊泽贝耳"
+      "gloss": "至于伊泽贝耳"
     },
     {
       "surface": "דבר",
-      "english": "⟨话语⟩"
+      "gloss": "⟨话语⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "הכלבים",
-      "english": "狗"
+      "gloss": "狗"
     },
     {
       "surface": "יאכלו",
-      "english": "将吞食"
+      "gloss": "将吞食"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "伊泽贝耳"
     },
     {
       "surface": "איזבל",
-      "english": "伊泽贝耳"
+      "gloss": "伊泽贝耳"
     },
     {
       "surface": "בחל",
-      "english": "在城墙处"
+      "gloss": "在城墙处"
     },
     {
       "surface": "יזרעאל",
-      "english": "伊兹列耳"
+      "gloss": "伊兹列耳"
     }
-  ],
-  "timestamp": "2026-07-17T21:15:34.688985336Z",
-  "model": "glm-5.2"
+  ]
 }

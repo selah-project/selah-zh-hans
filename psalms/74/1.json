@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 74:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64738,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65210
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:59.709322401Z",
   "translation": "训诲诗，属亚萨。以罗欣啊，为何你永远拒绝⟨我们⟩？为何你的怒气向着你的牧场⟨所牧养⟩的羊群冒烟？",
   "tokens": [
     {
       "surface": "משכיל",
-      "english": "训诲诗"
+      "gloss": "训诲诗"
     },
     {
       "surface": "לאסף",
-      "english": "属亚萨"
+      "gloss": "属亚萨"
     },
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "זנחת",
-      "english": "你拒绝"
+      "gloss": "你拒绝"
     },
     {
       "surface": "לנצח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "יעשן",
-      "english": "冒烟"
+      "gloss": "冒烟"
     },
     {
       "surface": "אפך",
-      "english": "你的怒气"
+      "gloss": "你的怒气"
     },
     {
       "surface": "בצאן",
-      "english": "向着羊群"
+      "gloss": "向着羊群"
     },
     {
       "surface": "מרעיתך",
-      "english": "你的牧场"
+      "gloss": "你的牧场"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:59.709322401Z",
-  "model": "glm-5.2"
+  ]
 }

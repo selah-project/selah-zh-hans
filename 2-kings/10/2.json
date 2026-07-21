@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-kings 10:2",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19028,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19604
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:23:58.522001768Z",
   "translation": "现在这封信到达⟨你们⟩这里时,⟨你们⟩有你们主人的子,与你们同在的还有战车、马匹、一座坚固城,以及兵器,",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "כבא",
-      "english": "到达时"
+      "gloss": "到达时"
     },
     {
       "surface": "הספר",
-      "english": "这封信"
+      "gloss": "这封信"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "אליכם",
-      "english": "⟨到⟩你们这里"
+      "gloss": "⟨到⟩你们这里"
     },
     {
       "surface": "ואתכם",
-      "english": "与你们同在的还有"
+      "gloss": "与你们同在的还有"
     },
     {
       "surface": "בני",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אדניכם",
-      "english": "你们主人的"
+      "gloss": "你们主人的"
     },
     {
       "surface": "ואתכם",
-      "english": "与你们同在的还有"
+      "gloss": "与你们同在的还有"
     },
     {
       "surface": "הרכב",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "והסוסים",
-      "english": "马匹"
+      "gloss": "马匹"
     },
     {
       "surface": "ועיר",
-      "english": "一座城"
+      "gloss": "一座城"
     },
     {
       "surface": "מבצר",
-      "english": "坚固"
+      "gloss": "坚固"
     },
     {
       "surface": "והנשק",
-      "english": "兵器"
+      "gloss": "兵器"
     }
-  ],
-  "timestamp": "2026-07-17T21:23:58.522001768Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 17:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64528,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65025
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:13.976026442Z",
   "translation": "至于我,我必在公义中得见⟨你的⟩面;⟨我⟩醒起时,我必饱足于⟨你的⟩形像。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "至于我,我"
+      "gloss": "至于我,我"
     },
     {
       "surface": "בצדק",
-      "english": "在公义中"
+      "gloss": "在公义中"
     },
     {
       "surface": "אחזה",
-      "english": "得见"
+      "gloss": "得见"
     },
     {
       "surface": "פניך",
-      "english": "⟨你的⟩面"
+      "gloss": "⟨你的⟩面"
     },
     {
       "surface": "אשבעה",
-      "english": "我必饱足于"
+      "gloss": "我必饱足于"
     },
     {
       "surface": "בהקיץ",
-      "english": "⟨我⟩醒起时"
+      "gloss": "⟨我⟩醒起时"
     },
     {
       "surface": "תמונתך",
-      "english": "⟨你的⟩形像"
+      "gloss": "⟨你的⟩形像"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:13.976026442Z",
-  "model": "glm-5.2"
+  ]
 }

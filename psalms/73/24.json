@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 73:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64235,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64556
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:28.731856552Z",
   "translation": "以你的谋略引导我,然后 ⟨在⟩ 荣耀中 ⟨将⟩ 接收我。",
   "tokens": [
     {
       "surface": "בעצתך",
-      "english": "以你的谋略"
+      "gloss": "以你的谋略"
     },
     {
       "surface": "תנחני",
-      "english": "引导我"
+      "gloss": "引导我"
     },
     {
       "surface": "ואחר",
-      "english": "然后"
+      "gloss": "然后"
     },
     {
       "surface": "כבוד",
-      "english": "在荣耀中"
+      "gloss": "在荣耀中"
     },
     {
       "surface": "תקחני",
-      "english": "接收我"
+      "gloss": "接收我"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:28.731856552Z",
-  "model": "glm-5.2"
+  ]
 }

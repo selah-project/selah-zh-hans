@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "numbers 2:28",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19520,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19897
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:01:30.872073409Z",
   "translation": "⟨他⟩的军队,他们被数点的人数:一⟨万⟩四千⟨一⟩百五⟨十⟩五百。",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "⟨他⟩的军队"
+      "gloss": "⟨他⟩的军队"
     },
     {
       "surface": "ופקדיהם",
-      "english": "他们被数点的人数"
+      "gloss": "他们被数点的人数"
     },
     {
       "surface": "אחד",
-      "english": "一"
+      "gloss": "一"
     },
     {
       "surface": "וארבעים",
-      "english": "四千"
+      "gloss": "四千"
     },
     {
       "surface": "אלף",
-      "english": "⟨万⟩"
+      "gloss": "⟨万⟩"
     },
     {
       "surface": "וחמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:01:30.872073409Z",
-  "model": "glm-5.2"
+  ]
 }

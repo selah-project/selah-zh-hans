@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "proverbs 24:21",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54674,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55042
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:33.474839232Z",
   "translation": "我儿，你要敬畏⟨את⟩雅威和君王；与反复无常的人，不可交往。",
   "tokens": [
     {
       "surface": "ירא",
-      "english": "你要敬畏"
+      "gloss": "你要敬畏"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בני",
-      "english": "我儿"
+      "gloss": "我儿"
     },
     {
       "surface": "ומלך",
-      "english": "和君王"
+      "gloss": "和君王"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "שונים",
-      "english": "反复无常的人"
+      "gloss": "反复无常的人"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תתערב",
-      "english": "交往"
+      "gloss": "交往"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:33.474839232Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 59:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64868,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65389
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:29.495783485Z",
   "translation": "不要杀⟨他们⟩，免得我的子民忘记；求你用你的力量使他们动摇，并使他们降卑——阿多奈，我们的盾牌！",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תהרגם",
-      "english": "杀⟨他们⟩"
+      "gloss": "杀⟨他们⟩"
     },
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "ישכחו",
-      "english": "忘记"
+      "gloss": "忘记"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "הניעמו",
-      "english": "使他们动摇"
+      "gloss": "使他们动摇"
     },
     {
       "surface": "בחילך",
-      "english": "用你的力量"
+      "gloss": "用你的力量"
     },
     {
       "surface": "והורידמו",
-      "english": "并使他们降卑"
+      "gloss": "并使他们降卑"
     },
     {
       "surface": "מגננו",
-      "english": "我们的盾牌"
+      "gloss": "我们的盾牌"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:29.495783485Z",
-  "model": "glm-5.2"
+  ]
 }

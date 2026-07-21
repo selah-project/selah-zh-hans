@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "ecclesiastes 8:3",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19452,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19912
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:49.390941016Z",
   "translation": "不要因他的面容惊惶失措;⟨你⟩可以离去,不要站在恶的事上,因为他所喜悦的一切,他都必做。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תבהל",
-      "english": "惊惶失措"
+      "gloss": "惊惶失措"
     },
     {
       "surface": "מפניו",
-      "english": "因他的面容"
+      "gloss": "因他的面容"
     },
     {
       "surface": "תלך",
-      "english": "⟨你⟩可以离去"
+      "gloss": "⟨你⟩可以离去"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעמד",
-      "english": "站"
+      "gloss": "站"
     },
     {
       "surface": "בדבר",
-      "english": "在……的事上"
+      "gloss": "在……的事上"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "יחפץ",
-      "english": "他喜悦"
+      "gloss": "他喜悦"
     },
     {
       "surface": "יעשה",
-      "english": "他都必做"
+      "gloss": "他都必做"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:49.390941016Z",
-  "model": "glm-5.2"
+  ]
 }

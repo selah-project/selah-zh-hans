@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "leviticus 13:50",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19273,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19631
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:29.188669553Z",
   "translation": "祭司要查看⟨את⟩⟨הנגע⟩(那灾病),并将⟨את⟩⟨הנגע⟩(那灾病)隔离七天。",
   "tokens": [
     {
       "surface": "וראה",
-      "english": "要查看"
+      "gloss": "要查看"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那灾病"
     },
     {
       "surface": "הנגע",
-      "english": "那灾病"
+      "gloss": "那灾病"
     },
     {
       "surface": "והסגיר",
-      "english": "并将……隔离"
+      "gloss": "并将……隔离"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那灾病"
     },
     {
       "surface": "הנגע",
-      "english": "那灾病"
+      "gloss": "那灾病"
     },
     {
       "surface": "שבעת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:29.188669553Z",
-  "model": "glm-5.2"
+  ]
 }

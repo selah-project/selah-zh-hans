@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 37:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 216,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20324,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20540
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:51:48.874153322Z",
   "translation": "希西家向雅威祈祷,说:",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "english": "祈祷"
+      "gloss": "祈祷"
     },
     {
       "surface": "חזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T21:51:48.874153322Z",
-  "model": "glm-5.2"
+  ]
 }

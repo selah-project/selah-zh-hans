@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 44:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64341,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64758
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:28.557112603Z",
   "translation": "为何你掩面⟨你的⟩脸，忘记了⟨את⟩我们的苦难和我们的压迫？",
   "tokens": [
     {
       "surface": "לָֽ\/מָּה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "פָנֶ֥י\/ךָ",
-      "english": "你掩面⟨你的⟩脸"
+      "gloss": "你掩面⟨你的⟩脸"
     },
     {
       "surface": "תַסְתִּ֑יר",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "תִּשְׁכַּ֖ח",
-      "english": "忘记了"
+      "gloss": "忘记了"
     },
     {
       "surface": "עָנְיֵ֣\/נוּ",
-      "english": "我们的苦难"
+      "gloss": "我们的苦难"
     },
     {
       "surface": "וְֽ\/לַחֲצֵֽ\/נוּ",
-      "english": "和我们的压迫"
+      "gloss": "和我们的压迫"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:28.557112603Z",
-  "model": "glm-5.2"
+  ]
 }

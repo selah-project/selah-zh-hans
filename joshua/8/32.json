@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "joshua 8:32",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18564,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19168
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:54:36.758735911Z",
   "translation": "他在那里写在石头上：⟨את⟩ 摩西妥拉的一份副本，就是他在以色列众子面前所写的。",
   "tokens": [
     {
       "surface": "וַ\/יִּכְתָּב",
-      "english": "他写了"
+      "gloss": "他写了"
     },
     {
       "surface": "שָׁ֖ם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הָ\/אֲבָנִ֑ים",
-      "english": "那些石头"
+      "gloss": "那些石头"
     },
     {
       "surface": "אֵ֗ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西妥拉的一份副本"
     },
     {
       "surface": "מִשְׁנֵה֙",
-      "english": "一份副本"
+      "gloss": "一份副本"
     },
     {
       "surface": "תּוֹרַ֣ת",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "מֹשֶׁ֔ה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "כָּתַ֔ב",
-      "english": "他写了"
+      "gloss": "他写了"
     },
     {
       "surface": "לִ\/פְנֵ֖י",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "בְּנֵ֥י",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T19:54:36.758735911Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 16:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64825
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:34.672146501Z",
   "translation": "雅威 ⟨是⟩ 我产业的分和我的杯;你托住我的签。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מנת",
-      "english": "……的分"
+      "gloss": "……的分"
     },
     {
       "surface": "חלקי",
-      "english": "我产业的"
+      "gloss": "我产业的"
     },
     {
       "surface": "וכוסי",
-      "english": "和我的杯"
+      "gloss": "和我的杯"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תומיך",
-      "english": "托住"
+      "gloss": "托住"
     },
     {
       "surface": "גורלי",
-      "english": "我的签"
+      "gloss": "我的签"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:34.672146501Z",
-  "model": "glm-5.2"
+  ]
 }

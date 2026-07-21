@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "ezekiel 48:27",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19100,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19462
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:59:53.312093111Z",
   "translation": "挨着西布伦⟨的⟩边界，从东边到西边：迦得⟨得⟩一份。",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "挨着"
+      "gloss": "挨着"
     },
     {
       "surface": "גבול",
-      "english": "⟨的⟩边界"
+      "gloss": "⟨的⟩边界"
     },
     {
       "surface": "זבולן",
-      "english": "西布伦"
+      "gloss": "西布伦"
     },
     {
       "surface": "מפאת",
-      "english": "从⟨边⟩"
+      "gloss": "从⟨边⟩"
     },
     {
       "surface": "קדמה",
-      "english": "东边"
+      "gloss": "东边"
     },
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "פאת",
-      "english": "⟨边⟩"
+      "gloss": "⟨边⟩"
     },
     {
       "surface": "ימה",
-      "english": "西边"
+      "gloss": "西边"
     },
     {
       "surface": "גד",
-      "english": "迦得"
+      "gloss": "迦得"
     },
     {
       "surface": "אחד",
-      "english": "一份"
+      "gloss": "一份"
     }
-  ],
-  "timestamp": "2026-07-18T02:59:53.312093111Z",
-  "model": "glm-5.2"
+  ]
 }

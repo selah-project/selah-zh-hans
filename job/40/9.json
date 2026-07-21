@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 40:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21531,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21900
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:06.794561886Z",
   "translation": "或者你有一只像⟨以罗欣⟩的膀臂吗？你能用像⟨他⟩的声音发出雷霆吗？",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "或者"
+      "gloss": "或者"
     },
     {
       "surface": "זרוע",
-      "english": "膀臂"
+      "gloss": "膀臂"
     },
     {
       "surface": "כאל",
-      "english": "像⟨以罗欣⟩"
+      "gloss": "像⟨以罗欣⟩"
     },
     {
       "surface": "לך",
-      "english": "你有一只……吗？"
+      "gloss": "你有一只……吗？"
     },
     {
       "surface": "ובקול",
-      "english": "用声音"
+      "gloss": "用声音"
     },
     {
       "surface": "כמהו",
-      "english": "像⟨他⟩"
+      "gloss": "像⟨他⟩"
     },
     {
       "surface": "תרעם",
-      "english": "你能发出雷霆吗？"
+      "gloss": "你能发出雷霆吗？"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:06.794561886Z",
-  "model": "glm-5.2"
+  ]
 }

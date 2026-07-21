@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "exodus 2:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19067,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19569
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:10:29.071881899Z",
   "translation": "米甸的一位*祭司*有七个女儿,她们来⟨了⟩、打⟨了⟩水,装满了⟨את⟩水槽,要给她们父亲的羊群喝。",
   "tokens": [
     {
       "surface": "ו\/ל\/כהן",
-      "english": "一位*祭司*"
+      "gloss": "一位*祭司*"
     },
     {
       "surface": "מדין",
-      "english": "米甸的"
+      "gloss": "米甸的"
     },
     {
       "surface": "שבע",
-      "english": "七个"
+      "gloss": "七个"
     },
     {
       "surface": "בנות",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "ו\/תבאנה",
-      "english": "她们来⟨了⟩"
+      "gloss": "她们来⟨了⟩"
     },
     {
       "surface": "ו\/תדלנה",
-      "english": "打⟨了⟩水"
+      "gloss": "打⟨了⟩水"
     },
     {
       "surface": "ו\/תמלאנה",
-      "english": "装满了"
+      "gloss": "装满了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "水槽"
     },
     {
       "surface": "ה\/רהטים",
-      "english": "水槽"
+      "gloss": "水槽"
     },
     {
       "surface": "ל\/השקות",
-      "english": "要给……喝"
+      "gloss": "要给……喝"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "אביהן",
-      "english": "她们父亲的"
+      "gloss": "她们父亲的"
     }
-  ],
-  "timestamp": "2026-07-17T18:10:29.071881899Z",
-  "model": "glm-5.2"
+  ]
 }

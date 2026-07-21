@@ -1,110 +1,99 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezra 3:10",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 48069,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 48718
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:38:07.900621184Z",
   "translation": "建筑者们立了雅威殿的根基,祭司们穿戴整齐、手持号筒就位,亚萨本-族的利未人手持钹就位,为要赞美雅威,照着大卫——以色列的王——的安排;",
   "tokens": [
     {
       "surface": "ויסדו",
-      "english": "立了根基"
+      "gloss": "立了根基"
     },
     {
       "surface": "הבנים",
-      "english": "建筑者们"
+      "gloss": "建筑者们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "殿"
     },
     {
       "surface": "היכל",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויעמידו",
-      "english": "就位"
+      "gloss": "就位"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "מלבשים",
-      "english": "穿戴整齐"
+      "gloss": "穿戴整齐"
     },
     {
       "surface": "בחצצרות",
-      "english": "手持号筒"
+      "gloss": "手持号筒"
     },
     {
       "surface": "והלוים",
-      "english": "和利未人"
+      "gloss": "和利未人"
     },
     {
       "surface": "בני",
-      "english": "本-族"
+      "gloss": "本-族"
     },
     {
       "surface": "אסף",
-      "english": "亚萨"
+      "gloss": "亚萨"
     },
     {
       "surface": "במצלתים",
-      "english": "手持钹"
+      "gloss": "手持钹"
     },
     {
       "surface": "להלל",
-      "english": "为要赞美"
+      "gloss": "为要赞美"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "על",
-      "english": "照着"
+      "gloss": "照着"
     },
     {
       "surface": "ידי",
-      "english": "安排"
+      "gloss": "安排"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T01:38:07.900621184Z",
-  "model": "glm-5.2"
+  ]
 }

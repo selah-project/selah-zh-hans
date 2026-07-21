@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 10:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64570,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65011
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:21.594506651Z",
   "translation": "恶人为何藐视以罗欣？他在他心里说：⟨你⟩不查问。",
   "tokens": [
     {
       "surface": "על",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "מה",
-      "english": "⟨……⟩"
+      "gloss": "⟨……⟩"
     },
     {
       "surface": "נאץ",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אמר",
-      "english": "他心里说"
+      "gloss": "他心里说"
     },
     {
       "surface": "בלבו",
-      "english": "⟨在他心里⟩"
+      "gloss": "⟨在他心里⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תדרש",
-      "english": "查问"
+      "gloss": "查问"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:21.594506651Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 94,
   "ref": "psalms 119:94",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64327,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64645
-  },
+  "verse": 94,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:22.834778976Z",
   "translation": "我属⟨於⟩你，求你拯救我；因為我尋求了你的訓諭。",
   "tokens": [
     {
       "surface": "לך",
-      "english": "我属⟨於⟩你"
+      "gloss": "我属⟨於⟩你"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "הושיעני",
-      "english": "求你拯救我"
+      "gloss": "求你拯救我"
     },
     {
       "surface": "כי",
-      "english": "因為"
+      "gloss": "因為"
     },
     {
       "surface": "פקודיך",
-      "english": "你的訓諭"
+      "gloss": "你的訓諭"
     },
     {
       "surface": "דרשתי",
-      "english": "我尋求了"
+      "gloss": "我尋求了"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:22.834778976Z",
-  "model": "glm-5.2"
+  ]
 }

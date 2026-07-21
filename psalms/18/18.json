@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 18:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64406,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64916
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:36.172420798Z",
   "translation": "他 rescue-了-我 脱离 我的 仇敌 ⟨הָעַז⟩，⟨以及⟩ 脱离 那些 恨 我的人，因为他们 比我 强盛。",
   "tokens": [
     {
       "surface": "יַצִּילֵנִי",
-      "english": "他搭救我"
+      "gloss": "他搭救我"
     },
     {
       "surface": "מֵאֹיְבִי",
-      "english": "脱离我的仇敌"
+      "gloss": "脱离我的仇敌"
     },
     {
       "surface": "עָז",
-      "english": "强盛的"
+      "gloss": "强盛的"
     },
     {
       "surface": "וּמִשֹּׂנְאַי",
-      "english": "和脱离那些恨我的人"
+      "gloss": "和脱离那些恨我的人"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אָמְצוּ",
-      "english": "他们强盛"
+      "gloss": "他们强盛"
     },
     {
       "surface": "מִמֶּנִּי",
-      "english": "比我"
+      "gloss": "比我"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:36.172420798Z",
-  "model": "glm-5.2"
+  ]
 }

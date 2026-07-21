@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "ezra 2:50",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46287,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46586
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:33.974847262Z",
   "translation": "亚斯纳的子嗣,⟨即⟩米乌尼人的子嗣,尼斐西人的子嗣。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "亚斯纳的子嗣"
+      "gloss": "亚斯纳的子嗣"
     },
     {
       "surface": "אסנה",
-      "english": "亚斯纳"
+      "gloss": "亚斯纳"
     },
     {
       "surface": "בני",
-      "english": "⟨即⟩米乌尼人的子嗣"
+      "gloss": "⟨即⟩米乌尼人的子嗣"
     },
     {
       "surface": "מעינים",
-      "english": "米乌尼人"
+      "gloss": "米乌尼人"
     },
     {
       "surface": "בני",
-      "english": "尼斐西人的子嗣"
+      "gloss": "尼斐西人的子嗣"
     },
     {
       "surface": "נפיסים",
-      "english": "尼斐西人"
+      "gloss": "尼斐西人"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:33.974847262Z",
-  "model": "glm-5.2"
+  ]
 }

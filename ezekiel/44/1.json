@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 44:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19210,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19652
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:53:27.390810798Z",
   "translation": "他使⟨我⟩沿⟨את⟩道路返回 —— 圣所的外门,那朝东的面,而它⟨是⟩关闭的。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "他使……返回"
+      "gloss": "他使……返回"
     },
     {
       "surface": "אתי",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     },
     {
       "surface": "דרך",
-      "english": "沿⟨את⟩道路"
+      "gloss": "沿⟨את⟩道路"
     },
     {
       "surface": "שער",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "המקדש",
-      "english": "圣所的"
+      "gloss": "圣所的"
     },
     {
       "surface": "החיצון",
-      "english": "外"
+      "gloss": "外"
     },
     {
       "surface": "הפנה",
-      "english": "那朝……的面"
+      "gloss": "那朝……的面"
     },
     {
       "surface": "קדים",
-      "english": "东"
+      "gloss": "东"
     },
     {
       "surface": "והוא",
-      "english": "而它"
+      "gloss": "而它"
     },
     {
       "surface": "סגור",
-      "english": "关闭的"
+      "gloss": "关闭的"
     }
-  ],
-  "timestamp": "2026-07-20T06:53:27.390810798Z",
-  "model": "glm-5.2"
+  ]
 }

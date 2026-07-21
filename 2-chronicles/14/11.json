@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-chronicles 14:11",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 222,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60259,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60481
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:21:35.083215802Z",
   "translation": "雅威击打 ⟨את⟩ 古实人，在亚撒面前和在犹大面前；古实人逃跑了。",
   "tokens": [
     {
       "surface": "ויגף",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "古实人"
     },
     {
       "surface": "הכושים",
-      "english": "古实人"
+      "gloss": "古实人"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אסא",
-      "english": "亚撒"
+      "gloss": "亚撒"
     },
     {
       "surface": "ולפני",
-      "english": "和在……面前"
+      "gloss": "和在……面前"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וינסו",
-      "english": "逃跑了"
+      "gloss": "逃跑了"
     },
     {
       "surface": "הכושים",
-      "english": "古实人"
+      "gloss": "古实人"
     }
-  ],
-  "timestamp": "2026-07-18T02:21:35.083215802Z",
-  "model": "glm-5.2"
+  ]
 }

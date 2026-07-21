@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezra 10:4",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46542,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46898
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:04.068122714Z",
   "translation": "起来！因为这*话* ⟨是⟩ 在你身上,而我们与你同在。你要刚强,去行！",
   "tokens": [
     {
       "surface": "קום",
-      "english": "起来！"
+      "gloss": "起来！"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עליך",
-      "english": "在你身上"
+      "gloss": "在你身上"
     },
     {
       "surface": "הדבר",
-      "english": "这*话*"
+      "gloss": "这*话*"
     },
     {
       "surface": "ואנחנו",
-      "english": "而我们"
+      "gloss": "而我们"
     },
     {
       "surface": "עמך",
-      "english": "与你同在"
+      "gloss": "与你同在"
     },
     {
       "surface": "חזק",
-      "english": "你要刚强"
+      "gloss": "你要刚强"
     },
     {
       "surface": "ועשה",
-      "english": "去行！"
+      "gloss": "去行！"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:04.068122714Z",
-  "model": "glm-5.2"
+  ]
 }

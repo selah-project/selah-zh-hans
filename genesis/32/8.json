@@ -1,95 +1,84 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 32:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23864,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24420
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:55:06.771408111Z",
   "translation": "雅各非常害怕,也⟨为他⟩焦急;他把⟨与⟩他同在的那百姓、以及⟨את⟩羊群、以及⟨את⟩牛群和骆驼分成两队营地。",
   "tokens": [
     {
       "surface": "ויירא",
-      "english": "就害怕"
+      "gloss": "就害怕"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "מאד",
-      "english": "非常"
+      "gloss": "非常"
     },
     {
       "surface": "ויצר",
-      "english": "也焦急"
+      "gloss": "也焦急"
     },
     {
       "surface": "לו",
-      "english": "⟨为他⟩"
+      "gloss": "⟨为他⟩"
     },
     {
       "surface": "ויחץ",
-      "english": "他把……分成"
+      "gloss": "他把……分成"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "אשר",
-      "english": "⟨与⟩……同在的"
+      "gloss": "⟨与⟩……同在的"
     },
     {
       "surface": "אתו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "牛群"
     },
     {
       "surface": "הבקר",
-      "english": "牛群"
+      "gloss": "牛群"
     },
     {
       "surface": "והגמלים",
-      "english": "和骆驼"
+      "gloss": "和骆驼"
     },
     {
       "surface": "לשני",
-      "english": "两"
+      "gloss": "两"
     },
     {
       "surface": "מחנות",
-      "english": "队营地"
+      "gloss": "队营地"
     }
-  ],
-  "timestamp": "2026-07-17T17:55:06.771408111Z",
-  "model": "glm-5.2"
+  ]
 }

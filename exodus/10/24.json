@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "exodus 10:24",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19517,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20171
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:16:13.872296229Z",
   "translation": "法老呼召摩西,说:去吧,事奉雅威——只是你们的羊群和牛群要留下;⟨也⟩你们的小孩子⟨可以⟩与你们同去。",
   "tokens": [
     {
       "surface": "וַ\/יִּקְרָ֨א",
-      "english": "呼召"
+      "gloss": "呼召"
     },
     {
       "surface": "פַרְעֹ֜ה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "אֶל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "מֹשֶׁ֗ה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "וַ\/יֹּ֨אמֶר֙",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לְכוּ֙",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "עִבְד֣וּ",
-      "english": "事奉"
+      "gloss": "事奉"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "רַ֛ק",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "צֹאנְ\/כֶ֥ם",
-      "english": "你们的羊群"
+      "gloss": "你们的羊群"
     },
     {
       "surface": "וּ\/בְקַרְ\/כֶ֖ם",
-      "english": "和你们的牛群"
+      "gloss": "和你们的牛群"
     },
     {
       "surface": "יֻצָּ֑ג",
-      "english": "要留下"
+      "gloss": "要留下"
     },
     {
       "surface": "גַּֽם",
-      "english": "⟨也⟩"
+      "gloss": "⟨也⟩"
     },
     {
       "surface": "טַפְּ\/כֶ֖ם",
-      "english": "你们的小孩子"
+      "gloss": "你们的小孩子"
     },
     {
       "surface": "יֵלֵ֥ךְ",
-      "english": "⟨可以⟩去"
+      "gloss": "⟨可以⟩去"
     },
     {
       "surface": "עִמָּ\/כֶֽם",
-      "english": "与你们同"
+      "gloss": "与你们同"
     }
-  ],
-  "timestamp": "2026-07-17T18:16:13.872296229Z",
-  "model": "glm-5.2"
+  ]
 }

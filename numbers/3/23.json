@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "numbers 3:23",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19464,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19818
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:01:47.257383857Z",
   "translation": "革顺人的宗族,⟨要⟩在会幕后面安营,向西。",
   "tokens": [
     {
       "surface": "משפחת",
-      "english": "宗族"
+      "gloss": "宗族"
     },
     {
       "surface": "הגרשני",
-      "english": "革顺人的"
+      "gloss": "革顺人的"
     },
     {
       "surface": "אחרי",
-      "english": "在……后面"
+      "gloss": "在……后面"
     },
     {
       "surface": "המשכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "יחנו",
-      "english": "⟨要⟩安营"
+      "gloss": "⟨要⟩安营"
     },
     {
       "surface": "ימה",
-      "english": "向西"
+      "gloss": "向西"
     }
-  ],
-  "timestamp": "2026-07-17T19:01:47.257383857Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "deuteronomy 3:25",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19696,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20313
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:29:35.513259187Z",
   "translation": "求⟨你⟩让我过去,⟨让我⟩观看⟨את⟩⟨那⟩地,就是约旦河彼岸那美地,这美好⟨的⟩山和黎巴嫩!",
   "tokens": [
     {
       "surface": "אעברה",
-      "english": "让我过去"
+      "gloss": "让我过去"
     },
     {
       "surface": "נא",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "ואראה",
-      "english": "⟨让我⟩观看"
+      "gloss": "⟨让我⟩观看"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩地"
     },
     {
       "surface": "הארץ",
-      "english": "⟨那⟩地"
+      "gloss": "⟨那⟩地"
     },
     {
       "surface": "הטובה",
-      "english": "美"
+      "gloss": "美"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "בעבר",
-      "english": "……彼岸"
+      "gloss": "……彼岸"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "ההר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "הטוב",
-      "english": "美好"
+      "gloss": "美好"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "והלבנון",
-      "english": "和黎巴嫩"
+      "gloss": "和黎巴嫩"
     }
-  ],
-  "timestamp": "2026-07-17T19:29:35.513259187Z",
-  "model": "glm-5.2"
+  ]
 }

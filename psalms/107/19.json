@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 107:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64425,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64767
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:16.377297729Z",
   "translation": "于是他们向雅威呼求⟨在⟩他们的困境中；他从他们的苦境中拯救他们。",
   "tokens": [
     {
       "surface": "ויזעקו",
-      "english": "于是他们呼求"
+      "gloss": "于是他们呼求"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בצר",
-      "english": "⟨在⟩困境中"
+      "gloss": "⟨在⟩困境中"
     },
     {
       "surface": "להם",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "ממצקותיהם",
-      "english": "从他们的苦境中"
+      "gloss": "从他们的苦境中"
     },
     {
       "surface": "יושיעם",
-      "english": "他拯救他们"
+      "gloss": "他拯救他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:16.377297729Z",
-  "model": "glm-5.2"
+  ]
 }

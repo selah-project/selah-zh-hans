@@ -1,73 +1,65 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "genesis 27:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 633,
-    "prompt_tokens": 23405,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24038
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:09.848992327Z",
   "translation": "并为我做成美味,如我所爱,⟨且⟩带到我这里来,⟨且⟩我吃,⟨好⟩我的⟨生命⟩给你祝福,在我未死之先。",
   "tokens": [
     {
       "surface": "ועשה",
-      "english": "并为我做成"
+      "gloss": "并为我做成"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "מטעמים",
-      "english": "美味"
+      "gloss": "美味"
     },
     {
       "surface": "כאשר",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "אהבתי",
-      "english": "我所爱"
+      "gloss": "我所爱"
     },
     {
       "surface": "והביאה",
-      "english": "带"
+      "gloss": "带"
     },
     {
       "surface": "לי",
-      "english": "到我这里来"
+      "gloss": "到我这里来"
     },
     {
       "surface": "ואכלה",
-      "english": "且我吃"
+      "gloss": "且我吃"
     },
     {
       "surface": "בעבור",
-      "english": "⟨好⟩"
+      "gloss": "⟨好⟩"
     },
     {
       "surface": "תברכך",
-      "english": "我的⟨生命⟩给你祝福"
+      "gloss": "我的⟨生命⟩给你祝福"
     },
     {
       "surface": "נפשי",
-      "english": "⟨生命⟩"
+      "gloss": "⟨生命⟩"
     },
     {
       "surface": "בטרם",
-      "english": "在...未死之先"
+      "gloss": "在...未死之先"
     },
     {
       "surface": "אמות",
-      "english": "未死"
+      "gloss": "未死"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:09.848992327Z",
-  "model": "glm-4.5"
+  ]
 }

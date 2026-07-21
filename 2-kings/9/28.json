@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "2-kings 9:28",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18978,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19440
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:23:06.719845421Z",
   "translation": "他的仆人们使他骑上 ⟨את⟩他 ⟨并前往⟩耶路撒冷,他们埋葬了 ⟨את⟩他在他的坟墓中,与他的列祖一起,在大卫的城里。",
   "tokens": [
     {
       "surface": "וירכבו",
-      "english": "他们使……骑上"
+      "gloss": "他们使……骑上"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "עבדיו",
-      "english": "他的仆人们"
+      "gloss": "他的仆人们"
     },
     {
       "surface": "ירושלמה",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ויקברו",
-      "english": "他们埋葬了"
+      "gloss": "他们埋葬了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "בקברתו",
-      "english": "在他的坟墓中"
+      "gloss": "在他的坟墓中"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "בעיר",
-      "english": "在城里"
+      "gloss": "在城里"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     }
-  ],
-  "timestamp": "2026-07-17T21:23:06.719845421Z",
-  "model": "glm-5.2"
+  ]
 }

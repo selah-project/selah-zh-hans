@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 5:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54348,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54730
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:51.651149085Z",
   "translation": "她的脚下到死亡,示阿珥勒特,她的步伐抓住⟨它⟩。",
   "tokens": [
     {
       "surface": "רגליה",
-      "english": "她的脚"
+      "gloss": "她的脚"
     },
     {
       "surface": "ירדות",
-      "english": "下到"
+      "gloss": "下到"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "שאול",
-      "english": "示阿珥勒特"
+      "gloss": "示阿珥勒特"
     },
     {
       "surface": "צעדיה",
-      "english": "她的步伐"
+      "gloss": "她的步伐"
     },
     {
       "surface": "יתמכו",
-      "english": "抓住⟨它⟩"
+      "gloss": "抓住⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:51.651149085Z",
-  "model": "glm-5.2"
+  ]
 }

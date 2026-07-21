@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 12:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20764,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21319
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:25.430097476Z",
   "translation": "欢呼吧,歌唱吧,锡安的居民!因为⟨以色列的圣者⟩雅威在⟨你⟩中间⟨为⟩大!",
   "tokens": [
     {
       "surface": "צַהֲלִ֥י",
-      "english": "欢呼吧"
+      "gloss": "欢呼吧"
     },
     {
       "surface": "וָ\/רֹנִּ֖י",
-      "english": "歌唱吧"
+      "gloss": "歌唱吧"
     },
     {
       "surface": "יוֹשֶׁ֣בֶת",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "צִיּ֑וֹן",
-      "english": "锡安的"
+      "gloss": "锡安的"
     },
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גָד֥וֹל",
-      "english": "⟨为⟩大"
+      "gloss": "⟨为⟩大"
     },
     {
       "surface": "בְּ\/קִרְבֵּ֖\/ךְ",
-      "english": "在⟨你⟩中间"
+      "gloss": "在⟨你⟩中间"
     },
     {
       "surface": "קְד֥וֹשׁ",
-      "english": "圣者"
+      "gloss": "圣者"
     },
     {
       "surface": "יִשְׂרָאֵֽל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:25.430097476Z",
-  "model": "glm-5.2"
+  ]
 }

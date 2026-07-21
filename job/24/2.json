@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 24:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21414,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21920
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:00.562739137Z",
   "translation": "他们挪移地界,抢夺⟨את⟩羊群⟨并⟩放牧它们。",
   "tokens": [
     {
       "surface": "גבלות",
-      "english": "地界"
+      "gloss": "地界"
     },
     {
       "surface": "ישיגו",
-      "english": "他们挪移"
+      "gloss": "他们挪移"
     },
     {
       "surface": "עדר",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "גזלו",
-      "english": "抢夺"
+      "gloss": "抢夺"
     },
     {
       "surface": "וירעו",
-      "english": "⟨并⟩放牧它们"
+      "gloss": "⟨并⟩放牧它们"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:00.562739137Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "numbers 34:27",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19504,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19856
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:25:34.638892561Z",
   "translation": "至于亚设子之支派 —— 纳西：阿希胡德，本-示罗米。",
   "tokens": [
     {
       "surface": "ולמטה",
-      "english": "至于……的支派"
+      "gloss": "至于……的支派"
     },
     {
       "surface": "בני",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אשר",
-      "english": "亚设"
+      "gloss": "亚设"
     },
     {
       "surface": "נשיא",
-      "english": "纳西（首领）"
+      "gloss": "纳西（首领）"
     },
     {
       "surface": "אחיהוד",
-      "english": "阿希胡德"
+      "gloss": "阿希胡德"
     },
     {
       "surface": "בן",
-      "english": "本-（……之子）"
+      "gloss": "本-（……之子）"
     },
     {
       "surface": "שלמי",
-      "english": "示罗米"
+      "gloss": "示罗米"
     }
-  ],
-  "timestamp": "2026-07-17T19:25:34.638892561Z",
-  "model": "glm-5.2"
+  ]
 }

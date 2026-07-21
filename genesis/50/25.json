@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 50:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23828,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24174
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:16.744488659Z",
   "translation": "约瑟使以色列的众子起誓,说:以罗欣必定眷顾⟨את⟩你们,你们就要从这地方将⟨את⟩我的骸骨带上去。",
   "tokens": [
     {
       "surface": "וישבע",
-      "english": "使……起誓"
+      "gloss": "使……起誓"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列的众子"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "פקד",
-      "english": "眷顾"
+      "gloss": "眷顾"
     },
     {
       "surface": "יפקד",
-      "english": "必定眷顾"
+      "gloss": "必定眷顾"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩你们",
+      "gloss": "⟨את⟩你们",
       "marks": "你们"
     },
     {
       "surface": "והעלתם",
-      "english": "你们就要带上去"
+      "gloss": "你们就要带上去"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的骸骨"
     },
     {
       "surface": "עצמתי",
-      "english": "我的骸骨"
+      "gloss": "我的骸骨"
     },
     {
       "surface": "מזה",
-      "english": "从这地方"
+      "gloss": "从这地方"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:16.744488659Z",
-  "model": "glm-5.2"
+  ]
 }

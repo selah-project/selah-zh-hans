@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 69:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64369,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64918
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:07.998866544Z",
   "translation": "他们将毒物放入⟨את⟩我的食物中,⟨וְ⟩为我的解渴,他们拿醋给我喝。",
   "tokens": [
     {
       "surface": "וַ\/יִּתְּנ֣וּ",
-      "english": "他们放入"
+      "gloss": "他们放入"
     },
     {
       "surface": "בְּ\/בָרוּתִ֣\/י",
-      "english": "我的食物中"
+      "gloss": "我的食物中"
     },
     {
       "surface": "רֹ֑אשׁ",
-      "english": "毒物"
+      "gloss": "毒物"
     },
     {
       "surface": "וְ֝\/לִ\/צְמָאִ֗\/י",
-      "english": "⟨וְ⟩为我的解渴"
+      "gloss": "⟨וְ⟩为我的解渴"
     },
     {
       "surface": "יַשְׁק֥וּ\/נִי",
-      "english": "他们拿……给我喝"
+      "gloss": "他们拿……给我喝"
     },
     {
       "surface": "חֹֽמֶץ",
-      "english": "醋"
+      "gloss": "醋"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:07.998866544Z",
-  "model": "glm-5.2"
+  ]
 }

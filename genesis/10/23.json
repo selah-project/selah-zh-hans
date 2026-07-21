@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 10:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 196,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22689,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22885
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:42.334848038Z",
   "translation": "亚兰的儿子们:乌斯、户勒、基帖和玛施。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "和……的儿子们"
+      "gloss": "和……的儿子们"
     },
     {
       "surface": "ארם",
-      "english": "亚兰"
+      "gloss": "亚兰"
     },
     {
       "surface": "עוץ",
-      "english": "乌斯"
+      "gloss": "乌斯"
     },
     {
       "surface": "וחול",
-      "english": "和户勒"
+      "gloss": "和户勒"
     },
     {
       "surface": "וגתר",
-      "english": "和基帖"
+      "gloss": "和基帖"
     },
     {
       "surface": "ומש",
-      "english": "和玛施"
+      "gloss": "和玛施"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:42.334848038Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 2:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64377,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64692
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:49.394822056Z",
   "translation": "现在,众王啊,要明智;地上的审判官啊,⟨要⟩受管教。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "מלכים",
-      "english": "众王啊"
+      "gloss": "众王啊"
     },
     {
       "surface": "השכילו",
-      "english": "要明智"
+      "gloss": "要明智"
     },
     {
       "surface": "הוסרו",
-      "english": "⟨要⟩受管教"
+      "gloss": "⟨要⟩受管教"
     },
     {
       "surface": "שפטי",
-      "english": "审判官"
+      "gloss": "审判官"
     },
     {
       "surface": "ארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:49.394822056Z",
-  "model": "glm-5.2"
+  ]
 }

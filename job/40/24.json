@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "job 40:24",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21508,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22114
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:28.324235627Z",
   "translation": "在⟨他⟩的眼中⟨能⟩被抓住吗？用陷阱⟨能⟩穿透鼻子吗？",
   "tokens": [
     {
       "surface": "בעיניו",
-      "english": "在⟨他⟩的眼中"
+      "gloss": "在⟨他⟩的眼中"
     },
     {
       "surface": "יקחנו",
-      "english": "⟨能⟩被抓住吗"
+      "gloss": "⟨能⟩被抓住吗"
     },
     {
       "surface": "במוקשים",
-      "english": "用陷阱"
+      "gloss": "用陷阱"
     },
     {
       "surface": "ינקב",
-      "english": "⟨能⟩穿透吗"
+      "gloss": "⟨能⟩穿透吗"
     },
     {
       "surface": "אף",
-      "english": "鼻子"
+      "gloss": "鼻子"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:28.324235627Z",
-  "model": "glm-5.2"
+  ]
 }

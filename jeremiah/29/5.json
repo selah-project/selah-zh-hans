@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "jeremiah 29:5",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19080,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19420
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:21:59.162575867Z",
   "translation": "你们要建造房屋,在其中居住;要栽植园子,并吃 ⟨את⟩ 它们的果实。",
   "tokens": [
     {
       "surface": "בנו",
-      "english": "你们要建造"
+      "gloss": "你们要建造"
     },
     {
       "surface": "בתים",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "ושבו",
-      "english": "并居住"
+      "gloss": "并居住"
     },
     {
       "surface": "ונטעו",
-      "english": "并栽植"
+      "gloss": "并栽植"
     },
     {
       "surface": "גנות",
-      "english": "园子"
+      "gloss": "园子"
     },
     {
       "surface": "ואכלו",
-      "english": "并吃"
+      "gloss": "并吃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们的果实"
     },
     {
       "surface": "פרין",
-      "english": "它们的果实"
+      "gloss": "它们的果实"
     }
-  ],
-  "timestamp": "2026-07-18T03:21:59.162575867Z",
-  "model": "glm-5.2"
+  ]
 }

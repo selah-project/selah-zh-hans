@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 6:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21490,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21989
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:26.390284887Z",
   "translation": "那些因冰而⟨變⟩黑的,融化之處,雪在其中隱藏自己 ——",
   "tokens": [
     {
       "surface": "הקדרים",
-      "english": "那些……黑\/暗的"
+      "gloss": "那些……黑\/暗的"
     },
     {
       "surface": "מני",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "קרח",
-      "english": "冰"
+      "gloss": "冰"
     },
     {
       "surface": "עלימו",
-      "english": "融化之處(在其上)"
+      "gloss": "融化之處(在其上)"
     },
     {
       "surface": "יתעלם",
-      "english": "隱藏自己"
+      "gloss": "隱藏自己"
     },
     {
       "surface": "שלג",
-      "english": "雪"
+      "gloss": "雪"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:26.390284887Z",
-  "model": "glm-5.2"
+  ]
 }

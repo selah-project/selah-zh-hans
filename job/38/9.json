@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 38:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21446,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21843
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:11.631193139Z",
   "translation": "在我为它铺云为衣、⟨用⟩幽暗为襁褓包裹它之时，",
   "tokens": [
     {
       "surface": "בְּ\/שׂוּמִ֣\/י",
-      "english": "在我……之时"
+      "gloss": "在我……之时"
     },
     {
       "surface": "עָנָ֣ן",
-      "english": "云"
+      "gloss": "云"
     },
     {
       "surface": "לְבֻשׁ֑\/וֹ",
-      "english": "为它的衣"
+      "gloss": "为它的衣"
     },
     {
       "surface": "וַ֝\/עֲרָפֶ֗ל",
-      "english": "和幽暗"
+      "gloss": "和幽暗"
     },
     {
       "surface": "חֲתֻלָּתֽ\/וֹ",
-      "english": "为它的襁褓"
+      "gloss": "为它的襁褓"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:11.631193139Z",
-  "model": "glm-5.2"
+  ]
 }

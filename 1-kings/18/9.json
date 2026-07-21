@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-kings 18:9",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64339,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64894
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:12:20.809112636Z",
   "translation": "他 ⟨说⟩：“我在何事上犯了罪，以致⟨你⟩将你的仆人⟨את⟩交在亚哈ב手中，要害死我？”",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他 ⟨说⟩"
+      "gloss": "他 ⟨说⟩"
     },
     {
       "surface": "מה",
-      "english": "何"
+      "gloss": "何"
     },
     {
       "surface": "חטאתי",
-      "english": "我犯了罪"
+      "gloss": "我犯了罪"
     },
     {
       "surface": "כי",
-      "english": "以致"
+      "gloss": "以致"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "נתן",
-      "english": "将……交"
+      "gloss": "将……交"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的仆人"
     },
     {
       "surface": "עבדך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "ביד",
-      "english": "在……手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "להמיתני",
-      "english": "要害死我"
+      "gloss": "要害死我"
     }
-  ],
-  "timestamp": "2026-07-17T21:12:20.809112636Z",
-  "model": "glm-5.2"
+  ]
 }

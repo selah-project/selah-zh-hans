@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 23:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 687,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19385,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 20072
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:33:01.522574649Z",
   "translation": "他在那里的祭坛上宰杀了⟨את⟩所有高处的祭司 —— 就是在那些祭坛上的 —— 并在它们上面焚烧了⟨את⟩人的骨头；然后他返回了耶路撒冷。",
   "tokens": [
     {
       "surface": "וַיִּזְבַּח",
-      "english": "他宰杀了"
+      "gloss": "他宰杀了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有（高处的祭司）"
     },
     {
       "surface": "כָּל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "כֹּהֲנֵי",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "הַבָּמוֹת",
-      "english": "高处的"
+      "gloss": "高处的"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "שָׁם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "עַל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הַמִּזְבְּחֹת",
-      "english": "那些祭坛"
+      "gloss": "那些祭坛"
     },
     {
       "surface": "וַיִּשְׂרֹף",
-      "english": "他焚烧了"
+      "gloss": "他焚烧了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "人的骨头"
     },
     {
       "surface": "עַצְמוֹת",
-      "english": "骨头"
+      "gloss": "骨头"
     },
     {
       "surface": "אָדָם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "עֲלֵיהֶם",
-      "english": "在它们上面"
+      "gloss": "在它们上面"
     },
     {
       "surface": "וַיָּשָׁב",
-      "english": "他返回了"
+      "gloss": "他返回了"
     },
     {
       "surface": "יְרוּשָׁלִַ͏ם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T21:33:01.522574649Z",
-  "model": "glm-5.2"
+  ]
 }

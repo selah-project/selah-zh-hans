@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 3:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20488,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20846
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:57.618398484Z",
   "translation": "头饰、脚链、腰带、香料瓶和护身符，",
   "tokens": [
     {
       "surface": "הפארים",
-      "english": "头饰"
+      "gloss": "头饰"
     },
     {
       "surface": "והצעדות",
-      "english": "脚链"
+      "gloss": "脚链"
     },
     {
       "surface": "והקשרים",
-      "english": "腰带"
+      "gloss": "腰带"
     },
     {
       "surface": "ובתי",
-      "english": "香料瓶"
+      "gloss": "香料瓶"
     },
     {
       "surface": "הנפש",
-      "english": "（的）"
+      "gloss": "（的）"
     },
     {
       "surface": "והלחשים",
-      "english": "护身符"
+      "gloss": "护身符"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:57.618398484Z",
-  "model": "glm-5.2"
+  ]
 }

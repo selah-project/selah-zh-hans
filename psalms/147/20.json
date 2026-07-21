@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 147:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64632,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65080
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:41.910093538Z",
   "translation": "他没有对任何邦国⟨如此⟩待，至于典章，他们不认识⟨它们⟩。你们要赞美雅！",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עשה",
-      "english": "他行了 \/ 待了"
+      "gloss": "他行了 \/ 待了"
     },
     {
       "surface": "כן",
-      "english": "⟨如此⟩"
+      "gloss": "⟨如此⟩"
     },
     {
       "surface": "לכל",
-      "english": "对任何"
+      "gloss": "对任何"
     },
     {
       "surface": "גוי",
-      "english": "邦国"
+      "gloss": "邦国"
     },
     {
       "surface": "ומשפטים",
-      "english": "至于典章"
+      "gloss": "至于典章"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעום",
-      "english": "他们认识它们（⟨它们⟩）"
+      "gloss": "他们认识它们（⟨它们⟩）"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:41.910093538Z",
-  "model": "glm-5.2"
+  ]
 }

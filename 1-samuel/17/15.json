@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-samuel 17:15",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18197,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18648
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:30:48.151974437Z",
   "translation": "大卫去又返回,⟨从⟩扫罗⟨那里⟩,去牧放⟨את⟩他父亲的羊群,在伯利恒。",
   "tokens": [
     {
       "surface": "ודוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "הלך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "ושב",
-      "english": "又返回"
+      "gloss": "又返回"
     },
     {
       "surface": "מעל",
-      "english": "⟨从⟩"
+      "gloss": "⟨从⟩"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "לרעות",
-      "english": "去牧放"
+      "gloss": "去牧放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "בית",
-      "english": "在伯"
+      "gloss": "在伯"
     },
     {
       "surface": "לחם",
-      "english": "利恒"
+      "gloss": "利恒"
     }
-  ],
-  "timestamp": "2026-07-17T20:30:48.151974437Z",
-  "model": "glm-5.2"
+  ]
 }

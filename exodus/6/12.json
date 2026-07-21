@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "exodus 6:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 687,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19354,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20041
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:12:54.592785817Z",
   "translation": "摩西在雅威面前说话,说:看哪,以色列的子民不听从我,法老又怎会听⟨我⟩呢?而我⟨是⟩嘴唇未受割礼的。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שמעו",
-      "english": "听从"
+      "gloss": "听从"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ואיך",
-      "english": "又怎会"
+      "gloss": "又怎会"
     },
     {
       "surface": "ישמעני",
-      "english": "听⟨我⟩"
+      "gloss": "听⟨我⟩"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "ערל",
-      "english": "未受割礼的"
+      "gloss": "未受割礼的"
     },
     {
       "surface": "שפתים",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     }
-  ],
-  "timestamp": "2026-07-17T18:12:54.592785817Z",
-  "model": "glm-5.2"
+  ]
 }

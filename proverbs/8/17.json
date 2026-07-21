@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 8:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54188,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54621
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:23.672932180Z",
   "translation": "我,我爱那些爱我的人;那些切切寻求我的人⟨将⟩寻得我。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אהביה",
-      "english": "我爱那些爱我的人"
+      "gloss": "我爱那些爱我的人"
     },
     {
       "surface": "אהב",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "ומשחרי",
-      "english": "和那些切切寻求我的人"
+      "gloss": "和那些切切寻求我的人"
     },
     {
       "surface": "ימצאנני",
-      "english": "⟨将⟩寻得我"
+      "gloss": "⟨将⟩寻得我"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:23.672932180Z",
-  "model": "glm-5.2"
+  ]
 }

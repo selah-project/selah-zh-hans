@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 81:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64379,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64742
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:10.784059938Z",
   "translation": "向我们的力量——以罗欣欢呼！向雅各的以罗欣呐喊！",
   "tokens": [
     {
       "surface": "הרנינו",
-      "english": "欢呼"
+      "gloss": "欢呼"
     },
     {
       "surface": "לאלהים",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "עוזנו",
-      "english": "我们的力量"
+      "gloss": "我们的力量"
     },
     {
       "surface": "הריעו",
-      "english": "呐喊"
+      "gloss": "呐喊"
     },
     {
       "surface": "לאלהי",
-      "english": "向……的以罗欣"
+      "gloss": "向……的以罗欣"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:10.784059938Z",
-  "model": "glm-5.2"
+  ]
 }

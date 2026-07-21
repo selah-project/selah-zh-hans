@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 30:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64423,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64896
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:46.638730385Z",
   "translation": "向雅威弹奏吧，他的敬虔者，并要向⟨他⟩圣洁的纪念称谢。",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "弹奏吧"
+      "gloss": "弹奏吧"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "חסידיו",
-      "english": "他的敬虔者"
+      "gloss": "他的敬虔者"
     },
     {
       "surface": "והודו",
-      "english": "并要称谢"
+      "gloss": "并要称谢"
     },
     {
       "surface": "לזכר",
-      "english": "向纪念"
+      "gloss": "向纪念"
     },
     {
       "surface": "קדשו",
-      "english": "⟨他⟩圣洁的"
+      "gloss": "⟨他⟩圣洁的"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:46.638730385Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 24:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21867,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22246
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:03.174987288Z",
   "translation": "他们是悖逆光的人,不认识⟨它的⟩道路,不住在⟨它的⟩路径中。",
   "tokens": [
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "היו",
-      "english": "是"
+      "gloss": "是"
     },
     {
       "surface": "במרדי",
-      "english": "悖逆……的人"
+      "gloss": "悖逆……的人"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "הכירו",
-      "english": "认识"
+      "gloss": "认识"
     },
     {
       "surface": "דרכיו",
-      "english": "⟨它的⟩道路"
+      "gloss": "⟨它的⟩道路"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "ישבו",
-      "english": "住在"
+      "gloss": "住在"
     },
     {
       "surface": "בנתיבתיו",
-      "english": "⟨它的⟩路径中"
+      "gloss": "⟨它的⟩路径中"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:03.174987288Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 8:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17999,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18302
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:24:58.375628928Z",
   "translation": "以色列众长老全都聚集,来到拉玛的撒母耳那里。",
   "tokens": [
     {
       "surface": "ויתקבצו",
-      "english": "聚集"
+      "gloss": "聚集"
     },
     {
       "surface": "כל",
-      "english": "全都"
+      "gloss": "全都"
     },
     {
       "surface": "זקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויבאו",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "הרמתה",
-      "english": "拉玛的"
+      "gloss": "拉玛的"
     }
-  ],
-  "timestamp": "2026-07-17T20:24:58.375628928Z",
-  "model": "glm-5.2"
+  ]
 }

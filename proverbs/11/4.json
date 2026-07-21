@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 11:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54416,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54753
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:45.663589403Z",
   "translation": "财富在发怒之日不⟨能⟩获益，而公义从死亡中拯救人。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יועיל",
-      "english": "⟨能⟩获益"
+      "gloss": "⟨能⟩获益"
     },
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "ביום",
-      "english": "在……之日"
+      "gloss": "在……之日"
     },
     {
       "surface": "עברה",
-      "english": "发怒"
+      "gloss": "发怒"
     },
     {
       "surface": "וצדקה",
-      "english": "而公义"
+      "gloss": "而公义"
     },
     {
       "surface": "תציל",
-      "english": "拯救人"
+      "gloss": "拯救人"
     },
     {
       "surface": "ממות",
-      "english": "从死亡中"
+      "gloss": "从死亡中"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:45.663589403Z",
-  "model": "glm-5.2"
+  ]
 }

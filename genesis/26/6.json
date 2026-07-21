@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "genesis 26:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 140,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22427,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22567
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:49:02.203904642Z",
   "translation": "以撒就住在基拉耳。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "就住"
+      "gloss": "就住"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "בגרר",
-      "english": "在基拉耳"
+      "gloss": "在基拉耳"
     }
-  ],
-  "timestamp": "2026-07-17T17:49:02.203904642Z",
-  "model": "glm-5.2"
+  ]
 }

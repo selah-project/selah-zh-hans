@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 6:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54494,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54832
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:08.742424990Z",
   "translation": "我儿啊，要守护你父亲的⟨את⟩诫命；不可离弃你母亲的妥拉。",
   "tokens": [
     {
       "surface": "נצר",
-      "english": "要守护"
+      "gloss": "要守护"
     },
     {
       "surface": "בני",
-      "english": "我儿啊"
+      "gloss": "我儿啊"
     },
     {
       "surface": "מצות",
-      "english": "⟨את⟩诫命"
+      "gloss": "⟨את⟩诫命"
     },
     {
       "surface": "אביך",
-      "english": "你父亲的"
+      "gloss": "你父亲的"
     },
     {
       "surface": "ואל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תטש",
-      "english": "离弃"
+      "gloss": "离弃"
     },
     {
       "surface": "תורת",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "אמך",
-      "english": "你母亲的"
+      "gloss": "你母亲的"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:08.742424990Z",
-  "model": "glm-5.2"
+  ]
 }

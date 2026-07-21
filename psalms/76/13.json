@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 76:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64215,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64564
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:47.437949682Z",
   "translation": "他截留首领们的鲁阿（气息），他对地上的列王 ⟨是⟩ 可畏的。",
   "tokens": [
     {
       "surface": "יבצר",
-      "english": "他截留"
+      "gloss": "他截留"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿（气息）"
+      "gloss": "鲁阿（气息）"
     },
     {
       "surface": "נגידים",
-      "english": "首领们"
+      "gloss": "首领们"
     },
     {
       "surface": "נורא",
-      "english": "可畏的"
+      "gloss": "可畏的"
     },
     {
       "surface": "למלכי",
-      "english": "对……的列王"
+      "gloss": "对……的列王"
     },
     {
       "surface": "ארץ",
-      "english": "地上"
+      "gloss": "地上"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:47.437949682Z",
-  "model": "glm-5.2"
+  ]
 }

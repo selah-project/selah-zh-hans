@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 32:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18869,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19363
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:01.817228305Z",
   "translation": "约书亚听见⟨את⟩百姓呼喊的声音,就对摩西说:营中有打仗的声音。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "声音"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "ברעה",
-      "english": "在呼喊中"
+      "gloss": "在呼喊中"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "מלחמה",
-      "english": "打仗"
+      "gloss": "打仗"
     },
     {
       "surface": "במחנה",
-      "english": "在营中"
+      "gloss": "在营中"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:01.817228305Z",
-  "model": "glm-5.2"
+  ]
 }

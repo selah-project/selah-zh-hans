@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 16:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21597,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21925
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:12.206161396Z",
   "translation": "我的脸因哭泣而⟨变⟩红,在我眼皮上是死亡之荫。",
   "tokens": [
     {
       "surface": "פני",
-      "english": "我的脸"
+      "gloss": "我的脸"
     },
     {
       "surface": "חמרמרה",
-      "english": "⟨变⟩红"
+      "gloss": "⟨变⟩红"
     },
     {
       "surface": "מני",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "בכי",
-      "english": "哭泣"
+      "gloss": "哭泣"
     },
     {
       "surface": "ועל",
-      "english": "而在……上"
+      "gloss": "而在……上"
     },
     {
       "surface": "עפעפי",
-      "english": "我眼皮"
+      "gloss": "我眼皮"
     },
     {
       "surface": "צלמות",
-      "english": "死亡之荫"
+      "gloss": "死亡之荫"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:12.206161396Z",
-  "model": "glm-5.2"
+  ]
 }

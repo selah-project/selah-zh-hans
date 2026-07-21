@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "exodus 26:28",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18498,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18833
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:28:29.355575159Z",
   "translation": "中间的那根横木在木板中间,从这一端通到那一端⟨是⟩一根贯穿的横木。",
   "tokens": [
     {
       "surface": "והבריח",
-      "english": "中间的那根横木"
+      "gloss": "中间的那根横木"
     },
     {
       "surface": "התיכן",
-      "english": "中间的"
+      "gloss": "中间的"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "הקרשים",
-      "english": "木板"
+      "gloss": "木板"
     },
     {
       "surface": "מברח",
-      "english": "贯穿的横木"
+      "gloss": "贯穿的横木"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הקצה",
-      "english": "这一端"
+      "gloss": "这一端"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הקצה",
-      "english": "那一端"
+      "gloss": "那一端"
     }
-  ],
-  "timestamp": "2026-07-17T18:28:29.355575159Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 54:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64248,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64590
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:42.061775104Z",
   "translation": "因为他从一切的患难中救拔了我,我的眼睛 ⟨也⟩ ⟨已⟩ 看见 ⟨了⟩ 我的仇敌。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מכל",
-      "english": "从一切的"
+      "gloss": "从一切的"
     },
     {
       "surface": "צרה",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "הצילני",
-      "english": "他救拔了我"
+      "gloss": "他救拔了我"
     },
     {
       "surface": "ובאיבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "ראתה",
-      "english": "⟨已⟩ 看见"
+      "gloss": "⟨已⟩ 看见"
     },
     {
       "surface": "עיני",
-      "english": "我的眼睛"
+      "gloss": "我的眼睛"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:42.061775104Z",
-  "model": "glm-5.2"
+  ]
 }

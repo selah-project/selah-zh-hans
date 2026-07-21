@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 2:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23205,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23790
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:07.638040074Z",
   "translation": "雅威以罗欣取了⟨את⟩那亚当,将他安顿在伊甸园里,为要服事它和守护它。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "于是取了"
+      "gloss": "于是取了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那亚当"
     },
     {
       "surface": "האדם",
-      "english": "那亚当"
+      "gloss": "那亚当"
     },
     {
       "surface": "וינחהו",
-      "english": "将他安顿"
+      "gloss": "将他安顿"
     },
     {
       "surface": "בגן",
-      "english": "在园中"
+      "gloss": "在园中"
     },
     {
       "surface": "עדן",
-      "english": "伊甸"
+      "gloss": "伊甸"
     },
     {
       "surface": "לעבדה",
-      "english": "为要服事它"
+      "gloss": "为要服事它"
     },
     {
       "surface": "ולשמרה",
-      "english": "和守护它"
+      "gloss": "和守护它"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:07.638040074Z",
-  "model": "glm-5.2"
+  ]
 }

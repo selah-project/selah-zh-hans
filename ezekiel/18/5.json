@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ezekiel 18:5",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18813,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19256
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:49:45.916166972Z",
   "translation": "如果一个人是公义的，并且 ⟨他⟩ 做了公正的裁决 ⟨和⟩ 义行——",
   "tokens": [
     {
       "surface": "וְ\/אִ֖ישׁ",
-      "english": "和\/一个人"
+      "gloss": "和\/一个人"
     },
     {
       "surface": "כִּי",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "יִהְיֶ֣ה",
-      "english": "是"
+      "gloss": "是"
     },
     {
       "surface": "צַדִּ֑יק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "וְ\/עָשָׂ֥ה",
-      "english": "和\/做了"
+      "gloss": "和\/做了"
     },
     {
       "surface": "מִשְׁפָּ֖ט",
-      "english": "公正的裁决"
+      "gloss": "公正的裁决"
     },
     {
       "surface": "וּ\/צְדָקָֽה",
-      "english": "和\/义行"
+      "gloss": "和\/义行"
     }
-  ],
-  "timestamp": "2026-07-17T22:49:45.916166972Z",
-  "model": "glm-5.2"
+  ]
 }

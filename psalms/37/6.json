@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 37:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64322,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64591
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:53.654034023Z",
   "translation": "他必使你的公义如光⟨发出⟩，你的公正如正午⟨彰显⟩。",
   "tokens": [
     {
       "surface": "והוציא",
-      "english": "他必使……⟨发出⟩"
+      "gloss": "他必使……⟨发出⟩"
     },
     {
       "surface": "כאור",
-      "english": "如光"
+      "gloss": "如光"
     },
     {
       "surface": "צדקך",
-      "english": "你的公义"
+      "gloss": "你的公义"
     },
     {
       "surface": "ומשפטך",
-      "english": "你的公正"
+      "gloss": "你的公正"
     },
     {
       "surface": "כצהרים",
-      "english": "如正午"
+      "gloss": "如正午"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:53.654034023Z",
-  "model": "glm-5.2"
+  ]
 }

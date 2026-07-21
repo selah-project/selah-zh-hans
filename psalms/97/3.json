@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 97:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64322,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64744
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:49.091553755Z",
   "translation": "火在⟨他⟩面前行进，⟨它⟩在四周吞噬⟨他⟩的 adversaries。",
   "tokens": [
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "לפניו",
-      "english": "在⟨他⟩面前"
+      "gloss": "在⟨他⟩面前"
     },
     {
       "surface": "תלך",
-      "english": "行进"
+      "gloss": "行进"
     },
     {
       "surface": "ותלהט",
-      "english": "⟨它⟩在四周吞噬"
+      "gloss": "⟨它⟩在四周吞噬"
     },
     {
       "surface": "סביב",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "צריו",
-      "english": "⟨他⟩的 adversaries"
+      "gloss": "⟨他⟩的 adversaries"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:49.091553755Z",
-  "model": "glm-5.2"
+  ]
 }

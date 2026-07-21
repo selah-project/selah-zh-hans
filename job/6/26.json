@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "job 6:26",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21505,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21864
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:25.225744444Z",
   "translation": "难道只为了⟨反驳⟩言语,你们就思量, ⟨连⟩绝望者的言语⟨只⟩如鲁阿⟨一般⟩吗?",
   "tokens": [
     {
       "surface": "הלהוכח",
-      "english": "难道只为了⟨反驳⟩"
+      "gloss": "难道只为了⟨反驳⟩"
     },
     {
       "surface": "מלים",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "תחשבו",
-      "english": "你们就思量"
+      "gloss": "你们就思量"
     },
     {
       "surface": "ולרוח",
-      "english": "⟨连⟩……如鲁阿⟨一般⟩"
+      "gloss": "⟨连⟩……如鲁阿⟨一般⟩"
     },
     {
       "surface": "אמרי",
-      "english": "……者的言语"
+      "gloss": "……者的言语"
     },
     {
       "surface": "נאש",
-      "english": "绝望"
+      "gloss": "绝望"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:25.225744444Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 63,
   "ref": "psalms 78:63",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64295,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64691
-  },
+  "verse": 63,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:45.538012900Z",
   "translation": "火吞噬了他的青年，⟨而⟩他的处女们未被赞美。",
   "tokens": [
     {
       "surface": "בחוריו",
-      "english": "他的青年"
+      "gloss": "他的青年"
     },
     {
       "surface": "אכלה",
-      "english": "吞噬了"
+      "gloss": "吞噬了"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "ובתולתיו",
-      "english": "⟨而⟩他的处女们"
+      "gloss": "⟨而⟩他的处女们"
     },
     {
       "surface": "לא",
-      "english": "未"
+      "gloss": "未"
     },
     {
       "surface": "הוללו",
-      "english": "被赞美"
+      "gloss": "被赞美"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:45.538012900Z",
-  "model": "glm-5.2"
+  ]
 }

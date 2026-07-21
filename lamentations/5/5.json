@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "lamentations 5:5",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33607,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 34088
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:21.342274259Z",
   "translation": "在我们的颈项上⟨我们⟩被追赶，我们精疲力竭；没有安息赐给我们。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "צוארנו",
-      "english": "我们的颈项"
+      "gloss": "我们的颈项"
     },
     {
       "surface": "נרדפנו",
-      "english": "⟨我们⟩被追赶"
+      "gloss": "⟨我们⟩被追赶"
     },
     {
       "surface": "יגענו",
-      "english": "我们精疲力竭"
+      "gloss": "我们精疲力竭"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "הונח",
-      "english": "安息赐给"
+      "gloss": "安息赐给"
     },
     {
       "surface": "לנו",
-      "english": "我们"
+      "gloss": "我们"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:21.342274259Z",
-  "model": "glm-5.2"
+  ]
 }

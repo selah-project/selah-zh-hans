@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "isaiah 42:18",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20338,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20661
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:37.815617443Z",
   "translation": "聋子啊,你们要听;瞎子啊,你们要留心看,为了⟨能⟩看见。",
   "tokens": [
     {
       "surface": "החרשים",
-      "english": "聋子啊"
+      "gloss": "聋子啊"
     },
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "והעורים",
-      "english": "瞎子啊"
+      "gloss": "瞎子啊"
     },
     {
       "surface": "הביטו",
-      "english": "你们要留心看"
+      "gloss": "你们要留心看"
     },
     {
       "surface": "לראות",
-      "english": "为了⟨能⟩看见"
+      "gloss": "为了⟨能⟩看见"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:37.815617443Z",
-  "model": "glm-5.2"
+  ]
 }

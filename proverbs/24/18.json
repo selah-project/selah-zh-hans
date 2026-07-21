@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "proverbs 24:18",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54454,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54956
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:36.134576247Z",
   "translation": "免得 雅威 看见,⟨而⟩这在⟨他⟩眼中看为恶,⟨他⟩就转开⟨他⟩的怒气,使之离开⟨他⟩。",
   "tokens": [
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "יראה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ורע",
-      "english": "⟨而⟩这在⟨他⟩眼中看为恶"
+      "gloss": "⟨而⟩这在⟨他⟩眼中看为恶"
     },
     {
       "surface": "בעיניו",
-      "english": "⟨在⟩⟨他⟩眼中"
+      "gloss": "⟨在⟩⟨他⟩眼中"
     },
     {
       "surface": "והשיב",
-      "english": "⟨他⟩就转开"
+      "gloss": "⟨他⟩就转开"
     },
     {
       "surface": "מעליו",
-      "english": "使之离开⟨他⟩"
+      "gloss": "使之离开⟨他⟩"
     },
     {
       "surface": "אפו",
-      "english": "⟨他⟩的怒气"
+      "gloss": "⟨他⟩的怒气"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:36.134576247Z",
-  "model": "glm-5.2"
+  ]
 }

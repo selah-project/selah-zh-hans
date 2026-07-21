@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ecclesiastes 8:4",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19000,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19389
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:49.571040287Z",
   "translation": "在王的话语⟨所在⟩之处,⟨有⟩权能;谁能对他说,你在做什么呢?",
   "tokens": [
     {
       "surface": "באשר",
-      "english": "在……之处"
+      "gloss": "在……之处"
     },
     {
       "surface": "דבר",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "מלך",
-      "english": "王的"
+      "gloss": "王的"
     },
     {
       "surface": "שלטון",
-      "english": "权能"
+      "gloss": "权能"
     },
     {
       "surface": "ומי",
-      "english": "谁能"
+      "gloss": "谁能"
     },
     {
       "surface": "יאמר",
-      "english": "对他说"
+      "gloss": "对他说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "תעשה",
-      "english": "你在做"
+      "gloss": "你在做"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:49.571040287Z",
-  "model": "glm-5.2"
+  ]
 }

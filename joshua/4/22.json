@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "joshua 4:22",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18246,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18684
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:52:16.289594870Z",
   "translation": "你们要使⟨את⟩你们的儿子们知道,说:在干地上以色列渡过了⟨את⟩这约旦河;",
   "tokens": [
     {
       "surface": "והודעתם",
-      "english": "你们要使……知道"
+      "gloss": "你们要使……知道"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的儿子们"
     },
     {
       "surface": "בניכם",
-      "english": "你们的儿子们"
+      "gloss": "你们的儿子们"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "ביבשה",
-      "english": "在干地上"
+      "gloss": "在干地上"
     },
     {
       "surface": "עבר",
-      "english": "渡过了"
+      "gloss": "渡过了"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这约旦河"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     }
-  ],
-  "timestamp": "2026-07-17T19:52:16.289594870Z",
-  "model": "glm-5.2"
+  ]
 }

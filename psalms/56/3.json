@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 56:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64561,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65015
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:24.092882063Z",
   "translation": "我 ⟨的⟩ 敌人压制 ⟨我⟩ 整 ⟨היום⟩;因为有许多人从高处与我战斗。",
   "tokens": [
     {
       "surface": "שאפו",
-      "english": "压制"
+      "gloss": "压制"
     },
     {
       "surface": "שוררי",
-      "english": "我 ⟨的⟩ 敌人"
+      "gloss": "我 ⟨的⟩ 敌人"
     },
     {
       "surface": "כל",
-      "english": "整"
+      "gloss": "整"
     },
     {
       "surface": "היום",
-      "english": "היום"
+      "gloss": "היום"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רבים",
-      "english": "有许多人"
+      "gloss": "有许多人"
     },
     {
       "surface": "לחמים",
-      "english": "战斗"
+      "gloss": "战斗"
     },
     {
       "surface": "לי",
-      "english": "与我"
+      "gloss": "与我"
     },
     {
       "surface": "מרום",
-      "english": "从高处"
+      "gloss": "从高处"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:24.092882063Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 106:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64689,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65095
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:17.380841130Z",
   "translation": "为要看见你选民的福祉，为要在你国民的喜乐中一同喜乐，为要与你产业的见证一同夸耀。",
   "tokens": [
     {
       "surface": "לראות",
-      "english": "为要看见"
+      "gloss": "为要看见"
     },
     {
       "surface": "בטובת",
-      "english": "在……的福祉中"
+      "gloss": "在……的福祉中"
     },
     {
       "surface": "בחיריך",
-      "english": "你的选民"
+      "gloss": "你的选民"
     },
     {
       "surface": "לשמח",
-      "english": "为要（一同）喜乐"
+      "gloss": "为要（一同）喜乐"
     },
     {
       "surface": "בשמחת",
-      "english": "在……的喜乐中"
+      "gloss": "在……的喜乐中"
     },
     {
       "surface": "גויך",
-      "english": "你的国民"
+      "gloss": "你的国民"
     },
     {
       "surface": "להתהלל",
-      "english": "为要夸耀"
+      "gloss": "为要夸耀"
     },
     {
       "surface": "עם",
-      "english": "与……一同"
+      "gloss": "与……一同"
     },
     {
       "surface": "נחלתך",
-      "english": "你的产业"
+      "gloss": "你的产业"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:17.380841130Z",
-  "model": "glm-5.2"
+  ]
 }

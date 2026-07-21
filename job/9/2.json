@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 9:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21701,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22257
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:37.984323082Z",
   "translation": "诚然，我知道⟨事情⟩如此：但必死的人怎能与אֵל（大能者）同⟨站⟩⟨而为⟩⟨算为⟩义呢？",
   "tokens": [
     {
       "surface": "אמנם",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "כי",
-      "english": "⟨事情⟩"
+      "gloss": "⟨事情⟩"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "ומה",
-      "english": "但怎能"
+      "gloss": "但怎能"
     },
     {
       "surface": "יצדק",
-      "english": "⟨而为⟩⟨算为⟩义"
+      "gloss": "⟨而为⟩⟨算为⟩义"
     },
     {
       "surface": "אנוש",
-      "english": "必死的人"
+      "gloss": "必死的人"
     },
     {
       "surface": "עם",
-      "english": "与……同⟨站⟩"
+      "gloss": "与……同⟨站⟩"
     },
     {
       "surface": "אל",
-      "english": "אֵל（大能者）"
+      "gloss": "אֵל（大能者）"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:37.984323082Z",
-  "model": "glm-5.2"
+  ]
 }

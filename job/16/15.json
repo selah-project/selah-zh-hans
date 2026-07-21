@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 16:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21595,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21943
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:16.466831311Z",
   "translation": "我将麻布缝在我的皮上，⟨并⟩在尘土中滚没我的角。",
   "tokens": [
     {
       "surface": "שק",
-      "english": "麻布"
+      "gloss": "麻布"
     },
     {
       "surface": "תפרתי",
-      "english": "我缝了"
+      "gloss": "我缝了"
     },
     {
       "surface": "עלי",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "גלדי",
-      "english": "我的皮"
+      "gloss": "我的皮"
     },
     {
       "surface": "ועללתי",
-      "english": "而我滚没"
+      "gloss": "而我滚没"
     },
     {
       "surface": "בעפר",
-      "english": "在尘土中"
+      "gloss": "在尘土中"
     },
     {
       "surface": "קרני",
-      "english": "我的角"
+      "gloss": "我的角"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:16.466831311Z",
-  "model": "glm-5.2"
+  ]
 }

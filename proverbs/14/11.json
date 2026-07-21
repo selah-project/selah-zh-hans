@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 14:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54328,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54716
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:30.520021509Z",
   "translation": "恶人的房屋必⟨被⟩毁坏；正直人的帐篷却⟨要⟩繁茂。",
   "tokens": [
     {
       "surface": "בית",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "ישמד",
-      "english": "必⟨被⟩毁坏"
+      "gloss": "必⟨被⟩毁坏"
     },
     {
       "surface": "ואהל",
-      "english": "而……的帐篷"
+      "gloss": "而……的帐篷"
     },
     {
       "surface": "ישרים",
-      "english": "正直人的"
+      "gloss": "正直人的"
     },
     {
       "surface": "יפריח",
-      "english": "却⟨要⟩繁茂"
+      "gloss": "却⟨要⟩繁茂"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:30.520021509Z",
-  "model": "glm-5.2"
+  ]
 }

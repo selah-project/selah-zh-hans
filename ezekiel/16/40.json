@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "ezekiel 16:40",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19110,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19668
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:48:28.835691725Z",
   "translation": "他们必将一个会众带上来攻击你，用石头打你 ⟨את⟩，用他们的刀剑将你砍碎。",
   "tokens": [
     {
       "surface": "וְ\/הֶעֱלוּ",
-      "english": "他们必将……带上来"
+      "gloss": "他们必将……带上来"
     },
     {
       "surface": "עָלַ֨יִ\/ךְ֙",
-      "english": "攻击你"
+      "gloss": "攻击你"
     },
     {
       "surface": "קָהָ֔ל",
-      "english": "一个会众"
+      "gloss": "一个会众"
     },
     {
       "surface": "וְ\/רָגְמ֥וּ",
-      "english": "用石头打"
+      "gloss": "用石头打"
     },
     {
       "surface": "אוֹתָ֖\/ךְ",
-      "english": "⟨את⟩ 你",
+      "gloss": "⟨את⟩ 你",
       "marks": "你"
     },
     {
       "surface": "בָּ\/אָ֑בֶן",
-      "english": "用石头"
+      "gloss": "用石头"
     },
     {
       "surface": "וּ\/בִתְּק֖וּ\/ךְ",
-      "english": "将你砍碎"
+      "gloss": "将你砍碎"
     },
     {
       "surface": "בְּ\/חַרְבוֹתָֽ\/ם",
-      "english": "用他们的刀剑"
+      "gloss": "用他们的刀剑"
     }
-  ],
-  "timestamp": "2026-07-17T22:48:28.835691725Z",
-  "model": "glm-5.2"
+  ]
 }

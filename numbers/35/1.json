@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "numbers 35:1",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19697,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20037
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:25:55.480901961Z",
   "translation": "雅威在摩押的亚拉巴,约旦〈的〉耶利哥〈边〉,对摩西说话,说:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "בערבת",
-      "english": "在……的亚拉巴"
+      "gloss": "在……的亚拉巴"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "על",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "ירדן",
-      "english": "约旦"
+      "gloss": "约旦"
     },
     {
       "surface": "ירחו",
-      "english": "耶利哥"
+      "gloss": "耶利哥"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T19:25:55.480901961Z",
-  "model": "glm-5.2"
+  ]
 }

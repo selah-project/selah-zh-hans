@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 16:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18817,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19380
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:06.952018060Z",
   "translation": "摩西说:⟨你们⟩吃它吧,⟨在⟩今天;因为今天⟨是⟩向雅威的安息日;今天你们不会在田里找到它。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אכלהו",
-      "english": "⟨你们⟩吃它吧"
+      "gloss": "⟨你们⟩吃它吧"
     },
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שבת",
-      "english": "安息日"
+      "gloss": "安息日"
     },
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威的"
+      "gloss": "向雅威的"
     },
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תמצאהו",
-      "english": "你们会找到它"
+      "gloss": "你们会找到它"
     },
     {
       "surface": "בשדה",
-      "english": "在田里"
+      "gloss": "在田里"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:06.952018060Z",
-  "model": "glm-5.2"
+  ]
 }

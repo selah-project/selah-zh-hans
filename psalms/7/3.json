@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 7:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64491,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64831
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:02.641549943Z",
   "translation": "免得⟨他⟩像狮子撕裂我的性命，扯碎，却无人搭救。",
   "tokens": [
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "יטרף",
-      "english": "⟨他⟩撕裂"
+      "gloss": "⟨他⟩撕裂"
     },
     {
       "surface": "כאריה",
-      "english": "像狮子"
+      "gloss": "像狮子"
     },
     {
       "surface": "נפשי",
-      "english": "我的性命"
+      "gloss": "我的性命"
     },
     {
       "surface": "פרק",
-      "english": "扯碎"
+      "gloss": "扯碎"
     },
     {
       "surface": "ואין",
-      "english": "却无"
+      "gloss": "却无"
     },
     {
       "surface": "מציל",
-      "english": "搭救者"
+      "gloss": "搭救者"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:02.641549943Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "2-samuel 13:21",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18983,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19329
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:51:47.258663815Z",
   "translation": "大卫王听见了⟨את⟩这一切*davar*，⟨就⟩非常愤怒。",
   "tokens": [
     {
       "surface": "והמלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "שמע",
-      "english": "听见了"
+      "gloss": "听见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这一切"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "הדברים",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "האלה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ויחר",
-      "english": "⟨就⟩愤怒"
+      "gloss": "⟨就⟩愤怒"
     },
     {
       "surface": "לו",
-      "english": "⟨对自己⟩"
+      "gloss": "⟨对自己⟩"
     },
     {
       "surface": "מאד",
-      "english": "非常"
+      "gloss": "非常"
     }
-  ],
-  "timestamp": "2026-07-18T02:51:47.258663815Z",
-  "model": "glm-5.2"
+  ]
 }

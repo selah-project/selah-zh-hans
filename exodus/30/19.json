@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "exodus 30:19",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18653,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19094
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:10.245263987Z",
   "translation": "亚伦和他的儿子们要用其中的水洗他们的手 ⟨את⟩ 和 ⟨את⟩ 他们的脚。",
   "tokens": [
     {
       "surface": "וְ\/רָחֲצ֛וּ",
-      "english": "要洗"
+      "gloss": "要洗"
     },
     {
       "surface": "אַהֲרֹ֥ן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "וּ\/בָנָ֖י\/ו",
-      "english": "和他的儿子们"
+      "gloss": "和他的儿子们"
     },
     {
       "surface": "מִמֶּ֑\/נּוּ",
-      "english": "用其中的水"
+      "gloss": "用其中的水"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的手"
     },
     {
       "surface": "יְדֵי\/הֶ֖ם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的脚"
     },
     {
       "surface": "רַגְלֵי\/הֶֽם",
-      "english": "他们的脚"
+      "gloss": "他们的脚"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:10.245263987Z",
-  "model": "glm-5.2"
+  ]
 }

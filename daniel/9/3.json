@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "daniel 9:3",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19188,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19788
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:49:37.249109494Z",
   "translation": "我便将⟨את⟩我的脸面转向阿多奈、那位以罗欣，以祈求、恳求⟨来寻求⟩⟨他⟩，带着禁食、麻布和灰烬。",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "我便将……转向"
+      "gloss": "我便将……转向"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的脸面"
     },
     {
       "surface": "פני",
-      "english": "我的脸面"
+      "gloss": "我的脸面"
     },
     {
       "surface": "אל",
-      "english": "转向"
+      "gloss": "转向"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "האלהים",
-      "english": "那位以罗欣"
+      "gloss": "那位以罗欣"
     },
     {
       "surface": "לבקש",
-      "english": "⟨来寻求⟩"
+      "gloss": "⟨来寻求⟩"
     },
     {
       "surface": "תפלה",
-      "english": "祈求"
+      "gloss": "祈求"
     },
     {
       "surface": "ותחנונים",
-      "english": "恳求"
+      "gloss": "恳求"
     },
     {
       "surface": "בצום",
-      "english": "带着禁食"
+      "gloss": "带着禁食"
     },
     {
       "surface": "ושק",
-      "english": "麻布"
+      "gloss": "麻布"
     },
     {
       "surface": "ואפר",
-      "english": "和灰烬"
+      "gloss": "和灰烬"
     }
-  ],
-  "timestamp": "2026-07-20T06:49:37.249109494Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 22:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19724,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20243
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:16.168757362Z",
   "translation": "凡触碰⟨它⟩的נֶפֶשׁ（生命体），就不洁净直到黄昏;他不可吃自圣物,除非他用⟨在⟩水中洗了他的肉体。",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "נֶפֶשׁ（生命体）"
+      "gloss": "נֶפֶשׁ（生命体）"
     },
     {
       "surface": "אשר",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "תגע",
-      "english": "触碰"
+      "gloss": "触碰"
     },
     {
       "surface": "בו",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "וטמאה",
-      "english": "就不洁净"
+      "gloss": "就不洁净"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "黄昏"
+      "gloss": "黄昏"
     },
     {
       "surface": "ולא",
-      "english": "他不可"
+      "gloss": "他不可"
     },
     {
       "surface": "יאכל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "מן",
-      "english": "自"
+      "gloss": "自"
     },
     {
       "surface": "הקדשים",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "כי",
-      "english": "除非"
+      "gloss": "除非"
     },
     {
       "surface": "אם",
-      "english": "（重叠）"
+      "gloss": "（重叠）"
     },
     {
       "surface": "רחץ",
-      "english": "洗了"
+      "gloss": "洗了"
     },
     {
       "surface": "בשרו",
-      "english": "他的肉体"
+      "gloss": "他的肉体"
     },
     {
       "surface": "במים",
-      "english": "用⟨在⟩水中"
+      "gloss": "用⟨在⟩水中"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:16.168757362Z",
-  "model": "glm-5.2"
+  ]
 }

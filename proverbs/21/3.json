@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 21:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54253,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54581
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:39.806408183Z",
   "translation": "行公义和公平，为雅威所拣选，胜过献祭。",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "צדקה",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "ומשפט",
-      "english": "和公平"
+      "gloss": "和公平"
     },
     {
       "surface": "נבחר",
-      "english": "被拣选"
+      "gloss": "被拣选"
     },
     {
       "surface": "ליהוה",
-      "english": "为雅威"
+      "gloss": "为雅威"
     },
     {
       "surface": "מזבח",
-      "english": "胜过献祭"
+      "gloss": "胜过献祭"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:39.806408183Z",
-  "model": "glm-5.2"
+  ]
 }

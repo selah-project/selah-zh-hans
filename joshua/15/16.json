@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 15:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18564,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19044
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:59:45.203770250Z",
   "translation": "迦勒说:凡击打⟨את⟩基列·西弗并将其攻取的人,我就将⟨את⟩我女儿押撒给他为妻。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "כלב",
-      "english": "迦勒"
+      "gloss": "迦勒"
     },
     {
       "surface": "אשר",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "יכה",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "基列·西弗"
     },
     {
       "surface": "קרית",
-      "english": "基列·"
+      "gloss": "基列·"
     },
     {
       "surface": "ספר",
-      "english": "西弗"
+      "gloss": "西弗"
     },
     {
       "surface": "ולכדה",
-      "english": "并将其攻取"
+      "gloss": "并将其攻取"
     },
     {
       "surface": "ונתתי",
-      "english": "我就将……给"
+      "gloss": "我就将……给"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我女儿押撒"
     },
     {
       "surface": "עכסה",
-      "english": "押撒"
+      "gloss": "押撒"
     },
     {
       "surface": "בתי",
-      "english": "我女儿"
+      "gloss": "我女儿"
     },
     {
       "surface": "לאשה",
-      "english": "为妻"
+      "gloss": "为妻"
     }
-  ],
-  "timestamp": "2026-07-17T19:59:45.203770250Z",
-  "model": "glm-5.2"
+  ]
 }

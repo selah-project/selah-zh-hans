@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-samuel 30:5",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18236,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18663
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:55.245761972Z",
   "translation": "大卫的两个妻子也被掳走——耶斯列人亚希暖,以及迦密人拿八的妻子亚比该。",
   "tokens": [
     {
       "surface": "ושתי",
-      "english": "和两个"
+      "gloss": "和两个"
     },
     {
       "surface": "נשי",
-      "english": "妻子"
+      "gloss": "妻子"
     },
     {
       "surface": "דוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "נשבו",
-      "english": "被掳走"
+      "gloss": "被掳走"
     },
     {
       "surface": "אחינעם",
-      "english": "亚希暖"
+      "gloss": "亚希暖"
     },
     {
       "surface": "היזרעלית",
-      "english": "耶斯列人"
+      "gloss": "耶斯列人"
     },
     {
       "surface": "ואביגיל",
-      "english": "和亚比该"
+      "gloss": "和亚比该"
     },
     {
       "surface": "אשת",
-      "english": "……的妻子"
+      "gloss": "……的妻子"
     },
     {
       "surface": "נבל",
-      "english": "拿八"
+      "gloss": "拿八"
     },
     {
       "surface": "הכרמלי",
-      "english": "迦密人"
+      "gloss": "迦密人"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:55.245761972Z",
-  "model": "glm-5.2"
+  ]
 }

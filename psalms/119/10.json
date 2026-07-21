@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 119:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64361,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64618
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:32.542300432Z",
   "translation": "我用全心寻求了你；别让我从你的诫命中偏离。",
   "tokens": [
     {
       "surface": "בכל",
-      "english": "用全部"
+      "gloss": "用全部"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "דרשתיך",
-      "english": "寻求了你"
+      "gloss": "寻求了你"
     },
     {
       "surface": "אל",
-      "english": "别"
+      "gloss": "别"
     },
     {
       "surface": "תשגני",
-      "english": "让我偏离"
+      "gloss": "让我偏离"
     },
     {
       "surface": "ממצותיך",
-      "english": "从你的诫命"
+      "gloss": "从你的诫命"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:32.542300432Z",
-  "model": "glm-5.2"
+  ]
 }

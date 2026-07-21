@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 27:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64734,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65246
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:05.809251026Z",
   "translation": "求你不要将我交在⟨那⟩压迫我之人的נֶפֶשׁ中,因为作假见证的人起来攻击我,图谋暴力。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "求你不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תתנני",
-      "english": "将我交在"
+      "gloss": "将我交在"
     },
     {
       "surface": "בנפש",
-      "english": "在……的נֶפֶשׁ中"
+      "gloss": "在……的נֶפֶשׁ中"
     },
     {
       "surface": "צרי",
-      "english": "压迫我之人"
+      "gloss": "压迫我之人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "קמו",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "בי",
-      "english": "攻击我"
+      "gloss": "攻击我"
     },
     {
       "surface": "עדי",
-      "english": "作见证的人"
+      "gloss": "作见证的人"
     },
     {
       "surface": "שקר",
-      "english": "虚假的"
+      "gloss": "虚假的"
     },
     {
       "surface": "ויפח",
-      "english": "并图谋"
+      "gloss": "并图谋"
     },
     {
       "surface": "חמס",
-      "english": "暴力"
+      "gloss": "暴力"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:05.809251026Z",
-  "model": "glm-5.2"
+  ]
 }

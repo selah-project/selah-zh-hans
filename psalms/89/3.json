@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 89:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64650,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65155
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:08.728266565Z",
   "translation": "因为我说:永恒——חֶסֶד 将被建立;诸天,你必将你的אֱמוּנָה确立于其中。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "עולם",
-      "english": "永恒"
+      "gloss": "永恒"
     },
     {
       "surface": "חסד",
-      "english": "חֶסֶד"
+      "gloss": "חֶסֶד"
     },
     {
       "surface": "יבנה",
-      "english": "将被建立"
+      "gloss": "将被建立"
     },
     {
       "surface": "שמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "תכן",
-      "english": "你必将确立"
+      "gloss": "你必将确立"
     },
     {
       "surface": "אמונתך",
-      "english": "你的אֱמוּנָה"
+      "gloss": "你的אֱמוּנָה"
     },
     {
       "surface": "בהם",
-      "english": "于其中"
+      "gloss": "于其中"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:08.728266565Z",
-  "model": "glm-5.2"
+  ]
 }

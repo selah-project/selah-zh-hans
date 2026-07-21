@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 27:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21536,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21905
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:03.913109268Z",
   "translation": "惊恐如水将他追上，风暴在夜间将他偷去。",
   "tokens": [
     {
       "surface": "תשיגהו",
-      "english": "将他追上"
+      "gloss": "将他追上"
     },
     {
       "surface": "כמים",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "בלהות",
-      "english": "惊恐"
+      "gloss": "惊恐"
     },
     {
       "surface": "לילה",
-      "english": "在夜间"
+      "gloss": "在夜间"
     },
     {
       "surface": "גנבתו",
-      "english": "将他偷去"
+      "gloss": "将他偷去"
     },
     {
       "surface": "סופה",
-      "english": "风暴"
+      "gloss": "风暴"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:03.913109268Z",
-  "model": "glm-5.2"
+  ]
 }

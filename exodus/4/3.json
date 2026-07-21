@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "exodus 4:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 18786,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19154
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:22.512884652Z",
   "translation": "祂说:把它扔在地上。于是摩西把它扔在地上,它就变成了蛇,摩西便从它面前逃跑了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "祂说"
+      "gloss": "祂说"
     },
     {
       "surface": "השליכהו",
-      "english": "把它扔"
+      "gloss": "把它扔"
     },
     {
       "surface": "ארצה",
-      "english": "在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "וישליכהו",
-      "english": "于是摩西把它扔"
+      "gloss": "于是摩西把它扔"
     },
     {
       "surface": "ארצה",
-      "english": "在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "ויהי",
-      "english": "它就变成了"
+      "gloss": "它就变成了"
     },
     {
       "surface": "לנחש",
-      "english": "蛇"
+      "gloss": "蛇"
     },
     {
       "surface": "וינס",
-      "english": "摩西便逃跑了"
+      "gloss": "摩西便逃跑了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "מפניו",
-      "english": "从它面前"
+      "gloss": "从它面前"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:22.512884652Z",
-  "model": "glm-4.5"
+  ]
 }

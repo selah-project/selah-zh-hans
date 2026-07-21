@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 51:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64461,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64935
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:58.174290322Z",
   "translation": "求你恢复我的⟨所受的⟩拯救之乐，以乐意的鲁阿支撑我。",
   "tokens": [
     {
       "surface": "השיבה",
-      "english": "求你恢复"
+      "gloss": "求你恢复"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "ששון",
-      "english": "乐"
+      "gloss": "乐"
     },
     {
       "surface": "ישעך",
-      "english": "⟨所受的⟩拯救之"
+      "gloss": "⟨所受的⟩拯救之"
     },
     {
       "surface": "ורוח",
-      "english": "以鲁阿"
+      "gloss": "以鲁阿"
     },
     {
       "surface": "נדיבה",
-      "english": "乐意的"
+      "gloss": "乐意的"
     },
     {
       "surface": "תסמכני",
-      "english": "支撑我"
+      "gloss": "支撑我"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:58.174290322Z",
-  "model": "glm-5.2"
+  ]
 }

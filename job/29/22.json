@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 29:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21593,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22041
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:02.926001567Z",
   "translation": "在我的*话语*之后,他们不再重复;⟨而⟩我的话如甘露滴在他们身上。",
   "tokens": [
     {
       "surface": "אחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "דברי",
-      "english": "我的*话语*"
+      "gloss": "我的*话语*"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישנו",
-      "english": "他们重复"
+      "gloss": "他们重复"
     },
     {
       "surface": "ועלימו",
-      "english": "⟨而⟩在他们身上"
+      "gloss": "⟨而⟩在他们身上"
     },
     {
       "surface": "תטף",
-      "english": "滴下"
+      "gloss": "滴下"
     },
     {
       "surface": "מלתי",
-      "english": "我的话"
+      "gloss": "我的话"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:02.926001567Z",
-  "model": "glm-5.2"
+  ]
 }

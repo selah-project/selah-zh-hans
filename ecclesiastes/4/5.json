@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ecclesiastes 4:5",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19006,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19377
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:20:05.266741868Z",
   "translation": "愚昧人抱拢⟨他的⟩双手，⟨את⟩⟨并⟩吞噬⟨את⟩自己的肉体。",
   "tokens": [
     {
       "surface": "הכסיל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "חבק",
-      "english": "抱拢"
+      "gloss": "抱拢"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "双手"
     },
     {
       "surface": "ידיו",
-      "english": "双手"
+      "gloss": "双手"
     },
     {
       "surface": "ואכל",
-      "english": "⟨并⟩吞噬"
+      "gloss": "⟨并⟩吞噬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "自己的肉体"
     },
     {
       "surface": "בשרו",
-      "english": "自己的肉体"
+      "gloss": "自己的肉体"
     }
-  ],
-  "timestamp": "2026-07-18T01:20:05.266741868Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 22:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54355,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54684
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:50.615327379Z",
   "translation": "富足人管辖穷人,借债人⟨是⟩向贷款人的仆人。",
   "tokens": [
     {
       "surface": "עשיר",
-      "english": "富足人"
+      "gloss": "富足人"
     },
     {
       "surface": "ברשים",
-      "english": "穷人"
+      "gloss": "穷人"
     },
     {
       "surface": "ימשול",
-      "english": "管辖"
+      "gloss": "管辖"
     },
     {
       "surface": "ועבד",
-      "english": "而仆人"
+      "gloss": "而仆人"
     },
     {
       "surface": "לוה",
-      "english": "借债人"
+      "gloss": "借债人"
     },
     {
       "surface": "לאיש",
-      "english": "向……的人"
+      "gloss": "向……的人"
     },
     {
       "surface": "מלוה",
-      "english": "贷款"
+      "gloss": "贷款"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:50.615327379Z",
-  "model": "glm-5.2"
+  ]
 }

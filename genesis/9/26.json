@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 26,
   "ref": "genesis 9:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 308,
-    "prompt_tokens": 23060,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23368
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:55.152591856Z",
   "translation": "他说:雅威——闪的以罗欣——是当受颂赞的;愿迦南做他的仆人。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "ברוך",
-      "english": "是当受颂赞的"
+      "gloss": "是当受颂赞的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "——闪的以罗欣——"
+      "gloss": "——闪的以罗欣——"
     },
     {
       "surface": "שם",
-      "english": "闪"
+      "gloss": "闪"
     },
     {
       "surface": "ויהי",
-      "english": "愿"
+      "gloss": "愿"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     },
     {
       "surface": "עבד",
-      "english": "做他的仆人"
+      "gloss": "做他的仆人"
     },
     {
       "surface": "למו",
-      "english": "他的"
+      "gloss": "他的"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:55.152591856Z",
-  "model": "glm-4.5"
+  ]
 }

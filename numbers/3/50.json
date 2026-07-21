@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "numbers 3:50",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20230,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20649
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:22.922374848Z",
   "translation": "从以色列子的长子⟨那里⟩取了⟨他⟩⟨את⟩那银子：五又六十又三百，并在千，按圣所的舍客勒；",
   "tokens": [
     {
       "surface": "מאת",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "בכור",
-      "english": "长子"
+      "gloss": "长子"
     },
     {
       "surface": "בני",
-      "english": "子的"
+      "gloss": "子的"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那银子"
     },
     {
       "surface": "הכסף",
-      "english": "那银子"
+      "gloss": "那银子"
     },
     {
       "surface": "חמשה",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "וששים",
-      "english": "又六十"
+      "gloss": "又六十"
     },
     {
       "surface": "ושלש",
-      "english": "又三百"
+      "gloss": "又三百"
     },
     {
       "surface": "מאות",
-      "english": "并在"
+      "gloss": "并在"
     },
     {
       "surface": "ואלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "בשקל",
-      "english": "按舍客勒"
+      "gloss": "按舍客勒"
     },
     {
       "surface": "הקדש",
-      "english": "圣所的"
+      "gloss": "圣所的"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:22.922374848Z",
-  "model": "glm-5.2"
+  ]
 }

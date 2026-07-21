@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 115:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64421,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64730
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:59.576720286Z",
   "translation": "死人不能赞美 雅，下到沉默中的人也不能；",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "המתים",
-      "english": "死人"
+      "gloss": "死人"
     },
     {
       "surface": "יהללו",
-      "english": "赞美"
+      "gloss": "赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "ולא",
-      "english": "也不能"
+      "gloss": "也不能"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ירדי",
-      "english": "下到……中的人"
+      "gloss": "下到……中的人"
     },
     {
       "surface": "דומה",
-      "english": "沉默"
+      "gloss": "沉默"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:59.576720286Z",
-  "model": "glm-5.2"
+  ]
 }

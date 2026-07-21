@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-kings 5:16",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63662,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63906
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:17.281927464Z",
   "translation": "所罗门派遣⟨人⟩去见希兰,说:",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "派遣"
+      "gloss": "派遣"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "אל",
-      "english": "去见"
+      "gloss": "去见"
     },
     {
       "surface": "חירם",
-      "english": "希兰"
+      "gloss": "希兰"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:17.281927464Z",
-  "model": "glm-5.2"
+  ]
 }

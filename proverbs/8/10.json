@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 8:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54320,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54809
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:17.176952650Z",
   "translation": "你们当领受我的管教,而非银子;⟨以及⟩知识⟨当领受⟩而非精炼的黄金。",
   "tokens": [
     {
       "surface": "קחו",
-      "english": "你们当领受"
+      "gloss": "你们当领受"
     },
     {
       "surface": "מוסרי",
-      "english": "我的管教"
+      "gloss": "我的管教"
     },
     {
       "surface": "ואל",
-      "english": "而非"
+      "gloss": "而非"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "ודעת",
-      "english": "⟨以及⟩知识"
+      "gloss": "⟨以及⟩知识"
     },
     {
       "surface": "מחרוץ",
-      "english": "精炼的黄金"
+      "gloss": "精炼的黄金"
     },
     {
       "surface": "נבחר",
-      "english": "而非选择(之金)"
+      "gloss": "而非选择(之金)"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:17.176952650Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 10:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17737,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18014
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:56:22.690701820Z",
   "translation": "那五个王逃跑,藏身在玛基大的 ⟨一个⟩ 洞穴里。",
   "tokens": [
     {
       "surface": "וינסו",
-      "english": "逃跑"
+      "gloss": "逃跑"
     },
     {
       "surface": "חמשת",
-      "english": "那五个"
+      "gloss": "那五个"
     },
     {
       "surface": "המלכים",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "ויחבאו",
-      "english": "藏身"
+      "gloss": "藏身"
     },
     {
       "surface": "במערה",
-      "english": "在洞穴里"
+      "gloss": "在洞穴里"
     },
     {
       "surface": "במקדה",
-      "english": "在玛基大"
+      "gloss": "在玛基大"
     }
-  ],
-  "timestamp": "2026-07-17T19:56:22.690701820Z",
-  "model": "glm-5.2"
+  ]
 }

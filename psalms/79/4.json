@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 79:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64408,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64721
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:28.090588172Z",
   "translation": "我们成为⟨我们⟩邻舍的羞辱，成为周围⟨我们⟩之人的嘲笑和讥诮。",
   "tokens": [
     {
       "surface": "היינו",
-      "english": "我们成为"
+      "gloss": "我们成为"
     },
     {
       "surface": "חרפה",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "לשכנינו",
-      "english": "给⟨我们⟩的邻舍"
+      "gloss": "给⟨我们⟩的邻舍"
     },
     {
       "surface": "לעג",
-      "english": "嘲笑"
+      "gloss": "嘲笑"
     },
     {
       "surface": "וקלס",
-      "english": "和讥诮"
+      "gloss": "和讥诮"
     },
     {
       "surface": "לסביבותינו",
-      "english": "给周围⟨我们⟩的人"
+      "gloss": "给周围⟨我们⟩的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:28.090588172Z",
-  "model": "glm-5.2"
+  ]
 }

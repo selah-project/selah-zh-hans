@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "lamentations 3:26",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33390,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33704
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:54.491024126Z",
   "translation": "美好⟨的是⟩，等候并静默，为了雅威的拯救。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "美好"
+      "gloss": "美好"
     },
     {
       "surface": "ויחיל",
-      "english": "并等候"
+      "gloss": "并等候"
     },
     {
       "surface": "ודומם",
-      "english": "并静默"
+      "gloss": "并静默"
     },
     {
       "surface": "לתשועת",
-      "english": "为了……的拯救"
+      "gloss": "为了……的拯救"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:54.491024126Z",
-  "model": "glm-5.2"
+  ]
 }

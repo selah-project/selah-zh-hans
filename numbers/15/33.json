@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "numbers 15:33",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20130,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20640
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:54.413651734Z",
   "translation": "找到他捡柴的人把他带到摩西、亚伦和全会众那里,因为⟨他⟩⟨את⟩捡柴。",
   "tokens": [
     {
       "surface": "ויקריבו",
-      "english": "他们把他带到"
+      "gloss": "他们把他带到"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ 他",
+      "gloss": "⟨את⟩ 他",
       "marks": "找到他的人"
     },
     {
       "surface": "המצאים",
-      "english": "找到⟨他⟩的人"
+      "gloss": "找到⟨他⟩的人"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ 他",
+      "gloss": "⟨את⟩ 他",
       "marks": "捡柴"
     },
     {
       "surface": "מקשש",
-      "english": "捡"
+      "gloss": "捡"
     },
     {
       "surface": "עצים",
-      "english": "柴"
+      "gloss": "柴"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואל",
-      "english": "和到……那里"
+      "gloss": "和到……那里"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ואל",
-      "english": "和到……那里"
+      "gloss": "和到……那里"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "העדה",
-      "english": "会众"
+      "gloss": "会众"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:54.413651734Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 132,
   "ref": "psalms 119:132",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 487,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64316,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64803
-  },
+  "verse": 132,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:18.472922842Z",
   "translation": "求你转向⟨我⟩，并恩待⟨我⟩；按爱你名之人的⟨惯例⟩⟨待他们⟩。",
   "tokens": [
     {
       "surface": "פנה",
-      "english": "求你转向"
+      "gloss": "求你转向"
     },
     {
       "surface": "אלי",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     },
     {
       "surface": "וחנני",
-      "english": "并恩待⟨我⟩"
+      "gloss": "并恩待⟨我⟩"
     },
     {
       "surface": "כמשפט",
-      "english": "按……⟨惯例⟩"
+      "gloss": "按……⟨惯例⟩"
     },
     {
       "surface": "לאהבי",
-      "english": "爱……之人的"
+      "gloss": "爱……之人的"
     },
     {
       "surface": "שמך",
-      "english": "你名"
+      "gloss": "你名"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:18.472922842Z",
-  "model": "glm-5.2"
+  ]
 }

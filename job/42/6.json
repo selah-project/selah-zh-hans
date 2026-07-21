@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 42:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21555,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22039
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:10.578674336Z",
   "translation": "因此 ⟨我⟩ 厌恶 ⟨自己⟩，并在尘土与灰烬中 ⟨获得⟩ 安慰。”",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "在……之上 \/ ⟨因此⟩"
+      "gloss": "在……之上 \/ ⟨因此⟩"
     },
     {
       "surface": "כֵּן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "אֶמְאַס",
-      "english": "⟨我⟩ 厌恶"
+      "gloss": "⟨我⟩ 厌恶"
     },
     {
       "surface": "וְ\/נִחַמְתִּי",
-      "english": "并 ⟨我⟩ 获得\/安慰"
+      "gloss": "并 ⟨我⟩ 获得\/安慰"
     },
     {
       "surface": "עַל",
-      "english": "在……之上 \/ 在……中"
+      "gloss": "在……之上 \/ 在……中"
     },
     {
       "surface": "עָפָר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "וָ\/אֵֽפֶר",
-      "english": "与灰烬"
+      "gloss": "与灰烬"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:10.578674336Z",
-  "model": "glm-5.2"
+  ]
 }

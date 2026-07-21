@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 33:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21066,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21644
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:58.730905748Z",
   "translation": "大道荒凉,行路的人止息;⟨他⟩违背了布瑞特(约),藐视城市,不把人放在眼中。",
   "tokens": [
     {
       "surface": "נשמו",
-      "english": "荒凉"
+      "gloss": "荒凉"
     },
     {
       "surface": "מסלות",
-      "english": "大道"
+      "gloss": "大道"
     },
     {
       "surface": "שבת",
-      "english": "止息"
+      "gloss": "止息"
     },
     {
       "surface": "עבר",
-      "english": "行路的人"
+      "gloss": "行路的人"
     },
     {
       "surface": "ארח",
-      "english": "路径"
+      "gloss": "路径"
     },
     {
       "surface": "הפר",
-      "english": "违背了"
+      "gloss": "违背了"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特(约)"
+      "gloss": "布瑞特(约)"
     },
     {
       "surface": "מאס",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "ערים",
-      "english": "城市"
+      "gloss": "城市"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "חשב",
-      "english": "把……放在眼中"
+      "gloss": "把……放在眼中"
     },
     {
       "surface": "אנוש",
-      "english": "人"
+      "gloss": "人"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:58.730905748Z",
-  "model": "glm-5.2"
+  ]
 }

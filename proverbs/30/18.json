@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "proverbs 30:18",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54441,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54907
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:49.633810595Z",
   "translation": "三件事⟨是⟩它们向我隐藏了，至于第四件事，我⟨就⟩不认识它们；",
   "tokens": [
     {
       "surface": "שְׁלֹשָׁ֣ה",
-      "english": "三件事"
+      "gloss": "三件事"
     },
     {
       "surface": "הֵ֭מָּה",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "נִפְלְא֣וּ",
-      "english": "向我隐藏了"
+      "gloss": "向我隐藏了"
     },
     {
       "surface": "מִמֶּ֑נִּי",
-      "english": "至于我（从我）"
+      "gloss": "至于我（从我）"
     },
     {
       "surface": "וְ\/אַרְבַּע",
-      "english": "至于第四件事"
+      "gloss": "至于第四件事"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יָדַעְתִּֽי\/ם",
-      "english": "我认识它们"
+      "gloss": "我认识它们"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:49.633810595Z",
-  "model": "glm-5.2"
+  ]
 }

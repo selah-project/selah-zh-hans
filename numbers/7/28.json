@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "numbers 7:28",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 217,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19221,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19438
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:10.542227636Z",
   "translation": "一只公山羊作为*khatát*（赎*罪祭*）。",
   "tokens": [
     {
       "surface": "שעיר",
-      "english": "公山羊"
+      "gloss": "公山羊"
     },
     {
       "surface": "עזים",
-      "english": "山羊"
+      "gloss": "山羊"
     },
     {
       "surface": "אחד",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "לחטאת",
-      "english": "作为*khatát*（赎*罪祭*）"
+      "gloss": "作为*khatát*（赎*罪祭*）"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:10.542227636Z",
-  "model": "glm-5.2"
+  ]
 }

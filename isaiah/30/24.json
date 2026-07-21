@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 30:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21001,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21496
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:48:03.889213330Z",
   "translation": "牛和驴，就是耕作那土地的，将吃混合了盐的饲料，那是用铲子和用扬谷叉扬净的。",
   "tokens": [
     {
       "surface": "והאלפים",
-      "english": "和牛"
+      "gloss": "和牛"
     },
     {
       "surface": "והעירים",
-      "english": "和驴"
+      "gloss": "和驴"
     },
     {
       "surface": "עבדי",
-      "english": "耕作的"
+      "gloss": "耕作的"
     },
     {
       "surface": "האדמה",
-      "english": "那土地"
+      "gloss": "那土地"
     },
     {
       "surface": "בליל",
-      "english": "混合了"
+      "gloss": "混合了"
     },
     {
       "surface": "חמיץ",
-      "english": "盐的饲料"
+      "gloss": "盐的饲料"
     },
     {
       "surface": "יאכלו",
-      "english": "将吃"
+      "gloss": "将吃"
     },
     {
       "surface": "אשר",
-      "english": "那是"
+      "gloss": "那是"
     },
     {
       "surface": "זרה",
-      "english": "扬净"
+      "gloss": "扬净"
     },
     {
       "surface": "ברחת",
-      "english": "用铲子"
+      "gloss": "用铲子"
     },
     {
       "surface": "ובמזרה",
-      "english": "和用扬谷叉"
+      "gloss": "和用扬谷叉"
     }
-  ],
-  "timestamp": "2026-07-17T21:48:03.889213330Z",
-  "model": "glm-5.2"
+  ]
 }

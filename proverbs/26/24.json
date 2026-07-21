@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 26:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54296,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54618
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:45.763613615Z",
   "translation": "恨恶者用他的嘴唇掩饰自己，⟨而⟩在他的内心放置诡诈；",
   "tokens": [
     {
       "surface": "בשפתו",
-      "english": "用他的嘴唇"
+      "gloss": "用他的嘴唇"
     },
     {
       "surface": "ינכר",
-      "english": "掩饰自己"
+      "gloss": "掩饰自己"
     },
     {
       "surface": "שונא",
-      "english": "恨恶者"
+      "gloss": "恨恶者"
     },
     {
       "surface": "ובקרבו",
-      "english": "⟨而⟩在他的内心"
+      "gloss": "⟨而⟩在他的内心"
     },
     {
       "surface": "ישית",
-      "english": "放置"
+      "gloss": "放置"
     },
     {
       "surface": "מרמה",
-      "english": "诡诈"
+      "gloss": "诡诈"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:45.763613615Z",
-  "model": "glm-5.2"
+  ]
 }

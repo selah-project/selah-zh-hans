@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 46,
   "ref": "leviticus 14:46",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19288,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19638
-  },
+  "verse": 46,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:49:54.952122027Z",
   "translation": "凡在它被关闭的所有日子里进入那房屋的人,⟨他⟩必不洁净,直到晚上。",
   "tokens": [
     {
       "surface": "והבא",
-      "english": "凡……进入"
+      "gloss": "凡……进入"
     },
     {
       "surface": "אל",
-      "english": "⟨进入⟩"
+      "gloss": "⟨进入⟩"
     },
     {
       "surface": "הבית",
-      "english": "那房屋"
+      "gloss": "那房屋"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ימי",
-      "english": "……的日子里"
+      "gloss": "……的日子里"
     },
     {
       "surface": "הסגיר",
-      "english": "它被关闭"
+      "gloss": "它被关闭"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     },
     {
       "surface": "יטמא",
-      "english": "⟨他⟩必不洁净"
+      "gloss": "⟨他⟩必不洁净"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "晚上"
+      "gloss": "晚上"
     }
-  ],
-  "timestamp": "2026-07-17T18:49:54.952122027Z",
-  "model": "glm-5.2"
+  ]
 }

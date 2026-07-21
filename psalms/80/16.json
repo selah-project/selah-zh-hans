@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 80:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64540,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64931
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:54.267282252Z",
   "translation": "⟨那⟩你所栽种的葡萄树，就是你右手所栽植的；⟨以及⟩你为自己所坚固的人子。",
   "tokens": [
     {
       "surface": "וְ֭\/כַנָּה",
-      "english": "⟨以及⟩葡萄树"
+      "gloss": "⟨以及⟩葡萄树"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נָטעָ֣ה",
-      "english": "你栽种了"
+      "gloss": "你栽种了"
     },
     {
       "surface": "יְמִינֶ֑\/ךָ",
-      "english": "你的右手"
+      "gloss": "你的右手"
     },
     {
       "surface": "וְ\/עַל",
-      "english": "和⟨在⟩之上"
+      "gloss": "和⟨在⟩之上"
     },
     {
       "surface": "בֵּן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אִמַּ֥צְתָּה",
-      "english": "你使坚固"
+      "gloss": "你使坚固"
     },
     {
       "surface": "לָּֽ\/ךְ",
-      "english": "为你自己"
+      "gloss": "为你自己"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:54.267282252Z",
-  "model": "glm-5.2"
+  ]
 }

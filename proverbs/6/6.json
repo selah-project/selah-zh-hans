@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "proverbs 6:6",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54370,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54697
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:14.558826091Z",
   "translation": "懒惰人啊,你去蚂蚁那里,观看它的道路,要成为智慧人;",
   "tokens": [
     {
       "surface": "לך",
-      "english": "你去"
+      "gloss": "你去"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "נמלה",
-      "english": "蚂蚁"
+      "gloss": "蚂蚁"
     },
     {
       "surface": "עצל",
-      "english": "懒惰人啊"
+      "gloss": "懒惰人啊"
     },
     {
       "surface": "ראה",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "דרכיה",
-      "english": "它的道路"
+      "gloss": "它的道路"
     },
     {
       "surface": "וחכם",
-      "english": "要成为智慧人"
+      "gloss": "要成为智慧人"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:14.558826091Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 32:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64676,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65046
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:31.715076956Z",
   "translation": "你⟨是⟩我的隐密处，从困苦中你保护我，逃脱的欢呼你环绕我。细拉。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "סתר",
-      "english": "隐密处"
+      "gloss": "隐密处"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "מצר",
-      "english": "从困苦中"
+      "gloss": "从困苦中"
     },
     {
       "surface": "תצרני",
-      "english": "你保护我"
+      "gloss": "你保护我"
     },
     {
       "surface": "רני",
-      "english": "欢呼"
+      "gloss": "欢呼"
     },
     {
       "surface": "פלט",
-      "english": "逃脱的"
+      "gloss": "逃脱的"
     },
     {
       "surface": "תסובבני",
-      "english": "你环绕我"
+      "gloss": "你环绕我"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:31.715076956Z",
-  "model": "glm-5.2"
+  ]
 }

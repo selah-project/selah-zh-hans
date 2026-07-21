@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "psalms 89:33",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64275,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64717
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:18.434807935Z",
   "translation": "而我要用杖查访他们的背叛，用击打⟨查访⟩他们的罪孽。",
   "tokens": [
     {
       "surface": "ופקדתי",
-      "english": "而我要查访"
+      "gloss": "而我要查访"
     },
     {
       "surface": "בשבט",
-      "english": "用杖"
+      "gloss": "用杖"
     },
     {
       "surface": "פשעם",
-      "english": "他们的背叛"
+      "gloss": "他们的背叛"
     },
     {
       "surface": "ובנגעים",
-      "english": "用击打"
+      "gloss": "用击打"
     },
     {
       "surface": "עונם",
-      "english": "⟨查访⟩他们的罪孽"
+      "gloss": "⟨查访⟩他们的罪孽"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:18.434807935Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 32:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23070,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23507
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:54:43.484973677Z",
   "translation": "雅各⟨被⟩独自留下，有一个人与他摔跤，直到黎明⟨到来⟩。",
   "tokens": [
     {
       "surface": "ויותר",
-      "english": "⟨被⟩……留下"
+      "gloss": "⟨被⟩……留下"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "לבדו",
-      "english": "独自"
+      "gloss": "独自"
     },
     {
       "surface": "ויאבק",
-      "english": "摔跤"
+      "gloss": "摔跤"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "עמו",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עלות",
-      "english": "到来"
+      "gloss": "到来"
     },
     {
       "surface": "השחר",
-      "english": "黎明"
+      "gloss": "黎明"
     }
-  ],
-  "timestamp": "2026-07-17T17:54:43.484973677Z",
-  "model": "glm-5.2"
+  ]
 }

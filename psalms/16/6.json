@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 16:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64538,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65116
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:39.224714830Z",
   "translation": "绳量地界落给了我，在⟨那⟩悦人之处；诚然，⟨这⟩产业华美地在我之上。",
   "tokens": [
     {
       "surface": "חֲבָלִ֣ים",
-      "english": "绳量地界"
+      "gloss": "绳量地界"
     },
     {
       "surface": "נָֽפְלוּ",
-      "english": "落给了我"
+      "gloss": "落给了我"
     },
     {
       "surface": "לִ֭\/י",
-      "english": "给我"
+      "gloss": "给我"
     },
     {
       "surface": "בַּ\/נְּעִמִ֑ים",
-      "english": "在⟨那⟩悦人之处"
+      "gloss": "在⟨那⟩悦人之处"
     },
     {
       "surface": "אַף",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "נַ֝חֲלָ֗ת",
-      "english": "⟨这⟩产业"
+      "gloss": "⟨这⟩产业"
     },
     {
       "surface": "שָֽׁפְרָ֥ה",
-      "english": "华美地"
+      "gloss": "华美地"
     },
     {
       "surface": "עָלָֽ\/י",
-      "english": "在我之上"
+      "gloss": "在我之上"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:39.224714830Z",
-  "model": "glm-5.2"
+  ]
 }

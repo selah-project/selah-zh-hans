@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "exodus 12:9",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19134,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19634
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:29.416032331Z",
   "translation": "你们不可吃它生的，也不可用水煮使之⟨被⟩煮熟，而要火烤：⟨连⟩它的头，⟨连⟩它的腿，以及它的内脏。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "你们吃"
+      "gloss": "你们吃"
     },
     {
       "surface": "ממנו",
-      "english": "⟨从⟩它"
+      "gloss": "⟨从⟩它"
     },
     {
       "surface": "נא",
-      "english": "生的"
+      "gloss": "生的"
     },
     {
       "surface": "ובשל",
-      "english": "和煮"
+      "gloss": "和煮"
     },
     {
       "surface": "מבשל",
-      "english": "使之煮熟"
+      "gloss": "使之煮熟"
     },
     {
       "surface": "במים",
-      "english": "用水"
+      "gloss": "用水"
     },
     {
       "surface": "כי",
-      "english": "而"
+      "gloss": "而"
     },
     {
       "surface": "אם",
-      "english": "要"
+      "gloss": "要"
     },
     {
       "surface": "צלי",
-      "english": "火烤"
+      "gloss": "火烤"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "ראשו",
-      "english": "它的头"
+      "gloss": "它的头"
     },
     {
       "surface": "על",
-      "english": "⟨连⟩"
+      "gloss": "⟨连⟩"
     },
     {
       "surface": "כרעיו",
-      "english": "它的腿"
+      "gloss": "它的腿"
     },
     {
       "surface": "ועל",
-      "english": "以及"
+      "gloss": "以及"
     },
     {
       "surface": "קרבו",
-      "english": "它的内脏"
+      "gloss": "它的内脏"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:29.416032331Z",
-  "model": "glm-5.2"
+  ]
 }

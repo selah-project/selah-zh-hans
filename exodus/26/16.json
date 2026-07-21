@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "exodus 26:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 343,
-    "prompt_tokens": 18554,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18897
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:52.445520631Z",
   "translation": "十肘 ⟨是⟩ 板的长度,一肘又半肘 ⟨是⟩ 那一个板的宽度",
   "tokens": [
     {
       "surface": "עשר",
-      "english": "十肘"
+      "gloss": "十肘"
     },
     {
       "surface": "אמות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ארך",
-      "english": "板的长度"
+      "gloss": "板的长度"
     },
     {
       "surface": "הקרש",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ואמה",
-      "english": "一肘又半肘"
+      "gloss": "一肘又半肘"
     },
     {
       "surface": "וחצי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "האמה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "רחב",
-      "english": "那一个板的宽度"
+      "gloss": "那一个板的宽度"
     },
     {
       "surface": "הקרש",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "האחד",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:22:52.445520631Z",
-  "model": "glm-4.5"
+  ]
 }

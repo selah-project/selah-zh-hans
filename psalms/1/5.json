@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 1:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64618,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65078
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:41.841402040Z",
   "translation": "因此恶人必不在审判中⟨站⟩起，罪人⟨也⟩不在义人的会中。",
   "tokens": [
     {
       "surface": "על",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "english": "（承上连词)"
+      "gloss": "（承上连词)"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יקמו",
-      "english": "⟨站⟩起"
+      "gloss": "⟨站⟩起"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "במשפט",
-      "english": "在审判中"
+      "gloss": "在审判中"
     },
     {
       "surface": "וחטאים",
-      "english": "罪人⟨也⟩"
+      "gloss": "罪人⟨也⟩"
     },
     {
       "surface": "בעדת",
-      "english": "在……的会中"
+      "gloss": "在……的会中"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:41.841402040Z",
-  "model": "glm-5.2"
+  ]
 }

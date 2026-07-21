@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-samuel 22:1",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 639,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19615,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 20254
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:42.229962891Z",
   "translation": "大卫向雅威诵说 ⟨את⟩ 这首歌的 *davar*（话语），在雅威拯救⟨他⟩脱离一切仇敌之手和扫罗之手的那日。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "诵说"
+      "gloss": "诵说"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这首歌的 davar（话语）"
     },
     {
       "surface": "דברי",
-      "english": "的 *davar*（话语）"
+      "gloss": "的 *davar*（话语）"
     },
     {
       "surface": "השירה",
-      "english": "这首歌"
+      "gloss": "这首歌"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ביום",
-      "english": "在那日"
+      "gloss": "在那日"
     },
     {
       "surface": "הציל",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אתו",
-      "english": "⟨他⟩",
+      "gloss": "⟨他⟩",
       "marks": "大卫"
     },
     {
       "surface": "מכף",
-      "english": "脱离……之手"
+      "gloss": "脱离……之手"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "איביו",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "ומכף",
-      "english": "和……之手"
+      "gloss": "和……之手"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:42.229962891Z",
-  "model": "glm-5.2"
+  ]
 }

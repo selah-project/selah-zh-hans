@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-samuel 18:7",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18183,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18662
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:32:09.535173461Z",
   "translation": "那些欢乐的妇女们彼此呼应,唱道:\"扫罗击杀了千千,大卫击杀了万万。\"",
   "tokens": [
     {
       "surface": "ותענינה",
-      "english": "彼此呼应"
+      "gloss": "彼此呼应"
     },
     {
       "surface": "הנשים",
-      "english": "妇女们"
+      "gloss": "妇女们"
     },
     {
       "surface": "המשחקות",
-      "english": "欢乐的"
+      "gloss": "欢乐的"
     },
     {
       "surface": "ותאמרן",
-      "english": "唱道"
+      "gloss": "唱道"
     },
     {
       "surface": "הכה",
-      "english": "击杀了"
+      "gloss": "击杀了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "באלפו",
-      "english": "千千"
+      "gloss": "千千"
     },
     {
       "surface": "ודוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "ברבבתיו",
-      "english": "万万"
+      "gloss": "万万"
     }
-  ],
-  "timestamp": "2026-07-17T20:32:09.535173461Z",
-  "model": "glm-5.2"
+  ]
 }

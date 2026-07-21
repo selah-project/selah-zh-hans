@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 104:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64336,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64707
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:46.079666951Z",
   "translation": "人出去往他的工作,和往他的劳碌,⟨直⟩到傍晚。",
   "tokens": [
     {
       "surface": "יֵצֵא",
-      "english": "出去"
+      "gloss": "出去"
     },
     {
       "surface": "אָדָם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "לְ\/פָעֳל\/וֹ",
-      "english": "往他的工作"
+      "gloss": "往他的工作"
     },
     {
       "surface": "וְ\/לַ\/עֲבֹדָת\/וֹ",
-      "english": "和往他的劳碌"
+      "gloss": "和往他的劳碌"
     },
     {
       "surface": "עֲדֵי",
-      "english": "⟨直⟩到"
+      "gloss": "⟨直⟩到"
     },
     {
       "surface": "עָרֶב",
-      "english": "傍晚"
+      "gloss": "傍晚"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:46.079666951Z",
-  "model": "glm-5.2"
+  ]
 }

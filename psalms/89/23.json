@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 89:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64381,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64785
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:50.327433457Z",
   "translation": "仇敌必不向他索取⟨债务⟩,不义之子也不⟨会⟩压迫他。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יַשִּׁ֣א",
-      "english": "索取⟨债务⟩"
+      "gloss": "索取⟨债务⟩"
     },
     {
       "surface": "אוֹיֵ֣ב",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "בּ֑\/וֹ",
-      "english": "在他身上"
+      "gloss": "在他身上"
     },
     {
       "surface": "וּ\/בֶן",
-      "english": "至于……之子"
+      "gloss": "至于……之子"
     },
     {
       "surface": "עַ֝וְלָ֗ה",
-      "english": "不义"
+      "gloss": "不义"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְעַנֶּֽ\/נּוּ",
-      "english": "压迫他"
+      "gloss": "压迫他"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:50.327433457Z",
-  "model": "glm-5.2"
+  ]
 }

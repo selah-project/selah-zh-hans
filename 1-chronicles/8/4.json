@@ -1,33 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "1-chronicles 8:4",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 170,
-    "prompt_tokens": 58176,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58346
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:26:47.686473134Z",
   "translation": "亚比书亚, 拿幔, 亚何辖.",
   "tokens": [
     {
       "surface": "ואבישוע",
-      "english": "亚比书亚"
+      "gloss": "亚比书亚"
     },
     {
       "surface": "ונעמן",
-      "english": "拿幔"
+      "gloss": "拿幔"
     },
     {
       "surface": "ואחוח",
-      "english": "亚何辖"
+      "gloss": "亚何辖"
     }
-  ],
-  "timestamp": "2026-07-21T13:26:47.686473134Z",
-  "model": "glm-4.5"
+  ]
 }

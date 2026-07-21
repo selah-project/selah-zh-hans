@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 105:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64306,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64708
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:00.279074985Z",
   "translation": "他说话,蝗虫就来,群虫并⟨且⟩无数目。",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "他说话"
+      "gloss": "他说话"
     },
     {
       "surface": "ויבא",
-      "english": "就来"
+      "gloss": "就来"
     },
     {
       "surface": "ארבה",
-      "english": "蝗虫"
+      "gloss": "蝗虫"
     },
     {
       "surface": "וילק",
-      "english": "群虫"
+      "gloss": "群虫"
     },
     {
       "surface": "ואין",
-      "english": "并⟨且⟩无"
+      "gloss": "并⟨且⟩无"
     },
     {
       "surface": "מספר",
-      "english": "数目"
+      "gloss": "数目"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:00.279074985Z",
-  "model": "glm-5.2"
+  ]
 }

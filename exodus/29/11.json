@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "exodus 29:11",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18548,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19027
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:30:47.328714511Z",
   "translation": "你宰杀⟨את⟩那公牛,在雅威面前,会幕的入口处。",
   "tokens": [
     {
       "surface": "וְ\/שָׁחַטְתָּ֥",
-      "english": "你宰杀"
+      "gloss": "你宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那公牛"
     },
     {
       "surface": "הַ\/פָּ֖ר",
-      "english": "那公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "לִ\/פְנֵ֣י",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "פֶּ֖תַח",
-      "english": "入口处"
+      "gloss": "入口处"
     },
     {
       "surface": "אֹ֥הֶל",
-      "english": "会幕（的）"
+      "gloss": "会幕（的）"
     },
     {
       "surface": "מוֹעֵֽד",
-      "english": "会幕（指定聚会的帐篷）"
+      "gloss": "会幕（指定聚会的帐篷）"
     }
-  ],
-  "timestamp": "2026-07-17T18:30:47.328714511Z",
-  "model": "glm-5.2"
+  ]
 }

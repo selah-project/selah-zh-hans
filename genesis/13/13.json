@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "genesis 13:13",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22720,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23043
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:25.766560336Z",
   "translation": "而所多玛的人在雅威面前 ⟨是⟩ 恶人 ⟨和⟩ 罪人,极 ⟨甚⟩。",
   "tokens": [
     {
       "surface": "ואנשי",
-      "english": "而……的人"
+      "gloss": "而……的人"
     },
     {
       "surface": "סדם",
-      "english": "所多玛"
+      "gloss": "所多玛"
     },
     {
       "surface": "רעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "וחטאים",
-      "english": "⟨和⟩ 罪人"
+      "gloss": "⟨和⟩ 罪人"
     },
     {
       "surface": "ליהוה",
-      "english": "在雅威面前"
+      "gloss": "在雅威面前"
     },
     {
       "surface": "מאד",
-      "english": "极 ⟨甚⟩"
+      "gloss": "极 ⟨甚⟩"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:25.766560336Z",
-  "model": "glm-5.2"
+  ]
 }

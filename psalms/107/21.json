@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "psalms 107:21",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64340,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64615
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:21.558656319Z",
   "translation": "愿他们向雅威称谢他的慈爱，向世人⟨称颂⟩他的奇妙作为。",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "愿他们称谢"
+      "gloss": "愿他们称谢"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "חסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "和他的奇妙作为"
+      "gloss": "和他的奇妙作为"
     },
     {
       "surface": "לבני",
-      "english": "向……的儿子们"
+      "gloss": "向……的儿子们"
     },
     {
       "surface": "אדם",
-      "english": "亚当（人类）"
+      "gloss": "亚当（人类）"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:21.558656319Z",
-  "model": "glm-5.2"
+  ]
 }

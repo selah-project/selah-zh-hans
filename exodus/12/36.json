@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "exodus 12:36",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 672,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18944,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19616
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:04.344394556Z",
   "translation": "雅威赐 ⟨את⟩ 恩给 ⟨ה⟩ 百姓在埃及人眼前;他们就请求他们 ⟨object⟩,他们就掠取了 ⟨את⟩ 埃及。",
   "tokens": [
     {
       "surface": "וֽ\/יהוָ֞ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נָתַ֨ן",
-      "english": "赐"
+      "gloss": "赐"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "恩"
     },
     {
       "surface": "חֵ֥ן",
-      "english": "恩"
+      "gloss": "恩"
     },
     {
       "surface": "הָ\/עָ֛ם",
-      "english": "⟨ה⟩ 百姓"
+      "gloss": "⟨ה⟩ 百姓"
     },
     {
       "surface": "בְּ\/עֵינֵ֥י",
-      "english": "在……眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "מִצְרַ֖יִם",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "וַ\/יַּשְׁאִל֑וּ\/ם",
-      "english": "他们就请求他们"
+      "gloss": "他们就请求他们"
     },
     {
       "surface": "וַֽ\/יְנַצְּל֖וּ",
-      "english": "他们就掠取了"
+      "gloss": "他们就掠取了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "埃及"
     },
     {
       "surface": "מִצְרָֽיִם",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:04.344394556Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 6:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54396,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54815
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:21.117524417Z",
   "translation": "不可在她的美丽上渴慕⟨于⟩你的心，也 negative-charge 不可让她用她的眼睫毛将你捕获。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תחמד",
-      "english": "渴慕"
+      "gloss": "渴慕"
     },
     {
       "surface": "יפיה",
-      "english": "她的美丽"
+      "gloss": "她的美丽"
     },
     {
       "surface": "בלבבך",
-      "english": "于你的心"
+      "gloss": "于你的心"
     },
     {
       "surface": "ואל",
-      "english": "也 不可"
+      "gloss": "也 不可"
     },
     {
       "surface": "תקחך",
-      "english": "让她将你捕获"
+      "gloss": "让她将你捕获"
     },
     {
       "surface": "בעפעפיה",
-      "english": "用她的眼睫毛"
+      "gloss": "用她的眼睫毛"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:21.117524417Z",
-  "model": "glm-5.2"
+  ]
 }

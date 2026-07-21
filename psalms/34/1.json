@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 34:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64691,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65131
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:30.889093968Z",
   "translation": "大卫的 ⟨את⟩ 他的理智在亚比米勒面前发生改变，他便驱逐了他，他便走了。",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "בשנותו",
-      "english": "在他改变时"
+      "gloss": "在他改变时"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的理智 (טעמו)"
     },
     {
       "surface": "טעמו",
-      "english": "他的理智"
+      "gloss": "他的理智"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "ויגרשהו",
-      "english": "他便驱逐了他"
+      "gloss": "他便驱逐了他"
     },
     {
       "surface": "וילך",
-      "english": "他便走了"
+      "gloss": "他便走了"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:30.889093968Z",
-  "model": "glm-5.2"
+  ]
 }

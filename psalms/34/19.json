@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 34:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64674,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65057
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:23.088624780Z",
   "translation": "雅威亲近心里破碎的人,⟨את⟩灵里被压碎的人他拯救。",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "亲近"
+      "gloss": "亲近"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לנשברי",
-      "english": "心里破碎的"
+      "gloss": "心里破碎的"
     },
     {
       "surface": "לב",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "灵里被压碎的人"
     },
     {
       "surface": "דכאי",
-      "english": "被压碎的"
+      "gloss": "被压碎的"
     },
     {
       "surface": "רוח",
-      "english": "灵"
+      "gloss": "灵"
     },
     {
       "surface": "יושיע",
-      "english": "他拯救"
+      "gloss": "他拯救"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:23.088624780Z",
-  "model": "glm-5.2"
+  ]
 }

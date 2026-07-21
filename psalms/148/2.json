@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 148:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64391,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64764
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:58.010199898Z",
   "translation": "你们要赞美他，他所有的使者；你们要赞美他，他全部的万军。",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "你们要赞美他"
+      "gloss": "你们要赞美他"
     },
     {
       "surface": "כל",
-      "english": "所有(的)"
+      "gloss": "所有(的)"
     },
     {
       "surface": "מלאכיו",
-      "english": "他的使者"
+      "gloss": "他的使者"
     },
     {
       "surface": "הללוהו",
-      "english": "你们要赞美他"
+      "gloss": "你们要赞美他"
     },
     {
       "surface": "כל",
-      "english": "全部(的)"
+      "gloss": "全部(的)"
     },
     {
       "surface": "צבאו",
-      "english": "他的万军"
+      "gloss": "他的万军"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:58.010199898Z",
-  "model": "glm-5.2"
+  ]
 }

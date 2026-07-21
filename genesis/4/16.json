@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 4:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23054,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23434
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:03.797181367Z",
   "translation": "该隐从雅威面前出去，⟨他⟩住在挪得地，在伊甸以东。",
   "tokens": [
     {
       "surface": "ויצא",
-      "english": "出去"
+      "gloss": "出去"
     },
     {
       "surface": "קין",
-      "english": "该隐"
+      "gloss": "该隐"
     },
     {
       "surface": "מלפני",
-      "english": "从……面前"
+      "gloss": "从……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וישב",
-      "english": "⟨他⟩住在"
+      "gloss": "⟨他⟩住在"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "נוד",
-      "english": "挪得"
+      "gloss": "挪得"
     },
     {
       "surface": "קדמת",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "עדן",
-      "english": "伊甸"
+      "gloss": "伊甸"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:03.797181367Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-kings 6:3",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18661,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19122
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:20:53.064032859Z",
   "translation": "一人说:请⟨务必⟩去⟨את⟩你的仆人们。他回答:我⟨我⟩去。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "האחד",
-      "english": "一人"
+      "gloss": "一人"
     },
     {
       "surface": "הואל",
-      "english": "请"
+      "gloss": "请"
     },
     {
       "surface": "נא",
-      "english": "⟨务必⟩"
+      "gloss": "⟨务必⟩"
     },
     {
       "surface": "ולך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的仆人们"
     },
     {
       "surface": "עבדיך",
-      "english": "你的仆人们"
+      "gloss": "你的仆人们"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩回答"
+      "gloss": "⟨他⟩回答"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אלך",
-      "english": "我⟨我⟩去"
+      "gloss": "我⟨我⟩去"
     }
-  ],
-  "timestamp": "2026-07-17T21:20:53.064032859Z",
-  "model": "glm-5.2"
+  ]
 }

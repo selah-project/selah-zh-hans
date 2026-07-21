@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "daniel 3:30",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18867,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19200
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:29:59.511640509Z",
   "translation": "那时王使沙得拉、米煞和⟨阿贝德·内戈⟩在巴比伦省亨通。",
   "tokens": [
     {
       "surface": "באדין",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "מלכא",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הצלח",
-      "english": "使……亨通"
+      "gloss": "使……亨通"
     },
     {
       "surface": "לשדרך",
-      "english": "给沙得拉"
+      "gloss": "给沙得拉"
     },
     {
       "surface": "מישך",
-      "english": "米煞"
+      "gloss": "米煞"
     },
     {
       "surface": "ועבד",
-      "english": "和阿贝德"
+      "gloss": "和阿贝德"
     },
     {
       "surface": "נגו",
-      "english": "-内戈"
+      "gloss": "-内戈"
     },
     {
       "surface": "במדינת",
-      "english": "在……省"
+      "gloss": "在……省"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     }
-  ],
-  "timestamp": "2026-07-18T01:29:59.511640509Z",
-  "model": "glm-5.2"
+  ]
 }

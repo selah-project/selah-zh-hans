@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 101:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 101,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64823,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65258
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:36.796475699Z",
   "translation": "我要留心完全的道路——你何时才⟨会⟩来到我这里？我要存完全的心行走在⟨我⟩家中。",
   "tokens": [
     {
       "surface": "אשכילה",
-      "english": "我要留心"
+      "gloss": "我要留心"
     },
     {
       "surface": "בדרך",
-      "english": "在……的道路上"
+      "gloss": "在……的道路上"
     },
     {
       "surface": "תמים",
-      "english": "完全的"
+      "gloss": "完全的"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "תבוא",
-      "english": "你来到"
+      "gloss": "你来到"
     },
     {
       "surface": "אלי",
-      "english": "到我这里"
+      "gloss": "到我这里"
     },
     {
       "surface": "אתהלך",
-      "english": "我要行走"
+      "gloss": "我要行走"
     },
     {
       "surface": "בתם",
-      "english": "在完全之中"
+      "gloss": "在完全之中"
     },
     {
       "surface": "לבבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "בקרב",
-      "english": "在……之中"
+      "gloss": "在……之中"
     },
     {
       "surface": "ביתי",
-      "english": "我的家"
+      "gloss": "我的家"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:36.796475699Z",
-  "model": "glm-5.2"
+  ]
 }

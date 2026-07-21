@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "judges 16:22",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17563,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 17955
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:16:55.436113127Z",
   "translation": "他头上的头发开始重新生长，⟨正如⟩它被剃光⟨之时⟩。",
   "tokens": [
     {
       "surface": "ויחל",
-      "english": "开始"
+      "gloss": "开始"
     },
     {
       "surface": "שער",
-      "english": "头发"
+      "gloss": "头发"
     },
     {
       "surface": "ראשו",
-      "english": "他头上的"
+      "gloss": "他头上的"
     },
     {
       "surface": "לצמח",
-      "english": "重新生长"
+      "gloss": "重新生长"
     },
     {
       "surface": "כאשר",
-      "english": "⟨正如⟩"
+      "gloss": "⟨正如⟩"
     },
     {
       "surface": "גלח",
-      "english": "它被剃光"
+      "gloss": "它被剃光"
     }
-  ],
-  "timestamp": "2026-07-17T20:16:55.436113127Z",
-  "model": "glm-5.2"
+  ]
 }

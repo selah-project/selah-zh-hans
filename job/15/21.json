@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "job 15:21",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21524,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21860
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:38.380758743Z",
   "translation": "惊恐之声⟨在⟩他耳中；⟨在⟩平安之时，毁灭者⟨将⟩临到他。",
   "tokens": [
     {
       "surface": "קול",
-      "english": "之声"
+      "gloss": "之声"
     },
     {
       "surface": "פחדים",
-      "english": "惊恐"
+      "gloss": "惊恐"
     },
     {
       "surface": "באזניו",
-      "english": "在他耳中"
+      "gloss": "在他耳中"
     },
     {
       "surface": "בשלום",
-      "english": "在平安之时"
+      "gloss": "在平安之时"
     },
     {
       "surface": "שודד",
-      "english": "毁灭者"
+      "gloss": "毁灭者"
     },
     {
       "surface": "יבואנו",
-      "english": "将临到他"
+      "gloss": "将临到他"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:38.380758743Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-kings 4:15",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18250,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18588
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:26.821587196Z",
   "translation": "他说：⟨你⟩呼叫她。他就呼叫她，她就站在门口。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "קרא",
-      "english": "⟨你⟩呼叫"
+      "gloss": "⟨你⟩呼叫"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "ויקרא",
-      "english": "他就呼叫"
+      "gloss": "他就呼叫"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "ותעמד",
-      "english": "她就站"
+      "gloss": "她就站"
     },
     {
       "surface": "בפתח",
-      "english": "在门口"
+      "gloss": "在门口"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:26.821587196Z",
-  "model": "glm-5.2"
+  ]
 }

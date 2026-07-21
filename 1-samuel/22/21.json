@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "1-samuel 22:21",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18158,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18462
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:51:06.394191751Z",
   "translation": "亚比亚他告诉大卫,说:扫罗杀了⟨את⟩雅威的祭司。",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "告诉"
+      "gloss": "告诉"
     },
     {
       "surface": "אביתר",
-      "english": "亚比亚他"
+      "gloss": "亚比亚他"
     },
     {
       "surface": "לדוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כי",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "הרג",
-      "english": "杀了"
+      "gloss": "杀了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的祭司"
     },
     {
       "surface": "כהני",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T02:51:06.394191751Z",
-  "model": "glm-5.2"
+  ]
 }

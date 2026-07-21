@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 110:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64552,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64932
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:46.171263278Z",
   "translation": "雅威必从锡安发出你大能的权杖;你要在你仇敌的中间施行管辖!",
   "tokens": [
     {
       "surface": "מטה",
-      "english": "权杖"
+      "gloss": "权杖"
     },
     {
       "surface": "עזך",
-      "english": "你大能的"
+      "gloss": "你大能的"
     },
     {
       "surface": "ישלח",
-      "english": "必发出"
+      "gloss": "必发出"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מציון",
-      "english": "从锡安"
+      "gloss": "从锡安"
     },
     {
       "surface": "רדה",
-      "english": "你要施行管辖!"
+      "gloss": "你要施行管辖!"
     },
     {
       "surface": "בקרב",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "איביך",
-      "english": "你仇敌的"
+      "gloss": "你仇敌的"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:46.171263278Z",
-  "model": "glm-5.2"
+  ]
 }

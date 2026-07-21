@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "proverbs 21:19",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54353,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 54669
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T00:55:21.513880923Z",
   "translation": "宁可住在旷野之地，也不与争吵易怒之妇人同住。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "宁可"
+      "gloss": "宁可"
     },
     {
       "surface": "שבת",
-      "english": "住"
+      "gloss": "住"
     },
     {
       "surface": "בארץ",
-      "english": "在……之地"
+      "gloss": "在……之地"
     },
     {
       "surface": "מדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "מאשת",
-      "english": "也不与……妇人"
+      "gloss": "也不与……妇人"
     },
     {
       "surface": "מדונים",
-      "english": "争吵"
+      "gloss": "争吵"
     },
     {
       "surface": "וכעס",
-      "english": "易怒的"
+      "gloss": "易怒的"
     }
-  ],
-  "timestamp": "2026-07-20T00:55:21.513880923Z",
-  "model": "glm-5.2"
+  ]
 }

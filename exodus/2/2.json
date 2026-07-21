@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 2:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18934,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19419
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:10:12.831093098Z",
   "translation": "那女人怀了孕,生了一个儿子;她看见⟨他⟩⟨את⟩,见他甚好,就把他藏了三个月。",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "怀了孕"
+      "gloss": "怀了孕"
     },
     {
       "surface": "האשה",
-      "english": "那女人"
+      "gloss": "那女人"
     },
     {
       "surface": "ותלד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "בן",
-      "english": "一个儿子"
+      "gloss": "一个儿子"
     },
     {
       "surface": "ותרא",
-      "english": "她看见"
+      "gloss": "她看见"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩他",
+      "gloss": "⟨את⟩他",
       "marks": "他"
     },
     {
       "surface": "כי",
-      "english": "见"
+      "gloss": "见"
     },
     {
       "surface": "טוב",
-      "english": "甚好"
+      "gloss": "甚好"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ותצפנהו",
-      "english": "就把他藏了"
+      "gloss": "就把他藏了"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "ירחים",
-      "english": "个月"
+      "gloss": "个月"
     }
-  ],
-  "timestamp": "2026-07-17T18:10:12.831093098Z",
-  "model": "glm-5.2"
+  ]
 }

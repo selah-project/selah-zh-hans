@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "joshua 18:2",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18263,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18670
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:01:43.645676821Z",
   "translation": "在以色列子孙中还留下 ⟨有⟩ 七个分支,他们⟨还⟩没有分赐 ⟨את⟩ 他们的产业。",
   "tokens": [
     {
       "surface": "ויותרו",
-      "english": "还留下"
+      "gloss": "还留下"
     },
     {
       "surface": "בבני",
-      "english": "在……子孙中"
+      "gloss": "在……子孙中"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "חלקו",
-      "english": "分赐"
+      "gloss": "分赐"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的产业"
     },
     {
       "surface": "נחלתם",
-      "english": "他们的产业"
+      "gloss": "他们的产业"
     },
     {
       "surface": "שבעה",
-      "english": "七个"
+      "gloss": "七个"
     },
     {
       "surface": "שבטים",
-      "english": "分支"
+      "gloss": "分支"
     }
-  ],
-  "timestamp": "2026-07-17T20:01:43.645676821Z",
-  "model": "glm-5.2"
+  ]
 }

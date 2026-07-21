@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 149:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64295,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64677
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:16.628902730Z",
   "translation": "為要在列國中施行報復，在萬民中施行⟨責罰⟩；",
   "tokens": [
     {
       "surface": "לעשות",
-      "english": "為要施行"
+      "gloss": "為要施行"
     },
     {
       "surface": "נקמה",
-      "english": "報復"
+      "gloss": "報復"
     },
     {
       "surface": "בגוים",
-      "english": "在列國中"
+      "gloss": "在列國中"
     },
     {
       "surface": "תוכחת",
-      "english": "責罰"
+      "gloss": "責罰"
     },
     {
       "surface": "בל",
-      "english": "在萬"
+      "gloss": "在萬"
     },
     {
       "surface": "אמים",
-      "english": "民中"
+      "gloss": "民中"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:16.628902730Z",
-  "model": "glm-5.2"
+  ]
 }

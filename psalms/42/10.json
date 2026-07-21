@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 42:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64685,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65230
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:43.144359135Z",
   "translation": "我对我的磐石说：⟨我的⟩以罗欣 (אֵל)，⟨你⟩为何忘记⟨了⟩我？我为何在仇敌的压迫下哀痛而行？",
   "tokens": [
     {
       "surface": "אומרה",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "לאל",
-      "english": "对我的以罗欣 (אֵל)"
+      "gloss": "对我的以罗欣 (אֵל)"
     },
     {
       "surface": "סלעי",
-      "english": "我的磐石"
+      "gloss": "我的磐石"
     },
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "שכחתני",
-      "english": "你忘记了我"
+      "gloss": "你忘记了我"
     },
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "קדר",
-      "english": "我哀痛"
+      "gloss": "我哀痛"
     },
     {
       "surface": "אלך",
-      "english": "我行"
+      "gloss": "我行"
     },
     {
       "surface": "בלחץ",
-      "english": "在……的压迫下"
+      "gloss": "在……的压迫下"
     },
     {
       "surface": "אויב",
-      "english": "仇敌"
+      "gloss": "仇敌"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:43.144359135Z",
-  "model": "glm-5.2"
+  ]
 }

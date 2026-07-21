@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "ruth 1:15",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 646,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22863,
-    "prompt_tokens_details": {
-      "cached_tokens": 21440
-    },
-    "total_tokens": 23509
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:13:26.319660067Z",
   "translation": "她⟨说⟩:看哪,你丈夫的弟兄之妻已经回她本族那里去,回她的以罗欣那里去;你跟随你丈夫的弟兄之妻回去吧。",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "她⟨说⟩"
+      "gloss": "她⟨说⟩"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "שבה",
-      "english": "已经回去"
+      "gloss": "已经回去"
     },
     {
       "surface": "יבמתך",
-      "english": "你丈夫的弟兄之妻"
+      "gloss": "你丈夫的弟兄之妻"
     },
     {
       "surface": "אל",
-      "english": "到……那里去"
+      "gloss": "到……那里去"
     },
     {
       "surface": "עמה",
-      "english": "她本族"
+      "gloss": "她本族"
     },
     {
       "surface": "ואל",
-      "english": "和到……那里去"
+      "gloss": "和到……那里去"
     },
     {
       "surface": "אלהיה",
-      "english": "她的以罗欣"
+      "gloss": "她的以罗欣"
     },
     {
       "surface": "שובי",
-      "english": "你回去吧"
+      "gloss": "你回去吧"
     },
     {
       "surface": "אחרי",
-      "english": "跟随"
+      "gloss": "跟随"
     },
     {
       "surface": "יבמתך",
-      "english": "你丈夫的弟兄之妻"
+      "gloss": "你丈夫的弟兄之妻"
     }
-  ],
-  "timestamp": "2026-07-18T01:13:26.319660067Z",
-  "model": "glm-5.2"
+  ]
 }

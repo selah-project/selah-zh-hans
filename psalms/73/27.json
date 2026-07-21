@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 73:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64555,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64959
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:47.360828263Z",
   "translation": "因为看哪，远离你的必灭亡；你灭绝了所有从你身上行淫的。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "רחקיך",
-      "english": "远离你的"
+      "gloss": "远离你的"
     },
     {
       "surface": "יאבדו",
-      "english": "必灭亡"
+      "gloss": "必灭亡"
     },
     {
       "surface": "הצמתה",
-      "english": "你灭绝了"
+      "gloss": "你灭绝了"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "זונה",
-      "english": "行淫的"
+      "gloss": "行淫的"
     },
     {
       "surface": "ממך",
-      "english": "从你身上"
+      "gloss": "从你身上"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:47.360828263Z",
-  "model": "glm-5.2"
+  ]
 }

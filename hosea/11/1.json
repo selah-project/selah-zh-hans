@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "hosea 11:1",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 380,
-    "prompt_tokens": 21084,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21464
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:13:55.148335724Z",
   "translation": "因为 以色列 ⟨是⟩ 幼童,我 ⟨就⟩ 爱他;从 埃及,我 ⟨已⟩ 召 ⟨我的⟩ 儿子。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נער",
-      "english": "幼童"
+      "gloss": "幼童"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ואהבהו",
-      "english": "我 ⟨就⟩ 爱他"
+      "gloss": "我 ⟨就⟩ 爱他"
     },
     {
       "surface": "וממצרים",
-      "english": "从 埃及"
+      "gloss": "从 埃及"
     },
     {
       "surface": "קראתי",
-      "english": "我 ⟨已⟩ 召"
+      "gloss": "我 ⟨已⟩ 召"
     },
     {
       "surface": "לבני",
-      "english": "⟨我的⟩ 儿子"
+      "gloss": "⟨我的⟩ 儿子"
     }
-  ],
-  "timestamp": "2026-07-21T13:13:55.148335724Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ezekiel 41:5",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19413,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19925
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:06:40.855790888Z",
   "translation": "⟨他⟩量了⟨הבית⟩殿的墙,六肘;⟨הצלע⟩厢房的宽度是四肘,环绕⟨הבית⟩殿周围环绕。",
   "tokens": [
     {
       "surface": "וימד",
-      "english": "⟨他⟩量了"
+      "gloss": "⟨他⟩量了"
     },
     {
       "surface": "קיר",
-      "english": "……的墙"
+      "gloss": "……的墙"
     },
     {
       "surface": "הבית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "שש",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "אמות",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "ורחב",
-      "english": "而……的宽度"
+      "gloss": "而……的宽度"
     },
     {
       "surface": "הצלע",
-      "english": "厢房"
+      "gloss": "厢房"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "אמות",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "סביב",
-      "english": "环绕"
+      "gloss": "环绕"
     },
     {
       "surface": "סביב",
-      "english": "周围"
+      "gloss": "周围"
     },
     {
       "surface": "לבית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "סביב",
-      "english": "环绕"
+      "gloss": "环绕"
     }
-  ],
-  "timestamp": "2026-07-17T23:06:40.855790888Z",
-  "model": "glm-5.2"
+  ]
 }

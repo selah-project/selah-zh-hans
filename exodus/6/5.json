@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "exodus 6:5",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 628,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19343,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19971
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:12:53.446811272Z",
   "translation": "我也听见了⟨את⟩以色列子孙的呻吟，就是埃及人正在奴役⟨את⟩他们的⟨那⟩呻吟，我也记念⟨את⟩我的布瑞特。",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "שמעתי",
-      "english": "听见了"
+      "gloss": "听见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列子孙的呻吟"
     },
     {
       "surface": "נאקת",
-      "english": "呻吟"
+      "gloss": "呻吟"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "מצרים",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "מעבדים",
-      "english": "正在奴役"
+      "gloss": "正在奴役"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "ואזכר",
-      "english": "我也记念"
+      "gloss": "我也记念"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的布瑞特"
     },
     {
       "surface": "בריתי",
-      "english": "我的布瑞特（约）"
+      "gloss": "我的布瑞特（约）"
     }
-  ],
-  "timestamp": "2026-07-17T18:12:53.446811272Z",
-  "model": "glm-5.2"
+  ]
 }

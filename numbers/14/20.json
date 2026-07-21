@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "numbers 14:20",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19228,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19503
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:18:49.097758543Z",
   "translation": "雅威说:我已经赦免了,照你的*话*。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "סלחתי",
-      "english": "我已经赦免了"
+      "gloss": "我已经赦免了"
     },
     {
       "surface": "כדברך",
-      "english": "照你的*davar*"
+      "gloss": "照你的*davar*"
     }
-  ],
-  "timestamp": "2026-07-18T03:18:49.097758543Z",
-  "model": "glm-5.2"
+  ]
 }

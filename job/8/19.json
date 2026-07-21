@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 8:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21601,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22026
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:18.437246891Z",
   "translation": "看哪，⟨它⟩是⟨他⟩道路之欢欣，从尘土中会有别的⟨植物⟩长出来。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "משוש",
-      "english": "欢欣"
+      "gloss": "欢欣"
     },
     {
       "surface": "דרכו",
-      "english": "⟨他⟩道路"
+      "gloss": "⟨他⟩道路"
     },
     {
       "surface": "ומעפר",
-      "english": "从尘土中"
+      "gloss": "从尘土中"
     },
     {
       "surface": "אחר",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "יצמחו",
-      "english": "长出来"
+      "gloss": "长出来"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:18.437246891Z",
-  "model": "glm-5.2"
+  ]
 }

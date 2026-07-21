@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 7:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64620,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:14.140479609Z",
   "translation": "若我以恶报那与我和平之人，或⟨无故⟩掠夺那敌对我的人，",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "גמלתי",
-      "english": "我以……报"
+      "gloss": "我以……报"
     },
     {
       "surface": "שולמי",
-      "english": "与我和平之人"
+      "gloss": "与我和平之人"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "ואחלצה",
-      "english": "或掠夺"
+      "gloss": "或掠夺"
     },
     {
       "surface": "צוררי",
-      "english": "那敌对我的人"
+      "gloss": "那敌对我的人"
     },
     {
       "surface": "ריקם",
-      "english": "⟨无故⟩"
+      "gloss": "⟨无故⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:14.140479609Z",
-  "model": "glm-5.2"
+  ]
 }

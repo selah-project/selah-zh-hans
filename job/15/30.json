@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 15:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21921,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22348
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:46.391141027Z",
   "translation": "他必不转离黑暗,火焰必使他的嫩枝枯干,⟨他⟩必被 ⟨他⟩口中的气息带走。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יסור",
-      "english": "他必转离"
+      "gloss": "他必转离"
     },
     {
       "surface": "מני",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "חשך",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "ינקתו",
-      "english": "他的嫩枝"
+      "gloss": "他的嫩枝"
     },
     {
       "surface": "תיבש",
-      "english": "必使枯干"
+      "gloss": "必使枯干"
     },
     {
       "surface": "שלהבת",
-      "english": "火焰"
+      "gloss": "火焰"
     },
     {
       "surface": "ויסור",
-      "english": "⟨他⟩必被带走"
+      "gloss": "⟨他⟩必被带走"
     },
     {
       "surface": "ברוח",
-      "english": "借……的气息"
+      "gloss": "借……的气息"
     },
     {
       "surface": "פיו",
-      "english": "⟨他⟩口中"
+      "gloss": "⟨他⟩口中"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:46.391141027Z",
-  "model": "glm-5.2"
+  ]
 }

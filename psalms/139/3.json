@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 139:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64402,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64954
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:02.100646113Z",
   "translation": "我的道路与我躺卧之处,你都簸散筛察,对我一切所行的路你都熟知。",
   "tokens": [
     {
       "surface": "ארחי",
-      "english": "我的道路"
+      "gloss": "我的道路"
     },
     {
       "surface": "ורבעי",
-      "english": "与我躺卧之处"
+      "gloss": "与我躺卧之处"
     },
     {
       "surface": "זרית",
-      "english": "你都簸散筛察"
+      "gloss": "你都簸散筛察"
     },
     {
       "surface": "וכל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דרכי",
-      "english": "我所行的路"
+      "gloss": "我所行的路"
     },
     {
       "surface": "הסכנתה",
-      "english": "你都熟知"
+      "gloss": "你都熟知"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:02.100646113Z",
-  "model": "glm-5.2"
+  ]
 }

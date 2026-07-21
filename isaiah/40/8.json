@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 40:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20657,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21111
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:15.355022428Z",
   "translation": "草必枯干,花必凋残 —— 但我们以罗欣的*davar*必永远立定。",
   "tokens": [
     {
       "surface": "יָבֵ֥שׁ",
-      "english": "枯干"
+      "gloss": "枯干"
     },
     {
       "surface": "חָצִ֖יר",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "נָ֣בֵֽל",
-      "english": "凋残"
+      "gloss": "凋残"
     },
     {
       "surface": "צִ֑יץ",
-      "english": "花"
+      "gloss": "花"
     },
     {
       "surface": "וּ\/דְבַר",
-      "english": "但……的*davar*"
+      "gloss": "但……的*davar*"
     },
     {
       "surface": "אֱלֹהֵ֖י\/נוּ",
-      "english": "我们以罗欣"
+      "gloss": "我们以罗欣"
     },
     {
       "surface": "יָק֥וּם",
-      "english": "必立定"
+      "gloss": "必立定"
     },
     {
       "surface": "לְ\/עוֹלָֽם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:15.355022428Z",
-  "model": "glm-5.2"
+  ]
 }

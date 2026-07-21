@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "2-chronicles 21:5",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 487,
-    "prompt_tokens": 59944,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60431
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:29:19.676829817Z",
   "translation": "约兰登基的时候是三十二岁,在耶路撒冷作王八年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "שלשים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "ושתים",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "שנה",
-      "english": "约兰"
+      "gloss": "约兰"
     },
     {
       "surface": "יהורם",
-      "english": "⟨在⟩"
+      "gloss": "⟨在⟩"
     },
     {
       "surface": "במלכו",
-      "english": "登基的时候"
+      "gloss": "登基的时候"
     },
     {
       "surface": "ושמונה",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     },
     {
       "surface": "שנים",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "מלך",
-      "english": "八年"
+      "gloss": "八年"
     },
     {
       "surface": "בירושלם",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:29:19.676829817Z",
-  "model": "glm-4.5"
+  ]
 }

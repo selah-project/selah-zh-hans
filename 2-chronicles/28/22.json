@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "2-chronicles 28:22",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59683,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60078
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:30:37.185863017Z",
   "translation": "而在他被困迫的时候，他更加变本加厉地对雅威不忠——⟨他⟩就是亚哈斯⟨这⟩王。",
   "tokens": [
     {
       "surface": "ובעת",
-      "english": "而在……的时候"
+      "gloss": "而在……的时候"
     },
     {
       "surface": "הצר",
-      "english": "被困迫"
+      "gloss": "被困迫"
     },
     {
       "surface": "לו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "ויוסף",
-      "english": "他更加变本加厉地"
+      "gloss": "他更加变本加厉地"
     },
     {
       "surface": "למעול",
-      "english": "不忠"
+      "gloss": "不忠"
     },
     {
       "surface": "ביהוה",
-      "english": "对雅威"
+      "gloss": "对雅威"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "המלך",
-      "english": "⟨这⟩王"
+      "gloss": "⟨这⟩王"
     },
     {
       "surface": "אחז",
-      "english": "亚哈斯"
+      "gloss": "亚哈斯"
     }
-  ],
-  "timestamp": "2026-07-18T02:30:37.185863017Z",
-  "model": "glm-5.2"
+  ]
 }

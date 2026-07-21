@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 52:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64499,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64915
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:11.611733073Z",
   "translation": "我要永远称谢你,因为你行了这事;我要等候你的名,因为它⟨是⟩好的,就在你的敬虔者面前。",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "我要称谢你"
+      "gloss": "我要称谢你"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עשית",
-      "english": "你行了"
+      "gloss": "你行了"
     },
     {
       "surface": "ואקוה",
-      "english": "而我要等候"
+      "gloss": "而我要等候"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "טוב",
-      "english": "⟨是⟩好的"
+      "gloss": "⟨是⟩好的"
     },
     {
       "surface": "נגד",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "חסידיך",
-      "english": "你的敬虔者"
+      "gloss": "你的敬虔者"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:11.611733073Z",
-  "model": "glm-5.2"
+  ]
 }

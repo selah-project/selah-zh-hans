@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 41:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20651,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21242
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:07.715076064Z",
   "translation": "看哪，你们出于虚无，你们的作为出于乌有；可憎恶之事 ⟨是⟩ 选择你们的那位。",
   "tokens": [
     {
       "surface": "הֵן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אַתֶּ֣ם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "מֵ\/אַ֔יִן",
-      "english": "出于虚无"
+      "gloss": "出于虚无"
     },
     {
       "surface": "וּ\/פָעָלְ\/כֶ֖ם",
-      "english": "你们的作为"
+      "gloss": "你们的作为"
     },
     {
       "surface": "מֵ\/אָ֑פַע",
-      "english": "出于乌有"
+      "gloss": "出于乌有"
     },
     {
       "surface": "תּוֹעֵבָ֖ה",
-      "english": "可憎恶之事"
+      "gloss": "可憎恶之事"
     },
     {
       "surface": "יִבְחַ֥ר",
-      "english": "选择"
+      "gloss": "选择"
     },
     {
       "surface": "בָּ\/כֶֽם",
-      "english": "你们"
+      "gloss": "你们"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:07.715076064Z",
-  "model": "glm-5.2"
+  ]
 }

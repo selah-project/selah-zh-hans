@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 67:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64479,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64798
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:50.190957036Z",
   "translation": "愿万民称谢你，以罗欣；愿万民全都称谢你。",
   "tokens": [
     {
       "surface": "יוֹדוּ\/ךָ",
-      "english": "愿……称谢你"
+      "gloss": "愿……称谢你"
     },
     {
       "surface": "עַמִּים",
-      "english": "万民"
+      "gloss": "万民"
     },
     {
       "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יוֹדוּ\/ךָ",
-      "english": "愿……称谢你"
+      "gloss": "愿……称谢你"
     },
     {
       "surface": "עַמִּים",
-      "english": "万民"
+      "gloss": "万民"
     },
     {
       "surface": "כֻּלָּֽ\/ם",
-      "english": "全都"
+      "gloss": "全都"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:50.190957036Z",
-  "model": "glm-5.2"
+  ]
 }

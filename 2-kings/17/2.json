@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-kings 17:2",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18659,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19075
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:28:11.581972476Z",
   "translation": "他行了雅威眼中看为恶的事，只是不像那些在他以前的以色列诸王。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行了"
+      "gloss": "他行了"
     },
     {
       "surface": "הרע",
-      "english": "恶（的事）"
+      "gloss": "恶（的事）"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "רק",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "לא",
-      "english": "不（像）"
+      "gloss": "不（像）"
     },
     {
       "surface": "כמלכי",
-      "english": "以色列的诸王"
+      "gloss": "以色列的诸王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "היו",
-      "english": "（曾存在）"
+      "gloss": "（曾存在）"
     },
     {
       "surface": "לפניו",
-      "english": "在他以前的"
+      "gloss": "在他以前的"
     }
-  ],
-  "timestamp": "2026-07-17T21:28:11.581972476Z",
-  "model": "glm-5.2"
+  ]
 }

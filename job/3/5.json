@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 3:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21951,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22544
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:07.399357865Z",
   "translation": "愿⟨它⟩被赎回——黑暗与死荫；愿云彩居住在⟨它⟩之上；愿日子的苦黯使⟨它⟩惊恐。",
   "tokens": [
     {
       "surface": "יגאלהו",
-      "english": "愿⟨它⟩被赎回"
+      "gloss": "愿⟨它⟩被赎回"
     },
     {
       "surface": "חשך",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "וצלמות",
-      "english": "与死荫"
+      "gloss": "与死荫"
     },
     {
       "surface": "תשכן",
-      "english": "愿居住"
+      "gloss": "愿居住"
     },
     {
       "surface": "עליו",
-      "english": "在⟨它⟩之上"
+      "gloss": "在⟨它⟩之上"
     },
     {
       "surface": "עננה",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "יבעתהו",
-      "english": "愿⟨它⟩被惊恐"
+      "gloss": "愿⟨它⟩被惊恐"
     },
     {
       "surface": "כמרירי",
-      "english": "苦黯"
+      "gloss": "苦黯"
     },
     {
       "surface": "יום",
-      "english": "日子的"
+      "gloss": "日子的"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:07.399357865Z",
-  "model": "glm-5.2"
+  ]
 }

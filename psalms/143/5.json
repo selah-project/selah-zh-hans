@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 143:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64694,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65071
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:15.265825014Z",
   "translation": "我记念从前的日子,我在你的一切作为上默念,在你双手的工上我沉吟默想。",
   "tokens": [
     {
       "surface": "זכרתי",
-      "english": "我记念"
+      "gloss": "我记念"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "מקדם",
-      "english": "从前的"
+      "gloss": "从前的"
     },
     {
       "surface": "הגיתי",
-      "english": "我默念"
+      "gloss": "我默念"
     },
     {
       "surface": "בכל",
-      "english": "在你的一切"
+      "gloss": "在你的一切"
     },
     {
       "surface": "פעלך",
-      "english": "作为上"
+      "gloss": "作为上"
     },
     {
       "surface": "במעשה",
-      "english": "在……的工上"
+      "gloss": "在……的工上"
     },
     {
       "surface": "ידיך",
-      "english": "你双手"
+      "gloss": "你双手"
     },
     {
       "surface": "אשוחח",
-      "english": "我沉吟默想"
+      "gloss": "我沉吟默想"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:15.265825014Z",
-  "model": "glm-5.2"
+  ]
 }

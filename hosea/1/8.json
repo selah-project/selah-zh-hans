@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "hosea 1:8",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21042,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21330
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:12:02.557296341Z",
   "translation": "她给⟨את⟩罗·露哈玛断乳之后,就怀孕,生了一个儿子。",
   "tokens": [
     {
       "surface": "ותגמל",
-      "english": "她给……断乳之后"
+      "gloss": "她给……断乳之后"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "罗·露哈玛"
     },
     {
       "surface": "לא",
-      "english": "罗-"
+      "gloss": "罗-"
     },
     {
       "surface": "רחמה",
-      "english": "露哈玛"
+      "gloss": "露哈玛"
     },
     {
       "surface": "ותהר",
-      "english": "就怀孕"
+      "gloss": "就怀孕"
     },
     {
       "surface": "ותלד",
-      "english": "生了一个儿子"
+      "gloss": "生了一个儿子"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     }
-  ],
-  "timestamp": "2026-07-17T23:12:02.557296341Z",
-  "model": "glm-5.2"
+  ]
 }

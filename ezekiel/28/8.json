@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 28:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18878,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19324
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:57:00.489544497Z",
   "translation": "他们必将你降下到坑中，你必死于被刺杀者的死亡，在海的心中。",
   "tokens": [
     {
       "surface": "ל\/שַּׁ֖חַת",
-      "english": "到坑中"
+      "gloss": "到坑中"
     },
     {
       "surface": "יֽוֹרִד֑וּ\/ךָ",
-      "english": "他们必将你降下"
+      "gloss": "他们必将你降下"
     },
     {
       "surface": "וָ\/מַ֛תָּה",
-      "english": "而死于……的死亡"
+      "gloss": "而死于……的死亡"
     },
     {
       "surface": "מְמוֹתֵ֥י",
-      "english": "……的死亡（复数）"
+      "gloss": "……的死亡（复数）"
     },
     {
       "surface": "חָלָ֖ל",
-      "english": "被刺杀者"
+      "gloss": "被刺杀者"
     },
     {
       "surface": "בְּ\/לֵ֥ב",
-      "english": "在……的心中"
+      "gloss": "在……的心中"
     },
     {
       "surface": "יַמִּֽים",
-      "english": "海"
+      "gloss": "海"
     }
-  ],
-  "timestamp": "2026-07-17T22:57:00.489544497Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,79 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "exodus 9:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19104,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19635
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:14:59.767048999Z",
   "translation": "那敬畏雅威之 ⟨את⟩ *davar* 的，出于法老的仆人中，他催赶 ⟨את⟩ 他的仆人和 ⟨את⟩ 他的牲畜进入房屋。",
   "tokens": [
     {
       "surface": "הירא",
-      "english": "那敬畏……的"
+      "gloss": "那敬畏……的"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "*davar*"
     },
     {
       "surface": "דבר",
-      "english": "*davar*（话）"
+      "gloss": "*davar*（话）"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מעבדי",
-      "english": "出于……仆人中"
+      "gloss": "出于……仆人中"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "הניס",
-      "english": "他催赶（使之逃奔）"
+      "gloss": "他催赶（使之逃奔）"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的仆人"
     },
     {
       "surface": "עבדיו",
-      "english": "他的仆人"
+      "gloss": "他的仆人"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他的牲畜"
     },
     {
       "surface": "מקנהו",
-      "english": "他的牲畜"
+      "gloss": "他的牲畜"
     },
     {
       "surface": "אל",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "הבתים",
-      "english": "房屋"
+      "gloss": "房屋"
     }
-  ],
-  "timestamp": "2026-07-17T18:14:59.767048999Z",
-  "model": "glm-5.2"
+  ]
 }

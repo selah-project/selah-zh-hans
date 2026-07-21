@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 32:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20425,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21018
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:19:01.743332684Z",
   "translation": "他们便说：若我们在你眼前蒙了恩,愿⟨את⟩这地赐给你的仆人为业;不要使我们过⟨את⟩约旦河。",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "他们便说"
+      "gloss": "他们便说"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "מצאנו",
-      "english": "我们蒙了"
+      "gloss": "我们蒙了"
     },
     {
       "surface": "חן",
-      "english": "恩"
+      "gloss": "恩"
     },
     {
       "surface": "בעיניך",
-      "english": "在你眼前"
+      "gloss": "在你眼前"
     },
     {
       "surface": "יתן",
-      "english": "愿……赐"
+      "gloss": "愿……赐"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这地"
     },
     {
       "surface": "הארץ",
-      "english": "这地"
+      "gloss": "这地"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לעבדיך",
-      "english": "给你的仆人"
+      "gloss": "给你的仆人"
     },
     {
       "surface": "לאחזה",
-      "english": "为业"
+      "gloss": "为业"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעברנו",
-      "english": "使我们过"
+      "gloss": "使我们过"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约旦河"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     }
-  ],
-  "timestamp": "2026-07-18T03:19:01.743332684Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 23:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58565,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58913
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:07:52.486894887Z",
   "translation": "拉但的儿子们：⟨那⟩头⟨是⟩耶希业，和细探，和约珥，三个。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "的儿子们"
+      "gloss": "的儿子们"
     },
     {
       "surface": "לעדן",
-      "english": "拉但"
+      "gloss": "拉但"
     },
     {
       "surface": "הראש",
-      "english": "⟨那⟩头"
+      "gloss": "⟨那⟩头"
     },
     {
       "surface": "יחיאל",
-      "english": "耶希业"
+      "gloss": "耶希业"
     },
     {
       "surface": "וזתם",
-      "english": "和细探"
+      "gloss": "和细探"
     },
     {
       "surface": "ויואל",
-      "english": "和约珥"
+      "gloss": "和约珥"
     },
     {
       "surface": "שלשה",
-      "english": "三个"
+      "gloss": "三个"
     }
-  ],
-  "timestamp": "2026-07-18T02:07:52.486894887Z",
-  "model": "glm-5.2"
+  ]
 }

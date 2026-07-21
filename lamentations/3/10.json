@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "lamentations 3:10",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 260,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33392,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33652
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:36.790779319Z",
   "translation": "他是⟨为我⟩埋伏的熊，是隐藏处的狮子。",
   "tokens": [
     {
       "surface": "דב",
-      "english": "熊"
+      "gloss": "熊"
     },
     {
       "surface": "ארב",
-      "english": "埋伏的"
+      "gloss": "埋伏的"
     },
     {
       "surface": "הוא",
-      "english": "他是"
+      "gloss": "他是"
     },
     {
       "surface": "לי",
-      "english": "⟨为我⟩"
+      "gloss": "⟨为我⟩"
     },
     {
       "surface": "אריה",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "במסתרים",
-      "english": "隐藏处"
+      "gloss": "隐藏处"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:36.790779319Z",
-  "model": "glm-5.2"
+  ]
 }

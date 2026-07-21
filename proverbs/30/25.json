@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 30:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54328,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54701
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:58.549886684Z",
   "translation": "蚂蚁是一族不⟨强壮的⟩民，他们却在夏天预备他们的粮食；",
   "tokens": [
     {
       "surface": "הנמלים",
-      "english": "蚂蚁"
+      "gloss": "蚂蚁"
     },
     {
       "surface": "עם",
-      "english": "是一族……民"
+      "gloss": "是一族……民"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עז",
-      "english": "强壮的"
+      "gloss": "强壮的"
     },
     {
       "surface": "ויכינו",
-      "english": "他们却预备"
+      "gloss": "他们却预备"
     },
     {
       "surface": "בקיץ",
-      "english": "在夏天"
+      "gloss": "在夏天"
     },
     {
       "surface": "לחמם",
-      "english": "他们的粮食"
+      "gloss": "他们的粮食"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:58.549886684Z",
-  "model": "glm-5.2"
+  ]
 }

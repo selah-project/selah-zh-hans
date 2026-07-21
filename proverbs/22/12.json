@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 22:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54447,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54866
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:50.862290604Z",
   "translation": "雅威的眼目守护*da'at*（知识），⟨他⟩却颠覆背信者的*davar*（言语）。",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "……的眼目"
+      "gloss": "……的眼目"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נצרו",
-      "english": "守护"
+      "gloss": "守护"
     },
     {
       "surface": "דעת",
-      "english": "*da'at*（知识）"
+      "gloss": "*da'at*（知识）"
     },
     {
       "surface": "ויסלף",
-      "english": "却颠覆"
+      "gloss": "却颠覆"
     },
     {
       "surface": "דברי",
-      "english": "……的*davar*（言语）"
+      "gloss": "……的*davar*（言语）"
     },
     {
       "surface": "בגד",
-      "english": "背信者"
+      "gloss": "背信者"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:50.862290604Z",
-  "model": "glm-5.2"
+  ]
 }

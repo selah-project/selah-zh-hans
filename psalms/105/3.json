@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 105:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64472,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64819
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:26.242914344Z",
   "translation": "要在他的圣名中夸耀；寻求雅威的人，他们的心要欢喜。",
   "tokens": [
     {
       "surface": "התהללו",
-      "english": "要夸耀"
+      "gloss": "要夸耀"
     },
     {
       "surface": "בשם",
-      "english": "在他的……名中"
+      "gloss": "在他的……名中"
     },
     {
       "surface": "קדשו",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "ישמח",
-      "english": "要欢喜"
+      "gloss": "要欢喜"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "מבקשי",
-      "english": "寻求……的人"
+      "gloss": "寻求……的人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:26.242914344Z",
-  "model": "glm-5.2"
+  ]
 }

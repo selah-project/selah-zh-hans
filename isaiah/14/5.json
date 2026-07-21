@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 14:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20432,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20751
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:41:19.906903539Z",
   "translation": "雅威折断了恶人的杖,辖制者的权杖。",
   "tokens": [
     {
       "surface": "שָׁבַ֥ר",
-      "english": "折断了"
+      "gloss": "折断了"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מַטֵּ֣ה",
-      "english": "杖"
+      "gloss": "杖"
     },
     {
       "surface": "רְשָׁעִ֑ים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "שֵׁ֖בֶט",
-      "english": "权杖"
+      "gloss": "权杖"
     },
     {
       "surface": "מֹשְׁלִֽים",
-      "english": "辖制者的"
+      "gloss": "辖制者的"
     }
-  ],
-  "timestamp": "2026-07-17T21:41:19.906903539Z",
-  "model": "glm-5.2"
+  ]
 }

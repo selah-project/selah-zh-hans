@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 139:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64273,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64588
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:05.205705460Z",
   "translation": "带着完全的恨恶，我恨恶他们；他们成了我的仇敌。",
   "tokens": [
     {
       "surface": "תכלית",
-      "english": "完全的"
+      "gloss": "完全的"
     },
     {
       "surface": "שנאה",
-      "english": "恨恶"
+      "gloss": "恨恶"
     },
     {
       "surface": "שנאתים",
-      "english": "我恨恶他们"
+      "gloss": "我恨恶他们"
     },
     {
       "surface": "לאויבים",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "היו",
-      "english": "他们成了"
+      "gloss": "他们成了"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:05.205705460Z",
-  "model": "glm-5.2"
+  ]
 }

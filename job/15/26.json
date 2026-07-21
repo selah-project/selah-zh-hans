@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "job 15:26",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21493,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21917
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:31.237753259Z",
   "translation": "他向⟨他⟩冲去，⟨带着⟩傲颈，以他盾牌的厚背〔迎击〕。",
   "tokens": [
     {
       "surface": "ירוץ",
-      "english": "他冲去"
+      "gloss": "他冲去"
     },
     {
       "surface": "אליו",
-      "english": "向⟨他⟩"
+      "gloss": "向⟨他⟩"
     },
     {
       "surface": "בצואר",
-      "english": "⟨带着⟩傲颈"
+      "gloss": "⟨带着⟩傲颈"
     },
     {
       "surface": "בעבי",
-      "english": "以……的厚"
+      "gloss": "以……的厚"
     },
     {
       "surface": "גבי",
-      "english": "背"
+      "gloss": "背"
     },
     {
       "surface": "מגניו",
-      "english": "他的盾牌"
+      "gloss": "他的盾牌"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:31.237753259Z",
-  "model": "glm-5.2"
+  ]
 }

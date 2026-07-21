@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 20:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21747,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22282
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:01.704364649Z",
   "translation": "他退还劳碌所得，却不吞下 ⟨וְ\/לֹא⟩ 享用；如⟨他⟩财物的兑换物，⟨וְ\/לֹא⟩他不得欢跃。",
   "tokens": [
     {
       "surface": "משיב",
-      "english": "他退还"
+      "gloss": "他退还"
     },
     {
       "surface": "יגע",
-      "english": "劳碌所得"
+      "gloss": "劳碌所得"
     },
     {
       "surface": "ולא",
-      "english": "⟨וְ\/לֹא⟩"
+      "gloss": "⟨וְ\/לֹא⟩"
     },
     {
       "surface": "יבלע",
-      "english": "吞下"
+      "gloss": "吞下"
     },
     {
       "surface": "כחיל",
-      "english": "如……财物"
+      "gloss": "如……财物"
     },
     {
       "surface": "תמורתו",
-      "english": "他的兑换物"
+      "gloss": "他的兑换物"
     },
     {
       "surface": "ולא",
-      "english": "⟨וְ\/לֹא⟩"
+      "gloss": "⟨וְ\/לֹא⟩"
     },
     {
       "surface": "יעלס",
-      "english": "他欢跃"
+      "gloss": "他欢跃"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:01.704364649Z",
-  "model": "glm-5.2"
+  ]
 }

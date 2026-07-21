@@ -1,94 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 3:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 613,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19805,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20418
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:41:08.741692973Z",
   "translation": "他对我说:人子啊,⟨את⟩你所找到的,要吃掉;吃掉⟨את⟩这书卷,然后你去,对以色列家说话。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他对我说"
+      "gloss": "他对我说"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "בן",
-      "english": "人子"
+      "gloss": "人子"
     },
     {
       "surface": "אדם",
-      "english": "(adam)"
+      "gloss": "(adam)"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你所找到的"
     },
     {
       "surface": "אשר",
-      "english": "你所找到的"
+      "gloss": "你所找到的"
     },
     {
       "surface": "תמצא",
-      "english": "你找到"
+      "gloss": "你找到"
     },
     {
       "surface": "אכול",
-      "english": "要吃掉"
+      "gloss": "要吃掉"
     },
     {
       "surface": "אכול",
-      "english": "吃掉"
+      "gloss": "吃掉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这书卷"
     },
     {
       "surface": "המגלה",
-      "english": "书卷"
+      "gloss": "书卷"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ולך",
-      "english": "然后你去"
+      "gloss": "然后你去"
     },
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T22:41:08.741692973Z",
-  "model": "glm-5.2"
+  ]
 }

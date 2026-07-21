@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "deuteronomy 8:8",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19400,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19721
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:33:15.344117196Z",
   "translation": "小麦、大麦、葡萄树、无花果树和石榴树的之地，橄榄油和蜂蜜的之地。",
   "tokens": [
     {
       "surface": "ארץ",
-      "english": "之地"
+      "gloss": "之地"
     },
     {
       "surface": "חטה",
-      "english": "小麦"
+      "gloss": "小麦"
     },
     {
       "surface": "ושערה",
-      "english": "大麦"
+      "gloss": "大麦"
     },
     {
       "surface": "וגפן",
-      "english": "葡萄树"
+      "gloss": "葡萄树"
     },
     {
       "surface": "ותאנה",
-      "english": "无花果树"
+      "gloss": "无花果树"
     },
     {
       "surface": "ורמון",
-      "english": "石榴树"
+      "gloss": "石榴树"
     },
     {
       "surface": "ארץ",
-      "english": "之地"
+      "gloss": "之地"
     },
     {
       "surface": "זית",
-      "english": "橄榄"
+      "gloss": "橄榄"
     },
     {
       "surface": "שמן",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "ודבש",
-      "english": "和蜂蜜"
+      "gloss": "和蜂蜜"
     }
-  ],
-  "timestamp": "2026-07-17T19:33:15.344117196Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 89:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64618,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65006
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:51.473092001Z",
   "translation": "诸天要赞美你的奇事，雅威；你的信实也在圣洁者的会众之中。",
   "tokens": [
     {
       "surface": "ויודו",
-      "english": "和 ⟨他们⟩ 要赞美"
+      "gloss": "和 ⟨他们⟩ 要赞美"
     },
     {
       "surface": "שמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "פלאך",
-      "english": "你的奇事"
+      "gloss": "你的奇事"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אמונתך",
-      "english": "你的信实"
+      "gloss": "你的信实"
     },
     {
       "surface": "בקהל",
-      "english": "在……的会众之中"
+      "gloss": "在……的会众之中"
     },
     {
       "surface": "קדשים",
-      "english": "圣洁者们"
+      "gloss": "圣洁者们"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:51.473092001Z",
-  "model": "glm-5.2"
+  ]
 }

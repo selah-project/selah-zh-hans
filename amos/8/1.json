@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "amos 8:1",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17895,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18243
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:22:02.931133934Z",
   "translation": "主雅威如此向我指示,看哪,一筐夏天的收成。",
   "tokens": [
     {
       "surface": "כה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "הראני",
-      "english": "向我指示了"
+      "gloss": "向我指示了"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "כלוב",
-      "english": "一筐"
+      "gloss": "一筐"
     },
     {
       "surface": "קיץ",
-      "english": "夏天的收成"
+      "gloss": "夏天的收成"
     }
-  ],
-  "timestamp": "2026-07-17T23:22:02.931133934Z",
-  "model": "glm-5.2"
+  ]
 }

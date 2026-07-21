@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "jeremiah 13:3",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18751,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19014
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:14:16.509612320Z",
   "translation": "雅威的*davar* ⟨临到⟩ 我这里第二次,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨临到⟩"
+      "gloss": "⟨临到⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "我这里"
+      "gloss": "我这里"
     },
     {
       "surface": "שנית",
-      "english": "第二次"
+      "gloss": "第二次"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:14:16.509612320Z",
-  "model": "glm-5.2"
+  ]
 }

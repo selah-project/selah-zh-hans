@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "daniel 5:30",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18501,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 18878
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:31:55.305526194Z",
   "translation": "在那夜，迦勒底王伯沙撒⟨被⟩杀了。",
   "tokens": [
     {
       "surface": "בה",
-      "english": "在那"
+      "gloss": "在那"
     },
     {
       "surface": "בליליא",
-      "english": "夜"
+      "gloss": "夜"
     },
     {
       "surface": "קטיל",
-      "english": "⟨被⟩杀了"
+      "gloss": "⟨被⟩杀了"
     },
     {
       "surface": "בלאשצר",
-      "english": "伯沙撒"
+      "gloss": "伯沙撒"
     },
     {
       "surface": "מלכא",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "כשדיא",
-      "english": "迦勒底"
+      "gloss": "迦勒底"
     }
-  ],
-  "timestamp": "2026-07-18T01:31:55.305526194Z",
-  "model": "glm-5.2"
+  ]
 }

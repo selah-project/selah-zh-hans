@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "hosea 4:4",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21274,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21773
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:11.525216189Z",
   "translation": "然而,人啊,不要争辩,也不要责备人;因为你的百姓就像与*祭司*争辩的人。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "איש",
-      "english": "人啊"
+      "gloss": "人啊"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "ירב",
-      "english": "争辩"
+      "gloss": "争辩"
     },
     {
       "surface": "ואל",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "יוכח",
-      "english": "责备"
+      "gloss": "责备"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "ועמך",
-      "english": "因为你的百姓"
+      "gloss": "因为你的百姓"
     },
     {
       "surface": "כמריבי",
-      "english": "就像与……争辩的人"
+      "gloss": "就像与……争辩的人"
     },
     {
       "surface": "כהן",
-      "english": "*祭司*"
+      "gloss": "*祭司*"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:11.525216189Z",
-  "model": "glm-5.2"
+  ]
 }

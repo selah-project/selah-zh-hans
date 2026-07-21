@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 6:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23087,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23510
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:36:23.511385520Z",
   "translation": "当⟨人⟩开始在地面上增多,女儿们就⟨被⟩生给他们的时候,",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨当⟩……的时候"
+      "gloss": "⟨当⟩……的时候"
     },
     {
       "surface": "כי",
-      "english": "当……的时候"
+      "gloss": "当……的时候"
     },
     {
       "surface": "החל",
-      "english": "开始"
+      "gloss": "开始"
     },
     {
       "surface": "האדם",
-      "english": "⟨人⟩"
+      "gloss": "⟨人⟩"
     },
     {
       "surface": "לרב",
-      "english": "增多"
+      "gloss": "增多"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פני",
-      "english": "表面"
+      "gloss": "表面"
     },
     {
       "surface": "האדמה",
-      "english": "地面"
+      "gloss": "地面"
     },
     {
       "surface": "ובנות",
-      "english": "女儿们"
+      "gloss": "女儿们"
     },
     {
       "surface": "ילדו",
-      "english": "⟨被⟩生"
+      "gloss": "⟨被⟩生"
     },
     {
       "surface": "להם",
-      "english": "给他们"
+      "gloss": "给他们"
     }
-  ],
-  "timestamp": "2026-07-17T17:36:23.511385520Z",
-  "model": "glm-5.2"
+  ]
 }

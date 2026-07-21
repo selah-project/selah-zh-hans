@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 1:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 239,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19191,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19430
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:08.910673192Z",
   "translation": "屬以薩迦的,拿坦業,本-楚阿的兒子。",
   "tokens": [
     {
       "surface": "ליששכר",
-      "english": "屬以薩迦的"
+      "gloss": "屬以薩迦的"
     },
     {
       "surface": "נתנאל",
-      "english": "拿坦業"
+      "gloss": "拿坦業"
     },
     {
       "surface": "בן",
-      "english": "的兒子"
+      "gloss": "的兒子"
     },
     {
       "surface": "צוער",
-      "english": "本-楚阿"
+      "gloss": "本-楚阿"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:08.910673192Z",
-  "model": "glm-5.2"
+  ]
 }

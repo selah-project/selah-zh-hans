@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-chronicles 19:4",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59379,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59946
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:05:48.167987953Z",
   "translation": "哈嫩就抓住大卫的仆人们，剃了他们，又截断 ⟨את⟩ 他们的衣服 ⟨到⟩ 一半，直到 ⟨那⟩ 臀部，然后打发他们走。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "就抓住"
+      "gloss": "就抓住"
     },
     {
       "surface": "חנון",
-      "english": "哈嫩"
+      "gloss": "哈嫩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫的仆人们"
     },
     {
       "surface": "עבדי",
-      "english": "仆人们"
+      "gloss": "仆人们"
     },
     {
       "surface": "דויד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "ויגלחם",
-      "english": "剃了他们"
+      "gloss": "剃了他们"
     },
     {
       "surface": "ויכרת",
-      "english": "又截断"
+      "gloss": "又截断"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的衣服"
     },
     {
       "surface": "מדויהם",
-      "english": "他们的衣服"
+      "gloss": "他们的衣服"
     },
     {
       "surface": "בחצי",
-      "english": "⟨到⟩ 一半"
+      "gloss": "⟨到⟩ 一半"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "המפשעה",
-      "english": "⟨那⟩ 臀部"
+      "gloss": "⟨那⟩ 臀部"
     },
     {
       "surface": "וישלחם",
-      "english": "然后打发他们走"
+      "gloss": "然后打发他们走"
     }
-  ],
-  "timestamp": "2026-07-18T02:05:48.167987953Z",
-  "model": "glm-5.2"
+  ]
 }

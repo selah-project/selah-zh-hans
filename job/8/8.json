@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 8:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21662,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22025
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:09.576966814Z",
   "translation": "因为 ⟨请⟩询问先前的世代，预备⟨自己去⟩查究他们的祖先；",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שאל",
-      "english": "询问"
+      "gloss": "询问"
     },
     {
       "surface": "נא",
-      "english": "⟨请⟩"
+      "gloss": "⟨请⟩"
     },
     {
       "surface": "לדר",
-      "english": "世代"
+      "gloss": "世代"
     },
     {
       "surface": "רישון",
-      "english": "先前的"
+      "gloss": "先前的"
     },
     {
       "surface": "וכונן",
-      "english": "预备"
+      "gloss": "预备"
     },
     {
       "surface": "לחקר",
-      "english": "查究"
+      "gloss": "查究"
     },
     {
       "surface": "אבותם",
-      "english": "他们的祖先"
+      "gloss": "他们的祖先"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:09.576966814Z",
-  "model": "glm-5.2"
+  ]
 }

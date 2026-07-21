@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "1-kings 2:14",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63732,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64001
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:55.558768671Z",
   "translation": "他⟨又⟩说：我有一*话* ⟨要⟩对你[说]。她⟨就⟩说：说吧。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他⟨又⟩说"
+      "gloss": "他⟨又⟩说"
     },
     {
       "surface": "דבר",
-      "english": "一*话*"
+      "gloss": "一*话*"
     },
     {
       "surface": "לי",
-      "english": "我有"
+      "gloss": "我有"
     },
     {
       "surface": "אליך",
-      "english": "对你[说]"
+      "gloss": "对你[说]"
     },
     {
       "surface": "ותאמר",
-      "english": "她⟨就⟩说"
+      "gloss": "她⟨就⟩说"
     },
     {
       "surface": "דבר",
-      "english": "说吧"
+      "gloss": "说吧"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:55.558768671Z",
-  "model": "glm-5.2"
+  ]
 }

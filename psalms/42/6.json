@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 42:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 581,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65016,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65597
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:37.205432206Z",
   "translation": "我的*内我*啊，你为何在你里面下沉，在你里面⟨为何⟩呻吟？当对以罗欣忍耐等候，因为仍要赞美⟨他⟩，⟨他是⟩他面前的拯救。",
   "tokens": [
     {
       "surface": "מה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "תשתוחחי",
-      "english": "下沉"
+      "gloss": "下沉"
     },
     {
       "surface": "נפשי",
-      "english": "我的*内我*"
+      "gloss": "我的*内我*"
     },
     {
       "surface": "ותהמי",
-      "english": "呻吟"
+      "gloss": "呻吟"
     },
     {
       "surface": "עלי",
-      "english": "在你里面"
+      "gloss": "在你里面"
     },
     {
       "surface": "הוחילי",
-      "english": "忍耐等候"
+      "gloss": "忍耐等候"
     },
     {
       "surface": "לאלהים",
-      "english": "对以罗欣"
+      "gloss": "对以罗欣"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עוד",
-      "english": "仍要"
+      "gloss": "仍要"
     },
     {
       "surface": "אודנו",
-      "english": "赞美⟨他⟩"
+      "gloss": "赞美⟨他⟩"
     },
     {
       "surface": "ישועות",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "פניו",
-      "english": "他面前的"
+      "gloss": "他面前的"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:37.205432206Z",
-  "model": "glm-5.2"
+  ]
 }

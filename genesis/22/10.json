@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 22:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23262,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23765
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:50.194830272Z",
   "translation": "亚伯拉罕伸出⟨他的⟩手,取了⟨את⟩刀,要宰杀⟨את⟩⟨他的⟩子。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "伸出"
+      "gloss": "伸出"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的手"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "ויקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "刀"
     },
     {
       "surface": "המאכלת",
-      "english": "刀"
+      "gloss": "刀"
     },
     {
       "surface": "לשחט",
-      "english": "要宰杀"
+      "gloss": "要宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的子"
     },
     {
       "surface": "בנו",
-      "english": "他的子"
+      "gloss": "他的子"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:50.194830272Z",
-  "model": "glm-5.2"
+  ]
 }

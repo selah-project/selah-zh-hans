@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 94:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 431,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64523,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64954
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:41.920018711Z",
   "translation": "雅威啊,恶人 ⟨要到⟩ 何时 ⟨才止⟩,恶人 ⟨要⟩ 狂喜 ⟨到⟩ 何时?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "⟨要到⟩"
+      "gloss": "⟨要到⟩"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "עד",
-      "english": "⟨到⟩"
+      "gloss": "⟨到⟩"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יעלזו",
-      "english": "狂喜"
+      "gloss": "狂喜"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:41.920018711Z",
-  "model": "glm-5.2"
+  ]
 }

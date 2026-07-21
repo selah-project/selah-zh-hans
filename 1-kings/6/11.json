@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-kings 6:11",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 263,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63668,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63931
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:43.657324574Z",
   "translation": "雅威的*davar*临到所罗门,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨于是⟩"
+      "gloss": "⟨于是⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:43.657324574Z",
-  "model": "glm-5.2"
+  ]
 }

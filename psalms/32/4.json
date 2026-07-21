@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 32:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 698,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64868,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65566
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:36.145016155Z",
   "translation": "因为日夜你的手在我身上沉重,我的בְ\/חַרְבֹנֵי(枯萎)转变为夏日的干旱。细拉。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יוֹמָ֣ם",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "וָ\/לַיְלָה֮",
-      "english": "和夜"
+      "gloss": "和夜"
     },
     {
       "surface": "תִּכְבַּ֥ד",
-      "english": "沉重"
+      "gloss": "沉重"
     },
     {
       "surface": "עָלַ֗\/י",
-      "english": "在我身上"
+      "gloss": "在我身上"
     },
     {
       "surface": "יָ֫דֶ֥\/ךָ",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "נֶהְפַּ֥ךְ",
-      "english": "转变"
+      "gloss": "转变"
     },
     {
       "surface": "לְשַׁדִּ֑\/י",
-      "english": "我的בְ\/חַרְבֹנֵי(枯萎)"
+      "gloss": "我的בְ\/חַרְבֹנֵי(枯萎)"
     },
     {
       "surface": "בְּ\/חַרְבֹנֵי",
-      "english": "(如\/转变为)"
+      "gloss": "(如\/转变为)"
     },
     {
       "surface": "קַ֣יִץ",
-      "english": "夏日的"
+      "gloss": "夏日的"
     },
     {
       "surface": "סֶֽלָה",
-      "english": "细拉"
+      "gloss": "细拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:36.145016155Z",
-  "model": "glm-5.2"
+  ]
 }

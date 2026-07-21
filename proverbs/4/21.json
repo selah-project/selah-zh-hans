@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "proverbs 4:21",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54301,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54710
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:21.999680037Z",
   "translation": "不要让它们从你眼前偏离，当将它们守在你心的深处。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "יליזו",
-      "english": "让它们偏离"
+      "gloss": "让它们偏离"
     },
     {
       "surface": "מעיניך",
-      "english": "从你眼前"
+      "gloss": "从你眼前"
     },
     {
       "surface": "שמרם",
-      "english": "当将它们守"
+      "gloss": "当将它们守"
     },
     {
       "surface": "בתוך",
-      "english": "在……深处"
+      "gloss": "在……深处"
     },
     {
       "surface": "לבבך",
-      "english": "你的心"
+      "gloss": "你的心"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:21.999680037Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "genesis 31:45",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22644,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22999
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:54:15.139014211Z",
   "translation": "雅各拿起一块 אבן (石头),将其立作一根柱子。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "于是⟨他⟩拿起"
+      "gloss": "于是⟨他⟩拿起"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אבן",
-      "english": "一块石头"
+      "gloss": "一块石头"
     },
     {
       "surface": "וירימה",
-      "english": "并高举它"
+      "gloss": "并高举它"
     },
     {
       "surface": "מצבה",
-      "english": "作为柱子"
+      "gloss": "作为柱子"
     }
-  ],
-  "timestamp": "2026-07-17T17:54:15.139014211Z",
-  "model": "glm-5.2"
+  ]
 }

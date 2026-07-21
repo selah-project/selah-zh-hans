@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 5:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64551,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65131
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:33.365963127Z",
   "translation": "因为你 ⟨⟨是⟩⟩ 不喜悦恶事的 אֵל（大能者），恶不与你同住。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹ֤א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אֵֽל",
-      "english": "אֵל（大能者）"
+      "gloss": "אֵל（大能者）"
     },
     {
       "surface": "חָפֵ֘ץ",
-      "english": "喜悦"
+      "gloss": "喜悦"
     },
     {
       "surface": "רֶ֥שַׁע",
-      "english": "恶事"
+      "gloss": "恶事"
     },
     {
       "surface": "אָ֑תָּה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "לֹ֖א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְגֻרְ\/ךָ֣",
-      "english": "与你同住"
+      "gloss": "与你同住"
     },
     {
       "surface": "רָֽע",
-      "english": "恶"
+      "gloss": "恶"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:33.365963127Z",
-  "model": "glm-5.2"
+  ]
 }

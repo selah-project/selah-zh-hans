@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 102:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64645,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65110
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:49.885834206Z",
   "translation": "你⟨要⟩起來,憐憫錫安;因為⟨現在是⟩恩待她的時候,因為所定的節期已經來到。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תקום",
-      "english": "起來"
+      "gloss": "起來"
     },
     {
       "surface": "תרחם",
-      "english": "憐憫"
+      "gloss": "憐憫"
     },
     {
       "surface": "ציון",
-      "english": "錫安"
+      "gloss": "錫安"
     },
     {
       "surface": "כי",
-      "english": "因為"
+      "gloss": "因為"
     },
     {
       "surface": "עת",
-      "english": "時候"
+      "gloss": "時候"
     },
     {
       "surface": "לחננה",
-      "english": "恩待她"
+      "gloss": "恩待她"
     },
     {
       "surface": "כי",
-      "english": "因為"
+      "gloss": "因為"
     },
     {
       "surface": "בא",
-      "english": "來到"
+      "gloss": "來到"
     },
     {
       "surface": "מועד",
-      "english": "所定的節期"
+      "gloss": "所定的節期"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:49.885834206Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
   "ref": "psalms 105:39",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 216,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64530
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:57.404925760Z",
   "translation": "他铺张云彩作为遮盖，与火⟨את⟩，为要在夜间照亮。",
   "tokens": [
     {
       "surface": "פרש",
-      "english": "他铺张"
+      "gloss": "他铺张"
     },
     {
       "surface": "ענן",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "למסך",
-      "english": "作为遮盖"
+      "gloss": "作为遮盖"
     },
     {
       "surface": "ואש",
-      "english": "与火"
+      "gloss": "与火"
     },
     {
       "surface": "להאיר",
-      "english": "为要照亮"
+      "gloss": "为要照亮"
     },
     {
       "surface": "לילה",
-      "english": "夜间"
+      "gloss": "夜间"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:57.404925760Z",
-  "model": "glm-5.2"
+  ]
 }

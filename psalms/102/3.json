@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 102:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64994,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65603
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:56.167910233Z",
   "translation": "求你אַל (不要) 隐藏你的面离开我,在我急难的日子;求你向 ⟨我⟩ 倾侧你的耳;在我呼求的日子,求你速速回答我。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "求你不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תסתר",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "פניך",
-      "english": "你的面"
+      "gloss": "你的面"
     },
     {
       "surface": "ממני",
-      "english": "离开我"
+      "gloss": "离开我"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "צר",
-      "english": "急难"
+      "gloss": "急难"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "הטה",
-      "english": "求你倾侧"
+      "gloss": "求你倾侧"
     },
     {
       "surface": "אלי",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "אזנך",
-      "english": "你的耳"
+      "gloss": "你的耳"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "אקרא",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "מהר",
-      "english": "速速"
+      "gloss": "速速"
     },
     {
       "surface": "ענני",
-      "english": "回答我"
+      "gloss": "回答我"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:56.167910233Z",
-  "model": "glm-5.2"
+  ]
 }

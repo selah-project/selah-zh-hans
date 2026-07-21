@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 72:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 245,
-    "prompt_tokens": 64444,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64689
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:46.866469983Z",
   "translation": "愿众君王都向他俯伏；万国都要事奉他。",
   "tokens": [
     {
       "surface": "וישתחוו",
-      "english": "愿...俯伏"
+      "gloss": "愿...俯伏"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     },
     {
       "surface": "כל",
-      "english": "众"
+      "gloss": "众"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "כל",
-      "english": "万"
+      "gloss": "万"
     },
     {
       "surface": "גוים",
-      "english": "国"
+      "gloss": "国"
     },
     {
       "surface": "יעבדוהו",
-      "english": "都要事奉他"
+      "gloss": "都要事奉他"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:46.866469983Z",
-  "model": "glm-4.5"
+  ]
 }

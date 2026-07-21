@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 118:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 217,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64243,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64460
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:45.897561474Z",
   "translation": "这是属雅威的门,义人 ⟨要⟩ 进其中。",
   "tokens": [
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "השער",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "ליהוה",
-      "english": "属雅威的"
+      "gloss": "属雅威的"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "יבאו",
-      "english": "进"
+      "gloss": "进"
     },
     {
       "surface": "בו",
-      "english": "其中"
+      "gloss": "其中"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:45.897561474Z",
-  "model": "glm-5.2"
+  ]
 }

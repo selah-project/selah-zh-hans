@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 35:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20573,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21074
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:50:43.908872729Z",
   "translation": "旷野和干旱之地当欢然，草原当快乐，当如玫瑰花 ⟨般⟩ 绽放。",
   "tokens": [
     {
       "surface": "יְשֻׂשׂ֥וּם",
-      "english": "当欢然"
+      "gloss": "当欢然"
     },
     {
       "surface": "מִדְבָּ֖ר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "וְ\/צִיָּ֑ה",
-      "english": "和干旱之地"
+      "gloss": "和干旱之地"
     },
     {
       "surface": "וְ\/תָגֵ֧ל",
-      "english": "当快乐"
+      "gloss": "当快乐"
     },
     {
       "surface": "עֲרָבָ֛ה",
-      "english": "草原"
+      "gloss": "草原"
     },
     {
       "surface": "וְ\/תִפְרַ֖ח",
-      "english": "当绽放"
+      "gloss": "当绽放"
     },
     {
       "surface": "כַּ\/חֲבַצָּֽלֶת",
-      "english": "如玫瑰花"
+      "gloss": "如玫瑰花"
     }
-  ],
-  "timestamp": "2026-07-17T21:50:43.908872729Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 20:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19912,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20326
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:15:06.714636800Z",
   "translation": "以东拒绝让⟨את⟩以色列穿越他的边界，以色列就⟨从他⟩转离。",
   "tokens": [
     {
       "surface": "וימאן",
-      "english": "拒绝"
+      "gloss": "拒绝"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "נתן",
-      "english": "让"
+      "gloss": "让"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עבר",
-      "english": "穿越"
+      "gloss": "穿越"
     },
     {
       "surface": "בגבלו",
-      "english": "他的边界"
+      "gloss": "他的边界"
     },
     {
       "surface": "ויט",
-      "english": "⟨因此⟩转离"
+      "gloss": "⟨因此⟩转离"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מעליו",
-      "english": "从他"
+      "gloss": "从他"
     }
-  ],
-  "timestamp": "2026-07-17T19:15:06.714636800Z",
-  "model": "glm-5.2"
+  ]
 }

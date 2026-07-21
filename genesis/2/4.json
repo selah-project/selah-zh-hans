@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 2:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23268,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23727
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:33:55.105970559Z",
   "translation": "这些⟨是⟩天和地的后代：在它们被造的日子，就是雅威以罗欣造地和天的那日。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "תולדות",
-      "english": "后代"
+      "gloss": "后代"
     },
     {
       "surface": "השמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "והארץ",
-      "english": "和地"
+      "gloss": "和地"
     },
     {
       "surface": "בהבראם",
-      "english": "在它们被造"
+      "gloss": "在它们被造"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "עשות",
-      "english": "造"
+      "gloss": "造"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ושמים",
-      "english": "和天"
+      "gloss": "和天"
     }
-  ],
-  "timestamp": "2026-07-17T17:33:55.105970559Z",
-  "model": "glm-5.2"
+  ]
 }

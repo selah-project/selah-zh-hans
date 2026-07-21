@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 30,
   "ref": "2-chronicles 20:30",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 398,
-    "prompt_tokens": 59647,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60045
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:30:01.211320026Z",
   "translation": "于是,约沙法的国 ⟨就⟩ 得享太平;因为他的以罗欣 ⟨已⟩ 使他从四围 ⟨都⟩ 得 ⟨安息⟩。",
   "tokens": [
     {
       "surface": "ותשקט",
-      "english": "于是,得享太平"
+      "gloss": "于是,得享太平"
     },
     {
       "surface": "מלכות",
-      "english": "国"
+      "gloss": "国"
     },
     {
       "surface": "יהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "וינח",
-      "english": "使...得 ⟨安息⟩"
+      "gloss": "使...得 ⟨安息⟩"
     },
     {
       "surface": "לו",
-      "english": "从... ⟨都⟩"
+      "gloss": "从... ⟨都⟩"
     },
     {
       "surface": "אלהיו",
-      "english": "他的以罗欣"
+      "gloss": "他的以罗欣"
     },
     {
       "surface": "מסביב",
-      "english": "四围"
+      "gloss": "四围"
     }
-  ],
-  "timestamp": "2026-07-21T13:30:01.211320026Z",
-  "model": "glm-4.5"
+  ]
 }

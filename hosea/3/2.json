@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "hosea 3:2",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21194,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21656
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:12:56.197720689Z",
   "translation": "我便为她买了⟨我⟩归自己，价银是十五块银子，一贺梅尔大麦和一勒特客大麦。",
   "tokens": [
     {
       "surface": "ואכרה",
-      "english": "我便买了"
+      "gloss": "我便买了"
     },
     {
       "surface": "לי",
-      "english": "⟨我⟩归自己"
+      "gloss": "⟨我⟩归自己"
     },
     {
       "surface": "בחמשה",
-      "english": "用十五"
+      "gloss": "用十五"
     },
     {
       "surface": "עשר",
-      "english": "(十五)"
+      "gloss": "(十五)"
     },
     {
       "surface": "כסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "וחמר",
-      "english": "和一贺梅尔"
+      "gloss": "和一贺梅尔"
     },
     {
       "surface": "שערים",
-      "english": "大麦"
+      "gloss": "大麦"
     },
     {
       "surface": "ולתך",
-      "english": "和一勒特客"
+      "gloss": "和一勒特客"
     },
     {
       "surface": "שערים",
-      "english": "大麦"
+      "gloss": "大麦"
     }
-  ],
-  "timestamp": "2026-07-17T23:12:56.197720689Z",
-  "model": "glm-5.2"
+  ]
 }

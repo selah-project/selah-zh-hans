@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 18:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21608,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22030
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:59.148250909Z",
   "translation": "因⟨他的⟩日子，后⟨来的人⟩⟨被⟩惊骇；而先⟨于的人⟩抓住了惊恐。",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "י֭וֹמ\/וֹ",
-      "english": "⟨他的⟩日子"
+      "gloss": "⟨他的⟩日子"
     },
     {
       "surface": "נָשַׁ֣מּוּ",
-      "english": "⟨被⟩惊骇"
+      "gloss": "⟨被⟩惊骇"
     },
     {
       "surface": "אַחֲרֹנִ֑ים",
-      "english": "后⟨来的人⟩"
+      "gloss": "后⟨来的人⟩"
     },
     {
       "surface": "וְ֝\/קַדְמֹנִ֗ים",
-      "english": "而先⟨于的人⟩"
+      "gloss": "而先⟨于的人⟩"
     },
     {
       "surface": "אָ֣חֲזוּ",
-      "english": "抓住了"
+      "gloss": "抓住了"
     },
     {
       "surface": "שָֽׂעַר",
-      "english": "惊恐"
+      "gloss": "惊恐"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:59.148250909Z",
-  "model": "glm-5.2"
+  ]
 }

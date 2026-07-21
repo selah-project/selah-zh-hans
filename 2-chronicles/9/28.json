@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "2-chronicles 9:28",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59475,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59880
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:19:08.373225906Z",
   "translation": "他们从埃及为所罗门带出马匹，也从所有的地⟨出来⟩。",
   "tokens": [
     {
       "surface": "וּ\/מוֹצִיאִ֨ים",
-      "english": "他们带出"
+      "gloss": "他们带出"
     },
     {
       "surface": "סוּסִ֧ים",
-      "english": "马匹"
+      "gloss": "马匹"
     },
     {
       "surface": "מִ\/מִּצְרַ֛יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "לִ\/שְׁלֹמֹ֖ה",
-      "english": "为所罗门"
+      "gloss": "为所罗门"
     },
     {
       "surface": "וּ\/מִ\/כָּל",
-      "english": "也从所有"
+      "gloss": "也从所有"
     },
     {
       "surface": "הָ\/אֲרָצֽוֹת",
-      "english": "的地"
+      "gloss": "的地"
     }
-  ],
-  "timestamp": "2026-07-18T02:19:08.373225906Z",
-  "model": "glm-5.2"
+  ]
 }

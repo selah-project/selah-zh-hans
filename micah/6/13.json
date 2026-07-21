@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "micah 6:13",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17316,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17738
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:26:37.052112038Z",
   "translation": "而我也 ⟨已⟩ 使你虚弱 —— 以击打你,使之荒凉,因着你的罪。",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "而我也"
+      "gloss": "而我也"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "החליתי",
-      "english": "⟨已⟩ 使你虚弱"
+      "gloss": "⟨已⟩ 使你虚弱"
     },
     {
       "surface": "הכותך",
-      "english": "以击打你"
+      "gloss": "以击打你"
     },
     {
       "surface": "השמם",
-      "english": "使之荒凉"
+      "gloss": "使之荒凉"
     },
     {
       "surface": "על",
-      "english": "因着"
+      "gloss": "因着"
     },
     {
       "surface": "חטאתך",
-      "english": "你的罪"
+      "gloss": "你的罪"
     }
-  ],
-  "timestamp": "2026-07-17T23:26:37.052112038Z",
-  "model": "glm-5.2"
+  ]
 }

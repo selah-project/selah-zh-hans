@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "exodus 16:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18733,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19244
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:10.303199115Z",
   "translation": "他们每天早晨收取⟨את⟩它,各人按着他⟨的⟩食量;太阳一发热,它就融化了。",
   "tokens": [
     {
       "surface": "וילקטו",
-      "english": "他们收取了"
+      "gloss": "他们收取了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它 (吗哪)"
     },
     {
       "surface": "בבקר",
-      "english": "在早晨"
+      "gloss": "在早晨"
     },
     {
       "surface": "בבקר",
-      "english": "在早晨"
+      "gloss": "在早晨"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "כפי",
-      "english": "按着他的食量"
+      "gloss": "按着他的食量"
     },
     {
       "surface": "אכלו",
-      "english": "他的食量"
+      "gloss": "他的食量"
     },
     {
       "surface": "וחם",
-      "english": "发热了"
+      "gloss": "发热了"
     },
     {
       "surface": "השמש",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "ונמס",
-      "english": "它就融化了"
+      "gloss": "它就融化了"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:10.303199115Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 28:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20616,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21049
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:47:13.046643429Z",
   "translation": "难道那耕田的整日耕作只为播种吗？他岂要不停地开垦、耙平⟨他⟩的泥土吗？",
   "tokens": [
     {
       "surface": "הכל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "היום",
-      "english": "⟨那⟩日"
+      "gloss": "⟨那⟩日"
     },
     {
       "surface": "יחרש",
-      "english": "他耕作"
+      "gloss": "他耕作"
     },
     {
       "surface": "החרש",
-      "english": "那耕田者"
+      "gloss": "那耕田者"
     },
     {
       "surface": "לזרע",
-      "english": "为播种"
+      "gloss": "为播种"
     },
     {
       "surface": "יפתח",
-      "english": "他开垦"
+      "gloss": "他开垦"
     },
     {
       "surface": "וישדד",
-      "english": "并耙平"
+      "gloss": "并耙平"
     },
     {
       "surface": "אדמתו",
-      "english": "他的泥土"
+      "gloss": "他的泥土"
     }
-  ],
-  "timestamp": "2026-07-17T21:47:13.046643429Z",
-  "model": "glm-5.2"
+  ]
 }

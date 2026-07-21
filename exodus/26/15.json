@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 26:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18494,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18797
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:28:30.359369510Z",
   "translation": "你要为会幕造 ⟨את⟩ 板幕，金合欢木的，站立的。",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "你要造"
+      "gloss": "你要造"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "板幕"
     },
     {
       "surface": "הקרשים",
-      "english": "板幕"
+      "gloss": "板幕"
     },
     {
       "surface": "למשכן",
-      "english": "为会幕"
+      "gloss": "为会幕"
     },
     {
       "surface": "עצי",
-      "english": "……的木"
+      "gloss": "……的木"
     },
     {
       "surface": "שטים",
-      "english": "金合欢"
+      "gloss": "金合欢"
     },
     {
       "surface": "עמדים",
-      "english": "站立的"
+      "gloss": "站立的"
     }
-  ],
-  "timestamp": "2026-07-17T18:28:30.359369510Z",
-  "model": "glm-5.2"
+  ]
 }

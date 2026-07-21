@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 66:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64340,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64820
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:37.773047903Z",
   "translation": "אָוֶן —— ⟨若⟩我看見它在我心裡,我的阿多奈就不會聽。",
   "tokens": [
     {
       "surface": "און",
-      "english": "אָוֶן —— 邪惡"
+      "gloss": "אָוֶן —— 邪惡"
     },
     {
       "surface": "אם",
-      "english": "⟨若⟩"
+      "gloss": "⟨若⟩"
     },
     {
       "surface": "ראיתי",
-      "english": "我看見"
+      "gloss": "我看見"
     },
     {
       "surface": "בלבי",
-      "english": "它在我心裡"
+      "gloss": "它在我心裡"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישמע",
-      "english": "⟨會⟩聽"
+      "gloss": "⟨會⟩聽"
     },
     {
       "surface": "אדני",
-      "english": "我的阿多奈"
+      "gloss": "我的阿多奈"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:37.773047903Z",
-  "model": "glm-5.2"
+  ]
 }

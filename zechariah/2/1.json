@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "zechariah 2:1",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17657,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 17987
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:32:59.242070810Z",
   "translation": "我举起⟨את⟩我的眼,看见,看哪,四只角。",
   "tokens": [
     {
       "surface": "וָאֶשָּׂא",
-      "english": "我举起"
+      "gloss": "我举起"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的眼"
     },
     {
       "surface": "עֵינַי",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "וָאֵרֶא",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "וְהִנֵּה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אַרְבַּע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "קְרָנוֹת",
-      "english": "只角"
+      "gloss": "只角"
     }
-  ],
-  "timestamp": "2026-07-17T23:32:59.242070810Z",
-  "model": "glm-5.2"
+  ]
 }

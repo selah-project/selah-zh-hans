@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 40:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18565,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18877
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:49.878171801Z",
   "translation": "他点起了灯，在雅威面前，正如雅威吩咐⟨את⟩摩西的。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "他点起"
+      "gloss": "他点起"
     },
     {
       "surface": "הנרת",
-      "english": "灯"
+      "gloss": "灯"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:49.878171801Z",
-  "model": "glm-5.2"
+  ]
 }

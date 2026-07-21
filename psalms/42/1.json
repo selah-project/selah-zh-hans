@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 42:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64212,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64513
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:33.426814782Z",
   "translation": "给唱诵者，一首训诲诗，可拉子孙的。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给唱诵者"
+      "gloss": "给唱诵者"
     },
     {
       "surface": "משכיל",
-      "english": "一首训诲诗"
+      "gloss": "一首训诲诗"
     },
     {
       "surface": "לבני",
-      "english": "……子孙的"
+      "gloss": "……子孙的"
     },
     {
       "surface": "קרח",
-      "english": "可拉"
+      "gloss": "可拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:33.426814782Z",
-  "model": "glm-5.2"
+  ]
 }

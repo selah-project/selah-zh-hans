@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 110:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64840,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65248
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:46.261968491Z",
   "translation": "雅威起了誓,⟨他⟩绝不改变心意:你⟨是⟩永远的祭司,照着麦基洗德的等次。",
   "tokens": [
     {
       "surface": "נשבע",
-      "english": "起了誓"
+      "gloss": "起了誓"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "绝不"
+      "gloss": "绝不"
     },
     {
       "surface": "ינחם",
-      "english": "改变心意"
+      "gloss": "改变心意"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "כהן",
-      "english": "⟨是⟩祭司"
+      "gloss": "⟨是⟩祭司"
     },
     {
       "surface": "לעולם",
-      "english": "永远的"
+      "gloss": "永远的"
     },
     {
       "surface": "על",
-      "english": "照着"
+      "gloss": "照着"
     },
     {
       "surface": "דברתי",
-      "english": "等次"
+      "gloss": "等次"
     },
     {
       "surface": "מלכי",
-      "english": "麦基"
+      "gloss": "麦基"
     },
     {
       "surface": "צדק",
-      "english": "洗德"
+      "gloss": "洗德"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:46.261968491Z",
-  "model": "glm-5.2"
+  ]
 }

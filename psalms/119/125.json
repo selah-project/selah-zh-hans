@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 125,
   "ref": "psalms 119:125",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64196,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64529
-  },
+  "verse": 125,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:48.169826337Z",
   "translation": "我是⟨你的⟩仆人；赐我明白⟨⟨以便⟩⟩我⟨可以⟩认识你的见证。⟨你的⟩",
   "tokens": [
     {
       "surface": "עבדך",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "הבינני",
-      "english": "赐我明白"
+      "gloss": "赐我明白"
     },
     {
       "surface": "ואדעה",
-      "english": "⟨以便⟩我⟨可以⟩认识"
+      "gloss": "⟨以便⟩我⟨可以⟩认识"
     },
     {
       "surface": "עדתיך",
-      "english": "⟨你的⟩见证"
+      "gloss": "⟨你的⟩见证"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:48.169826337Z",
-  "model": "glm-5.2"
+  ]
 }

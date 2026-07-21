@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "hosea 10:4",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 617,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21525,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 22142
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:15:32.419602118Z",
   "translation": "他们说话语 —— ⟨是⟩空洞的话，起假咒诅；他们切下盟约；而审判如毒草 ⟨一样⟩ 在田间的犁沟上发芽。",
   "tokens": [
     {
       "surface": "דברו",
-      "english": "他们说了"
+      "gloss": "他们说了"
     },
     {
       "surface": "דברים",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "אלות",
-      "english": "咒诅"
+      "gloss": "咒诅"
     },
     {
       "surface": "שוא",
-      "english": "空虚\/虚假"
+      "gloss": "空虚\/虚假"
     },
     {
       "surface": "כרת",
-      "english": "切下"
+      "gloss": "切下"
     },
     {
       "surface": "ברית",
-      "english": "盟约"
+      "gloss": "盟约"
     },
     {
       "surface": "ופרח",
-      "english": "而……发芽"
+      "gloss": "而……发芽"
     },
     {
       "surface": "כראש",
-      "english": "如毒草"
+      "gloss": "如毒草"
     },
     {
       "surface": "משפט",
-      "english": "审判"
+      "gloss": "审判"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "תלמי",
-      "english": "犁沟"
+      "gloss": "犁沟"
     },
     {
       "surface": "שדי",
-      "english": "田间"
+      "gloss": "田间"
     }
-  ],
-  "timestamp": "2026-07-17T23:15:32.419602118Z",
-  "model": "glm-5.2"
+  ]
 }

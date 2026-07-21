@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 88:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64538,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65064
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:21.249825427Z",
   "translation": "为死者 ⟨תַּעֲשֶׂה⟩ ⟨פֶּ֑לֶא⟩？抑或鲁阿音 (失去生命气息者) 起来，他们称谢 ךָ (你)？סֶֽלָה (音乐暂停)",
   "tokens": [
     {
       "surface": "הלמתים",
-      "english": "为死者"
+      "gloss": "为死者"
     },
     {
       "surface": "תעשה",
-      "english": "你行"
+      "gloss": "你行"
     },
     {
       "surface": "פלא",
-      "english": "奇事？"
+      "gloss": "奇事？"
     },
     {
       "surface": "אם",
-      "english": "抑或"
+      "gloss": "抑或"
     },
     {
       "surface": "רפאים",
-      "english": "鲁阿音 (失去生命气息者)"
+      "gloss": "鲁阿音 (失去生命气息者)"
     },
     {
       "surface": "יקומו",
-      "english": "起来，"
+      "gloss": "起来，"
     },
     {
       "surface": "יודוך",
-      "english": "他们称谢 ךָ (你)？"
+      "gloss": "他们称谢 ךָ (你)？"
     },
     {
       "surface": "סלה",
-      "english": "סֶֽלָה (音乐暂停)"
+      "gloss": "סֶֽלָה (音乐暂停)"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:21.249825427Z",
-  "model": "glm-5.2"
+  ]
 }

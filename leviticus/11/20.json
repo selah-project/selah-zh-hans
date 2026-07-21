@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "leviticus 11:20",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19027,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19479
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:35.066849120Z",
   "translation": "凡爬行的飞虫,用四足行走的,对你们是可憎之物。",
   "tokens": [
     {
       "surface": "כֹּל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "שֶׁרֶץ",
-      "english": "爬行的活物"
+      "gloss": "爬行的活物"
     },
     {
       "surface": "הָ\/ע֔וֹף",
-      "english": "飞虫"
+      "gloss": "飞虫"
     },
     {
       "surface": "הַ\/הֹלֵ֖ךְ",
-      "english": "行走的"
+      "gloss": "行走的"
     },
     {
       "surface": "עַל",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "אַרְבַּ֑ע",
-      "english": "四〈足〉"
+      "gloss": "四〈足〉"
     },
     {
       "surface": "שֶׁ֥קֶץ",
-      "english": "可憎之物"
+      "gloss": "可憎之物"
     },
     {
       "surface": "ה֖וּא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     },
     {
       "surface": "לָ\/כֶֽם",
-      "english": "对你们"
+      "gloss": "对你们"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:35.066849120Z",
-  "model": "glm-5.2"
+  ]
 }

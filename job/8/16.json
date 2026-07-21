@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 8:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21658,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22123
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:20.342674336Z",
   "translation": "他在日头面前 ⟨是⟩ 润泽的 (充满汁液)，他的嫩枝在他的园子上 ⟨将⟩ 发出来。",
   "tokens": [
     {
       "surface": "רָטֹ֣ב",
-      "english": "润泽的 (充满汁液)"
+      "gloss": "润泽的 (充满汁液)"
     },
     {
       "surface": "ה֭וּא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "לִ\/פְנֵי",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "שָׁ֑מֶשׁ",
-      "english": "日头"
+      "gloss": "日头"
     },
     {
       "surface": "וְ\/עַ֥ל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "גַּ֝נָּת֗\/וֹ",
-      "english": "他的园子"
+      "gloss": "他的园子"
     },
     {
       "surface": "יֹֽנַקְתּ֥\/וֹ",
-      "english": "他的嫩枝"
+      "gloss": "他的嫩枝"
     },
     {
       "surface": "תֵצֵֽא",
-      "english": "发出"
+      "gloss": "发出"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:20.342674336Z",
-  "model": "glm-5.2"
+  ]
 }

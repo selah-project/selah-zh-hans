@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 30:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22740,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23038
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:52:41.999150872Z",
   "translation": "利亚 又怀孕,为雅各生了第六个⟨בֵּן⟩。",
   "tokens": [
     {
       "surface": "ו\/תהר",
-      "english": "又怀孕"
+      "gloss": "又怀孕"
     },
     {
       "surface": "עוד",
-      "english": "又"
+      "gloss": "又"
     },
     {
       "surface": "לאה",
-      "english": "利亚"
+      "gloss": "利亚"
     },
     {
       "surface": "ו\/תלד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "בן",
-      "english": "⟨בֵּן⟩"
+      "gloss": "⟨בֵּן⟩"
     },
     {
       "surface": "ששי",
-      "english": "第六个"
+      "gloss": "第六个"
     },
     {
       "surface": "ל\/יעקב",
-      "english": "为雅各"
+      "gloss": "为雅各"
     }
-  ],
-  "timestamp": "2026-07-17T17:52:41.999150872Z",
-  "model": "glm-5.2"
+  ]
 }

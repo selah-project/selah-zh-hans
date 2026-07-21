@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 30:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21504,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21911
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:29.048373999Z",
   "translation": "在恐怖的溪谷中居住，⟨在⟩尘土的洞⟨中⟩和岩石的缝隙里。",
   "tokens": [
     {
       "surface": "בַּ\/עֲר֣וּץ",
-      "english": "在恐怖的"
+      "gloss": "在恐怖的"
     },
     {
       "surface": "נְחָלִ֣ים",
-      "english": "溪谷中"
+      "gloss": "溪谷中"
     },
     {
       "surface": "לִ\/שְׁכֹּ֑ן",
-      "english": "居住"
+      "gloss": "居住"
     },
     {
       "surface": "חֹרֵ֖י",
-      "english": "⟨在⟩……的洞⟨中⟩"
+      "gloss": "⟨在⟩……的洞⟨中⟩"
     },
     {
       "surface": "עָפָ֣ר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "וְ\/כֵפִֽים",
-      "english": "和岩石的缝隙里"
+      "gloss": "和岩石的缝隙里"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:29.048373999Z",
-  "model": "glm-5.2"
+  ]
 }

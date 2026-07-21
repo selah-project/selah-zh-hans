@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "leviticus 8:18",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19465,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19926
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:54.597466425Z",
   "translation": "他将⟨את⟩燔祭的公羊牵来，亚伦和他的儿子们按手在公羊的头上。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "他牵来"
+      "gloss": "他牵来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭的公羊"
     },
     {
       "surface": "איל",
-      "english": "公羊"
+      "gloss": "公羊"
     },
     {
       "surface": "העלה",
-      "english": "燔祭的"
+      "gloss": "燔祭的"
     },
     {
       "surface": "ויסמכו",
-      "english": "他们按"
+      "gloss": "他们按"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ובניו",
-      "english": "和他的儿子们"
+      "gloss": "和他的儿子们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的手"
     },
     {
       "surface": "ידיהם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "האיל",
-      "english": "公羊的"
+      "gloss": "公羊的"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:54.597466425Z",
-  "model": "glm-5.2"
+  ]
 }

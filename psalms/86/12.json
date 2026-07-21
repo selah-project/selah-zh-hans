@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 86:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64511,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64953
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:48.728912416Z",
   "translation": "我要称谢你,阿多奈我的以罗欣,以我全心的全全心;我要荣耀你的名,直到永远。",
   "tokens": [
     {
       "surface": "אוֹדְ\/ךָ֤",
-      "english": "我要称谢你"
+      "gloss": "我要称谢你"
     },
     {
       "surface": "אֲדֹנָ֣\/י",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "אֱ֭לֹהַ\/י",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "בְּ\/כָל",
-      "english": "以我全部的"
+      "gloss": "以我全部的"
     },
     {
       "surface": "לְבָבִ֑\/י",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "וַ\/אֲכַבְּדָ֖ה",
-      "english": "我要荣耀"
+      "gloss": "我要荣耀"
     },
     {
       "surface": "שִׁמְ\/ךָ֣",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "לְ\/עוֹלָֽם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:48.728912416Z",
-  "model": "glm-5.2"
+  ]
 }

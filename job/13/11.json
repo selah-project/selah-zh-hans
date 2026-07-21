@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 13:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21712,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22193
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:28.019176753Z",
   "translation": "他的威荣岂不使你们恐惧吗？⟨את⟩你们，⟨他的可畏⟩岂不落在你们身上吗？",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "岂不……吗"
+      "gloss": "岂不……吗"
     },
     {
       "surface": "שאתו",
-      "english": "他的威荣"
+      "gloss": "他的威荣"
     },
     {
       "surface": "תבעת",
-      "english": "使你们恐惧"
+      "gloss": "使你们恐惧"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "ופחדו",
-      "english": "和他的可畏"
+      "gloss": "和他的可畏"
     },
     {
       "surface": "יפל",
-      "english": "岂不落在"
+      "gloss": "岂不落在"
     },
     {
       "surface": "עליכם",
-      "english": "你们身上吗"
+      "gloss": "你们身上吗"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:28.019176753Z",
-  "model": "glm-5.2"
+  ]
 }

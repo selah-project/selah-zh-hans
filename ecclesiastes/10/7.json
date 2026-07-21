@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ecclesiastes 10:7",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19018,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19385
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:22:47.932868687Z",
   "translation": "我看见仆人骑在马上,而首领们步行如仆人在地上。",
   "tokens": [
     {
       "surface": "ראיתי",
-      "english": "我看见"
+      "gloss": "我看见"
     },
     {
       "surface": "עבדים",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "סוסים",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "ושרים",
-      "english": "而首领们"
+      "gloss": "而首领们"
     },
     {
       "surface": "הלכים",
-      "english": "步行"
+      "gloss": "步行"
     },
     {
       "surface": "כעבדים",
-      "english": "如仆人"
+      "gloss": "如仆人"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-18T01:22:47.932868687Z",
-  "model": "glm-5.2"
+  ]
 }

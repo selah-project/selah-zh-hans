@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 2:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64412,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64737
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:50.414022942Z",
   "translation": "要事奉⟨את⟩雅威,带着敬畏;也要在战兢中欢乐。",
   "tokens": [
     {
       "surface": "עבדו",
-      "english": "要事奉"
+      "gloss": "要事奉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ביראה",
-      "english": "带着敬畏"
+      "gloss": "带着敬畏"
     },
     {
       "surface": "וגילו",
-      "english": "也要……欢乐"
+      "gloss": "也要……欢乐"
     },
     {
       "surface": "ברעדה",
-      "english": "在战兢中"
+      "gloss": "在战兢中"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:50.414022942Z",
-  "model": "glm-5.2"
+  ]
 }

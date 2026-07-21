@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
   "ref": "psalms 89:51",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64619,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65095
-  },
+  "verse": 51,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:28.268883027Z",
   "translation": "求你记念,阿多奈,你仆人们所受的羞辱——我在怀中承载了许多强大民族的⟨את⟩辱骂;",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "求你记念"
+      "gloss": "求你记念"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "חרפת",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "עבדיך",
-      "english": "你仆人们"
+      "gloss": "你仆人们"
     },
     {
       "surface": "שאתי",
-      "english": "我……承载"
+      "gloss": "我……承载"
     },
     {
       "surface": "בחיקי",
-      "english": "在我的怀中"
+      "gloss": "在我的怀中"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "רבים",
-      "english": "许多强大"
+      "gloss": "许多强大"
     },
     {
       "surface": "עמים",
-      "english": "民族的"
+      "gloss": "民族的"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:28.268883027Z",
-  "model": "glm-5.2"
+  ]
 }

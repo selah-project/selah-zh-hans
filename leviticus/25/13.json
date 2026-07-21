@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "leviticus 25:13",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18861,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19236
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:40.091190252Z",
   "translation": "在这禧年,你们各人要回归,各人⟨归⟩回⟨到⟩⟨他⟩的产业。",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "在……的年"
+      "gloss": "在……的年"
     },
     {
       "surface": "היובל",
-      "english": "禧年"
+      "gloss": "禧年"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "תשבו",
-      "english": "你们要回归"
+      "gloss": "你们要回归"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "אל",
-      "english": "⟨到⟩"
+      "gloss": "⟨到⟩"
     },
     {
       "surface": "אחזתו",
-      "english": "⟨他⟩的产业"
+      "gloss": "⟨他⟩的产业"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:40.091190252Z",
-  "model": "glm-5.2"
+  ]
 }

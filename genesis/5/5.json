@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 5:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23181,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23495
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:49.665244683Z",
   "translation": "于是亚当活着的所有日子 ⟨是⟩ 九百年又三十年，他就死了。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "于是……是"
+      "gloss": "于是……是"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ימי",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "חי",
-      "english": "他活着的"
+      "gloss": "他活着的"
     },
     {
       "surface": "תשע",
-      "english": "九"
+      "gloss": "九"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ושלשים",
-      "english": "又三十"
+      "gloss": "又三十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "וימת",
-      "english": "他就死了"
+      "gloss": "他就死了"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:49.665244683Z",
-  "model": "glm-5.2"
+  ]
 }

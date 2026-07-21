@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 122,
   "ref": "psalms 119:122",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64286,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64558
-  },
+  "verse": 122,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:46.914951660Z",
   "translation": "求祢为祢的仆人作保，⟨使之⟩得着善；不要让骄傲人欺压我。",
   "tokens": [
     {
       "surface": "ערב",
-      "english": "求祢作保"
+      "gloss": "求祢作保"
     },
     {
       "surface": "עבדך",
-      "english": "为祢的仆人"
+      "gloss": "为祢的仆人"
     },
     {
       "surface": "לטוב",
-      "english": "向着善"
+      "gloss": "向着善"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "יעשקני",
-      "english": "让他们欺压我"
+      "gloss": "让他们欺压我"
     },
     {
       "surface": "זדים",
-      "english": "骄傲人"
+      "gloss": "骄傲人"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:46.914951660Z",
-  "model": "glm-5.2"
+  ]
 }

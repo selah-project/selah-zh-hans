@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "psalms 106:40",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64551,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64888
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:51.713873234Z",
   "translation": "雅威的怒气向⟨他的⟩百姓发作,他就厌恶⟨את⟩⟨他的⟩产业。",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "发作"
+      "gloss": "发作"
     },
     {
       "surface": "אף",
-      "english": "怒气"
+      "gloss": "怒气"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בעמו",
-      "english": "向⟨他的⟩百姓"
+      "gloss": "向⟨他的⟩百姓"
     },
     {
       "surface": "ויתעב",
-      "english": "他就厌恶"
+      "gloss": "他就厌恶"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的产业"
     },
     {
       "surface": "נחלתו",
-      "english": "⟨他的⟩产业"
+      "gloss": "⟨他的⟩产业"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:51.713873234Z",
-  "model": "glm-5.2"
+  ]
 }

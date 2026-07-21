@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "genesis 37:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 385,
-    "prompt_tokens": 23132,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23517
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:39.521604109Z",
   "translation": "一个人发现他,看哪,他在田野中徘徊,那人问他说,你寻找什么?",
   "tokens": [
     {
       "surface": "וימצאהו",
-      "english": "一个人发现他"
+      "gloss": "一个人发现他"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "תעה",
-      "english": "他在徘徊"
+      "gloss": "他在徘徊"
     },
     {
       "surface": "בשדה",
-      "english": "在田野中"
+      "gloss": "在田野中"
     },
     {
       "surface": "וישאלהו",
-      "english": "那人问他"
+      "gloss": "那人问他"
     },
     {
       "surface": "האיש",
-      "english": "那人"
+      "gloss": "那人"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "תבקש",
-      "english": "你寻找"
+      "gloss": "你寻找"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:39.521604109Z",
-  "model": "glm-4.5"
+  ]
 }

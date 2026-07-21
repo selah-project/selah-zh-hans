@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 92:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64653,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65061
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:16.832720125Z",
   "translation": "愚昧的人不知道，愚妄的人也不明白⟨את⟩这⟨事⟩。",
   "tokens": [
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "בער",
-      "english": "愚昧的"
+      "gloss": "愚昧的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "וכסיל",
-      "english": "愚妄的人也不"
+      "gloss": "愚妄的人也不"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יבין",
-      "english": "明白"
+      "gloss": "明白"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这 (זאת)"
     },
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:16.832720125Z",
-  "model": "glm-5.2"
+  ]
 }

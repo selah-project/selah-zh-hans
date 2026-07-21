@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "numbers 10:11",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19975,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20431
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:39.009095288Z",
   "translation": "在第二年，第二个月，⟨那⟩月的二十日，云彩从会幕——⟨那⟩见证⟨之会幕⟩——上升离去。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨事就这样发生⟩"
+      "gloss": "⟨事就这样发生⟩"
     },
     {
       "surface": "בשנה",
-      "english": "在⟨那⟩年"
+      "gloss": "在⟨那⟩年"
     },
     {
       "surface": "השנית",
-      "english": "第二"
+      "gloss": "第二"
     },
     {
       "surface": "בחדש",
-      "english": "在⟨那⟩月"
+      "gloss": "在⟨那⟩月"
     },
     {
       "surface": "השני",
-      "english": "第二"
+      "gloss": "第二"
     },
     {
       "surface": "בעשרים",
-      "english": "二十日"
+      "gloss": "二十日"
     },
     {
       "surface": "בחדש",
-      "english": "⟨那⟩月"
+      "gloss": "⟨那⟩月"
     },
     {
       "surface": "נעלה",
-      "english": "上升"
+      "gloss": "上升"
     },
     {
       "surface": "הענן",
-      "english": "⟨那⟩云彩"
+      "gloss": "⟨那⟩云彩"
     },
     {
       "surface": "מעל",
-      "english": "从……之上"
+      "gloss": "从……之上"
     },
     {
       "surface": "משכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "העדת",
-      "english": "⟨那⟩见证"
+      "gloss": "⟨那⟩见证"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:39.009095288Z",
-  "model": "glm-5.2"
+  ]
 }

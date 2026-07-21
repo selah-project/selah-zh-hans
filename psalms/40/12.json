@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 40:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64930,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65432
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:55.403945708Z",
   "translation": "你,雅威啊,你的怜悯不收回⟨不⟩离开我;你的慈爱和你的信实 continually 守护我。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תכלא",
-      "english": "收回"
+      "gloss": "收回"
     },
     {
       "surface": "רחמיך",
-      "english": "你的怜悯"
+      "gloss": "你的怜悯"
     },
     {
       "surface": "ממני",
-      "english": "离开我"
+      "gloss": "离开我"
     },
     {
       "surface": "חסדך",
-      "english": "你的慈爱"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "ואמתך",
-      "english": "和你的信实"
+      "gloss": "和你的信实"
     },
     {
       "surface": "תמיד",
-      "english": "continually"
+      "gloss": "continually"
     },
     {
       "surface": "יצרוני",
-      "english": "守护我"
+      "gloss": "守护我"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:55.403945708Z",
-  "model": "glm-5.2"
+  ]
 }

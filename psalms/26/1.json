@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 26:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64823,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65337
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:39.666814931Z",
   "translation": "大卫的。雅威啊,求你为我施行审判,因为我在我的完全中行走,我倚靠雅威,我必不滑跌。",
   "tokens": [
     {
       "surface": "לדוד",
-      "english": "大卫的。"
+      "gloss": "大卫的。"
     },
     {
       "surface": "שפטני",
-      "english": "求你为我施行审判"
+      "gloss": "求你为我施行审判"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "בתמי",
-      "english": "在我的完全中"
+      "gloss": "在我的完全中"
     },
     {
       "surface": "הלכתי",
-      "english": "我……行走"
+      "gloss": "我……行走"
     },
     {
       "surface": "וביהוה",
-      "english": "我倚靠雅威"
+      "gloss": "我倚靠雅威"
     },
     {
       "surface": "בטחתי",
-      "english": "我……倚靠"
+      "gloss": "我……倚靠"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אמעד",
-      "english": "我必滑跌"
+      "gloss": "我必滑跌"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:39.666814931Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 23:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 288,
-    "prompt_tokens": 54462,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54750
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:34.873847999Z",
   "translation": "不要挪移古时的地界，也不要进入孤儿的田地：",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תסג",
-      "english": "挪移"
+      "gloss": "挪移"
     },
     {
       "surface": "גבול",
-      "english": "地界"
+      "gloss": "地界"
     },
     {
       "surface": "עולם",
-      "english": "古时"
+      "gloss": "古时"
     },
     {
       "surface": "ובשדי",
-      "english": "并且进入"
+      "gloss": "并且进入"
     },
     {
       "surface": "יתומים",
-      "english": "孤儿"
+      "gloss": "孤儿"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תבא",
-      "english": "进入"
+      "gloss": "进入"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:34.873847999Z",
-  "model": "glm-4.5"
+  ]
 }

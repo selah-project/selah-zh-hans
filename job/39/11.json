@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 39:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 317,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21643,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21960
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:40.562550945Z",
   "translation": "你⟨是否⟩信靠他，因他的力量⟨是⟩大？你⟨是否⟩将你的辛劳留给他？",
   "tokens": [
     {
       "surface": "התבטח",
-      "english": "你⟨是否⟩信靠"
+      "gloss": "你⟨是否⟩信靠"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "כי",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "רב",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "כחו",
-      "english": "他的力量"
+      "gloss": "他的力量"
     },
     {
       "surface": "ותעזב",
-      "english": "你⟨是否⟩将……留给"
+      "gloss": "你⟨是否⟩将……留给"
     },
     {
       "surface": "אליו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "יגיעך",
-      "english": "你的辛劳"
+      "gloss": "你的辛劳"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:40.562550945Z",
-  "model": "glm-5.2"
+  ]
 }

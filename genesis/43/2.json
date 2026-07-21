@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 43:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23789,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24492
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:17.806800507Z",
   "translation": "当⟨他们⟩吃完 ⟨את⟩ ⟨他们⟩从埃及带回来的粮食时,⟨他们的⟩父亲对他们说:回去,为我们买少许食物。",
   "tokens": [
     {
       "surface": "וַ\/יְהִ֗י",
-      "english": "当……时"
+      "gloss": "当……时"
     },
     {
       "surface": "כַּ\/אֲשֶׁ֤ר",
-      "english": "⟨引导时间从句⟩"
+      "gloss": "⟨引导时间从句⟩"
     },
     {
       "surface": "כִּלּוּ֙",
-      "english": "⟨他们⟩吃完"
+      "gloss": "⟨他们⟩吃完"
     },
     {
       "surface": "לֶ\/אֱכֹ֣ל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "粮食"
     },
     {
       "surface": "הַ\/שֶּׁ֔בֶר",
-      "english": "粮食"
+      "gloss": "粮食"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨引导关系从句⟩"
+      "gloss": "⟨引导关系从句⟩"
     },
     {
       "surface": "הֵבִ֖יאוּ",
-      "english": "⟨他们⟩带回来"
+      "gloss": "⟨他们⟩带回来"
     },
     {
       "surface": "מִ\/מִּצְרָ֑יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "וַ\/יֹּ֤אמֶר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "אֲלֵי\/הֶם֙",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "אֲבִי\/הֶ֔ם",
-      "english": "⟨他们的⟩父亲"
+      "gloss": "⟨他们的⟩父亲"
     },
     {
       "surface": "שֻׁ֖בוּ",
-      "english": "回去"
+      "gloss": "回去"
     },
     {
       "surface": "שִׁבְרוּ",
-      "english": "买"
+      "gloss": "买"
     },
     {
       "surface": "לָ֥\/נוּ",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "מְעַט",
-      "english": "少许"
+      "gloss": "少许"
     },
     {
       "surface": "אֹֽכֶל",
-      "english": "食物"
+      "gloss": "食物"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:17.806800507Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 42:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22890,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23249
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:02:23.326130405Z",
   "translation": "约瑟认出了⟨את⟩他的兄弟们,但他们没有认出他。",
   "tokens": [
     {
       "surface": "ויכר",
-      "english": "认出了"
+      "gloss": "认出了"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的兄弟们"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟们"
+      "gloss": "他的兄弟们"
     },
     {
       "surface": "והם",
-      "english": "但他们"
+      "gloss": "但他们"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "הכרהו",
-      "english": "认出他"
+      "gloss": "认出他"
     }
-  ],
-  "timestamp": "2026-07-17T18:02:23.326130405Z",
-  "model": "glm-5.2"
+  ]
 }

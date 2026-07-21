@@ -1,77 +1,69 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "genesis 46:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 457,
-    "prompt_tokens": 23560,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24017
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:57.740615120Z",
   "translation": "祂说:我是 以罗欣,你父亲 的以罗欣;不要惧怕下到埃及去,因为我必使你在那里成为大国。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "祂说"
+      "gloss": "祂说"
     },
     {
       "surface": "אנכי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "האל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אלהי",
-      "english": "你父亲 的以罗欣"
+      "gloss": "你父亲 的以罗欣"
     },
     {
       "surface": "אביך",
-      "english": "你父亲"
+      "gloss": "你父亲"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תירא",
-      "english": "惧怕"
+      "gloss": "惧怕"
     },
     {
       "surface": "מרדה",
-      "english": "下到"
+      "gloss": "下到"
     },
     {
       "surface": "מצרימה",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לגוי",
-      "english": "成为大国"
+      "gloss": "成为大国"
     },
     {
       "surface": "גדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "אשימך",
-      "english": "我必使你"
+      "gloss": "我必使你"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:57.740615120Z",
-  "model": "glm-4.5"
+  ]
 }

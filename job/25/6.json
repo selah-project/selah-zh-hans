@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 25:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21546,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22019
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:27.607209579Z",
   "translation": "何况 ⟨人⟩ ⟨是⟩ 蛆虫——*enosh*⟨凡人⟩, ⟨אדם⟩ 之子 ⟨也⟩ ⟨是⟩ 虫子！",
   "tokens": [
     {
       "surface": "אף",
-      "english": "何况"
+      "gloss": "何况"
     },
     {
       "surface": "כי",
-      "english": "〈连词〉"
+      "gloss": "〈连词〉"
     },
     {
       "surface": "אנוש",
-      "english": "*enosh*〈凡人〉"
+      "gloss": "*enosh*〈凡人〉"
     },
     {
       "surface": "רמה",
-      "english": "蛆虫"
+      "gloss": "蛆虫"
     },
     {
       "surface": "ובן",
-      "english": "——〈也〉……之子"
+      "gloss": "——〈也〉……之子"
     },
     {
       "surface": "אדם",
-      "english": "〈אדם〉"
+      "gloss": "〈אדם〉"
     },
     {
       "surface": "תולעה",
-      "english": "虫子"
+      "gloss": "虫子"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:27.607209579Z",
-  "model": "glm-5.2"
+  ]
 }

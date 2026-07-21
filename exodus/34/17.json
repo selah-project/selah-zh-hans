@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 34:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18137,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18518
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:40.450999900Z",
   "translation": "以罗欣(神明)的铸像,你不可为自己制造。",
   "tokens": [
     {
       "surface": "אלהי",
-      "english": "以罗欣(神明)的"
+      "gloss": "以罗欣(神明)的"
     },
     {
       "surface": "מסכה",
-      "english": "铸像"
+      "gloss": "铸像"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תעשה",
-      "english": "你……制造"
+      "gloss": "你……制造"
     },
     {
       "surface": "לך",
-      "english": "为你自己"
+      "gloss": "为你自己"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:40.450999900Z",
-  "model": "glm-5.2"
+  ]
 }

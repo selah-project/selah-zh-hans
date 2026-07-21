@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "isaiah 1:30",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20745,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21147
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:34:54.249010035Z",
   "translation": "因为你们必像叶子枯萎的⟨树⟩，又像没有水的园子。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תהיו",
-      "english": "你们必像"
+      "gloss": "你们必像"
     },
     {
       "surface": "כאלה",
-      "english": "像"
+      "gloss": "像"
     },
     {
       "surface": "נבלת",
-      "english": "枯萎的"
+      "gloss": "枯萎的"
     },
     {
       "surface": "עלה",
-      "english": "叶子"
+      "gloss": "叶子"
     },
     {
       "surface": "וכגנה",
-      "english": "又像园子"
+      "gloss": "又像园子"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לה",
-      "english": "给它⟨的⟩"
+      "gloss": "给它⟨的⟩"
     }
-  ],
-  "timestamp": "2026-07-17T21:34:54.249010035Z",
-  "model": "glm-5.2"
+  ]
 }

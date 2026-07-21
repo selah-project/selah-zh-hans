@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-samuel 9:5",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18971,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19428
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:44:34.698736191Z",
   "translation": "于是大卫王派人去,把⟨他⟩从玛吉的儿子亚米利家中、罗底巴那里带回来⟨了⟩。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "于是……派人去"
+      "gloss": "于是……派人去"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "ויקחהו",
-      "english": "把⟨他⟩……带回来"
+      "gloss": "把⟨他⟩……带回来"
     },
     {
       "surface": "מבית",
-      "english": "从……家中"
+      "gloss": "从……家中"
     },
     {
       "surface": "מכיר",
-      "english": "玛吉"
+      "gloss": "玛吉"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "עמיאל",
-      "english": "亚米利"
+      "gloss": "亚米利"
     },
     {
       "surface": "מלו",
-      "english": "从……那里"
+      "gloss": "从……那里"
     },
     {
       "surface": "דבר",
-      "english": "罗底巴"
+      "gloss": "罗底巴"
     }
-  ],
-  "timestamp": "2026-07-17T20:44:34.698736191Z",
-  "model": "glm-5.2"
+  ]
 }

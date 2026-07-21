@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 42:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23171,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23640
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:02:46.948185497Z",
   "translation": "我们全都是一个人的儿子;我们⟨是⟩诚实的人;你的仆人不是探子。",
   "tokens": [
     {
       "surface": "כלנו",
-      "english": "我们全都"
+      "gloss": "我们全都"
     },
     {
       "surface": "בני",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "נחנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "כנים",
-      "english": "诚实的人"
+      "gloss": "诚实的人"
     },
     {
       "surface": "אנחנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "היו",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "עבדיך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "מרגלים",
-      "english": "探子"
+      "gloss": "探子"
     }
-  ],
-  "timestamp": "2026-07-17T18:02:46.948185497Z",
-  "model": "glm-5.2"
+  ]
 }

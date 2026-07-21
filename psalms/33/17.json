@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 33:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64429,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64892
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:58.311161962Z",
   "translation": "马 ⟨对\/拯救\/而言\/是⟩ 虚谎；凭他力量的丰盛，他不能逃脱 ⟨任何人⟩。",
   "tokens": [
     {
       "surface": "שֶׁ֣קֶר",
-      "english": "虚谎"
+      "gloss": "虚谎"
     },
     {
       "surface": "הַ\/סּוּס",
-      "english": "马"
+      "gloss": "马"
     },
     {
       "surface": "לִ\/תְשׁוּעָ֑ה",
-      "english": "⟨对\/拯救\/而言\/是⟩"
+      "gloss": "⟨对\/拯救\/而言\/是⟩"
     },
     {
       "surface": "וְ\/בְ\/רֹב",
-      "english": "凭……的丰盛"
+      "gloss": "凭……的丰盛"
     },
     {
       "surface": "חֵיל֗\/וֹ",
-      "english": "他力量"
+      "gloss": "他力量"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יְמַלֵּֽט",
-      "english": "能逃脱"
+      "gloss": "能逃脱"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:58.311161962Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 20:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21725,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22159
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:00.843043049Z",
   "translation": "亲眼见过他的⟨את⟩眼不再加添⟨观看⟩,他的地方也不再被注视,⟨这是⟩他的位置。",
   "tokens": [
     {
       "surface": "עין",
-      "english": "眼"
+      "gloss": "眼"
     },
     {
       "surface": "שזפתו",
-      "english": "亲眼见过他的",
+      "gloss": "亲眼见过他的",
       "marks": "他"
     },
     {
       "surface": "ולא",
-      "english": "不再"
+      "gloss": "不再"
     },
     {
       "surface": "תוסיף",
-      "english": "加添⟨观看⟩"
+      "gloss": "加添⟨观看⟩"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "תשורנו",
-      "english": "被注视"
+      "gloss": "被注视"
     },
     {
       "surface": "מקומו",
-      "english": "他的地方 \/ 他的位置"
+      "gloss": "他的地方 \/ 他的位置"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:00.843043049Z",
-  "model": "glm-5.2"
+  ]
 }

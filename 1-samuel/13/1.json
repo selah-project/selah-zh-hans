@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-samuel 13:1",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18058,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18459
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:27:48.543179272Z",
   "translation": "扫罗登基时 ⟨是⟩ 一岁之子;他作王治理以色列两年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "שנה",
-      "english": "一岁"
+      "gloss": "一岁"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "במלכו",
-      "english": "在他登基时"
+      "gloss": "在他登基时"
     },
     {
       "surface": "ושתי",
-      "english": "以及两年"
+      "gloss": "以及两年"
     },
     {
       "surface": "שנים",
-      "english": "两年"
+      "gloss": "两年"
     },
     {
       "surface": "מלך",
-      "english": "他作王"
+      "gloss": "他作王"
     },
     {
       "surface": "על",
-      "english": "治理"
+      "gloss": "治理"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T20:27:48.543179272Z",
-  "model": "glm-5.2"
+  ]
 }

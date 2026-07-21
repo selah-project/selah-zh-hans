@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 21:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64540,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64831
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:52.512898343Z",
   "translation": "你的手将寻见你一切的仇敌；你的右手将寻见恨你的人。",
   "tokens": [
     {
       "surface": "תמצא",
-      "english": "将寻见"
+      "gloss": "将寻见"
     },
     {
       "surface": "ידך",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "לכל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "איביך",
-      "english": "你的仇敌"
+      "gloss": "你的仇敌"
     },
     {
       "surface": "ימינך",
-      "english": "你的右手"
+      "gloss": "你的右手"
     },
     {
       "surface": "תמצא",
-      "english": "将寻见"
+      "gloss": "将寻见"
     },
     {
       "surface": "שנאיך",
-      "english": "恨你的人"
+      "gloss": "恨你的人"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:52.512898343Z",
-  "model": "glm-5.2"
+  ]
 }

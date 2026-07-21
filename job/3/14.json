@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 3:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21520,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21924
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:56.656234561Z",
   "translation": "与君王和地上的谋士同在,他们为自己建造废墟 ⟨לָֽ\/מוֹ⟩;",
   "tokens": [
     {
       "surface": "עם",
-      "english": "与……同在"
+      "gloss": "与……同在"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "ויעצי",
-      "english": "和谋士"
+      "gloss": "和谋士"
     },
     {
       "surface": "ארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "הבנים",
-      "english": "⟨他们⟩建造"
+      "gloss": "⟨他们⟩建造"
     },
     {
       "surface": "חרבות",
-      "english": "废墟"
+      "gloss": "废墟"
     },
     {
       "surface": "למו",
-      "english": "为自己"
+      "gloss": "为自己"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:56.656234561Z",
-  "model": "glm-5.2"
+  ]
 }

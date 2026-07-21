@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 26:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20606,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21129
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:46:04.505509975Z",
   "translation": "雅威啊,在困苦中他们寻求了你;他们倾吐出低语,你的管教⟨临到⟩他们身上。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "בצר",
-      "english": "在困苦中"
+      "gloss": "在困苦中"
     },
     {
       "surface": "פקדוך",
-      "english": "他们寻求了你"
+      "gloss": "他们寻求了你"
     },
     {
       "surface": "צקון",
-      "english": "他们倾吐出"
+      "gloss": "他们倾吐出"
     },
     {
       "surface": "לחש",
-      "english": "低语"
+      "gloss": "低语"
     },
     {
       "surface": "מוסרך",
-      "english": "你的管教"
+      "gloss": "你的管教"
     },
     {
       "surface": "למו",
-      "english": "他们身上"
+      "gloss": "他们身上"
     }
-  ],
-  "timestamp": "2026-07-17T21:46:04.505509975Z",
-  "model": "glm-5.2"
+  ]
 }

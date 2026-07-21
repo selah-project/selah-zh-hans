@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 105:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64356,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64636
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:33.610420859Z",
   "translation": "不可触碰我的受膏者,对我的先知不可行恶。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תגעו",
-      "english": "你们触碰"
+      "gloss": "你们触碰"
     },
     {
       "surface": "במשיחי",
-      "english": "我的受膏者"
+      "gloss": "我的受膏者"
     },
     {
       "surface": "ולנביאי",
-      "english": "对我的先知"
+      "gloss": "对我的先知"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תרעו",
-      "english": "你们行恶"
+      "gloss": "你们行恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:33.610420859Z",
-  "model": "glm-5.2"
+  ]
 }

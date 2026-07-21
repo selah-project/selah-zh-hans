@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 41,
   "ref": "psalms 89:41",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64379,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64654
-  },
+  "verse": 41,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:15.678053587Z",
   "translation": "你破开了他一切的篱笆；你使他的保障变为荒废。",
   "tokens": [
     {
       "surface": "פרצת",
-      "english": "你破开了"
+      "gloss": "你破开了"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "גדרתיו",
-      "english": "他的篱笆"
+      "gloss": "他的篱笆"
     },
     {
       "surface": "שמת",
-      "english": "你使……变为"
+      "gloss": "你使……变为"
     },
     {
       "surface": "מבצריו",
-      "english": "他的保障"
+      "gloss": "他的保障"
     },
     {
       "surface": "מחתה",
-      "english": "荒废"
+      "gloss": "荒废"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:15.678053587Z",
-  "model": "glm-5.2"
+  ]
 }

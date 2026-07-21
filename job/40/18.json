@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 40:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21583,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21980
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:31.828255637Z",
   "translation": "他的骨头 ⟨是⟩ 铜管，他的骨架 ⟨是⟩ 如铁的杠 ⟨一样⟩。",
   "tokens": [
     {
       "surface": "עצמיו",
-      "english": "他的骨头"
+      "gloss": "他的骨头"
     },
     {
       "surface": "אפיקי",
-      "english": "铜管"
+      "gloss": "铜管"
     },
     {
       "surface": "נחושה",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "גרמיו",
-      "english": "他的骨架"
+      "gloss": "他的骨架"
     },
     {
       "surface": "כמטיל",
-      "english": "如铁的杠"
+      "gloss": "如铁的杠"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:31.828255637Z",
-  "model": "glm-5.2"
+  ]
 }

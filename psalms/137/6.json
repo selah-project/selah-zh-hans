@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 137:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65273,
-    "prompt_tokens_details": {
-      "cached_tokens": 65216
-    },
-    "total_tokens": 65772
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:47.224242667Z",
   "translation": "愿我的舌头紧贴我的上颚，若我不记念你；若我不将⟨את⟩耶路撒冷置于我的首要喜乐之上；",
   "tokens": [
     {
       "surface": "תדבק",
-      "english": "愿……紧贴"
+      "gloss": "愿……紧贴"
     },
     {
       "surface": "לשוני",
-      "english": "我的舌头"
+      "gloss": "我的舌头"
     },
     {
       "surface": "לחכי",
-      "english": "我的上颚"
+      "gloss": "我的上颚"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אזכרכי",
-      "english": "我记念你"
+      "gloss": "我记念你"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אעלה",
-      "english": "我高举"
+      "gloss": "我高举"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶路撒冷"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "ראש",
-      "english": "首要"
+      "gloss": "首要"
     },
     {
       "surface": "שמחתי",
-      "english": "我的喜乐"
+      "gloss": "我的喜乐"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:47.224242667Z",
-  "model": "glm-5.2"
+  ]
 }

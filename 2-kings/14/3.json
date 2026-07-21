@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-kings 14:3",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18939,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19378
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:26:20.768178652Z",
   "translation": "他行雅威眼中看为正的事,只是不如他父亲大卫;⟨他⟩行了⟨他⟩父亲约阿施所行的一切。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行"
+      "gloss": "他行"
     },
     {
       "surface": "הישר",
-      "english": "正(的事)"
+      "gloss": "正(的事)"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "רק",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "לא",
-      "english": "不(如)"
+      "gloss": "不(如)"
     },
     {
       "surface": "כדוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "ככל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "עשה",
-      "english": "行的"
+      "gloss": "行的"
     },
     {
       "surface": "יואש",
-      "english": "约阿施"
+      "gloss": "约阿施"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "עשה",
-      "english": "⟨他⟩行了"
+      "gloss": "⟨他⟩行了"
     }
-  ],
-  "timestamp": "2026-07-17T21:26:20.768178652Z",
-  "model": "glm-5.2"
+  ]
 }

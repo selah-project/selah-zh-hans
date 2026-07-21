@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 51:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 576,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64869,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65445
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:03.571228647Z",
   "translation": "向你,唯独向你,我犯了罪,并且⟨那⟩恶在你的眼中我行了——为使你在你的*davar*中显为义,你在你的审判中被判为清正⟨时⟩。",
   "tokens": [
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "לבדך",
-      "english": "唯独向你"
+      "gloss": "唯独向你"
     },
     {
       "surface": "חטאתי",
-      "english": "我犯了罪"
+      "gloss": "我犯了罪"
     },
     {
       "surface": "והרע",
-      "english": "并且⟨那⟩恶"
+      "gloss": "并且⟨那⟩恶"
     },
     {
       "surface": "בעיניך",
-      "english": "在你的眼中"
+      "gloss": "在你的眼中"
     },
     {
       "surface": "עשיתי",
-      "english": "我行了"
+      "gloss": "我行了"
     },
     {
       "surface": "למען",
-      "english": "为使"
+      "gloss": "为使"
     },
     {
       "surface": "תצדק",
-      "english": "你显为义"
+      "gloss": "你显为义"
     },
     {
       "surface": "בדברך",
-      "english": "在你的*davar*中"
+      "gloss": "在你的*davar*中"
     },
     {
       "surface": "תזכה",
-      "english": "你被判为清正"
+      "gloss": "你被判为清正"
     },
     {
       "surface": "בשפטך",
-      "english": "在你的审判中"
+      "gloss": "在你的审判中"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:03.571228647Z",
-  "model": "glm-5.2"
+  ]
 }

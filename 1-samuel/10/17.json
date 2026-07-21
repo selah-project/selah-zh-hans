@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "1-samuel 10:17",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 280,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17972,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18252
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:50:19.259302640Z",
   "translation": "撒母耳将⟨את⟩那百姓召唤到雅威那里,在⟨那⟩米斯巴。",
   "tokens": [
     {
       "surface": "ויצעק",
-      "english": "召唤了"
+      "gloss": "召唤了"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "המצפה",
-      "english": "在米斯巴"
+      "gloss": "在米斯巴"
     }
-  ],
-  "timestamp": "2026-07-18T02:50:19.259302640Z",
-  "model": "glm-5.2"
+  ]
 }

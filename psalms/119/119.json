@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 119,
   "ref": "psalms 119:119",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64477,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64900
-  },
+  "verse": 119,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:57.415708120Z",
   "translation": "渣滓，⟨你⟩使⟨它⟩止息——地上所有恶人；因此我爱你的法度。",
   "tokens": [
     {
       "surface": "סִגִּים",
-      "english": "渣滓"
+      "gloss": "渣滓"
     },
     {
       "surface": "הִשְׁבַּתָּ",
-      "english": "⟨你⟩使⟨它⟩止息"
+      "gloss": "⟨你⟩使⟨它⟩止息"
     },
     {
       "surface": "כָל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "רִשְׁעֵי",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "אָרֶץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "לָכֵן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "אָהַבְתִּי",
-      "english": "我爱"
+      "gloss": "我爱"
     },
     {
       "surface": "עֵדֹתֶיךָ",
-      "english": "你的法度"
+      "gloss": "你的法度"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:57.415708120Z",
-  "model": "glm-5.2"
+  ]
 }

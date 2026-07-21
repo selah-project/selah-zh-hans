@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 17:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18790,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19250
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:50.291969876Z",
   "translation": "摩西向雅威呼求,说:我⟨该⟩对这百姓做什么?再过一点点,他们就要用石头打死我了。",
   "tokens": [
     {
       "surface": "ויצעק",
-      "english": "向……呼求"
+      "gloss": "向……呼求"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "אעשה",
-      "english": "我做"
+      "gloss": "我做"
     },
     {
       "surface": "לעם",
-      "english": "对这百姓"
+      "gloss": "对这百姓"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "מעט",
-      "english": "一点点"
+      "gloss": "一点点"
     },
     {
       "surface": "וסקלני",
-      "english": "他们就要用石头打死我了"
+      "gloss": "他们就要用石头打死我了"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:50.291969876Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "hosea 14:5",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21126,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21688
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:03.256612101Z",
   "translation": "我必医治他们的退后,必甘心地爱他们;因为我的怒气已经转离了他。",
   "tokens": [
     {
       "surface": "ארפא",
-      "english": "我必医治"
+      "gloss": "我必医治"
     },
     {
       "surface": "משובתם",
-      "english": "他们的退后"
+      "gloss": "他们的退后"
     },
     {
       "surface": "אהבם",
-      "english": "我必爱他们"
+      "gloss": "我必爱他们"
     },
     {
       "surface": "נדבה",
-      "english": "甘心地"
+      "gloss": "甘心地"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שב",
-      "english": "已经转离"
+      "gloss": "已经转离"
     },
     {
       "surface": "אפי",
-      "english": "我的怒气"
+      "gloss": "我的怒气"
     },
     {
       "surface": "ממנו",
-      "english": "离了他"
+      "gloss": "离了他"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:03.256612101Z",
-  "model": "glm-5.2"
+  ]
 }

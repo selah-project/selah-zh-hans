@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 137:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 568,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65156,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65724
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:38.307084037Z",
   "translation": "雅威啊，求你记念以东的子民⟨את⟩耶路撒冷的日子——那些说：剥光它！剥光它！直到拆毁其根基的。",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "求你记念"
+      "gloss": "求你记念"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "לבני",
-      "english": "……的子民"
+      "gloss": "……的子民"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶路撒冷的日子"
     },
     {
       "surface": "יום",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "האמרים",
-      "english": "那些说："
+      "gloss": "那些说："
     },
     {
       "surface": "ערו",
-      "english": "剥光它！"
+      "gloss": "剥光它！"
     },
     {
       "surface": "ערו",
-      "english": "剥光它！"
+      "gloss": "剥光它！"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "היסוד",
-      "english": "根基"
+      "gloss": "根基"
     },
     {
       "surface": "בה",
-      "english": "在其（之中）"
+      "gloss": "在其（之中）"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:38.307084037Z",
-  "model": "glm-5.2"
+  ]
 }

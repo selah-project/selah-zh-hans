@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "nehemiah 3:22",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 264,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50837,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51101
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:43:55.785678300Z",
   "translation": "在他们之后，祭司们——平原的人——修补了⟨牆⟩。",
   "tokens": [
     {
       "surface": "ואחריו",
-      "english": "在他们之后"
+      "gloss": "在他们之后"
     },
     {
       "surface": "החזיקו",
-      "english": "修补了"
+      "gloss": "修补了"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "אנשי",
-      "english": "——的人"
+      "gloss": "——的人"
     },
     {
       "surface": "הככר",
-      "english": "平原"
+      "gloss": "平原"
     }
-  ],
-  "timestamp": "2026-07-18T01:43:55.785678300Z",
-  "model": "glm-5.2"
+  ]
 }

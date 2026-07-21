@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 134:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 134,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65045,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65571
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:59.572669388Z",
   "translation": "上行之歌。看哪，你们要称颂⟨את⟩雅威，所有雅威的仆人们，那些在夜间站在雅威殿中的。",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "之歌"
+      "gloss": "之歌"
     },
     {
       "surface": "המעלות",
-      "english": "上行"
+      "gloss": "上行"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "ברכו",
-      "english": "你们要称颂"
+      "gloss": "你们要称颂"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "עבדי",
-      "english": "仆人们"
+      "gloss": "仆人们"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "העמדים",
-      "english": "那些……站的"
+      "gloss": "那些……站的"
     },
     {
       "surface": "בבית",
-      "english": "在……殿中"
+      "gloss": "在……殿中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בלילות",
-      "english": "在夜间"
+      "gloss": "在夜间"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:59.572669388Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 36:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60060,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60345
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:36:39.962898812Z",
   "translation": "地⟨的⟩百姓取了⟨את⟩约哈斯——约西亚的儿子——立他代替他父亲⟨作王⟩，在耶路撒冷。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约哈斯"
     },
     {
       "surface": "יהואחז",
-      "english": "约哈斯"
+      "gloss": "约哈斯"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "יאשיהו",
-      "english": "约西亚"
+      "gloss": "约西亚"
     },
     {
       "surface": "וימליכהו",
-      "english": "立他⟨作王⟩"
+      "gloss": "立他⟨作王⟩"
     },
     {
       "surface": "תחת",
-      "english": "代替"
+      "gloss": "代替"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T02:36:39.962898812Z",
-  "model": "glm-5.2"
+  ]
 }

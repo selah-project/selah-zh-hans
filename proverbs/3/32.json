@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "proverbs 3:32",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54427,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54904
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:44.486517299Z",
   "translation": "因为偏离正道者是雅威所憎恶的，但与正直的人⟨是⟩他的亲密 counsel（*sod*）。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תועבת",
-      "english": "可憎恶之事"
+      "gloss": "可憎恶之事"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נלוז",
-      "english": "偏离正道者"
+      "gloss": "偏离正道者"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "正直的人"
     },
     {
       "surface": "ישרים",
-      "english": "正直的人"
+      "gloss": "正直的人"
     },
     {
       "surface": "סודו",
-      "english": "他的亲密 counsel（*sod*）"
+      "gloss": "他的亲密 counsel（*sod*）"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:44.486517299Z",
-  "model": "glm-5.2"
+  ]
 }

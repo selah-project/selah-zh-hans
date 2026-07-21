@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "nehemiah 10:2",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50977,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51544
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:04:57.855566081Z",
   "translation": "至于 ⟨הַ\/חֲתוּמִ֑ים⟩ 盖印的人（名字如下）：尼希米 הַ\/תִּרְשָׁ֛תָא（特-רְשָׁתָא），בֶּן-哈迦利亚（哈迦利亚 的）儿子，西底家。",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "至于"
+      "gloss": "至于"
     },
     {
       "surface": "החתומים",
-      "english": "盖印的人（名字如下）"
+      "gloss": "盖印的人（名字如下）"
     },
     {
       "surface": "נחמיה",
-      "english": "尼希米"
+      "gloss": "尼希米"
     },
     {
       "surface": "התרשתא",
-      "english": "הַ\/תִּרְשָׁ֛תָא（特-רְשָׁתָא）"
+      "gloss": "הַ\/תִּרְשָׁ֛תָא（特-רְשָׁתָא）"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "חכליה",
-      "english": "哈迦利亚"
+      "gloss": "哈迦利亚"
     },
     {
       "surface": "וצדקיה",
-      "english": "西底家"
+      "gloss": "西底家"
     }
-  ],
-  "timestamp": "2026-07-20T15:04:57.855566081Z",
-  "model": "glm-5.2"
+  ]
 }

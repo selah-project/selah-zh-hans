@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 25:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19967,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20478
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:18:26.739181249Z",
   "translation": "摩西对以色列的审判官说:你们各人杀掉⟨你们⟩那些依附于巴力·毗珥的人。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "שפטי",
-      "english": "审判官"
+      "gloss": "审判官"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "הרגו",
-      "english": "你们要杀掉"
+      "gloss": "你们要杀掉"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "אנשיו",
-      "english": "⟨你们的⟩那些人"
+      "gloss": "⟨你们的⟩那些人"
     },
     {
       "surface": "הנצמדים",
-      "english": "依附于"
+      "gloss": "依附于"
     },
     {
       "surface": "לבעל",
-      "english": "巴力"
+      "gloss": "巴力"
     },
     {
       "surface": "פעור",
-      "english": "毗珥"
+      "gloss": "毗珥"
     }
-  ],
-  "timestamp": "2026-07-17T19:18:26.739181249Z",
-  "model": "glm-5.2"
+  ]
 }

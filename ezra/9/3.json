@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "ezra 9:3",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 47303,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47830
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:41:31.337867068Z",
   "translation": "当我听见这*话*时，我撕开了我的外衣和我的长袍，我从头上的头发和胡须中拔下，我就惊骇地坐下。",
   "tokens": [
     {
       "surface": "וכשמעי",
-      "english": "当我听见时"
+      "gloss": "当我听见时"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这*话*"
     },
     {
       "surface": "הדבר",
-      "english": "这*话*"
+      "gloss": "这*话*"
     },
     {
       "surface": "הזה",
-      "english": "这个"
+      "gloss": "这个"
     },
     {
       "surface": "קרעתי",
-      "english": "我撕开了"
+      "gloss": "我撕开了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的外衣"
     },
     {
       "surface": "בגדי",
-      "english": "我的外衣"
+      "gloss": "我的外衣"
     },
     {
       "surface": "ומעילי",
-      "english": "和我的长袍"
+      "gloss": "和我的长袍"
     },
     {
       "surface": "ואמרטה",
-      "english": "我拔下"
+      "gloss": "我拔下"
     },
     {
       "surface": "משער",
-      "english": "从……的头发"
+      "gloss": "从……的头发"
     },
     {
       "surface": "ראשי",
-      "english": "我的头"
+      "gloss": "我的头"
     },
     {
       "surface": "וזקני",
-      "english": "和我的胡须"
+      "gloss": "和我的胡须"
     },
     {
       "surface": "ואשבה",
-      "english": "我就坐下"
+      "gloss": "我就坐下"
     },
     {
       "surface": "משומם",
-      "english": "惊骇地"
+      "gloss": "惊骇地"
     }
-  ],
-  "timestamp": "2026-07-18T01:41:31.337867068Z",
-  "model": "glm-5.2"
+  ]
 }

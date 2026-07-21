@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "daniel 11:3",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18731,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19111
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:35:20.176371882Z",
   "translation": "必有一位强盛的王兴起，他要以大权柄施行统治，他要按自己的意愿 ⟨去行⟩。",
   "tokens": [
     {
       "surface": "וְ\/עָמַ֖ד",
-      "english": "兴起"
+      "gloss": "兴起"
     },
     {
       "surface": "מֶ֣לֶךְ",
-      "english": "一位王"
+      "gloss": "一位王"
     },
     {
       "surface": "גִּבּ֑וֹר",
-      "english": "强盛的"
+      "gloss": "强盛的"
     },
     {
       "surface": "וּ\/מָשַׁל֙",
-      "english": "他要施行统治"
+      "gloss": "他要施行统治"
     },
     {
       "surface": "מִמְשָׁ֣ל",
-      "english": "权柄"
+      "gloss": "权柄"
     },
     {
       "surface": "רַ֔ב",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "וְ\/עָשָׂ֖ה",
-      "english": "他要行"
+      "gloss": "他要行"
     },
     {
       "surface": "כִּ\/רְצוֹנֽ\/וֹ",
-      "english": "按自己的意愿"
+      "gloss": "按自己的意愿"
     }
-  ],
-  "timestamp": "2026-07-18T01:35:20.176371882Z",
-  "model": "glm-5.2"
+  ]
 }

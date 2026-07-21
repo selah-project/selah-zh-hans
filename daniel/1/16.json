@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "daniel 1:16",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 773,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19040,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19813
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:28:25.155504160Z",
   "translation": "于是那太监总管便 continually 拿走⟨את⟩他们的御膳和他们的饮酒，给他们菜蔬。",
   "tokens": [
     {
       "surface": "וַ\/יְהִ֣י",
-      "english": "于是"
+      "gloss": "于是"
     },
     {
       "surface": "הַ\/מֶּלְצַ֗ר",
-      "english": "那太监总管"
+      "gloss": "那太监总管"
     },
     {
       "surface": "נֹשֵׂא֙",
-      "english": "便 continually 拿走"
+      "gloss": "便 continually 拿走"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "御膳 (פתבגם)"
     },
     {
       "surface": "פַּתְבָּגָ֔\/ם",
-      "english": "他们的御膳"
+      "gloss": "他们的御膳"
     },
     {
       "surface": "וְ\/יֵ֖ין",
-      "english": "和……酒"
+      "gloss": "和……酒"
     },
     {
       "surface": "מִשְׁתֵּי\/הֶ֑ם",
-      "english": "他们的饮酒"
+      "gloss": "他们的饮酒"
     },
     {
       "surface": "וְ\/נֹתֵ֥ן",
-      "english": "且给"
+      "gloss": "且给"
     },
     {
       "surface": "לָ\/הֶ֖ם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "זֵרְעֹנִֽים",
-      "english": "菜蔬"
+      "gloss": "菜蔬"
     }
-  ],
-  "timestamp": "2026-07-18T01:28:25.155504160Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "1-chronicles 1:23",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59009,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59352
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:32.363989533Z",
   "translation": "⟨את⟩俄斐、⟨את⟩哈维拉、⟨את⟩约巴;这全部⟨是⟩约坍的儿子。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "俄斐"
     },
     {
       "surface": "אופיר",
-      "english": "俄斐"
+      "gloss": "俄斐"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈维拉"
     },
     {
       "surface": "חוילה",
-      "english": "哈维拉"
+      "gloss": "哈维拉"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约巴"
     },
     {
       "surface": "יובב",
-      "english": "约巴"
+      "gloss": "约巴"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "יקטן",
-      "english": "约坍"
+      "gloss": "约坍"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:32.363989533Z",
-  "model": "glm-5.2"
+  ]
 }

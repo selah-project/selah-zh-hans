@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 7:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54432,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54736
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:46.128937405Z",
   "translation": "时而在外，时而在宽阔处，在每一个角落附近，她埋伏。",
   "tokens": [
     {
       "surface": "פעם",
-      "english": "时而"
+      "gloss": "时而"
     },
     {
       "surface": "בחוץ",
-      "english": "在外"
+      "gloss": "在外"
     },
     {
       "surface": "פעם",
-      "english": "时而"
+      "gloss": "时而"
     },
     {
       "surface": "ברחבות",
-      "english": "在宽阔处"
+      "gloss": "在宽阔处"
     },
     {
       "surface": "ואצל",
-      "english": "并在……附近"
+      "gloss": "并在……附近"
     },
     {
       "surface": "כל",
-      "english": "每一个"
+      "gloss": "每一个"
     },
     {
       "surface": "פנה",
-      "english": "角落"
+      "gloss": "角落"
     },
     {
       "surface": "תארב",
-      "english": "她埋伏"
+      "gloss": "她埋伏"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:46.128937405Z",
-  "model": "glm-5.2"
+  ]
 }

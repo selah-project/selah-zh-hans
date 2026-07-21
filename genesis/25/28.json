@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "genesis 25:28",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23296,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23774
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:22.443834118Z",
   "translation": "以撒爱⟨את⟩以扫,因为野味在⟨他⟩口中;利百加爱⟨את⟩雅各。",
   "tokens": [
     {
       "surface": "ויאהב",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以扫"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ציד",
-      "english": "野味"
+      "gloss": "野味"
     },
     {
       "surface": "בפיו",
-      "english": "在⟨他⟩口中"
+      "gloss": "在⟨他⟩口中"
     },
     {
       "surface": "ורבקה",
-      "english": "利百加"
+      "gloss": "利百加"
     },
     {
       "surface": "אהבת",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅各"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:22.443834118Z",
-  "model": "glm-5.2"
+  ]
 }

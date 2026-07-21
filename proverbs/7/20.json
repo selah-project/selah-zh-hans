@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 7:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54424,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54773
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:35:52.903164422Z",
   "translation": "他取了一袋银子在⟨他的⟩手中；到了满月⟨之日⟩,他必回到⟨他的⟩家。",
   "tokens": [
     {
       "surface": "צרור",
-      "english": "一袋"
+      "gloss": "一袋"
     },
     {
       "surface": "הכסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "לקח",
-      "english": "他取了"
+      "gloss": "他取了"
     },
     {
       "surface": "בידו",
-      "english": "在⟨他的⟩手中"
+      "gloss": "在⟨他的⟩手中"
     },
     {
       "surface": "ליום",
-      "english": "到了⟨之日⟩"
+      "gloss": "到了⟨之日⟩"
     },
     {
       "surface": "הכסא",
-      "english": "满月"
+      "gloss": "满月"
     },
     {
       "surface": "יבא",
-      "english": "他必回到"
+      "gloss": "他必回到"
     },
     {
       "surface": "ביתו",
-      "english": "⟨他的⟩家"
+      "gloss": "⟨他的⟩家"
     }
-  ],
-  "timestamp": "2026-07-18T00:35:52.903164422Z",
-  "model": "glm-5.2"
+  ]
 }

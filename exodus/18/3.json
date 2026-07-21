@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 18:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19057,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19510
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:34.162649945Z",
   "translation": "以及⟨את⟩她的两个儿子——其中一个的名字⟨是⟩革舜,因为他说:我在异乡之地曾寄居。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "她的两个儿子"
     },
     {
       "surface": "שני",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "בניה",
-      "english": "她的儿子"
+      "gloss": "她的儿子"
     },
     {
       "surface": "אשר",
-      "english": "——其中"
+      "gloss": "——其中"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "האחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "גרשם",
-      "english": "革舜"
+      "gloss": "革舜"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "גר",
-      "english": "寄居者"
+      "gloss": "寄居者"
     },
     {
       "surface": "הייתי",
-      "english": "我曾⟨是⟩"
+      "gloss": "我曾⟨是⟩"
     },
     {
       "surface": "בארץ",
-      "english": "在……之地"
+      "gloss": "在……之地"
     },
     {
       "surface": "נכריה",
-      "english": "异乡"
+      "gloss": "异乡"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:34.162649945Z",
-  "model": "glm-5.2"
+  ]
 }

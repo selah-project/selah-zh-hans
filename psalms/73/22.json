@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 73:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64407,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64823
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:50.929548655Z",
   "translation": "至于我，我是愚顽的，并不知晓；我如 ⟨ beasts ⟩ 一般，在你身旁。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "בער",
-      "english": "我是愚顽的"
+      "gloss": "我是愚顽的"
     },
     {
       "surface": "ולא",
-      "english": "并不"
+      "gloss": "并不"
     },
     {
       "surface": "אדע",
-      "english": "知晓"
+      "gloss": "知晓"
     },
     {
       "surface": "בהמות",
-      "english": "如 ⟨ beasts ⟩ 一般"
+      "gloss": "如 ⟨ beasts ⟩ 一般"
     },
     {
       "surface": "הייתי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "עמך",
-      "english": "在你身旁"
+      "gloss": "在你身旁"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:50.929548655Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 71:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64454,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64874
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:39.990621989Z",
   "translation": "至于我，我总要持续等候，并且在⟨你⟩的一切赞美之上还要加增。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "תמיד",
-      "english": "总要持续地"
+      "gloss": "总要持续地"
     },
     {
       "surface": "איחל",
-      "english": "等候"
+      "gloss": "等候"
     },
     {
       "surface": "והוספתי",
-      "english": "并且我要加增"
+      "gloss": "并且我要加增"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תהלתך",
-      "english": "你的赞美"
+      "gloss": "你的赞美"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:39.990621989Z",
-  "model": "glm-5.2"
+  ]
 }

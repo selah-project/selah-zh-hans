@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "exodus 38:9",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18934,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19346
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:01.901650577Z",
   "translation": "他做了⟨את⟩院子的帷子,在南边,向南方;院子的帷子是捻的细麻,一百肘。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他做了"
+      "gloss": "他做了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "院子的帷子"
     },
     {
       "surface": "החצר",
-      "english": "院子的帷子"
+      "gloss": "院子的帷子"
     },
     {
       "surface": "לפאת",
-      "english": "在……边"
+      "gloss": "在……边"
     },
     {
       "surface": "נגב",
-      "english": "南"
+      "gloss": "南"
     },
     {
       "surface": "תימנה",
-      "english": "向南方"
+      "gloss": "向南方"
     },
     {
       "surface": "קלעי",
-      "english": "帷子"
+      "gloss": "帷子"
     },
     {
       "surface": "החצר",
-      "english": "院子的"
+      "gloss": "院子的"
     },
     {
       "surface": "שש",
-      "english": "细麻"
+      "gloss": "细麻"
     },
     {
       "surface": "משזר",
-      "english": "捻的"
+      "gloss": "捻的"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "באמה",
-      "english": "肘"
+      "gloss": "肘"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:01.901650577Z",
-  "model": "glm-5.2"
+  ]
 }

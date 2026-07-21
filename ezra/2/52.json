@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
   "ref": "ezra 2:52",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46268,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46706
-  },
+  "verse": 52,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:39.484693792Z",
   "translation": "בְּנֵי 巴兹利特的后代，בְּנֵי 梅希达的后代，בְּנֵי 哈尔沙的后代。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "בְּנֵי……的后代"
+      "gloss": "בְּנֵי……的后代"
     },
     {
       "surface": "בצלות",
-      "english": "巴兹利特"
+      "gloss": "巴兹利特"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי……的后代"
+      "gloss": "בְּנֵי……的后代"
     },
     {
       "surface": "מחידא",
-      "english": "梅希达"
+      "gloss": "梅希达"
     },
     {
       "surface": "בני",
-      "english": "בְּנֵי……的后代"
+      "gloss": "בְּנֵי……的后代"
     },
     {
       "surface": "חרשא",
-      "english": "哈尔沙"
+      "gloss": "哈尔沙"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:39.484693792Z",
-  "model": "glm-5.2"
+  ]
 }

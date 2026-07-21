@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "leviticus 11:25",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19070,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19398
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:41.927385217Z",
   "translation": "凡扛抬⟨את⟩它们尸体的,要洗自己的衣服,不洁净到晚上。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "הנשא",
-      "english": "扛抬"
+      "gloss": "扛抬"
     },
     {
       "surface": "מנבלתם",
-      "english": "⟨את⟩它们尸体的"
+      "gloss": "⟨את⟩它们尸体的"
     },
     {
       "surface": "יכבס",
-      "english": "要洗"
+      "gloss": "要洗"
     },
     {
       "surface": "בגדיו",
-      "english": "自己的衣服"
+      "gloss": "自己的衣服"
     },
     {
       "surface": "וטמא",
-      "english": "不洁净"
+      "gloss": "不洁净"
     },
     {
       "surface": "עד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הערב",
-      "english": "晚上"
+      "gloss": "晚上"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:41.927385217Z",
-  "model": "glm-5.2"
+  ]
 }

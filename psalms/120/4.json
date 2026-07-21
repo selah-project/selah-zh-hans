@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 120:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64349,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64839
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:05.209065631Z",
   "translation": "勇士的利箭，锋锐⟨的⟩，连同 ⟨以罗欣所造的⟩רֶתֶם（金雀枝）的炭火。",
   "tokens": [
     {
       "surface": "חִצֵּ֣י",
-      "english": "的箭"
+      "gloss": "的箭"
     },
     {
       "surface": "גִבּ֣וֹר",
-      "english": "勇士"
+      "gloss": "勇士"
     },
     {
       "surface": "שְׁנוּנִ֑ים",
-      "english": "锋锐⟨的⟩"
+      "gloss": "锋锐⟨的⟩"
     },
     {
       "surface": "עִ֝֗ם",
-      "english": "连同"
+      "gloss": "连同"
     },
     {
       "surface": "גַּחֲלֵ֥י",
-      "english": "的炭火"
+      "gloss": "的炭火"
     },
     {
       "surface": "רְתָמִֽים",
-      "english": "רֶתֶם（金雀枝）"
+      "gloss": "רֶתֶם（金雀枝）"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:05.209065631Z",
-  "model": "glm-5.2"
+  ]
 }

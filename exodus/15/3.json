@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 15:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18224,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18602
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:08.080107701Z",
   "translation": "雅威是战士，雅威⟨是⟩他的名。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "איש",
-      "english": "战士"
+      "gloss": "战士"
     },
     {
       "surface": "מלחמה",
-      "english": "战争"
+      "gloss": "战争"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:08.080107701Z",
-  "model": "glm-5.2"
+  ]
 }

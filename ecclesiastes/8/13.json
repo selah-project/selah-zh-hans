@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "ecclesiastes 8:13",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19475,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 20045
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:49.589616462Z",
   "translation": "而美好不⟨将⟩归于恶人，他也不⟨将⟩如影子般延长⟨他的⟩日子——⟨他⟩不敬畏以罗欣的面。",
   "tokens": [
     {
       "surface": "וְ\/טוֹב",
-      "english": "而美好"
+      "gloss": "而美好"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יִהְיֶה",
-      "english": "⟨将⟩归于"
+      "gloss": "⟨将⟩归于"
     },
     {
       "surface": "לָ\/רָשָׁע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יַאֲרִיךְ",
-      "english": "⟨将⟩……延长"
+      "gloss": "⟨将⟩……延长"
     },
     {
       "surface": "יָמִים",
-      "english": "⟨他的⟩日子"
+      "gloss": "⟨他的⟩日子"
     },
     {
       "surface": "כַּ\/צֵּל",
-      "english": "如影子般"
+      "gloss": "如影子般"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "——⟨他⟩"
+      "gloss": "——⟨他⟩"
     },
     {
       "surface": "אֵינֶ\/נּוּ",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יָרֵא",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "מִ\/לִּ\/פְנֵי",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:49.589616462Z",
-  "model": "glm-5.2"
+  ]
 }

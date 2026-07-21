@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "ecclesiastes 10:6",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 18871,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19224
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:59.395283189Z",
   "translation": "愚昧人被置于许多高位上,富足人却坐在低处。",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "被置于"
+      "gloss": "被置于"
     },
     {
       "surface": "הסכל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "במרומים",
-      "english": "在许多高位上"
+      "gloss": "在许多高位上"
     },
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "ועשירים",
-      "english": "富足人却"
+      "gloss": "富足人却"
     },
     {
       "surface": "בשפל",
-      "english": "在低处"
+      "gloss": "在低处"
     },
     {
       "surface": "ישבו",
-      "english": "坐"
+      "gloss": "坐"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:59.395283189Z",
-  "model": "glm-4.5"
+  ]
 }

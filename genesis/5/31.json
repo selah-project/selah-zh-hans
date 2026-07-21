@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 5:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23098,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23407
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:39:33.090544907Z",
   "translation": "拉麦一生的全部年日 ⟨是⟩ 七十七岁 ⟨和⟩ 七百岁，他就死了。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨于是⟩"
+      "gloss": "⟨于是⟩"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "ימי",
-      "english": "年日"
+      "gloss": "年日"
     },
     {
       "surface": "למך",
-      "english": "拉麦"
+      "gloss": "拉麦"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ושבעים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ושבע",
-      "english": "和七"
+      "gloss": "和七"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וימת",
-      "english": "他就死了"
+      "gloss": "他就死了"
     }
-  ],
-  "timestamp": "2026-07-18T02:39:33.090544907Z",
-  "model": "glm-5.2"
+  ]
 }

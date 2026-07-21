@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "leviticus 13:9",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18990,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19489
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:47:44.635115779Z",
   "translation": "当⟨一个⟩ צָרַעַת (大麻风) 的 נֶגַע (灾病) 发生在⟨一个⟩人身上时，他必须被带到那位 כֹּהֵן (祭司) 面前。",
   "tokens": [
     {
       "surface": "נֶ֣גַע",
-      "english": "灾病"
+      "gloss": "灾病"
     },
     {
       "surface": "צָרַ֔עַת",
-      "english": "大麻风"
+      "gloss": "大麻风"
     },
     {
       "surface": "כִּ֥י",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תִהְיֶ֖ה",
-      "english": "发生在"
+      "gloss": "发生在"
     },
     {
       "surface": "בְּ\/אָדָ֑ם",
-      "english": "在⟨一个⟩人身上时"
+      "gloss": "在⟨一个⟩人身上时"
     },
     {
       "surface": "וְ\/הוּבָ֖א",
-      "english": "他必须被带到"
+      "gloss": "他必须被带到"
     },
     {
       "surface": "אֶל",
-      "english": "到……面前"
+      "gloss": "到……面前"
     },
     {
       "surface": "הַ\/כֹּהֵֽן",
-      "english": "那位祭司"
+      "gloss": "那位祭司"
     }
-  ],
-  "timestamp": "2026-07-17T18:47:44.635115779Z",
-  "model": "glm-5.2"
+  ]
 }

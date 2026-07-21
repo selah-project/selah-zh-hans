@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "exodus 17:13",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18640,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19043
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:49.574840199Z",
   "translation": "约书亚击败了⟨את⟩亚玛力和他的百姓，用刀的口⟨锋⟩。",
   "tokens": [
     {
       "surface": "וַ\/יַּחֲלֹ֥שׁ",
-      "english": "击败了"
+      "gloss": "击败了"
     },
     {
       "surface": "יְהוֹשֻׁ֛עַ",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚玛力"
     },
     {
       "surface": "עֲמָלֵ֥ק",
-      "english": "亚玛力"
+      "gloss": "亚玛力"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "以及⟨את⟩"
+      "gloss": "以及⟨את⟩"
     },
     {
       "surface": "עַמּ֖\/וֹ",
-      "english": "他的百姓",
+      "gloss": "他的百姓",
       "marks": "他的百姓"
     },
     {
       "surface": "לְ\/פִי",
-      "english": "用……的口"
+      "gloss": "用……的口"
     },
     {
       "surface": "חָֽרֶב",
-      "english": "刀"
+      "gloss": "刀"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:49.574840199Z",
-  "model": "glm-5.2"
+  ]
 }

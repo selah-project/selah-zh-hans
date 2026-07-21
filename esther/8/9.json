@@ -1,196 +1,185 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "esther 8:9",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 1068,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22821,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 23889
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:27:11.721807190Z",
   "translation": "就在那时,⟨那⟩王的书记⟨们⟩被召──在第三个月,就是西弯月,⟨在⟩⟨它的⟩二十三日;人就写下凡末底改所吩咐⟨关于⟩犹大人的事,以及⟨传⟩给亚哈随鲁人、给总督和各省官员的,⟨就是⟩从印度直到古实、一百二十七省──⟨按⟩省与省各自的文字、族与族各自的语言,也给犹大人,⟨按⟩他们的文字和他们的语言。",
   "tokens": [
     {
       "surface": "ויקראו",
-      "english": "⟨他们就⟩召"
+      "gloss": "⟨他们就⟩召"
     },
     {
       "surface": "ספרי",
-      "english": "书记⟨们⟩"
+      "gloss": "书记⟨们⟩"
     },
     {
       "surface": "המלך",
-      "english": "⟨那⟩王的"
+      "gloss": "⟨那⟩王的"
     },
     {
       "surface": "בעת",
-      "english": "在⟨那⟩时"
+      "gloss": "在⟨那⟩时"
     },
     {
       "surface": "ההיא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "בחדש",
-      "english": "在⟨那⟩月"
+      "gloss": "在⟨那⟩月"
     },
     {
       "surface": "השלישי",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "הוא",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "חדש",
-      "english": "月"
+      "gloss": "月"
     },
     {
       "surface": "סיון",
-      "english": "西弯"
+      "gloss": "西弯"
     },
     {
       "surface": "בשלושה",
-      "english": "在二十三"
+      "gloss": "在二十三"
     },
     {
       "surface": "ועשרים",
-      "english": "和二十"
+      "gloss": "和二十"
     },
     {
       "surface": "בו",
-      "english": "⟨在⟩它⟨的⟩"
+      "gloss": "⟨在⟩它⟨的⟩"
     },
     {
       "surface": "ויכתב",
-      "english": "人就写下"
+      "gloss": "人就写下"
     },
     {
       "surface": "ככל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "צוה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "מרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "אל",
-      "english": "⟨传⟩给"
+      "gloss": "⟨传⟩给"
     },
     {
       "surface": "היהודים",
-      "english": "⟨那些⟩犹大人"
+      "gloss": "⟨那些⟩犹大人"
     },
     {
       "surface": "ואל",
-      "english": "以及⟨传⟩给"
+      "gloss": "以及⟨传⟩给"
     },
     {
       "surface": "האחשדרפנים",
-      "english": "⟨那些⟩亚哈随鲁人(Akhshdarpanim)"
+      "gloss": "⟨那些⟩亚哈随鲁人(Akhshdarpanim)"
     },
     {
       "surface": "והפחות",
-      "english": "和⟨那些⟩总督"
+      "gloss": "和⟨那些⟩总督"
     },
     {
       "surface": "ושרי",
-      "english": "以及⟨那些⟩官员"
+      "gloss": "以及⟨那些⟩官员"
     },
     {
       "surface": "המדינות",
-      "english": "⟨那些⟩各省的"
+      "gloss": "⟨那些⟩各省的"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "מהדו",
-      "english": "从印度(Hodu)"
+      "gloss": "从印度(Hodu)"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "כוש",
-      "english": "古实"
+      "gloss": "古实"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ועשרים",
-      "english": "和二十"
+      "gloss": "和二十"
     },
     {
       "surface": "ומאה",
-      "english": "和一百"
+      "gloss": "和一百"
     },
     {
       "surface": "מדינה",
-      "english": "省"
+      "gloss": "省"
     },
     {
       "surface": "מדינה",
-      "english": "省"
+      "gloss": "省"
     },
     {
       "surface": "ומדינה",
-      "english": "与省"
+      "gloss": "与省"
     },
     {
       "surface": "ככתבה",
-      "english": "⟨按⟩它⟨的⟩文字"
+      "gloss": "⟨按⟩它⟨的⟩文字"
     },
     {
       "surface": "ועם",
-      "english": "与族"
+      "gloss": "与族"
     },
     {
       "surface": "ועם",
-      "english": "族"
+      "gloss": "族"
     },
     {
       "surface": "כלשנו",
-      "english": "⟨按⟩它⟨的⟩语言"
+      "gloss": "⟨按⟩它⟨的⟩语言"
     },
     {
       "surface": "ואל",
-      "english": "也给"
+      "gloss": "也给"
     },
     {
       "surface": "היהודים",
-      "english": "⟨那些⟩犹大人"
+      "gloss": "⟨那些⟩犹大人"
     },
     {
       "surface": "ככתבם",
-      "english": "⟨按⟩他们的文字"
+      "gloss": "⟨按⟩他们的文字"
     },
     {
       "surface": "וכלשונם",
-      "english": "和⟨按⟩他们的语言"
+      "gloss": "和⟨按⟩他们的语言"
     }
-  ],
-  "timestamp": "2026-07-18T01:27:11.721807190Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "numbers 6:26",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19454,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19973
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:04:32.996957135Z",
   "translation": "愿雅威向你仰起他的脸,为你设立沙龙——平安。",
   "tokens": [
     {
       "surface": "יִשָּׂ֨א",
-      "english": "愿……仰起"
+      "gloss": "愿……仰起"
     },
     {
       "surface": "יְהוָ֤ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "פָּנָיו֙",
-      "english": "他的脸"
+      "gloss": "他的脸"
     },
     {
       "surface": "אֵלֶ֔יךָ",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "וְ\/יָשֵׂ֥ם",
-      "english": "并设立"
+      "gloss": "并设立"
     },
     {
       "surface": "לְ\/ךָ֖",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "שָׁלֽוֹם",
-      "english": "沙龙——平安"
+      "gloss": "沙龙——平安"
     }
-  ],
-  "timestamp": "2026-07-17T19:04:32.996957135Z",
-  "model": "glm-5.2"
+  ]
 }

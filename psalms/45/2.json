@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 45:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64870,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65279
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:37.415309710Z",
   "translation": "我的心涌出美好的*话语*，我宣告：我手所造的⟨是⟩为君王；我的舌头⟨是⟩敏捷文士的笔。",
   "tokens": [
     {
       "surface": "רחש",
-      "english": "涌出"
+      "gloss": "涌出"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "דבר",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "טוב",
-      "english": "美好的"
+      "gloss": "美好的"
     },
     {
       "surface": "אמר",
-      "english": "我宣告"
+      "gloss": "我宣告"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מעשי",
-      "english": "我手所造的"
+      "gloss": "我手所造的"
     },
     {
       "surface": "למלך",
-      "english": "为君王"
+      "gloss": "为君王"
     },
     {
       "surface": "לשוני",
-      "english": "我的舌头"
+      "gloss": "我的舌头"
     },
     {
       "surface": "עט",
-      "english": "笔"
+      "gloss": "笔"
     },
     {
       "surface": "סופר",
-      "english": "文士的"
+      "gloss": "文士的"
     },
     {
       "surface": "מהיר",
-      "english": "敏捷"
+      "gloss": "敏捷"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:37.415309710Z",
-  "model": "glm-5.2"
+  ]
 }

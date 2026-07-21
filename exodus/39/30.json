@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "exodus 39:30",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19169,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19648
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:54.150740541Z",
   "translation": "他们造了 ⟨את⟩ 圣冠之花,纯金的,在上面如印章的雕刻样刻上铭文:归于雅威为圣。",
   "tokens": [
     {
       "surface": "ויעשו",
-      "english": "他们造了"
+      "gloss": "他们造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "圣冠之花"
     },
     {
       "surface": "ציץ",
-      "english": "花"
+      "gloss": "花"
     },
     {
       "surface": "נזר",
-      "english": "冠"
+      "gloss": "冠"
     },
     {
       "surface": "הקדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "טהור",
-      "english": "纯"
+      "gloss": "纯"
     },
     {
       "surface": "ויכתבו",
-      "english": "他们刻上铭文"
+      "gloss": "他们刻上铭文"
     },
     {
       "surface": "עליו",
-      "english": "在上面"
+      "gloss": "在上面"
     },
     {
       "surface": "מכתב",
-      "english": "铭文"
+      "gloss": "铭文"
     },
     {
       "surface": "פתוחי",
-      "english": "雕刻样"
+      "gloss": "雕刻样"
     },
     {
       "surface": "חותם",
-      "english": "印章"
+      "gloss": "印章"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "ליהוה",
-      "english": "归于雅威"
+      "gloss": "归于雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:54.150740541Z",
-  "model": "glm-5.2"
+  ]
 }

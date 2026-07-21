@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 44:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64451,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64832
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:24.599912299Z",
   "translation": "因为我不倚靠我的弓,我的剑也不拯救我。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "בְ\/קַשְׁתִּ֣\/י",
-      "english": "在我的弓"
+      "gloss": "在我的弓"
     },
     {
       "surface": "אֶבְטָ֑ח",
-      "english": "我⟨要⟩倚靠"
+      "gloss": "我⟨要⟩倚靠"
     },
     {
       "surface": "וְ֝\/חַרְבִּ֗\/י",
-      "english": "而我的剑"
+      "gloss": "而我的剑"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תוֹשִׁיעֵֽ\/נִי",
-      "english": "它拯救我"
+      "gloss": "它拯救我"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:24.599912299Z",
-  "model": "glm-5.2"
+  ]
 }

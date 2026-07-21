@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-kings 14:11",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64495,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64893
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:09:14.268411620Z",
   "translation": "属耶罗波安而死在城里的,狗必吃他;死在田野的,天上的飞鸟也必吃他;因为雅威已说了话。",
   "tokens": [
     {
       "surface": "המת",
-      "english": "死的"
+      "gloss": "死的"
     },
     {
       "surface": "לירבעם",
-      "english": "属耶罗波安的"
+      "gloss": "属耶罗波安的"
     },
     {
       "surface": "בעיר",
-      "english": "在城里"
+      "gloss": "在城里"
     },
     {
       "surface": "יאכלו",
-      "english": "必吃"
+      "gloss": "必吃"
     },
     {
       "surface": "הכלבים",
-      "english": "狗"
+      "gloss": "狗"
     },
     {
       "surface": "והמת",
-      "english": "而死的"
+      "gloss": "而死的"
     },
     {
       "surface": "בשדה",
-      "english": "在田野"
+      "gloss": "在田野"
     },
     {
       "surface": "יאכלו",
-      "english": "必吃"
+      "gloss": "必吃"
     },
     {
       "surface": "עוף",
-      "english": "飞鸟"
+      "gloss": "飞鸟"
     },
     {
       "surface": "השמים",
-      "english": "天上的"
+      "gloss": "天上的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "דבר",
-      "english": "已说了话"
+      "gloss": "已说了话"
     }
-  ],
-  "timestamp": "2026-07-17T21:09:14.268411620Z",
-  "model": "glm-5.2"
+  ]
 }

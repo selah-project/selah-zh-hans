@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 136:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64393,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64847
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:26.298700984Z",
   "translation": "对那将芦苇海劈成碎块的，因为他的חֶסֶד存到永远。",
   "tokens": [
     {
       "surface": "לגזר",
-      "english": "对那劈开"
+      "gloss": "对那劈开"
     },
     {
       "surface": "ים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוף",
-      "english": "芦苇（红海）"
+      "gloss": "芦苇（红海）"
     },
     {
       "surface": "לגזרים",
-      "english": "成碎块"
+      "gloss": "成碎块"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לעולם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "חסדו",
-      "english": "他的חֶסֶד"
+      "gloss": "他的חֶסֶד"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:26.298700984Z",
-  "model": "glm-5.2"
+  ]
 }

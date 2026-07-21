@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 31:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22956,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23297
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:46.946951601Z",
   "translation": "以罗欣的使者对我说:'雅各!'我就说:הִנֵּנִי。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אלי",
-      "english": "对我说"
+      "gloss": "对我说"
     },
     {
       "surface": "מלאך",
-      "english": "使者"
+      "gloss": "使者"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "בחלום",
-      "english": "在梦中"
+      "gloss": "在梦中"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ואמר",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "הנני",
-      "english": "Hinení"
+      "gloss": "Hinení"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:46.946951601Z",
-  "model": "glm-5.2"
+  ]
 }

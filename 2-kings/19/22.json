@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "2-kings 19:22",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19202,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19759
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:30:18.622688180Z",
   "translation": "你辱骂了⟨את⟩谁？你又亵渎了；向谁你高举了声音，又高举了你的眼目？向着以色列的圣者！",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "谁"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "חרפת",
-      "english": "你辱骂了"
+      "gloss": "你辱骂了"
     },
     {
       "surface": "וגדפת",
-      "english": "你又亵渎了"
+      "gloss": "你又亵渎了"
     },
     {
       "surface": "ועל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "הרימות",
-      "english": "你高举了"
+      "gloss": "你高举了"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "ותשא",
-      "english": "又高举了"
+      "gloss": "又高举了"
     },
     {
       "surface": "מרום",
-      "english": "高"
+      "gloss": "高"
     },
     {
       "surface": "עיניך",
-      "english": "你的眼目"
+      "gloss": "你的眼目"
     },
     {
       "surface": "על",
-      "english": "向着"
+      "gloss": "向着"
     },
     {
       "surface": "קדוש",
-      "english": "圣者"
+      "gloss": "圣者"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T21:30:18.622688180Z",
-  "model": "glm-5.2"
+  ]
 }

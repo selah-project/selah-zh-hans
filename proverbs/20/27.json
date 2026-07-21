@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 27,
   "ref": "proverbs 20:27",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 502,
-    "prompt_tokens": 54551,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 55053
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:13:51.525598286Z",
   "translation": "人的 鲁阿 ⟨是⟩ 雅威 的 灯, ⟨它⟩ 搜察 ⟨一切⟩ 腹中的 ⟨隐秘⟩ 部位。",
   "tokens": [
     {
       "surface": "נר",
-      "english": "灯"
+      "gloss": "灯"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "נשמת",
-      "english": "人的 鲁阿"
+      "gloss": "人的 鲁阿"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "חפש",
-      "english": "⟨它⟩ 搜察"
+      "gloss": "⟨它⟩ 搜察"
     },
     {
       "surface": "כל",
-      "english": "⟨一切⟩"
+      "gloss": "⟨一切⟩"
     },
     {
       "surface": "חדרי",
-      "english": " ⟨隐秘⟩ 部位"
+      "gloss": " ⟨隐秘⟩ 部位"
     },
     {
       "surface": "בטן",
-      "english": "腹中"
+      "gloss": "腹中"
     }
-  ],
-  "timestamp": "2026-07-21T13:13:51.525598286Z",
-  "model": "glm-4.5"
+  ]
 }

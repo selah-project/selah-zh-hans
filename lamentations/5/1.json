@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "lamentations 5:1",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33814,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 34201
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:07:38.223139828Z",
   "translation": "雅威啊,求你记念 ⟨发生了⟩ 什么 ⟨临到⟩ 我们;观看,并看见 ⟨את⟩ 我们的羞辱。",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "求你记念"
+      "gloss": "求你记念"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "היה",
-      "english": "发生了"
+      "gloss": "发生了"
     },
     {
       "surface": "לנו",
-      "english": "⟨临到⟩ 我们"
+      "gloss": "⟨临到⟩ 我们"
     },
     {
       "surface": "הביט",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "וראה",
-      "english": "并看见"
+      "gloss": "并看见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我们的羞辱"
     },
     {
       "surface": "חרפתנו",
-      "english": "我们的羞辱"
+      "gloss": "我们的羞辱"
     }
-  ],
-  "timestamp": "2026-07-18T03:07:38.223139828Z",
-  "model": "glm-5.2"
+  ]
 }

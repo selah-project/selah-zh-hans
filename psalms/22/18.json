@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 22:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64397,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:27.275032590Z",
   "translation": "我可以数算我所有的骨头；他们⟨注视⟩，他们观看我。",
   "tokens": [
     {
       "surface": "אספר",
-      "english": "我可以数算"
+      "gloss": "我可以数算"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "עצמותי",
-      "english": "我的骨头"
+      "gloss": "我的骨头"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "יביטו",
-      "english": "⟨注视⟩"
+      "gloss": "⟨注视⟩"
     },
     {
       "surface": "יראו",
-      "english": "他们观看"
+      "gloss": "他们观看"
     },
     {
       "surface": "בי",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:27.275032590Z",
-  "model": "glm-5.2"
+  ]
 }

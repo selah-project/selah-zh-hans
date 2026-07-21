@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "psalms 18:42",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64457,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:06.634185264Z",
   "translation": "他们呼求，却没有拯救者；向雅威 ⟨呼求⟩，他却不回答他们。",
   "tokens": [
     {
       "surface": "ישועו",
-      "english": "他们呼求"
+      "gloss": "他们呼求"
     },
     {
       "surface": "ואין",
-      "english": "却没有"
+      "gloss": "却没有"
     },
     {
       "surface": "מושיע",
-      "english": "拯救者"
+      "gloss": "拯救者"
     },
     {
       "surface": "על",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "ענם",
-      "english": "回答他们"
+      "gloss": "回答他们"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:06.634185264Z",
-  "model": "glm-5.2"
+  ]
 }

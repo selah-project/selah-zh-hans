@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "ezra 10:32",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 169,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46032,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46201
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:18.052089647Z",
   "translation": "本雅明、玛路克、示玛利雅",
   "tokens": [
     {
       "surface": "בנימן",
-      "english": "本雅明"
+      "gloss": "本雅明"
     },
     {
       "surface": "מלוך",
-      "english": "玛路克"
+      "gloss": "玛路克"
     },
     {
       "surface": "שמריה",
-      "english": "示玛利雅"
+      "gloss": "示玛利雅"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:18.052089647Z",
-  "model": "glm-5.2"
+  ]
 }

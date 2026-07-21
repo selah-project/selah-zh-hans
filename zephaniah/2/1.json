@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "zephaniah 2:1",
   "book": "zephaniah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17516,
-    "prompt_tokens_details": {
-      "cached_tokens": 16704
-    },
-    "total_tokens": 17916
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:30:37.118669978Z",
   "translation": "自我招聚吧，⟨也⟩招聚吧，不愿被渴望的⟨那⟩国（הַ\/גּוֹי）！",
   "tokens": [
     {
       "surface": "הִֽתְקוֹשְׁשׁ֖וּ",
-      "english": "自我招聚吧"
+      "gloss": "自我招聚吧"
     },
     {
       "surface": "וָ\/ק֑וֹשּׁוּ",
-      "english": "⟨也⟩招聚吧"
+      "gloss": "⟨也⟩招聚吧"
     },
     {
       "surface": "הַ\/גּ֖וֹי",
-      "english": "⟨那⟩国"
+      "gloss": "⟨那⟩国"
     },
     {
       "surface": "לֹ֥א",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נִכְסָֽף",
-      "english": "愿被渴望"
+      "gloss": "愿被渴望"
     }
-  ],
-  "timestamp": "2026-07-17T23:30:37.118669978Z",
-  "model": "glm-5.2"
+  ]
 }

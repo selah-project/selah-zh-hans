@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 36:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21647,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22115
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:50.299059665Z",
   "translation": "看哪,אֵל（大能者）是大能的,⟨他⟩不藐视 ⟨任何人⟩;大能者 ⟨是⟩ 心中的力量。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אל",
-      "english": "אֵל（大能者）"
+      "gloss": "אֵל（大能者）"
     },
     {
       "surface": "כביר",
-      "english": "是大能的"
+      "gloss": "是大能的"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ימאס",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "כביר",
-      "english": "大能者"
+      "gloss": "大能者"
     },
     {
       "surface": "כח",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "לב",
-      "english": "心中的"
+      "gloss": "心中的"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:50.299059665Z",
-  "model": "glm-5.2"
+  ]
 }

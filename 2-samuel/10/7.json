@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "2-samuel 10:7",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19007,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19351
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:44:54.895243980Z",
   "translation": "大卫听见,就差派⟨את⟩约押和⟨את⟩全军,就是勇士们。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "וישלח",
-      "english": "就差派"
+      "gloss": "就差派"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约押"
     },
     {
       "surface": "יואב",
-      "english": "约押"
+      "gloss": "约押"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "全军"
     },
     {
       "surface": "כל",
-      "english": "全军"
+      "gloss": "全军"
     },
     {
       "surface": "הצבא",
-      "english": "军"
+      "gloss": "军"
     },
     {
       "surface": "הגברים",
-      "english": "勇士们"
+      "gloss": "勇士们"
     }
-  ],
-  "timestamp": "2026-07-17T20:44:54.895243980Z",
-  "model": "glm-5.2"
+  ]
 }

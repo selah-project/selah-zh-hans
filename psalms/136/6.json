@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 136:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64399,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64741
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:15.876381869Z",
   "translation": "对那位在水面上铺张大地的,因他的慈爱存到永远。",
   "tokens": [
     {
       "surface": "לרקע",
-      "english": "对那位铺张"
+      "gloss": "对那位铺张"
     },
     {
       "surface": "הארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "המים",
-      "english": "众水"
+      "gloss": "众水"
     },
     {
       "surface": "כי",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "לעולם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "חסדו",
-      "english": "⟨他的⟩慈爱"
+      "gloss": "⟨他的⟩慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:15.876381869Z",
-  "model": "glm-5.2"
+  ]
 }

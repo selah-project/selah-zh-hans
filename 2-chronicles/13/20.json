@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-chronicles 13:20",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59865,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60257
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:21:01.795190401Z",
   "translation": "雅罗波安在亚比雅的日子里没有再恢复力量,雅威击打了他,⟨他⟩就死了。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עצר",
-      "english": "恢复"
+      "gloss": "恢复"
     },
     {
       "surface": "כח",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "ירבעם",
-      "english": "雅罗波安"
+      "gloss": "雅罗波安"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "בימי",
-      "english": "在……的日子里"
+      "gloss": "在……的日子里"
     },
     {
       "surface": "אביהו",
-      "english": "亚比雅"
+      "gloss": "亚比雅"
     },
     {
       "surface": "ויגפהו",
-      "english": "⟨他⟩击打了他"
+      "gloss": "⟨他⟩击打了他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וימת",
-      "english": "⟨他⟩就死了"
+      "gloss": "⟨他⟩就死了"
     }
-  ],
-  "timestamp": "2026-07-18T02:21:01.795190401Z",
-  "model": "glm-5.2"
+  ]
 }

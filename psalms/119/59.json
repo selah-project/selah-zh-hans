@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 59,
   "ref": "psalms 119:59",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64328,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64614
-  },
+  "verse": 59,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:44.187347560Z",
   "translation": "我计算了我的道路,我的脚也转向了你的法度。",
   "tokens": [
     {
       "surface": "חשבתי",
-      "english": "我计算了"
+      "gloss": "我计算了"
     },
     {
       "surface": "דרכי",
-      "english": "我的道路"
+      "gloss": "我的道路"
     },
     {
       "surface": "ואשיבה",
-      "english": "我也转向了"
+      "gloss": "我也转向了"
     },
     {
       "surface": "רגלי",
-      "english": "我的脚"
+      "gloss": "我的脚"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "עדתיך",
-      "english": "你的法度"
+      "gloss": "你的法度"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:44.187347560Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "jeremiah 31:26",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18826,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19339
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:25:25.188332667Z",
   "translation": "因着这事我醒来了，⟨我⟩看，我的睡眠对我⟨来说⟩甘甜了。",
   "tokens": [
     {
       "surface": "עַל",
-      "english": "因着"
+      "gloss": "因着"
     },
     {
       "surface": "זֹאת",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "הֱקִיצֹתִי",
-      "english": "我醒来了"
+      "gloss": "我醒来了"
     },
     {
       "surface": "וָ\/אֶרְאֶה",
-      "english": "⟨我⟩看"
+      "gloss": "⟨我⟩看"
     },
     {
       "surface": "וּ\/שְׁנָתִי",
-      "english": "我的睡眠"
+      "gloss": "我的睡眠"
     },
     {
       "surface": "עָרְבָה",
-      "english": "甘甜了"
+      "gloss": "甘甜了"
     },
     {
       "surface": "לִי",
-      "english": "对我⟨来说⟩"
+      "gloss": "对我⟨来说⟩"
     }
-  ],
-  "timestamp": "2026-07-17T22:25:25.188332667Z",
-  "model": "glm-5.2"
+  ]
 }

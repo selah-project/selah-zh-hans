@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 99:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 99,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64940,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65440
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:15.334298492Z",
   "translation": "大能者君王⟨的⟩力量喜爱公平；⟨是⟩你立定了正直，公平与公义在雅各⟨中⟩，是⟨你⟩行的。",
   "tokens": [
     {
       "surface": "ועז",
-      "english": "⟨的⟩力量"
+      "gloss": "⟨的⟩力量"
     },
     {
       "surface": "מלך",
-      "english": "大能者君王"
+      "gloss": "大能者君王"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "אהב",
-      "english": "喜爱"
+      "gloss": "喜爱"
     },
     {
       "surface": "אתה",
-      "english": "⟨是⟩你"
+      "gloss": "⟨是⟩你"
     },
     {
       "surface": "כוננת",
-      "english": "立定了"
+      "gloss": "立定了"
     },
     {
       "surface": "מישרים",
-      "english": "正直"
+      "gloss": "正直"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "וצדקה",
-      "english": "与公义"
+      "gloss": "与公义"
     },
     {
       "surface": "ביעקב",
-      "english": "在雅各⟨中⟩"
+      "gloss": "在雅各⟨中⟩"
     },
     {
       "surface": "אתה",
-      "english": "是⟨你⟩"
+      "gloss": "是⟨你⟩"
     },
     {
       "surface": "עשית",
-      "english": "行的"
+      "gloss": "行的"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:15.334298492Z",
-  "model": "glm-5.2"
+  ]
 }

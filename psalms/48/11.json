@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 48:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64784,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65268
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:43:43.127690556Z",
   "translation": "犹如你的名字,以罗欣啊,⟨照样⟩你的赞美达⟨到⟩地极;公义满⟨了⟩你的右手。",
   "tokens": [
     {
       "surface": "כשמך",
-      "english": "犹如你的名字"
+      "gloss": "犹如你的名字"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "כן",
-      "english": "⟨照样⟩"
+      "gloss": "⟨照样⟩"
     },
     {
       "surface": "תהלתך",
-      "english": "你的赞美"
+      "gloss": "你的赞美"
     },
     {
       "surface": "על",
-      "english": "达⟨到⟩"
+      "gloss": "达⟨到⟩"
     },
     {
       "surface": "קצוי",
-      "english": "极"
+      "gloss": "极"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "מלאה",
-      "english": "满⟨了⟩"
+      "gloss": "满⟨了⟩"
     },
     {
       "surface": "ימינך",
-      "english": "你的右手"
+      "gloss": "你的右手"
     }
-  ],
-  "timestamp": "2026-07-20T06:43:43.127690556Z",
-  "model": "glm-5.2"
+  ]
 }

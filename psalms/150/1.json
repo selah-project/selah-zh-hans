@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 150:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 150,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64512,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64952
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:26.858600692Z",
   "translation": "הללו־יה！你们要赞美 אֵל（以罗欣）在他的圣所中；你们要赞美他！在他大能的穹苍中 ⟨要赞美他⟩。",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "אל",
-      "english": "אֵל（以罗欣）"
+      "gloss": "אֵל（以罗欣）"
     },
     {
       "surface": "בקדשו",
-      "english": "在他的圣所中"
+      "gloss": "在他的圣所中"
     },
     {
       "surface": "הללוהו",
-      "english": "你们要赞美他！"
+      "gloss": "你们要赞美他！"
     },
     {
       "surface": "ברקיע",
-      "english": "在……的穹苍中"
+      "gloss": "在……的穹苍中"
     },
     {
       "surface": "עזו",
-      "english": "他的大能"
+      "gloss": "他的大能"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:26.858600692Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 108:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64465,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64797
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:55.952337001Z",
   "translation": "我的心已预备好，以罗欣啊；我要歌唱，我也要弹奏，是的，⟨连⟩我的荣耀⟨也要如此⟩。",
   "tokens": [
     {
       "surface": "נכון",
-      "english": "已预备好"
+      "gloss": "已预备好"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "אשירה",
-      "english": "我要歌唱"
+      "gloss": "我要歌唱"
     },
     {
       "surface": "ואזמרה",
-      "english": "我也要弹奏"
+      "gloss": "我也要弹奏"
     },
     {
       "surface": "אף",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "כבודי",
-      "english": "我的荣耀"
+      "gloss": "我的荣耀"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:55.952337001Z",
-  "model": "glm-5.2"
+  ]
 }

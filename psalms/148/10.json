@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 148:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64305,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64664
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:57.522116802Z",
   "translation": "野兽和⟨一切⟩牲畜，爬物和有翅膀的飞鸟，",
   "tokens": [
     {
       "surface": "החיה",
-      "english": "野兽"
+      "gloss": "野兽"
     },
     {
       "surface": "וכל",
-      "english": "和⟨一切⟩"
+      "gloss": "和⟨一切⟩"
     },
     {
       "surface": "בהמה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "רמש",
-      "english": "爬物"
+      "gloss": "爬物"
     },
     {
       "surface": "וצפור",
-      "english": "和飞鸟"
+      "gloss": "和飞鸟"
     },
     {
       "surface": "כנף",
-      "english": "有翅膀的"
+      "gloss": "有翅膀的"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:57.522116802Z",
-  "model": "glm-5.2"
+  ]
 }

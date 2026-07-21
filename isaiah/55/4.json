@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 55:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20550,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20997
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:00:54.004700254Z",
   "translation": "看哪,我已立⟨他⟩为众民族的见证,为众民的领袖与颁布命令者。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "עד",
-      "english": "见证"
+      "gloss": "见证"
     },
     {
       "surface": "לאומים",
-      "english": "给众民族"
+      "gloss": "给众民族"
     },
     {
       "surface": "נתתיו",
-      "english": "我已立⟨他⟩"
+      "gloss": "我已立⟨他⟩"
     },
     {
       "surface": "נגיד",
-      "english": "领袖"
+      "gloss": "领袖"
     },
     {
       "surface": "ומצוה",
-      "english": "与颁布命令者"
+      "gloss": "与颁布命令者"
     },
     {
       "surface": "לאמים",
-      "english": "给众民"
+      "gloss": "给众民"
     }
-  ],
-  "timestamp": "2026-07-17T22:00:54.004700254Z",
-  "model": "glm-5.2"
+  ]
 }

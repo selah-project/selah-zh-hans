@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 42:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22997,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23405
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:02:32.267800202Z",
   "translation": "他们不知道约瑟听懂⟨了⟩，因为有翻译的人在⟨他们⟩中间。",
   "tokens": [
     {
       "surface": "והם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעו",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמע",
-      "english": "听懂"
+      "gloss": "听懂"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "המליץ",
-      "english": "翻译的人"
+      "gloss": "翻译的人"
     },
     {
       "surface": "בינתם",
-      "english": "在他们中间"
+      "gloss": "在他们中间"
     }
-  ],
-  "timestamp": "2026-07-17T18:02:32.267800202Z",
-  "model": "glm-5.2"
+  ]
 }

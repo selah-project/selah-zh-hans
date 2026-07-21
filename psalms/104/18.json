@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 104:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64361,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64751
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:56.427516862Z",
   "translation": "高山为野山羊 ⟨是⟩，岩石为岩石狸 ⟨是⟩避难所。",
   "tokens": [
     {
       "surface": "הרים",
-      "english": "高山"
+      "gloss": "高山"
     },
     {
       "surface": "הגבהים",
-      "english": "高的"
+      "gloss": "高的"
     },
     {
       "surface": "ליעלים",
-      "english": "为野山羊"
+      "gloss": "为野山羊"
     },
     {
       "surface": "סלעים",
-      "english": "岩石"
+      "gloss": "岩石"
     },
     {
       "surface": "מחסה",
-      "english": "避难所"
+      "gloss": "避难所"
     },
     {
       "surface": "לשפנים",
-      "english": "为岩石狸"
+      "gloss": "为岩石狸"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:56.427516862Z",
-  "model": "glm-5.2"
+  ]
 }

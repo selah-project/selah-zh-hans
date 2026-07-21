@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 112,
   "ref": "psalms 119:112",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 290,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64327,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64617
-  },
+  "verse": 112,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:51.541772948Z",
   "translation": "我已倾斜我的心去行你的律例，直到永远，⟨直到⟩结局。",
   "tokens": [
     {
       "surface": "נטיתי",
-      "english": "我已倾斜"
+      "gloss": "我已倾斜"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "לעשות",
-      "english": "去行"
+      "gloss": "去行"
     },
     {
       "surface": "חקיך",
-      "english": "你的律例"
+      "gloss": "你的律例"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "עקב",
-      "english": "⟨直到⟩结局"
+      "gloss": "⟨直到⟩结局"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:51.541772948Z",
-  "model": "glm-5.2"
+  ]
 }

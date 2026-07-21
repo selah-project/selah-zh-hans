@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 49:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 738,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23623,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24361
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:08:09.027052448Z",
   "translation": "雅各就呼叫他的儿子们,说:你们聚集起来,我要告诉你们 ⟨את⟩ ⟨那⟩将要临到 ⟨את⟩ 你们的事,在末后的 ⟨那些⟩日子。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "他就呼叫"
+      "gloss": "他就呼叫"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "בניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ויאמר",
-      "english": "并说"
+      "gloss": "并说"
     },
     {
       "surface": "האספו",
-      "english": "你们聚集起来"
+      "gloss": "你们聚集起来"
     },
     {
       "surface": "ואגידה",
-      "english": "而我要告诉"
+      "gloss": "而我要告诉"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那将要临到你们的事"
     },
     {
       "surface": "אשר",
-      "english": "那……的事"
+      "gloss": "那……的事"
     },
     {
       "surface": "יקרא",
-      "english": "将要临到"
+      "gloss": "将要临到"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "באחרית",
-      "english": "在末后"
+      "gloss": "在末后"
     },
     {
       "surface": "הימים",
-      "english": "那些日子"
+      "gloss": "那些日子"
     }
-  ],
-  "timestamp": "2026-07-17T18:08:09.027052448Z",
-  "model": "glm-5.2"
+  ]
 }

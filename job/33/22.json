@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 33:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21428,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21855
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:19.291731753Z",
   "translation": "他的生命迫近 ⟨את⟩ 坑穴,⟨而⟩他的生命 ⟨את⟩ 致死者。",
   "tokens": [
     {
       "surface": "ותקרב",
-      "english": "迫近"
+      "gloss": "迫近"
     },
     {
       "surface": "לשחת",
-      "english": "坑穴"
+      "gloss": "坑穴"
     },
     {
       "surface": "נפשו",
-      "english": "他的生命"
+      "gloss": "他的生命"
     },
     {
       "surface": "וחיתו",
-      "english": "而他的生命"
+      "gloss": "而他的生命"
     },
     {
       "surface": "לממתים",
-      "english": "致死者"
+      "gloss": "致死者"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:19.291731753Z",
-  "model": "glm-5.2"
+  ]
 }

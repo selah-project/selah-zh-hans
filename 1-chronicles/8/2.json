@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-chronicles 8:2",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58232,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58500
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:38.167350642Z",
   "translation": "挪 ⟨是⟩第四,拉法 ⟨是⟩第五。",
   "tokens": [
     {
       "surface": "נוחה",
-      "english": "挪"
+      "gloss": "挪"
     },
     {
       "surface": "הרביעי",
-      "english": "⟨是⟩第四"
+      "gloss": "⟨是⟩第四"
     },
     {
       "surface": "ורפא",
-      "english": "拉法"
+      "gloss": "拉法"
     },
     {
       "surface": "החמישי",
-      "english": "⟨是⟩第五"
+      "gloss": "⟨是⟩第五"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:38.167350642Z",
-  "model": "glm-5.2"
+  ]
 }

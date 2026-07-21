@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-samuel 18:12",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18201,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18634
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:58.192829983Z",
   "translation": "扫罗惧怕大卫，因为雅威⟨与⟩他同在；⟨而⟩从扫罗⟨那里⟩，⟨雅威⟩已经转离。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "惧怕"
+      "gloss": "惧怕"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "מלפני",
-      "english": "从……面前"
+      "gloss": "从……面前"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "היה",
-      "english": "⟨已经⟩"
+      "gloss": "⟨已经⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עמו",
-      "english": "⟨与⟩他同在"
+      "gloss": "⟨与⟩他同在"
     },
     {
       "surface": "ומעם",
-      "english": "⟨而⟩从⟨那里⟩"
+      "gloss": "⟨而⟩从⟨那里⟩"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "סר",
-      "english": "⟨雅威⟩已经转离"
+      "gloss": "⟨雅威⟩已经转离"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:58.192829983Z",
-  "model": "glm-5.2"
+  ]
 }

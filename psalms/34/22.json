@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 34:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64310,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64693
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:24.892634699Z",
   "translation": "恶人 ⟨之⟩ 死 ⟨是⟩ 邪恶⟨את⟩；恨恶义人的,必被定罪。",
   "tokens": [
     {
       "surface": "תמותת",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "רעה",
-      "english": "邪恶"
+      "gloss": "邪恶"
     },
     {
       "surface": "ושנאי",
-      "english": "恨恶"
+      "gloss": "恨恶"
     },
     {
       "surface": "צדיק",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "יאשמו",
-      "english": "必被定罪"
+      "gloss": "必被定罪"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:24.892634699Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 67:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64381,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64754
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:50.698914537Z",
   "translation": "为要让地在万国中认识你的道路，在万国中认识你的拯救。",
   "tokens": [
     {
       "surface": "לָ\/דַ֣עַת",
-      "english": "为要认识"
+      "gloss": "为要认识"
     },
     {
       "surface": "בָּ\/אָ֣רֶץ",
-      "english": "在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "דַּרְכֶּ֑\/ךָ",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "בְּ\/כָל",
-      "english": "在所有"
+      "gloss": "在所有"
     },
     {
       "surface": "גּ֝וֹיִ֗ם",
-      "english": "万国中"
+      "gloss": "万国中"
     },
     {
       "surface": "יְשׁוּעָתֶֽ\/ךָ",
-      "english": "你的拯救"
+      "gloss": "你的拯救"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:50.698914537Z",
-  "model": "glm-5.2"
+  ]
 }

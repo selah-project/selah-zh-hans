@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 8:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19471,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19930
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:37.895988037Z",
   "translation": "他将胸牌放在他身上，将乌陵⟨את⟩和土明⟨את⟩放入胸牌里。",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "他将……放"
+      "gloss": "他将……放"
     },
     {
       "surface": "עליו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "胸牌"
     },
     {
       "surface": "החשן",
-      "english": "胸牌"
+      "gloss": "胸牌"
     },
     {
       "surface": "ויתן",
-      "english": "他将……放入"
+      "gloss": "他将……放入"
     },
     {
       "surface": "אל",
-      "english": "入"
+      "gloss": "入"
     },
     {
       "surface": "החשן",
-      "english": "胸牌"
+      "gloss": "胸牌"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "乌陵"
     },
     {
       "surface": "האורים",
-      "english": "乌陵"
+      "gloss": "乌陵"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "土明"
     },
     {
       "surface": "התמים",
-      "english": "土明"
+      "gloss": "土明"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:37.895988037Z",
-  "model": "glm-5.2"
+  ]
 }

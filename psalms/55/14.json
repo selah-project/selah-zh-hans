@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 55:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64246,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64548
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:03:18.414941097Z",
   "translation": "而⟨你⟩⟨是⟩必死之人，如⟨与⟩我同列，我的密友，和我的相识。",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "而⟨你⟩"
+      "gloss": "而⟨你⟩"
     },
     {
       "surface": "אנוש",
-      "english": "必死之人"
+      "gloss": "必死之人"
     },
     {
       "surface": "כערכי",
-      "english": "如⟨与⟩我同列"
+      "gloss": "如⟨与⟩我同列"
     },
     {
       "surface": "אלופי",
-      "english": "我的密友"
+      "gloss": "我的密友"
     },
     {
       "surface": "ומידעי",
-      "english": "和我的相识"
+      "gloss": "和我的相识"
     }
-  ],
-  "timestamp": "2026-07-20T15:03:18.414941097Z",
-  "model": "glm-5.2"
+  ]
 }

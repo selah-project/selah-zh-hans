@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "2-kings 12:17",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18698,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19178
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:25:22.667085609Z",
   "translation": "银子的 ⟨את⟩ 赎愆祭 ⟨和⟩ 银子的 ⟨את⟩ 赎罪祭,不可带进雅威的殿;它们要归给祭司。",
   "tokens": [
     {
       "surface": "כסף",
-      "english": "银子的"
+      "gloss": "银子的"
     },
     {
       "surface": "אשם",
-      "english": "赎愆祭"
+      "gloss": "赎愆祭"
     },
     {
       "surface": "וכסף",
-      "english": "⟨和⟩ 银子的"
+      "gloss": "⟨和⟩ 银子的"
     },
     {
       "surface": "חטאות",
-      "english": "赎罪祭"
+      "gloss": "赎罪祭"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יובא",
-      "english": "可带进"
+      "gloss": "可带进"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "לכהנים",
-      "english": "归给祭司"
+      "gloss": "归给祭司"
     },
     {
       "surface": "יהיו",
-      "english": "它们要"
+      "gloss": "它们要"
     }
-  ],
-  "timestamp": "2026-07-17T21:25:22.667085609Z",
-  "model": "glm-5.2"
+  ]
 }

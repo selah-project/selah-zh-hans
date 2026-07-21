@@ -1,33 +1,25 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "1-chronicles 2:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 233,
-    "prompt_tokens": 58212,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58445
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:26:22.490424259Z",
   "translation": "以探的 ⟨儿子们⟩ 是 亚撒利雅。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "以探的 ⟨儿子们⟩"
+      "gloss": "以探的 ⟨儿子们⟩"
     },
     {
       "surface": "איתן",
-      "english": "以探"
+      "gloss": "以探"
     },
     {
       "surface": "עזריה",
-      "english": "亚撒利雅"
+      "gloss": "亚撒利雅"
     }
-  ],
-  "timestamp": "2026-07-21T13:26:22.490424259Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 115:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64334,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64645
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:51.320235427Z",
   "translation": "他们的偶像是银和金，人手的作为。",
   "tokens": [
     {
       "surface": "עצביהם",
-      "english": "他们的偶像"
+      "gloss": "他们的偶像"
     },
     {
       "surface": "כסף",
-      "english": "银"
+      "gloss": "银"
     },
     {
       "surface": "וזהב",
-      "english": "和金"
+      "gloss": "和金"
     },
     {
       "surface": "מעשה",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "ידי",
-      "english": "手"
+      "gloss": "手"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:51.320235427Z",
-  "model": "glm-5.2"
+  ]
 }

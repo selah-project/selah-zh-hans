@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 17:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64514,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64965
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:00.415565601Z",
   "translation": "求你保守我,如眼中的瞳孔 (בַּת עָיִן);在⟨你⟩翅膀的荫庇下,⟨求你⟩将我隐藏。",
   "tokens": [
     {
       "surface": "שָׁמְרֵ\/נִי",
-      "english": "求你保守我"
+      "gloss": "求你保守我"
     },
     {
       "surface": "כְּ\/אִישׁוֹן",
-      "english": "如瞳孔"
+      "gloss": "如瞳孔"
     },
     {
       "surface": "בַּת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "עָיִן",
-      "english": "眼"
+      "gloss": "眼"
     },
     {
       "surface": "בְּ\/צֵל",
-      "english": "在……的荫庇下"
+      "gloss": "在……的荫庇下"
     },
     {
       "surface": "כְּ\/נָפֶי\/ךָ",
-      "english": "你翅膀的"
+      "gloss": "你翅膀的"
     },
     {
       "surface": "תַּסְתִּירֵ\/נִי",
-      "english": "将我隐藏"
+      "gloss": "将我隐藏"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:00.415565601Z",
-  "model": "glm-5.2"
+  ]
 }

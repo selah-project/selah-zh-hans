@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 42:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23152,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23568
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:36:50.941255294Z",
   "translation": "雅各看见有谷物在埃及，雅各对他的儿子们说：你们为什么互相注视？",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "כי",
-      "english": "⟨有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "יש",
-      "english": "存在"
+      "gloss": "存在"
     },
     {
       "surface": "שבר",
-      "english": "谷物"
+      "gloss": "谷物"
     },
     {
       "surface": "במצרים",
-      "english": "在埃及"
+      "gloss": "在埃及"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "לבניו",
-      "english": "对他的儿子们"
+      "gloss": "对他的儿子们"
     },
     {
       "surface": "למה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "תתראו",
-      "english": "你们互相注视"
+      "gloss": "你们互相注视"
     }
-  ],
-  "timestamp": "2026-07-20T06:36:50.941255294Z",
-  "model": "glm-5.2"
+  ]
 }

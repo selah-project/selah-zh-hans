@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-samuel 15:3",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19210,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19749
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:48:27.072087500Z",
   "translation": "押沙龙对他说：看哪，你的话 (*davar*) 好而正直，但 ⟨你⟩ 没有从王 ⟨那里⟩ 听 ⟨话⟩ 的人。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "אבשלום",
-      "english": "押沙龙"
+      "gloss": "押沙龙"
     },
     {
       "surface": "ראה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "דברך",
-      "english": "你的话 (*davar*)"
+      "gloss": "你的话 (*davar*)"
     },
     {
       "surface": "טובים",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "ונכחים",
-      "english": "而正直"
+      "gloss": "而正直"
     },
     {
       "surface": "ושמע",
-      "english": "但……听"
+      "gloss": "但……听"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לך",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "מאת",
-      "english": "⟨从……那里⟩"
+      "gloss": "⟨从……那里⟩"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-17T20:48:27.072087500Z",
-  "model": "glm-5.2"
+  ]
 }

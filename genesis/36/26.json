@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "genesis 36:26",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22839,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23134
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:33.259398796Z",
   "translation": "这些⟨是⟩底珊的儿子们:赫姆丹、埃什班、伊特兰和克兰。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "דישן",
-      "english": "底珊的"
+      "gloss": "底珊的"
     },
     {
       "surface": "חמדן",
-      "english": "赫姆丹"
+      "gloss": "赫姆丹"
     },
     {
       "surface": "ואשבן",
-      "english": "埃什班"
+      "gloss": "埃什班"
     },
     {
       "surface": "ויתרן",
-      "english": "伊特兰"
+      "gloss": "伊特兰"
     },
     {
       "surface": "וכרן",
-      "english": "和克兰"
+      "gloss": "和克兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:33.259398796Z",
-  "model": "glm-5.2"
+  ]
 }

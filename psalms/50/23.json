@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 50:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64593,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65097
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:36.791097516Z",
   "translation": "献上*妥拉*之赞祭的,他荣耀我;而⟨那⟩设定道路的,我将让他看见以罗欣的拯救。",
   "tokens": [
     {
       "surface": "זבח",
-      "english": "献上……之祭"
+      "gloss": "献上……之祭"
     },
     {
       "surface": "תודה",
-      "english": "赞祭"
+      "gloss": "赞祭"
     },
     {
       "surface": "יכבדנני",
-      "english": "他荣耀我"
+      "gloss": "他荣耀我"
     },
     {
       "surface": "ושם",
-      "english": "而设定"
+      "gloss": "而设定"
     },
     {
       "surface": "דרך",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "אראנו",
-      "english": "我将让他看见"
+      "gloss": "我将让他看见"
     },
     {
       "surface": "בישע",
-      "english": "的拯救"
+      "gloss": "的拯救"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:36.791097516Z",
-  "model": "glm-5.2"
+  ]
 }

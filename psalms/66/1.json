@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 66:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64396,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64727
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:26.304195460Z",
   "translation": "给伶长。一首歌，一篇诗篇。全地啊，当向以罗欣欢呼，",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给伶长"
+      "gloss": "给伶长"
     },
     {
       "surface": "שיר",
-      "english": "一首歌"
+      "gloss": "一首歌"
     },
     {
       "surface": "מזמור",
-      "english": "一篇诗篇"
+      "gloss": "一篇诗篇"
     },
     {
       "surface": "הריעו",
-      "english": "当欢呼"
+      "gloss": "当欢呼"
     },
     {
       "surface": "לאלהים",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地啊"
+      "gloss": "地啊"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:26.304195460Z",
-  "model": "glm-5.2"
+  ]
 }

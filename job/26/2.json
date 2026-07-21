@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 26:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21618,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22029
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:35.893432208Z",
   "translation": "你怎样帮助了⟨那⟩没有力量的人？你怎样拯救了⟨那⟩没有力气的臂膀？",
   "tokens": [
     {
       "surface": "מה",
-      "english": "你怎样……"
+      "gloss": "你怎样……"
     },
     {
       "surface": "עזרת",
-      "english": "帮助了"
+      "gloss": "帮助了"
     },
     {
       "surface": "ללא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "כח",
-      "english": "力量的（人）"
+      "gloss": "力量的（人）"
     },
     {
       "surface": "הושעת",
-      "english": "拯救了"
+      "gloss": "拯救了"
     },
     {
       "surface": "זרוע",
-      "english": "臂膀"
+      "gloss": "臂膀"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עז",
-      "english": "力气的"
+      "gloss": "力气的"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:35.893432208Z",
-  "model": "glm-5.2"
+  ]
 }

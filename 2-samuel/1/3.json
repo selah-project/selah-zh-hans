@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-samuel 1:3",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19078,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19488
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:39:51.011996630Z",
   "translation": "大卫对他说:你从哪里来?⟨他⟩对⟨他⟩说:我从以色列的营中逃出来了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "לו",
-      "english": "对⟨他⟩"
+      "gloss": "对⟨他⟩"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אי",
-      "english": "哪里"
+      "gloss": "哪里"
     },
     {
       "surface": "מזה",
-      "english": "从这"
+      "gloss": "从这"
     },
     {
       "surface": "תבוא",
-      "english": "你来"
+      "gloss": "你来"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "אליו",
-      "english": "对⟨他⟩"
+      "gloss": "对⟨他⟩"
     },
     {
       "surface": "ממחנה",
-      "english": "从……的营中"
+      "gloss": "从……的营中"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "נמלטתי",
-      "english": "我逃出来了"
+      "gloss": "我逃出来了"
     }
-  ],
-  "timestamp": "2026-07-17T20:39:51.011996630Z",
-  "model": "glm-5.2"
+  ]
 }

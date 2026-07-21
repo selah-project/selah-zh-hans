@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "psalms 105:29",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64525,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64820
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:34.263366380Z",
   "translation": "他将他们的水变为血，⟨את⟩他们的鱼他也使之死去。",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "他转变了"
+      "gloss": "他转变了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的水"
     },
     {
       "surface": "מימיהם",
-      "english": "他们的水"
+      "gloss": "他们的水"
     },
     {
       "surface": "לדם",
-      "english": "为血"
+      "gloss": "为血"
     },
     {
       "surface": "וימת",
-      "english": "他也使之死去"
+      "gloss": "他也使之死去"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的鱼"
     },
     {
       "surface": "דגתם",
-      "english": "他们的鱼"
+      "gloss": "他们的鱼"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:34.263366380Z",
-  "model": "glm-5.2"
+  ]
 }

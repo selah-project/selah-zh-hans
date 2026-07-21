@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 77:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64636,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64988
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:12.569871151Z",
   "translation": "你雷霆的响声在旋风中，闪电照亮了世界；大地颤抖震动。",
   "tokens": [
     {
       "surface": "קול",
-      "english": "响声"
+      "gloss": "响声"
     },
     {
       "surface": "רעמך",
-      "english": "你雷霆的"
+      "gloss": "你雷霆的"
     },
     {
       "surface": "בגלגל",
-      "english": "在旋风中"
+      "gloss": "在旋风中"
     },
     {
       "surface": "האירו",
-      "english": "照亮了"
+      "gloss": "照亮了"
     },
     {
       "surface": "ברקים",
-      "english": "闪电"
+      "gloss": "闪电"
     },
     {
       "surface": "תבל",
-      "english": "世界"
+      "gloss": "世界"
     },
     {
       "surface": "רגזה",
-      "english": "颤抖"
+      "gloss": "颤抖"
     },
     {
       "surface": "ותרעש",
-      "english": "且震动"
+      "gloss": "且震动"
     },
     {
       "surface": "הארץ",
-      "english": "大地"
+      "gloss": "大地"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:12.569871151Z",
-  "model": "glm-5.2"
+  ]
 }

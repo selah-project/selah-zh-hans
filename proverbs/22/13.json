@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "proverbs 22:13",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54352,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54630
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:57.899298769Z",
   "translation": "懒惰人说：⟨有⟩狮子在外面，⟨在⟩广场中间⟨我⟩会被杀！",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "עצל",
-      "english": "懒惰人"
+      "gloss": "懒惰人"
     },
     {
       "surface": "ארי",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "בחוץ",
-      "english": "在外面"
+      "gloss": "在外面"
     },
     {
       "surface": "בתוך",
-      "english": "⟨在⟩……中间"
+      "gloss": "⟨在⟩……中间"
     },
     {
       "surface": "רחבות",
-      "english": "广场"
+      "gloss": "广场"
     },
     {
       "surface": "ארצח",
-      "english": "⟨我⟩会被杀！"
+      "gloss": "⟨我⟩会被杀！"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:57.899298769Z",
-  "model": "glm-5.2"
+  ]
 }

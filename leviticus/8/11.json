@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 8:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 782,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20109,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20891
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:46.590407365Z",
   "translation": "他从中 sprinkled 在 mizbeach 上七次,膏抹了 ⟨את⟩-mizbeach 和 ⟨את⟩-它一切的器具,以及 ⟨את⟩-洗濯盆 和 ⟨את⟩-它的座,为要 qadash 它们。",
   "tokens": [
     {
       "surface": "ויז",
-      "english": "他从中 sprinkled"
+      "gloss": "他从中 sprinkled"
     },
     {
       "surface": "ממנו",
-      "english": "从中"
+      "gloss": "从中"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "המזבח",
-      "english": "mizbeach (祭坛)"
+      "gloss": "mizbeach (祭坛)"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "פעמים",
-      "english": "次"
+      "gloss": "次"
     },
     {
       "surface": "וימשח",
-      "english": "膏抹了"
+      "gloss": "膏抹了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "mizbeach (祭坛)"
     },
     {
       "surface": "המזבח",
-      "english": "mizbeach (祭坛)"
+      "gloss": "mizbeach (祭坛)"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它一切的器具"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "洗濯盆"
     },
     {
       "surface": "הכיר",
-      "english": "洗濯盆"
+      "gloss": "洗濯盆"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的座"
     },
     {
       "surface": "כנו",
-      "english": "它的座"
+      "gloss": "它的座"
     },
     {
       "surface": "לקדשם",
-      "english": "为要 qadash (分别为圣) 它们"
+      "gloss": "为要 qadash (分别为圣) 它们"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:46.590407365Z",
-  "model": "glm-5.2"
+  ]
 }

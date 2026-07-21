@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "esther 3:10",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19840,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20328
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:24:57.608771414Z",
   "translation": "王 ⟨就⟩從他手上取下⟨את⟩他的印章戒指,給了哈曼——哈米大他的兒子、那亞甲人、猶太人的仇敵。",
   "tokens": [
     {
       "surface": "ויסר",
-      "english": "取下"
+      "gloss": "取下"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的印章戒指"
     },
     {
       "surface": "טבעתו",
-      "english": "他的印章戒指"
+      "gloss": "他的印章戒指"
     },
     {
       "surface": "מעל",
-      "english": "從……之上"
+      "gloss": "從……之上"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "ויתנה",
-      "english": "給了"
+      "gloss": "給了"
     },
     {
       "surface": "להמן",
-      "english": "哈曼"
+      "gloss": "哈曼"
     },
     {
       "surface": "בן",
-      "english": "兒子"
+      "gloss": "兒子"
     },
     {
       "surface": "המדתא",
-      "english": "哈米大他"
+      "gloss": "哈米大他"
     },
     {
       "surface": "האגגי",
-      "english": "那亞甲人"
+      "gloss": "那亞甲人"
     },
     {
       "surface": "צרר",
-      "english": "仇敵"
+      "gloss": "仇敵"
     },
     {
       "surface": "היהודים",
-      "english": "猶太人的"
+      "gloss": "猶太人的"
     }
-  ],
-  "timestamp": "2026-07-18T01:24:57.608771414Z",
-  "model": "glm-5.2"
+  ]
 }

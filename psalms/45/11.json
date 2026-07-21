@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 45:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64635,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65119
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:47.243795710Z",
   "translation": "女子啊，要听！要看，侧耳倾听！要忘记你的⟨⟩百姓和你父家。",
   "tokens": [
     {
       "surface": "שמעי",
-      "english": "要听！"
+      "gloss": "要听！"
     },
     {
       "surface": "בת",
-      "english": "女子啊，"
+      "gloss": "女子啊，"
     },
     {
       "surface": "וראי",
-      "english": "要看，"
+      "gloss": "要看，"
     },
     {
       "surface": "והטי",
-      "english": "侧耳"
+      "gloss": "侧耳"
     },
     {
       "surface": "אזנך",
-      "english": "倾听！"
+      "gloss": "倾听！"
     },
     {
       "surface": "ושכחי",
-      "english": "要忘记"
+      "gloss": "要忘记"
     },
     {
       "surface": "עמך",
-      "english": "你的"
+      "gloss": "你的"
     },
     {
       "surface": "ובית",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "אביך",
-      "english": "你父家。"
+      "gloss": "你父家。"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:47.243795710Z",
-  "model": "glm-5.2"
+  ]
 }

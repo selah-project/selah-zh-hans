@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 42:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64726,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65228
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:34.946972558Z",
   "translation": "如同母鹿 ⟨对⟩ 水流沟壑发喘，照样我的נפש ⟨对⟩⟨你⟩ 渴慕，以罗欣啊。",
   "tokens": [
     {
       "surface": "כאיל",
-      "english": "如同母鹿"
+      "gloss": "如同母鹿"
     },
     {
       "surface": "תערג",
-      "english": "发喘"
+      "gloss": "发喘"
     },
     {
       "surface": "על",
-      "english": "⟨对⟩"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "אפיקי",
-      "english": "水流沟壑"
+      "gloss": "水流沟壑"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "כן",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "תערג",
-      "english": "渴慕"
+      "gloss": "渴慕"
     },
     {
       "surface": "אליך",
-      "english": "⟨对⟩⟨你⟩"
+      "gloss": "⟨对⟩⟨你⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:34.946972558Z",
-  "model": "glm-5.2"
+  ]
 }

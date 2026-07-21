@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-samuel 17:11",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18392,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18805
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:05.722671106Z",
   "translation": "扫罗和全以色列听见⟨את⟩这非利士人的这些*话*,就惊恐,极其畏惧。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "וכל",
-      "english": "和全"
+      "gloss": "和全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这非利士人的这些话"
     },
     {
       "surface": "דברי",
-      "english": "话"
+      "gloss": "话"
     },
     {
       "surface": "הפלשתי",
-      "english": "这非利士人的"
+      "gloss": "这非利士人的"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "ויחתו",
-      "english": "就惊恐"
+      "gloss": "就惊恐"
     },
     {
       "surface": "ויראו",
-      "english": "畏惧"
+      "gloss": "畏惧"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:05.722671106Z",
-  "model": "glm-5.2"
+  ]
 }

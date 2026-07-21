@@ -1,42 +1,34 @@
 {
-  "tier": "bulk",
-  "verse": 3,
   "ref": "jeremiah 46:3",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 388,
-    "prompt_tokens": 18760,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19148
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:20:04.449860272Z",
   "translation": "列阵 ⟨את⟩ 圆盾和大盾，并逼近战争。",
   "tokens": [
     {
       "surface": "ערכו",
-      "english": "列阵"
+      "gloss": "列阵"
     },
     {
       "surface": "מגן",
-      "english": "圆盾",
+      "gloss": "圆盾",
       "marks": "圆盾和大盾"
     },
     {
       "surface": "וצנה",
-      "english": "和大盾"
+      "gloss": "和大盾"
     },
     {
       "surface": "וגשו",
-      "english": "并逼近"
+      "gloss": "并逼近"
     },
     {
       "surface": "למלחמה",
-      "english": "战争"
+      "gloss": "战争"
     }
-  ],
-  "timestamp": "2026-07-21T13:20:04.449860272Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 78:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64349,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64650
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:29.559628115Z",
   "translation": "因为他们不信靠以罗欣,也不倚靠他的救恩⟨⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "האמינו",
-      "english": "他们信靠"
+      "gloss": "他们信靠"
     },
     {
       "surface": "באלהים",
-      "english": "在以罗欣(里)"
+      "gloss": "在以罗欣(里)"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "בטחו",
-      "english": "他们倚靠"
+      "gloss": "他们倚靠"
     },
     {
       "surface": "בישועתו",
-      "english": "在他的救恩(里)"
+      "gloss": "在他的救恩(里)"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:29.559628115Z",
-  "model": "glm-5.2"
+  ]
 }

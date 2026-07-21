@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 13:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54454,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54817
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:56.918355711Z",
   "translation": "懒惰人的生命渴望，却一无所有；但勤恳人的生命必⟨得⟩肥润。",
   "tokens": [
     {
       "surface": "מתאוה",
-      "english": "渴望"
+      "gloss": "渴望"
     },
     {
       "surface": "ואין",
-      "english": "却一无所有"
+      "gloss": "却一无所有"
     },
     {
       "surface": "נפשו",
-      "english": "懒惰人的生命"
+      "gloss": "懒惰人的生命"
     },
     {
       "surface": "עצל",
-      "english": "懒惰人"
+      "gloss": "懒惰人"
     },
     {
       "surface": "ונפש",
-      "english": "但……的生命"
+      "gloss": "但……的生命"
     },
     {
       "surface": "חרצים",
-      "english": "勤恳人"
+      "gloss": "勤恳人"
     },
     {
       "surface": "תדשן",
-      "english": "必⟨得⟩肥润"
+      "gloss": "必⟨得⟩肥润"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:56.918355711Z",
-  "model": "glm-5.2"
+  ]
 }

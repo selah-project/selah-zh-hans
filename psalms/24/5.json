@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 24:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64425,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64794
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:57.685692961Z",
   "translation": "他必从雅威那里⟨带着⟩祝福⟨而来⟩，从他拯救⟨的⟩以罗欣那里⟨带着⟩公义⟨而来⟩。",
   "tokens": [
     {
       "surface": "ישא",
-      "english": "他必带着⟨而来⟩"
+      "gloss": "他必带着⟨而来⟩"
     },
     {
       "surface": "ברכה",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "מאת",
-      "english": "从……那里"
+      "gloss": "从……那里"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וצדקה",
-      "english": "和公义"
+      "gloss": "和公义"
     },
     {
       "surface": "מאלהי",
-      "english": "从以罗欣那里"
+      "gloss": "从以罗欣那里"
     },
     {
       "surface": "ישעו",
-      "english": "他拯救⟨的⟩"
+      "gloss": "他拯救⟨的⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:57.685692961Z",
-  "model": "glm-5.2"
+  ]
 }

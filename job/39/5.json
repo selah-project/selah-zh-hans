@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 39:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21665,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22225
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:58.720976157Z",
   "translation": "是谁放野驴自由⟨出去⟩，⟨而⟩野驴的绳索，是谁松开的？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "是谁"
+      "gloss": "是谁"
     },
     {
       "surface": "שלח",
-      "english": "放……自由⟨出去⟩"
+      "gloss": "放……自由⟨出去⟩"
     },
     {
       "surface": "פרא",
-      "english": "野驴"
+      "gloss": "野驴"
     },
     {
       "surface": "חפשי",
-      "english": "自由"
+      "gloss": "自由"
     },
     {
       "surface": "ומסרות",
-      "english": "⟨而⟩……的绳索"
+      "gloss": "⟨而⟩……的绳索"
     },
     {
       "surface": "ערוד",
-      "english": "野驴"
+      "gloss": "野驴"
     },
     {
       "surface": "מי",
-      "english": "是谁"
+      "gloss": "是谁"
     },
     {
       "surface": "פתח",
-      "english": "松开"
+      "gloss": "松开"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:58.720976157Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 130:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64762,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65215
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:49.384864115Z",
   "translation": "以色列啊，要仰望雅威；因为在雅威那里有⟨הַ\/חֶסֶד⟩（坚定的慈爱），在他那里丰盛的救赎。",
   "tokens": [
     {
       "surface": "יַחֵל",
-      "english": "要仰望"
+      "gloss": "要仰望"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אֶל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "יְה֫וָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עִם",
-      "english": "与⟨同在⟩\/在⟨那里⟩"
+      "gloss": "与⟨同在⟩\/在⟨那里⟩"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הַ\/חֶ֫סֶד",
-      "english": "坚定的慈爱"
+      "gloss": "坚定的慈爱"
     },
     {
       "surface": "וְ\/הַרְבֵּה",
-      "english": "且丰盛"
+      "gloss": "且丰盛"
     },
     {
       "surface": "עִמּ֣\/וֹ",
-      "english": "在他那里"
+      "gloss": "在他那里"
     },
     {
       "surface": "פְדֽוּת",
-      "english": "救赎"
+      "gloss": "救赎"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:49.384864115Z",
-  "model": "glm-5.2"
+  ]
 }

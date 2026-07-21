@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "joshua 10:43",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17816,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18170
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:56:41.960230240Z",
   "translation": "约书亚返回,他和⟨与⟩他同在的以色列众人⟨一起⟩,到吉甲的营。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "⟨于是⟩返回"
+      "gloss": "⟨于是⟩返回"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "וכל",
-      "english": "和全"
+      "gloss": "和全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עמו",
-      "english": "⟨与⟩他同在"
+      "gloss": "⟨与⟩他同在"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "המחנה",
-      "english": "⟨那⟩营"
+      "gloss": "⟨那⟩营"
     },
     {
       "surface": "הגלגלה",
-      "english": "吉甲"
+      "gloss": "吉甲"
     }
-  ],
-  "timestamp": "2026-07-17T19:56:41.960230240Z",
-  "model": "glm-5.2"
+  ]
 }

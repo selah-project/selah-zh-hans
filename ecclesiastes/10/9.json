@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "ecclesiastes 10:9",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19020,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19434
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:22:38.228162680Z",
   "translation": "搬运石头的人必在其中受伤；劈砍木头的人必因之陷入危险。",
   "tokens": [
     {
       "surface": "מסיע",
-      "english": "搬运"
+      "gloss": "搬运"
     },
     {
       "surface": "אבנים",
-      "english": "石头的人"
+      "gloss": "石头的人"
     },
     {
       "surface": "יעצב",
-      "english": "必受伤"
+      "gloss": "必受伤"
     },
     {
       "surface": "בהם",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "בוקע",
-      "english": "劈砍"
+      "gloss": "劈砍"
     },
     {
       "surface": "עצים",
-      "english": "木头的人"
+      "gloss": "木头的人"
     },
     {
       "surface": "יסכן",
-      "english": "必陷入危险"
+      "gloss": "必陷入危险"
     },
     {
       "surface": "בם",
-      "english": "因之"
+      "gloss": "因之"
     }
-  ],
-  "timestamp": "2026-07-18T01:22:38.228162680Z",
-  "model": "glm-5.2"
+  ]
 }

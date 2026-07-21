@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-chronicles 17:15",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59643,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60066
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:23:23.802469803Z",
   "translation": "在他手下是雅何哈南 ⟨ה\/שָּׂר⟩首领，与他在一起的有二百八十千。",
   "tokens": [
     {
       "surface": "וְ\/עַל",
-      "english": "在……之上 \/ 在……手下"
+      "gloss": "在……之上 \/ 在……手下"
     },
     {
       "surface": "יָד֖\/וֹ",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "יְהוֹחָנָ֣ן",
-      "english": "雅何哈南"
+      "gloss": "雅何哈南"
     },
     {
       "surface": "הַ\/שָּׂ֑ר",
-      "english": "⟨那⟩首领"
+      "gloss": "⟨那⟩首领"
     },
     {
       "surface": "וְ\/עִמּ֕\/וֹ",
-      "english": "与他在一起"
+      "gloss": "与他在一起"
     },
     {
       "surface": "מָאתַ֥יִם",
-      "english": "二百"
+      "gloss": "二百"
     },
     {
       "surface": "וּ\/שְׁמוֹנִ֖ים",
-      "english": "和八十"
+      "gloss": "和八十"
     },
     {
       "surface": "אָֽלֶף",
-      "english": "千"
+      "gloss": "千"
     }
-  ],
-  "timestamp": "2026-07-18T02:23:23.802469803Z",
-  "model": "glm-5.2"
+  ]
 }

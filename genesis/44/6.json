@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 44:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 290,
-    "prompt_tokens": 22816,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23106
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:19.923388253Z",
   "translation": "他追上了他们,并 ⟨向⟩ 他们说了这些话",
   "tokens": [
     {
       "surface": "וישגם",
-      "english": "他追上了他们"
+      "gloss": "他追上了他们"
     },
     {
       "surface": "ודבר",
-      "english": "并说了"
+      "gloss": "并说了"
     },
     {
       "surface": "אלהם",
-      "english": "⟨向⟩ 他们"
+      "gloss": "⟨向⟩ 他们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这些话"
     },
     {
       "surface": "הדברים",
-      "english": "这些话"
+      "gloss": "这些话"
     },
     {
       "surface": "האלה",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:12:19.923388253Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 17:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54584,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54982
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:15.446873654Z",
   "translation": "高贵的嘴唇不适合愚昧人,何况高贵的嘴唇⟨更不适合⟩谎言给尊贵人。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נאוה",
-      "english": "适合"
+      "gloss": "适合"
     },
     {
       "surface": "לנבל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "שפת",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "יתר",
-      "english": "高贵"
+      "gloss": "高贵"
     },
     {
       "surface": "אף",
-      "english": "何况"
+      "gloss": "何况"
     },
     {
       "surface": "כי",
-      "english": "⟨更不适合⟩"
+      "gloss": "⟨更不适合⟩"
     },
     {
       "surface": "לנדיב",
-      "english": "尊贵人"
+      "gloss": "尊贵人"
     },
     {
       "surface": "שפת",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "שקר",
-      "english": "谎言"
+      "gloss": "谎言"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:15.446873654Z",
-  "model": "glm-5.2"
+  ]
 }

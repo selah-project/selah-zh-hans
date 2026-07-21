@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 43:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22941,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23375
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:53.693666658Z",
   "translation": "因为若非我们迟延，我们确实现在已经回来了⟨这⟩两次。",
   "tokens": [
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לוּלֵא",
-      "english": "若非"
+      "gloss": "若非"
     },
     {
       "surface": "הִתְמַהְמָהְנוּ",
-      "english": "我们迟延"
+      "gloss": "我们迟延"
     },
     {
       "surface": "כִּי",
-      "english": "确实"
+      "gloss": "确实"
     },
     {
       "surface": "עַתָּה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "שַׁבְנוּ",
-      "english": "我们已经回来了"
+      "gloss": "我们已经回来了"
     },
     {
       "surface": "זֶה",
-      "english": "⟨这⟩"
+      "gloss": "⟨这⟩"
     },
     {
       "surface": "פַּעֲמָיִם",
-      "english": "两次"
+      "gloss": "两次"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:53.693666658Z",
-  "model": "glm-5.2"
+  ]
 }

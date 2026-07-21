@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "deuteronomy 32:3",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19088,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19495
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:48:09.058225787Z",
   "translation": "因为我要宣告雅威的名，你们要将伟大归给⟨我们的⟩以罗欣。",
   "tokens": [
     {
       "surface": "כִּ֛י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שֵׁ֥ם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֶקְרָ֑א",
-      "english": "我要宣告"
+      "gloss": "我要宣告"
     },
     {
       "surface": "הָב֥וּ",
-      "english": "你们要归给"
+      "gloss": "你们要归给"
     },
     {
       "surface": "גֹ֖דֶל",
-      "english": "伟大"
+      "gloss": "伟大"
     },
     {
       "surface": "לֵ\/אלֹהֵֽי\/נוּ",
-      "english": "⟨我们的⟩以罗欣"
+      "gloss": "⟨我们的⟩以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:48:09.058225787Z",
-  "model": "glm-5.2"
+  ]
 }

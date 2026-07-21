@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 41,
   "ref": "leviticus 11:41",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19080,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19483
-  },
+  "verse": 41,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:56.630785238Z",
   "translation": "凡在地上爬行的各样爬物,⟨它们⟩是可憎之物;不可⟨被⟩吃。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "השרץ",
-      "english": "爬物"
+      "gloss": "爬物"
     },
     {
       "surface": "השרץ",
-      "english": "爬行的"
+      "gloss": "爬行的"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "שקץ",
-      "english": "可憎之物"
+      "gloss": "可憎之物"
     },
     {
       "surface": "הוא",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יאכל",
-      "english": "⟨被⟩吃"
+      "gloss": "⟨被⟩吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:56.630785238Z",
-  "model": "glm-5.2"
+  ]
 }

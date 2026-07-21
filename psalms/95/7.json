@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 95:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 644,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64933,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65577
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:22.627967Z",
   "translation": "因为⟨他⟩是⟨我们的⟩以罗欣，而我们⟨是他⟩草场的子民，⟨是他⟩手中的羊群——⟨这⟩今日，⟨啊，⟩愿你们听⟨他⟩的声音！",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩是"
+      "gloss": "⟨他⟩是"
     },
     {
       "surface": "אלהינו",
-      "english": "⟨我们的⟩以罗欣"
+      "gloss": "⟨我们的⟩以罗欣"
     },
     {
       "surface": "ואנחנו",
-      "english": "而我们"
+      "gloss": "而我们"
     },
     {
       "surface": "עם",
-      "english": "⟨是他⟩草场的子民"
+      "gloss": "⟨是他⟩草场的子民"
     },
     {
       "surface": "מרעיתו",
-      "english": "草场（所属）"
+      "gloss": "草场（所属）"
     },
     {
       "surface": "וצאן",
-      "english": "⟨是他⟩手中的羊群"
+      "gloss": "⟨是他⟩手中的羊群"
     },
     {
       "surface": "ידו",
-      "english": "手中（所属）"
+      "gloss": "手中（所属）"
     },
     {
       "surface": "היום",
-      "english": "⟨这⟩今日"
+      "gloss": "⟨这⟩今日"
     },
     {
       "surface": "אם",
-      "english": "⟨啊，⟩"
+      "gloss": "⟨啊，⟩"
     },
     {
       "surface": "בקלו",
-      "english": "⟨他⟩的声音"
+      "gloss": "⟨他⟩的声音"
     },
     {
       "surface": "תשמעו",
-      "english": "愿你们听"
+      "gloss": "愿你们听"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:22.627967Z",
-  "model": "glm-5.2"
+  ]
 }

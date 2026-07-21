@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 5:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 587,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64749,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65336
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:40.193898954Z",
   "translation": "至于我,凭着你丰盛的*חֶסֶד* (חֶסֶד),我要进入⟨你的⟩家;我要向你的圣殿的面俯伏⟨下拜⟩,怀着对你的敬畏。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "ברב",
-      "english": "凭着你丰盛的"
+      "gloss": "凭着你丰盛的"
     },
     {
       "surface": "חסדך",
-      "english": "*חֶסֶד* (חֶסֶד)"
+      "gloss": "*חֶסֶד* (חֶסֶד)"
     },
     {
       "surface": "אבוא",
-      "english": "我要进入"
+      "gloss": "我要进入"
     },
     {
       "surface": "ביתך",
-      "english": "⟨你的⟩家"
+      "gloss": "⟨你的⟩家"
     },
     {
       "surface": "אשתחוה",
-      "english": "我要俯伏⟨下拜⟩"
+      "gloss": "我要俯伏⟨下拜⟩"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "היכל",
-      "english": "殿的"
+      "gloss": "殿的"
     },
     {
       "surface": "קדשך",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "ביראתך",
-      "english": "怀着对你的敬畏"
+      "gloss": "怀着对你的敬畏"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:40.193898954Z",
-  "model": "glm-5.2"
+  ]
 }

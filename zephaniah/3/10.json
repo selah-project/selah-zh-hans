@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "zephaniah 3:10",
   "book": "zephaniah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17847,
-    "prompt_tokens_details": {
-      "cached_tokens": 16704
-    },
-    "total_tokens": 18362
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:31:08.370115153Z",
   "translation": "从נהרי 古实的彼岸，我的敬拜者——我打散者的女儿——必带供物来给我。",
   "tokens": [
     {
       "surface": "מעבר",
-      "english": "从……的彼岸"
+      "gloss": "从……的彼岸"
     },
     {
       "surface": "לנהרי",
-      "english": "נהרי"
+      "gloss": "נהרי"
     },
     {
       "surface": "כוש",
-      "english": "古实"
+      "gloss": "古实"
     },
     {
       "surface": "עתרי",
-      "english": "我的敬拜者"
+      "gloss": "我的敬拜者"
     },
     {
       "surface": "בת",
-      "english": "……的女儿"
+      "gloss": "……的女儿"
     },
     {
       "surface": "פוצי",
-      "english": "我打散者"
+      "gloss": "我打散者"
     },
     {
       "surface": "יובלון",
-      "english": "必带"
+      "gloss": "必带"
     },
     {
       "surface": "מנחתי",
-      "english": "供物来给我"
+      "gloss": "供物来给我"
     }
-  ],
-  "timestamp": "2026-07-17T23:31:08.370115153Z",
-  "model": "glm-5.2"
+  ]
 }

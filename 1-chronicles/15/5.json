@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-chronicles 15:5",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 258,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58463,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 58721
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:24:49.028986339Z",
   "translation": "属可赫的子孙：乌列⟨是⟩首领，⟨并⟩他的弟兄一百二十人。",
   "tokens": [
     {
       "surface": "לבני",
-      "english": "属……的子孙"
+      "gloss": "属……的子孙"
     },
     {
       "surface": "קהת",
-      "english": "可赫"
+      "gloss": "可赫"
     },
     {
       "surface": "אוריאל",
-      "english": "乌列"
+      "gloss": "乌列"
     },
     {
       "surface": "השר",
-      "english": "⟨是⟩首领"
+      "gloss": "⟨是⟩首领"
     },
     {
       "surface": "ואחיו",
-      "english": "⟨并⟩他的弟兄"
+      "gloss": "⟨并⟩他的弟兄"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "ועשרים",
-      "english": "和二十"
+      "gloss": "和二十"
     }
-  ],
-  "timestamp": "2026-07-18T03:24:49.028986339Z",
-  "model": "glm-5.2"
+  ]
 }

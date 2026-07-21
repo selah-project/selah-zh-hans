@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 25:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22658,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22969
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:13.979305369Z",
   "translation": "亚伯拉罕又添 ⟨一⟩ 妻,她的名 ⟨是⟩ 基土拉。",
   "tokens": [
     {
       "surface": "ויסף",
-      "english": "又添"
+      "gloss": "又添"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "ויקח",
-      "english": "娶了"
+      "gloss": "娶了"
     },
     {
       "surface": "אשה",
-      "english": "⟨一⟩ 妻"
+      "gloss": "⟨一⟩ 妻"
     },
     {
       "surface": "ושמה",
-      "english": "她的名"
+      "gloss": "她的名"
     },
     {
       "surface": "קטורה",
-      "english": "基土拉"
+      "gloss": "基土拉"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:13.979305369Z",
-  "model": "glm-5.2"
+  ]
 }

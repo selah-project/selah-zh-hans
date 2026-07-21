@@ -1,94 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "joshua 11:11",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 832,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18871,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19703
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:14.855412021Z",
   "translation": "他们击杀了 ⟨את⟩ 其中所有的 נֶפֶשׁ（生命体）——凡在里面的——按刀的口，全然毁灭；没有一个 נְשָׁמָה（气息）存留，并且 ⟨את⟩ 夏琐他 ⟨用⟩ 火焚烧。",
   "tokens": [
     {
       "surface": "ויכו",
-      "english": "他们击杀了"
+      "gloss": "他们击杀了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "其中所有的（生命体）"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "הנפש",
-      "english": "生命体（נֶפֶשׁ）"
+      "gloss": "生命体（נֶפֶשׁ）"
     },
     {
       "surface": "אשר",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "בה",
-      "english": "在里面的"
+      "gloss": "在里面的"
     },
     {
       "surface": "לפי",
-      "english": "按……的口"
+      "gloss": "按……的口"
     },
     {
       "surface": "חרב",
-      "english": "刀"
+      "gloss": "刀"
     },
     {
       "surface": "החרם",
-      "english": "全然毁灭"
+      "gloss": "全然毁灭"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נותר",
-      "english": "存留"
+      "gloss": "存留"
     },
     {
       "surface": "כל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "נשמה",
-      "english": "气息（נְשָׁמָה）"
+      "gloss": "气息（נְשָׁמָה）"
     },
     {
       "surface": "ואת",
-      "english": "并且 ⟨את⟩",
+      "gloss": "并且 ⟨את⟩",
       "marks": "夏琐"
     },
     {
       "surface": "חצור",
-      "english": "夏琐"
+      "gloss": "夏琐"
     },
     {
       "surface": "שרף",
-      "english": "他焚烧"
+      "gloss": "他焚烧"
     },
     {
       "surface": "באש",
-      "english": "⟨用⟩ 火"
+      "gloss": "⟨用⟩ 火"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:14.855412021Z",
-  "model": "glm-5.2"
+  ]
 }

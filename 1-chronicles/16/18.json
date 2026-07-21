@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "1-chronicles 16:18",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58534,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58891
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:03:39.481575064Z",
   "translation": "说:给⟨你⟩我要赐⟨את⟩迦南地，⟨作⟩你们产业的量绳。",
   "tokens": [
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לך",
-      "english": "给⟨你⟩"
+      "gloss": "给⟨你⟩"
     },
     {
       "surface": "אתן",
-      "english": "我要赐"
+      "gloss": "我要赐"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     },
     {
       "surface": "חבל",
-      "english": "量绳"
+      "gloss": "量绳"
     },
     {
       "surface": "נחלתכם",
-      "english": "你们产业"
+      "gloss": "你们产业"
     }
-  ],
-  "timestamp": "2026-07-18T02:03:39.481575064Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezekiel 20:4",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 715,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19326,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20041
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:50:51.169136908Z",
   "translation": "你要审判他们吗?人子啊,你要审判他们吗?你要使他们认识他们祖先可憎的事。",
   "tokens": [
     {
       "surface": "הֲתִשְׁפֹּ֣ט",
-      "english": "你要审判"
+      "gloss": "你要审判"
     },
     {
       "surface": "אֹתָ֔ם",
-      "english": "⟨את⟩他们",
+      "gloss": "⟨את⟩他们",
       "marks": "他们"
     },
     {
       "surface": "הֲתִשְׁפּ֖וֹט",
-      "english": "你要审判"
+      "gloss": "你要审判"
     },
     {
       "surface": "בֶּן",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "אָדָ֑ם",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们祖先可憎的事"
     },
     {
       "surface": "תּוֹעֲבֹ֥ת",
-      "english": "可憎的事"
+      "gloss": "可憎的事"
     },
     {
       "surface": "אֲבוֹתָ֖ם",
-      "english": "他们祖先"
+      "gloss": "他们祖先"
     },
     {
       "surface": "הוֹדִיעֵֽם",
-      "english": "你要使他们认识"
+      "gloss": "你要使他们认识"
     }
-  ],
-  "timestamp": "2026-07-17T22:50:51.169136908Z",
-  "model": "glm-5.2"
+  ]
 }

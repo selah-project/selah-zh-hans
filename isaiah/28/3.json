@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 28:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20540,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20956
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:46:51.573813169Z",
   "translation": "被脚踹踏的,⟨是⟩以法莲醉酒者的骄傲冠冕。",
   "tokens": [
     {
       "surface": "בְּ\/רַגְלַ֖יִם",
-      "english": "被脚"
+      "gloss": "被脚"
     },
     {
       "surface": "תֵּֽרָמַ֑סְנָה",
-      "english": "踹踏的"
+      "gloss": "踹踏的"
     },
     {
       "surface": "עֲטֶ֥רֶת",
-      "english": "冠冕"
+      "gloss": "冠冕"
     },
     {
       "surface": "גֵּא֖וּת",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "שִׁכּוֹרֵ֥י",
-      "english": "醉酒者的"
+      "gloss": "醉酒者的"
     },
     {
       "surface": "אֶפְרָֽיִם",
-      "english": "以法莲"
+      "gloss": "以法莲"
     }
-  ],
-  "timestamp": "2026-07-17T21:46:51.573813169Z",
-  "model": "glm-5.2"
+  ]
 }

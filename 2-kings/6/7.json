@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "2-kings 6:7",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18189,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18529
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:20:52.344317033Z",
   "translation": "他说：为你把它抬起来。他就伸出他的手，⟨并⟩拿取了它。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "הרם",
-      "english": "抬起来"
+      "gloss": "抬起来"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "וישלח",
-      "english": "他就伸出"
+      "gloss": "他就伸出"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "ויקחהו",
-      "english": "⟨并⟩拿取了它"
+      "gloss": "⟨并⟩拿取了它"
     }
-  ],
-  "timestamp": "2026-07-17T21:20:52.344317033Z",
-  "model": "glm-5.2"
+  ]
 }

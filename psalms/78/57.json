@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 57,
   "ref": "psalms 78:57",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64766
-  },
+  "verse": 57,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:01.046588640Z",
   "translation": "他们退后，⟨并且⟩背信弃义，像⟨他们的⟩父辈一样；他们被翻转，如松弛的弓。",
   "tokens": [
     {
       "surface": "ויסגו",
-      "english": "他们退后"
+      "gloss": "他们退后"
     },
     {
       "surface": "ויבגדו",
-      "english": "⟨并且⟩背信弃义"
+      "gloss": "⟨并且⟩背信弃义"
     },
     {
       "surface": "כאבותם",
-      "english": "像⟨他们的⟩父辈"
+      "gloss": "像⟨他们的⟩父辈"
     },
     {
       "surface": "נהפכו",
-      "english": "他们被翻转"
+      "gloss": "他们被翻转"
     },
     {
       "surface": "כקשת",
-      "english": "如……的弓"
+      "gloss": "如……的弓"
     },
     {
       "surface": "רמיה",
-      "english": "松弛"
+      "gloss": "松弛"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:01.046588640Z",
-  "model": "glm-5.2"
+  ]
 }

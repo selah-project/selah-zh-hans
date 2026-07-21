@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 49:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22713,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23069
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:08:17.365954254Z",
   "translation": "他们苦害他,他们攻击他,弓的主人恨恶他 ——",
   "tokens": [
     {
       "surface": "וימררהו",
-      "english": "他们苦害他"
+      "gloss": "他们苦害他"
     },
     {
       "surface": "ורבו",
-      "english": "他们攻击他"
+      "gloss": "他们攻击他"
     },
     {
       "surface": "וישטמהו",
-      "english": "恨恶他"
+      "gloss": "恨恶他"
     },
     {
       "surface": "בעלי",
-      "english": "……的主人"
+      "gloss": "……的主人"
     },
     {
       "surface": "חצים",
-      "english": "弓"
+      "gloss": "弓"
     }
-  ],
-  "timestamp": "2026-07-17T18:08:17.365954254Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezekiel 20:10",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18753,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19042
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:50:57.061495430Z",
   "translation": "于是我把他们带出埃及地,把他们带入⟨那⟩旷野。",
   "tokens": [
     {
       "surface": "ואוציאם",
-      "english": "于是我把他们带出"
+      "gloss": "于是我把他们带出"
     },
     {
       "surface": "מארץ",
-      "english": "……地"
+      "gloss": "……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "ואבאם",
-      "english": "我把他们带入"
+      "gloss": "我把他们带入"
     },
     {
       "surface": "אל",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "המדבר",
-      "english": "⟨那⟩旷野"
+      "gloss": "⟨那⟩旷野"
     }
-  ],
-  "timestamp": "2026-07-17T22:50:57.061495430Z",
-  "model": "glm-5.2"
+  ]
 }

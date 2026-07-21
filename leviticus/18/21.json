@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "leviticus 18:21",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19520,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20085
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:52:46.971553791Z",
   "translation": "你不可从你的后裔中给出⟨任何⟩，去使⟨他们⟩经过⟨火⟩给摩洛，也不可亵渎你以罗欣（神）的名；我是雅威。",
   "tokens": [
     {
       "surface": "ומזרעך",
-      "english": "和从你的后裔中"
+      "gloss": "和从你的后裔中"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תתן",
-      "english": "你给出"
+      "gloss": "你给出"
     },
     {
       "surface": "להעביר",
-      "english": "去使⟨他们⟩经过⟨火⟩"
+      "gloss": "去使⟨他们⟩经过⟨火⟩"
     },
     {
       "surface": "למלך",
-      "english": "给摩洛"
+      "gloss": "给摩洛"
     },
     {
       "surface": "ולא",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "תחלל",
-      "english": "你亵渎"
+      "gloss": "你亵渎"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "名"
     },
     {
       "surface": "שם",
-      "english": "……的名"
+      "gloss": "……的名"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣（神）"
+      "gloss": "你的以罗欣（神）"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:52:46.971553791Z",
-  "model": "glm-5.2"
+  ]
 }

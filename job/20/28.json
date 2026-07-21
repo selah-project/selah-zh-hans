@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "job 20:28",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21513,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21931
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:00.754923007Z",
   "translation": "他家的出产 ⟨将⟩ 被掠夺，在他鼻孔之怒的日子 ⟨被⟩ 倾泻而出。",
   "tokens": [
     {
       "surface": "יִ֭גֶל",
-      "english": "⟨将⟩ 被掠夺"
+      "gloss": "⟨将⟩ 被掠夺"
     },
     {
       "surface": "יְב֣וּל",
-      "english": "出产"
+      "gloss": "出产"
     },
     {
       "surface": "בֵּית֑\/וֹ",
-      "english": "他家的"
+      "gloss": "他家的"
     },
     {
       "surface": "נִ֝גָּר֗וֹת",
-      "english": "⟨被⟩ 倾泻而出"
+      "gloss": "⟨被⟩ 倾泻而出"
     },
     {
       "surface": "בְּ\/י֣וֹם",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "אַפּֽ\/וֹ",
-      "english": "他鼻孔之怒"
+      "gloss": "他鼻孔之怒"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:00.754923007Z",
-  "model": "glm-5.2"
+  ]
 }

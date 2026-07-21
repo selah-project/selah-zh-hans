@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "ruth 3:6",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22472,
-    "prompt_tokens_details": {
-      "cached_tokens": 21440
-    },
-    "total_tokens": 22822
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:14:24.098952091Z",
   "translation": "她下到打谷场,按照她婆婆吩咐她的一切去行了。",
   "tokens": [
     {
       "surface": "וַ\/תֵּרֶד",
-      "english": "她下到"
+      "gloss": "她下到"
     },
     {
       "surface": "הַ\/גֹּרֶן",
-      "english": "打谷场"
+      "gloss": "打谷场"
     },
     {
       "surface": "וַ\/תַּעַשׂ",
-      "english": "她行了"
+      "gloss": "她行了"
     },
     {
       "surface": "כְּ\/כֹל",
-      "english": "按照一切"
+      "gloss": "按照一切"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "צִוַּתְּ\/הָ",
-      "english": "她吩咐"
+      "gloss": "她吩咐"
     },
     {
       "surface": "חֲמוֹתָ\/הּ",
-      "english": "她的婆婆"
+      "gloss": "她的婆婆"
     }
-  ],
-  "timestamp": "2026-07-18T01:14:24.098952091Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "song-of-songs 2:11",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21933,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22424
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:58.135150708Z",
   "translation": "因为看哪,סתו 过去了,גשם 滑过,走掉了。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "הסתו",
-      "english": "סתו"
+      "gloss": "סתו"
     },
     {
       "surface": "עבר",
-      "english": "过去了"
+      "gloss": "过去了"
     },
     {
       "surface": "הגשם",
-      "english": "גשם"
+      "gloss": "גשם"
     },
     {
       "surface": "חלף",
-      "english": "滑过"
+      "gloss": "滑过"
     },
     {
       "surface": "הלך",
-      "english": "走掉了"
+      "gloss": "走掉了"
     },
     {
       "surface": "לו",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-18T01:10:58.135150708Z",
-  "model": "glm-5.2"
+  ]
 }

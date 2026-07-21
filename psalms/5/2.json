@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 5:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 248,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64301,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 64549
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:41.432475535Z",
   "translation": "我的话语,雅威啊,求你侧耳而听;⟨求你⟩明白我的默念。",
   "tokens": [
     {
       "surface": "אמרי",
-      "english": "我的话语"
+      "gloss": "我的话语"
     },
     {
       "surface": "האזינה",
-      "english": "求你侧耳而听"
+      "gloss": "求你侧耳而听"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "בינה",
-      "english": "⟨求你⟩明白"
+      "gloss": "⟨求你⟩明白"
     },
     {
       "surface": "הגיגי",
-      "english": "我的默念"
+      "gloss": "我的默念"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:41.432475535Z",
-  "model": "glm-5.2"
+  ]
 }

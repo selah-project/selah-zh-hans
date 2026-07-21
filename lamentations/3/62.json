@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 62,
   "ref": "lamentations 3:62",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33499,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33867
-  },
+  "verse": 62,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:23.797901654Z",
   "translation": "那些起来攻击我之人的嘴唇，以及他们终日⟨עָלַי⟩攻击我的低语。",
   "tokens": [
     {
       "surface": "שפתי",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "קמי",
-      "english": "那些起来攻击我的（人）"
+      "gloss": "那些起来攻击我的（人）"
     },
     {
       "surface": "והגיונם",
-      "english": "以及他们的低语"
+      "gloss": "以及他们的低语"
     },
     {
       "surface": "עלי",
-      "english": "⟨עָלַי⟩（攻击我）"
+      "gloss": "⟨עָלַי⟩（攻击我）"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "היום",
-      "english": "那日（终日）"
+      "gloss": "那日（终日）"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:23.797901654Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 69:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64660,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65085
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:42.907774091Z",
   "translation": "我因呼求而力竭，我的喉咙 ⟨נחר⟩ 发热干竭；我的眼睛耗尽， ⟨因⟩等候我的以罗欣。",
   "tokens": [
     {
       "surface": "יגעתי",
-      "english": "我力竭"
+      "gloss": "我力竭"
     },
     {
       "surface": "בקראי",
-      "english": "因我的呼求"
+      "gloss": "因我的呼求"
     },
     {
       "surface": "נחר",
-      "english": "发热干竭"
+      "gloss": "发热干竭"
     },
     {
       "surface": "גרוני",
-      "english": "我的喉咙"
+      "gloss": "我的喉咙"
     },
     {
       "surface": "כלו",
-      "english": "耗尽"
+      "gloss": "耗尽"
     },
     {
       "surface": "עיני",
-      "english": "我的眼睛"
+      "gloss": "我的眼睛"
     },
     {
       "surface": "מיחל",
-      "english": "等候"
+      "gloss": "等候"
     },
     {
       "surface": "לאלהי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:42.907774091Z",
-  "model": "glm-5.2"
+  ]
 }

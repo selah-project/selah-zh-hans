@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-chronicles 3:5",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60280,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60766
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:15:12.448681475Z",
   "translation": "⟨את⟩ 大殿宇,他用松木铺盖,用上好的金子将它包裹;在其上使棕榹和链子升起。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大殿宇"
     },
     {
       "surface": "הבית",
-      "english": "殿宇"
+      "gloss": "殿宇"
     },
     {
       "surface": "הגדול",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "חפה",
-      "english": "他铺盖"
+      "gloss": "他铺盖"
     },
     {
       "surface": "עץ",
-      "english": "木头"
+      "gloss": "木头"
     },
     {
       "surface": "ברושים",
-      "english": "松木"
+      "gloss": "松木"
     },
     {
       "surface": "ויחפהו",
-      "english": "他将它包裹"
+      "gloss": "他将它包裹"
     },
     {
       "surface": "זהב",
-      "english": "金子"
+      "gloss": "金子"
     },
     {
       "surface": "טוב",
-      "english": "上好的"
+      "gloss": "上好的"
     },
     {
       "surface": "ויעל",
-      "english": "他使……升起"
+      "gloss": "他使……升起"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "תמרים",
-      "english": "棕榹"
+      "gloss": "棕榹"
     },
     {
       "surface": "ושרשרות",
-      "english": "和链子"
+      "gloss": "和链子"
     }
-  ],
-  "timestamp": "2026-07-18T02:15:12.448681475Z",
-  "model": "glm-5.2"
+  ]
 }

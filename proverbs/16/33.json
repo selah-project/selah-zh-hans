@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "proverbs 16:33",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 400,
-    "prompt_tokens": 54467,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54867
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:15:15.742570200Z",
   "translation": "籤被投入怀里，但它的一切判决都是从雅威来的。",
   "tokens": [
     {
       "surface": "בחיק",
-      "english": "怀里"
+      "gloss": "怀里"
     },
     {
       "surface": "יוטל",
-      "english": "被投入"
+      "gloss": "被投入"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "籤"
     },
     {
       "surface": "הגורל",
-      "english": "籤"
+      "gloss": "籤"
     },
     {
       "surface": "ומיהוה",
-      "english": "但都是从雅威来的"
+      "gloss": "但都是从雅威来的"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "משפטו",
-      "english": "判决"
+      "gloss": "判决"
     }
-  ],
-  "timestamp": "2026-07-21T13:15:15.742570200Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "amos 3:4",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18444,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18962
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:20:01.107623730Z",
   "translation": "狮子在林中⟨岂会⟩咆哮，若没有猎物？少壮狮子从⟨它的⟩穴中发出⟨它的⟩声音，若非有所擒获？",
   "tokens": [
     {
       "surface": "הישאג",
-      "english": "⟨岂会⟩咆哮"
+      "gloss": "⟨岂会⟩咆哮"
     },
     {
       "surface": "אריה",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "ביער",
-      "english": "在林中"
+      "gloss": "在林中"
     },
     {
       "surface": "וטרף",
-      "english": "若有"
+      "gloss": "若有"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לו",
-      "english": "⟨它的⟩"
+      "gloss": "⟨它的⟩"
     },
     {
       "surface": "היתן",
-      "english": "⟨岂会⟩发出"
+      "gloss": "⟨岂会⟩发出"
     },
     {
       "surface": "כפיר",
-      "english": "少壮狮子"
+      "gloss": "少壮狮子"
     },
     {
       "surface": "קולו",
-      "english": "⟨它的⟩声音"
+      "gloss": "⟨它的⟩声音"
     },
     {
       "surface": "ממענתו",
-      "english": "从⟨它的⟩穴中"
+      "gloss": "从⟨它的⟩穴中"
     },
     {
       "surface": "בלתי",
-      "english": "若非"
+      "gloss": "若非"
     },
     {
       "surface": "אם",
-      "english": "（叠用连词）"
+      "gloss": "（叠用连词）"
     },
     {
       "surface": "לכד",
-      "english": "有所擒获"
+      "gloss": "有所擒获"
     }
-  ],
-  "timestamp": "2026-07-17T23:20:01.107623730Z",
-  "model": "glm-5.2"
+  ]
 }

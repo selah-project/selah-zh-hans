@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 114:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 114,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64412,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:41.142323502Z",
   "translation": "那将磐石变为水池、将火石变为其泉源的——",
   "tokens": [
     {
       "surface": "ההפכי",
-      "english": "那将……变为"
+      "gloss": "那将……变为"
     },
     {
       "surface": "הצור",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "אגם",
-      "english": "水池"
+      "gloss": "水池"
     },
     {
       "surface": "מים",
-      "english": "的水"
+      "gloss": "的水"
     },
     {
       "surface": "חלמיש",
-      "english": "火石"
+      "gloss": "火石"
     },
     {
       "surface": "למעינו",
-      "english": "为其泉源"
+      "gloss": "为其泉源"
     },
     {
       "surface": "מים",
-      "english": "的水"
+      "gloss": "的水"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:41.142323502Z",
-  "model": "glm-5.2"
+  ]
 }

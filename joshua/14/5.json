@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "joshua 14:5",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18419,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18832
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:59.915752810Z",
   "translation": "正如雅威吩咐 ⟨את⟩ 摩西的那样,以色列的子孙如此行了,他们就分了 ⟨את⟩ ⟨ה⟩ 地。",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "עשו",
-      "english": "行了"
+      "gloss": "行了"
     },
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויחלקו",
-      "english": "他们就分了"
+      "gloss": "他们就分了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "地"
     },
     {
       "surface": "הארץ",
-      "english": "⟨ה⟩ 地"
+      "gloss": "⟨ה⟩ 地"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:59.915752810Z",
-  "model": "glm-5.2"
+  ]
 }

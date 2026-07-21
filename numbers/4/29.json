@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "numbers 4:29",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 285,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19654,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19939
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:15.836865426Z",
   "translation": "默拉利的子，按他们的宗族、按他们父系的家室，你要数点⟨את⟩他们：",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子"
+      "gloss": "……的子"
     },
     {
       "surface": "מררי",
-      "english": "默拉利"
+      "gloss": "默拉利"
     },
     {
       "surface": "למשפחתם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     },
     {
       "surface": "לבית",
-      "english": "按……的家室"
+      "gloss": "按……的家室"
     },
     {
       "surface": "אבתם",
-      "english": "他们父系的"
+      "gloss": "他们父系的"
     },
     {
       "surface": "תפקד",
-      "english": "你要数点"
+      "gloss": "你要数点"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:15.836865426Z",
-  "model": "glm-5.2"
+  ]
 }

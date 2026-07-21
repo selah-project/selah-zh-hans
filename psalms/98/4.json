@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 98:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 98,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64472,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64811
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:04.309179724Z",
   "translation": "全地向雅威欢呼，⟨你们要⟩爆发，⟨你们要⟩欢呼，⟨你们要⟩奏乐！",
   "tokens": [
     {
       "surface": "הריעו",
-      "english": "欢呼"
+      "gloss": "欢呼"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "פצחו",
-      "english": "⟨你们要⟩爆发"
+      "gloss": "⟨你们要⟩爆发"
     },
     {
       "surface": "ורננו",
-      "english": "⟨你们要⟩欢呼"
+      "gloss": "⟨你们要⟩欢呼"
     },
     {
       "surface": "וזמרו",
-      "english": "⟨你们要⟩奏乐"
+      "gloss": "⟨你们要⟩奏乐"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:04.309179724Z",
-  "model": "glm-5.2"
+  ]
 }

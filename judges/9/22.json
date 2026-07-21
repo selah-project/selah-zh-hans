@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "judges 9:22",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17567,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 17868
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:12:34.255842373Z",
   "translation": "亚比米勒管辖以色列三年。",
   "tokens": [
     {
       "surface": "וישר",
-      "english": "管辖"
+      "gloss": "管辖"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "על",
-      "english": "⟨在……之上⟩"
+      "gloss": "⟨在……之上⟩"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     }
-  ],
-  "timestamp": "2026-07-17T20:12:34.255842373Z",
-  "model": "glm-5.2"
+  ]
 }

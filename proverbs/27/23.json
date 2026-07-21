@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "proverbs 27:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54392,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54780
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:22.419660246Z",
   "translation": "你务要认识你羊群的⟨面⟩,你⟨要⟩将你的心放在群畜上;",
   "tokens": [
     {
       "surface": "ידע",
-      "english": "务要认识"
+      "gloss": "务要认识"
     },
     {
       "surface": "תדע",
-      "english": "你要认识"
+      "gloss": "你要认识"
     },
     {
       "surface": "פני",
-      "english": "⟨面⟩"
+      "gloss": "⟨面⟩"
     },
     {
       "surface": "צאנך",
-      "english": "你羊群的"
+      "gloss": "你羊群的"
     },
     {
       "surface": "שית",
-      "english": "你⟨要⟩放"
+      "gloss": "你⟨要⟩放"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "לעדרים",
-      "english": "在群畜上"
+      "gloss": "在群畜上"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:22.419660246Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-kings 22:2",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64128,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64443
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:15:56.190487133Z",
   "translation": "到了第三年，犹大王约沙法下到以色列王⟨那里⟩。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "到了"
+      "gloss": "到了"
     },
     {
       "surface": "בשנה",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "השלישית",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "וירד",
-      "english": "下到"
+      "gloss": "下到"
     },
     {
       "surface": "יהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:15:56.190487133Z",
-  "model": "glm-5.2"
+  ]
 }

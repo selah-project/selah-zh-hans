@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "jeremiah 24:4",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 232,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18680,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18912
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:20:45.167866126Z",
   "translation": "于是 雅威 的 *davar* 临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "于是"
+      "gloss": "于是"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "临到我"
+      "gloss": "临到我"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:20:45.167866126Z",
-  "model": "glm-5.2"
+  ]
 }

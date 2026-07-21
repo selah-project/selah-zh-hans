@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 80:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64432,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64967
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:50.840247263Z",
   "translation": "一棵葡萄树，你从埃及拔起，⟨你⟩驱逐了列国，⟨然后⟩栽种了它。",
   "tokens": [
     {
       "surface": "גֶּ֭פֶן",
-      "english": "一棵葡萄树"
+      "gloss": "一棵葡萄树"
     },
     {
       "surface": "מִ\/מִּצְרַ֣יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "תַּסִּ֑יעַ",
-      "english": "你拔起"
+      "gloss": "你拔起"
     },
     {
       "surface": "תְּגָרֵ֥שׁ",
-      "english": "⟨你⟩驱逐了"
+      "gloss": "⟨你⟩驱逐了"
     },
     {
       "surface": "גּ֝וֹיִ֗ם",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "וַ\/תִּטָּעֶֽ\/הָ",
-      "english": "⟨然后⟩栽种了它"
+      "gloss": "⟨然后⟩栽种了它"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:50.840247263Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "ezekiel 12:18",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19042,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19548
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:45:54.495956937Z",
   "translation": "人子啊,你⟨要⟩在颤抖中吃你的饼,在惊恐和忧虑中喝你的水。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "לחמך",
-      "english": "你的饼"
+      "gloss": "你的饼"
     },
     {
       "surface": "ברעש",
-      "english": "在颤抖中"
+      "gloss": "在颤抖中"
     },
     {
       "surface": "תאכל",
-      "english": "你⟨要⟩吃"
+      "gloss": "你⟨要⟩吃"
     },
     {
       "surface": "ומימיך",
-      "english": "和你的水"
+      "gloss": "和你的水"
     },
     {
       "surface": "ברגזה",
-      "english": "在惊恐中"
+      "gloss": "在惊恐中"
     },
     {
       "surface": "ובדאגה",
-      "english": "和在忧虑中"
+      "gloss": "和在忧虑中"
     },
     {
       "surface": "תשתה",
-      "english": "你⟨要⟩喝"
+      "gloss": "你⟨要⟩喝"
     }
-  ],
-  "timestamp": "2026-07-17T22:45:54.495956937Z",
-  "model": "glm-5.2"
+  ]
 }

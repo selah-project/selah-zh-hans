@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 58,
   "ref": "lamentations 3:58",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33524,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33805
-  },
+  "verse": 58,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:11.163883447Z",
   "translation": "阿多奈啊，你⟨已⟩辩护了我性命的诉讼，你⟨已⟩赎回了我的生命。",
   "tokens": [
     {
       "surface": "רבת",
-      "english": "你⟨已⟩辩护了"
+      "gloss": "你⟨已⟩辩护了"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈啊"
+      "gloss": "阿多奈啊"
     },
     {
       "surface": "ריבי",
-      "english": "……的诉讼"
+      "gloss": "……的诉讼"
     },
     {
       "surface": "נפשי",
-      "english": "我性命"
+      "gloss": "我性命"
     },
     {
       "surface": "גאלת",
-      "english": "你⟨已⟩赎回了"
+      "gloss": "你⟨已⟩赎回了"
     },
     {
       "surface": "חיי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:11.163883447Z",
-  "model": "glm-5.2"
+  ]
 }

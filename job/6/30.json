@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 6:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 530,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21536,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22066
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:18.587509114Z",
   "translation": "我的舌头上难道有⟨⟩不义吗？我的口味⟨岂不能⟩分辨⟨את⟩祸患吗？",
   "tokens": [
     {
       "surface": "היש",
-      "english": "难道有"
+      "gloss": "难道有"
     },
     {
       "surface": "בלשוני",
-      "english": "在我的舌头上"
+      "gloss": "在我的舌头上"
     },
     {
       "surface": "עולה",
-      "english": "不义"
+      "gloss": "不义"
     },
     {
       "surface": "אם",
-      "english": "⟨岂不能⟩"
+      "gloss": "⟨岂不能⟩"
     },
     {
       "surface": "חכי",
-      "english": "我的口味"
+      "gloss": "我的口味"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יבין",
-      "english": "分辨"
+      "gloss": "分辨"
     },
     {
       "surface": "הוות",
-      "english": "祸患"
+      "gloss": "祸患"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:18.587509114Z",
-  "model": "glm-5.2"
+  ]
 }

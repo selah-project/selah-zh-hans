@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 92:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64740,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65240
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:25.198076061Z",
   "translation": "恶人虽如草 blossoming,虽 flourish 一切行虚空者,这⟨是⟩为使他们被毁灭,直到永远:",
   "tokens": [
     {
       "surface": "בִּ\/פְרֹחַ",
-      "english": "虽如草 blossoming"
+      "gloss": "虽如草 blossoming"
     },
     {
       "surface": "רְשָׁעִ֨ים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "כְּמ֥וֹ",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "עֵ֗שֶׂב",
-      "english": "草"
+      "gloss": "草"
     },
     {
       "surface": "וַ֭\/יָּצִיצוּ",
-      "english": "虽 flourish"
+      "gloss": "虽 flourish"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "פֹּ֣עֲלֵי",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "אָ֑וֶן",
-      "english": "虚空者"
+      "gloss": "虚空者"
     },
     {
       "surface": "לְ\/הִשָּֽׁמְדָ֥\/ם",
-      "english": "为使他们被毁灭"
+      "gloss": "为使他们被毁灭"
     },
     {
       "surface": "עֲדֵי",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עַֽד",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:25.198076061Z",
-  "model": "glm-5.2"
+  ]
 }

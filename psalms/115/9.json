@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 115:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64361,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64656
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:50.961950774Z",
   "translation": "以色列啊，你要信靠雅威——他是他们的帮助、他们的盾牌。",
   "tokens": [
     {
       "surface": "ישראל",
-      "english": "以色列啊"
+      "gloss": "以色列啊"
     },
     {
       "surface": "בטח",
-      "english": "你要信靠"
+      "gloss": "你要信靠"
     },
     {
       "surface": "ביהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עזרם",
-      "english": "他们的帮助"
+      "gloss": "他们的帮助"
     },
     {
       "surface": "ומגנם",
-      "english": "他们的盾牌"
+      "gloss": "他们的盾牌"
     },
     {
       "surface": "הוא",
-      "english": "他是"
+      "gloss": "他是"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:50.961950774Z",
-  "model": "glm-5.2"
+  ]
 }

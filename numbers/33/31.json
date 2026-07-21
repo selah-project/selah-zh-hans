@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "numbers 33:31",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 232,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19299,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19531
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:41.451962388Z",
   "translation": "他们从摩塞罗特起行,在比尼-雅阿干扎营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "ממסרות",
-      "english": "从摩塞罗特"
+      "gloss": "从摩塞罗特"
     },
     {
       "surface": "ויחנו",
-      "english": "……扎营"
+      "gloss": "……扎营"
     },
     {
       "surface": "בבני",
-      "english": "在比尼"
+      "gloss": "在比尼"
     },
     {
       "surface": "יעקן",
-      "english": "雅阿干"
+      "gloss": "雅阿干"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:41.451962388Z",
-  "model": "glm-5.2"
+  ]
 }

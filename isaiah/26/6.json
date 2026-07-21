@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 26:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20498,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21030
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:57.214620712Z",
   "translation": "脚要践踏它 —— 贫穷人的脚,困乏人的脚步。",
   "tokens": [
     {
       "surface": "תִּרְמְסֶ֖\/נָּה",
-      "english": "⟨他们⟩要践踏"
+      "gloss": "⟨他们⟩要践踏"
     },
     {
       "surface": "רָ֑גֶל",
-      "english": "脚"
+      "gloss": "脚"
     },
     {
       "surface": "רַגְלֵ֥י",
-      "english": "脚 (复数)"
+      "gloss": "脚 (复数)"
     },
     {
       "surface": "עָנִ֖י",
-      "english": "受苦的 (人)"
+      "gloss": "受苦的 (人)"
     },
     {
       "surface": "פַּעֲמֵ֥י",
-      "english": "脚步 (复数)"
+      "gloss": "脚步 (复数)"
     },
     {
       "surface": "דַלִּֽים",
-      "english": "困乏的 (人) (复数)"
+      "gloss": "困乏的 (人) (复数)"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:57.214620712Z",
-  "model": "glm-5.2"
+  ]
 }

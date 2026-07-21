@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 36:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23113,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23509
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:49.874384045Z",
   "translation": "这些⟨是⟩西珥⟨的⟩儿子，那何利人，⟨即⟩这地⟨的⟩居民：罗坍、朔巴、祭便和亚拿。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "⟨……的⟩儿子"
+      "gloss": "⟨……的⟩儿子"
     },
     {
       "surface": "שעיר",
-      "english": "西珥"
+      "gloss": "西珥"
     },
     {
       "surface": "החרי",
-      "english": "那何利人"
+      "gloss": "那何利人"
     },
     {
       "surface": "ישבי",
-      "english": "⟨……的⟩居民"
+      "gloss": "⟨……的⟩居民"
     },
     {
       "surface": "הארץ",
-      "english": "这地"
+      "gloss": "这地"
     },
     {
       "surface": "לוטן",
-      "english": "罗坍"
+      "gloss": "罗坍"
     },
     {
       "surface": "ושובל",
-      "english": "和朔巴"
+      "gloss": "和朔巴"
     },
     {
       "surface": "וצבעון",
-      "english": "和祭便"
+      "gloss": "和祭便"
     },
     {
       "surface": "וענה",
-      "english": "和亚拿"
+      "gloss": "和亚拿"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:49.874384045Z",
-  "model": "glm-5.2"
+  ]
 }

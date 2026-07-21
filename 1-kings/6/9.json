@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-kings 6:9",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 624,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64245,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64869
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:52:52.039981914Z",
   "translation": "他建造了⟨את⟩⟨那房屋⟩并完成了它；他用香柏木的板列覆盖了⟨את⟩⟨那房屋⟩——在梁木之上。",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "他建造了"
+      "gloss": "他建造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那房屋"
     },
     {
       "surface": "הבית",
-      "english": "那房屋"
+      "gloss": "那房屋"
     },
     {
       "surface": "ויכלהו",
-      "english": "并完成了它"
+      "gloss": "并完成了它"
     },
     {
       "surface": "ויספן",
-      "english": "他覆盖了"
+      "gloss": "他覆盖了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那房屋"
     },
     {
       "surface": "הבית",
-      "english": "那房屋"
+      "gloss": "那房屋"
     },
     {
       "surface": "גבים",
-      "english": "在梁木之上"
+      "gloss": "在梁木之上"
     },
     {
       "surface": "ושדרת",
-      "english": "（和）板列"
+      "gloss": "（和）板列"
     },
     {
       "surface": "בארזים",
-      "english": "用香柏木的"
+      "gloss": "用香柏木的"
     }
-  ],
-  "timestamp": "2026-07-18T02:52:52.039981914Z",
-  "model": "glm-5.2"
+  ]
 }

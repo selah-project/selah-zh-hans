@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 8:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19672,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20231
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:45:56.753403672Z",
   "translation": "你当与⟨你的⟩心一起知道:正如一个人管教⟨את⟩他的儿子,雅威⟨你的⟩以罗欣管教⟨你⟩。",
   "tokens": [
     {
       "surface": "וידעת",
-      "english": "你当知道"
+      "gloss": "你当知道"
     },
     {
       "surface": "עם",
-      "english": "与……一起"
+      "gloss": "与……一起"
     },
     {
       "surface": "לבבך",
-      "english": "⟨你的⟩心"
+      "gloss": "⟨你的⟩心"
     },
     {
       "surface": "כי",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "ייסר",
-      "english": "管教"
+      "gloss": "管教"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的儿子"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "⟨你的⟩以罗欣"
+      "gloss": "⟨你的⟩以罗欣"
     },
     {
       "surface": "מיסרך",
-      "english": "管教⟨你⟩"
+      "gloss": "管教⟨你⟩"
     }
-  ],
-  "timestamp": "2026-07-18T02:45:56.753403672Z",
-  "model": "glm-5.2"
+  ]
 }

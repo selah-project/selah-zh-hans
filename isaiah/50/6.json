@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 50:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20883,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21368
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:58:39.591941259Z",
   "translation": "我的背,我交给击打的人;我的脸颊,交给拔毛的人。我的脸,我没有从羞辱和唾沫中隐藏。",
   "tokens": [
     {
       "surface": "גוי",
-      "english": "我的背"
+      "gloss": "我的背"
     },
     {
       "surface": "נתתי",
-      "english": "我交给了"
+      "gloss": "我交给了"
     },
     {
       "surface": "למכים",
-      "english": "给击打的人"
+      "gloss": "给击打的人"
     },
     {
       "surface": "ולחיי",
-      "english": "我的脸颊"
+      "gloss": "我的脸颊"
     },
     {
       "surface": "למרטים",
-      "english": "给拔毛的人"
+      "gloss": "给拔毛的人"
     },
     {
       "surface": "פני",
-      "english": "我的脸"
+      "gloss": "我的脸"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "הסתרתי",
-      "english": "我隐藏"
+      "gloss": "我隐藏"
     },
     {
       "surface": "מכלמות",
-      "english": "从羞辱"
+      "gloss": "从羞辱"
     },
     {
       "surface": "ורק",
-      "english": "和唾沫"
+      "gloss": "和唾沫"
     }
-  ],
-  "timestamp": "2026-07-17T21:58:39.591941259Z",
-  "model": "glm-5.2"
+  ]
 }

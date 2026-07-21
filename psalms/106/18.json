@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 106:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64726
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:24.217853251Z",
   "translation": "火在他们的会众中燃起,火焰吞噬了恶人。",
   "tokens": [
     {
       "surface": "ותבער",
-      "english": "燃起"
+      "gloss": "燃起"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "בעדתם",
-      "english": "在他们的会众中"
+      "gloss": "在他们的会众中"
     },
     {
       "surface": "להבה",
-      "english": "火焰"
+      "gloss": "火焰"
     },
     {
       "surface": "תלהט",
-      "english": "吞噬"
+      "gloss": "吞噬"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:24.217853251Z",
-  "model": "glm-5.2"
+  ]
 }

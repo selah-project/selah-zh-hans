@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "jonah 1:15",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21261,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21726
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:30.747403798Z",
   "translation": "于是他们抬起约拿,把他抛向海中,海就从它的狂怒中停息了。",
   "tokens": [
     {
       "surface": "וישאו",
-      "english": "于是他们抬起"
+      "gloss": "于是他们抬起"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约拿"
     },
     {
       "surface": "יונה",
-      "english": "约拿"
+      "gloss": "约拿"
     },
     {
       "surface": "ויטלהו",
-      "english": "把他抛"
+      "gloss": "把他抛"
     },
     {
       "surface": "אל",
-      "english": "向……中"
+      "gloss": "向……中"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "ויעמד",
-      "english": "就停息了"
+      "gloss": "就停息了"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "מזעפו",
-      "english": "从它的狂怒"
+      "gloss": "从它的狂怒"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:30.747403798Z",
-  "model": "glm-5.2"
+  ]
 }

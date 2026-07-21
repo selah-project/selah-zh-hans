@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 39:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18602,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18907
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:32.849416950Z",
   "translation": "他造了⟨את⟩以弗得的外袍,织布工的成品,全蓝的。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以弗得的外袍"
     },
     {
       "surface": "מעיל",
-      "english": "外袍"
+      "gloss": "外袍"
     },
     {
       "surface": "האפד",
-      "english": "以弗得的"
+      "gloss": "以弗得的"
     },
     {
       "surface": "מעשה",
-      "english": "成品"
+      "gloss": "成品"
     },
     {
       "surface": "ארג",
-      "english": "织布工"
+      "gloss": "织布工"
     },
     {
       "surface": "כליל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "תכלת",
-      "english": "蓝的"
+      "gloss": "蓝的"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:32.849416950Z",
-  "model": "glm-5.2"
+  ]
 }

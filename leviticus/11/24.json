@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "leviticus 11:24",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19047,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19368
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:39.265471253Z",
   "translation": "因这些⟨你们⟩必成为不洁；凡触碰它们尸体的，必不洁直到晚上。",
   "tokens": [
     {
       "surface": "ולאלה",
-      "english": "因这些"
+      "gloss": "因这些"
     },
     {
       "surface": "תטמאו",
-      "english": "⟨你们⟩必成为不洁"
+      "gloss": "⟨你们⟩必成为不洁"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "הנגע",
-      "english": "触碰"
+      "gloss": "触碰"
     },
     {
       "surface": "בנבלתם",
-      "english": "它们尸体的"
+      "gloss": "它们尸体的"
     },
     {
       "surface": "יטמא",
-      "english": "必不洁"
+      "gloss": "必不洁"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "晚上"
+      "gloss": "晚上"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:39.265471253Z",
-  "model": "glm-5.2"
+  ]
 }

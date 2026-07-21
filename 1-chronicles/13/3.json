@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 13:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58975,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59395
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:02:17.000812630Z",
   "translation": "让我们将⟨את⟩我们以罗欣的约柜带回我们这里,因为在扫罗的日子里我们没有寻求它。",
   "tokens": [
     {
       "surface": "ונסבה",
-      "english": "让我们带回"
+      "gloss": "让我们带回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "אלהינו",
-      "english": "我们以罗欣的"
+      "gloss": "我们以罗欣的"
     },
     {
       "surface": "אלינו",
-      "english": "到我们这里"
+      "gloss": "到我们这里"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "דרשנהו",
-      "english": "我们寻求它"
+      "gloss": "我们寻求它"
     },
     {
       "surface": "בימי",
-      "english": "在……的日子里"
+      "gloss": "在……的日子里"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     }
-  ],
-  "timestamp": "2026-07-18T02:02:17.000812630Z",
-  "model": "glm-5.2"
+  ]
 }

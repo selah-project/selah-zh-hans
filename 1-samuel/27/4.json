@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 27:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18149,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18526
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:37:39.782024888Z",
   "translation": "有人告诉扫罗大卫逃往迦特，他便不再⟨继续⟩寻求他。",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "有人告诉"
+      "gloss": "有人告诉"
     },
     {
       "surface": "לשאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "כי",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "ברח",
-      "english": "逃往"
+      "gloss": "逃往"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "גת",
-      "english": "迦特"
+      "gloss": "迦特"
     },
     {
       "surface": "ולא",
-      "english": "他便不再"
+      "gloss": "他便不再"
     },
     {
       "surface": "יוסף",
-      "english": "⟨继续⟩"
+      "gloss": "⟨继续⟩"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "לבקשו",
-      "english": "寻求他"
+      "gloss": "寻求他"
     }
-  ],
-  "timestamp": "2026-07-17T20:37:39.782024888Z",
-  "model": "glm-5.2"
+  ]
 }

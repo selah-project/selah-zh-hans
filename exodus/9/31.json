@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 31,
   "ref": "exodus 9:31",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 488,
-    "prompt_tokens": 18528,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19016
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:22.741949868Z",
   "translation": "因为大麦抽穗,亚麻结苞,所以亚麻和大麦被击打了",
   "tokens": [
     {
       "surface": "וְ\/הַ\/פִּשְׁתָּ֥ה",
-      "english": "亚麻"
+      "gloss": "亚麻"
     },
     {
       "surface": "וְ\/הַ\/שְּׂעֹרָ֖ה",
-      "english": "大麦"
+      "gloss": "大麦"
     },
     {
       "surface": "נֻכָּ֑תָה",
-      "english": "被击打了"
+      "gloss": "被击打了"
     },
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הַ\/שְּׂעֹרָה֙",
-      "english": "大麦"
+      "gloss": "大麦"
     },
     {
       "surface": "אָבִ֔יב",
-      "english": "抽穗"
+      "gloss": "抽穗"
     },
     {
       "surface": "וְ\/הַ\/פִּשְׁתָּ֖ה",
-      "english": "亚麻"
+      "gloss": "亚麻"
     },
     {
       "surface": "גִּבְעֹֽל",
-      "english": "结苞"
+      "gloss": "结苞"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:22.741949868Z",
-  "model": "glm-4.5"
+  ]
 }

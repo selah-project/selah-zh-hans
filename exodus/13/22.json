@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 13:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18555,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19064
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:41.490797019Z",
   "translation": "云的柱昼间⟨不⟩撤去,火的柱夜间也⟨不⟩撤去,⟨都在⟩百姓面前。",
   "tokens": [
     {
       "surface": "לֹֽא",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "יָמִ֞ישׁ",
-      "english": "撤去"
+      "gloss": "撤去"
     },
     {
       "surface": "עַמּ֤וּד",
-      "english": "柱"
+      "gloss": "柱"
     },
     {
       "surface": "הֶֽ\/עָנָן֙",
-      "english": "云的"
+      "gloss": "云的"
     },
     {
       "surface": "יוֹמָ֔ם",
-      "english": "昼间"
+      "gloss": "昼间"
     },
     {
       "surface": "וְ\/עַמּ֥וּד",
-      "english": "而……的柱"
+      "gloss": "而……的柱"
     },
     {
       "surface": "הָ\/אֵ֖שׁ",
-      "english": "火的"
+      "gloss": "火的"
     },
     {
       "surface": "לָ֑יְלָה",
-      "english": "夜间"
+      "gloss": "夜间"
     },
     {
       "surface": "לִ\/פְנֵ֖י",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "הָ\/עָֽם",
-      "english": "百姓"
+      "gloss": "百姓"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:41.490797019Z",
-  "model": "glm-5.2"
+  ]
 }

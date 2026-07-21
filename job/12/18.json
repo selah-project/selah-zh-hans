@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 12:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21504,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21862
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:11.784801992Z",
   "translation": "他解开水闸般的君王之管教，又用腰带束在他们的腰间。",
   "tokens": [
     {
       "surface": "מוסר",
-      "english": "管教"
+      "gloss": "管教"
     },
     {
       "surface": "מלכים",
-      "english": "君王的"
+      "gloss": "君王的"
     },
     {
       "surface": "פתח",
-      "english": "他解开"
+      "gloss": "他解开"
     },
     {
       "surface": "ויאסר",
-      "english": "又束上"
+      "gloss": "又束上"
     },
     {
       "surface": "אזור",
-      "english": "腰带"
+      "gloss": "腰带"
     },
     {
       "surface": "במתניהם",
-      "english": "在他们的腰间"
+      "gloss": "在他们的腰间"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:11.784801992Z",
-  "model": "glm-5.2"
+  ]
 }

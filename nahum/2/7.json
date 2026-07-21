@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "nahum 2:7",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17820,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18324
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:27:49.713410611Z",
   "translation": "河流的诸门被打开了，⟨而⟩ ⟨הַ\/הֵיכָל⟩ ⟨הַ\/הֵיכָל⟩ ⟨正⟩在融化。",
   "tokens": [
     {
       "surface": "שערי",
-      "english": "诸门"
+      "gloss": "诸门"
     },
     {
       "surface": "הנהרות",
-      "english": "河流的"
+      "gloss": "河流的"
     },
     {
       "surface": "נפתחו",
-      "english": "被打开了"
+      "gloss": "被打开了"
     },
     {
       "surface": "וההיכל",
-      "english": "⟨而⟩ ⟨הַ\/הֵיכָל⟩ ⟨הַ\/הֵיכָל⟩"
+      "gloss": "⟨而⟩ ⟨הַ\/הֵיכָל⟩ ⟨הַ\/הֵיכָל⟩"
     },
     {
       "surface": "נמוג",
-      "english": "⟨正⟩在融化"
+      "gloss": "⟨正⟩在融化"
     }
-  ],
-  "timestamp": "2026-07-17T23:27:49.713410611Z",
-  "model": "glm-5.2"
+  ]
 }

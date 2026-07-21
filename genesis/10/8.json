@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 10:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23043,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23556
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:38.690154258Z",
   "translation": "כּוּשׁ（古实）生了 ⟨את⟩ נִמְרֹד（宁录）；他开始在 ⟨הָ\/אָרֶץ（地上）作 גִּבֹּר（勇士）。",
   "tokens": [
     {
       "surface": "וְ\/כ֖וּשׁ",
-      "english": "古实"
+      "gloss": "古实"
     },
     {
       "surface": "יָלַ֣ד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "宁录"
     },
     {
       "surface": "נִמְרֹ֑ד",
-      "english": "宁录"
+      "gloss": "宁录"
     },
     {
       "surface": "ה֣וּא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "הֵחֵ֔ל",
-      "english": "开始"
+      "gloss": "开始"
     },
     {
       "surface": "לִֽ\/הְי֥וֹת",
-      "english": "作"
+      "gloss": "作"
     },
     {
       "surface": "גִּבֹּ֖ר",
-      "english": "勇士"
+      "gloss": "勇士"
     },
     {
       "surface": "בָּ\/אָֽרֶץ",
-      "english": "在地上"
+      "gloss": "在地上"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:38.690154258Z",
-  "model": "glm-5.2"
+  ]
 }

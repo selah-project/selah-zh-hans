@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 8:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19062,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19499
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:24.346296222Z",
   "translation": "摩西对会众说:这就是雅威所吩咐去行的*话语*。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "העדה",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "זה",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "הדבר",
-      "english": "那*话语*"
+      "gloss": "那*话语*"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐"
+      "gloss": "所吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעשות",
-      "english": "去行"
+      "gloss": "去行"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:24.346296222Z",
-  "model": "glm-5.2"
+  ]
 }

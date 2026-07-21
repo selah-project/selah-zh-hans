@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 46:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64348,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64626
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:03.788782372Z",
   "translation": "万军之雅威 ⟨与⟩ 我们同在;雅各的以罗欣 ⟨是⟩ 我们的高台。*细拉*。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "עמנו",
-      "english": "与我们同在"
+      "gloss": "与我们同在"
     },
     {
       "surface": "משגב",
-      "english": "高台"
+      "gloss": "高台"
     },
     {
       "surface": "לנו",
-      "english": "我们的"
+      "gloss": "我们的"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יעקב",
-      "english": "雅各的"
+      "gloss": "雅各的"
     },
     {
       "surface": "סלה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:03.788782372Z",
-  "model": "glm-5.2"
+  ]
 }

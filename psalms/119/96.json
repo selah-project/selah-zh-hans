@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 96,
   "ref": "psalms 119:96",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64390,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64922
-  },
+  "verse": 96,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:32.416423609Z",
   "translation": "对一切 ⟨כָל⟩ 完满我看见了终点;你的训诫极其宽广。",
   "tokens": [
     {
       "surface": "לְֽ\/כָל",
-      "english": "对一切"
+      "gloss": "对一切"
     },
     {
       "surface": "תִּ֭כְלָה",
-      "english": "完满"
+      "gloss": "完满"
     },
     {
       "surface": "רָאִ֣יתִי",
-      "english": "我看见了"
+      "gloss": "我看见了"
     },
     {
       "surface": "קֵ֑ץ",
-      "english": "终点"
+      "gloss": "终点"
     },
     {
       "surface": "רְחָבָ֖ה",
-      "english": "宽广"
+      "gloss": "宽广"
     },
     {
       "surface": "מִצְוָתְ\/ךָ֣",
-      "english": "你的训诫"
+      "gloss": "你的训诫"
     },
     {
       "surface": "מְאֹֽד",
-      "english": "极其"
+      "gloss": "极其"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:32.416423609Z",
-  "model": "glm-5.2"
+  ]
 }

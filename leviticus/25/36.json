@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "leviticus 25:36",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19184,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19629
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:48.096449Z",
   "translation": "不要从⟨他⟩那里取利息或加增,要敬畏⟨你的⟩以罗欣,让你的兄弟与你⟨一同⟩存活。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תקח",
-      "english": "你取"
+      "gloss": "你取"
     },
     {
       "surface": "מאתו",
-      "english": "从⟨他⟩那里"
+      "gloss": "从⟨他⟩那里"
     },
     {
       "surface": "נשך",
-      "english": "利息"
+      "gloss": "利息"
     },
     {
       "surface": "ותרבית",
-      "english": "或加增"
+      "gloss": "或加增"
     },
     {
       "surface": "ויראת",
-      "english": "要敬畏"
+      "gloss": "要敬畏"
     },
     {
       "surface": "מאלהיך",
-      "english": "⟨你的⟩以罗欣"
+      "gloss": "⟨你的⟩以罗欣"
     },
     {
       "surface": "וחי",
-      "english": "让……存活"
+      "gloss": "让……存活"
     },
     {
       "surface": "אחיך",
-      "english": "你的兄弟"
+      "gloss": "你的兄弟"
     },
     {
       "surface": "עמך",
-      "english": "与你⟨一同⟩"
+      "gloss": "与你⟨一同⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:48.096449Z",
-  "model": "glm-5.2"
+  ]
 }

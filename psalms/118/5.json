@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 118:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64384,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64806
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:48.416942849Z",
   "translation": "我从那狭窄之地呼求雅,雅在宽阔处回答了我。",
   "tokens": [
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "המצר",
-      "english": "那狭窄之地"
+      "gloss": "那狭窄之地"
     },
     {
       "surface": "קראתי",
-      "english": "我呼求"
+      "gloss": "我呼求"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "ענני",
-      "english": "回答了我"
+      "gloss": "回答了我"
     },
     {
       "surface": "במרחב",
-      "english": "在宽阔处"
+      "gloss": "在宽阔处"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:48.416942849Z",
-  "model": "glm-5.2"
+  ]
 }

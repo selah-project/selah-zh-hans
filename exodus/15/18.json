@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 15:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 230,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18084,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18314
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:04.602218249Z",
   "translation": "雅威必作王,直到永远,⟨甚至⟩永远。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ימלך",
-      "english": "必作王"
+      "gloss": "必作王"
     },
     {
       "surface": "לעלם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "ועד",
-      "english": "⟨甚至⟩永远"
+      "gloss": "⟨甚至⟩永远"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:04.602218249Z",
-  "model": "glm-5.2"
+  ]
 }

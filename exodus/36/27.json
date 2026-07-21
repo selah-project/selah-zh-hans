@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "exodus 36:27",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18280,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18596
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:36:37.875542560Z",
   "translation": "而为会幕的后部、西边，他造了六块壁板。",
   "tokens": [
     {
       "surface": "ולירכתי",
-      "english": "而为……的后部"
+      "gloss": "而为……的后部"
     },
     {
       "surface": "המשכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "ימה",
-      "english": "西边"
+      "gloss": "西边"
     },
     {
       "surface": "עשה",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "ששה",
-      "english": "六块"
+      "gloss": "六块"
     },
     {
       "surface": "קרשים",
-      "english": "壁板"
+      "gloss": "壁板"
     }
-  ],
-  "timestamp": "2026-07-17T18:36:37.875542560Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 123,
   "ref": "psalms 119:123",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64254,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64624
-  },
+  "verse": 123,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:53.321791605Z",
   "translation": "我的双眼耗尽,渴望⟨你的⟩救恩,以及⟨你的⟩公义之*话语*。",
   "tokens": [
     {
       "surface": "עיני",
-      "english": "我的双眼"
+      "gloss": "我的双眼"
     },
     {
       "surface": "כלו",
-      "english": "耗尽"
+      "gloss": "耗尽"
     },
     {
       "surface": "לישועתך",
-      "english": "渴望⟨你的⟩救恩"
+      "gloss": "渴望⟨你的⟩救恩"
     },
     {
       "surface": "ולאמרת",
-      "english": "以及⟨你的⟩之*话语*"
+      "gloss": "以及⟨你的⟩之*话语*"
     },
     {
       "surface": "צדקך",
-      "english": "⟨你的⟩公义"
+      "gloss": "⟨你的⟩公义"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:53.321791605Z",
-  "model": "glm-5.2"
+  ]
 }

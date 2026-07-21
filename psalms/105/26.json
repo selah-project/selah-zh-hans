@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "psalms 105:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64332,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64652
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:33.691834035Z",
   "translation": "他差遣摩西⟨他的⟩仆人,以及他所拣选的亚伦。",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "他差遣"
+      "gloss": "他差遣"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "עבדו",
-      "english": "⟨他的⟩仆人"
+      "gloss": "⟨他的⟩仆人"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "בחר",
-      "english": "他所拣选的"
+      "gloss": "他所拣选的"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:33.691834035Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "exodus 22:13",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18872,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19395
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:25:22.466313574Z",
   "translation": "若有人向 ⟨其⟩ 邻舍有所请求⟨而借物⟩，⟨那物⟩ 被折断或死去，其主人不 ⟨与⟩ ⟨他⟩ 同在，他必须 ⟨完⟩ 全偿还。",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "ישאל",
-      "english": "有所请求⟨而借物⟩"
+      "gloss": "有所请求⟨而借物⟩"
     },
     {
       "surface": "איש",
-      "english": "有人"
+      "gloss": "有人"
     },
     {
       "surface": "מעם",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "רעהו",
-      "english": "其邻舍"
+      "gloss": "其邻舍"
     },
     {
       "surface": "ונשבר",
-      "english": "被折断"
+      "gloss": "被折断"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "מת",
-      "english": "死去"
+      "gloss": "死去"
     },
     {
       "surface": "בעליו",
-      "english": "其主人"
+      "gloss": "其主人"
     },
     {
       "surface": "אין",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עמו",
-      "english": "与 ⟨他⟩ 同在"
+      "gloss": "与 ⟨他⟩ 同在"
     },
     {
       "surface": "שלם",
-      "english": "⟨完⟩"
+      "gloss": "⟨完⟩"
     },
     {
       "surface": "ישלם",
-      "english": "全偿还"
+      "gloss": "全偿还"
     }
-  ],
-  "timestamp": "2026-07-17T18:25:22.466313574Z",
-  "model": "glm-5.2"
+  ]
 }

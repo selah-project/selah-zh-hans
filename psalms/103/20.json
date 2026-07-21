@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 103:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64800,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65225
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:37.384216562Z",
   "translation": "你们要称颂雅威,⟨他的⟩使者们——大能的勇士们,行他*话语*的人——为要听从他*话语*的声音。",
   "tokens": [
     {
       "surface": "ברכו",
-      "english": "你们要称颂"
+      "gloss": "你们要称颂"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מלאכיו",
-      "english": "⟨他的⟩使者们"
+      "gloss": "⟨他的⟩使者们"
     },
     {
       "surface": "גברי",
-      "english": "大能的勇士们"
+      "gloss": "大能的勇士们"
     },
     {
       "surface": "כח",
-      "english": "能力"
+      "gloss": "能力"
     },
     {
       "surface": "עשי",
-      "english": "行……的人"
+      "gloss": "行……的人"
     },
     {
       "surface": "דברו",
-      "english": "他的*话语*"
+      "gloss": "他的*话语*"
     },
     {
       "surface": "לשמע",
-      "english": "为要听从"
+      "gloss": "为要听从"
     },
     {
       "surface": "בקול",
-      "english": "⟨在⟩声音⟨中⟩"
+      "gloss": "⟨在⟩声音⟨中⟩"
     },
     {
       "surface": "דברו",
-      "english": "他的*话语*"
+      "gloss": "他的*话语*"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:37.384216562Z",
-  "model": "glm-5.2"
+  ]
 }

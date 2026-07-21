@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 142:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 142,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64887,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65316
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:06.470556221Z",
   "translation": "我向右边观看,留心看,就⟨发现⟩没有认识的;逃生之路断绝了,无人顾念我的נפש。",
   "tokens": [
     {
       "surface": "הביט",
-      "english": "观看"
+      "gloss": "观看"
     },
     {
       "surface": "ימין",
-      "english": "向右边"
+      "gloss": "向右边"
     },
     {
       "surface": "וראה",
-      "english": "留心看"
+      "gloss": "留心看"
     },
     {
       "surface": "ואין",
-      "english": "就⟨发现⟩没有"
+      "gloss": "就⟨发现⟩没有"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מכיר",
-      "english": "认识的"
+      "gloss": "认识的"
     },
     {
       "surface": "אבד",
-      "english": "断绝了"
+      "gloss": "断绝了"
     },
     {
       "surface": "מנוס",
-      "english": "逃生之路"
+      "gloss": "逃生之路"
     },
     {
       "surface": "ממני",
-      "english": "离开我"
+      "gloss": "离开我"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "דורש",
-      "english": "顾念"
+      "gloss": "顾念"
     },
     {
       "surface": "לנפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:06.470556221Z",
-  "model": "glm-5.2"
+  ]
 }

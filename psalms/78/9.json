@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 78:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64602,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64993
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:22.432349947Z",
   "translation": "以法莲的子孙，转⟨背⟩——那些发射弓箭的战士，在争战的日子。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "נושקי",
-      "english": "那些发射……的"
+      "gloss": "那些发射……的"
     },
     {
       "surface": "רומי",
-      "english": "发射（箭）"
+      "gloss": "发射（箭）"
     },
     {
       "surface": "קשת",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "הפכו",
-      "english": "转⟨背⟩"
+      "gloss": "转⟨背⟩"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "קרב",
-      "english": "争战"
+      "gloss": "争战"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:22.432349947Z",
-  "model": "glm-5.2"
+  ]
 }

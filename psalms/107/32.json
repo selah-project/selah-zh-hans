@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 107:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64380,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64780
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:22.065782393Z",
   "translation": "愿他们在百姓的会众中高举他，⟨并⟩在长老的座位上赞美他。",
   "tokens": [
     {
       "surface": "וירממוהו",
-      "english": "愿他们高举他"
+      "gloss": "愿他们高举他"
     },
     {
       "surface": "בקהל",
-      "english": "在……的会众中"
+      "gloss": "在……的会众中"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "ובמושב",
-      "english": "⟨并⟩在……的座位上"
+      "gloss": "⟨并⟩在……的座位上"
     },
     {
       "surface": "זקנים",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "יהללוהו",
-      "english": "赞美他"
+      "gloss": "赞美他"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:22.065782393Z",
-  "model": "glm-5.2"
+  ]
 }

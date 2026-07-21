@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 80:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64405,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64773
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:47.151420383Z",
   "translation": "你在它面前清理了 ⟨空间⟩,它就深深扎根,⟨它的根⟩,⟨它⟩就充满了地。",
   "tokens": [
     {
       "surface": "פנית",
-      "english": "你转向\/清理了"
+      "gloss": "你转向\/清理了"
     },
     {
       "surface": "לפניה",
-      "english": "在它面前"
+      "gloss": "在它面前"
     },
     {
       "surface": "ותשרש",
-      "english": "它就扎根"
+      "gloss": "它就扎根"
     },
     {
       "surface": "שרשיה",
-      "english": "它的根"
+      "gloss": "它的根"
     },
     {
       "surface": "ותמלא",
-      "english": "它就充满了"
+      "gloss": "它就充满了"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:47.151420383Z",
-  "model": "glm-5.2"
+  ]
 }

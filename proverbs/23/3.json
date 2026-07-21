@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 23:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54287,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54779
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:44.492131346Z",
   "translation": "不要贪恋他的美味⟨们⟩；而⟨它⟩⟨是⟩谎言的饼。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתאו",
-      "english": "贪恋"
+      "gloss": "贪恋"
     },
     {
       "surface": "למטעמותיו",
-      "english": "他的美味⟨们⟩"
+      "gloss": "他的美味⟨们⟩"
     },
     {
       "surface": "והוא",
-      "english": "而⟨它⟩"
+      "gloss": "而⟨它⟩"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "כזבים",
-      "english": "谎言的"
+      "gloss": "谎言的"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:44.492131346Z",
-  "model": "glm-5.2"
+  ]
 }

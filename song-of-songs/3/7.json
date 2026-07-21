@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "song-of-songs 3:7",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22194,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22689
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:19.463399905Z",
   "translation": "看哪！所罗门的床榻，六十位勇士环绕在它周围，出自以色列的勇士。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪！"
+      "gloss": "看哪！"
     },
     {
       "surface": "מטתו",
-      "english": "他的床榻"
+      "gloss": "他的床榻"
     },
     {
       "surface": "שלשלמה",
-      "english": "所罗门的"
+      "gloss": "所罗门的"
     },
     {
       "surface": "ששים",
-      "english": "六十"
+      "gloss": "六十"
     },
     {
       "surface": "גברים",
-      "english": "勇士"
+      "gloss": "勇士"
     },
     {
       "surface": "סביב",
-      "english": "环绕"
+      "gloss": "环绕"
     },
     {
       "surface": "לה",
-      "english": "在它周围"
+      "gloss": "在它周围"
     },
     {
       "surface": "מגברי",
-      "english": "出自……的勇士"
+      "gloss": "出自……的勇士"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:19.463399905Z",
-  "model": "glm-5.2"
+  ]
 }

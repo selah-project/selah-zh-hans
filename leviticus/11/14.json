@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "leviticus 11:14",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18790,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19173
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:46:23.206854744Z",
   "translation": "和⟨את⟩הַדָּאָה（隼类），和⟨את⟩הָאַיָּה（鸢类），各按其类；",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和⟨את⟩"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "הדאה",
-      "english": "הַדָּאָה（隼类）"
+      "gloss": "הַדָּאָה（隼类）"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "האיה",
-      "english": "הָאַיָּה（鸢类）"
+      "gloss": "הָאַיָּה（鸢类）"
     },
     {
       "surface": "למינה",
-      "english": "各按其类"
+      "gloss": "各按其类"
     }
-  ],
-  "timestamp": "2026-07-17T18:46:23.206854744Z",
-  "model": "glm-5.2"
+  ]
 }

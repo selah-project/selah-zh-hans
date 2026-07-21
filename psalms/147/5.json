@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 147:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64412,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64840
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:49.199010947Z",
   "translation": "伟大的是我们的阿多奈,大有力量;⟨对⟩他的*תְבוּנָה*,没有数目。",
   "tokens": [
     {
       "surface": "גדול",
-      "english": "伟大的是"
+      "gloss": "伟大的是"
     },
     {
       "surface": "אדונינו",
-      "english": "我们的阿多奈"
+      "gloss": "我们的阿多奈"
     },
     {
       "surface": "ורב",
-      "english": "大有"
+      "gloss": "大有"
     },
     {
       "surface": "כח",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "לתבונתו",
-      "english": "⟨对⟩他的*תְבוּנָה*"
+      "gloss": "⟨对⟩他的*תְבוּנָה*"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "מספר",
-      "english": "数目"
+      "gloss": "数目"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:49.199010947Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "deuteronomy 11:1",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19664,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20222
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:34:52.366011212Z",
   "translation": "所以你要爱⟨את⟩雅威⟨你的⟩以罗欣,并要守⟨他的⟩职守、⟨他的⟩律例、⟨他的⟩典章与⟨他的⟩诫命,所有的日子。",
   "tokens": [
     {
       "surface": "ואהבת",
-      "english": "所以你要爱"
+      "gloss": "所以你要爱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威你的以罗欣"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "⟨你的⟩以罗欣"
+      "gloss": "⟨你的⟩以罗欣"
     },
     {
       "surface": "ושמרת",
-      "english": "并要守"
+      "gloss": "并要守"
     },
     {
       "surface": "משמרתו",
-      "english": "⟨他的⟩职守"
+      "gloss": "⟨他的⟩职守"
     },
     {
       "surface": "וחקתיו",
-      "english": "⟨他的⟩律例"
+      "gloss": "⟨他的⟩律例"
     },
     {
       "surface": "ומשפטיו",
-      "english": "⟨他的⟩典章"
+      "gloss": "⟨他的⟩典章"
     },
     {
       "surface": "ומצותיו",
-      "english": "⟨他的⟩诫命"
+      "gloss": "⟨他的⟩诫命"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "הימים",
-      "english": "的日子"
+      "gloss": "的日子"
     }
-  ],
-  "timestamp": "2026-07-17T19:34:52.366011212Z",
-  "model": "glm-5.2"
+  ]
 }

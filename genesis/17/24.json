@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "genesis 17:24",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22950,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23245
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:42:24.974759040Z",
   "translation": "亚伯拉罕九十九岁⟨时⟩,⟨他⟩割了他包皮的肉。",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "בן",
-      "english": "⟨岁⟩"
+      "gloss": "⟨岁⟩"
     },
     {
       "surface": "תשעים",
-      "english": "九十"
+      "gloss": "九十"
     },
     {
       "surface": "ותשע",
-      "english": "又九"
+      "gloss": "又九"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "בהמלו",
-      "english": "⟨他⟩割了"
+      "gloss": "⟨他⟩割了"
     },
     {
       "surface": "בשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "ערלתו",
-      "english": "他的包皮"
+      "gloss": "他的包皮"
     }
-  ],
-  "timestamp": "2026-07-17T17:42:24.974759040Z",
-  "model": "glm-5.2"
+  ]
 }

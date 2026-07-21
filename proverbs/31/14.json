@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "proverbs 31:14",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54302,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54699
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:41.341831619Z",
   "translation": "她如商人的船隻,從遠方帶來她的食物。",
   "tokens": [
     {
       "surface": "היתה",
-      "english": "她如"
+      "gloss": "她如"
     },
     {
       "surface": "כאניות",
-      "english": "船隻"
+      "gloss": "船隻"
     },
     {
       "surface": "סוחר",
-      "english": "商人"
+      "gloss": "商人"
     },
     {
       "surface": "ממרחק",
-      "english": "從遠方"
+      "gloss": "從遠方"
     },
     {
       "surface": "תביא",
-      "english": "帶來"
+      "gloss": "帶來"
     },
     {
       "surface": "לחמה",
-      "english": "她的食物"
+      "gloss": "她的食物"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:41.341831619Z",
-  "model": "glm-5.2"
+  ]
 }

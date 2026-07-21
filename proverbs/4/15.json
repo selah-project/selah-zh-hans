@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 4:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54334,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54725
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:12.935304378Z",
   "translation": "要⟨使它寬闊⟩，不可從其中經過，當從其上偏離，並要過去。",
   "tokens": [
     {
       "surface": "פרעהו",
-      "english": "要⟨使它寬闊⟩"
+      "gloss": "要⟨使它寬闊⟩"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תעבר",
-      "english": "經過"
+      "gloss": "經過"
     },
     {
       "surface": "בו",
-      "english": "從其中"
+      "gloss": "從其中"
     },
     {
       "surface": "שטה",
-      "english": "偏離"
+      "gloss": "偏離"
     },
     {
       "surface": "מעליו",
-      "english": "從其上"
+      "gloss": "從其上"
     },
     {
       "surface": "ועבור",
-      "english": "並要過去"
+      "gloss": "並要過去"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:12.935304378Z",
-  "model": "glm-5.2"
+  ]
 }

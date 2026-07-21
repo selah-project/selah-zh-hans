@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 9:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54414,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54770
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:04.966416498Z",
   "translation": "她宰杀了她⟨的⟩屠宰物；她调和了她的酒；她也摆设了她的桌子。",
   "tokens": [
     {
       "surface": "טבחה",
-      "english": "她宰杀了"
+      "gloss": "她宰杀了"
     },
     {
       "surface": "טבחה",
-      "english": "她⟨的⟩屠宰物"
+      "gloss": "她⟨的⟩屠宰物"
     },
     {
       "surface": "מסכה",
-      "english": "她调和了"
+      "gloss": "她调和了"
     },
     {
       "surface": "יינה",
-      "english": "她的酒"
+      "gloss": "她的酒"
     },
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "ערכה",
-      "english": "她摆设了"
+      "gloss": "她摆设了"
     },
     {
       "surface": "שלחנה",
-      "english": "她的桌子"
+      "gloss": "她的桌子"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:04.966416498Z",
-  "model": "glm-5.2"
+  ]
 }

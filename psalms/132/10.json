@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 132:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64394,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64895
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:21.309545991Z",
   "translation": "因⟨着⟩你仆人大卫的缘故，不要转回你受膏者的面。",
   "tokens": [
     {
       "surface": "בַּ֭\/עֲבוּר",
-      "english": "因……的缘故"
+      "gloss": "因……的缘故"
     },
     {
       "surface": "דָּוִ֣ד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "עַבְדֶּ֑\/ךָ",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "אַל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תָּ֝שֵׁ֗ב",
-      "english": "转回"
+      "gloss": "转回"
     },
     {
       "surface": "פְּנֵ֣י",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "מְשִׁיחֶֽ\/ךָ",
-      "english": "你的受膏者"
+      "gloss": "你的受膏者"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:21.309545991Z",
-  "model": "glm-5.2"
+  ]
 }

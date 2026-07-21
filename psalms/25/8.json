@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 25:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64905
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:12.746311566Z",
   "translation": "雅威⟨是⟩善好正直的；因此他指教罪人在道路上。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "善好"
+      "gloss": "善好"
     },
     {
       "surface": "וישר",
-      "english": "和正直的"
+      "gloss": "和正直的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "על",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "english": "（加强语气）"
+      "gloss": "（加强语气）"
     },
     {
       "surface": "יורה",
-      "english": "他指教"
+      "gloss": "他指教"
     },
     {
       "surface": "חטאים",
-      "english": "罪人"
+      "gloss": "罪人"
     },
     {
       "surface": "בדרך",
-      "english": "在道路上"
+      "gloss": "在道路上"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:12.746311566Z",
-  "model": "glm-5.2"
+  ]
 }

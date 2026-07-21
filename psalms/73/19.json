@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 73:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64480,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64909
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:38.422073521Z",
   "translation": "何等突然他们成为荒场 ⟨如⟩转瞬之间！他们被除灭,终告灭绝,因恐怖 ⟨而来⟩。",
   "tokens": [
     {
       "surface": "איך",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "היו",
-      "english": "他们成为"
+      "gloss": "他们成为"
     },
     {
       "surface": "לשמה",
-      "english": "荒场"
+      "gloss": "荒场"
     },
     {
       "surface": "כרגע",
-      "english": "⟨如⟩转瞬之间"
+      "gloss": "⟨如⟩转瞬之间"
     },
     {
       "surface": "ספו",
-      "english": "他们被除灭"
+      "gloss": "他们被除灭"
     },
     {
       "surface": "תמו",
-      "english": "终告灭绝"
+      "gloss": "终告灭绝"
     },
     {
       "surface": "מן",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "בלהות",
-      "english": "恐怖"
+      "gloss": "恐怖"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:38.422073521Z",
-  "model": "glm-5.2"
+  ]
 }

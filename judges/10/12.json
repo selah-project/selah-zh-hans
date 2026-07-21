@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "judges 10:12",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 615,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18297,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18912
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:49:01.865155767Z",
   "translation": "西顿人、亚玛力人和玛乌人也压迫⟨את⟩你们,你们向我呼求,我就拯救⟨את⟩你们脱离他们的手。",
   "tokens": [
     {
       "surface": "וְ\/צִידוֹנִ֤ים",
-      "english": "西顿人"
+      "gloss": "西顿人"
     },
     {
       "surface": "וַֽ\/עֲמָלֵק֙",
-      "english": "亚玛力人"
+      "gloss": "亚玛力人"
     },
     {
       "surface": "וּ\/מָע֔וֹן",
-      "english": "玛乌人"
+      "gloss": "玛乌人"
     },
     {
       "surface": "לָחֲצ֖וּ",
-      "english": "压迫"
+      "gloss": "压迫"
     },
     {
       "surface": "אֶתְ\/כֶ֑ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "וַ\/תִּצְעֲק֣וּ",
-      "english": "你们呼求"
+      "gloss": "你们呼求"
     },
     {
       "surface": "אֵלַ֔\/י",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "וָ\/אוֹשִׁ֥יעָ\/ה",
-      "english": "我就拯救"
+      "gloss": "我就拯救"
     },
     {
       "surface": "אֶתְ\/כֶ֖ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "מִ\/יָּדָֽ\/ם",
-      "english": "脱离他们的手"
+      "gloss": "脱离他们的手"
     }
-  ],
-  "timestamp": "2026-07-18T02:49:01.865155767Z",
-  "model": "glm-5.2"
+  ]
 }

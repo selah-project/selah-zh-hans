@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "2-samuel 22:42",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18711,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19275
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:54:24.508934364Z",
   "translation": "他们仰望(求救)，却没有拯救者；⟨甚至⟩向雅威，他却不应允他们。",
   "tokens": [
     {
       "surface": "יִשְׁעוּ",
-      "english": "他们仰望(求救)"
+      "gloss": "他们仰望(求救)"
     },
     {
       "surface": "וְ\/אֵין",
-      "english": "却没有"
+      "gloss": "却没有"
     },
     {
       "surface": "מֹשִׁיעַ",
-      "english": "拯救者"
+      "gloss": "拯救者"
     },
     {
       "surface": "אֶל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "עָנָֽ\/ם",
-      "english": "应允他们"
+      "gloss": "应允他们"
     }
-  ],
-  "timestamp": "2026-07-17T20:54:24.508934364Z",
-  "model": "glm-5.2"
+  ]
 }

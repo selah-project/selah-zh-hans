@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "2-kings 17:22",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18730,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19146
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:28:20.178555096Z",
   "translation": "以色列的子孙行在耶罗波安所行的一切罪中,他们没有从中转离——⟨其中⟩。",
   "tokens": [
     {
       "surface": "וילכו",
-      "english": "他们行"
+      "gloss": "他们行"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "בכל",
-      "english": "在一切……中"
+      "gloss": "在一切……中"
     },
     {
       "surface": "חטאות",
-      "english": "罪"
+      "gloss": "罪"
     },
     {
       "surface": "ירבעם",
-      "english": "耶罗波安"
+      "gloss": "耶罗波安"
     },
     {
       "surface": "אשר",
-      "english": "（关系词）"
+      "gloss": "（关系词）"
     },
     {
       "surface": "עשה",
-      "english": "他所行的"
+      "gloss": "他所行的"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "סרו",
-      "english": "他们转离"
+      "gloss": "他们转离"
     },
     {
       "surface": "ממנה",
-      "english": "从其中"
+      "gloss": "从其中"
     }
-  ],
-  "timestamp": "2026-07-17T21:28:20.178555096Z",
-  "model": "glm-5.2"
+  ]
 }

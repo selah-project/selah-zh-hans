@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "1-chronicles 2:11",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 237,
-    "prompt_tokens": 58831,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59068
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:26:21.817390184Z",
   "translation": "拿顺生了萨尔玛,萨尔玛生了波阿斯",
   "tokens": [
     {
       "surface": "ונחשון",
-      "english": "拿顺"
+      "gloss": "拿顺"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "萨尔玛"
     },
     {
       "surface": "שלמא",
-      "english": "萨尔玛"
+      "gloss": "萨尔玛"
     },
     {
       "surface": "ושלמא",
-      "english": "萨尔玛"
+      "gloss": "萨尔玛"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "波阿斯"
     },
     {
       "surface": "בעז",
-      "english": "波阿斯"
+      "gloss": "波阿斯"
     }
-  ],
-  "timestamp": "2026-07-21T13:26:21.817390184Z",
-  "model": "glm-4.5"
+  ]
 }

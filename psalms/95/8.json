@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 95:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 95,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64469,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64874
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:12.023581297Z",
   "translation": "不要硬着⟨你们⟩的心，像在米利巴，像在旷野玛撒的日子：",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תקשו",
-      "english": "你们硬"
+      "gloss": "你们硬"
     },
     {
       "surface": "לבבכם",
-      "english": "你们的心"
+      "gloss": "你们的心"
     },
     {
       "surface": "כמריבה",
-      "english": "像在米利巴"
+      "gloss": "像在米利巴"
     },
     {
       "surface": "כיום",
-      "english": "像在……的日子"
+      "gloss": "像在……的日子"
     },
     {
       "surface": "מסה",
-      "english": "玛撒"
+      "gloss": "玛撒"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:12.023581297Z",
-  "model": "glm-5.2"
+  ]
 }

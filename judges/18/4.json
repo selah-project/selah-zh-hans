@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "judges 18:4",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17989,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18436
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:18:16.521342067Z",
   "translation": "他⟨对他们⟩说:米迦这样那样地为我做了,他雇了我,我就成了他的祭司。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他⟨对他们⟩说"
+      "gloss": "他⟨对他们⟩说"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "כזה",
-      "english": "这样"
+      "gloss": "这样"
     },
     {
       "surface": "וכזה",
-      "english": "那样"
+      "gloss": "那样"
     },
     {
       "surface": "עשה",
-      "english": "做了"
+      "gloss": "做了"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "מיכה",
-      "english": "米迦"
+      "gloss": "米迦"
     },
     {
       "surface": "וישכרני",
-      "english": "他雇了我"
+      "gloss": "他雇了我"
     },
     {
       "surface": "ואהי",
-      "english": "我就成了"
+      "gloss": "我就成了"
     },
     {
       "surface": "לו",
-      "english": "他的"
+      "gloss": "他的"
     },
     {
       "surface": "לכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     }
-  ],
-  "timestamp": "2026-07-17T20:18:16.521342067Z",
-  "model": "glm-5.2"
+  ]
 }

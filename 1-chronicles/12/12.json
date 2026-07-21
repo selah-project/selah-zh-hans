@@ -1,37 +1,29 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 12:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 175,
-    "prompt_tokens": 58267,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58442
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:51.665749429Z",
   "translation": "阿太 ⟨是⟩ 第六个,以利业 ⟨是⟩ 第七个,",
   "tokens": [
     {
       "surface": "עתי",
-      "english": "阿太"
+      "gloss": "阿太"
     },
     {
       "surface": "הששי",
-      "english": "第六个"
+      "gloss": "第六个"
     },
     {
       "surface": "אליאל",
-      "english": "以利业"
+      "gloss": "以利业"
     },
     {
       "surface": "השבעי",
-      "english": "第七个"
+      "gloss": "第七个"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:51.665749429Z",
-  "model": "glm-4.5"
+  ]
 }

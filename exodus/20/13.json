@@ -1,32 +1,21 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "exodus 20:13",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 210,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17849,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18059
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:30.974135199Z",
   "translation": "不可谋杀。",
   "tokens": [
     {
       "surface": "לֹ֖א",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תִּרְצָֽח",
-      "english": "谋杀"
+      "gloss": "谋杀"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:30.974135199Z",
-  "model": "glm-5.2"
+  ]
 }

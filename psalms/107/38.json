@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
   "ref": "psalms 107:38",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64359,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64682
-  },
+  "verse": 38,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:05:01.355950791Z",
   "translation": "他赐福与他们,他们就极其增多;他们的牲畜,⟨他⟩不使减少。",
   "tokens": [
     {
       "surface": "ויברכם",
-      "english": "他赐福与他们"
+      "gloss": "他赐福与他们"
     },
     {
       "surface": "וירבו",
-      "english": "他们就增多"
+      "gloss": "他们就增多"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     },
     {
       "surface": "ובהמתם",
-      "english": "他们的牲畜"
+      "gloss": "他们的牲畜"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ימעיט",
-      "english": "⟨他⟩使减少"
+      "gloss": "⟨他⟩使减少"
     }
-  ],
-  "timestamp": "2026-07-18T03:05:01.355950791Z",
-  "model": "glm-5.2"
+  ]
 }

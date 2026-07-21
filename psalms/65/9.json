@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 65:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64718,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65127
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:08.454016190Z",
   "translation": "地极的居民因你的迹象敬畏；晨昏的出处你使 ⟨它们⟩ 欢呼。",
   "tokens": [
     {
       "surface": "וייראו",
-      "english": "且……敬畏"
+      "gloss": "且……敬畏"
     },
     {
       "surface": "ישבי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "קצות",
-      "english": "地极"
+      "gloss": "地极"
     },
     {
       "surface": "מאותתיך",
-      "english": "因你的迹象"
+      "gloss": "因你的迹象"
     },
     {
       "surface": "מוצאי",
-      "english": "出处"
+      "gloss": "出处"
     },
     {
       "surface": "בקר",
-      "english": "晨"
+      "gloss": "晨"
     },
     {
       "surface": "וערב",
-      "english": "与昏"
+      "gloss": "与昏"
     },
     {
       "surface": "תרנין",
-      "english": "你使欢呼"
+      "gloss": "你使欢呼"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:08.454016190Z",
-  "model": "glm-5.2"
+  ]
 }

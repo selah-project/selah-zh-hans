@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "job 31:33",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 265,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21595,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21860
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:31.332346970Z",
   "translation": "若⟨我⟩如亚当掩盖⟨את⟩我的过犯，为要藏在怀中⟨את⟩我的罪孽，",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "כסיתי",
-      "english": "我掩盖"
+      "gloss": "我掩盖"
     },
     {
       "surface": "כאדם",
-      "english": "如亚当"
+      "gloss": "如亚当"
     },
     {
       "surface": "פשעי",
-      "english": "我的过犯"
+      "gloss": "我的过犯"
     },
     {
       "surface": "לטמון",
-      "english": "为要藏在"
+      "gloss": "为要藏在"
     },
     {
       "surface": "בחבי",
-      "english": "怀中"
+      "gloss": "怀中"
     },
     {
       "surface": "עוני",
-      "english": "我的罪孽"
+      "gloss": "我的罪孽"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:31.332346970Z",
-  "model": "glm-5.2"
+  ]
 }

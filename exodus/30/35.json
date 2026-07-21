@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "exodus 30:35",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18745,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19298
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:29.520751560Z",
   "translation": "你要用⟨它⟩制造 香料,是调配之作,出自调香师的手艺,用盐腌制,洁净的、圣的。",
   "tokens": [
     {
       "surface": "וְעָשִׂיתָ",
-      "english": "你要制造"
+      "gloss": "你要制造"
     },
     {
       "surface": "אֹתָהּ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "香料"
     },
     {
       "surface": "קְטֹרֶת",
-      "english": "香料"
+      "gloss": "香料"
     },
     {
       "surface": "רֹקַח",
-      "english": "调配"
+      "gloss": "调配"
     },
     {
       "surface": "מַעֲשֵׂה",
-      "english": "之作"
+      "gloss": "之作"
     },
     {
       "surface": "רוֹקֵחַ",
-      "english": "调香师的手艺"
+      "gloss": "调香师的手艺"
     },
     {
       "surface": "מְמֻלָּח",
-      "english": "用盐腌制"
+      "gloss": "用盐腌制"
     },
     {
       "surface": "טָהוֹר",
-      "english": "洁净的"
+      "gloss": "洁净的"
     },
     {
       "surface": "קֹדֶשׁ",
-      "english": "圣的"
+      "gloss": "圣的"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:29.520751560Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 20:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54471,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54861
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:04.314537253Z",
   "translation": "能听的耳,与能看的眼 —— 雅威造了 ⟨这⟩ 二者 ⟨皆是⟩。",
   "tokens": [
     {
       "surface": "אזן",
-      "english": "耳"
+      "gloss": "耳"
     },
     {
       "surface": "שמעת",
-      "english": "能听的"
+      "gloss": "能听的"
     },
     {
       "surface": "ועין",
-      "english": "与眼"
+      "gloss": "与眼"
     },
     {
       "surface": "ראה",
-      "english": "能看的"
+      "gloss": "能看的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עשה",
-      "english": "造了"
+      "gloss": "造了"
     },
     {
       "surface": "גם",
-      "english": "二者"
+      "gloss": "二者"
     },
     {
       "surface": "שניהם",
-      "english": "⟨皆是⟩"
+      "gloss": "⟨皆是⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:04.314537253Z",
-  "model": "glm-5.2"
+  ]
 }

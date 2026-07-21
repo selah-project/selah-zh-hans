@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "lamentations 3:4",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33426,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33699
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:37.967874981Z",
   "translation": "⟨他⟩使我的肉体和我的皮肤耗尽，他压碎了我的骨头。",
   "tokens": [
     {
       "surface": "בלה",
-      "english": "耗尽"
+      "gloss": "耗尽"
     },
     {
       "surface": "בשרי",
-      "english": "我的肉体"
+      "gloss": "我的肉体"
     },
     {
       "surface": "ועורי",
-      "english": "和我的皮肤"
+      "gloss": "和我的皮肤"
     },
     {
       "surface": "שבר",
-      "english": "压碎"
+      "gloss": "压碎"
     },
     {
       "surface": "עצמותי",
-      "english": "了我的骨头"
+      "gloss": "了我的骨头"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:37.967874981Z",
-  "model": "glm-5.2"
+  ]
 }

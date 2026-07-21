@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 79:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64605,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65042
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:31.129940379Z",
   "translation": "直到何时,雅威?你要发怒到永远吗?你的嫉妒要如火⟨般⟩燃烧吗?",
   "tokens": [
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "מה",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "יהוה",
-      "english": "雅威?"
+      "gloss": "雅威?"
     },
     {
       "surface": "תאנף",
-      "english": "你要发怒"
+      "gloss": "你要发怒"
     },
     {
       "surface": "לנצח",
-      "english": "到永远吗?"
+      "gloss": "到永远吗?"
     },
     {
       "surface": "תבער",
-      "english": "要……燃烧吗?"
+      "gloss": "要……燃烧吗?"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "קנאתך",
-      "english": "你的嫉妒"
+      "gloss": "你的嫉妒"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:31.129940379Z",
-  "model": "glm-5.2"
+  ]
 }

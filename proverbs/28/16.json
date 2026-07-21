@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 28:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54615,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55026
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:48.439031002Z",
   "translation": "缺乏理解的领袖⟨是⟩压迫人的官长；但恨恶不义之财的人将延长 ⟨他的⟩ 日子。",
   "tokens": [
     {
       "surface": "נגיד",
-      "english": "领袖 \/ 官长"
+      "gloss": "领袖 \/ 官长"
     },
     {
       "surface": "חסר",
-      "english": "缺乏"
+      "gloss": "缺乏"
     },
     {
       "surface": "תבונות",
-      "english": "理解"
+      "gloss": "理解"
     },
     {
       "surface": "ורב",
-      "english": "但 ⟨是⟩ 大…的"
+      "gloss": "但 ⟨是⟩ 大…的"
     },
     {
       "surface": "מעשקות",
-      "english": "压迫"
+      "gloss": "压迫"
     },
     {
       "surface": "שנאי",
-      "english": "恨恶…的人"
+      "gloss": "恨恶…的人"
     },
     {
       "surface": "בצע",
-      "english": "不义之财"
+      "gloss": "不义之财"
     },
     {
       "surface": "יאריך",
-      "english": "将延长"
+      "gloss": "将延长"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:48.439031002Z",
-  "model": "glm-5.2"
+  ]
 }

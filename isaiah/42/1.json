@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 42:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21150,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21602
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:19.901580928Z",
   "translation": "看哪,我的仆人,我扶持⟨他⟩;我所拣选的,我的生命以他为乐;我已将我的鲁阿赐在他身上,他必将公正带给列国。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "עבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     },
     {
       "surface": "אתמך",
-      "english": "我扶持"
+      "gloss": "我扶持"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בחירי",
-      "english": "我所拣选的"
+      "gloss": "我所拣选的"
     },
     {
       "surface": "רצתה",
-      "english": "以……为乐"
+      "gloss": "以……为乐"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     },
     {
       "surface": "נתתי",
-      "english": "我已赐"
+      "gloss": "我已赐"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "עליו",
-      "english": "在他身上"
+      "gloss": "在他身上"
     },
     {
       "surface": "משפט",
-      "english": "公正"
+      "gloss": "公正"
     },
     {
       "surface": "לגוים",
-      "english": "给列国"
+      "gloss": "给列国"
     },
     {
       "surface": "יוציא",
-      "english": "他将带给"
+      "gloss": "他将带给"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:19.901580928Z",
-  "model": "glm-5.2"
+  ]
 }

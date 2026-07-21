@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 145:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64845
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:10.144733117Z",
   "translation": "雅威扶起所有跌倒的人，并举起所有⟨被⟩压弯的人。",
   "tokens": [
     {
       "surface": "סומך֣",
-      "english": "扶起"
+      "gloss": "扶起"
     },
     {
       "surface": "יְה֭וָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לְ\/כָל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "הַ\/נֹּפְלִ֑ים",
-      "english": "跌倒的人"
+      "gloss": "跌倒的人"
     },
     {
       "surface": "וְ֝\/זוֹקֵ֗ף",
-      "english": "并举起"
+      "gloss": "并举起"
     },
     {
       "surface": "לְ\/כָל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "הַ\/כְּפוּפִֽים",
-      "english": "⟨被⟩压弯的人"
+      "gloss": "⟨被⟩压弯的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:10.144733117Z",
-  "model": "glm-5.2"
+  ]
 }

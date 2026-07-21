@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 27:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 413,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18697,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19110
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:29:13.742727911Z",
   "translation": "⟨它的⟩二十根柱子和它们的二十个座是铜的；⟨那⟩柱子的钩和它们的箍是银的。",
   "tokens": [
     {
       "surface": "ועמדיו",
-      "english": "⟨它的⟩柱子"
+      "gloss": "⟨它的⟩柱子"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "ואדניהם",
-      "english": "它们的座"
+      "gloss": "它们的座"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "ושי",
-      "english": "钩"
+      "gloss": "钩"
     },
     {
       "surface": "העמדים",
-      "english": "⟨那⟩柱子的"
+      "gloss": "⟨那⟩柱子的"
     },
     {
       "surface": "וחשקיהם",
-      "english": "它们的箍"
+      "gloss": "它们的箍"
     },
     {
       "surface": "כסף",
-      "english": "银"
+      "gloss": "银"
     }
-  ],
-  "timestamp": "2026-07-17T18:29:13.742727911Z",
-  "model": "glm-5.2"
+  ]
 }

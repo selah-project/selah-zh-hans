@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "genesis 21:34",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 203,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22718,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22921
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:32.338332167Z",
   "translation": "亚伯拉罕在非利士人的地寄居了许多日子。",
   "tokens": [
     {
       "surface": "ויגר",
-      "english": "寄居了"
+      "gloss": "寄居了"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "בארץ",
-      "english": "在……的地"
+      "gloss": "在……的地"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:32.338332167Z",
-  "model": "glm-5.2"
+  ]
 }

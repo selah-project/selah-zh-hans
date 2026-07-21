@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 3:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17771,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18152
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:22:42.355870349Z",
   "translation": "雅威呼召撒母耳;⟨他⟩说:看哪,我在。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "雅威呼召"
+      "gloss": "雅威呼召"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "(呼召)"
+      "gloss": "(呼召)"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "הנני",
-      "english": "看哪,我在"
+      "gloss": "看哪,我在"
     }
-  ],
-  "timestamp": "2026-07-17T20:22:42.355870349Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 120:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 120,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64460,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64855
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:03.978404596Z",
   "translation": "上行之⟨歌⟩。我在急难中呼求雅威,⟨他⟩就应允了我。",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "⟨歌⟩"
+      "gloss": "⟨歌⟩"
     },
     {
       "surface": "המעלות",
-      "english": "上行的"
+      "gloss": "上行的"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בצרתה",
-      "english": "在急难中"
+      "gloss": "在急难中"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "קראתי",
-      "english": "我呼求了"
+      "gloss": "我呼求了"
     },
     {
       "surface": "ויענני",
-      "english": "⟨他⟩就应允了我"
+      "gloss": "⟨他⟩就应允了我"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:03.978404596Z",
-  "model": "glm-5.2"
+  ]
 }

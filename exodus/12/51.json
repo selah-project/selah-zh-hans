@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
   "ref": "exodus 12:51",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18964,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19505
-  },
+  "verse": 51,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:13.405569451Z",
   "translation": "事情就这样发生了:就在这本身的这一天,雅威把⟨את⟩以色列的子孙从埃及地领了出来,按着他们的队伍。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情就这样发生了"
+      "gloss": "事情就这样发生了"
     },
     {
       "surface": "בעצם",
-      "english": "就在本身的"
+      "gloss": "就在本身的"
     },
     {
       "surface": "היום",
-      "english": "这一天"
+      "gloss": "这一天"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "הוציא",
-      "english": "把……领了出来"
+      "gloss": "把……领了出来"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列的子孙"
     },
     {
       "surface": "בני",
-      "english": "的子孙"
+      "gloss": "的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "על",
-      "english": "按着"
+      "gloss": "按着"
     },
     {
       "surface": "צבאתם",
-      "english": "他们的队伍"
+      "gloss": "他们的队伍"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:13.405569451Z",
-  "model": "glm-5.2"
+  ]
 }

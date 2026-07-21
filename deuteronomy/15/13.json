@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "deuteronomy 15:13",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19140,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19486
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:37:29.950826679Z",
   "translation": "当你从他那里打发他自由离去时,不可打发他空手而去 ——",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "当……时"
+      "gloss": "当……时"
     },
     {
       "surface": "תשלחנו",
-      "english": "你打发他"
+      "gloss": "你打发他"
     },
     {
       "surface": "חפשי",
-      "english": "自由(地)"
+      "gloss": "自由(地)"
     },
     {
       "surface": "מעמך",
-      "english": "从他那里"
+      "gloss": "从他那里"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשלחנו",
-      "english": "你打发他"
+      "gloss": "你打发他"
     },
     {
       "surface": "ריקם",
-      "english": "空手(而去) ——"
+      "gloss": "空手(而去) ——"
     }
-  ],
-  "timestamp": "2026-07-17T19:37:29.950826679Z",
-  "model": "glm-5.2"
+  ]
 }

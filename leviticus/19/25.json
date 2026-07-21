@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "leviticus 19:25",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19448,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19932
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:53:28.872780035Z",
   "translation": "在第五年，你们可以吃⟨את⟩它的果实，为要给你们增加它的出产：我是雅威，⟨你们的⟩以罗欣。",
   "tokens": [
     {
       "surface": "ובשנה",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "החמישת",
-      "english": "第五"
+      "gloss": "第五"
     },
     {
       "surface": "תאכלו",
-      "english": "你们可以吃"
+      "gloss": "你们可以吃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的果实"
     },
     {
       "surface": "פריו",
-      "english": "它的果实"
+      "gloss": "它的果实"
     },
     {
       "surface": "להוסיף",
-      "english": "为要增加"
+      "gloss": "为要增加"
     },
     {
       "surface": "לכם",
-      "english": "给你们"
+      "gloss": "给你们"
     },
     {
       "surface": "תבואתו",
-      "english": "它的出产"
+      "gloss": "它的出产"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "⟨你们的⟩以罗欣"
+      "gloss": "⟨你们的⟩以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T18:53:28.872780035Z",
-  "model": "glm-5.2"
+  ]
 }

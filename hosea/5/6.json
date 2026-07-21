@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "hosea 5:6",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21439,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21902
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:38.087327408Z",
   "translation": "他们必带着羊群和牛群去寻求 ⟨את⟩ 雅威,却寻不见;⟨他⟩ 已经从他们中间抽身离去。",
   "tokens": [
     {
       "surface": "בצאנם",
-      "english": "带着羊群"
+      "gloss": "带着羊群"
     },
     {
       "surface": "ובבקרם",
-      "english": "和牛群"
+      "gloss": "和牛群"
     },
     {
       "surface": "ילכו",
-      "english": "他们必去"
+      "gloss": "他们必去"
     },
     {
       "surface": "לבקש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "却……不"
+      "gloss": "却……不"
     },
     {
       "surface": "ימצאו",
-      "english": "寻见"
+      "gloss": "寻见"
     },
     {
       "surface": "חלץ",
-      "english": "⟨他⟩已经抽身离去"
+      "gloss": "⟨他⟩已经抽身离去"
     },
     {
       "surface": "מהם",
-      "english": "从他们中间"
+      "gloss": "从他们中间"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:38.087327408Z",
-  "model": "glm-5.2"
+  ]
 }

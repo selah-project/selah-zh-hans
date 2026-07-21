@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-chronicles 1:1",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 240,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58045,
-    "prompt_tokens_details": {
-      "cached_tokens": 37632
-    },
-    "total_tokens": 58285
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:13.862868580Z",
   "translation": "亚当，塞特，以挪士",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "שת",
-      "english": "塞特"
+      "gloss": "塞特"
     },
     {
       "surface": "אנוש",
-      "english": "以挪士"
+      "gloss": "以挪士"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:13.862868580Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "deuteronomy 5:20",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18867,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19149
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:31:22.197221114Z",
   "translation": "也不可对你的同伴作空洞的见证 ⟨את⟩。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "תענה",
-      "english": "作……的回应"
+      "gloss": "作……的回应"
     },
     {
       "surface": "ברעך",
-      "english": "对你的同伴"
+      "gloss": "对你的同伴"
     },
     {
       "surface": "עד",
-      "english": "见证"
+      "gloss": "见证"
     },
     {
       "surface": "שוא",
-      "english": "空洞的"
+      "gloss": "空洞的"
     }
-  ],
-  "timestamp": "2026-07-17T19:31:22.197221114Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "ruth 2:17",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23005,
-    "prompt_tokens_details": {
-      "cached_tokens": 21440
-    },
-    "total_tokens": 23501
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:13:54.869111699Z",
   "translation": "她⟨在⟩田里拾取麦穗直到傍晚,并打出⟨את⟩她所拾取的;量约一伊法大麦。",
   "tokens": [
     {
       "surface": "ותלקט",
-      "english": "她拾取"
+      "gloss": "她拾取"
     },
     {
       "surface": "בשדה",
-      "english": "⟨在⟩田里"
+      "gloss": "⟨在⟩田里"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "傍晚"
+      "gloss": "傍晚"
     },
     {
       "surface": "ותחבט",
-      "english": "并打出"
+      "gloss": "并打出"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她所拾取的"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "לקטה",
-      "english": "她拾取的"
+      "gloss": "她拾取的"
     },
     {
       "surface": "ויהי",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "כאיפה",
-      "english": "约一伊法"
+      "gloss": "约一伊法"
     },
     {
       "surface": "שערים",
-      "english": "大麦"
+      "gloss": "大麦"
     }
-  ],
-  "timestamp": "2026-07-18T01:13:54.869111699Z",
-  "model": "glm-5.2"
+  ]
 }

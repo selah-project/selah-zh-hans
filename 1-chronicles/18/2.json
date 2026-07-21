@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "1-chronicles 18:2",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58826,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59229
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:05:29.031237398Z",
   "translation": "他击打⟨את⟩摩押;摩押人就成了大卫的仆人, ⟨他们⟩是进贡者。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "他击打"
+      "gloss": "他击打"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩押"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "ויהיו",
-      "english": "就成了"
+      "gloss": "就成了"
     },
     {
       "surface": "מואב",
-      "english": "摩押人"
+      "gloss": "摩押人"
     },
     {
       "surface": "עבדים",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "לדויד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "נשאי",
-      "english": "是……者"
+      "gloss": "是……者"
     },
     {
       "surface": "מנחה",
-      "english": "进贡"
+      "gloss": "进贡"
     }
-  ],
-  "timestamp": "2026-07-18T02:05:29.031237398Z",
-  "model": "glm-5.2"
+  ]
 }

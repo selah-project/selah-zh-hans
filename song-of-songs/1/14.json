@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "song-of-songs 1:14",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21919,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22426
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:10:41.893736904Z",
   "translation": "我亲爱的人⟨对我而言⟩是凤仙花簇，在羊羔泉的葡萄园中。",
   "tokens": [
     {
       "surface": "אשכל",
-      "english": "花簇"
+      "gloss": "花簇"
     },
     {
       "surface": "הכפר",
-      "english": "凤仙"
+      "gloss": "凤仙"
     },
     {
       "surface": "דודי",
-      "english": "我亲爱的人"
+      "gloss": "我亲爱的人"
     },
     {
       "surface": "לי",
-      "english": "对我而言"
+      "gloss": "对我而言"
     },
     {
       "surface": "בכרמי",
-      "english": "在葡萄园中"
+      "gloss": "在葡萄园中"
     },
     {
       "surface": "עין",
-      "english": "泉"
+      "gloss": "泉"
     },
     {
       "surface": "גדי",
-      "english": "羊羔"
+      "gloss": "羊羔"
     }
-  ],
-  "timestamp": "2026-07-18T01:10:41.893736904Z",
-  "model": "glm-5.2"
+  ]
 }

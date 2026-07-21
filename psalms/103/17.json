@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 103:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 606,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64703,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65309
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:32.181235145Z",
   "translation": "雅威的חֶסֶד从永恒到永恒⟨是⟩在敬畏⟨他⟩的人之上，⟨而⟩⟨他⟩的公义⟨是⟩给子子孙孙的——",
   "tokens": [
     {
       "surface": "וְ\/חֶ֤סֶד",
-      "english": "而חֶסֶד (慈爱)"
+      "gloss": "而חֶסֶד (慈爱)"
     },
     {
       "surface": "יְהוָ֨ה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "מֵ\/עוֹלָ֣ם",
-      "english": "从永恒"
+      "gloss": "从永恒"
     },
     {
       "surface": "וְ\/עַד",
-      "english": "而直到"
+      "gloss": "而直到"
     },
     {
       "surface": "ע֭וֹלָם",
-      "english": "永恒"
+      "gloss": "永恒"
     },
     {
       "surface": "עַל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "יְרֵאָ֑י\/ו",
-      "english": "敬畏⟨他⟩的人"
+      "gloss": "敬畏⟨他⟩的人"
     },
     {
       "surface": "וְ֝\/צִדְקָת֗\/וֹ",
-      "english": "而⟨他⟩的公义"
+      "gloss": "而⟨他⟩的公义"
     },
     {
       "surface": "לִ\/בְנֵ֥י",
-      "english": "给……之子"
+      "gloss": "给……之子"
     },
     {
       "surface": "בָנִֽים",
-      "english": "子孙"
+      "gloss": "子孙"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:32.181235145Z",
-  "model": "glm-5.2"
+  ]
 }

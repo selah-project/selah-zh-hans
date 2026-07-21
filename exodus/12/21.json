@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "exodus 12:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19125,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19825
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:17:41.559206063Z",
   "translation": "摩西召集了以色列所有的长老,对他们说:去,为你们的家族从羊群中取⟨无瑕疵的羔羊⟩,宰了⟨הַ\/פָּסַח⟩。",
   "tokens": [
     {
       "surface": "וַ\/יִּקְרָ֥א",
-      "english": "召集了"
+      "gloss": "召集了"
     },
     {
       "surface": "מֹשֶׁ֛ה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לְ\/כָל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "זִקְנֵ֥י",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "יִשְׂרָאֵ֖ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וַ\/יֹּ֣אמֶר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אֲלֵ\/הֶ֑ם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "מִֽשְׁכ֗וּ",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "וּ\/קְח֨וּ",
-      "english": "取"
+      "gloss": "取"
     },
     {
       "surface": "לָ\/כֶ֥ם",
-      "english": "为你们自己"
+      "gloss": "为你们自己"
     },
     {
       "surface": "צֹ֛אן",
-      "english": "⟨从羊群中⟩"
+      "gloss": "⟨从羊群中⟩"
     },
     {
       "surface": "לְ\/מִשְׁפְּחֹתֵי\/כֶ֖ם",
-      "english": "为你们的家族"
+      "gloss": "为你们的家族"
     },
     {
       "surface": "וְ\/שַׁחֲט֥וּ",
-      "english": "宰了"
+      "gloss": "宰了"
     },
     {
       "surface": "הַ\/פָּֽסַח",
-      "english": "⟨הַ\/פָּסַח⟩",
+      "gloss": "⟨הַ\/פָּסַח⟩",
       "marks": "Pésaj (逾越祭)"
     }
-  ],
-  "timestamp": "2026-07-17T18:17:41.559206063Z",
-  "model": "glm-5.2"
+  ]
 }

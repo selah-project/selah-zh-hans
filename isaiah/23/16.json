@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 23:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21149,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21660
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:53.272870364Z",
   "translation": "拿一把里拉琴,巡回⟨这⟩城吧,被遗忘的妓女啊;弹得好听些,多唱些歌,好使你被记念。",
   "tokens": [
     {
       "surface": "קחי",
-      "english": "拿"
+      "gloss": "拿"
     },
     {
       "surface": "כנור",
-      "english": "一把里拉琴"
+      "gloss": "一把里拉琴"
     },
     {
       "surface": "סבי",
-      "english": "巡回"
+      "gloss": "巡回"
     },
     {
       "surface": "עיר",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "זונה",
-      "english": "妓女啊"
+      "gloss": "妓女啊"
     },
     {
       "surface": "נשכחה",
-      "english": "被遗忘的"
+      "gloss": "被遗忘的"
     },
     {
       "surface": "היטיבי",
-      "english": "弹得好听些"
+      "gloss": "弹得好听些"
     },
     {
       "surface": "נגן",
-      "english": "弹奏"
+      "gloss": "弹奏"
     },
     {
       "surface": "הרבי",
-      "english": "多"
+      "gloss": "多"
     },
     {
       "surface": "שיר",
-      "english": "唱些歌"
+      "gloss": "唱些歌"
     },
     {
       "surface": "למען",
-      "english": "好使"
+      "gloss": "好使"
     },
     {
       "surface": "תזכרי",
-      "english": "你被记念"
+      "gloss": "你被记念"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:53.272870364Z",
-  "model": "glm-5.2"
+  ]
 }

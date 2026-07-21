@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "1-kings 18:20",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64271,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64673
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:12:39.867083199Z",
   "translation": "亚哈派遣⟨到⟩所有以色列的子民那里,并召集了⟨את⟩众先知到迦密山。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "亚哈派遣"
+      "gloss": "亚哈派遣"
     },
     {
       "surface": "אחאב",
-      "english": "亚哈"
+      "gloss": "亚哈"
     },
     {
       "surface": "בכל",
-      "english": "⟨到⟩所有……那里"
+      "gloss": "⟨到⟩所有……那里"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויקבץ",
-      "english": "并召集了"
+      "gloss": "并召集了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "众先知"
     },
     {
       "surface": "הנביאים",
-      "english": "众先知"
+      "gloss": "众先知"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "הכרמל",
-      "english": "迦密"
+      "gloss": "迦密"
     }
-  ],
-  "timestamp": "2026-07-17T21:12:39.867083199Z",
-  "model": "glm-5.2"
+  ]
 }

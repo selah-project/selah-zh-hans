@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 36:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64460,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64831
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:24.067017666Z",
   "translation": "因为与你⟨同在⟩生命的源头，在你的光中我们必看见光。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עִ֭מְּ\/ךָ",
-      "english": "与你⟨同在⟩"
+      "gloss": "与你⟨同在⟩"
     },
     {
       "surface": "מְק֣וֹר",
-      "english": "源头"
+      "gloss": "源头"
     },
     {
       "surface": "חַיִּ֑ים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "בְּ֝\/אוֹרְ\/ךָ֗",
-      "english": "在你的光中"
+      "gloss": "在你的光中"
     },
     {
       "surface": "נִרְאֶה",
-      "english": "我们必看见"
+      "gloss": "我们必看见"
     },
     {
       "surface": "אֽוֹר",
-      "english": "光"
+      "gloss": "光"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:24.067017666Z",
-  "model": "glm-5.2"
+  ]
 }

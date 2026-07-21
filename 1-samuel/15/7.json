@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-samuel 15:7",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18423,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18793
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:29:21.313759277Z",
   "translation": "扫罗击打了⟨את⟩亚玛力，从哈腓拉直到你来到书珥——⟨那⟩在埃及对面之处的路上。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "击打了"
+      "gloss": "击打了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚玛力"
     },
     {
       "surface": "עמלק",
-      "english": "亚玛力"
+      "gloss": "亚玛力"
     },
     {
       "surface": "מחוילה",
-      "english": "从哈腓拉"
+      "gloss": "从哈腓拉"
     },
     {
       "surface": "בואך",
-      "english": "直到你来到"
+      "gloss": "直到你来到"
     },
     {
       "surface": "שור",
-      "english": "书珥"
+      "gloss": "书珥"
     },
     {
       "surface": "אשר",
-      "english": "——⟨那⟩"
+      "gloss": "——⟨那⟩"
     },
     {
       "surface": "על",
-      "english": "在……对面"
+      "gloss": "在……对面"
     },
     {
       "surface": "פני",
-      "english": "之处"
+      "gloss": "之处"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T20:29:21.313759277Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "psalms 119:50",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 213,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64290,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64503
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:00.861539905Z",
   "translation": "这是我的安慰,在我的困苦中;因为你的话使我活过来。",
   "tokens": [
     {
       "surface": "זאת",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "נחמתי",
-      "english": "我的安慰"
+      "gloss": "我的安慰"
     },
     {
       "surface": "בעניי",
-      "english": "在我的困苦中"
+      "gloss": "在我的困苦中"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמרתך",
-      "english": "你的话"
+      "gloss": "你的话"
     },
     {
       "surface": "חיתני",
-      "english": "使我活过来"
+      "gloss": "使我活过来"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:00.861539905Z",
-  "model": "glm-5.2"
+  ]
 }

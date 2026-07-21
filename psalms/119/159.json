@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 159,
   "ref": "psalms 119:159",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64473,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 159,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:32.223456797Z",
   "translation": "求你看顾：我何等爱你的训词。雅威啊，照你的慈爱，赐我生命。",
   "tokens": [
     {
       "surface": "ראה",
-      "english": "求你看顾"
+      "gloss": "求你看顾"
     },
     {
       "surface": "כי",
-      "english": "⟨何等⟩"
+      "gloss": "⟨何等⟩"
     },
     {
       "surface": "פקודיך",
-      "english": "你的训词"
+      "gloss": "你的训词"
     },
     {
       "surface": "אהבתי",
-      "english": "我……爱"
+      "gloss": "我……爱"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "כחסדך",
-      "english": "照你的慈爱"
+      "gloss": "照你的慈爱"
     },
     {
       "surface": "חיני",
-      "english": "赐我生命"
+      "gloss": "赐我生命"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:32.223456797Z",
-  "model": "glm-5.2"
+  ]
 }

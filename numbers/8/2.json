@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "numbers 8:2",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 734,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20338,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21072
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:06:59.286105562Z",
   "translation": "你要对亚伦说话,对他说:你点灯的时候,七盏灯要 ⟨את⟩ 灯盏 ⟨向⟩ ⟨הַ\/מְּנוֹרָה⟩ 的面 ⟨发光⟩。",
   "tokens": [
     {
       "surface": "דַּבֵּר֙",
-      "english": "你要……说话"
+      "gloss": "你要……说话"
     },
     {
       "surface": "אֶֽל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אַהֲרֹ֔ן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "וְ\/אָמַרְתָּ֖",
-      "english": "对他说"
+      "gloss": "对他说"
     },
     {
       "surface": "אֵלָ֑י\/ו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "בְּ\/הַעֲלֹֽתְ\/ךָ֙",
-      "english": "你点灯的时候"
+      "gloss": "你点灯的时候"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "灯盏"
     },
     {
       "surface": "הַ\/נֵּרֹ֔ת",
-      "english": "灯盏"
+      "gloss": "灯盏"
     },
     {
       "surface": "אֶל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "מוּל֙",
-      "english": "对面"
+      "gloss": "对面"
     },
     {
       "surface": "פְּנֵ֣י",
-      "english": "面"
+      "gloss": "面"
     },
     {
       "surface": "הַ\/מְּנוֹרָ֔ה",
-      "english": "灯台"
+      "gloss": "灯台"
     },
     {
       "surface": "יָאִ֖ירוּ",
-      "english": "发光"
+      "gloss": "发光"
     },
     {
       "surface": "שִׁבְעַ֥ת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "הַ\/נֵּרֽוֹת",
-      "english": "盏灯"
+      "gloss": "盏灯"
     }
-  ],
-  "timestamp": "2026-07-17T19:06:59.286105562Z",
-  "model": "glm-5.2"
+  ]
 }

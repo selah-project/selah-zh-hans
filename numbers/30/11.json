@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "numbers 30:11",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19827,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20132
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:21:58.917790971Z",
   "translation": "若她在丈夫的家中许了诺言,或在她自己身上以誓约加了约束",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "בית",
-      "english": "在……的家中"
+      "gloss": "在……的家中"
     },
     {
       "surface": "אישה",
-      "english": "她的丈夫"
+      "gloss": "她的丈夫"
     },
     {
       "surface": "נדרה",
-      "english": "她许了诺言"
+      "gloss": "她许了诺言"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "אסרה",
-      "english": "她约束了"
+      "gloss": "她约束了"
     },
     {
       "surface": "אסר",
-      "english": "约束"
+      "gloss": "约束"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "נפשה",
-      "english": "她的生命"
+      "gloss": "她的生命"
     },
     {
       "surface": "בשבעה",
-      "english": "以誓约"
+      "gloss": "以誓约"
     }
-  ],
-  "timestamp": "2026-07-17T19:21:58.917790971Z",
-  "model": "glm-5.2"
+  ]
 }

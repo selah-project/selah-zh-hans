@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 31:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18280,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18668
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:32:38.509118185Z",
   "translation": "为设计巧工,以在金子、银子与铜中制作,",
   "tokens": [
     {
       "surface": "לַ\/חְשֹׁב",
-      "english": "为设计"
+      "gloss": "为设计"
     },
     {
       "surface": "מַחֲשָׁבֹת",
-      "english": "巧工"
+      "gloss": "巧工"
     },
     {
       "surface": "לַ\/עֲשׂוֹת",
-      "english": "以制作"
+      "gloss": "以制作"
     },
     {
       "surface": "בַּ\/זָּהָב",
-      "english": "在金子中"
+      "gloss": "在金子中"
     },
     {
       "surface": "וּ\/בַ\/כֶּסֶף",
-      "english": "与在银子中"
+      "gloss": "与在银子中"
     },
     {
       "surface": "וּ\/בַ\/נְּחֹשֶׁת",
-      "english": "与在铜中"
+      "gloss": "与在铜中"
     }
-  ],
-  "timestamp": "2026-07-17T18:32:38.509118185Z",
-  "model": "glm-5.2"
+  ]
 }

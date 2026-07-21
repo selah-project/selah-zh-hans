@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-chronicles 3:11",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58507,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58796
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:53:22.532719221Z",
   "translation": "约兰、⟨他的⟩子、亚哈谢、⟨他的⟩子、约阿施、⟨他的⟩子",
   "tokens": [
     {
       "surface": "יורם",
-      "english": "约兰"
+      "gloss": "约兰"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     },
     {
       "surface": "אחזיהו",
-      "english": "亚哈谢"
+      "gloss": "亚哈谢"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     },
     {
       "surface": "יואש",
-      "english": "约阿施"
+      "gloss": "约阿施"
     },
     {
       "surface": "בנו",
-      "english": "⟨他的⟩子"
+      "gloss": "⟨他的⟩子"
     }
-  ],
-  "timestamp": "2026-07-18T01:53:22.532719221Z",
-  "model": "glm-5.2"
+  ]
 }

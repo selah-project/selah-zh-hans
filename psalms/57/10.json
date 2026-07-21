@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 57:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64355,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64732
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:49.186107509Z",
   "translation": "我要在众民中称谢 ⟨את⟩你，阿多奈；我要在万族中向 ⟨את⟩你弹唱。",
   "tokens": [
     {
       "surface": "אודך",
-      "english": "我要称谢"
+      "gloss": "我要称谢"
     },
     {
       "surface": "בעמים",
-      "english": "在众民中"
+      "gloss": "在众民中"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "אזמרך",
-      "english": "我要向……弹唱"
+      "gloss": "我要向……弹唱"
     },
     {
       "surface": "בל",
-      "english": "在万族中"
+      "gloss": "在万族中"
     },
     {
       "surface": "אמים",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T23:58:49.186107509Z",
-  "model": "glm-5.2"
+  ]
 }

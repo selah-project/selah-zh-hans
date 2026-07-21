@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 76:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64335,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64667
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:44.623302055Z",
   "translation": "在犹大，以罗欣被认识；在以色列，⟨他的⟩名⟨是⟩大。",
   "tokens": [
     {
       "surface": "נודע",
-      "english": "被认识"
+      "gloss": "被认识"
     },
     {
       "surface": "ביהודה",
-      "english": "在犹大"
+      "gloss": "在犹大"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列"
+      "gloss": "在以色列"
     },
     {
       "surface": "גדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "שמו",
-      "english": "⟨他的⟩名"
+      "gloss": "⟨他的⟩名"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:44.623302055Z",
-  "model": "glm-5.2"
+  ]
 }

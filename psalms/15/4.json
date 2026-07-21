@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 15:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65005,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65566
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:25.448679399Z",
   "translation": "在他眼中，被藐视的人⟨被⟩拒绝，⟨את⟩敬畏雅威的人他却重看；他起誓要受损，也不更改。",
   "tokens": [
     {
       "surface": "נִבְזֶ֤ה",
-      "english": "被藐视的"
+      "gloss": "被藐视的"
     },
     {
       "surface": "בְּֽ\/עֵ֘ינָ֤י\/ו",
-      "english": "在他眼中"
+      "gloss": "在他眼中"
     },
     {
       "surface": "נִמְאָ֗ס",
-      "english": "⟨被⟩拒绝"
+      "gloss": "⟨被⟩拒绝"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "敬畏雅威的人"
     },
     {
       "surface": "יִרְאֵ֣י",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יְהוָ֣ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יְכַבֵּ֑ד",
-      "english": "他重看"
+      "gloss": "他重看"
     },
     {
       "surface": "נִשְׁבַּ֥ע",
-      "english": "他起誓"
+      "gloss": "他起誓"
     },
     {
       "surface": "לְ֝\/הָרַ֗ע",
-      "english": "要受损"
+      "gloss": "要受损"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יָמִֽר",
-      "english": "更改"
+      "gloss": "更改"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:25.448679399Z",
-  "model": "glm-5.2"
+  ]
 }

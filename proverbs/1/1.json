@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 1:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 211,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54243,
-    "prompt_tokens_details": {
-      "cached_tokens": 37632
-    },
-    "total_tokens": 54454
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:35.180901387Z",
   "translation": "所罗门的箴言,大卫的儿子,以色列的王:",
   "tokens": [
     {
       "surface": "משלי",
-      "english": "所罗门的箴言"
+      "gloss": "所罗门的箴言"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:35.180901387Z",
-  "model": "glm-5.2"
+  ]
 }

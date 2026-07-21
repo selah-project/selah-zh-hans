@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ecclesiastes 8:1",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19467,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 20057
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:50.678883700Z",
   "translation": "谁⟨如⟩那有智慧的人？谁又知道⟨一件事⟩的*话语*的解读？人的智慧使他的脸面发光，而他脸面的强横被改变。",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "כהחכם",
-      "english": "⟨如⟩那有智慧的人"
+      "gloss": "⟨如⟩那有智慧的人"
     },
     {
       "surface": "ומי",
-      "english": "谁又"
+      "gloss": "谁又"
     },
     {
       "surface": "יודע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "פשר",
-      "english": "的解读"
+      "gloss": "的解读"
     },
     {
       "surface": "דבר",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "חכמת",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "אדם",
-      "english": "人的"
+      "gloss": "人的"
     },
     {
       "surface": "תאיר",
-      "english": "使……发光"
+      "gloss": "使……发光"
     },
     {
       "surface": "פניו",
-      "english": "他的脸面"
+      "gloss": "他的脸面"
     },
     {
       "surface": "ועז",
-      "english": "而他脸面的强横"
+      "gloss": "而他脸面的强横"
     },
     {
       "surface": "פניו",
-      "english": "（脸面）"
+      "gloss": "（脸面）"
     },
     {
       "surface": "ישנא",
-      "english": "被改变"
+      "gloss": "被改变"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:50.678883700Z",
-  "model": "glm-5.2"
+  ]
 }

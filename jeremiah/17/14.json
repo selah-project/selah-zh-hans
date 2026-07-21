@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "jeremiah 17:14",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19132,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19547
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:56:46.760519223Z",
   "translation": "医治我,雅威,⟨我就⟩被医治;拯救我,⟨我就⟩被拯救;因为你是我的赞美,⟨你⟩。",
   "tokens": [
     {
       "surface": "רפאני",
-      "english": "医治我"
+      "gloss": "医治我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וארפא",
-      "english": "⟨我就⟩被医治"
+      "gloss": "⟨我就⟩被医治"
     },
     {
       "surface": "הושיעני",
-      "english": "拯救我"
+      "gloss": "拯救我"
     },
     {
       "surface": "ואושעה",
-      "english": "⟨我就⟩被拯救"
+      "gloss": "⟨我就⟩被拯救"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תהלתי",
-      "english": "我的赞美"
+      "gloss": "我的赞美"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     }
-  ],
-  "timestamp": "2026-07-18T02:56:46.760519223Z",
-  "model": "glm-5.2"
+  ]
 }

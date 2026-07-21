@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ezekiel 4:7",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19174,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19554
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:41:46.645667116Z",
   "translation": "你⟨要⟩面向耶路撒冷的围困，⟨你的⟩膀臂露出，⟨你⟩要向她预言。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "⟨要⟩面向"
+      "gloss": "⟨要⟩面向"
     },
     {
       "surface": "מצור",
-      "english": "围困"
+      "gloss": "围困"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "תכין",
-      "english": "你摆定"
+      "gloss": "你摆定"
     },
     {
       "surface": "פניך",
-      "english": "你的面"
+      "gloss": "你的面"
     },
     {
       "surface": "וזרעך",
-      "english": "⟨你的⟩膀臂"
+      "gloss": "⟨你的⟩膀臂"
     },
     {
       "surface": "חשופה",
-      "english": "露出"
+      "gloss": "露出"
     },
     {
       "surface": "ונבאתה",
-      "english": "⟨你⟩要预言"
+      "gloss": "⟨你⟩要预言"
     },
     {
       "surface": "עליה",
-      "english": "向她"
+      "gloss": "向她"
     }
-  ],
-  "timestamp": "2026-07-17T22:41:46.645667116Z",
-  "model": "glm-5.2"
+  ]
 }

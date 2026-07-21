@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 9:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22647,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23028
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:09.305506568Z",
   "translation": "挪亚开始⟨成为⟩⟨一个⟩地之丈夫,栽种了葡萄园。",
   "tokens": [
     {
       "surface": "ויחל",
-      "english": "开始"
+      "gloss": "开始"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "איש",
-      "english": "丈夫"
+      "gloss": "丈夫"
     },
     {
       "surface": "האדמה",
-      "english": "地之"
+      "gloss": "地之"
     },
     {
       "surface": "ויטע",
-      "english": "栽种了"
+      "gloss": "栽种了"
     },
     {
       "surface": "כרם",
-      "english": "葡萄园"
+      "gloss": "葡萄园"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:09.305506568Z",
-  "model": "glm-5.2"
+  ]
 }

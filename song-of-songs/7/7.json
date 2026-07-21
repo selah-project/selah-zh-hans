@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "song-of-songs 7:7",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21828,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22200
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:39.801154086Z",
   "translation": "你何等美丽, ⟨和⟩你何等悦人,爱啊,在欢愉之中!",
   "tokens": [
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "יפית",
-      "english": "你美丽"
+      "gloss": "你美丽"
     },
     {
       "surface": "ומה",
-      "english": "⟨和⟩你何等"
+      "gloss": "⟨和⟩你何等"
     },
     {
       "surface": "נעמת",
-      "english": "悦人"
+      "gloss": "悦人"
     },
     {
       "surface": "אהבה",
-      "english": "爱啊"
+      "gloss": "爱啊"
     },
     {
       "surface": "בתענוגים",
-      "english": "在欢愉之中"
+      "gloss": "在欢愉之中"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:39.801154086Z",
-  "model": "glm-5.2"
+  ]
 }

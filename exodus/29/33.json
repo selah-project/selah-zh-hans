@@ -1,91 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "exodus 29:33",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 607,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19390,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19997
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:21.150346354Z",
   "translation": "他们要吃 ⟨את⟩ 那些藉之曾为他们成就卡帕拉的食物，为充满 ⟨את⟩ 他们的手，使他们分别为圣 ⟨את⟩ 他们；外人不可吃，因为它们是圣物。",
   "tokens": [
     {
       "surface": "ואכלו",
-      "english": "他们要吃"
+      "gloss": "他们要吃"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些食物"
     },
     {
       "surface": "אשר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "כפר",
-      "english": "曾成就卡帕拉"
+      "gloss": "曾成就卡帕拉"
     },
     {
       "surface": "בהם",
-      "english": "藉之为他们"
+      "gloss": "藉之为他们"
     },
     {
       "surface": "למלא",
-      "english": "为充满"
+      "gloss": "为充满"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的手"
     },
     {
       "surface": "ידם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     },
     {
       "surface": "לקדש",
-      "english": "使他们分别为圣"
+      "gloss": "使他们分别为圣"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "וזר",
-      "english": "外人"
+      "gloss": "外人"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יאכל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "קדש",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "הם",
-      "english": "它们是"
+      "gloss": "它们是"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:21.150346354Z",
-  "model": "glm-5.2"
+  ]
 }

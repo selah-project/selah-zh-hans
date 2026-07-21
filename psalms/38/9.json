@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 38:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64490,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64917
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:28.919146501Z",
   "translation": "我发昏且被压碎,⟨直到⟩极点;我从心的呼啸⟨中⟩咆哮。",
   "tokens": [
     {
       "surface": "נְפוּג֣וֹתִי",
-      "english": "我发昏"
+      "gloss": "我发昏"
     },
     {
       "surface": "וְ\/נִדְכֵּ֣יתִי",
-      "english": "且被压碎"
+      "gloss": "且被压碎"
     },
     {
       "surface": "עַד",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "מְאֹ֑ד",
-      "english": "极点"
+      "gloss": "极点"
     },
     {
       "surface": "שָׁ֝אַ֗גְתִּי",
-      "english": "我咆哮"
+      "gloss": "我咆哮"
     },
     {
       "surface": "מִֽ\/נַּהֲמַ֥ת",
-      "english": "从……的呼啸"
+      "gloss": "从……的呼啸"
     },
     {
       "surface": "לִבִּֽ\/י",
-      "english": "我心"
+      "gloss": "我心"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:28.919146501Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "leviticus 15:9",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18935,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19227
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:50:19.511768748Z",
   "translation": "凡患有漏症之人所骑乘的一切鞍座,⟨都⟩不洁净。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "凡……的一切"
+      "gloss": "凡……的一切"
     },
     {
       "surface": "המרכב",
-      "english": "鞍座"
+      "gloss": "鞍座"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "ירכב",
-      "english": "骑乘"
+      "gloss": "骑乘"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "הזב",
-      "english": "那患有漏症的"
+      "gloss": "那患有漏症的"
     },
     {
       "surface": "יטמא",
-      "english": "不洁净"
+      "gloss": "不洁净"
     }
-  ],
-  "timestamp": "2026-07-17T18:50:19.511768748Z",
-  "model": "glm-5.2"
+  ]
 }

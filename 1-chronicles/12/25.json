@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "1-chronicles 12:25",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58940,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59374
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:01:14.046523904Z",
   "translation": "犹大的子孙,持牌与枪的,六千八百人,列装出征的军队。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "נשאי",
-      "english": "持"
+      "gloss": "持"
     },
     {
       "surface": "צנה",
-      "english": "牌"
+      "gloss": "牌"
     },
     {
       "surface": "ורמח",
-      "english": "与枪"
+      "gloss": "与枪"
     },
     {
       "surface": "ששת",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "אלפים",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "ושמונה",
-      "english": "八"
+      "gloss": "八"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "חלוצי",
-      "english": "列装出征的"
+      "gloss": "列装出征的"
     },
     {
       "surface": "צבא",
-      "english": "军队"
+      "gloss": "军队"
     }
-  ],
-  "timestamp": "2026-07-18T02:01:14.046523904Z",
-  "model": "glm-5.2"
+  ]
 }

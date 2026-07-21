@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "job 34:26",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21411,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21868
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:07.635449417Z",
   "translation": "他在众目 ⟨ראים⟩ 之下,在 ⟨תחת⟩ 恶人之处击掌 ספקם。",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "在……之下 \/ 在……之处"
+      "gloss": "在……之下 \/ 在……之处"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ספקם",
-      "english": "击掌 \/ 拍掌 (击打)"
+      "gloss": "击掌 \/ 拍掌 (击打)"
     },
     {
       "surface": "במקום",
-      "english": "在……的地方"
+      "gloss": "在……的地方"
     },
     {
       "surface": "ראים",
-      "english": "看见的人 \/ 观看者"
+      "gloss": "看见的人 \/ 观看者"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:07.635449417Z",
-  "model": "glm-5.2"
+  ]
 }

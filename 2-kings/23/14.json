@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "2-kings 23:14",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 674,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19008,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19682
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:33:00.821929144Z",
   "translation": "他打碎了 ⟨את⟩ ⟨הַ\/מַּצֵּבוֹת⟩（石柱），砍下了 ⟨את⟩ ⟨הָ\/אֲשֵׁרִים⟩（亚舍拉神木），用人的骨头充满了它们的 ⟨את⟩ 地方。",
   "tokens": [
     {
       "surface": "וְ\/שִׁבַּר",
-      "english": "他打碎了"
+      "gloss": "他打碎了"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石柱"
     },
     {
       "surface": "הַ\/מַּצֵּב֔וֹת",
-      "english": "石柱"
+      "gloss": "石柱"
     },
     {
       "surface": "וַ\/יִּכְרֹת",
-      "english": "砍下了"
+      "gloss": "砍下了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚舍拉神木"
     },
     {
       "surface": "הָ\/אֲשֵׁרִ֑ים",
-      "english": "亚舍拉神木"
+      "gloss": "亚舍拉神木"
     },
     {
       "surface": "וַ\/יְמַלֵּא",
-      "english": "充满了"
+      "gloss": "充满了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们的地方"
     },
     {
       "surface": "מְקוֹמָ֖\/ם",
-      "english": "它们的地方"
+      "gloss": "它们的地方"
     },
     {
       "surface": "עַצְמ֥וֹת",
-      "english": "骨头"
+      "gloss": "骨头"
     },
     {
       "surface": "אָדָֽם",
-      "english": "人（人类）的"
+      "gloss": "人（人类）的"
     }
-  ],
-  "timestamp": "2026-07-17T21:33:00.821929144Z",
-  "model": "glm-5.2"
+  ]
 }

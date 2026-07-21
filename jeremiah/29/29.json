@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 29,
   "ref": "jeremiah 29:29",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 344,
-    "prompt_tokens": 19234,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19578
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:20:33.761964479Z",
   "translation": "祭司西番雅⟨在⟩先知耶利米⟨的⟩耳中⟨את⟩这卷书宣读",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "宣读"
+      "gloss": "宣读"
     },
     {
       "surface": "צפניה",
-      "english": "西番雅"
+      "gloss": "西番雅"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这卷书"
     },
     {
       "surface": "הספר",
-      "english": "这卷书"
+      "gloss": "这卷书"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "באזני",
-      "english": "⟨在⟩...⟨的⟩耳中"
+      "gloss": "⟨在⟩...⟨的⟩耳中"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "הנביא",
-      "english": "先知"
+      "gloss": "先知"
     }
-  ],
-  "timestamp": "2026-07-21T13:20:33.761964479Z",
-  "model": "glm-4.5"
+  ]
 }

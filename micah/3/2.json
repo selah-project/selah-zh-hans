@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "micah 3:2",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17589,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18016
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:25:26.876829855Z",
   "translation": "恨恶善的,喜爱恶的;剥去他们的皮,⟨脱离⟩他们,又他们的肉,⟨脱离⟩他们的骨头。",
   "tokens": [
     {
       "surface": "שנאי",
-      "english": "恨恶"
+      "gloss": "恨恶"
     },
     {
       "surface": "טוב",
-      "english": "善的"
+      "gloss": "善的"
     },
     {
       "surface": "ואהבי",
-      "english": "又喜爱"
+      "gloss": "又喜爱"
     },
     {
       "surface": "רעה",
-      "english": "恶的"
+      "gloss": "恶的"
     },
     {
       "surface": "גזלי",
-      "english": "剥去 (从……撕扯下)"
+      "gloss": "剥去 (从……撕扯下)"
     },
     {
       "surface": "עורם",
-      "english": "他们的皮"
+      "gloss": "他们的皮"
     },
     {
       "surface": "מעליהם",
-      "english": "⟨脱离⟩他们"
+      "gloss": "⟨脱离⟩他们"
     },
     {
       "surface": "ושארם",
-      "english": "又他们的肉"
+      "gloss": "又他们的肉"
     },
     {
       "surface": "מעל",
-      "english": "⟨脱离⟩"
+      "gloss": "⟨脱离⟩"
     },
     {
       "surface": "עצמותם",
-      "english": "他们的骨头"
+      "gloss": "他们的骨头"
     }
-  ],
-  "timestamp": "2026-07-17T23:25:26.876829855Z",
-  "model": "glm-5.2"
+  ]
 }

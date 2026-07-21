@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "leviticus 13:18",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18841,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19153
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:43.051800748Z",
   "translation": "如果肉体的皮肤上长了一个溃疡，⟨并且⟩痊愈了，",
   "tokens": [
     {
       "surface": "ובשר",
-      "english": "肉体的"
+      "gloss": "肉体的"
     },
     {
       "surface": "כי",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "יהיה",
-      "english": "长了"
+      "gloss": "长了"
     },
     {
       "surface": "בו",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "בערו",
-      "english": "它的皮肤"
+      "gloss": "它的皮肤"
     },
     {
       "surface": "שחין",
-      "english": "一个溃疡"
+      "gloss": "一个溃疡"
     },
     {
       "surface": "ונרפא",
-      "english": "并且痊愈了"
+      "gloss": "并且痊愈了"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:43.051800748Z",
-  "model": "glm-5.2"
+  ]
 }

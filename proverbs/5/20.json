@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 5:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54453,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54869
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:56.949920083Z",
   "translation": "你为何⟨要⟩漂泊，我儿，在外女身旁，又去拥抱外邦人的胸怀呢？",
   "tokens": [
     {
       "surface": "ולמה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "תשגה",
-      "english": "漂泊"
+      "gloss": "漂泊"
     },
     {
       "surface": "בני",
-      "english": "我儿"
+      "gloss": "我儿"
     },
     {
       "surface": "בזרה",
-      "english": "在外女身旁"
+      "gloss": "在外女身旁"
     },
     {
       "surface": "ותחבק",
-      "english": "又去拥抱"
+      "gloss": "又去拥抱"
     },
     {
       "surface": "חק",
-      "english": "胸怀"
+      "gloss": "胸怀"
     },
     {
       "surface": "נכריה",
-      "english": "外邦人的"
+      "gloss": "外邦人的"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:56.949920083Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 33,
   "ref": "genesis 46:33",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 374,
-    "prompt_tokens": 23094,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23468
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:45.606257091Z",
   "translation": "这事必发生:当法老召你们来,说:你们的事业是⟨什么⟩?",
   "tokens": [
     {
       "surface": "וְהָיָה",
-      "english": "这事必发生"
+      "gloss": "这事必发生"
     },
     {
       "surface": "כִּי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "יִקְרָא",
-      "english": "召你们来"
+      "gloss": "召你们来"
     },
     {
       "surface": "לָכֶם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "פַּרְעֹה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "וְאָמַר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מָה",
-      "english": "⟨什么⟩"
+      "gloss": "⟨什么⟩"
     },
     {
       "surface": "מַעֲשֵׂיכֶם",
-      "english": "你们的事业"
+      "gloss": "你们的事业"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:45.606257091Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "psalms 65:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 511,
-    "prompt_tokens": 64703,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65214
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:36:44.893854930Z",
   "translation": "你浇灌田垄使 它饱足,你使犁沟沉下;你用阵雨使 它变松,你祝福 ⟨所⟩生长的。",
   "tokens": [
     {
       "surface": "תלמיה",
-      "english": "田垄"
+      "gloss": "田垄"
     },
     {
       "surface": "רוה",
-      "english": "你浇灌...使 它饱足"
+      "gloss": "你浇灌...使 它饱足"
     },
     {
       "surface": "נחת",
-      "english": "你使...沉下"
+      "gloss": "你使...沉下"
     },
     {
       "surface": "גדודיה",
-      "english": "犁沟"
+      "gloss": "犁沟"
     },
     {
       "surface": "ברביבים",
-      "english": "用阵雨"
+      "gloss": "用阵雨"
     },
     {
       "surface": "תמגגנה",
-      "english": "使 它变松"
+      "gloss": "使 它变松"
     },
     {
       "surface": "צמחה",
-      "english": "⟨所⟩生长的"
+      "gloss": "⟨所⟩生长的"
     },
     {
       "surface": "תברך",
-      "english": "你祝福"
+      "gloss": "你祝福"
     }
-  ],
-  "timestamp": "2026-07-21T02:36:44.893854930Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 132:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64329,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64598
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:18.223963881Z",
   "translation": "因为雅威拣选了锡安，渴望⟨它⟩作为⟨他⟩的居所。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בחר",
-      "english": "拣选了"
+      "gloss": "拣选了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "אוה",
-      "english": "渴望"
+      "gloss": "渴望"
     },
     {
       "surface": "למושב",
-      "english": "居所"
+      "gloss": "居所"
     },
     {
       "surface": "לו",
-      "english": "作为⟨他⟩的"
+      "gloss": "作为⟨他⟩的"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:18.223963881Z",
-  "model": "glm-5.2"
+  ]
 }

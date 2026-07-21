@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 30:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19971,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20468
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:45:18.316083806Z",
   "translation": "但如果⟨他⟩在聽見之後才廢除它們，⟨他⟩就要擔當⟨את⟩她的罪孽。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "但如果"
+      "gloss": "但如果"
     },
     {
       "surface": "הפר",
-      "english": "廢除"
+      "gloss": "廢除"
     },
     {
       "surface": "יפר",
-      "english": "⟨他⟩才廢除"
+      "gloss": "⟨他⟩才廢除"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它們（她所許的願）"
     },
     {
       "surface": "אחרי",
-      "english": "之後"
+      "gloss": "之後"
     },
     {
       "surface": "שמעו",
-      "english": "聽見"
+      "gloss": "聽見"
     },
     {
       "surface": "ונשא",
-      "english": "⟨他⟩就要擔當"
+      "gloss": "⟨他⟩就要擔當"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的罪孽"
     },
     {
       "surface": "עונה",
-      "english": "她的罪孽"
+      "gloss": "她的罪孽"
     }
-  ],
-  "timestamp": "2026-07-18T02:45:18.316083806Z",
-  "model": "glm-5.2"
+  ]
 }

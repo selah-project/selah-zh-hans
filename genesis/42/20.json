@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 42:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23367,
-    "prompt_tokens_details": {
-      "cached_tokens": 23360
-    },
-    "total_tokens": 23847
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:30:48.419346561Z",
   "translation": "你们要把⟨את⟩你们的弟弟带到我这里来,好使你们的*话*被证实,你们就不至于死。他们就照着行了。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的弟弟"
     },
     {
       "surface": "אחיכם",
-      "english": "你们的兄弟"
+      "gloss": "你们的兄弟"
     },
     {
       "surface": "הקטן",
-      "english": "小的"
+      "gloss": "小的"
     },
     {
       "surface": "תביאו",
-      "english": "你们要带来"
+      "gloss": "你们要带来"
     },
     {
       "surface": "אלי",
-      "english": "到我这里来"
+      "gloss": "到我这里来"
     },
     {
       "surface": "ויאמנו",
-      "english": "好使被证实"
+      "gloss": "好使被证实"
     },
     {
       "surface": "דבריכם",
-      "english": "你们的话"
+      "gloss": "你们的话"
     },
     {
       "surface": "ולא",
-      "english": "而不"
+      "gloss": "而不"
     },
     {
       "surface": "תמותו",
-      "english": "你们死"
+      "gloss": "你们死"
     },
     {
       "surface": "ויעשו",
-      "english": "他们就行了"
+      "gloss": "他们就行了"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     }
-  ],
-  "timestamp": "2026-07-18T03:30:48.419346561Z",
-  "model": "glm-5.2"
+  ]
 }

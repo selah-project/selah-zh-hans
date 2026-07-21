@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 25:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18819,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19204
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:27:25.249900996Z",
   "translation": "你要用皂荚木造一张桌子:长两肘,宽一肘,高一肘半。",
   "tokens": [
     {
       "surface": "ועשית",
-      "english": "你要造"
+      "gloss": "你要造"
     },
     {
       "surface": "שלחן",
-      "english": "一张桌子"
+      "gloss": "一张桌子"
     },
     {
       "surface": "עצי",
-      "english": "木"
+      "gloss": "木"
     },
     {
       "surface": "שטים",
-      "english": "皂荚"
+      "gloss": "皂荚"
     },
     {
       "surface": "אמתים",
-      "english": "两肘"
+      "gloss": "两肘"
     },
     {
       "surface": "ארכו",
-      "english": "其长"
+      "gloss": "其长"
     },
     {
       "surface": "ואמה",
-      "english": "一肘"
+      "gloss": "一肘"
     },
     {
       "surface": "רחבו",
-      "english": "其宽"
+      "gloss": "其宽"
     },
     {
       "surface": "ואמה",
-      "english": "一肘"
+      "gloss": "一肘"
     },
     {
       "surface": "וחצי",
-      "english": "和半"
+      "gloss": "和半"
     },
     {
       "surface": "קמתו",
-      "english": "其高"
+      "gloss": "其高"
     }
-  ],
-  "timestamp": "2026-07-17T18:27:25.249900996Z",
-  "model": "glm-5.2"
+  ]
 }

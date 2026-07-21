@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 37:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64586,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64977
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:34.686017512Z",
   "translation": "因为作恶的人必被剪除，而仰望雅威的人——他们⟨将⟩承受地土。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מְרֵעִים",
-      "english": "作恶的人"
+      "gloss": "作恶的人"
     },
     {
       "surface": "יִכָּרֵת֑וּן",
-      "english": "必被剪除"
+      "gloss": "必被剪除"
     },
     {
       "surface": "וְ\/קֹוֵ֥י",
-      "english": "而仰望……的人"
+      "gloss": "而仰望……的人"
     },
     {
       "surface": "יְהוָ֗ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הֵ֣מָּה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "יִֽירְשׁוּ",
-      "english": "承受"
+      "gloss": "承受"
     },
     {
       "surface": "אָֽרֶץ",
-      "english": "地土"
+      "gloss": "地土"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:34.686017512Z",
-  "model": "glm-5.2"
+  ]
 }

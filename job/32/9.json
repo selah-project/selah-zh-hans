@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 32:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21491,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21923
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:44.203143442Z",
   "translation": "不是许多人就聪明,⟨而且⟩长辈⟨才⟩理解公平;",
   "tokens": [
     {
       "surface": "לֹֽא",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "רַבִּ֥ים",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "יֶחְכָּ֑מוּ",
-      "english": "就聪明"
+      "gloss": "就聪明"
     },
     {
       "surface": "וּ֝\/זְקֵנִ֗ים",
-      "english": "⟨而且⟩长辈"
+      "gloss": "⟨而且⟩长辈"
     },
     {
       "surface": "יָבִ֥ינוּ",
-      "english": "⟨才⟩理解"
+      "gloss": "⟨才⟩理解"
     },
     {
       "surface": "מִשְׁפָּֽט",
-      "english": "公平"
+      "gloss": "公平"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:44.203143442Z",
-  "model": "glm-5.2"
+  ]
 }

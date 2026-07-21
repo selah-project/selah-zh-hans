@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "job 34:35",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21520,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21816
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:10.995462781Z",
   "translation": "约伯不凭知识说话,他的话语也不凭洞察。",
   "tokens": [
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "בדעת",
-      "english": "凭知识"
+      "gloss": "凭知识"
     },
     {
       "surface": "ידבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "ודבריו",
-      "english": "他的话语也不"
+      "gloss": "他的话语也不"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "בהשכיל",
-      "english": "凭洞察"
+      "gloss": "凭洞察"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:10.995462781Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "job 10:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 278,
-    "prompt_tokens": 21600,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21878
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:37.017056132Z",
   "translation": "若我犯了罪,而你就看守我,并不赦免我的过犯,",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "חטאתי",
-      "english": "我犯了罪"
+      "gloss": "我犯了罪"
     },
     {
       "surface": "ושמרתני",
-      "english": "而你就看守我"
+      "gloss": "而你就看守我"
     },
     {
       "surface": "ומעוני",
-      "english": "并不我的过犯"
+      "gloss": "并不我的过犯"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תנקני",
-      "english": "赦免我"
+      "gloss": "赦免我"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:37.017056132Z",
-  "model": "glm-4.5"
+  ]
 }

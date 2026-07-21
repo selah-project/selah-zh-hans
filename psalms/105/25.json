@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 105:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64302,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64682
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:27.163111652Z",
   "translation": "他翻转了⟨他们的⟩心去恨恶⟨他的⟩百姓,在他的仆人们身上施谋害。",
   "tokens": [
     {
       "surface": "הפך",
-      "english": "他翻转了"
+      "gloss": "他翻转了"
     },
     {
       "surface": "לבם",
-      "english": "他们的心"
+      "gloss": "他们的心"
     },
     {
       "surface": "לשנא",
-      "english": "去恨恶"
+      "gloss": "去恨恶"
     },
     {
       "surface": "עמו",
-      "english": "他的百姓"
+      "gloss": "他的百姓"
     },
     {
       "surface": "להתנכל",
-      "english": "施谋害"
+      "gloss": "施谋害"
     },
     {
       "surface": "בעבדיו",
-      "english": "在他的仆人们身上"
+      "gloss": "在他的仆人们身上"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:27.163111652Z",
-  "model": "glm-5.2"
+  ]
 }

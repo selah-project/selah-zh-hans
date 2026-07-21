@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 106:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64321,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64631
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:29.163646717Z",
   "translation": "他们⟨在⟩旷野中起了极度渴望⟨的⟩欲望，并在荒芜之地试探了埃尔。",
   "tokens": [
     {
       "surface": "ויתאוו",
-      "english": "他们起了极度渴望"
+      "gloss": "他们起了极度渴望"
     },
     {
       "surface": "תאוה",
-      "english": "欲望"
+      "gloss": "欲望"
     },
     {
       "surface": "במדבר",
-      "english": "⟨在⟩旷野中"
+      "gloss": "⟨在⟩旷野中"
     },
     {
       "surface": "וינסו",
-      "english": "并试探了"
+      "gloss": "并试探了"
     },
     {
       "surface": "אל",
-      "english": "埃尔"
+      "gloss": "埃尔"
     },
     {
       "surface": "בישימון",
-      "english": "⟨在⟩荒芜之地"
+      "gloss": "⟨在⟩荒芜之地"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:29.163646717Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 74:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64492,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64815
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:07.552374955Z",
   "translation": "求你顾念⟨那⟩布瑞特（约），因为地上的黑暗之处满了暴行的居所。",
   "tokens": [
     {
       "surface": "הבט",
-      "english": "求你顾念"
+      "gloss": "求你顾念"
     },
     {
       "surface": "לברית",
-      "english": "⟨那⟩布瑞特（约）"
+      "gloss": "⟨那⟩布瑞特（约）"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מלאו",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "מחשכי",
-      "english": "黑暗之处"
+      "gloss": "黑暗之处"
     },
     {
       "surface": "ארץ",
-      "english": "地上"
+      "gloss": "地上"
     },
     {
       "surface": "נאות",
-      "english": "居所"
+      "gloss": "居所"
     },
     {
       "surface": "חמס",
-      "english": "暴行"
+      "gloss": "暴行"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:07.552374955Z",
-  "model": "glm-5.2"
+  ]
 }

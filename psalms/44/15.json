@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 44:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64431,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64818
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:11.770014806Z",
   "translation": "你把我们放在万国中作笑谈，在众邦国中作摇头嘲笑的对象。",
   "tokens": [
     {
       "surface": "תשימנו",
-      "english": "你把我们放置"
+      "gloss": "你把我们放置"
     },
     {
       "surface": "משל",
-      "english": "作笑谈"
+      "gloss": "作笑谈"
     },
     {
       "surface": "בגוים",
-      "english": "在万国中"
+      "gloss": "在万国中"
     },
     {
       "surface": "מנוד",
-      "english": "摇头嘲笑"
+      "gloss": "摇头嘲笑"
     },
     {
       "surface": "ראש",
-      "english": "头（的对象）"
+      "gloss": "头（的对象）"
     },
     {
       "surface": "בל",
-      "english": "在众"
+      "gloss": "在众"
     },
     {
       "surface": "אמים",
-      "english": "邦国中"
+      "gloss": "邦国中"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:11.770014806Z",
-  "model": "glm-5.2"
+  ]
 }

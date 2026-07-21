@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "ecclesiastes 3:3",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18906,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19420
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:32.468455056Z",
   "translation": "杀戮的時候，醫治的時候；拆毀的時候，建造的時候；",
   "tokens": [
     {
       "surface": "עֵת",
-      "english": "時候"
+      "gloss": "時候"
     },
     {
       "surface": "לַ\/הֲרוֹג",
-      "english": "殺戮"
+      "gloss": "殺戮"
     },
     {
       "surface": "וְ\/עֵת",
-      "english": "和……的時候"
+      "gloss": "和……的時候"
     },
     {
       "surface": "לִ\/רְפּוֹא",
-      "english": "醫治"
+      "gloss": "醫治"
     },
     {
       "surface": "עֵת",
-      "english": "時候"
+      "gloss": "時候"
     },
     {
       "surface": "לִ\/פְרוֹץ",
-      "english": "拆毀"
+      "gloss": "拆毀"
     },
     {
       "surface": "וְ\/עֵת",
-      "english": "和……的時候"
+      "gloss": "和……的時候"
     },
     {
       "surface": "לִ\/בְנוֹת",
-      "english": "建造"
+      "gloss": "建造"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:32.468455056Z",
-  "model": "glm-5.2"
+  ]
 }

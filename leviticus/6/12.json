@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 6:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 239,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18913,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19152
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:06.649686343Z",
   "translation": "雅威吩咐摩西,说:",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:06.649686343Z",
-  "model": "glm-5.2"
+  ]
 }

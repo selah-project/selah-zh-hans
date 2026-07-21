@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "numbers 33:24",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 309,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19250,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19559
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:22.174651765Z",
   "translation": "他们从示弗山起行,在哈拉大安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מהר",
-      "english": "从……山"
+      "gloss": "从……山"
     },
     {
       "surface": "שפר",
-      "english": "示弗"
+      "gloss": "示弗"
     },
     {
       "surface": "ויחנו",
-      "english": "他们……安营"
+      "gloss": "他们……安营"
     },
     {
       "surface": "בחרדה",
-      "english": "在哈拉大"
+      "gloss": "在哈拉大"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:22.174651765Z",
-  "model": "glm-5.2"
+  ]
 }

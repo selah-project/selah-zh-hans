@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "exodus 18:27",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18443,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18808
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:22:17.973060179Z",
   "translation": "摩西送⟨את⟩他的岳父上路,⟨他⟩往自己的地去了。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "送……上路"
+      "gloss": "送……上路"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的岳父"
     },
     {
       "surface": "חתנו",
-      "english": "他的岳父"
+      "gloss": "他的岳父"
     },
     {
       "surface": "וילך",
-      "english": "⟨他⟩去了"
+      "gloss": "⟨他⟩去了"
     },
     {
       "surface": "לו",
-      "english": "往自己的"
+      "gloss": "往自己的"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ארצו",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T18:22:17.973060179Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 34:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18985,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19545
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:50.973729832Z",
   "translation": "每年三次,你所有的男性都要朝见⟨את⟩以色列的以罗欣、阿多奈雅威的面。",
   "tokens": [
     {
       "surface": "שָׁלֹשׁ",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "פְּעָמִים",
-      "english": "次"
+      "gloss": "次"
     },
     {
       "surface": "בַּ\/שָּׁנָה",
-      "english": "每年"
+      "gloss": "每年"
     },
     {
       "surface": "יֵרָאֶה",
-      "english": "都要朝见"
+      "gloss": "都要朝见"
     },
     {
       "surface": "כָּל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "זְכוּרְ\/ךָ",
-      "english": "你的男性"
+      "gloss": "你的男性"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "面"
     },
     {
       "surface": "פְּנֵי",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "הָֽ\/אָדֹן",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֱלֹהֵי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:50.973729832Z",
-  "model": "glm-5.2"
+  ]
 }

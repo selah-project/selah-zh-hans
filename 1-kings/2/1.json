@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-kings 2:1",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64011,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64373
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:49.060852811Z",
   "translation": "大卫死期临近的日子临近了，他就吩咐他儿子所罗门，说：",
   "tokens": [
     {
       "surface": "ויקרבו",
-      "english": "临近了"
+      "gloss": "临近了"
     },
     {
       "surface": "ימי",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "למות",
-      "english": "死期"
+      "gloss": "死期"
     },
     {
       "surface": "ויצו",
-      "english": "他就吩咐"
+      "gloss": "他就吩咐"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所罗门"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "בנו",
-      "english": "他儿子"
+      "gloss": "他儿子"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     }
-  ],
-  "timestamp": "2026-07-17T20:57:49.060852811Z",
-  "model": "glm-5.2"
+  ]
 }

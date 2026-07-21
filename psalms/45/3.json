@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 45:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64876,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65329
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:35.952119753Z",
   "translation": "你比世人更美，恩惠倾注在你的嘴唇上；因此，以罗欣赐福给你，直到永远。",
   "tokens": [
     {
       "surface": "יפיפית",
-      "english": "你……更美"
+      "gloss": "你……更美"
     },
     {
       "surface": "מבני",
-      "english": "比……的"
+      "gloss": "比……的"
     },
     {
       "surface": "אדם",
-      "english": "世人"
+      "gloss": "世人"
     },
     {
       "surface": "הוצק",
-      "english": "倾注"
+      "gloss": "倾注"
     },
     {
       "surface": "חן",
-      "english": "恩惠"
+      "gloss": "恩惠"
     },
     {
       "surface": "בשפתותיך",
-      "english": "在你的嘴唇上"
+      "gloss": "在你的嘴唇上"
     },
     {
       "surface": "על",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "ברכך",
-      "english": "赐福给你"
+      "gloss": "赐福给你"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:35.952119753Z",
-  "model": "glm-5.2"
+  ]
 }

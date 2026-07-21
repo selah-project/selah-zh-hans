@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 21:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54388,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54776
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:37.669674535Z",
   "translation": "恶人的暴行将他们拖走,因为他们拒绝实行 ⟨מִשְׁפָּט⟩ (公正)。",
   "tokens": [
     {
       "surface": "שד",
-      "english": "暴行"
+      "gloss": "暴行"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "יגורם",
-      "english": "将他们拖走"
+      "gloss": "将他们拖走"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מאנו",
-      "english": "他们拒绝"
+      "gloss": "他们拒绝"
     },
     {
       "surface": "לעשות",
-      "english": "实行"
+      "gloss": "实行"
     },
     {
       "surface": "משפט",
-      "english": "⟨מִשְׁפָּט⟩ (公正)"
+      "gloss": "⟨מִשְׁפָּט⟩ (公正)"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:37.669674535Z",
-  "model": "glm-5.2"
+  ]
 }

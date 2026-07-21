@@ -1,75 +1,64 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "exodus 25:28",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19001,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19601
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:27:47.802211750Z",
   "translation": "你要用皂荚木做杠子,用金子包裹它们,桌子要借⟨着⟩它们⟨被⟩抬 ⟨את⟩ ⟨את⟩ ⟨את⟩。",
   "tokens": [
     {
       "surface": "וְ\/עָשִׂ֤יתָ",
-      "english": "你要做"
+      "gloss": "你要做"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "杠子 (הַ\/בַּדִּים֙)"
     },
     {
       "surface": "הַ\/בַּדִּים֙",
-      "english": "杠子"
+      "gloss": "杠子"
     },
     {
       "surface": "עֲצֵ֣י",
-      "english": "木头"
+      "gloss": "木头"
     },
     {
       "surface": "שִׁטִּ֔ים",
-      "english": "皂荚"
+      "gloss": "皂荚"
     },
     {
       "surface": "וְ\/צִפִּיתָ֥",
-      "english": "你要包裹"
+      "gloss": "你要包裹"
     },
     {
       "surface": "אֹתָ֖\/ם",
-      "english": "⟨את⟩ 它们",
+      "gloss": "⟨את⟩ 它们",
       "marks": "金子 (זָהָ֑ב)"
     },
     {
       "surface": "זָהָ֑ב",
-      "english": "金子"
+      "gloss": "金子"
     },
     {
       "surface": "וְ\/נִשָּׂא",
-      "english": "⟨被⟩抬"
+      "gloss": "⟨被⟩抬"
     },
     {
       "surface": "בָ֖\/ם",
-      "english": "借⟨着⟩它们"
+      "gloss": "借⟨着⟩它们"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "桌子 (הַ\/שֻּׁלְחָֽן)"
     },
     {
       "surface": "הַ\/שֻּׁלְחָֽן",
-      "english": "桌子"
+      "gloss": "桌子"
     }
-  ],
-  "timestamp": "2026-07-17T18:27:47.802211750Z",
-  "model": "glm-5.2"
+  ]
 }

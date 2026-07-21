@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 19:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64840
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:19.937149341Z",
   "translation": "诸天述说⟨着⟩以罗欣的荣耀；穹苍传扬⟨着⟩他手的作为。",
   "tokens": [
     {
       "surface": "השמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "מספרים",
-      "english": "述说着"
+      "gloss": "述说着"
     },
     {
       "surface": "כבוד",
-      "english": "……的荣耀"
+      "gloss": "……的荣耀"
     },
     {
       "surface": "אל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ומעשה",
-      "english": "而……的作为"
+      "gloss": "而……的作为"
     },
     {
       "surface": "ידיו",
-      "english": "他手的"
+      "gloss": "他手的"
     },
     {
       "surface": "מגיד",
-      "english": "传扬着"
+      "gloss": "传扬着"
     },
     {
       "surface": "הרקיע",
-      "english": "穹苍"
+      "gloss": "穹苍"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:19.937149341Z",
-  "model": "glm-5.2"
+  ]
 }

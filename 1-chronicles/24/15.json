@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "1-chronicles 24:15",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 253,
-    "prompt_tokens": 58479,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58732
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:16.574255155Z",
   "translation": "第十七个给希吉尔，第十八个给哈比谢斯，",
   "tokens": [
     {
       "surface": "לחזיר",
-      "english": "给希吉尔"
+      "gloss": "给希吉尔"
     },
     {
       "surface": "שבעה",
-      "english": "第十七个"
+      "gloss": "第十七个"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "להפצץ",
-      "english": "给哈比谢斯"
+      "gloss": "给哈比谢斯"
     },
     {
       "surface": "שמונה",
-      "english": "第十八个"
+      "gloss": "第十八个"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:27:16.574255155Z",
-  "model": "glm-4.5"
+  ]
 }

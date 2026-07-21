@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 21:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64611,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65064
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:03.195069039Z",
   "translation": "他心里的渴望,你赐给了他;他嘴唇的祈求,你没有不给他。细拉。",
   "tokens": [
     {
       "surface": "תאות",
-      "english": "渴望"
+      "gloss": "渴望"
     },
     {
       "surface": "לבו",
-      "english": "他心里的"
+      "gloss": "他心里的"
     },
     {
       "surface": "נתתה",
-      "english": "你赐给了"
+      "gloss": "你赐给了"
     },
     {
       "surface": "לו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "וארשת",
-      "english": "和祈求"
+      "gloss": "和祈求"
     },
     {
       "surface": "שפתיו",
-      "english": "他嘴唇的"
+      "gloss": "他嘴唇的"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "מנעת",
-      "english": "你没有扣留"
+      "gloss": "你没有扣留"
     },
     {
       "surface": "סלה",
-      "english": "细拉"
+      "gloss": "细拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:03.195069039Z",
-  "model": "glm-5.2"
+  ]
 }

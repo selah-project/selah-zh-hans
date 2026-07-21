@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 44:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64811
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:12.040716532Z",
   "translation": "但你遗弃了⟨我们⟩，使我们蒙羞；你并不与我们的万军一同出队。",
   "tokens": [
     {
       "surface": "אף",
-      "english": "但"
+      "gloss": "但"
     },
     {
       "surface": "זנחת",
-      "english": "你遗弃了"
+      "gloss": "你遗弃了"
     },
     {
       "surface": "ותכלימנו",
-      "english": "使我们蒙羞"
+      "gloss": "使我们蒙羞"
     },
     {
       "surface": "ולא",
-      "english": "并不"
+      "gloss": "并不"
     },
     {
       "surface": "תצא",
-      "english": "你出队"
+      "gloss": "你出队"
     },
     {
       "surface": "בצבאותינו",
-      "english": "与我们的万军"
+      "gloss": "与我们的万军"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:12.040716532Z",
-  "model": "glm-5.2"
+  ]
 }

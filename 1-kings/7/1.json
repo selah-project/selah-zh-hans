@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-kings 7:1",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64244,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64588
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:01:44.574657110Z",
   "translation": "而⟨את⟩他的房屋,所罗门建造了十三年,他便完成了⟨את⟩他全部的房屋。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "而⟨את⟩",
+      "gloss": "而⟨את⟩",
       "marks": "他的房屋"
     },
     {
       "surface": "ביתו",
-      "english": "他的房屋"
+      "gloss": "他的房屋"
     },
     {
       "surface": "בנה",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "עשרה",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ויכל",
-      "english": "他便完成了"
+      "gloss": "他便完成了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他全部的房屋"
     },
     {
       "surface": "כל",
-      "english": "全部的"
+      "gloss": "全部的"
     },
     {
       "surface": "ביתו",
-      "english": "他的房屋"
+      "gloss": "他的房屋"
     }
-  ],
-  "timestamp": "2026-07-17T21:01:44.574657110Z",
-  "model": "glm-5.2"
+  ]
 }

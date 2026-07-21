@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 20:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 379,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19225,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19604
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:04.804066917Z",
   "translation": "你们要谨守 ⟨את⟩ 我的律例，并要遵行 ⟨את⟩ 它们；我是 ⟨雅威⟩，使你们分别为圣的。",
   "tokens": [
     {
       "surface": "ושמרתם",
-      "english": "你们要谨守"
+      "gloss": "你们要谨守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的律例"
     },
     {
       "surface": "חקתי",
-      "english": "我的律例"
+      "gloss": "我的律例"
     },
     {
       "surface": "ועשיתם",
-      "english": "并要遵行"
+      "gloss": "并要遵行"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们"
     },
     {
       "surface": "אני",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מקדשכם",
-      "english": "使你们分别为圣的"
+      "gloss": "使你们分别为圣的"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:04.804066917Z",
-  "model": "glm-5.2"
+  ]
 }

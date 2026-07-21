@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "1-kings 8:13",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63885,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64337
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:05.573860402Z",
   "translation": "建立⟨我⟩确实建立了：一所居所，为着你，一处根基，为着你的居住，直到永远。",
   "tokens": [
     {
       "surface": "בנה",
-      "english": "建立"
+      "gloss": "建立"
     },
     {
       "surface": "בניתי",
-      "english": "我确实建立了"
+      "gloss": "我确实建立了"
     },
     {
       "surface": "בית",
-      "english": "一所"
+      "gloss": "一所"
     },
     {
       "surface": "זבל",
-      "english": "居所"
+      "gloss": "居所"
     },
     {
       "surface": "לך",
-      "english": "为着你"
+      "gloss": "为着你"
     },
     {
       "surface": "מכון",
-      "english": "一处根基"
+      "gloss": "一处根基"
     },
     {
       "surface": "לשבתך",
-      "english": "为着你的居住"
+      "gloss": "为着你的居住"
     },
     {
       "surface": "עולמים",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:05.573860402Z",
-  "model": "glm-5.2"
+  ]
 }

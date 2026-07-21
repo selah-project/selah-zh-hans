@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 57:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64893,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65502
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:45.414860417Z",
   "translation": "愿⟨他⟩从诸天差遣,⟨并⟩拯救我;⟨他⟩暴露那吞噬我者的⟨狂⟩热。*细拉*。愿以罗欣差遣⟨他的⟩慈爱与⟨他的⟩信实。",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "愿⟨他⟩差遣"
+      "gloss": "愿⟨他⟩差遣"
     },
     {
       "surface": "משמים",
-      "english": "从诸天"
+      "gloss": "从诸天"
     },
     {
       "surface": "ויושיעני",
-      "english": "⟨并⟩拯救我"
+      "gloss": "⟨并⟩拯救我"
     },
     {
       "surface": "חרף",
-      "english": "⟨他⟩暴露……的⟨狂⟩热"
+      "gloss": "⟨他⟩暴露……的⟨狂⟩热"
     },
     {
       "surface": "שאפי",
-      "english": "那吞噬我者"
+      "gloss": "那吞噬我者"
     },
     {
       "surface": "סלה",
-      "english": "*细拉*"
+      "gloss": "*细拉*"
     },
     {
       "surface": "ישלח",
-      "english": "愿……差遣"
+      "gloss": "愿……差遣"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "חסדו",
-      "english": "⟨他的⟩慈爱"
+      "gloss": "⟨他的⟩慈爱"
     },
     {
       "surface": "ואמתו",
-      "english": "与⟨他的⟩信实"
+      "gloss": "与⟨他的⟩信实"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:45.414860417Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "genesis 36:28",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 211,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22585,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22796
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:26.852875383Z",
   "translation": "这些⟨是⟩底珊的儿子:乌斯和亚兰。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "的儿子"
+      "gloss": "的儿子"
     },
     {
       "surface": "דישן",
-      "english": "底珊"
+      "gloss": "底珊"
     },
     {
       "surface": "עוץ",
-      "english": "乌斯"
+      "gloss": "乌斯"
     },
     {
       "surface": "וארן",
-      "english": "和亚兰"
+      "gloss": "和亚兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:26.852875383Z",
-  "model": "glm-5.2"
+  ]
 }

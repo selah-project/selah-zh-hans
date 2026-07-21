@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "exodus 9:11",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18987,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19549
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:15:25.939755510Z",
   "translation": "术士们不能站在摩西面前,因为⟨有⟩疮;因为疮⟨临到⟩术士们身上,也在全埃及地。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יכלו",
-      "english": "⟨他们⟩能够"
+      "gloss": "⟨他们⟩能够"
     },
     {
       "surface": "החרטמים",
-      "english": "术士们"
+      "gloss": "术士们"
     },
     {
       "surface": "לעמד",
-      "english": "站"
+      "gloss": "站"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "מפני",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "השחין",
-      "english": "疮"
+      "gloss": "疮"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "היה",
-      "english": "⟨临到⟩"
+      "gloss": "⟨临到⟩"
     },
     {
       "surface": "השחין",
-      "english": "疮"
+      "gloss": "疮"
     },
     {
       "surface": "בחרטמם",
-      "english": "在术士们身上"
+      "gloss": "在术士们身上"
     },
     {
       "surface": "ובכל",
-      "english": "也在全部"
+      "gloss": "也在全部"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:15:25.939755510Z",
-  "model": "glm-5.2"
+  ]
 }

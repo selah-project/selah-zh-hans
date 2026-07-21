@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 23:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19409,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19820
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:51.005081099Z",
   "translation": "在⟨這⟩月的十五日⟨是⟩雅威的除酵節；七天你們要吃無酵餅。",
   "tokens": [
     {
       "surface": "ובחמשה",
-      "english": "和在……五"
+      "gloss": "和在……五"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "יום",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "לחדש",
-      "english": "屬於月"
+      "gloss": "屬於月"
     },
     {
       "surface": "הזה",
-      "english": "這"
+      "gloss": "這"
     },
     {
       "surface": "חג",
-      "english": "節"
+      "gloss": "節"
     },
     {
       "surface": "המצות",
-      "english": "除酵（餅）的"
+      "gloss": "除酵（餅）的"
     },
     {
       "surface": "ליהוה",
-      "english": "屬於雅威"
+      "gloss": "屬於雅威"
     },
     {
       "surface": "שבעת",
-      "english": "……的七"
+      "gloss": "……的七"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "מצות",
-      "english": "無酵餅"
+      "gloss": "無酵餅"
     },
     {
       "surface": "תאכלו",
-      "english": "你們要吃"
+      "gloss": "你們要吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:51.005081099Z",
-  "model": "glm-5.2"
+  ]
 }

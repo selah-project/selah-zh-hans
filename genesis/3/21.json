@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "genesis 3:21",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22933,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23338
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:45.219492163Z",
   "translation": "雅威以罗欣为亚当和他的妻子制作了皮衣，给他们穿上。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "制作了"
+      "gloss": "制作了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "לאדם",
-      "english": "为亚当"
+      "gloss": "为亚当"
     },
     {
       "surface": "ולאשתו",
-      "english": "和他的妻子"
+      "gloss": "和他的妻子"
     },
     {
       "surface": "כתנות",
-      "english": "衣服"
+      "gloss": "衣服"
     },
     {
       "surface": "עור",
-      "english": "皮的"
+      "gloss": "皮的"
     },
     {
       "surface": "וילבשם",
-      "english": "给他们穿上"
+      "gloss": "给他们穿上"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:45.219492163Z",
-  "model": "glm-5.2"
+  ]
 }

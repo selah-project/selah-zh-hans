@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 27:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20311,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20791
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:20:12.110381574Z",
   "translation": "你要对以色列的子众说话,说:人若死,⟨而⟩他没有子,你们就要把⟨את⟩他的产业转给他的女儿。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "你要对……"
+      "gloss": "你要对……"
     },
     {
       "surface": "בני",
-      "english": "的子众"
+      "gloss": "的子众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "תדבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "כי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "ימות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "ובן",
-      "english": "⟨而⟩他没有子"
+      "gloss": "⟨而⟩他没有子"
     },
     {
       "surface": "אין",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "והעברתם",
-      "english": "你们就要转"
+      "gloss": "你们就要转"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的产业"
     },
     {
       "surface": "נחלתו",
-      "english": "他的产业"
+      "gloss": "他的产业"
     },
     {
       "surface": "לבתו",
-      "english": "给他的女儿"
+      "gloss": "给他的女儿"
     }
-  ],
-  "timestamp": "2026-07-17T19:20:12.110381574Z",
-  "model": "glm-5.2"
+  ]
 }

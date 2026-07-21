@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ezra 10:7",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46669,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47107
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:01.339679041Z",
   "translation": "他们使声音传遍犹大和耶路撒冷,给被掳之人的所有儿子,⟨以⟩聚集⟨在⟩耶路撒冷。",
   "tokens": [
     {
       "surface": "ויעבירו",
-      "english": "他们使……传遍"
+      "gloss": "他们使……传遍"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "ביהודה",
-      "english": "在犹大"
+      "gloss": "在犹大"
     },
     {
       "surface": "וירושלם",
-      "english": "和耶路撒冷"
+      "gloss": "和耶路撒冷"
     },
     {
       "surface": "לכל",
-      "english": "给……所有"
+      "gloss": "给……所有"
     },
     {
       "surface": "בני",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "הגולה",
-      "english": "被掳之人的"
+      "gloss": "被掳之人的"
     },
     {
       "surface": "להקבץ",
-      "english": "⟨以⟩聚集"
+      "gloss": "⟨以⟩聚集"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:01.339679041Z",
-  "model": "glm-5.2"
+  ]
 }

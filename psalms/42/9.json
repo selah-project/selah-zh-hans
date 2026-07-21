@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 42:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 634,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64740,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65374
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:37.467864380Z",
   "translation": "白日雅威必赐下⟨他的⟩חֶסֶד (חַסְדֹּו)，黑夜⟨他的⟩*shirá* (歌曲) 与我同在，向着我生命的以罗欣⟨献上⟩*tefilá* (祈祷)。",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "白日"
+      "gloss": "白日"
     },
     {
       "surface": "יצוה",
-      "english": "雅威必赐下"
+      "gloss": "雅威必赐下"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "חסדו",
-      "english": "⟨他的⟩חֶסֶד (חַסְדֹּו)"
+      "gloss": "⟨他的⟩חֶסֶד (חַסְדֹּו)"
     },
     {
       "surface": "ובלילה",
-      "english": "黑夜"
+      "gloss": "黑夜"
     },
     {
       "surface": "שירה",
-      "english": "⟨他的⟩*shirá* (歌曲)"
+      "gloss": "⟨他的⟩*shirá* (歌曲)"
     },
     {
       "surface": "עמי",
-      "english": "与我同在"
+      "gloss": "与我同在"
     },
     {
       "surface": "תפלה",
-      "english": "*tefilá* (祈祷)"
+      "gloss": "*tefilá* (祈祷)"
     },
     {
       "surface": "לאל",
-      "english": "向以罗欣"
+      "gloss": "向以罗欣"
     },
     {
       "surface": "חיי",
-      "english": "我生命的"
+      "gloss": "我生命的"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:37.467864380Z",
-  "model": "glm-5.2"
+  ]
 }

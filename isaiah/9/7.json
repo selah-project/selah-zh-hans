@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 9:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20698,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21177
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:42.171623123Z",
   "translation": "一句话,阿多奈差入雅各;⟨它⟩落在以色列身上。",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "一句话"
+      "gloss": "一句话"
     },
     {
       "surface": "שלח",
-      "english": "差"
+      "gloss": "差"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "ביעקב",
-      "english": "入雅各"
+      "gloss": "入雅各"
     },
     {
       "surface": "ונפל",
-      "english": "⟨它⟩落在"
+      "gloss": "⟨它⟩落在"
     },
     {
       "surface": "בישראל",
-      "english": "以色列身上"
+      "gloss": "以色列身上"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:42.171623123Z",
-  "model": "glm-5.2"
+  ]
 }

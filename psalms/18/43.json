@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "psalms 18:43",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64588,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65010
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:09.496027292Z",
   "translation": "我碾碎他们如风前的尘土，⟨如同⟩街上的泥土，我倾倒他们。",
   "tokens": [
     {
       "surface": "ואשחקם",
-      "english": "我碾碎他们"
+      "gloss": "我碾碎他们"
     },
     {
       "surface": "כעפר",
-      "english": "如尘土"
+      "gloss": "如尘土"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פני",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "רוח",
-      "english": "风"
+      "gloss": "风"
     },
     {
       "surface": "כטיט",
-      "english": "如泥土"
+      "gloss": "如泥土"
     },
     {
       "surface": "חוצות",
-      "english": "街上的"
+      "gloss": "街上的"
     },
     {
       "surface": "אריקם",
-      "english": "我倾倒他们"
+      "gloss": "我倾倒他们"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:09.496027292Z",
-  "model": "glm-5.2"
+  ]
 }

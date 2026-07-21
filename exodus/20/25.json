@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 20:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 556,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19183,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19739
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:52.169698301Z",
   "translation": "如果你为我造石坛,不可用凿成的石头建造它;因为你若在上面挥动你的刀剑,就亵渎了它。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "מזבח",
-      "english": "坛"
+      "gloss": "坛"
     },
     {
       "surface": "אבנים",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "תעשה",
-      "english": "你造"
+      "gloss": "你造"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תבנה",
-      "english": "你建造"
+      "gloss": "你建造"
     },
     {
       "surface": "אתהן",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "凿成的石头"
     },
     {
       "surface": "גזית",
-      "english": "凿成的石头"
+      "gloss": "凿成的石头"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חרבך",
-      "english": "你的刀剑"
+      "gloss": "你的刀剑"
     },
     {
       "surface": "הנפת",
-      "english": "你挥动"
+      "gloss": "你挥动"
     },
     {
       "surface": "עליה",
-      "english": "在它上面"
+      "gloss": "在它上面"
     },
     {
       "surface": "ותחללה",
-      "english": "就亵渎了它"
+      "gloss": "就亵渎了它"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:52.169698301Z",
-  "model": "glm-5.2"
+  ]
 }

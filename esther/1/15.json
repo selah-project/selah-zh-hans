@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "esther 1:15",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 884,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20085,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20969
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:24:07.074953590Z",
   "translation": "按 ⟨הַ\/מַּלְכָּ֖ה (王后) וַשְׁתִּ֑י (瓦实提) 的法则⟩，⟨该⟩对瓦实提王后做什么？因为她没有遵行 אֲחַשְׁוֵר֔וֹשׁ (亚哈随鲁) 王的话 ⟨את⟩，⟨这话⟩是借הַ\/סָּרִיסִֽים (太监) 的手 ⟨传达的⟩。",
   "tokens": [
     {
       "surface": "כְּ\/דָת֙",
-      "english": "按……的法则"
+      "gloss": "按……的法则"
     },
     {
       "surface": "מַֽה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "לַּ\/עֲשׂ֔וֹת",
-      "english": "做"
+      "gloss": "做"
     },
     {
       "surface": "בַּ\/מַּלְכָּ֖ה",
-      "english": "在王后身上"
+      "gloss": "在王后身上"
     },
     {
       "surface": "וַשְׁתִּ֑י",
-      "english": "瓦实提"
+      "gloss": "瓦实提"
     },
     {
       "surface": "עַ֣ל",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֲשֶׁ֣ר",
-      "english": "（关系词）"
+      "gloss": "（关系词）"
     },
     {
       "surface": "לֹֽא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עָשְׂתָ֗ה",
-      "english": "她遵行了"
+      "gloss": "她遵行了"
     },
     {
       "surface": "אֶֽת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "王的话（מַאֲמַר）"
     },
     {
       "surface": "מַאֲמַר֙",
-      "english": "话（王的旨意）"
+      "gloss": "话（王的旨意）"
     },
     {
       "surface": "הַ\/מֶּ֣לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אֲחַשְׁוֵר֔וֹשׁ",
-      "english": "亚哈随鲁"
+      "gloss": "亚哈随鲁"
     },
     {
       "surface": "בְּ\/יַ֖ד",
-      "english": "借……的手"
+      "gloss": "借……的手"
     },
     {
       "surface": "הַ\/סָּרִיסִֽים",
-      "english": "太监们"
+      "gloss": "太监们"
     }
-  ],
-  "timestamp": "2026-07-18T01:24:07.074953590Z",
-  "model": "glm-5.2"
+  ]
 }

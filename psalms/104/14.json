@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 104:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64687,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65140
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:05.271313137Z",
   "translation": "⟨他⟩使青草为牲畜长出，又为人的服侍⟨造出⟩菜蔬，为要从地⟨里⟩带出食物来，",
   "tokens": [
     {
       "surface": "מצמיח",
-      "english": "使……长出"
+      "gloss": "使……长出"
     },
     {
       "surface": "חציר",
-      "english": "青草"
+      "gloss": "青草"
     },
     {
       "surface": "לבהמה",
-      "english": "为牲畜"
+      "gloss": "为牲畜"
     },
     {
       "surface": "ועשב",
-      "english": "又菜蔬"
+      "gloss": "又菜蔬"
     },
     {
       "surface": "לעבדת",
-      "english": "为……的服侍"
+      "gloss": "为……的服侍"
     },
     {
       "surface": "האדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "להוציא",
-      "english": "为要带出"
+      "gloss": "为要带出"
     },
     {
       "surface": "לחם",
-      "english": "食物"
+      "gloss": "食物"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:05.271313137Z",
-  "model": "glm-5.2"
+  ]
 }

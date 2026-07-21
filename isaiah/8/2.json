@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 8:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 503,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21118,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21621
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:03.578878764Z",
   "translation": "我要为自己取信实的见证人：⟨את⟩ 祭司乌利亚，和⟨את⟩ 耶比利家的儿子撒迦利亚。",
   "tokens": [
     {
       "surface": "ואעידה",
-      "english": "我要为自己取"
+      "gloss": "我要为自己取"
     },
     {
       "surface": "לי",
-      "english": "为自己"
+      "gloss": "为自己"
     },
     {
       "surface": "עדים",
-      "english": "见证人"
+      "gloss": "见证人"
     },
     {
       "surface": "נאמנים",
-      "english": "信实的"
+      "gloss": "信实的"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "祭司乌利亚"
     },
     {
       "surface": "אוריה",
-      "english": "乌利亚"
+      "gloss": "乌利亚"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "耶比利家的儿子撒迦利亚"
     },
     {
       "surface": "זכריהו",
-      "english": "撒迦利亚"
+      "gloss": "撒迦利亚"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "יברכיהו",
-      "english": "耶比利家"
+      "gloss": "耶比利家"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:03.578878764Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-kings 15:11",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18749,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19197
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:27:17.350473741Z",
   "translation": "至于撒迦利亚其余的事，看哪，它们写在《以色列诸王*事迹书》上。",
   "tokens": [
     {
       "surface": "ויתר",
-      "english": "至于……其余的"
+      "gloss": "至于……其余的"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（事迹）"
+      "gloss": "*davar*（事迹）"
     },
     {
       "surface": "זכריה",
-      "english": "撒迦利亚的"
+      "gloss": "撒迦利亚的"
     },
     {
       "surface": "הנם",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "כתובים",
-      "english": "它们被写"
+      "gloss": "它们被写"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ספר",
-      "english": "《……书》"
+      "gloss": "《……书》"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（事迹）"
+      "gloss": "*davar*（事迹）"
     },
     {
       "surface": "הימים",
-      "english": "《日子的"
+      "gloss": "《日子的"
     },
     {
       "surface": "למלכי",
-      "english": "诸王"
+      "gloss": "诸王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T21:27:17.350473741Z",
-  "model": "glm-5.2"
+  ]
 }

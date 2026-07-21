@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "job 30:29",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21399,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21862
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:38.930285029Z",
   "translation": "我成了תַנִּים (tanním) 的兄弟,成了יעֲנָה 之女们的同伴。",
   "tokens": [
     {
       "surface": "אח",
-      "english": "兄弟"
+      "gloss": "兄弟"
     },
     {
       "surface": "הייתי",
-      "english": "我曾是 \/ 我成了"
+      "gloss": "我曾是 \/ 我成了"
     },
     {
       "surface": "לתנים",
-      "english": "给 *tanním* (野兽\/豺狼)"
+      "gloss": "给 *tanním* (野兽\/豺狼)"
     },
     {
       "surface": "ורע",
-      "english": "和同伴"
+      "gloss": "和同伴"
     },
     {
       "surface": "לבנות",
-      "english": "给……之女们"
+      "gloss": "给……之女们"
     },
     {
       "surface": "יענה",
-      "english": "*y'aná* (鸵鸟)"
+      "gloss": "*y'aná* (鸵鸟)"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:38.930285029Z",
-  "model": "glm-5.2"
+  ]
 }

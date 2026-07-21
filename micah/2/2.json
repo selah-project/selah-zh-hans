@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "micah 2:2",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17606,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18004
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:59.807143253Z",
   "translation": "他们贪图田地,就抢夺;房屋,就夺取;他们欺压人和⟨他的⟩房屋,以及人和⟨他的⟩产业。",
   "tokens": [
     {
       "surface": "וחמדו",
-      "english": "他们贪图"
+      "gloss": "他们贪图"
     },
     {
       "surface": "שדות",
-      "english": "田地"
+      "gloss": "田地"
     },
     {
       "surface": "וגזלו",
-      "english": "就抢夺"
+      "gloss": "就抢夺"
     },
     {
       "surface": "ובתים",
-      "english": "房屋"
+      "gloss": "房屋"
     },
     {
       "surface": "ונשאו",
-      "english": "就夺取"
+      "gloss": "就夺取"
     },
     {
       "surface": "ועשקו",
-      "english": "他们欺压"
+      "gloss": "他们欺压"
     },
     {
       "surface": "גבר",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "וביתו",
-      "english": "和⟨他的⟩房屋"
+      "gloss": "和⟨他的⟩房屋"
     },
     {
       "surface": "ואיש",
-      "english": "以及人"
+      "gloss": "以及人"
     },
     {
       "surface": "ונחלתו",
-      "english": "和⟨他的⟩产业"
+      "gloss": "和⟨他的⟩产业"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:59.807143253Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "ezekiel 36:9",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18923,
-    "prompt_tokens_details": {
-      "cached_tokens": 18880
-    },
-    "total_tokens": 19473
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:02:14.999926510Z",
   "translation": "因为看哪,我向⟨着⟩你们,我已转向⟨着⟩你们,你们⟨将⟩被耕作,⟨将⟩被播种。",
   "tokens": [
     {
       "surface": "כִּ֖י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הִנְ\/נִ֣י",
-      "english": "看哪,我在这里"
+      "gloss": "看哪,我在这里"
     },
     {
       "surface": "אֲלֵי\/כֶ֑ם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "וּ\/פָנִ֣יתִי",
-      "english": "我已转向"
+      "gloss": "我已转向"
     },
     {
       "surface": "אֲלֵי\/כֶ֔ם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "וְ\/נֶעֱבַדְתֶּ֖ם",
-      "english": "你们⟨将⟩被耕作"
+      "gloss": "你们⟨将⟩被耕作"
     },
     {
       "surface": "וְ\/נִזְרַעְתֶּֽם",
-      "english": "⟨将⟩被播种"
+      "gloss": "⟨将⟩被播种"
     }
-  ],
-  "timestamp": "2026-07-17T23:02:14.999926510Z",
-  "model": "glm-5.2"
+  ]
 }

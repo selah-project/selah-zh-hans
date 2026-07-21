@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ezekiel 35:7",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19203,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19570
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:01:47.524144068Z",
   "translation": "我将使⟨את⟩西珥山成为荒场与荒凉，我必从其中剪除过往与返回之人。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "我将使"
+      "gloss": "我将使"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "西珥山"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "שעיר",
-      "english": "西珥"
+      "gloss": "西珥"
     },
     {
       "surface": "לשממה",
-      "english": "成为荒场"
+      "gloss": "成为荒场"
     },
     {
       "surface": "ושממה",
-      "english": "与荒凉"
+      "gloss": "与荒凉"
     },
     {
       "surface": "והכרתי",
-      "english": "我必剪除"
+      "gloss": "我必剪除"
     },
     {
       "surface": "ממנו",
-      "english": "从其中"
+      "gloss": "从其中"
     },
     {
       "surface": "עבר",
-      "english": "过往之人"
+      "gloss": "过往之人"
     },
     {
       "surface": "ושב",
-      "english": "与返回之人"
+      "gloss": "与返回之人"
     }
-  ],
-  "timestamp": "2026-07-17T23:01:47.524144068Z",
-  "model": "glm-5.2"
+  ]
 }

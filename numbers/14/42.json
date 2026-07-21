@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "numbers 14:42",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19785,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20208
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:06.186787175Z",
   "translation": "不要上去,因为雅威不在你们中间,你们也不要在你们的仇敌面前⟨被击溃⟩。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעלו",
-      "english": "你们上去"
+      "gloss": "你们上去"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אין",
-      "english": "不在"
+      "gloss": "不在"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בקרבכם",
-      "english": "在你们中间"
+      "gloss": "在你们中间"
     },
     {
       "surface": "ולא",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "תנגפו",
-      "english": "⟨被击溃⟩"
+      "gloss": "⟨被击溃⟩"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "איביכם",
-      "english": "你们的仇敌"
+      "gloss": "你们的仇敌"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:06.186787175Z",
-  "model": "glm-5.2"
+  ]
 }

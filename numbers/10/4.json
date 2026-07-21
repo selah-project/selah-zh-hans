@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "numbers 10:4",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19735,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20179
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:46.060171623Z",
   "translation": "但如果只吹一次,首领们 —— 以色列千人的首长 —— 就要聚集到你这里。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "但如果"
+      "gloss": "但如果"
     },
     {
       "surface": "באחת",
-      "english": "只一次"
+      "gloss": "只一次"
     },
     {
       "surface": "יתקעו",
-      "english": "他们吹"
+      "gloss": "他们吹"
     },
     {
       "surface": "ונועדו",
-      "english": "他们就要聚集"
+      "gloss": "他们就要聚集"
     },
     {
       "surface": "אליך",
-      "english": "到你这里"
+      "gloss": "到你这里"
     },
     {
       "surface": "הנשיאים",
-      "english": "首领们"
+      "gloss": "首领们"
     },
     {
       "surface": "ראשי",
-      "english": "……的首长"
+      "gloss": "……的首长"
     },
     {
       "surface": "אלפי",
-      "english": "千人"
+      "gloss": "千人"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:46.060171623Z",
-  "model": "glm-5.2"
+  ]
 }

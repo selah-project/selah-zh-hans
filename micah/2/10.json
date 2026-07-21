@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "micah 2:10",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17636,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18088
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:25:00.527472100Z",
   "translation": "起来！走吧！因为这不是那安息之处;由于它被污染,⟨它⟩必将抵押,⟨是的,⟩抵押猛烈。",
   "tokens": [
     {
       "surface": "קומו",
-      "english": "起来！"
+      "gloss": "起来！"
     },
     {
       "surface": "ולכו",
-      "english": "走吧！"
+      "gloss": "走吧！"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "המנוחה",
-      "english": "⟨是⟩那安息之处"
+      "gloss": "⟨是⟩那安息之处"
     },
     {
       "surface": "בעבור",
-      "english": "由于"
+      "gloss": "由于"
     },
     {
       "surface": "טמאה",
-      "english": "被污染"
+      "gloss": "被污染"
     },
     {
       "surface": "תחבל",
-      "english": "⟨它⟩必将抵押"
+      "gloss": "⟨它⟩必将抵押"
     },
     {
       "surface": "וחבל",
-      "english": "⟨是的,⟩抵押"
+      "gloss": "⟨是的,⟩抵押"
     },
     {
       "surface": "נמרץ",
-      "english": "猛烈"
+      "gloss": "猛烈"
     }
-  ],
-  "timestamp": "2026-07-17T23:25:00.527472100Z",
-  "model": "glm-5.2"
+  ]
 }

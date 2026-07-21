@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "jonah 4:4",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20799,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21195
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:17.206928035Z",
   "translation": "雅威说:你发怒,⟨这⟩对⟨你⟩好吗?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ההיטב",
-      "english": "好吗"
+      "gloss": "好吗"
     },
     {
       "surface": "חרה",
-      "english": "发怒"
+      "gloss": "发怒"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:17.206928035Z",
-  "model": "glm-5.2"
+  ]
 }

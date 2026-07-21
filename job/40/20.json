@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 40:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21763,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22169
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:28.762779983Z",
   "translation": "因为群山的出产⟨被⟩举起来给⟨他⟩,田野的一切活物在那里玩耍。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בול",
-      "english": "出产"
+      "gloss": "出产"
     },
     {
       "surface": "הרים",
-      "english": "群山的"
+      "gloss": "群山的"
     },
     {
       "surface": "ישאו",
-      "english": "⟨被⟩举起来"
+      "gloss": "⟨被⟩举起来"
     },
     {
       "surface": "לו",
-      "english": "给⟨他⟩"
+      "gloss": "给⟨他⟩"
     },
     {
       "surface": "וכל",
-      "english": "和一切"
+      "gloss": "和一切"
     },
     {
       "surface": "חית",
-      "english": "活物"
+      "gloss": "活物"
     },
     {
       "surface": "השדה",
-      "english": "田野的"
+      "gloss": "田野的"
     },
     {
       "surface": "ישחקו",
-      "english": "玩耍"
+      "gloss": "玩耍"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:28.762779983Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 30:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54446,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54977
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:41.720387704Z",
   "translation": "两件事我向⟨你⟩求：在我死以先，不要向我扣留。",
   "tokens": [
     {
       "surface": "שְׁתַּיִם",
-      "english": "两件事"
+      "gloss": "两件事"
     },
     {
       "surface": "שָׁאַלְתִּי",
-      "english": "我求"
+      "gloss": "我求"
     },
     {
       "surface": "מֵ\/אִתָּ֑\/ךְ",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     },
     {
       "surface": "אַל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תִּמְנַ֥ע",
-      "english": "扣留"
+      "gloss": "扣留"
     },
     {
       "surface": "מִ֝מֶּ֗\/נִּי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "בְּ\/טֶ֣רֶם",
-      "english": "在……以先"
+      "gloss": "在……以先"
     },
     {
       "surface": "אָמֽוּת",
-      "english": "我死"
+      "gloss": "我死"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:41.720387704Z",
-  "model": "glm-5.2"
+  ]
 }

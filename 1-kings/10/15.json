@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-kings 10:15",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 782,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64103,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64885
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:05:47.410642164Z",
   "translation": "除了来自征税人 ⟨וּמִסְחַר⟩ הַ\/תָּרִ֔ים (巡迴商人) 的貿易和商人（רֹכְלִים）的收入，以及阿拉伯（הָ\/עֶ֖רֶב）衆王和全地（הָ\/אָֽרֶץ）的省長（פַח֥וֹת）⟨所帶來的⟩之外；",
   "tokens": [
     {
       "surface": "לְ\/בַד֙",
-      "english": "除了……之外"
+      "gloss": "除了……之外"
     },
     {
       "surface": "מֵ\/אַנְשֵׁ֣י",
-      "english": "來自"
+      "gloss": "來自"
     },
     {
       "surface": "הַ\/תָּרִ֔ים",
-      "english": "巡迴商人"
+      "gloss": "巡迴商人"
     },
     {
       "surface": "וּ\/מִסְחַ֖ר",
-      "english": "和貿易"
+      "gloss": "和貿易"
     },
     {
       "surface": "הָ\/רֹכְלִ֑ים",
-      "english": "商人"
+      "gloss": "商人"
     },
     {
       "surface": "וְ\/כָל",
-      "english": "和所有"
+      "gloss": "和所有"
     },
     {
       "surface": "מַלְכֵ֥י",
-      "english": "……的君王"
+      "gloss": "……的君王"
     },
     {
       "surface": "הָ\/עֶ֖רֶב",
-      "english": "阿拉伯"
+      "gloss": "阿拉伯"
     },
     {
       "surface": "וּ\/פַח֥וֹת",
-      "english": "和省長"
+      "gloss": "和省長"
     },
     {
       "surface": "הָ\/אָֽרֶץ",
-      "english": "那地"
+      "gloss": "那地"
     }
-  ],
-  "timestamp": "2026-07-17T21:05:47.410642164Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-chronicles 13:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 236,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59731,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59967
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:20:51.806337711Z",
   "translation": "在雅罗波安王⟨的⟩第十八年，亚比雅开始统治犹大。",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "在⟨的⟩……年"
+      "gloss": "在⟨的⟩……年"
     },
     {
       "surface": "שמונה",
-      "english": "八"
+      "gloss": "八"
     },
     {
       "surface": "עשרה",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "למלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ירבעם",
-      "english": "雅罗波安"
+      "gloss": "雅罗波安"
     },
     {
       "surface": "וימלך",
-      "english": "开始统治"
+      "gloss": "开始统治"
     },
     {
       "surface": "אביה",
-      "english": "亚比雅"
+      "gloss": "亚比雅"
     },
     {
       "surface": "על",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-18T02:20:51.806337711Z",
-  "model": "glm-5.2"
+  ]
 }

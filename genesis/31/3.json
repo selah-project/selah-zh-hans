@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "genesis 31:3",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23208,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23644
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:28.132837081Z",
   "translation": "雅威对雅各说：你要回到你祖先的土地、到你⟨的⟩亲属那里去,我必与你同在。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "שוב",
-      "english": "你要回"
+      "gloss": "你要回"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ארץ",
-      "english": "土地"
+      "gloss": "土地"
     },
     {
       "surface": "אבותיך",
-      "english": "你祖先的"
+      "gloss": "你祖先的"
     },
     {
       "surface": "ולמולדתך",
-      "english": "和你⟨的⟩亲属那里"
+      "gloss": "和你⟨的⟩亲属那里"
     },
     {
       "surface": "ואהיה",
-      "english": "我必"
+      "gloss": "我必"
     },
     {
       "surface": "עמך",
-      "english": "与你同在"
+      "gloss": "与你同在"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:28.132837081Z",
-  "model": "glm-5.2"
+  ]
 }

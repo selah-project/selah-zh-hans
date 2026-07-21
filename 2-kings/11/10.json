@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-kings 11:10",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19086,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19622
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:24:54.884407330Z",
   "translation": "祭司将大卫王的枪和盾牌，就是⟨那⟩在雅威殿中的，赐给百夫长们，⟨את⟩ ⟨那⟩枪并⟨את⟩ ⟨那⟩盾牌。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "将……赐给"
+      "gloss": "将……赐给"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "לשרי",
-      "english": "给……的长官"
+      "gloss": "给……的长官"
     },
     {
       "surface": "המאיות",
-      "english": "百夫长们"
+      "gloss": "百夫长们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那枪"
     },
     {
       "surface": "החנית",
-      "english": "那枪"
+      "gloss": "那枪"
     },
     {
       "surface": "ואת",
-      "english": "并⟨את⟩",
+      "gloss": "并⟨את⟩",
       "marks": "那盾牌"
     },
     {
       "surface": "השלטים",
-      "english": "那盾牌"
+      "gloss": "那盾牌"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "למלך",
-      "english": "王的"
+      "gloss": "王的"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אשר",
-      "english": "就是⟨那⟩在"
+      "gloss": "就是⟨那⟩在"
     },
     {
       "surface": "בבית",
-      "english": "殿中的"
+      "gloss": "殿中的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T21:24:54.884407330Z",
-  "model": "glm-5.2"
+  ]
 }

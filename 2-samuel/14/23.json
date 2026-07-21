@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "2-samuel 14:23",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18973,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19336
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:51:58.929011456Z",
   "translation": "约押就起来,往基述去,将⟨את⟩押沙龙带回耶路撒冷。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "就起来"
+      "gloss": "就起来"
     },
     {
       "surface": "יואב",
-      "english": "约押"
+      "gloss": "约押"
     },
     {
       "surface": "וילך",
-      "english": "往……去"
+      "gloss": "往……去"
     },
     {
       "surface": "גשורה",
-      "english": "基述"
+      "gloss": "基述"
     },
     {
       "surface": "ויבא",
-      "english": "将……带回"
+      "gloss": "将……带回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "押沙龙"
     },
     {
       "surface": "אבשלום",
-      "english": "押沙龙"
+      "gloss": "押沙龙"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T02:51:58.929011456Z",
-  "model": "glm-5.2"
+  ]
 }

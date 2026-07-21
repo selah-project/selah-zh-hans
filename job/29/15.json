@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 29:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21486,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21809
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:54.447345586Z",
   "translation": "我 ⟨是⟩ 瞎子的眼睛，⟨也⟩ ⟨是⟩ 瘸子的脚——我。",
   "tokens": [
     {
       "surface": "עינים",
-      "english": "眼睛"
+      "gloss": "眼睛"
     },
     {
       "surface": "הייתי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "לעור",
-      "english": "给瞎子的"
+      "gloss": "给瞎子的"
     },
     {
       "surface": "ורגלים",
-      "english": "和脚"
+      "gloss": "和脚"
     },
     {
       "surface": "לפסח",
-      "english": "给瘸子的"
+      "gloss": "给瘸子的"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:54.447345586Z",
-  "model": "glm-5.2"
+  ]
 }

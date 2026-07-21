@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 86:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64917,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65361
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:56.375640335Z",
   "translation": "求你向我施行⟨את⟩一个记号,为了益处;让恨我的人看见,就⟨蒙羞⟩,因为──你,雅威,帮助了我,你安慰了我。",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "求你施行"
+      "gloss": "求你施行"
     },
     {
       "surface": "עמי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "אות",
-      "english": "⟨את⟩"
+      "gloss": "⟨את⟩"
     },
     {
       "surface": "לטובה",
-      "english": "一个记号"
+      "gloss": "一个记号"
     },
     {
       "surface": "ויראו",
-      "english": "为了益处"
+      "gloss": "为了益处"
     },
     {
       "surface": "שנאי",
-      "english": "让恨我的人"
+      "gloss": "让恨我的人"
     },
     {
       "surface": "ויבשו",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "כי",
-      "english": "就"
+      "gloss": "就"
     },
     {
       "surface": "אתה",
-      "english": "⟨蒙羞⟩"
+      "gloss": "⟨蒙羞⟩"
     },
     {
       "surface": "יהוה",
-      "english": "因为──你"
+      "gloss": "因为──你"
     },
     {
       "surface": "עזרתני",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ונחמתני",
-      "english": "帮助了我"
+      "gloss": "帮助了我"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:56.375640335Z",
-  "model": "glm-5.2"
+  ]
 }

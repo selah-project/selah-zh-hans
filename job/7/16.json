@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 7:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21761,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22203
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:52.493050987Z",
   "translation": "我厌弃 ⟨它⟩ —— 直到永远我 ⟨也⟩ 不 ⟨愿⟩ 活; ⟨从我身上⟩ 停止 ⟨吧⟩,因为我的日子 ⟨不过是⟩ 虚空。",
   "tokens": [
     {
       "surface": "מאסתי",
-      "english": "我厌弃"
+      "gloss": "我厌弃"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "לעלם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "אחיה",
-      "english": "我活"
+      "gloss": "我活"
     },
     {
       "surface": "חדל",
-      "english": "停止"
+      "gloss": "停止"
     },
     {
       "surface": "ממני",
-      "english": "⟨从我身上⟩"
+      "gloss": "⟨从我身上⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הבל",
-      "english": "虚空"
+      "gloss": "虚空"
     },
     {
       "surface": "ימי",
-      "english": "我的日子"
+      "gloss": "我的日子"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:52.493050987Z",
-  "model": "glm-5.2"
+  ]
 }

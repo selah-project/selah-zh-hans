@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "ezekiel 8:9",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19208,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19627
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:43:46.120738313Z",
   "translation": "他对我说:你来,看⟨את⟩⟨他们⟩在这里所行的那些可憎之恶事。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他对……说"
+      "gloss": "他对……说"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "בא",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "וראה",
-      "english": "看"
+      "gloss": "看"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些可憎之恶事"
     },
     {
       "surface": "התועבות",
-      "english": "那些可憎之事"
+      "gloss": "那些可憎之事"
     },
     {
       "surface": "הרעות",
-      "english": "恶事"
+      "gloss": "恶事"
     },
     {
       "surface": "אשר",
-      "english": "……的(关系词)"
+      "gloss": "……的(关系词)"
     },
     {
       "surface": "הם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "עשים",
-      "english": "正在行"
+      "gloss": "正在行"
     },
     {
       "surface": "פה",
-      "english": "在这里"
+      "gloss": "在这里"
     }
-  ],
-  "timestamp": "2026-07-17T22:43:46.120738313Z",
-  "model": "glm-5.2"
+  ]
 }

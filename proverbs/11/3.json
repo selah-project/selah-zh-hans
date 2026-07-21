@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 11:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54327,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54763
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:00.416170109Z",
   "translation": "正直人的纯全⟨要⟩引导他们，但背叛之人⟨的⟩扭曲⟨要⟩毁灭他们。",
   "tokens": [
     {
       "surface": "תמת",
-      "english": "纯全"
+      "gloss": "纯全"
     },
     {
       "surface": "ישרים",
-      "english": "正直人的"
+      "gloss": "正直人的"
     },
     {
       "surface": "תנחם",
-      "english": "引导他们"
+      "gloss": "引导他们"
     },
     {
       "surface": "וסלף",
-      "english": "但……扭曲"
+      "gloss": "但……扭曲"
     },
     {
       "surface": "בוגדים",
-      "english": "背叛之人"
+      "gloss": "背叛之人"
     },
     {
       "surface": "ושדם",
-      "english": "毁灭他们"
+      "gloss": "毁灭他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:00.416170109Z",
-  "model": "glm-5.2"
+  ]
 }

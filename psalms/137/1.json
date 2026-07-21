@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 137:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64860,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65229
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:35.745662698Z",
   "translation": "在巴比伦的河边,在那里我们坐下,我们也哭泣,在我们记念⟨את⟩锡安的时候。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "נהרות",
-      "english": "河边"
+      "gloss": "河边"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "ישבנו",
-      "english": "我们坐下"
+      "gloss": "我们坐下"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "בכינו",
-      "english": "我们哭泣"
+      "gloss": "我们哭泣"
     },
     {
       "surface": "בזכרנו",
-      "english": "在我们记念的时候"
+      "gloss": "在我们记念的时候"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "锡安"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:35.745662698Z",
-  "model": "glm-5.2"
+  ]
 }

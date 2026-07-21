@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 6:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60223,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60606
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:39.035210052Z",
   "translation": "王转过⟨他的⟩脸,就祝福以色列全体会众;以色列全体会众都站立着。",
   "tokens": [
     {
       "surface": "ויסב",
-      "english": "转过"
+      "gloss": "转过"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的脸"
     },
     {
       "surface": "פניו",
-      "english": "他的脸"
+      "gloss": "他的脸"
     },
     {
       "surface": "ויברך",
-      "english": "就祝福"
+      "gloss": "就祝福"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列全体会众"
     },
     {
       "surface": "כל",
-      "english": "全体"
+      "gloss": "全体"
     },
     {
       "surface": "קהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וכל",
-      "english": "全体都"
+      "gloss": "全体都"
     },
     {
       "surface": "קהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עומד",
-      "english": "站立着"
+      "gloss": "站立着"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:39.035210052Z",
-  "model": "glm-5.2"
+  ]
 }

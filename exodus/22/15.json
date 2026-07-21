@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 22:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18895,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19495
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:25:17.107211493Z",
   "translation": "若一个男人诱惑⟨⟩一名未订婚的处女,与她同寝,他必须付聘礼给她,⟨使⟩她⟨归⟩他⟨为⟩妻子。",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יפתה",
-      "english": "诱惑"
+      "gloss": "诱惑"
     },
     {
       "surface": "איש",
-      "english": "一个男人"
+      "gloss": "一个男人"
     },
     {
       "surface": "בתולה",
-      "english": "处女"
+      "gloss": "处女"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "לא",
-      "english": "未"
+      "gloss": "未"
     },
     {
       "surface": "ארשה",
-      "english": "订婚"
+      "gloss": "订婚"
     },
     {
       "surface": "ושכב",
-      "english": "并与她同寝"
+      "gloss": "并与她同寝"
     },
     {
       "surface": "עמה",
-      "english": "与她"
+      "gloss": "与她"
     },
     {
       "surface": "מהר",
-      "english": "聘礼"
+      "gloss": "聘礼"
     },
     {
       "surface": "ימהרנה",
-      "english": "他必须付给(她)"
+      "gloss": "他必须付给(她)"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "לאשה",
-      "english": "为妻子"
+      "gloss": "为妻子"
     }
-  ],
-  "timestamp": "2026-07-17T18:25:17.107211493Z",
-  "model": "glm-5.2"
+  ]
 }

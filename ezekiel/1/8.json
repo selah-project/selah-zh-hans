@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 1:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19180,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19702
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:40:03.284496315Z",
   "translation": "人⟨的⟩手在⟨他⟩们的翅膀以下,在⟨他⟩们的四边;⟨他⟩们的脸和⟨他⟩们的翅膀属于⟨他⟩们四个。",
   "tokens": [
     {
       "surface": "וידו",
-      "english": "……手"
+      "gloss": "……手"
     },
     {
       "surface": "אדם",
-      "english": "人⟨的⟩"
+      "gloss": "人⟨的⟩"
     },
     {
       "surface": "מתחת",
-      "english": "在……以下"
+      "gloss": "在……以下"
     },
     {
       "surface": "כנפיהם",
-      "english": "⟨他⟩们的翅膀"
+      "gloss": "⟨他⟩们的翅膀"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "ארבעת",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "רבעיהם",
-      "english": "⟨他⟩们的边"
+      "gloss": "⟨他⟩们的边"
     },
     {
       "surface": "ופניהם",
-      "english": "⟨他⟩们的脸"
+      "gloss": "⟨他⟩们的脸"
     },
     {
       "surface": "וכנפיהם",
-      "english": "和⟨他⟩们的翅膀"
+      "gloss": "和⟨他⟩们的翅膀"
     },
     {
       "surface": "לארבעתם",
-      "english": "属于⟨他⟩们四个"
+      "gloss": "属于⟨他⟩们四个"
     }
-  ],
-  "timestamp": "2026-07-17T22:40:03.284496315Z",
-  "model": "glm-5.2"
+  ]
 }

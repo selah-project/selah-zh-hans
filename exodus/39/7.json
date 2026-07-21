@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "exodus 39:7",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19204,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19740
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:37.957522938Z",
   "translation": "他将⟨את⟩它们放在以弗得的肩带上,作为以色列子孙的纪念石,正如雅威吩咐⟨את⟩摩西的。",
   "tokens": [
     {
       "surface": "וישם",
-      "english": "他将……放置"
+      "gloss": "他将……放置"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它们 (红玛瑙石头)"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כתפת",
-      "english": "肩带"
+      "gloss": "肩带"
     },
     {
       "surface": "האפד",
-      "english": "以弗得的"
+      "gloss": "以弗得的"
     },
     {
       "surface": "אבני",
-      "english": "石"
+      "gloss": "石"
     },
     {
       "surface": "זכרון",
-      "english": "纪念"
+      "gloss": "纪念"
     },
     {
       "surface": "לבני",
-      "english": "为……的子孙"
+      "gloss": "为……的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:37.957522938Z",
-  "model": "glm-5.2"
+  ]
 }

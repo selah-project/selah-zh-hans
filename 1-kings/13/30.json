@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-kings 13:30",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64076,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64502
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:08:24.246308851Z",
   "translation": "他将⟨את⟩他的尸首安放在他自己的坟墓里,他们为他哀悼 ⟨说⟩:哀哉!我的兄弟!",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "他将……安放"
+      "gloss": "他将……安放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的尸首"
     },
     {
       "surface": "נבלתו",
-      "english": "他的尸首"
+      "gloss": "他的尸首"
     },
     {
       "surface": "בקברו",
-      "english": "在他自己的坟墓里"
+      "gloss": "在他自己的坟墓里"
     },
     {
       "surface": "ויספדו",
-      "english": "他们哀悼"
+      "gloss": "他们哀悼"
     },
     {
       "surface": "עליו",
-      "english": "为他"
+      "gloss": "为他"
     },
     {
       "surface": "הוי",
-      "english": "哀哉!"
+      "gloss": "哀哉!"
     },
     {
       "surface": "אחי",
-      "english": "我的兄弟"
+      "gloss": "我的兄弟"
     }
-  ],
-  "timestamp": "2026-07-17T21:08:24.246308851Z",
-  "model": "glm-5.2"
+  ]
 }

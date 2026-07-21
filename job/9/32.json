@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "job 9:32",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21682,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22067
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:58.891731730Z",
   "translation": "因为他不是 ⟨像⟩ 我一样的 אִישׁ，我可以回答他，我们可以一起来 ⟨到⟩ מִשְׁפָּט 中。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "איש",
-      "english": "אִישׁ"
+      "gloss": "אִישׁ"
     },
     {
       "surface": "כמני",
-      "english": "⟨像⟩ 我一样的"
+      "gloss": "⟨像⟩ 我一样的"
     },
     {
       "surface": "אעננו",
-      "english": "我可以回答他"
+      "gloss": "我可以回答他"
     },
     {
       "surface": "נבוא",
-      "english": "我们可以一起来 ⟨到⟩"
+      "gloss": "我们可以一起来 ⟨到⟩"
     },
     {
       "surface": "יחדו",
-      "english": "一起"
+      "gloss": "一起"
     },
     {
       "surface": "במשפט",
-      "english": "מִשְׁפָּט 中"
+      "gloss": "מִשְׁפָּט 中"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:58.891731730Z",
-  "model": "glm-5.2"
+  ]
 }

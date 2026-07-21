@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-kings 18:11",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19087,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19599
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:29:35.868148685Z",
   "translation": "亚述王将⟨את⟩以色列迁徙到亚述,将他们安置在哈腊、哈博河、歌散,以及玛代的城市;",
   "tokens": [
     {
       "surface": "וַ\/יֶּ֧גֶל",
-      "english": "将……迁徙"
+      "gloss": "将……迁徙"
     },
     {
       "surface": "מֶֽלֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אַשּׁ֛וּר",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "יִשְׂרָאֵ֖ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אַשּׁ֑וּרָ\/ה",
-      "english": "到亚述"
+      "gloss": "到亚述"
     },
     {
       "surface": "וַ\/יַּנְחֵ֞\/ם",
-      "english": "安置"
+      "gloss": "安置"
     },
     {
       "surface": "בַּ\/חְלַ֧ח",
-      "english": "在哈腊"
+      "gloss": "在哈腊"
     },
     {
       "surface": "וּ\/בְ\/חָב֛וֹר",
-      "english": "以及在哈博"
+      "gloss": "以及在哈博"
     },
     {
       "surface": "נְהַ֥ר",
-      "english": "河"
+      "gloss": "河"
     },
     {
       "surface": "גּוֹזָ֖ן",
-      "english": "歌散"
+      "gloss": "歌散"
     },
     {
       "surface": "וְ\/עָרֵ֥י",
-      "english": "以及……的城市"
+      "gloss": "以及……的城市"
     },
     {
       "surface": "מָדָֽי",
-      "english": "玛代"
+      "gloss": "玛代"
     }
-  ],
-  "timestamp": "2026-07-17T21:29:35.868148685Z",
-  "model": "glm-5.2"
+  ]
 }

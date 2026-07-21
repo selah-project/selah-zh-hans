@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 140:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 560,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64534,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65094
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:29.770665973Z",
   "translation": "愿 ⟨他⟩ 使火炭掉落在他们身上，⟨他⟩ 在火中使他们坠落，坠入深坑——他们必不再起来！",
   "tokens": [
     {
       "surface": "יִמִּיטוּ",
-      "english": "愿 ⟨他⟩ 使……掉落"
+      "gloss": "愿 ⟨他⟩ 使……掉落"
     },
     {
       "surface": "עֲלֵיהֶם",
-      "english": "在他们身上"
+      "gloss": "在他们身上"
     },
     {
       "surface": "גֶּחָלִים",
-      "english": "火炭"
+      "gloss": "火炭"
     },
     {
       "surface": "בָּאֵשׁ",
-      "english": "在火中"
+      "gloss": "在火中"
     },
     {
       "surface": "יַפִּילֵם",
-      "english": "⟨他⟩ 使他们坠落"
+      "gloss": "⟨他⟩ 使他们坠落"
     },
     {
       "surface": "בְּמַהֲמֹרוֹת",
-      "english": "坠入深坑"
+      "gloss": "坠入深坑"
     },
     {
       "surface": "בַּל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יָקוּמוּ",
-      "english": "他们必起来"
+      "gloss": "他们必起来"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:29.770665973Z",
-  "model": "glm-5.2"
+  ]
 }

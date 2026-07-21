@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 1:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21045,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21671
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:00.037341325Z",
   "translation": "因此,主阿多奈、万军之雅威、以色列的大能者的宣告:哎!我将从我的 adversaries 得安慰,并向我的 enemies 复仇。",
   "tokens": [
     {
       "surface": "לכן",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "נאם",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "האדון",
-      "english": "主阿多奈"
+      "gloss": "主阿多奈"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "אביר",
-      "english": "大能者"
+      "gloss": "大能者"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     },
     {
       "surface": "הוי",
-      "english": "哎!"
+      "gloss": "哎!"
     },
     {
       "surface": "אנחם",
-      "english": "我将得安慰"
+      "gloss": "我将得安慰"
     },
     {
       "surface": "מצרי",
-      "english": "从我的 adversaries"
+      "gloss": "从我的 adversaries"
     },
     {
       "surface": "ואנקמה",
-      "english": "并⟨我⟩将复仇"
+      "gloss": "并⟨我⟩将复仇"
     },
     {
       "surface": "מאויבי",
-      "english": "向我的 enemies"
+      "gloss": "向我的 enemies"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:00.037341325Z",
-  "model": "glm-5.2"
+  ]
 }

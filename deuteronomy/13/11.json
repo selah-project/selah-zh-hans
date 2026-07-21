@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "deuteronomy 13:11",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 655,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19712,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20367
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:19.190154012Z",
   "translation": "你要用石头打他,⟨使他⟩死;因为他寻求拉你离开雅威你的以罗欣——⟨他⟩是那将你从埃及地、从为奴之家带出来的。",
   "tokens": [
     {
       "surface": "וּ\/סְקַלְתּ֥\/וֹ",
-      "english": "你要用石头打他"
+      "gloss": "你要用石头打他"
     },
     {
       "surface": "בָ\/אֲבָנִ֖ים",
-      "english": "用石头"
+      "gloss": "用石头"
     },
     {
       "surface": "וָ\/מֵ֑ת",
-      "english": "⟨使他⟩死"
+      "gloss": "⟨使他⟩死"
     },
     {
       "surface": "כִּ֣י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בִקֵּ֗שׁ",
-      "english": "他寻求"
+      "gloss": "他寻求"
     },
     {
       "surface": "לְ\/הַדִּֽיחֲ\/ךָ֙",
-      "english": "拉你离开"
+      "gloss": "拉你离开"
     },
     {
       "surface": "מֵ\/עַל֙",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "יְהוָ֣ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֱלֹהֶ֔י\/ךָ",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "הַ\/מּוֹצִיאֲ\/ךָ֛",
-      "english": "⟨他⟩是那带出你的"
+      "gloss": "⟨他⟩是那带出你的"
     },
     {
       "surface": "מֵ\/אֶ֥רֶץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מִצְרַ֖יִם",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "מִ\/בֵּ֥ית",
-      "english": "从……之家"
+      "gloss": "从……之家"
     },
     {
       "surface": "עֲבָדִֽים",
-      "english": "为奴"
+      "gloss": "为奴"
     }
-  ],
-  "timestamp": "2026-07-17T19:36:19.190154012Z",
-  "model": "glm-5.2"
+  ]
 }

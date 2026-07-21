@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 3:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 518,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20386,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20904
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:02:07.420089221Z",
   "translation": "他们要守 ⟨את⟩ 他的职守，以及 ⟨את⟩ 全会众的职守，在会幕前，来办理 ⟨את⟩ 会幕的事务。",
   "tokens": [
     {
       "surface": "ושמרו",
-      "english": "他们要守"
+      "gloss": "他们要守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的职守"
     },
     {
       "surface": "משמרתו",
-      "english": "他的职守"
+      "gloss": "他的职守"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "全会众的职守"
     },
     {
       "surface": "משמרת",
-      "english": "职守"
+      "gloss": "职守"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "העדה",
-      "english": "会众的"
+      "gloss": "会众的"
     },
     {
       "surface": "לפני",
-      "english": "在……前"
+      "gloss": "在……前"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "（指定相会之处）"
+      "gloss": "（指定相会之处）"
     },
     {
       "surface": "לעבד",
-      "english": "来办理"
+      "gloss": "来办理"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕的事务"
     },
     {
       "surface": "עבדת",
-      "english": "事务"
+      "gloss": "事务"
     },
     {
       "surface": "המשכן",
-      "english": "会幕的"
+      "gloss": "会幕的"
     }
-  ],
-  "timestamp": "2026-07-17T19:02:07.420089221Z",
-  "model": "glm-5.2"
+  ]
 }

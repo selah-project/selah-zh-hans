@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 38:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20929,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21482
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:31.587527664Z",
   "translation": "雅威 ⟨要⟩拯救我;我们在我所有的弦乐上 ⟨要⟩弹奏 ⟨我们⟩一生的年日,在雅威的殿中。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "להושיעני",
-      "english": "⟨要⟩拯救我"
+      "gloss": "⟨要⟩拯救我"
     },
     {
       "surface": "ונגנותי",
-      "english": "我所有的弦乐"
+      "gloss": "我所有的弦乐"
     },
     {
       "surface": "ננגן",
-      "english": "⟨我们⟩⟨要⟩弹奏"
+      "gloss": "⟨我们⟩⟨要⟩弹奏"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "ימי",
-      "english": "……的年日"
+      "gloss": "……的年日"
     },
     {
       "surface": "חיינו",
-      "english": "我们一生"
+      "gloss": "我们一生"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:31.587527664Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "nehemiah 11:20",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51265,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51688
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:49:02.658384414Z",
   "translation": "至于以色列其余的人、⟨那⟩祭司们、⟨那⟩利未人,⟨他们⟩⟨住⟩在犹大所有的城中,各人在自己的产业里。",
   "tokens": [
     {
       "surface": "ושאר",
-      "english": "至于……其余的人"
+      "gloss": "至于……其余的人"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "הכהנים",
-      "english": "⟨那⟩祭司们"
+      "gloss": "⟨那⟩祭司们"
     },
     {
       "surface": "הלוים",
-      "english": "⟨那⟩利未人"
+      "gloss": "⟨那⟩利未人"
     },
     {
       "surface": "בכל",
-      "english": "在所有的"
+      "gloss": "在所有的"
     },
     {
       "surface": "ערי",
-      "english": "城中"
+      "gloss": "城中"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "בנחלתו",
-      "english": "在自己的产业里"
+      "gloss": "在自己的产业里"
     }
-  ],
-  "timestamp": "2026-07-18T01:49:02.658384414Z",
-  "model": "glm-5.2"
+  ]
 }

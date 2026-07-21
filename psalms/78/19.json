@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 78:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64452,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64904
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:37.489370841Z",
   "translation": "他们针对以罗欣说话；他们说：⟨אֵל⟩能⟨否⟩在旷野摆设筵席吗？",
   "tokens": [
     {
       "surface": "וַֽ\/יְדַבְּר֗וּ",
-      "english": "他们说话"
+      "gloss": "他们说话"
     },
     {
       "surface": "בֵּֽ\/אלֹ֫הִ֥ים",
-      "english": "针对以罗欣"
+      "gloss": "针对以罗欣"
     },
     {
       "surface": "אָ֭מְרוּ",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "הֲ\/י֣וּכַל",
-      "english": "能⟨否⟩"
+      "gloss": "能⟨否⟩"
     },
     {
       "surface": "אֵ֑ל",
-      "english": "⟨אֵל⟩"
+      "gloss": "⟨אֵל⟩"
     },
     {
       "surface": "לַ\/עֲרֹ֥ךְ",
-      "english": "摆设"
+      "gloss": "摆设"
     },
     {
       "surface": "שֻׁ֝לְחָ֗ן",
-      "english": "筵席"
+      "gloss": "筵席"
     },
     {
       "surface": "בַּ\/מִּדְבָּֽר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:37.489370841Z",
-  "model": "glm-5.2"
+  ]
 }

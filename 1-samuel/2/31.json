@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "1-samuel 2:31",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18718,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19321
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:22:13.762820743Z",
   "translation": "看哪,日子将到,我必砍断你的膀臂和⟨את⟩你父家的膀臂,使你家中不再有老人。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "באים",
-      "english": "将到"
+      "gloss": "将到"
     },
     {
       "surface": "וגדעתי",
-      "english": "我必砍断"
+      "gloss": "我必砍断"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的膀臂"
     },
     {
       "surface": "זרעך",
-      "english": "你的膀臂"
+      "gloss": "你的膀臂"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "你父家的膀臂"
     },
     {
       "surface": "זרע",
-      "english": "膀臂"
+      "gloss": "膀臂"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "אביך",
-      "english": "你父"
+      "gloss": "你父"
     },
     {
       "surface": "מהיות",
-      "english": "使……不再有"
+      "gloss": "使……不再有"
     },
     {
       "surface": "זקן",
-      "english": "老人"
+      "gloss": "老人"
     },
     {
       "surface": "בביתך",
-      "english": "在你家中"
+      "gloss": "在你家中"
     }
-  ],
-  "timestamp": "2026-07-17T20:22:13.762820743Z",
-  "model": "glm-5.2"
+  ]
 }

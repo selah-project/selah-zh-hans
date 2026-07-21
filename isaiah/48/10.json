@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 48:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20529,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21043
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:57:33.747874398Z",
   "translation": "看哪,我熬炼了你,却不是用银子;我在苦难的熔炉中拣选了你。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "צרפתיך",
-      "english": "我熬炼了你"
+      "gloss": "我熬炼了你"
     },
     {
       "surface": "ולא",
-      "english": "却不是"
+      "gloss": "却不是"
     },
     {
       "surface": "בכסף",
-      "english": "用银子"
+      "gloss": "用银子"
     },
     {
       "surface": "בחרתיך",
-      "english": "我拣选了你"
+      "gloss": "我拣选了你"
     },
     {
       "surface": "בכור",
-      "english": "在……的熔炉中"
+      "gloss": "在……的熔炉中"
     },
     {
       "surface": "עני",
-      "english": "苦难"
+      "gloss": "苦难"
     }
-  ],
-  "timestamp": "2026-07-17T21:57:33.747874398Z",
-  "model": "glm-5.2"
+  ]
 }

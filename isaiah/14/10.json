@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 14:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20892,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21366
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:41:03.511808777Z",
   "translation": "他们全都回答,并对你说:你也被削弱得像我们一样;你变得与我们一样了。",
   "tokens": [
     {
       "surface": "כלם",
-      "english": "他们全都"
+      "gloss": "他们全都"
     },
     {
       "surface": "יענו",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "ויאמרו",
-      "english": "并对……说"
+      "gloss": "并对……说"
     },
     {
       "surface": "אליך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "חלית",
-      "english": "被削弱"
+      "gloss": "被削弱"
     },
     {
       "surface": "כמונו",
-      "english": "像我们一样"
+      "gloss": "像我们一样"
     },
     {
       "surface": "אלינו",
-      "english": "与我们"
+      "gloss": "与我们"
     },
     {
       "surface": "נמשלת",
-      "english": "变得一样了"
+      "gloss": "变得一样了"
     }
-  ],
-  "timestamp": "2026-07-17T21:41:03.511808777Z",
-  "model": "glm-5.2"
+  ]
 }

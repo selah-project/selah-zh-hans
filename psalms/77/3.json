@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 77:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 649,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64916,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65565
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:09.523009737Z",
   "translation": "在我遭难的日子,我寻求阿多奈;夜间我的手伸出,⟨流注不停⟩,⟨毫不⟩迟缓;⟨它⟩不肯⟨受⟩安慰——⟨这就是⟩我的נפש。",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "צרתי",
-      "english": "我的遭难"
+      "gloss": "我的遭难"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "דרשתי",
-      "english": "我寻求了"
+      "gloss": "我寻求了"
     },
     {
       "surface": "ידי",
-      "english": "我的手"
+      "gloss": "我的手"
     },
     {
       "surface": "לילה",
-      "english": "在夜间"
+      "gloss": "在夜间"
     },
     {
       "surface": "נגרה",
-      "english": "⟨流注不停⟩"
+      "gloss": "⟨流注不停⟩"
     },
     {
       "surface": "ולא",
-      "english": "⟨毫不⟩"
+      "gloss": "⟨毫不⟩"
     },
     {
       "surface": "תפוג",
-      "english": "迟缓"
+      "gloss": "迟缓"
     },
     {
       "surface": "מאנה",
-      "english": "不肯"
+      "gloss": "不肯"
     },
     {
       "surface": "הנחם",
-      "english": "⟨受⟩安慰"
+      "gloss": "⟨受⟩安慰"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:09.523009737Z",
-  "model": "glm-5.2"
+  ]
 }

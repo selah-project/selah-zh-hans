@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "leviticus 13:33",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 591,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19656,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20247
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:21.146733123Z",
   "translation": "⟨他⟩要剃去毛发,但⟨他⟩不可剃⟨את⟩那感染处;祭司要将⟨את⟩那感染处隔离七天,第二次。",
   "tokens": [
     {
       "surface": "וְ\/הִ֨תְגַּלָּ֔ח",
-      "english": "⟨他⟩要剃去毛发"
+      "gloss": "⟨他⟩要剃去毛发"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那感染处"
     },
     {
       "surface": "הַ\/נֶּ֖תֶק",
-      "english": "那感染处"
+      "gloss": "那感染处"
     },
     {
       "surface": "לֹ֣א",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יְגַלֵּ֑חַ",
-      "english": "⟨他⟩剃"
+      "gloss": "⟨他⟩剃"
     },
     {
       "surface": "וְ\/הִסְגִּ֨יר",
-      "english": "要将……隔离"
+      "gloss": "要将……隔离"
     },
     {
       "surface": "הַ\/כֹּהֵ֧ן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那感染处"
     },
     {
       "surface": "הַ\/נֶּ֛תֶק",
-      "english": "那感染处"
+      "gloss": "那感染处"
     },
     {
       "surface": "שִׁבְעַ֥ת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "יָמִ֖ים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "שֵׁנִֽית",
-      "english": "第二次"
+      "gloss": "第二次"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:21.146733123Z",
-  "model": "glm-5.2"
+  ]
 }

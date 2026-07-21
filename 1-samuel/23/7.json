@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-samuel 23:7",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 633,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19061,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19694
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:35:16.409268442Z",
   "translation": "有人告诉扫罗大卫来到了凯依拉;扫罗说:以罗欣⟨已经⟩把他⟨交出来⟩——⟨את⟩他交在我手中,因为他被关住了,进入一座有门有闩的城。",
   "tokens": [
     {
       "surface": "ויגד",
-      "english": "⟨有人⟩告诉"
+      "gloss": "⟨有人⟩告诉"
     },
     {
       "surface": "לשאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "כי",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "בא",
-      "english": "来到了"
+      "gloss": "来到了"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "קעילה",
-      "english": "凯依拉"
+      "gloss": "凯依拉"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "נכר",
-      "english": "认出"
+      "gloss": "认出"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他 (指大卫)"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בידי",
-      "english": "在我手中"
+      "gloss": "在我手中"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נסגר",
-      "english": "被关住了"
+      "gloss": "被关住了"
     },
     {
       "surface": "לבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "בעיר",
-      "english": "一座城"
+      "gloss": "一座城"
     },
     {
       "surface": "דלתים",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "ובריח",
-      "english": "和闩"
+      "gloss": "和闩"
     }
-  ],
-  "timestamp": "2026-07-17T20:35:16.409268442Z",
-  "model": "glm-5.2"
+  ]
 }

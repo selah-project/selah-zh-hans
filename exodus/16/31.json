@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "exodus 16:31",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19086,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19535
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:21:26.760781585Z",
   "translation": "以色列家称⟨את⟩它的名字为吗哪;它像芫荽种子,白色的,它的味道像蘸满蜂蜜的薄饼。",
   "tokens": [
     {
       "surface": "ויקראו",
-      "english": "称"
+      "gloss": "称"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的名字"
     },
     {
       "surface": "שמו",
-      "english": "它的名字"
+      "gloss": "它的名字"
     },
     {
       "surface": "מן",
-      "english": "吗哪"
+      "gloss": "吗哪"
     },
     {
       "surface": "והוא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "כזרע",
-      "english": "像种子"
+      "gloss": "像种子"
     },
     {
       "surface": "גד",
-      "english": "芫荽"
+      "gloss": "芫荽"
     },
     {
       "surface": "לבן",
-      "english": "白色的"
+      "gloss": "白色的"
     },
     {
       "surface": "וטעמו",
-      "english": "它的味道"
+      "gloss": "它的味道"
     },
     {
       "surface": "כצפיחת",
-      "english": "像薄饼"
+      "gloss": "像薄饼"
     },
     {
       "surface": "בדבש",
-      "english": "蘸满蜂蜜"
+      "gloss": "蘸满蜂蜜"
     }
-  ],
-  "timestamp": "2026-07-17T18:21:26.760781585Z",
-  "model": "glm-5.2"
+  ]
 }

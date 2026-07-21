@@ -1,98 +1,87 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "numbers 11:5",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 821,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20895,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 21716
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:08:54.836735492Z",
   "translation": "我们记得在埃及免费吃的⟨那⟩鱼——⟨את⟩黄瓜、⟨את⟩西瓜、⟨את⟩韭菜、⟨את⟩葱和⟨את⟩蒜。",
   "tokens": [
     {
       "surface": "זָכַ֨רְנוּ֙",
-      "english": "我们记得"
+      "gloss": "我们记得"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩鱼"
     },
     {
       "surface": "הַ\/דָּגָ֔ה",
-      "english": "⟨那⟩鱼"
+      "gloss": "⟨那⟩鱼"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נֹאכַ֥ל",
-      "english": "我们吃"
+      "gloss": "我们吃"
     },
     {
       "surface": "בְּ\/מִצְרַ֖יִם",
-      "english": "在埃及"
+      "gloss": "在埃及"
     },
     {
       "surface": "חִנָּ֑ם",
-      "english": "免费"
+      "gloss": "免费"
     },
     {
       "surface": "אֵ֣ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "黄瓜"
     },
     {
       "surface": "הַ\/קִּשֻּׁאִ֗ים",
-      "english": "⟨那⟩黄瓜"
+      "gloss": "⟨那⟩黄瓜"
     },
     {
       "surface": "וְ\/אֵת֙",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "西瓜"
     },
     {
       "surface": "הָֽ\/אֲבַטִּחִ֔ים",
-      "english": "⟨那⟩西瓜"
+      "gloss": "⟨那⟩西瓜"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "韭菜"
     },
     {
       "surface": "הֶ\/חָצִ֥יר",
-      "english": "⟨那⟩韭菜"
+      "gloss": "⟨那⟩韭菜"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "葱"
     },
     {
       "surface": "הַ\/בְּצָלִ֖ים",
-      "english": "⟨那⟩葱"
+      "gloss": "⟨那⟩葱"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "蒜"
     },
     {
       "surface": "הַ\/שּׁוּמִֽים",
-      "english": "⟨那⟩蒜"
+      "gloss": "⟨那⟩蒜"
     }
-  ],
-  "timestamp": "2026-07-17T19:08:54.836735492Z",
-  "model": "glm-5.2"
+  ]
 }

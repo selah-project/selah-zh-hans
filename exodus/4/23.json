@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 4:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19193,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19700
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:15.623916265Z",
   "translation": "我对你说：放我的子去，让他事奉我；你拒绝放他走 —— 看哪，我正杀 ⟨את⟩ 你的子，你的长子。",
   "tokens": [
     {
       "surface": "ואמר",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אליך",
-      "english": "对你"
+      "gloss": "对你"
     },
     {
       "surface": "שלח",
-      "english": "放走"
+      "gloss": "放走"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的子"
     },
     {
       "surface": "בני",
-      "english": "我的子"
+      "gloss": "我的子"
     },
     {
       "surface": "ויעבדני",
-      "english": "让他事奉我"
+      "gloss": "让他事奉我"
     },
     {
       "surface": "ותמאן",
-      "english": "你拒绝"
+      "gloss": "你拒绝"
     },
     {
       "surface": "לשלחו",
-      "english": "放他走"
+      "gloss": "放他走"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "הרג",
-      "english": "正杀"
+      "gloss": "正杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的子"
     },
     {
       "surface": "בנך",
-      "english": "你的子"
+      "gloss": "你的子"
     },
     {
       "surface": "בכרך",
-      "english": "你的长子"
+      "gloss": "你的长子"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:15.623916265Z",
-  "model": "glm-5.2"
+  ]
 }

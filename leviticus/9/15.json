@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "leviticus 9:15",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 687,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19706,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20393
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:33.994632861Z",
   "translation": "他⟨将…带近⟩⟨את⟩那人民的*korbán*（献礼），并取了⟨את⟩那多毛公山羊——即那属于人民的חטאת（赎罪献礼），将其宰杀，并将其作为חטאת献上，如头一个一样。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "他⟨将…带近⟩"
+      "gloss": "他⟨将…带近⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "献礼"
     },
     {
       "surface": "קרבן",
-      "english": "*korbán*（献礼）"
+      "gloss": "*korbán*（献礼）"
     },
     {
       "surface": "העם",
-      "english": "那人民的"
+      "gloss": "那人民的"
     },
     {
       "surface": "ויקח",
-      "english": "并取了"
+      "gloss": "并取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "多毛公山羊"
     },
     {
       "surface": "שעיר",
-      "english": "那多毛公山羊"
+      "gloss": "那多毛公山羊"
     },
     {
       "surface": "החטאת",
-      "english": "即那חטאת（赎罪献礼）"
+      "gloss": "即那חטאת（赎罪献礼）"
     },
     {
       "surface": "אשר",
-      "english": "属于"
+      "gloss": "属于"
     },
     {
       "surface": "לעם",
-      "english": "那人民的"
+      "gloss": "那人民的"
     },
     {
       "surface": "וישחטהו",
-      "english": "将其宰杀"
+      "gloss": "将其宰杀"
     },
     {
       "surface": "ויחטאהו",
-      "english": "并将其作为חטאת献上"
+      "gloss": "并将其作为חטאת献上"
     },
     {
       "surface": "כראשון",
-      "english": "如头一个一样"
+      "gloss": "如头一个一样"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:33.994632861Z",
-  "model": "glm-5.2"
+  ]
 }

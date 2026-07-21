@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 79:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 589,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64899,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65488
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:53.334742915Z",
   "translation": "不要向我们记念先前的罪孽；愿你的怜悯速速迎⟨接⟩我们，因为我们已经极度衰微。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תזכר",
-      "english": "记念"
+      "gloss": "记念"
     },
     {
       "surface": "לנו",
-      "english": "向我们"
+      "gloss": "向我们"
     },
     {
       "surface": "עונת",
-      "english": "罪孽"
+      "gloss": "罪孽"
     },
     {
       "surface": "ראשנים",
-      "english": "先前的"
+      "gloss": "先前的"
     },
     {
       "surface": "מהר",
-      "english": "速速"
+      "gloss": "速速"
     },
     {
       "surface": "יקדמונו",
-      "english": "愿⟨它们⟩迎⟨接⟩我们"
+      "gloss": "愿⟨它们⟩迎⟨接⟩我们"
     },
     {
       "surface": "רחמיך",
-      "english": "你的怜悯"
+      "gloss": "你的怜悯"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "דלונו",
-      "english": "我们已经衰微"
+      "gloss": "我们已经衰微"
     },
     {
       "surface": "מאד",
-      "english": "极度"
+      "gloss": "极度"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:53.334742915Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 88:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64294,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64766
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:27.670974492Z",
   "translation": "在坟墓里 ⟨能否⟩ 讲说你的 חֶסֶד？你的信实在亚巴顿 ⟨能否被知晓⟩？",
   "tokens": [
     {
       "surface": "הַ\/יְסֻפַּר",
-      "english": "⟨能否⟩讲说"
+      "gloss": "⟨能否⟩讲说"
     },
     {
       "surface": "בַּ\/קֶּבֶר",
-      "english": "在坟墓里"
+      "gloss": "在坟墓里"
     },
     {
       "surface": "חַסְדֶּךָ",
-      "english": "你的 חֶסֶד"
+      "gloss": "你的 חֶסֶד"
     },
     {
       "surface": "אֱמוּנָתְךָ",
-      "english": "你的信实"
+      "gloss": "你的信实"
     },
     {
       "surface": "בָּ\/אֲבַדּוֹן",
-      "english": "在亚巴顿"
+      "gloss": "在亚巴顿"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:27.670974492Z",
-  "model": "glm-5.2"
+  ]
 }

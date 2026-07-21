@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 2:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64636,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65101
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:51.280936648Z",
   "translation": "向我求，我就将列国赐给⟨你⟩作⟨你⟩的产业，地极作⟨你⟩的疆业。",
   "tokens": [
     {
       "surface": "שְׁאַל",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "מִמֶּ\/נִּי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "וְ\/אֶתְּנָה",
-      "english": "我就将……赐给"
+      "gloss": "我就将……赐给"
     },
     {
       "surface": "גוֹיִם",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "נַחֲלָתֶ\/ךָ",
-      "english": "作你的产业"
+      "gloss": "作你的产业"
     },
     {
       "surface": "וַ\/אֲחֻזָּתְ\/ךָ",
-      "english": "作你的疆业"
+      "gloss": "作你的疆业"
     },
     {
       "surface": "אַפְסֵי",
-      "english": "地极"
+      "gloss": "地极"
     },
     {
       "surface": "אָרֶץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:51.280936648Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 24:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21576,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21875
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:56.089850208Z",
   "translation": "他们被山间的暴雨淋透，因为没有避难所，就拥抱岩石。",
   "tokens": [
     {
       "surface": "מזרם",
-      "english": "暴雨\/洪流"
+      "gloss": "暴雨\/洪流"
     },
     {
       "surface": "הרים",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "ירטבו",
-      "english": "他们被淋透"
+      "gloss": "他们被淋透"
     },
     {
       "surface": "ומבלי",
-      "english": "因为没有"
+      "gloss": "因为没有"
     },
     {
       "surface": "מחסה",
-      "english": "避难所"
+      "gloss": "避难所"
     },
     {
       "surface": "חבקו",
-      "english": "他们拥抱"
+      "gloss": "他们拥抱"
     },
     {
       "surface": "צור",
-      "english": "岩石"
+      "gloss": "岩石"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:56.089850208Z",
-  "model": "glm-5.2"
+  ]
 }

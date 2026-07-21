@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 149:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64429,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64850
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:16.227039632Z",
   "translation": "愿他们赞美⟨他的⟩名，在舞蹈中；用手鼓和琴，愿他们向⟨他⟩奏乐。",
   "tokens": [
     {
       "surface": "יְהַֽלְל֣וּ",
-      "english": "愿他们赞美"
+      "gloss": "愿他们赞美"
     },
     {
       "surface": "שְׁמ֣\/וֹ",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "בְ\/מָח֑וֹל",
-      "english": "在舞蹈中"
+      "gloss": "在舞蹈中"
     },
     {
       "surface": "בְּ\/תֹ֥ף",
-      "english": "用手鼓"
+      "gloss": "用手鼓"
     },
     {
       "surface": "וְ֝\/כִנּ֗וֹר",
-      "english": "和琴"
+      "gloss": "和琴"
     },
     {
       "surface": "יְזַמְּרוּ",
-      "english": "愿他们奏乐"
+      "gloss": "愿他们奏乐"
     },
     {
       "surface": "לֽ\/וֹ",
-      "english": "向⟨他⟩"
+      "gloss": "向⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:16.227039632Z",
-  "model": "glm-5.2"
+  ]
 }

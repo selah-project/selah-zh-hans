@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 28:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54649,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55143
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:56.799783069Z",
   "translation": "一个人因人血而受重压,逃到坑边;不要支持⟨他⟩。",
   "tokens": [
     {
       "surface": "אדם",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "עשק",
-      "english": "因……而受重压"
+      "gloss": "因……而受重压"
     },
     {
       "surface": "בדם",
-      "english": "因血"
+      "gloss": "因血"
     },
     {
       "surface": "נפש",
-      "english": "人(生命气息)"
+      "gloss": "人(生命气息)"
     },
     {
       "surface": "עד",
-      "english": "到……边"
+      "gloss": "到……边"
     },
     {
       "surface": "בור",
-      "english": "坑"
+      "gloss": "坑"
     },
     {
       "surface": "ינוס",
-      "english": "逃"
+      "gloss": "逃"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "יתמכו",
-      "english": "支持"
+      "gloss": "支持"
     },
     {
       "surface": "בו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:56.799783069Z",
-  "model": "glm-5.2"
+  ]
 }

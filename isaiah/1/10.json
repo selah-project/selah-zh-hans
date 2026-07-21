@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 1:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20952,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21433
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:08.690266722Z",
   "translation": "你们要听雅威的*davar*，所多玛的官长啊；要侧耳听我们以罗欣的妥拉，蛾摩拉的百姓啊！",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "קציני",
-      "english": "官长"
+      "gloss": "官长"
     },
     {
       "surface": "סדם",
-      "english": "所多玛的"
+      "gloss": "所多玛的"
     },
     {
       "surface": "האזינו",
-      "english": "要侧耳听"
+      "gloss": "要侧耳听"
     },
     {
       "surface": "תורת",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "אלהינו",
-      "english": "我们以罗欣的"
+      "gloss": "我们以罗欣的"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "עמרה",
-      "english": "蛾摩拉的"
+      "gloss": "蛾摩拉的"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:08.690266722Z",
-  "model": "glm-5.2"
+  ]
 }

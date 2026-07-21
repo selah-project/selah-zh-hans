@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 41:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20786,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21201
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:44.721372445Z",
   "translation": "而⟨你⟩,以色列,我的仆人,雅各,我所拣选的⟨你⟩,亚伯拉罕的种子,我所爱的⟨人⟩。",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "而⟨你⟩"
+      "gloss": "而⟨你⟩"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עבדי",
-      "english": "我的仆人"
+      "gloss": "我的仆人"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "אשר",
-      "english": "⟨我所⟩"
+      "gloss": "⟨我所⟩"
     },
     {
       "surface": "בחרתיך",
-      "english": "拣选的⟨你⟩"
+      "gloss": "拣选的⟨你⟩"
     },
     {
       "surface": "זרע",
-      "english": "种子"
+      "gloss": "种子"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אהבי",
-      "english": "我所爱的⟨人⟩"
+      "gloss": "我所爱的⟨人⟩"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:44.721372445Z",
-  "model": "glm-5.2"
+  ]
 }

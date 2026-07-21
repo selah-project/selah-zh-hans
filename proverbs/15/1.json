@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 15:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54407,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54907
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:11.198794710Z",
   "translation": "柔和的回應使怒火退去，而刺痛人的⟨davar⟩激起暴怒。",
   "tokens": [
     {
       "surface": "מענה",
-      "english": "回應"
+      "gloss": "回應"
     },
     {
       "surface": "רך",
-      "english": "柔和的"
+      "gloss": "柔和的"
     },
     {
       "surface": "ישיב",
-      "english": "使退去"
+      "gloss": "使退去"
     },
     {
       "surface": "חמה",
-      "english": "怒火"
+      "gloss": "怒火"
     },
     {
       "surface": "ודבר",
-      "english": "而刺痛人的⟨davar⟩"
+      "gloss": "而刺痛人的⟨davar⟩"
     },
     {
       "surface": "עצב",
-      "english": "刺痛人的"
+      "gloss": "刺痛人的"
     },
     {
       "surface": "יעלה",
-      "english": "激起"
+      "gloss": "激起"
     },
     {
       "surface": "אף",
-      "english": "暴怒"
+      "gloss": "暴怒"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:11.198794710Z",
-  "model": "glm-5.2"
+  ]
 }

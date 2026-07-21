@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "proverbs 31:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 225,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54366,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54591
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:28.329998638Z",
   "translation": "她的丈夫在城门口被认识，在他与那地的长老同坐之时。",
   "tokens": [
     {
       "surface": "נודע",
-      "english": "被认识"
+      "gloss": "被认识"
     },
     {
       "surface": "ב\/שערים",
-      "english": "在城门口"
+      "gloss": "在城门口"
     },
     {
       "surface": "בעל\/ה",
-      "english": "她的丈夫"
+      "gloss": "她的丈夫"
     },
     {
       "surface": "ב\/שבת\/ו",
-      "english": "在他同坐之时"
+      "gloss": "在他同坐之时"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "זקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "ארץ",
-      "english": "那地"
+      "gloss": "那地"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:28.329998638Z",
-  "model": "glm-5.2"
+  ]
 }

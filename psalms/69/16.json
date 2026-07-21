@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "psalms 69:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 389,
-    "prompt_tokens": 64874,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65263
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:18.710713144Z",
   "translation": "不要让水流冲走我,不要让深渊吞没我,不要让井闭住它的口在我身上。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשטפני",
-      "english": "让水流冲走我"
+      "gloss": "让水流冲走我"
     },
     {
       "surface": "שבלת",
-      "english": "水流"
+      "gloss": "水流"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "ואל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תבלעני",
-      "english": "吞没我"
+      "gloss": "吞没我"
     },
     {
       "surface": "מצולה",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "ואל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תאטר",
-      "english": "闭住"
+      "gloss": "闭住"
     },
     {
       "surface": "עלי",
-      "english": "在我身上"
+      "gloss": "在我身上"
     },
     {
       "surface": "באר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "פיה",
-      "english": "它的口"
+      "gloss": "它的口"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:18.710713144Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 157,
   "ref": "psalms 119:157",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64674
-  },
+  "verse": 157,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:25.343848476Z",
   "translation": "许多 ⟨是⟩ 追逐我的人和我的仇敌；但 ⟨从⟩ 你的见证 ⟨את⟩ 我没有偏离。",
   "tokens": [
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "רדפי",
-      "english": "追逐我的人"
+      "gloss": "追逐我的人"
     },
     {
       "surface": "וצרי",
-      "english": "和我的仇敌"
+      "gloss": "和我的仇敌"
     },
     {
       "surface": "מעדותיך",
-      "english": "⟨从⟩ 你的见证"
+      "gloss": "⟨从⟩ 你的见证"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "נטיתי",
-      "english": "我偏离"
+      "gloss": "我偏离"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:25.343848476Z",
-  "model": "glm-5.2"
+  ]
 }

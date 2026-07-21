@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 35:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23288,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23782
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:08.808069202Z",
   "translation": "雅各布⟨雅各布⟩就称呼了⟨את⟩那地方的⟨那⟩名字 —— 就是以罗欣在那里与他说话的⟨地方⟩,伯特利。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "就称呼了"
+      "gloss": "就称呼了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各布"
+      "gloss": "雅各布"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "名字"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "המקום",
-      "english": "那地方"
+      "gloss": "那地方"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "אתו",
-      "english": "与他"
+      "gloss": "与他"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בית",
-      "english": "伯特(家)"
+      "gloss": "伯特(家)"
     },
     {
       "surface": "אל",
-      "english": "利(神)"
+      "gloss": "利(神)"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:08.808069202Z",
-  "model": "glm-5.2"
+  ]
 }

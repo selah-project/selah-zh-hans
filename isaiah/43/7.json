@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 43:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20722,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21169
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:55:16.874666576Z",
   "translation": "凡以我的名被呼求的,并为我的荣耀——我创造了⟨他⟩,塑造了⟨他⟩;是的,我造了⟨他⟩。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "הנקרא",
-      "english": "被呼求的"
+      "gloss": "被呼求的"
     },
     {
       "surface": "בשמי",
-      "english": "以我的名"
+      "gloss": "以我的名"
     },
     {
       "surface": "ולכבודי",
-      "english": "并为我的荣耀"
+      "gloss": "并为我的荣耀"
     },
     {
       "surface": "בראתיו",
-      "english": "我创造了他"
+      "gloss": "我创造了他"
     },
     {
       "surface": "יצרתיו",
-      "english": "塑造了他"
+      "gloss": "塑造了他"
     },
     {
       "surface": "אף",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "עשיתיו",
-      "english": "我造了他"
+      "gloss": "我造了他"
     }
-  ],
-  "timestamp": "2026-07-17T21:55:16.874666576Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 2:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17858,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18249
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:21:45.542156978Z",
   "translation": "雅威使人死,也使人活;⟨他⟩下到 阴间,也升上来。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ממית",
-      "english": "使人死"
+      "gloss": "使人死"
     },
     {
       "surface": "ומחיה",
-      "english": "也使人活"
+      "gloss": "也使人活"
     },
     {
       "surface": "מוריד",
-      "english": "⟨他⟩下到"
+      "gloss": "⟨他⟩下到"
     },
     {
       "surface": "שאול",
-      "english": "阴间"
+      "gloss": "阴间"
     },
     {
       "surface": "ויעל",
-      "english": "也升上来"
+      "gloss": "也升上来"
     }
-  ],
-  "timestamp": "2026-07-17T20:21:45.542156978Z",
-  "model": "glm-5.2"
+  ]
 }

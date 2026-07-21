@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "proverbs 12:8",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54458,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54899
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:18.004027434Z",
   "translation": "按着他的精明，一个人被称赞；但心被扭曲的，⟨他⟩必成为藐视。",
   "tokens": [
     {
       "surface": "לפי",
-      "english": "按着"
+      "gloss": "按着"
     },
     {
       "surface": "שכלו",
-      "english": "他的精明"
+      "gloss": "他的精明"
     },
     {
       "surface": "יהלל",
-      "english": "被称赞"
+      "gloss": "被称赞"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "ונעוה",
-      "english": "但被扭曲的"
+      "gloss": "但被扭曲的"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "יהיה",
-      "english": "必成为"
+      "gloss": "必成为"
     },
     {
       "surface": "לבוז",
-      "english": "藐视"
+      "gloss": "藐视"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:18.004027434Z",
-  "model": "glm-5.2"
+  ]
 }

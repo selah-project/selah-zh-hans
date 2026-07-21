@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 140:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64962,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65471
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:28.913746161Z",
   "translation": "求你保守我，雅威，脱离恶人的手；求你护卫我，脱离强暴的人——他们图谋要推开我的脚步。",
   "tokens": [
     {
       "surface": "שמרני",
-      "english": "求你保守我"
+      "gloss": "求你保守我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מידי",
-      "english": "脱离……的手"
+      "gloss": "脱离……的手"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "מאיש",
-      "english": "脱离……的人"
+      "gloss": "脱离……的人"
     },
     {
       "surface": "חמסים",
-      "english": "强暴"
+      "gloss": "强暴"
     },
     {
       "surface": "תנצרני",
-      "english": "求你护卫我"
+      "gloss": "求你护卫我"
     },
     {
       "surface": "אשר",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "חשבו",
-      "english": "图谋"
+      "gloss": "图谋"
     },
     {
       "surface": "לדחות",
-      "english": "要推开"
+      "gloss": "要推开"
     },
     {
       "surface": "פעמי",
-      "english": "我的脚步"
+      "gloss": "我的脚步"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:28.913746161Z",
-  "model": "glm-5.2"
+  ]
 }

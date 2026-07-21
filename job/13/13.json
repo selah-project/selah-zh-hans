@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 13:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21550,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21975
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:44.956800684Z",
   "translation": "向我静默吧,我要说话,无论什么经过我,就让它经过吧。",
   "tokens": [
     {
       "surface": "החרישו",
-      "english": "静默吧"
+      "gloss": "静默吧"
     },
     {
       "surface": "ממני",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "ואדברה",
-      "english": "而我要说话"
+      "gloss": "而我要说话"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ויעבר",
-      "english": "就让它经过吧"
+      "gloss": "就让它经过吧"
     },
     {
       "surface": "עלי",
-      "english": "经过我"
+      "gloss": "经过我"
     },
     {
       "surface": "מה",
-      "english": "无论什么"
+      "gloss": "无论什么"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:44.956800684Z",
-  "model": "glm-5.2"
+  ]
 }

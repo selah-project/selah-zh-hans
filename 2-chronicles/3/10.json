@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "2-chronicles 3:10",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60088,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60523
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:15:10.755680578Z",
   "translation": "他在至圣所⟨הקדשים⟩里制作了两个基路伯——雕塑之工，他们用金子⟨את⟩覆盖它们。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他制作了"
+      "gloss": "他制作了"
     },
     {
       "surface": "בבית",
-      "english": "在……殿\/房屋里"
+      "gloss": "在……殿\/房屋里"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "הקדשים",
-      "english": "⟨至圣所⟩"
+      "gloss": "⟨至圣所⟩"
     },
     {
       "surface": "כרובים",
-      "english": "基路伯"
+      "gloss": "基路伯"
     },
     {
       "surface": "שנים",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "מעשה",
-      "english": "……之工"
+      "gloss": "……之工"
     },
     {
       "surface": "צעצעים",
-      "english": "雕塑"
+      "gloss": "雕塑"
     },
     {
       "surface": "ויצפו",
-      "english": "他们覆盖了"
+      "gloss": "他们覆盖了"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "金子"
     },
     {
       "surface": "זהב",
-      "english": "金子"
+      "gloss": "金子"
     }
-  ],
-  "timestamp": "2026-07-18T02:15:10.755680578Z",
-  "model": "glm-5.2"
+  ]
 }

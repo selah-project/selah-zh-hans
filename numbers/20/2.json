@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "numbers 20:2",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19627,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19901
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:44:35.128051314Z",
   "translation": "会众没有水了。他们就聚集攻击摩西和亚伦。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "היה",
-      "english": "有了"
+      "gloss": "有了"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "לעדה",
-      "english": "给会众"
+      "gloss": "给会众"
     },
     {
       "surface": "ויקהלו",
-      "english": "他们就聚集"
+      "gloss": "他们就聚集"
     },
     {
       "surface": "על",
-      "english": "攻击"
+      "gloss": "攻击"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ועל",
-      "english": "和攻击"
+      "gloss": "和攻击"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     }
-  ],
-  "timestamp": "2026-07-18T02:44:35.128051314Z",
-  "model": "glm-5.2"
+  ]
 }

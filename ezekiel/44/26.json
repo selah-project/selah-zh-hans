@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "ezekiel 44:26",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18734,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18988
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:59:42.668341636Z",
   "translation": "在他洁净之后，他们要为他数算七天。",
   "tokens": [
     {
       "surface": "ואחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "טהרתו",
-      "english": "他的洁净"
+      "gloss": "他的洁净"
     },
     {
       "surface": "שבעת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "יספרו",
-      "english": "他们要数算"
+      "gloss": "他们要数算"
     },
     {
       "surface": "לו",
-      "english": "为他"
+      "gloss": "为他"
     }
-  ],
-  "timestamp": "2026-07-18T02:59:42.668341636Z",
-  "model": "glm-5.2"
+  ]
 }

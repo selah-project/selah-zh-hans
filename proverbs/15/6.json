@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "proverbs 15:6",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54396,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54811
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:54.748066308Z",
   "translation": "义人的家⟨有⟩大量财富；但恶人的出产被扰乱。",
   "tokens": [
     {
       "surface": "בית",
-      "english": "……的家"
+      "gloss": "……的家"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "חסן",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "רב",
-      "english": "大量"
+      "gloss": "大量"
     },
     {
       "surface": "ובתבואת",
-      "english": "但……的出产"
+      "gloss": "但……的出产"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "נעכרת",
-      "english": "被扰乱"
+      "gloss": "被扰乱"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:54.748066308Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 28:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21515,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21929
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:21.198478393Z",
   "translation": "他搜查江河的隐秘源头，将其截住；⟨那⟩隐藏的事物，他⟨将⟩光带出来。",
   "tokens": [
     {
       "surface": "מבכי",
-      "english": "他搜查……的隐秘源头"
+      "gloss": "他搜查……的隐秘源头"
     },
     {
       "surface": "נהרות",
-      "english": "江河"
+      "gloss": "江河"
     },
     {
       "surface": "חבש",
-      "english": "将其截住"
+      "gloss": "将其截住"
     },
     {
       "surface": "ותעלמה",
-      "english": "⟨那⟩隐藏的事物"
+      "gloss": "⟨那⟩隐藏的事物"
     },
     {
       "surface": "יצא",
-      "english": "他⟨将⟩……带出来"
+      "gloss": "他⟨将⟩……带出来"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:21.198478393Z",
-  "model": "glm-5.2"
+  ]
 }

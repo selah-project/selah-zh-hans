@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "exodus 34:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18664,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19059
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:50.961770852Z",
   "translation": "六天你要做工,在第七天你要安息;在犁地时和在收割时你要安息。",
   "tokens": [
     {
       "surface": "ששת",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "תעבד",
-      "english": "你要做工"
+      "gloss": "你要做工"
     },
     {
       "surface": "וביום",
-      "english": "在……日"
+      "gloss": "在……日"
     },
     {
       "surface": "השביעי",
-      "english": "第七"
+      "gloss": "第七"
     },
     {
       "surface": "תשבת",
-      "english": "你要安息"
+      "gloss": "你要安息"
     },
     {
       "surface": "בחריש",
-      "english": "在犁地时"
+      "gloss": "在犁地时"
     },
     {
       "surface": "ובקציר",
-      "english": "和在收割时"
+      "gloss": "和在收割时"
     },
     {
       "surface": "תשבת",
-      "english": "你要安息"
+      "gloss": "你要安息"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:50.961770852Z",
-  "model": "glm-5.2"
+  ]
 }

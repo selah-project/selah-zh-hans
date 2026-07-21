@@ -1,50 +1,42 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "exodus 13:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 18456,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18790
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:24:09.453818121Z",
   "translation": "你 ⟨要⟩ 守 ⟨את⟩ 这条定例 ⟨在⟩ 它的定期，从 日子 〈到〉 日子。",
   "tokens": [
     {
       "surface": "ושמרת",
-      "english": "你 ⟨要⟩ 守"
+      "gloss": "你 ⟨要⟩ 守"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这条定例"
     },
     {
       "surface": "החקה",
-      "english": "这条定例"
+      "gloss": "这条定例"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "למועדה",
-      "english": "⟨在⟩ 它的定期"
+      "gloss": "⟨在⟩ 它的定期"
     },
     {
       "surface": "מימים",
-      "english": "从 日子"
+      "gloss": "从 日子"
     },
     {
       "surface": "ימימה",
-      "english": "〈到〉 日子"
+      "gloss": "〈到〉 日子"
     }
-  ],
-  "timestamp": "2026-07-21T13:24:09.453818121Z",
-  "model": "glm-4.5"
+  ]
 }

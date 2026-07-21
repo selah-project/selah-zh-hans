@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 10:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18284,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18622
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:23:44.934675360Z",
   "translation": "耶户说:你们要为巴勒庄严宣告一场集会;他们就去宣告了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוא",
-      "english": "耶户"
+      "gloss": "耶户"
     },
     {
       "surface": "קדשו",
-      "english": "你们要庄严宣告"
+      "gloss": "你们要庄严宣告"
     },
     {
       "surface": "עצרה",
-      "english": "一场集会"
+      "gloss": "一场集会"
     },
     {
       "surface": "לבעל",
-      "english": "为巴勒"
+      "gloss": "为巴勒"
     },
     {
       "surface": "ויקראו",
-      "english": "他们就去宣告了"
+      "gloss": "他们就去宣告了"
     }
-  ],
-  "timestamp": "2026-07-17T21:23:44.934675360Z",
-  "model": "glm-5.2"
+  ]
 }

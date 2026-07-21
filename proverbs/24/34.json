@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "proverbs 24:34",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54290,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54696
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:48.903303823Z",
   "translation": "你的贫穷就〈像〉一个行走的人来到,你的缺乏〈也〉〈像〉一个带盾牌的人。",
   "tokens": [
     {
       "surface": "ובא",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "מתהלך",
-      "english": "一个行走的人"
+      "gloss": "一个行走的人"
     },
     {
       "surface": "רישך",
-      "english": "你的贫穷"
+      "gloss": "你的贫穷"
     },
     {
       "surface": "ומחסריך",
-      "english": "你的缺乏"
+      "gloss": "你的缺乏"
     },
     {
       "surface": "כאיש",
-      "english": "〈像〉一个……的人"
+      "gloss": "〈像〉一个……的人"
     },
     {
       "surface": "מגן",
-      "english": "带盾牌的人"
+      "gloss": "带盾牌的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:48.903303823Z",
-  "model": "glm-5.2"
+  ]
 }

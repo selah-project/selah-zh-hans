@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 8:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 609,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64809,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65418
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:33.035101267Z",
   "translation": "从婴孩和吃奶的口中,你建立了力量,为要⟨使⟩你的仇敌静默——⟨好止息⟩仇敌和那报复者。",
   "tokens": [
     {
       "surface": "מפי",
-      "english": "从……的口中"
+      "gloss": "从……的口中"
     },
     {
       "surface": "עוללים",
-      "english": "婴孩"
+      "gloss": "婴孩"
     },
     {
       "surface": "וינקים",
-      "english": "和吃奶的"
+      "gloss": "和吃奶的"
     },
     {
       "surface": "יסדת",
-      "english": "你建立了"
+      "gloss": "你建立了"
     },
     {
       "surface": "עז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "צורריך",
-      "english": "你的仇敌"
+      "gloss": "你的仇敌"
     },
     {
       "surface": "להשבית",
-      "english": "⟨使⟩静默——⟨好止息⟩"
+      "gloss": "⟨使⟩静默——⟨好止息⟩"
     },
     {
       "surface": "אויב",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "ומתנקם",
-      "english": "和那报复者"
+      "gloss": "和那报复者"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:33.035101267Z",
-  "model": "glm-5.2"
+  ]
 }

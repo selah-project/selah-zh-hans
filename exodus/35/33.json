@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "exodus 35:33",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 391,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18655,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19046
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:36:10.699968631Z",
   "translation": "以及在石头的雕刻上——为镶嵌，以及在木头的雕刻上——为用一切巧思的工去制作。",
   "tokens": [
     {
       "surface": "ובחרשת",
-      "english": "以及在……的雕刻上"
+      "gloss": "以及在……的雕刻上"
     },
     {
       "surface": "אבן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "למלאת",
-      "english": "为镶嵌"
+      "gloss": "为镶嵌"
     },
     {
       "surface": "ובחרשת",
-      "english": "以及在……的雕刻上"
+      "gloss": "以及在……的雕刻上"
     },
     {
       "surface": "עץ",
-      "english": "木头"
+      "gloss": "木头"
     },
     {
       "surface": "לעשות",
-      "english": "为制作"
+      "gloss": "为制作"
     },
     {
       "surface": "בכל",
-      "english": "用一切"
+      "gloss": "用一切"
     },
     {
       "surface": "מלאכת",
-      "english": "工"
+      "gloss": "工"
     },
     {
       "surface": "מחשבת",
-      "english": "巧思"
+      "gloss": "巧思"
     }
-  ],
-  "timestamp": "2026-07-17T18:36:10.699968631Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "jeremiah 37:6",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18920,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19268
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:29:31.802249519Z",
   "translation": "雅威的话临到naví耶利米,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨于是⟩"
+      "gloss": "⟨于是⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar*(话)"
+      "gloss": "*davar*(话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "הנביא",
-      "english": "naví(先知)"
+      "gloss": "naví(先知)"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T22:29:31.802249519Z",
-  "model": "glm-5.2"
+  ]
 }

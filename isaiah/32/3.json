@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 32:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20597,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20961
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:13.620624824Z",
   "translation": "看的人的眼睛不再⟨被⟩模糊,听的人的耳朵必留心听。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "不再"
+      "gloss": "不再"
     },
     {
       "surface": "תשעינה",
-      "english": "⟨被⟩模糊"
+      "gloss": "⟨被⟩模糊"
     },
     {
       "surface": "עיני",
-      "english": "……的眼睛"
+      "gloss": "……的眼睛"
     },
     {
       "surface": "ראים",
-      "english": "看的人"
+      "gloss": "看的人"
     },
     {
       "surface": "ואזני",
-      "english": "和……的耳朵"
+      "gloss": "和……的耳朵"
     },
     {
       "surface": "שמעים",
-      "english": "听的人"
+      "gloss": "听的人"
     },
     {
       "surface": "תקשבנה",
-      "english": "必留心听"
+      "gloss": "必留心听"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:13.620624824Z",
-  "model": "glm-5.2"
+  ]
 }

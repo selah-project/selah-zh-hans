@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "1-chronicles 24:24",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 191,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58438,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58629
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:08:29.959422740Z",
   "translation": "乌薛的儿子是米迦;米迦的儿子是沙密。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "的儿子是"
+      "gloss": "的儿子是"
     },
     {
       "surface": "עזיאל",
-      "english": "乌薛"
+      "gloss": "乌薛"
     },
     {
       "surface": "מיכה",
-      "english": "米迦"
+      "gloss": "米迦"
     },
     {
       "surface": "לבני",
-      "english": "米迦的儿子是"
+      "gloss": "米迦的儿子是"
     },
     {
       "surface": "מיכה",
-      "english": "米迦"
+      "gloss": "米迦"
     },
     {
       "surface": "שמור",
-      "english": "沙密"
+      "gloss": "沙密"
     }
-  ],
-  "timestamp": "2026-07-18T02:08:29.959422740Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 40:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22856,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23344
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:00:37.053388735Z",
   "translation": "酒政总管却没有记念约瑟，⟨他⟩忘⟨了⟩⟨他⟩。",
   "tokens": [
     {
       "surface": "וְ\/לֹֽא",
-      "english": "却没有"
+      "gloss": "却没有"
     },
     {
       "surface": "זָכַ֧ר",
-      "english": "记念"
+      "gloss": "记念"
     },
     {
       "surface": "שַֽׂר",
-      "english": "总管"
+      "gloss": "总管"
     },
     {
       "surface": "הַ\/מַּשְׁקִ֛ים",
-      "english": "酒政"
+      "gloss": "酒政"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约瑟"
     },
     {
       "surface": "יוֹסֵ֖ף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "וַ\/יִּשְׁכָּחֵֽ\/הוּ",
-      "english": "⟨他⟩忘⟨了⟩⟨他⟩"
+      "gloss": "⟨他⟩忘⟨了⟩⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:00:37.053388735Z",
-  "model": "glm-5.2"
+  ]
 }

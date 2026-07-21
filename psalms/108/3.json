@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 108:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64248,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64696
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:56.582223600Z",
   "translation": "醒来吧,נֵבֶל (竖琴) 与 כִּנּוֹר (琴)!我将唤醒 שַׁחַר (黎明)。",
   "tokens": [
     {
       "surface": "עורה",
-      "english": "醒来吧"
+      "gloss": "醒来吧"
     },
     {
       "surface": "הנבל",
-      "english": "那 נֵבֶל (竖琴)"
+      "gloss": "那 נֵבֶל (竖琴)"
     },
     {
       "surface": "וכנור",
-      "english": "与 כִּנּוֹר (琴)"
+      "gloss": "与 כִּנּוֹר (琴)"
     },
     {
       "surface": "אעירה",
-      "english": "我将唤醒"
+      "gloss": "我将唤醒"
     },
     {
       "surface": "שחר",
-      "english": "שַׁחַר (黎明)"
+      "gloss": "שַׁחַר (黎明)"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:56.582223600Z",
-  "model": "glm-5.2"
+  ]
 }

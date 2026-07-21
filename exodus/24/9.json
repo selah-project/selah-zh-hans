@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "exodus 24:9",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18493,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18851
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:26:44.162380704Z",
   "translation": "摩西上去,⟨和⟩阿伦,拿答,⟨和⟩亚比户,⟨和⟩以色列的七十位长老。",
   "tokens": [
     {
       "surface": "ויעל",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואהרן",
-      "english": "⟨和⟩阿伦"
+      "gloss": "⟨和⟩阿伦"
     },
     {
       "surface": "נדב",
-      "english": "拿答"
+      "gloss": "拿答"
     },
     {
       "surface": "ואביהוא",
-      "english": "⟨和⟩亚比户"
+      "gloss": "⟨和⟩亚比户"
     },
     {
       "surface": "ושבעים",
-      "english": "⟨和⟩七十位"
+      "gloss": "⟨和⟩七十位"
     },
     {
       "surface": "מזקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T18:26:44.162380704Z",
-  "model": "glm-5.2"
+  ]
 }

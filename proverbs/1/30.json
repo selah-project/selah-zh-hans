@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "proverbs 1:30",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54283,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54626
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:57.718226962Z",
   "translation": "他们不肯听从我的劝戒，藐视了我一切的责备。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אבו",
-      "english": "他们肯"
+      "gloss": "他们肯"
     },
     {
       "surface": "לעצתי",
-      "english": "我的劝戒"
+      "gloss": "我的劝戒"
     },
     {
       "surface": "נאצו",
-      "english": "他们藐视了"
+      "gloss": "他们藐视了"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "תוכחתי",
-      "english": "我的责备"
+      "gloss": "我的责备"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:57.718226962Z",
-  "model": "glm-5.2"
+  ]
 }

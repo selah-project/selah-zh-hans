@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 21:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20926,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21442
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:47.910992481Z",
   "translation": "我的心徘徊，恐惧使我惊骇；我所渴望的黄昏，⟨את⟩ ⟨他⟩向我设立了战兢。",
   "tokens": [
     {
       "surface": "תעה",
-      "english": "徘徊"
+      "gloss": "徘徊"
     },
     {
       "surface": "לבבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "פלצות",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "בעתתני",
-      "english": "使我惊骇"
+      "gloss": "使我惊骇"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "黄昏"
     },
     {
       "surface": "נשף",
-      "english": "黄昏"
+      "gloss": "黄昏"
     },
     {
       "surface": "חשקי",
-      "english": "我所渴望的"
+      "gloss": "我所渴望的"
     },
     {
       "surface": "שם",
-      "english": "设立了"
+      "gloss": "设立了"
     },
     {
       "surface": "לי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "לחרדה",
-      "english": "战兢"
+      "gloss": "战兢"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:47.910992481Z",
-  "model": "glm-5.2"
+  ]
 }

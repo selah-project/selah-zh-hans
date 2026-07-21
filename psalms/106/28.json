@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "psalms 106:28",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64363,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64712
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:35.162142179Z",
   "translation": "他们与巴力·毗珥连合，吃了死者的祭物。",
   "tokens": [
     {
       "surface": "ויצמדו",
-      "english": "他们与……连合"
+      "gloss": "他们与……连合"
     },
     {
       "surface": "לבעל",
-      "english": "巴力"
+      "gloss": "巴力"
     },
     {
       "surface": "פעור",
-      "english": "毗珥"
+      "gloss": "毗珥"
     },
     {
       "surface": "ויאכלו",
-      "english": "吃了"
+      "gloss": "吃了"
     },
     {
       "surface": "זבחי",
-      "english": "祭物"
+      "gloss": "祭物"
     },
     {
       "surface": "מתים",
-      "english": "死者的"
+      "gloss": "死者的"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:35.162142179Z",
-  "model": "glm-5.2"
+  ]
 }

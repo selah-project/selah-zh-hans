@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 88:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 442,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64607,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65049
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:29.771942717Z",
   "translation": "我被算作与下坑的人同列；我如同一个没有力量的גֶ֫בֶר（壮士）。",
   "tokens": [
     {
       "surface": "נחשבתי",
-      "english": "我被算作"
+      "gloss": "我被算作"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "יורדי",
-      "english": "下……的人"
+      "gloss": "下……的人"
     },
     {
       "surface": "בור",
-      "english": "坑"
+      "gloss": "坑"
     },
     {
       "surface": "הייתי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "כגבר",
-      "english": "如同גֶ֫בֶר（壮士）"
+      "gloss": "如同גֶ֫בֶר（壮士）"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "איל",
-      "english": "力量"
+      "gloss": "力量"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:29.771942717Z",
-  "model": "glm-5.2"
+  ]
 }

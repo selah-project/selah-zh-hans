@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "song-of-songs 8:13",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21939,
-    "prompt_tokens_details": {
-      "cached_tokens": 20480
-    },
-    "total_tokens": 22328
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:51.704749200Z",
   "translation": "住在园中的⟨你⟩啊，同伴们侧耳倾听你的声音——⟨求你⟩让我听见！",
   "tokens": [
     {
       "surface": "היושבת",
-      "english": "住在……的⟨你⟩"
+      "gloss": "住在……的⟨你⟩"
     },
     {
       "surface": "בגנים",
-      "english": "园中"
+      "gloss": "园中"
     },
     {
       "surface": "חברים",
-      "english": "同伴们"
+      "gloss": "同伴们"
     },
     {
       "surface": "מקשיבים",
-      "english": "侧耳倾听"
+      "gloss": "侧耳倾听"
     },
     {
       "surface": "לקולך",
-      "english": "你的声音"
+      "gloss": "你的声音"
     },
     {
       "surface": "השמיעיני",
-      "english": "⟨求你⟩让我听见！"
+      "gloss": "⟨求你⟩让我听见！"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:51.704749200Z",
-  "model": "glm-5.2"
+  ]
 }

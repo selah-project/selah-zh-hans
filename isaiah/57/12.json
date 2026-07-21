@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 57:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20686,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21063
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:01:39.997269403Z",
   "translation": "我 ⟨要⟩ 宣告你的公义，和 ⟨את⟩ 你的作为；它们 ⟨将⟩ 不 ⟨会⟩ 使你受益。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אגיד",
-      "english": "⟨要⟩ 宣告"
+      "gloss": "⟨要⟩ 宣告"
     },
     {
       "surface": "צדקתך",
-      "english": "你的公义"
+      "gloss": "你的公义"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的作为"
     },
     {
       "surface": "מעשיך",
-      "english": "你的作为"
+      "gloss": "你的作为"
     },
     {
       "surface": "ולא",
-      "english": "而 ⟨将⟩ 不"
+      "gloss": "而 ⟨将⟩ 不"
     },
     {
       "surface": "יועילוך",
-      "english": "使你受益"
+      "gloss": "使你受益"
     }
-  ],
-  "timestamp": "2026-07-17T22:01:39.997269403Z",
-  "model": "glm-5.2"
+  ]
 }

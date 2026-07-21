@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 31:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23528,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23921
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:27.261755146Z",
   "translation": "他带着他的兄弟们与他一起,追赶他,走了七日的路程,在基列的山中追上了⟨他⟩。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "他带着"
+      "gloss": "他带着"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的兄弟们"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟们"
+      "gloss": "他的兄弟们"
     },
     {
       "surface": "עמו",
-      "english": "与他一起"
+      "gloss": "与他一起"
     },
     {
       "surface": "וירדף",
-      "english": "追赶"
+      "gloss": "追赶"
     },
     {
       "surface": "אחריו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "דרך",
-      "english": "路程"
+      "gloss": "路程"
     },
     {
       "surface": "שבעת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "וידבק",
-      "english": "追上了"
+      "gloss": "追上了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩ ⟨他⟩",
+      "gloss": "⟨את⟩ ⟨他⟩",
       "marks": "在基列的山中"
     },
     {
       "surface": "בהר",
-      "english": "在……的山中"
+      "gloss": "在……的山中"
     },
     {
       "surface": "הגלעד",
-      "english": "基列"
+      "gloss": "基列"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:27.261755146Z",
-  "model": "glm-5.2"
+  ]
 }

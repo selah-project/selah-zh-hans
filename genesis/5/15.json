@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 5:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23038,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23433
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:52.754138546Z",
   "translation": "玛哈拉列活了六十五年，就生了⟨את⟩雅列。",
   "tokens": [
     {
       "surface": "וַֽ\/יְחִ֣י",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "מַֽהֲלַלְאֵ֔ל",
-      "english": "玛哈拉列"
+      "gloss": "玛哈拉列"
     },
     {
       "surface": "חָמֵ֥שׁ",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "שָׁנִ֖ים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "וְ\/שִׁשִּׁ֣ים",
-      "english": "和六十"
+      "gloss": "和六十"
     },
     {
       "surface": "שָׁנָ֑ה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "就生了"
+      "gloss": "就生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅列"
     },
     {
       "surface": "יָֽרֶד",
-      "english": "雅列"
+      "gloss": "雅列"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:52.754138546Z",
-  "model": "glm-5.2"
+  ]
 }

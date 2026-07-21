@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 35:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64552,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64935
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:43.585592553Z",
   "translation": "你已看见了，雅威——不要沉默！阿多奈，不要远离我！",
   "tokens": [
     {
       "surface": "ראיתה",
-      "english": "你已看见了"
+      "gloss": "你已看见了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תחרש",
-      "english": "沉默"
+      "gloss": "沉默"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תרחק",
-      "english": "远离"
+      "gloss": "远离"
     },
     {
       "surface": "ממני",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:43.585592553Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "song-of-songs 6:3",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21811,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22191
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:21.006638190Z",
   "translation": "我属我的良人,我的良人属我;⟨他⟩⟨是⟩那在百合花中牧放的。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לדודי",
-      "english": "属我的良人"
+      "gloss": "属我的良人"
     },
     {
       "surface": "ודודי",
-      "english": "我的良人"
+      "gloss": "我的良人"
     },
     {
       "surface": "לי",
-      "english": "属我"
+      "gloss": "属我"
     },
     {
       "surface": "הרעה",
-      "english": "⟨他⟩⟨是⟩那牧放的"
+      "gloss": "⟨他⟩⟨是⟩那牧放的"
     },
     {
       "surface": "בשושנים",
-      "english": "在百合花中"
+      "gloss": "在百合花中"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:21.006638190Z",
-  "model": "glm-5.2"
+  ]
 }

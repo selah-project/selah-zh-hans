@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 9:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19601,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20144
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:57:11.399049177Z",
   "translation": "⟨他⟩宰杀⟨את⟩燔祭，亚伦的儿子们把血递给他；⟨他⟩将⟨它⟩洒在祭坛周围。",
   "tokens": [
     {
       "surface": "וַ\/יִּשְׁחַ֖ט",
-      "english": "⟨他⟩宰杀"
+      "gloss": "⟨他⟩宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭"
     },
     {
       "surface": "הָ\/עֹלָ֑ה",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "וַ\/יַּמְצִאוּ",
-      "english": "递给"
+      "gloss": "递给"
     },
     {
       "surface": "בְּנֵ֨י",
-      "english": "的儿子们"
+      "gloss": "的儿子们"
     },
     {
       "surface": "אַהֲרֹ֤ן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "אֵלָי\/ו֙",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "血"
     },
     {
       "surface": "הַ\/דָּ֔ם",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "וַ\/יִּזְרְקֵ֥\/הוּ",
-      "english": "⟨他⟩洒⟨它⟩"
+      "gloss": "⟨他⟩洒⟨它⟩"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הַ\/מִּזְבֵּ֖חַ",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "סָבִֽיב",
-      "english": "周围"
+      "gloss": "周围"
     }
-  ],
-  "timestamp": "2026-07-20T06:57:11.399049177Z",
-  "model": "glm-5.2"
+  ]
 }

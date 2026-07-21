@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 118:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64410,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64883
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:40.447189851Z",
   "translation": "愿敬畏雅威的如今说：因他的חֶסֶד (חֶסֶד) ⟨存⟩到永远。",
   "tokens": [
     {
       "surface": "יֹֽאמְרוּ",
-      "english": "愿……说"
+      "gloss": "愿……说"
     },
     {
       "surface": "נָ֭א",
-      "english": "如今"
+      "gloss": "如今"
     },
     {
       "surface": "יִרְאֵ֣י",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כִּ֖י",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "חַסְדּֽ\/וֹ",
-      "english": "他的*chesed*"
+      "gloss": "他的*chesed*"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:40.447189851Z",
-  "model": "glm-5.2"
+  ]
 }

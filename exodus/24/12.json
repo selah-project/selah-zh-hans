@@ -1,101 +1,90 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "exodus 24:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 659,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19573,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20232
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:26:58.070681252Z",
   "translation": "雅威对摩西说:上到我这里来,⟨到⟩山上,在那里,我必将⟨את⟩石版和妥拉与诫命赐给你——就是我所写下来的,为要指教他们。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "עלה",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "אלי",
-      "english": "到我这里来"
+      "gloss": "到我这里来"
     },
     {
       "surface": "ההרה",
-      "english": "⟨到⟩山上"
+      "gloss": "⟨到⟩山上"
     },
     {
       "surface": "והיה",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "שם",
-      "english": "那里"
+      "gloss": "那里"
     },
     {
       "surface": "ואתנה",
-      "english": "我必将……赐给"
+      "gloss": "我必将……赐给"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石版"
     },
     {
       "surface": "לחת",
-      "english": "版"
+      "gloss": "版"
     },
     {
       "surface": "האבן",
-      "english": "石"
+      "gloss": "石"
     },
     {
       "surface": "והתורה",
-      "english": "和妥拉"
+      "gloss": "和妥拉"
     },
     {
       "surface": "והמצוה",
-      "english": "与诫命"
+      "gloss": "与诫命"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "כתבתי",
-      "english": "我所写下来的"
+      "gloss": "我所写下来的"
     },
     {
       "surface": "להורתם",
-      "english": "为要指教他们"
+      "gloss": "为要指教他们"
     }
-  ],
-  "timestamp": "2026-07-17T18:26:58.070681252Z",
-  "model": "glm-5.2"
+  ]
 }

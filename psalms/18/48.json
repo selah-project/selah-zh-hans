@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
   "ref": "psalms 18:48",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64409,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64733
-  },
+  "verse": 48,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:00.536467596Z",
   "translation": "那位以罗欣，那赐复仇给我的，⟨他⟩使万民服在我以下。",
   "tokens": [
     {
       "surface": "האל",
-      "english": "那位以罗欣"
+      "gloss": "那位以罗欣"
     },
     {
       "surface": "הנותן",
-      "english": "那赐予者"
+      "gloss": "那赐予者"
     },
     {
       "surface": "נקמות",
-      "english": "复仇"
+      "gloss": "复仇"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     },
     {
       "surface": "וידבר",
-      "english": "⟨他⟩使服"
+      "gloss": "⟨他⟩使服"
     },
     {
       "surface": "עמים",
-      "english": "万民"
+      "gloss": "万民"
     },
     {
       "surface": "תחתי",
-      "english": "在我以下"
+      "gloss": "在我以下"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:00.536467596Z",
-  "model": "glm-5.2"
+  ]
 }

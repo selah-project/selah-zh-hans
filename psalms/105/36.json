@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "psalms 105:36",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64405,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64740
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:58.475510056Z",
   "translation": "⟨他⟩击杀了他们地中的一切长子——他们一切力量中的初熟之果。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "⟨他⟩击杀了"
+      "gloss": "⟨他⟩击杀了"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "בכור",
-      "english": "长子"
+      "gloss": "长子"
     },
     {
       "surface": "בארצם",
-      "english": "在他们地中"
+      "gloss": "在他们地中"
     },
     {
       "surface": "ראשית",
-      "english": "初熟之果"
+      "gloss": "初熟之果"
     },
     {
       "surface": "לכל",
-      "english": "他们一切"
+      "gloss": "他们一切"
     },
     {
       "surface": "אונם",
-      "english": "力量"
+      "gloss": "力量"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:58.475510056Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 64,
   "ref": "numbers 26:64",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20382,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20931
-  },
+  "verse": 64,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:49.498260265Z",
   "translation": "但在这些人中,没有一个⟨人⟩是出于摩西和亚伦祭司所数点的,就是⟨他⟩们在西奈旷野数点⟨את⟩以色列之子时所登记的。",
   "tokens": [
     {
       "surface": "ובאלה",
-      "english": "但在这些人中"
+      "gloss": "但在这些人中"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "היה",
-      "english": "⟨有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "איש",
-      "english": "一个⟨人⟩"
+      "gloss": "一个⟨人⟩"
     },
     {
       "surface": "מפקודי",
-      "english": "出于……所数点的"
+      "gloss": "出于……所数点的"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואהרן",
-      "english": "和亚伦"
+      "gloss": "和亚伦"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "פקדו",
-      "english": "⟨他⟩们数点"
+      "gloss": "⟨他⟩们数点"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列之子"
     },
     {
       "surface": "בני",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "במדבר",
-      "english": "在……旷野"
+      "gloss": "在……旷野"
     },
     {
       "surface": "סיני",
-      "english": "西奈"
+      "gloss": "西奈"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:49.498260265Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 22:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64540,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64950
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:45.436531602Z",
   "translation": "所有看见我的都嗤笑我；⟨他们⟩撇嘴摇头，",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ראי",
-      "english": "看见我的"
+      "gloss": "看见我的"
     },
     {
       "surface": "ילעגו",
-      "english": "都嗤笑"
+      "gloss": "都嗤笑"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יפטירו",
-      "english": "⟨他们⟩撇嘴"
+      "gloss": "⟨他们⟩撇嘴"
     },
     {
       "surface": "בשפה",
-      "english": "着嘴唇"
+      "gloss": "着嘴唇"
     },
     {
       "surface": "יניעו",
-      "english": "摇动"
+      "gloss": "摇动"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:45.436531602Z",
-  "model": "glm-5.2"
+  ]
 }

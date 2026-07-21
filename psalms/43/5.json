@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 43:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 652,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65180,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65832
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:02.603470366Z",
   "translation": "我的גוף为何沮丧？你为何在我里面沸腾？⟨要⟩仰望以罗欣 (神)，因为我还要称谢⟨他⟩，他是⟨我⟩面上的拯救，⟨也是⟩我的以罗欣。",
   "tokens": [
     {
       "surface": "מה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "תשתוחחי",
-      "english": "沮丧"
+      "gloss": "沮丧"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命气息"
+      "gloss": "我的生命气息"
     },
     {
       "surface": "ומה",
-      "english": "与为何"
+      "gloss": "与为何"
     },
     {
       "surface": "תהמי",
-      "english": "沸腾"
+      "gloss": "沸腾"
     },
     {
       "surface": "עלי",
-      "english": "在我上面"
+      "gloss": "在我上面"
     },
     {
       "surface": "הוחילי",
-      "english": "⟨要⟩仰望"
+      "gloss": "⟨要⟩仰望"
     },
     {
       "surface": "לאלהים",
-      "english": "向以罗欣 (神)"
+      "gloss": "向以罗欣 (神)"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עוד",
-      "english": "还"
+      "gloss": "还"
     },
     {
       "surface": "אודנו",
-      "english": "我称谢⟨他⟩"
+      "gloss": "我称谢⟨他⟩"
     },
     {
       "surface": "ישועת",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "פני",
-      "english": "我的面"
+      "gloss": "我的面"
     },
     {
       "surface": "ואלהי",
-      "english": "与我的以罗欣"
+      "gloss": "与我的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:02.603470366Z",
-  "model": "glm-5.2"
+  ]
 }

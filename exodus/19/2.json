@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 19:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18899,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19369
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:22:56.997268751Z",
   "translation": "他们从利非订起行,来到了西奈的旷野,就在旷野中安营;以色列在那里对着⟨那⟩山安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מרפידים",
-      "english": "从利非订"
+      "gloss": "从利非订"
     },
     {
       "surface": "ויבאו",
-      "english": "来到了"
+      "gloss": "来到了"
     },
     {
       "surface": "מדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "סיני",
-      "english": "西奈的"
+      "gloss": "西奈的"
     },
     {
       "surface": "ויחנו",
-      "english": "就……安营"
+      "gloss": "就……安营"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野中"
+      "gloss": "在旷野中"
     },
     {
       "surface": "ויחן",
-      "english": "安营"
+      "gloss": "安营"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "נגד",
-      "english": "对着"
+      "gloss": "对着"
     },
     {
       "surface": "ההר",
-      "english": "那山"
+      "gloss": "那山"
     }
-  ],
-  "timestamp": "2026-07-17T18:22:56.997268751Z",
-  "model": "glm-5.2"
+  ]
 }

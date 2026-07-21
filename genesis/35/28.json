@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "genesis 35:28",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 248,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22768,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 23016
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:36:02.292341208Z",
   "translation": "以撒 ⟨的⟩ 年日 ⟨是⟩ 一百岁和八十岁。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "ימי",
-      "english": "⟨的⟩ 年日"
+      "gloss": "⟨的⟩ 年日"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "מאת",
-      "english": "一百岁"
+      "gloss": "一百岁"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ושמנים",
-      "english": "和八十"
+      "gloss": "和八十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     }
-  ],
-  "timestamp": "2026-07-20T06:36:02.292341208Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 50:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64335,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64672
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:28.066343546Z",
   "translation": "我会吃阿比尔们的肉，喝公山羊的血吗？",
   "tokens": [
     {
       "surface": "האוכל",
-      "english": "我会吃"
+      "gloss": "我会吃"
     },
     {
       "surface": "בשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "אבירים",
-      "english": "阿比尔们（强壮的公牛）"
+      "gloss": "阿比尔们（强壮的公牛）"
     },
     {
       "surface": "ודם",
-      "english": "和血"
+      "gloss": "和血"
     },
     {
       "surface": "עתודים",
-      "english": "公山羊"
+      "gloss": "公山羊"
     },
     {
       "surface": "אשתה",
-      "english": "我会喝"
+      "gloss": "我会喝"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:28.066343546Z",
-  "model": "glm-5.2"
+  ]
 }

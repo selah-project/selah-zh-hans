@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-kings 15:4",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 580,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18459,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19039
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:27:01.225536554Z",
   "translation": "只是 ⟨הַ\/בָּמוֹת⟩（邱坛）没有废去，עֹד（仍然）⟨הָ\/עָם⟩（那民）在那里献祭宰牲，并在 ⟨הַ\/בָּמוֹת⟩（邱坛）上烧香。",
   "tokens": [
     {
       "surface": "רַק",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "הַ\/בָּמוֹת",
-      "english": "⟨הַ\/בָּמוֹת⟩（邱坛）"
+      "gloss": "⟨הַ\/בָּמוֹת⟩（邱坛）"
     },
     {
       "surface": "לֹא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "סָרוּ",
-      "english": "废去"
+      "gloss": "废去"
     },
     {
       "surface": "עוֹד",
-      "english": "仍然"
+      "gloss": "仍然"
     },
     {
       "surface": "הָ\/עָם",
-      "english": "⟨הָ\/עָם⟩（那民）"
+      "gloss": "⟨הָ\/עָם⟩（那民）"
     },
     {
       "surface": "מְזַבְּחִים",
-      "english": "献祭宰牲"
+      "gloss": "献祭宰牲"
     },
     {
       "surface": "וּ\/מְקַטְּרִים",
-      "english": "并在...烧香"
+      "gloss": "并在...烧香"
     },
     {
       "surface": "בַּ\/בָּמוֹת",
-      "english": "⟨הַ\/בָּמוֹת⟩（在邱坛上）"
+      "gloss": "⟨הַ\/בָּמוֹת⟩（在邱坛上）"
     }
-  ],
-  "timestamp": "2026-07-17T21:27:01.225536554Z",
-  "model": "glm-5.2"
+  ]
 }

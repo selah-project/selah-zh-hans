@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 36:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23209,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23633
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:29.788837547Z",
   "translation": "这些 ⟨是⟩ 在以东地作王的君王,在 ⟨有⟩ 君王治理以色列众子之前。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "המלכים",
-      "english": "⟨是⟩ 君王"
+      "gloss": "⟨是⟩ 君王"
     },
     {
       "surface": "אשר",
-      "english": "关系词"
+      "gloss": "关系词"
     },
     {
       "surface": "מלכו",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "לפני",
-      "english": "在……之前"
+      "gloss": "在……之前"
     },
     {
       "surface": "מלך",
-      "english": "治理(动词)"
+      "gloss": "治理(动词)"
     },
     {
       "surface": "מלך",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "לבני",
-      "english": "……的众子"
+      "gloss": "……的众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:29.788837547Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "ezekiel 37:15",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18604,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18912
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:03:35.075834318Z",
   "translation": "雅威的*davar*临到我,说:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生⟩"
+      "gloss": "⟨发生⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话)"
+      "gloss": "*davar* (话)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "临到我"
+      "gloss": "临到我"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T23:03:35.075834318Z",
-  "model": "glm-5.2"
+  ]
 }

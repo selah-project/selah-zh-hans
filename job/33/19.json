@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 33:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21598,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21932
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:25.634338519Z",
   "translation": "人⟨被责备⟩在病榻上⟨受痛苦⟩,他骨中的争战⟨是⟩持久的。",
   "tokens": [
     {
       "surface": "והוכח",
-      "english": "⟨被责备⟩"
+      "gloss": "⟨被责备⟩"
     },
     {
       "surface": "במכאוב",
-      "english": "⟨受痛苦⟩"
+      "gloss": "⟨受痛苦⟩"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "משכבו",
-      "english": "他的病榻"
+      "gloss": "他的病榻"
     },
     {
       "surface": "וריב",
-      "english": "以及争战"
+      "gloss": "以及争战"
     },
     {
       "surface": "עצמיו",
-      "english": "他的骨头"
+      "gloss": "他的骨头"
     },
     {
       "surface": "אתן",
-      "english": "持久的"
+      "gloss": "持久的"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:25.634338519Z",
-  "model": "glm-5.2"
+  ]
 }

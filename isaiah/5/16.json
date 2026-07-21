@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 5:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 703,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20674,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21377
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:36:43.566406248Z",
   "translation": "万军之雅威必在 mishpát（审判）中被高举,而圣者的*ha-El*（以罗欣）必因 tsedaká（公义）显为圣。",
   "tokens": [
     {
       "surface": "וַ\/יִּגְבַּ֛ה",
-      "english": "必被高举"
+      "gloss": "必被高举"
     },
     {
       "surface": "יְהוָ֥ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צְבָא֖וֹת",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "בַּ\/מִּשְׁפָּ֑ט",
-      "english": "在 mishpát（审判）中"
+      "gloss": "在 mishpát（审判）中"
     },
     {
       "surface": "וְ\/הָ\/אֵל֙",
-      "english": "而⟨那⟩*ha-El*（以罗欣）"
+      "gloss": "而⟨那⟩*ha-El*（以罗欣）"
     },
     {
       "surface": "הַ\/קָּד֔וֹשׁ",
-      "english": "圣者的"
+      "gloss": "圣者的"
     },
     {
       "surface": "נִקְדָּ֖שׁ",
-      "english": "必显为圣"
+      "gloss": "必显为圣"
     },
     {
       "surface": "בִּ\/צְדָקָֽה",
-      "english": "因 tsedaká（公义）"
+      "gloss": "因 tsedaká（公义）"
     }
-  ],
-  "timestamp": "2026-07-17T21:36:43.566406248Z",
-  "model": "glm-5.2"
+  ]
 }

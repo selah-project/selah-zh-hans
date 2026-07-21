@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "ezekiel 23:26",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18972,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19372
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:53:50.207043159Z",
   "translation": "他们必剥去你的衣服，取走你华美的器皿。",
   "tokens": [
     {
       "surface": "והפשיטוך",
-      "english": "他们必剥去你"
+      "gloss": "他们必剥去你"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的衣服"
     },
     {
       "surface": "בגדיך",
-      "english": "你的衣服"
+      "gloss": "你的衣服"
     },
     {
       "surface": "ולקחו",
-      "english": "并取走"
+      "gloss": "并取走"
     },
     {
       "surface": "כלי",
-      "english": "器皿"
+      "gloss": "器皿"
     },
     {
       "surface": "תפארתך",
-      "english": "你华美的"
+      "gloss": "你华美的"
     }
-  ],
-  "timestamp": "2026-07-17T22:53:50.207043159Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-kings 19:7",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64384,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64809
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:13:20.994574685Z",
   "translation": "雅威的使者第二次返回,触摸⟨他⟩,说:起来,吃吧!因为⟨这⟩路程对你太长了。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "返回"
+      "gloss": "返回"
     },
     {
       "surface": "מלאך",
-      "english": "使者"
+      "gloss": "使者"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "שנית",
-      "english": "第二次"
+      "gloss": "第二次"
     },
     {
       "surface": "ויגע",
-      "english": "触摸"
+      "gloss": "触摸"
     },
     {
       "surface": "בו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "אכל",
-      "english": "吃吧"
+      "gloss": "吃吧"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רב",
-      "english": "太长了"
+      "gloss": "太长了"
     },
     {
       "surface": "ממך",
-      "english": "对你"
+      "gloss": "对你"
     },
     {
       "surface": "הדרך",
-      "english": "⟨这⟩路程"
+      "gloss": "⟨这⟩路程"
     }
-  ],
-  "timestamp": "2026-07-17T21:13:20.994574685Z",
-  "model": "glm-5.2"
+  ]
 }

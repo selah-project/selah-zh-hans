@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 45,
   "ref": "numbers 1:45",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20301,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20848
-  },
+  "verse": 45,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:51.510227537Z",
   "translation": "凡以色列子中被数点的人,按⟨他们⟩父系宗族,从二十岁及以上,凡在以色列中出来⟨服役⟩的,⟨总数⟩如下。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨总数⟩如下"
+      "gloss": "⟨总数⟩如下"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "פקודי",
-      "english": "被数点的人"
+      "gloss": "被数点的人"
     },
     {
       "surface": "בני",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לבית",
-      "english": "按⟨他们⟩……宗族"
+      "gloss": "按⟨他们⟩……宗族"
     },
     {
       "surface": "אבתם",
-      "english": "父系"
+      "gloss": "父系"
     },
     {
       "surface": "מבן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ומעלה",
-      "english": "及以上"
+      "gloss": "及以上"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "יצא",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "צבא",
-      "english": "⟨服役⟩"
+      "gloss": "⟨服役⟩"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列中"
+      "gloss": "在以色列中"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:51.510227537Z",
-  "model": "glm-5.2"
+  ]
 }

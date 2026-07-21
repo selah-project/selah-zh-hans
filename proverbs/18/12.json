@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "proverbs 18:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 292,
-    "prompt_tokens": 54468,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54760
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:37.484008874Z",
   "translation": "在毁灭之前,人的心 ⟨是⟩ 骄傲的;在荣耀 ⟨之前⟩, ⟨有⟩ 谦卑。",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "在...之前"
+      "gloss": "在...之前"
     },
     {
       "surface": "שבר",
-      "english": "毁灭"
+      "gloss": "毁灭"
     },
     {
       "surface": "יגבה",
-      "english": "骄傲的"
+      "gloss": "骄傲的"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "ולפני",
-      "english": "在...之前"
+      "gloss": "在...之前"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "ענוה",
-      "english": "谦卑"
+      "gloss": "谦卑"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:37.484008874Z",
-  "model": "glm-4.5"
+  ]
 }

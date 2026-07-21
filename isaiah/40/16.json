@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 40:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20562,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20915
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:37.073140013Z",
   "translation": "黎巴嫩不足以⟨被⟩燃烧，它的野兽也不足以作燔祭。",
   "tokens": [
     {
       "surface": "ולבנון",
-      "english": "黎巴嫩"
+      "gloss": "黎巴嫩"
     },
     {
       "surface": "אין",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "די",
-      "english": "足以"
+      "gloss": "足以"
     },
     {
       "surface": "בער",
-      "english": "⟨被⟩燃烧"
+      "gloss": "⟨被⟩燃烧"
     },
     {
       "surface": "וחיתו",
-      "english": "它的野兽也不"
+      "gloss": "它的野兽也不"
     },
     {
       "surface": "אין",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "די",
-      "english": "足以作"
+      "gloss": "足以作"
     },
     {
       "surface": "עולה",
-      "english": "燔祭"
+      "gloss": "燔祭"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:37.073140013Z",
-  "model": "glm-5.2"
+  ]
 }

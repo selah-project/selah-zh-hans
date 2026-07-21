@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 40:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21618,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21995
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:28.305135416Z",
   "translation": "⟨他⟩是 ⟨以罗欣⟩道路之首；⟨那造他的⟩将使他的剑靠近⟨他⟩。",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ראשית",
-      "english": "是……之首"
+      "gloss": "是……之首"
     },
     {
       "surface": "דרכי",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "אל",
-      "english": "⟨以罗欣⟩"
+      "gloss": "⟨以罗欣⟩"
     },
     {
       "surface": "העשו",
-      "english": "⟨那造他的⟩"
+      "gloss": "⟨那造他的⟩"
     },
     {
       "surface": "יגש",
-      "english": "将使……靠近"
+      "gloss": "将使……靠近"
     },
     {
       "surface": "חרבו",
-      "english": "他的剑"
+      "gloss": "他的剑"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:28.305135416Z",
-  "model": "glm-5.2"
+  ]
 }

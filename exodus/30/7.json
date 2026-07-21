@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "exodus 30:7",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18873,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19451
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:58.635165235Z",
   "translation": "亚伦要在上面烧香料组成的香；每天早晨，在他整理 ⟨את⟩ 灯台的时候，他要烧它。",
   "tokens": [
     {
       "surface": "והקטיר",
-      "english": "他要烧"
+      "gloss": "他要烧"
     },
     {
       "surface": "עליו",
-      "english": "在它上面"
+      "gloss": "在它上面"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "קטרת",
-      "english": "香"
+      "gloss": "香"
     },
     {
       "surface": "סמים",
-      "english": "香料"
+      "gloss": "香料"
     },
     {
       "surface": "בבקר",
-      "english": "在早晨"
+      "gloss": "在早晨"
     },
     {
       "surface": "בבקר",
-      "english": "每天早晨"
+      "gloss": "每天早晨"
     },
     {
       "surface": "בהיטיבו",
-      "english": "在他整理时"
+      "gloss": "在他整理时"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "灯台"
     },
     {
       "surface": "הנרת",
-      "english": "灯台"
+      "gloss": "灯台"
     },
     {
       "surface": "יקטירנה",
-      "english": "他要烧它"
+      "gloss": "他要烧它"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:58.635165235Z",
-  "model": "glm-5.2"
+  ]
 }

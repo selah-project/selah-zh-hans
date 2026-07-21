@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 90,
   "ref": "psalms 119:90",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 334,
-    "prompt_tokens": 64296,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64630
-  },
+  "verse": 90,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:02.162075379Z",
   "translation": "从代到代，你的信实；你奠定了大地，而且它存在。",
   "tokens": [
     {
       "surface": "לדר",
-      "english": "从代"
+      "gloss": "从代"
     },
     {
       "surface": "ודר",
-      "english": "到代"
+      "gloss": "到代"
     },
     {
       "surface": "אמונתך",
-      "english": "你的信实"
+      "gloss": "你的信实"
     },
     {
       "surface": "כוננת",
-      "english": "你奠定了"
+      "gloss": "你奠定了"
     },
     {
       "surface": "ארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "ותעמד",
-      "english": "而且它存在"
+      "gloss": "而且它存在"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:02.162075379Z",
-  "model": "glm-4.5"
+  ]
 }

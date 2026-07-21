@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 26:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54567,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55006
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:53.816036814Z",
   "translation": "抓住狗耳朵的人,就像路过 ⟨而⟩ 被激怒、干涉不属⟨于⟩⟨他⟩之争执的人。",
   "tokens": [
     {
       "surface": "מחזיק",
-      "english": "抓住"
+      "gloss": "抓住"
     },
     {
       "surface": "באזני",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "כלב",
-      "english": "狗"
+      "gloss": "狗"
     },
     {
       "surface": "עבר",
-      "english": "路过"
+      "gloss": "路过"
     },
     {
       "surface": "מתעבר",
-      "english": "被激怒、干涉"
+      "gloss": "被激怒、干涉"
     },
     {
       "surface": "על",
-      "english": "⟨而⟩"
+      "gloss": "⟨而⟩"
     },
     {
       "surface": "ריב",
-      "english": "争执"
+      "gloss": "争执"
     },
     {
       "surface": "לא",
-      "english": "不属"
+      "gloss": "不属"
     },
     {
       "surface": "לו",
-      "english": "⟨于⟩⟨他⟩"
+      "gloss": "⟨于⟩⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:53.816036814Z",
-  "model": "glm-5.2"
+  ]
 }

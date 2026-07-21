@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 90:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64402,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64926
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:43.592664979Z",
   "translation": "谁能认识⟨你⟩怒气的力量,如⟨与你⟩当受的敬畏⟨那样⟩,⟨你的⟩烈怒呢?",
   "tokens": [
     {
       "surface": "מִֽי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "י֭וֹדֵעַ",
-      "english": "能认识"
+      "gloss": "能认识"
     },
     {
       "surface": "עֹ֣ז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "אַפֶּ֑\/ךָ",
-      "english": "⟨你⟩怒气的"
+      "gloss": "⟨你⟩怒气的"
     },
     {
       "surface": "וּ֝\/כְ\/יִרְאָתְ\/ךָ֗",
-      "english": "如⟨与你⟩当受的敬畏"
+      "gloss": "如⟨与你⟩当受的敬畏"
     },
     {
       "surface": "עֶבְרָתֶֽ\/ךָ",
-      "english": "⟨你的⟩烈怒"
+      "gloss": "⟨你的⟩烈怒"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:43.592664979Z",
-  "model": "glm-5.2"
+  ]
 }

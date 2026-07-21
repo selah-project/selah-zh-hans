@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 121:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64418,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64669
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:13.415662518Z",
   "translation": "雅威必守护你出入 ⟨的每一刻⟩，从今直到永远。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ישמר",
-      "english": "必守护"
+      "gloss": "必守护"
     },
     {
       "surface": "צאתך",
-      "english": "你出去"
+      "gloss": "你出去"
     },
     {
       "surface": "ובואך",
-      "english": "和你进来"
+      "gloss": "和你进来"
     },
     {
       "surface": "מעתה",
-      "english": "从今"
+      "gloss": "从今"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:13.415662518Z",
-  "model": "glm-5.2"
+  ]
 }

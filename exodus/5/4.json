@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 5:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19078,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19618
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:16.400860041Z",
   "translation": "埃及的王对他们说:摩西、亚伦,为什么你们要释放⟨את⟩⟨这⟩百姓脱离他们的工?去,去扛你们的重担!",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מצרים",
-      "english": "埃及的"
+      "gloss": "埃及的"
     },
     {
       "surface": "למה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "תפריעו",
-      "english": "你们要释放"
+      "gloss": "你们要释放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨这⟩百姓"
     },
     {
       "surface": "העם",
-      "english": "⟨这⟩百姓"
+      "gloss": "⟨这⟩百姓"
     },
     {
       "surface": "ממעשיו",
-      "english": "脱离他们的工"
+      "gloss": "脱离他们的工"
     },
     {
       "surface": "לכו",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "לסבלתיכם",
-      "english": "去扛你们的重担"
+      "gloss": "去扛你们的重担"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:16.400860041Z",
-  "model": "glm-5.2"
+  ]
 }

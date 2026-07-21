@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 88:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64321,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64657
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:17.666253311Z",
   "translation": "你将我放在极深的坑中,在黑暗里,在深渊中。",
   "tokens": [
     {
       "surface": "שתני",
-      "english": "你将我放在"
+      "gloss": "你将我放在"
     },
     {
       "surface": "בבור",
-      "english": "在坑中"
+      "gloss": "在坑中"
     },
     {
       "surface": "תחתיות",
-      "english": "极深的"
+      "gloss": "极深的"
     },
     {
       "surface": "במחשכים",
-      "english": "在黑暗里"
+      "gloss": "在黑暗里"
     },
     {
       "surface": "במצלות",
-      "english": "在深渊中"
+      "gloss": "在深渊中"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:17.666253311Z",
-  "model": "glm-5.2"
+  ]
 }

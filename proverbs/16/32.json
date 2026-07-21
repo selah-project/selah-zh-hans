@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "proverbs 16:32",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54499,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54922
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:32.578004257Z",
   "translation": "缓慢鼻息的 ⟨人⟩ ⟨比⟩ 勇士更好,掌管自己鲁阿的 ⟨人⟩ ⟨比⟩ 攻取城池的 ⟨人⟩ 更好。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好"
+      "gloss": "更好"
     },
     {
       "surface": "ארך",
-      "english": "缓慢的"
+      "gloss": "缓慢的"
     },
     {
       "surface": "אפים",
-      "english": "鼻息"
+      "gloss": "鼻息"
     },
     {
       "surface": "מגבור",
-      "english": "⟨比⟩ 勇士"
+      "gloss": "⟨比⟩ 勇士"
     },
     {
       "surface": "ומשל",
-      "english": "和掌管"
+      "gloss": "和掌管"
     },
     {
       "surface": "ברוחו",
-      "english": "自己鲁阿的"
+      "gloss": "自己鲁阿的"
     },
     {
       "surface": "מלכד",
-      "english": "⟨比⟩ 攻取"
+      "gloss": "⟨比⟩ 攻取"
     },
     {
       "surface": "עיר",
-      "english": "城池"
+      "gloss": "城池"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:32.578004257Z",
-  "model": "glm-5.2"
+  ]
 }

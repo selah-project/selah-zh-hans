@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "genesis 44:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 323,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23088,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23411
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:04:36.203519973Z",
   "translation": "我主问⟨他⟩的仆人们,说:你们有父亲或兄弟吗?",
   "tokens": [
     {
       "surface": "אדני",
-      "english": "我主"
+      "gloss": "我主"
     },
     {
       "surface": "שאל",
-      "english": "问"
+      "gloss": "问"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的仆人们"
     },
     {
       "surface": "עבדיו",
-      "english": "他的仆人们"
+      "gloss": "他的仆人们"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "היש",
-      "english": "有……吗"
+      "gloss": "有……吗"
     },
     {
       "surface": "לכם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "אב",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "אח",
-      "english": "兄弟"
+      "gloss": "兄弟"
     }
-  ],
-  "timestamp": "2026-07-17T18:04:36.203519973Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 6:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21759,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22122
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:04.594598717Z",
   "translation": "我的力量是什么，⟨以至于⟩我⟨还要⟩等候？我的终局是什么，⟨以至于⟩我⟨还要⟩拉长我的气息？",
   "tokens": [
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "כחי",
-      "english": "我的力量"
+      "gloss": "我的力量"
     },
     {
       "surface": "כי",
-      "english": "⟨以至于⟩"
+      "gloss": "⟨以至于⟩"
     },
     {
       "surface": "איחל",
-      "english": "我⟨还要⟩等候"
+      "gloss": "我⟨还要⟩等候"
     },
     {
       "surface": "ומה",
-      "english": "而我的"
+      "gloss": "而我的"
     },
     {
       "surface": "קצי",
-      "english": "终局是什么"
+      "gloss": "终局是什么"
     },
     {
       "surface": "כי",
-      "english": "⟨以至于⟩"
+      "gloss": "⟨以至于⟩"
     },
     {
       "surface": "אאריך",
-      "english": "我⟨还要⟩拉长"
+      "gloss": "我⟨还要⟩拉长"
     },
     {
       "surface": "נפשי",
-      "english": "我的气息"
+      "gloss": "我的气息"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:04.594598717Z",
-  "model": "glm-5.2"
+  ]
 }

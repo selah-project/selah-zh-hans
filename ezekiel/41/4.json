@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezekiel 41:4",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 550,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19735,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20285
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:06:41.340405389Z",
   "translation": "他量了⟨את⟩它的长，二十肘；⟨和⟩宽二十肘，朝向殿前面；他对我说：这是至圣所。",
   "tokens": [
     {
       "surface": "וימד",
-      "english": "他量了"
+      "gloss": "他量了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的长"
     },
     {
       "surface": "ארכו",
-      "english": "它的长"
+      "gloss": "它的长"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "אמה",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "ורחב",
-      "english": "⟨和⟩宽"
+      "gloss": "⟨和⟩宽"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "אמה",
-      "english": "肘"
+      "gloss": "肘"
     },
     {
       "surface": "אל",
-      "english": "朝向"
+      "gloss": "朝向"
     },
     {
       "surface": "פני",
-      "english": "前面"
+      "gloss": "前面"
     },
     {
       "surface": "ההיכל",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "זה",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "הקדשים",
-      "english": "至圣所"
+      "gloss": "至圣所"
     }
-  ],
-  "timestamp": "2026-07-17T23:06:41.340405389Z",
-  "model": "glm-5.2"
+  ]
 }

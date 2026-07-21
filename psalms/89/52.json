@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
   "ref": "psalms 89:52",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64550,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65032
-  },
+  "verse": 52,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:32.039572036Z",
   "translation": "你的仇敌雅威，他们辱骂了什么；⟨就是⟩他们辱骂了你受膏者脚踪的⟨那些⟩事。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "חרפו",
-      "english": "他们辱骂了"
+      "gloss": "他们辱骂了"
     },
     {
       "surface": "אויביך",
-      "english": "你的仇敌"
+      "gloss": "你的仇敌"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩……的⟨那些⟩事"
+      "gloss": "⟨就是⟩……的⟨那些⟩事"
     },
     {
       "surface": "חרפו",
-      "english": "他们辱骂了"
+      "gloss": "他们辱骂了"
     },
     {
       "surface": "עקבות",
-      "english": "脚踪"
+      "gloss": "脚踪"
     },
     {
       "surface": "משיחך",
-      "english": "你受膏者"
+      "gloss": "你受膏者"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:32.039572036Z",
-  "model": "glm-5.2"
+  ]
 }

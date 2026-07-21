@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 2:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64780,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65237
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:52.703591957Z",
   "translation": "我要述说 ⟨关于⟩ 制定：雅威曾对我说：你是我的子，我今日生了你。",
   "tokens": [
     {
       "surface": "אספרה",
-      "english": "我要述说"
+      "gloss": "我要述说"
     },
     {
       "surface": "אל",
-      "english": "⟨关于⟩"
+      "gloss": "⟨关于⟩"
     },
     {
       "surface": "חק",
-      "english": "制定"
+      "gloss": "制定"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אמר",
-      "english": "曾"
+      "gloss": "曾"
     },
     {
       "surface": "אלי",
-      "english": "对我说"
+      "gloss": "对我说"
     },
     {
       "surface": "בני",
-      "english": "我的子"
+      "gloss": "我的子"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "היום",
-      "english": "今日"
+      "gloss": "今日"
     },
     {
       "surface": "ילדתיך",
-      "english": "生了你"
+      "gloss": "生了你"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:52.703591957Z",
-  "model": "glm-5.2"
+  ]
 }

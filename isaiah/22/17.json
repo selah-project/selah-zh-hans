@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "isaiah 22:17",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20623,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21198
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:23.170958960Z",
   "translation": "看哪，雅威将你猛力抛掷，一次猛烈的抛掷，⟨你这⟩大能者；他必包裹你，⟨也⟩掩盖你。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מטלטלך",
-      "english": "将你猛力抛掷"
+      "gloss": "将你猛力抛掷"
     },
     {
       "surface": "טלטלה",
-      "english": "一次猛烈的抛掷"
+      "gloss": "一次猛烈的抛掷"
     },
     {
       "surface": "גבר",
-      "english": "大能者"
+      "gloss": "大能者"
     },
     {
       "surface": "ועטך",
-      "english": "⟨也⟩包裹你"
+      "gloss": "⟨也⟩包裹你"
     },
     {
       "surface": "עטה",
-      "english": "掩盖"
+      "gloss": "掩盖"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:23.170958960Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 40:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 292,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20318,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20610
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:04.930736631Z",
   "translation": "安慰吧,安慰吧,⟨你们⟩我的民,”⟨你们的⟩以罗欣说。",
   "tokens": [
     {
       "surface": "נחמו",
-      "english": "安慰吧"
+      "gloss": "安慰吧"
     },
     {
       "surface": "נחמו",
-      "english": "安慰吧"
+      "gloss": "安慰吧"
     },
     {
       "surface": "עמי",
-      "english": "我的民"
+      "gloss": "我的民"
     },
     {
       "surface": "יאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אלהיכם",
-      "english": "⟨你们的⟩以罗欣"
+      "gloss": "⟨你们的⟩以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:04.930736631Z",
-  "model": "glm-5.2"
+  ]
 }

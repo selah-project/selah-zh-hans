@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "micah 1:6",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 638,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17786,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18424
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:41.711818242Z",
   "translation": "我必使撒马利亚变为田间的废墟,⟨变为⟩栽植葡萄园之处;我必把她的石头滚入谷中,显露她的根基。",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "我必使……变为"
+      "gloss": "我必使……变为"
     },
     {
       "surface": "שמרון",
-      "english": "撒马利亚"
+      "gloss": "撒马利亚"
     },
     {
       "surface": "לעי",
-      "english": "变为废墟"
+      "gloss": "变为废墟"
     },
     {
       "surface": "השדה",
-      "english": "田间的"
+      "gloss": "田间的"
     },
     {
       "surface": "למטעי",
-      "english": "栽植……之处"
+      "gloss": "栽植……之处"
     },
     {
       "surface": "כרם",
-      "english": "葡萄园"
+      "gloss": "葡萄园"
     },
     {
       "surface": "והגרתי",
-      "english": "我必把……滚入"
+      "gloss": "我必把……滚入"
     },
     {
       "surface": "לגי",
-      "english": "谷中"
+      "gloss": "谷中"
     },
     {
       "surface": "אבניה",
-      "english": "她的石头"
+      "gloss": "她的石头"
     },
     {
       "surface": "ויסדיה",
-      "english": "她的根基"
+      "gloss": "她的根基"
     },
     {
       "surface": "אגלה",
-      "english": "显露"
+      "gloss": "显露"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:41.711818242Z",
-  "model": "glm-5.2"
+  ]
 }

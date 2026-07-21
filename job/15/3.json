@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 15:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21622,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22059
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:39.865049012Z",
   "translation": "以 *davar* 纠责,⟨这⟩不⟨有益⟩;⟨以及⟩言语,⟨它们⟩不⟨有用⟩在其中?",
   "tokens": [
     {
       "surface": "הוכח",
-      "english": "以……纠责"
+      "gloss": "以……纠责"
     },
     {
       "surface": "בדבר",
-      "english": "以 *davar* (话)"
+      "gloss": "以 *davar* (话)"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יסכון",
-      "english": "⟨有益⟩"
+      "gloss": "⟨有益⟩"
     },
     {
       "surface": "ומלים",
-      "english": "⟨以及⟩言语"
+      "gloss": "⟨以及⟩言语"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יועיל",
-      "english": "⟨有用⟩"
+      "gloss": "⟨有用⟩"
     },
     {
       "surface": "בם",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:39.865049012Z",
-  "model": "glm-5.2"
+  ]
 }

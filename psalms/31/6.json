@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 31:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64675,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65078
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:44:16.727539612Z",
   "translation": "在你的手中我交托我的鲁阿；你赎出了⟨את⟩我，雅威，以罗欣 ⟨的⟩ 真理。",
   "tokens": [
     {
       "surface": "בידך",
-      "english": "在你的手中"
+      "gloss": "在你的手中"
     },
     {
       "surface": "אפקיד",
-      "english": "我交托"
+      "gloss": "我交托"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "פדיתה",
-      "english": "你赎出了"
+      "gloss": "你赎出了"
     },
     {
       "surface": "אותי",
-      "english": "⟨את⟩我",
+      "gloss": "⟨את⟩我",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אמת",
-      "english": "真理"
+      "gloss": "真理"
     }
-  ],
-  "timestamp": "2026-07-20T06:44:16.727539612Z",
-  "model": "glm-5.2"
+  ]
 }

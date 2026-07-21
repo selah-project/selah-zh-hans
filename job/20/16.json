@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 20:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21535,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21974
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:02.139157520Z",
   "translation": "他必吸吮虺蛇的⟨רֹאשׁ⟩；蝮蛇的舌头必将他杀死。",
   "tokens": [
     {
       "surface": "ראש",
-      "english": "⟨רֹאשׁ⟩（毒液）"
+      "gloss": "⟨רֹאשׁ⟩（毒液）"
     },
     {
       "surface": "פתנים",
-      "english": "虺蛇的"
+      "gloss": "虺蛇的"
     },
     {
       "surface": "יינק",
-      "english": "他必吸吮"
+      "gloss": "他必吸吮"
     },
     {
       "surface": "תהרגהו",
-      "english": "必将他杀死"
+      "gloss": "必将他杀死"
     },
     {
       "surface": "לשון",
-      "english": "……的舌头"
+      "gloss": "……的舌头"
     },
     {
       "surface": "אפעה",
-      "english": "蝮蛇"
+      "gloss": "蝮蛇"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:02.139157520Z",
-  "model": "glm-5.2"
+  ]
 }

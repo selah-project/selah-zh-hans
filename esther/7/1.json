@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "esther 7:1",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19051,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19366
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:26:31.119972765Z",
   "translation": "王和哈曼进来,与以斯帖王后⟨一同⟩饮酒。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "⟨他⟩进来"
+      "gloss": "⟨他⟩进来"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "והמן",
-      "english": "和哈曼"
+      "gloss": "和哈曼"
     },
     {
       "surface": "לשתות",
-      "english": "饮酒"
+      "gloss": "饮酒"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     },
     {
       "surface": "המלכה",
-      "english": "王后"
+      "gloss": "王后"
     }
-  ],
-  "timestamp": "2026-07-18T01:26:31.119972765Z",
-  "model": "glm-5.2"
+  ]
 }

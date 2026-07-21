@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 13:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 602,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21582,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22184
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:43.901758027Z",
   "translation": "我有多少 ⟨עֲוֺנ֣וֹת⟩ 和罪过？我的过犯和我的罪 —— ⟨你⟩ 使我知道！",
   "tokens": [
     {
       "surface": "כַּ\/מָּ֣ה",
-      "english": "有多少"
+      "gloss": "有多少"
     },
     {
       "surface": "לִ֭\/י",
-      "english": "我有"
+      "gloss": "我有"
     },
     {
       "surface": "עֲוֺנ֣וֹת",
-      "english": "⟨עֲוֺנ֣וֹת⟩"
+      "gloss": "⟨עֲוֺנ֣וֹת⟩"
     },
     {
       "surface": "וְ\/חַטָּא֑וֹת",
-      "english": "和罪过"
+      "gloss": "和罪过"
     },
     {
       "surface": "פִּֽשְׁעִ֥\/י",
-      "english": "我的过犯"
+      "gloss": "我的过犯"
     },
     {
       "surface": "וְ֝\/חַטָּאתִ֗\/י",
-      "english": "和我的罪"
+      "gloss": "和我的罪"
     },
     {
       "surface": "הֹדִיעֵֽ\/נִי",
-      "english": "⟨你⟩ 使我知道！"
+      "gloss": "⟨你⟩ 使我知道！"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:43.901758027Z",
-  "model": "glm-5.2"
+  ]
 }

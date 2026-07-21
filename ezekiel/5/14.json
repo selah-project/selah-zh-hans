@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "ezekiel 5:14",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19141,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19557
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:42:12.135981963Z",
   "translation": "我必将⟨你⟩赐为荒凉，并在四围的列国中赐为羞辱，在一切经过的人眼前。",
   "tokens": [
     {
       "surface": "ואתנך",
-      "english": "我必将⟨你⟩赐"
+      "gloss": "我必将⟨你⟩赐"
     },
     {
       "surface": "לחרבה",
-      "english": "为荒凉"
+      "gloss": "为荒凉"
     },
     {
       "surface": "ולחרפה",
-      "english": "并……赐为羞辱"
+      "gloss": "并……赐为羞辱"
     },
     {
       "surface": "בגוים",
-      "english": "在列国中"
+      "gloss": "在列国中"
     },
     {
       "surface": "אשר",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "סביבותיך",
-      "english": "在你四围的"
+      "gloss": "在你四围的"
     },
     {
       "surface": "לעיני",
-      "english": "在……眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "עובר",
-      "english": "经过的人"
+      "gloss": "经过的人"
     }
-  ],
-  "timestamp": "2026-07-17T22:42:12.135981963Z",
-  "model": "glm-5.2"
+  ]
 }

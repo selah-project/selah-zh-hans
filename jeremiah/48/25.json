@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "jeremiah 48:25",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18943,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19288
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:34:53.769854428Z",
   "translation": "摩押的角被砍断,他的膀臂也粉碎了 —— 这是雅威的神谕。",
   "tokens": [
     {
       "surface": "נִגְדְּעָה",
-      "english": "被砍断"
+      "gloss": "被砍断"
     },
     {
       "surface": "קֶרֶן",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "מוֹאָב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "וְ\/זְרֹעַ\/וֹ",
-      "english": "他的膀臂也"
+      "gloss": "他的膀臂也"
     },
     {
       "surface": "נִשְׁבָּרָה",
-      "english": "粉碎了"
+      "gloss": "粉碎了"
     },
     {
       "surface": "נְאֻם",
-      "english": "神谕"
+      "gloss": "神谕"
     },
     {
       "surface": "יְהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:34:53.769854428Z",
-  "model": "glm-5.2"
+  ]
 }

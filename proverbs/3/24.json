@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 3:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54415,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54741
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:56.987183689Z",
   "translation": "你若躺下，⟨就⟩必不惊恐；你躺卧，你的睡眠必甘甜。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "你若"
+      "gloss": "你若"
     },
     {
       "surface": "תשכב",
-      "english": "躺下"
+      "gloss": "躺下"
     },
     {
       "surface": "לא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "תפחד",
-      "english": "惊恐"
+      "gloss": "惊恐"
     },
     {
       "surface": "ושכבת",
-      "english": "你躺卧"
+      "gloss": "你躺卧"
     },
     {
       "surface": "וערבה",
-      "english": "必甘甜"
+      "gloss": "必甘甜"
     },
     {
       "surface": "שנתך",
-      "english": "你的睡眠"
+      "gloss": "你的睡眠"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:56.987183689Z",
-  "model": "glm-5.2"
+  ]
 }

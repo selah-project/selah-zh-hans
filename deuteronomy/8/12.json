@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "deuteronomy 8:12",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19098,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19499
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:33:09.281165183Z",
   "translation": "免得 ⟨你⟩ 吃了吃饱，建造美好的房屋⟨并⟩居住⟨在其中⟩——",
   "tokens": [
     {
       "surface": "פֶּן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "תֹּאכַ֖ל",
-      "english": "⟨你⟩吃了"
+      "gloss": "⟨你⟩吃了"
     },
     {
       "surface": "וְ\/שָׂבָ֑עְתָּ",
-      "english": "吃饱"
+      "gloss": "吃饱"
     },
     {
       "surface": "וּ\/בָתִּ֥ים",
-      "english": "⟨并⟩……房屋"
+      "gloss": "⟨并⟩……房屋"
     },
     {
       "surface": "טוֹבִ֛ים",
-      "english": "美好的"
+      "gloss": "美好的"
     },
     {
       "surface": "תִּבְנֶ֖ה",
-      "english": "⟨你⟩建造"
+      "gloss": "⟨你⟩建造"
     },
     {
       "surface": "וְ\/יָשָֽׁבְתָּ",
-      "english": "⟨并⟩居住⟨在其中⟩"
+      "gloss": "⟨并⟩居住⟨在其中⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:33:09.281165183Z",
-  "model": "glm-5.2"
+  ]
 }

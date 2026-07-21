@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "amos 3:2",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 695,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18704,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19399
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:20:04.085348235Z",
   "translation": "唯独 ⟨את⟩你们我认识，地上所有宗族之中；因此我必追讨 ⟨את⟩你们一切的罪孽。",
   "tokens": [
     {
       "surface": "רַ֚ק",
-      "english": "唯独"
+      "gloss": "唯独"
     },
     {
       "surface": "אֶתְ\/כֶ֣ם",
-      "english": "⟨את⟩你们",
+      "gloss": "⟨את⟩你们",
       "marks": "认识的对象"
     },
     {
       "surface": "יָדַ֔עְתִּי",
-      "english": "我认识"
+      "gloss": "我认识"
     },
     {
       "surface": "מִ\/כֹּ֖ל",
-      "english": "所有……之中"
+      "gloss": "所有……之中"
     },
     {
       "surface": "מִשְׁפְּח֣וֹת",
-      "english": "宗族"
+      "gloss": "宗族"
     },
     {
       "surface": "הָ\/אֲדָמָ֑ה",
-      "english": "地上"
+      "gloss": "地上"
     },
     {
       "surface": "עַל",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כֵּן֙",
-      "english": "所以"
+      "gloss": "所以"
     },
     {
       "surface": "אֶפְקֹ֣ד",
-      "english": "我必追讨"
+      "gloss": "我必追讨"
     },
     {
       "surface": "עֲלֵי\/כֶ֔ם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们一切的罪孽"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "עֲוֺנֹֽתֵי\/כֶֽם",
-      "english": "你们的罪孽"
+      "gloss": "你们的罪孽"
     }
-  ],
-  "timestamp": "2026-07-17T23:20:04.085348235Z",
-  "model": "glm-5.2"
+  ]
 }

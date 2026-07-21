@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 5:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19930,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20393
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:49.644950786Z",
   "translation": "各 ⟨人⟩⟨的⟩ 圣物要归⟨他⟩自己；凡 ⟨人⟩ 所献给*kohén*（祭司）的，要归⟨祭司⟩。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "各 ⟨人⟩"
+      "gloss": "各 ⟨人⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的圣物"
     },
     {
       "surface": "קדשיו",
-      "english": "⟨的⟩ 圣物"
+      "gloss": "⟨的⟩ 圣物"
     },
     {
       "surface": "לו",
-      "english": "归⟨他⟩"
+      "gloss": "归⟨他⟩"
     },
     {
       "surface": "יהיו",
-      "english": "要⟨成为⟩ 自己"
+      "gloss": "要⟨成为⟩ 自己"
     },
     {
       "surface": "איש",
-      "english": "凡 ⟨人⟩"
+      "gloss": "凡 ⟨人⟩"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "יתן",
-      "english": "献给"
+      "gloss": "献给"
     },
     {
       "surface": "לכהן",
-      "english": "*kohén*（祭司）的"
+      "gloss": "*kohén*（祭司）的"
     },
     {
       "surface": "לו",
-      "english": "归⟨祭司⟩"
+      "gloss": "归⟨祭司⟩"
     },
     {
       "surface": "יהיה",
-      "english": "要⟨成为⟩"
+      "gloss": "要⟨成为⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:49.644950786Z",
-  "model": "glm-5.2"
+  ]
 }

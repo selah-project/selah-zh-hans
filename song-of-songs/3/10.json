@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "song-of-songs 3:10",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 720,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22624,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 23344
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:22.319830248Z",
   "translation": "其柱子他⟨用⟩银做了，其靠背⟨用⟩金，其座椅⟨用⟩紫紫色——其内部由耶路撒冷的女儿们⟨用⟩爱铺设。",
   "tokens": [
     {
       "surface": "עַמּוּדָיו",
-      "english": "其柱子"
+      "gloss": "其柱子"
     },
     {
       "surface": "עָשָׂה",
-      "english": "他做了"
+      "gloss": "他做了"
     },
     {
       "surface": "כֶסֶף",
-      "english": "银"
+      "gloss": "银"
     },
     {
       "surface": "רְפִידָתוֹ",
-      "english": "其靠背"
+      "gloss": "其靠背"
     },
     {
       "surface": "זָהָב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "מֶרְכָּבוֹ",
-      "english": "其座椅"
+      "gloss": "其座椅"
     },
     {
       "surface": "אַרְגָּמָן",
-      "english": "紫紫色"
+      "gloss": "紫紫色"
     },
     {
       "surface": "תּוֹכוֹ",
-      "english": "其内部"
+      "gloss": "其内部"
     },
     {
       "surface": "רָצוּף",
-      "english": "被铺设"
+      "gloss": "被铺设"
     },
     {
       "surface": "אַהֲבָה",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "מִבְּנוֹת",
-      "english": "由……的女儿们"
+      "gloss": "由……的女儿们"
     },
     {
       "surface": "יְרוּשָׁלִָם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:22.319830248Z",
-  "model": "glm-5.2"
+  ]
 }

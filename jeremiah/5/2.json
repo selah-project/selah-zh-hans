@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "jeremiah 5:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 323,
-    "prompt_tokens": 18980,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 19303
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:18:00.350249656Z",
   "translation": "虽然他们说‘雅威活着’,却确实指着虚妄起誓",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "虽然"
+      "gloss": "虽然"
     },
     {
       "surface": "חי",
-      "english": "活着"
+      "gloss": "活着"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יאמרו",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "לכן",
-      "english": "却确实"
+      "gloss": "却确实"
     },
     {
       "surface": "לשקר",
-      "english": "指着虚妄"
+      "gloss": "指着虚妄"
     },
     {
       "surface": "ישבעו",
-      "english": "起誓"
+      "gloss": "起誓"
     }
-  ],
-  "timestamp": "2026-07-21T13:18:00.350249656Z",
-  "model": "glm-4.5"
+  ]
 }

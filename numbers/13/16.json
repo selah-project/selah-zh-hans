@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 13:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20219,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20658
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:43.593688508Z",
   "translation": "这些是摩西打发去窥探⟨那⟩地的人的名字；摩西称呼嫩的儿子何西阿为约书亚。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "שמות",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "האנשים",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "אשר",
-      "english": "（关系代词）"
+      "gloss": "（关系代词）"
     },
     {
       "surface": "שלח",
-      "english": "打发"
+      "gloss": "打发"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לתור",
-      "english": "去窥探"
+      "gloss": "去窥探"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那地"
     },
     {
       "surface": "הארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "ויקרא",
-      "english": "称呼"
+      "gloss": "称呼"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "להושע",
-      "english": "给何西阿"
+      "gloss": "给何西阿"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "נון",
-      "english": "嫩"
+      "gloss": "嫩"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:43.593688508Z",
-  "model": "glm-5.2"
+  ]
 }

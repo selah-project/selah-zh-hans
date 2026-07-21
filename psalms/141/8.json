@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 141:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64751,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65296
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:49.021987741Z",
   "translation": "因为我的眼向着⟨你⟩，雅威阿多奈；⟨在⟩⟨你⟩里面我寻求了庇护。不要使我的נפש（生命气息）露体受暴露。",
   "tokens": [
     {
       "surface": "כִּ֤י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אֵלֶ֨י\/ךָ",
-      "english": "向着⟨你⟩"
+      "gloss": "向着⟨你⟩"
     },
     {
       "surface": "יְהֹוִ֣ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אֲדֹנָ֣\/י",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "עֵינָ֑\/י",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "בְּ\/כָ֥ה",
-      "english": "⟨在⟩⟨你⟩里面"
+      "gloss": "⟨在⟩⟨你⟩里面"
     },
     {
       "surface": "חָ֝סִ֗יתִי",
-      "english": "我寻求了庇护"
+      "gloss": "我寻求了庇护"
     },
     {
       "surface": "אַל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תְּעַ֥ר",
-      "english": "使……露体受暴露"
+      "gloss": "使……露体受暴露"
     },
     {
       "surface": "נַפְשִֽׁ\/י",
-      "english": "我的נפש（生命气息）"
+      "gloss": "我的נפש（生命气息）"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:49.021987741Z",
-  "model": "glm-5.2"
+  ]
 }

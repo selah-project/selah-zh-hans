@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "genesis 46:30",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23564,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24095
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:06:15.905995465Z",
   "translation": "以色列对约瑟说:这次我可以死了,既然我已见了⟨你的⟩面,见了⟨את⟩,因为你仍活着。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "אמותה",
-      "english": "我可以死[了]"
+      "gloss": "我可以死[了]"
     },
     {
       "surface": "הפעם",
-      "english": "这次"
+      "gloss": "这次"
     },
     {
       "surface": "אחרי",
-      "english": "既然"
+      "gloss": "既然"
     },
     {
       "surface": "ראותי",
-      "english": "我已见"
+      "gloss": "我已见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的面"
     },
     {
       "surface": "פניך",
-      "english": "你的面"
+      "gloss": "你的面"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עודך",
-      "english": "你仍"
+      "gloss": "你仍"
     },
     {
       "surface": "חי",
-      "english": "活着"
+      "gloss": "活着"
     }
-  ],
-  "timestamp": "2026-07-17T18:06:15.905995465Z",
-  "model": "glm-5.2"
+  ]
 }

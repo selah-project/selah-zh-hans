@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 6:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21063,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21578
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:37:12.264550864Z",
   "translation": "他说：你去，对这百姓说：你们听吧又听，但不要明白；你们看吧又看，但不要知道。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "לך",
-      "english": "你去"
+      "gloss": "你去"
     },
     {
       "surface": "ואמרת",
-      "english": "⟨你⟩要说"
+      "gloss": "⟨你⟩要说"
     },
     {
       "surface": "לעם",
-      "english": "对⟨这⟩百姓"
+      "gloss": "对⟨这⟩百姓"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "שמעו",
-      "english": "你们听吧"
+      "gloss": "你们听吧"
     },
     {
       "surface": "שמוע",
-      "english": "又听"
+      "gloss": "又听"
     },
     {
       "surface": "ואל",
-      "english": "但不要"
+      "gloss": "但不要"
     },
     {
       "surface": "תבינו",
-      "english": "明白"
+      "gloss": "明白"
     },
     {
       "surface": "וראו",
-      "english": "你们看吧"
+      "gloss": "你们看吧"
     },
     {
       "surface": "ראו",
-      "english": "又看"
+      "gloss": "又看"
     },
     {
       "surface": "ואל",
-      "english": "但不要"
+      "gloss": "但不要"
     },
     {
       "surface": "תדעו",
-      "english": "知道"
+      "gloss": "知道"
     }
-  ],
-  "timestamp": "2026-07-17T21:37:12.264550864Z",
-  "model": "glm-5.2"
+  ]
 }

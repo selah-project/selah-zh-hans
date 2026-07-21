@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 56:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64278,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64598
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:23.396138916Z",
   "translation": "我惧怕的日子——我向⟨你⟩信靠。",
   "tokens": [
     {
       "surface": "יום",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "אירא",
-      "english": "我惧怕"
+      "gloss": "我惧怕"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אליך",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     },
     {
       "surface": "אבטח",
-      "english": "信靠"
+      "gloss": "信靠"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:23.396138916Z",
-  "model": "glm-5.2"
+  ]
 }

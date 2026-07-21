@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "ecclesiastes 7:15",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19596,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 20088
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:30.737955325Z",
   "translation": "⟨את⟩ 一切我都看见了,在我的虚无之日中:有一个义人⟨在他⟩的义中灭亡,又有一个恶人⟨在他⟩的恶中长久。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切"
     },
     {
       "surface": "הכל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ראיתי",
-      "english": "我都看见了"
+      "gloss": "我都看见了"
     },
     {
       "surface": "בימי",
-      "english": "在……之日中"
+      "gloss": "在……之日中"
     },
     {
       "surface": "הבלי",
-      "english": "我的虚无"
+      "gloss": "我的虚无"
     },
     {
       "surface": "יש",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "צדיק",
-      "english": "一个义人"
+      "gloss": "一个义人"
     },
     {
       "surface": "אבד",
-      "english": "灭亡"
+      "gloss": "灭亡"
     },
     {
       "surface": "בצדקו",
-      "english": "在他的义中"
+      "gloss": "在他的义中"
     },
     {
       "surface": "ויש",
-      "english": "又有一个"
+      "gloss": "又有一个"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "מאריך",
-      "english": "长久"
+      "gloss": "长久"
     },
     {
       "surface": "ברעתו",
-      "english": "在他的恶中"
+      "gloss": "在他的恶中"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:30.737955325Z",
-  "model": "glm-5.2"
+  ]
 }

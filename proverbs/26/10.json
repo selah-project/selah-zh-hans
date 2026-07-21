@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 26:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54425,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54801
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:57.619023821Z",
   "translation": "许多人⟨被⟩弄伤——一切；雇愚昧人的像雇过路的人一样。",
   "tokens": [
     {
       "surface": "רב",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "מחולל",
-      "english": "⟨被⟩弄伤"
+      "gloss": "⟨被⟩弄伤"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ושכר",
-      "english": "雇"
+      "gloss": "雇"
     },
     {
       "surface": "כסיל",
-      "english": "愚昧人的"
+      "gloss": "愚昧人的"
     },
     {
       "surface": "ושכר",
-      "english": "像雇"
+      "gloss": "像雇"
     },
     {
       "surface": "עברים",
-      "english": "过路的人一样"
+      "gloss": "过路的人一样"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:57.619023821Z",
-  "model": "glm-5.2"
+  ]
 }

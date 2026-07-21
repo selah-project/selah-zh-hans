@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "joshua 2:17",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18058,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18474
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:51:00.137739089Z",
   "translation": "那些人对她说：我们对你叫我们所起的⟨这个⟩誓⟨是⟩无辜的，就是你叫我们起的⟨这个⟩誓。",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "那些人说"
+      "gloss": "那些人说"
     },
     {
       "surface": "אליה",
-      "english": "对她说"
+      "gloss": "对她说"
     },
     {
       "surface": "האנשים",
-      "english": "那些人"
+      "gloss": "那些人"
     },
     {
       "surface": "נקים",
-      "english": "无辜的"
+      "gloss": "无辜的"
     },
     {
       "surface": "אנחנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "משבעתך",
-      "english": "对你的誓"
+      "gloss": "对你的誓"
     },
     {
       "surface": "הזה",
-      "english": "⟨这个⟩"
+      "gloss": "⟨这个⟩"
     },
     {
       "surface": "אשר",
-      "english": "就是你叫我们起的"
+      "gloss": "就是你叫我们起的"
     },
     {
       "surface": "השבעתנו",
-      "english": "你叫我们起的"
+      "gloss": "你叫我们起的"
     }
-  ],
-  "timestamp": "2026-07-17T19:51:00.137739089Z",
-  "model": "glm-5.2"
+  ]
 }

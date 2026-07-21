@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "numbers 7:32",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19401,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19745
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:29.663076274Z",
   "translation": "一个金盘子,重十舍客勒,满了⟨香⟩;",
   "tokens": [
     {
       "surface": "כף",
-      "english": "一个盘子"
+      "gloss": "一个盘子"
     },
     {
       "surface": "אחת",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "עשרה",
-      "english": "十舍客勒"
+      "gloss": "十舍客勒"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "מלאה",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "קטרת",
-      "english": "⟨香⟩"
+      "gloss": "⟨香⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:29.663076274Z",
-  "model": "glm-5.2"
+  ]
 }

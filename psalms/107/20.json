@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 107:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64296,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64749
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:17.258192500Z",
   "translation": "他差遣他的*话语*，就医治他们，并从他们的坑中拯救他们。",
   "tokens": [
     {
       "surface": "יִשְׁלַ֣ח",
-      "english": "他差遣"
+      "gloss": "他差遣"
     },
     {
       "surface": "דְּ֭בָר\/וֹ",
-      "english": "他的 *话语*"
+      "gloss": "他的 *话语*"
     },
     {
       "surface": "וְ\/יִרְפָּאֵ֑\/ם",
-      "english": "就医治他们"
+      "gloss": "就医治他们"
     },
     {
       "surface": "וִֽ֝\/ימַלֵּ֗ט",
-      "english": "并拯救"
+      "gloss": "并拯救"
     },
     {
       "surface": "מִ\/שְּׁחִיתוֹתָֽ\/ם",
-      "english": "从他们的坑中 ⟨他们⟩"
+      "gloss": "从他们的坑中 ⟨他们⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:17.258192500Z",
-  "model": "glm-5.2"
+  ]
 }

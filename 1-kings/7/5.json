@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-kings 7:5",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64177,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64703
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:01:48.152155576Z",
   "translation": "所有的门道和门框都是四方的，⟨是⟩有窗格的；窗口对着窗口，三层排列。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "הפתחים",
-      "english": "门道"
+      "gloss": "门道"
     },
     {
       "surface": "והמזוזות",
-      "english": "和门框"
+      "gloss": "和门框"
     },
     {
       "surface": "רבעים",
-      "english": "四方的"
+      "gloss": "四方的"
     },
     {
       "surface": "שקף",
-      "english": "有窗格的"
+      "gloss": "有窗格的"
     },
     {
       "surface": "ומול",
-      "english": "对着"
+      "gloss": "对着"
     },
     {
       "surface": "מחזה",
-      "english": "窗口"
+      "gloss": "窗口"
     },
     {
       "surface": "אל",
-      "english": "⟨⟩（介词，已融入'对着'）"
+      "gloss": "⟨⟩（介词，已融入'对着'）"
     },
     {
       "surface": "מחזה",
-      "english": "窗口"
+      "gloss": "窗口"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "פעמים",
-      "english": "层（次）"
+      "gloss": "层（次）"
     }
-  ],
-  "timestamp": "2026-07-17T21:01:48.152155576Z",
-  "model": "glm-5.2"
+  ]
 }

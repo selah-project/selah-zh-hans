@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 33:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64559,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65023
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:59.676402978Z",
   "translation": "借雅威的*davar*（话语），诸天被造；借他口中的鲁阿（气息），造了它们全部的万象。",
   "tokens": [
     {
       "surface": "בִּ\/דְבַ֣ר",
-      "english": "借*davar*（话语）"
+      "gloss": "借*davar*（话语）"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שָׁמַ֣יִם",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "נַעֲשׂ֑וּ",
-      "english": "被造"
+      "gloss": "被造"
     },
     {
       "surface": "וּ\/בְ\/ר֥וּחַ",
-      "english": "借鲁阿（气息）"
+      "gloss": "借鲁阿（气息）"
     },
     {
       "surface": "פִּ֝֗י\/ו",
-      "english": "他的口"
+      "gloss": "他的口"
     },
     {
       "surface": "כָּל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "צְבָאָֽ\/ם",
-      "english": "万象"
+      "gloss": "万象"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:59.676402978Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 81:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64357,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64852
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:21.854810002Z",
   "translation": "要在新月朔吹角，在满月⟨之日⟩为我们节期的⟨那⟩日子。",
   "tokens": [
     {
       "surface": "תִּקְע֣וּ",
-      "english": "你们要吹"
+      "gloss": "你们要吹"
     },
     {
       "surface": "בַ\/חֹ֣דֶשׁ",
-      "english": "在月朔"
+      "gloss": "在月朔"
     },
     {
       "surface": "שׁוֹפָ֑ר",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "בַּ֝\/כֵּ֗סֶה",
-      "english": "在满月"
+      "gloss": "在满月"
     },
     {
       "surface": "לְ\/י֣וֹם",
-      "english": "为⟨那⟩日子"
+      "gloss": "为⟨那⟩日子"
     },
     {
       "surface": "חַגֵּֽ\/נוּ",
-      "english": "我们节期的"
+      "gloss": "我们节期的"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:21.854810002Z",
-  "model": "glm-5.2"
+  ]
 }

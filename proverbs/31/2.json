@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 31:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54373,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54834
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:23.695561262Z",
   "translation": "我儿啊，什么？⟨你⟩是我腹中的儿？⟨你⟩是我许愿得的儿？",
   "tokens": [
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "ברי",
-      "english": "我的儿啊"
+      "gloss": "我的儿啊"
     },
     {
       "surface": "ומה",
-      "english": "以及什么"
+      "gloss": "以及什么"
     },
     {
       "surface": "בר",
-      "english": "儿"
+      "gloss": "儿"
     },
     {
       "surface": "בטני",
-      "english": "我腹中的"
+      "gloss": "我腹中的"
     },
     {
       "surface": "ומה",
-      "english": "以及什么"
+      "gloss": "以及什么"
     },
     {
       "surface": "בר",
-      "english": "儿"
+      "gloss": "儿"
     },
     {
       "surface": "נדרי",
-      "english": "我许愿得的"
+      "gloss": "我许愿得的"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:23.695561262Z",
-  "model": "glm-5.2"
+  ]
 }

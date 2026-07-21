@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 44:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64785
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:10.959162115Z",
   "translation": "借着你，我们用角牴我们的压迫者；借着你的名，我们践踏起来攻击我们的人。",
   "tokens": [
     {
       "surface": "בך",
-      "english": "借着你"
+      "gloss": "借着你"
     },
     {
       "surface": "צרינו",
-      "english": "我们的压迫者"
+      "gloss": "我们的压迫者"
     },
     {
       "surface": "ננגח",
-      "english": "我们用角牴"
+      "gloss": "我们用角牴"
     },
     {
       "surface": "בשמך",
-      "english": "借着你的名"
+      "gloss": "借着你的名"
     },
     {
       "surface": "נבוס",
-      "english": "我们践踏"
+      "gloss": "我们践踏"
     },
     {
       "surface": "קמינו",
-      "english": "起来攻击我们的人"
+      "gloss": "起来攻击我们的人"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:10.959162115Z",
-  "model": "glm-5.2"
+  ]
 }

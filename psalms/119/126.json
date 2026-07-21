@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 126,
   "ref": "psalms 119:126",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64197,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64546
-  },
+  "verse": 126,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:50.484378154Z",
   "translation": "是 雅威 ⟨是⟩ 采取行动的时候了；他们废除了你的妥拉。",
   "tokens": [
     {
       "surface": "עת",
-      "english": "是……的时候了"
+      "gloss": "是……的时候了"
     },
     {
       "surface": "לעשות",
-      "english": "采取行动"
+      "gloss": "采取行动"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הפרו",
-      "english": "他们废除了"
+      "gloss": "他们废除了"
     },
     {
       "surface": "תורתך",
-      "english": "你的妥拉"
+      "gloss": "你的妥拉"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:50.484378154Z",
-  "model": "glm-5.2"
+  ]
 }

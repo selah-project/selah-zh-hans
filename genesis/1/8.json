@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 1:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23070,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23460
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:33:18.268033120Z",
   "translation": "以罗欣称穹苍为天。⟨于是有⟩晚上,⟨于是有⟩早晨,⟨⟨是⟩⟩第二日。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "称"
+      "gloss": "称"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "לרקיע",
-      "english": "穹苍"
+      "gloss": "穹苍"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "ויהי",
-      "english": "⟨于是有⟩"
+      "gloss": "⟨于是有⟩"
     },
     {
       "surface": "ערב",
-      "english": "晚上"
+      "gloss": "晚上"
     },
     {
       "surface": "ויהי",
-      "english": "⟨于是有⟩"
+      "gloss": "⟨于是有⟩"
     },
     {
       "surface": "בקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "יום",
-      "english": "⟨⟨是⟩⟩日"
+      "gloss": "⟨⟨是⟩⟩日"
     },
     {
       "surface": "שני",
-      "english": "第二"
+      "gloss": "第二"
     }
-  ],
-  "timestamp": "2026-07-17T17:33:18.268033120Z",
-  "model": "glm-5.2"
+  ]
 }

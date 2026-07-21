@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 35:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21606,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21974
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:23.760202675Z",
   "translation": "注视⟨诸⟩天，⟨并⟩观看；察看云霄，高过⟨于⟩你。",
   "tokens": [
     {
       "surface": "הבט",
-      "english": "注视"
+      "gloss": "注视"
     },
     {
       "surface": "שמים",
-      "english": "⟨诸⟩天"
+      "gloss": "⟨诸⟩天"
     },
     {
       "surface": "וראה",
-      "english": "⟨并⟩观看"
+      "gloss": "⟨并⟩观看"
     },
     {
       "surface": "ושור",
-      "english": "⟨并⟩察看"
+      "gloss": "⟨并⟩察看"
     },
     {
       "surface": "שחקים",
-      "english": "云霄"
+      "gloss": "云霄"
     },
     {
       "surface": "גבהו",
-      "english": "高过⟨于⟩"
+      "gloss": "高过⟨于⟩"
     },
     {
       "surface": "ממך",
-      "english": "你"
+      "gloss": "你"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:23.760202675Z",
-  "model": "glm-5.2"
+  ]
 }

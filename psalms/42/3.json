@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 42:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64737,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65071
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:34.145565359Z",
   "translation": "我的נפש渴想以罗欣，渴望永活的 אֵל：我何时才能前来，得见以罗欣的面？",
   "tokens": [
     {
       "surface": "צמאה",
-      "english": "渴想"
+      "gloss": "渴想"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "לאלהים",
-      "english": "⟨向着⟩以罗欣"
+      "gloss": "⟨向着⟩以罗欣"
     },
     {
       "surface": "לאל",
-      "english": "⟨渴望⟩ אֵל"
+      "gloss": "⟨渴望⟩ אֵל"
     },
     {
       "surface": "חי",
-      "english": "永活的"
+      "gloss": "永活的"
     },
     {
       "surface": "מתי",
-      "english": "何时"
+      "gloss": "何时"
     },
     {
       "surface": "אבוא",
-      "english": "我⟨才⟩能前来"
+      "gloss": "我⟨才⟩能前来"
     },
     {
       "surface": "ואראה",
-      "english": "并得见"
+      "gloss": "并得见"
     },
     {
       "surface": "פני",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:34.145565359Z",
-  "model": "glm-5.2"
+  ]
 }

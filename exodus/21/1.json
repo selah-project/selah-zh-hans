@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "exodus 21:1",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 309,
-    "prompt_tokens": 18148,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18457
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:33.270116262Z",
   "translation": "现在这些是条例，是你将摆在它们面前的 ⟨את⟩ 审判 ——",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "现在这些"
+      "gloss": "现在这些"
     },
     {
       "surface": "המשפטים",
-      "english": "条例"
+      "gloss": "条例"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "תשים",
-      "english": "是你将摆在"
+      "gloss": "是你将摆在"
     },
     {
       "surface": "לפניהם",
-      "english": "它们面前的 ⟨את⟩"
+      "gloss": "它们面前的 ⟨את⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:33.270116262Z",
-  "model": "glm-4.5"
+  ]
 }

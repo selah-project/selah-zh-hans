@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "psalms 105:35",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64430,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64743
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:59.392843439Z",
   "translation": "⟨它⟩吃尽了他们地中一切的草本，⟨它⟩也吃尽了他们土地的果实。",
   "tokens": [
     {
       "surface": "ויאכל",
-      "english": "⟨它⟩吃尽了"
+      "gloss": "⟨它⟩吃尽了"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "עשב",
-      "english": "草本"
+      "gloss": "草本"
     },
     {
       "surface": "בארצם",
-      "english": "在他们地中"
+      "gloss": "在他们地中"
     },
     {
       "surface": "ויאכל",
-      "english": "⟨它⟩吃尽了"
+      "gloss": "⟨它⟩吃尽了"
     },
     {
       "surface": "פרי",
-      "english": "果实"
+      "gloss": "果实"
     },
     {
       "surface": "אדמתם",
-      "english": "他们土地的"
+      "gloss": "他们土地的"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:59.392843439Z",
-  "model": "glm-5.2"
+  ]
 }

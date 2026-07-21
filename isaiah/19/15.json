@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 19:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20804,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21230
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:09.876297317Z",
   "translation": "对埃及将没有任何工作，是头或尾、棕榈叶或芦苇所能做的。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יהיה",
-      "english": "将有"
+      "gloss": "将有"
     },
     {
       "surface": "למצרים",
-      "english": "对埃及"
+      "gloss": "对埃及"
     },
     {
       "surface": "מעשה",
-      "english": "任何工作"
+      "gloss": "任何工作"
     },
     {
       "surface": "אשר",
-      "english": "是……所能做的"
+      "gloss": "是……所能做的"
     },
     {
       "surface": "יעשה",
-      "english": "⟨他⟩做"
+      "gloss": "⟨他⟩做"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "וזנב",
-      "english": "或尾"
+      "gloss": "或尾"
     },
     {
       "surface": "כפה",
-      "english": "棕榈叶"
+      "gloss": "棕榈叶"
     },
     {
       "surface": "ואגמון",
-      "english": "或芦苇"
+      "gloss": "或芦苇"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:09.876297317Z",
-  "model": "glm-5.2"
+  ]
 }

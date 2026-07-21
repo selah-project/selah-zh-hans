@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 45:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64477,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64774
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:49.277138175Z",
   "translation": "תחת (代替) 你的列祖、将是你的众子；你将设立他们为全地的首领。",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "代替"
+      "gloss": "代替"
     },
     {
       "surface": "אבתיך",
-      "english": "你的列祖"
+      "gloss": "你的列祖"
     },
     {
       "surface": "יהיו",
-      "english": "将是"
+      "gloss": "将是"
     },
     {
       "surface": "בניך",
-      "english": "你的众子"
+      "gloss": "你的众子"
     },
     {
       "surface": "תשיתמו",
-      "english": "你将设立他们"
+      "gloss": "你将设立他们"
     },
     {
       "surface": "לשרים",
-      "english": "为首领"
+      "gloss": "为首领"
     },
     {
       "surface": "בכל",
-      "english": "在全"
+      "gloss": "在全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:49.277138175Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 118:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64404,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64961
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:42.154957140Z",
   "translation": "愿亚伦的家⟨现在⟩说：因为⟨雅威的⟩חֶסֶד（*חֶסֶד*）存到永远。",
   "tokens": [
     {
       "surface": "יֹאמְרוּ",
-      "english": "愿……说"
+      "gloss": "愿……说"
     },
     {
       "surface": "נָא",
-      "english": "⟨现在⟩"
+      "gloss": "⟨现在⟩"
     },
     {
       "surface": "בֵית",
-      "english": "的家"
+      "gloss": "的家"
     },
     {
       "surface": "אַהֲרֹן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לְעוֹלָם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "חַסְדּוֹ",
-      "english": "⟨雅威的⟩חֶסֶד（*חֶסֶד*）"
+      "gloss": "⟨雅威的⟩חֶסֶד（*חֶסֶד*）"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:42.154957140Z",
-  "model": "glm-5.2"
+  ]
 }

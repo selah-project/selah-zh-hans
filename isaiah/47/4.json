@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 47:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20531,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20915
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:57:10.461968641Z",
   "translation": "我们的赎回者——万军之雅威 ⟨是⟩ 他的名,以色列的圣者。",
   "tokens": [
     {
       "surface": "גאלנו",
-      "english": "我们的赎回者"
+      "gloss": "我们的赎回者"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     },
     {
       "surface": "קדוש",
-      "english": "圣者"
+      "gloss": "圣者"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     }
-  ],
-  "timestamp": "2026-07-17T21:57:10.461968641Z",
-  "model": "glm-5.2"
+  ]
 }

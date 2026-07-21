@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 35:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21574,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21888
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:30.423947108Z",
   "translation": "因压迫之众,他们哀叫;因强权的膀臂,他们呼救。",
   "tokens": [
     {
       "surface": "מרב",
-      "english": "因……之众"
+      "gloss": "因……之众"
     },
     {
       "surface": "עשוקים",
-      "english": "压迫"
+      "gloss": "压迫"
     },
     {
       "surface": "יזעיקו",
-      "english": "他们哀叫"
+      "gloss": "他们哀叫"
     },
     {
       "surface": "ישועו",
-      "english": "他们呼救"
+      "gloss": "他们呼救"
     },
     {
       "surface": "מזרוע",
-      "english": "因……的膀臂"
+      "gloss": "因……的膀臂"
     },
     {
       "surface": "רבים",
-      "english": "强权"
+      "gloss": "强权"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:30.423947108Z",
-  "model": "glm-5.2"
+  ]
 }

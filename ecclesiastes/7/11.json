@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "ecclesiastes 7:11",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18914,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19267
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:32.261770725Z",
   "translation": "חכמה（*Jojmá*）是好的，与产业一同；它是益处，给见太阳的人。",
   "tokens": [
     {
       "surface": "טובה",
-      "english": "是好的"
+      "gloss": "是好的"
     },
     {
       "surface": "חכמה",
-      "english": "חכמה（*Jojmá*）"
+      "gloss": "חכמה（*Jojmá*）"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "נחלה",
-      "english": "产业"
+      "gloss": "产业"
     },
     {
       "surface": "ויתר",
-      "english": "它是益处"
+      "gloss": "它是益处"
     },
     {
       "surface": "לראי",
-      "english": "给见……的人"
+      "gloss": "给见……的人"
     },
     {
       "surface": "השמש",
-      "english": "太阳"
+      "gloss": "太阳"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:32.261770725Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 55:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64833,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65400
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:13.690580417Z",
   "translation": "把你的重担抛在雅威身上,他必养育你;他必不⟨让⟩义人永远动摇。",
   "tokens": [
     {
       "surface": "השלך",
-      "english": "抛"
+      "gloss": "抛"
     },
     {
       "surface": "על",
-      "english": "在……身上"
+      "gloss": "在……身上"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יהבך",
-      "english": "你的重担"
+      "gloss": "你的重担"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "יכלכלך",
-      "english": "必养育你"
+      "gloss": "必养育你"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יתן",
-      "english": "⟨让⟩"
+      "gloss": "⟨让⟩"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "מוט",
-      "english": "动摇"
+      "gloss": "动摇"
     },
     {
       "surface": "לצדיק",
-      "english": "⟨给⟩义人"
+      "gloss": "⟨给⟩义人"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:13.690580417Z",
-  "model": "glm-5.2"
+  ]
 }

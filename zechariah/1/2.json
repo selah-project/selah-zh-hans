@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "zechariah 1:2",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17430,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 17865
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:32:37.105377497Z",
   "translation": "雅威曾向⟨你们的⟩列祖大发烈怒——烈怒。",
   "tokens": [
     {
       "surface": "קצף",
-      "english": "大发烈怒"
+      "gloss": "大发烈怒"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "על",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "אבותיכם",
-      "english": "你们的列祖"
+      "gloss": "你们的列祖"
     },
     {
       "surface": "קצף",
-      "english": "烈怒"
+      "gloss": "烈怒"
     }
-  ],
-  "timestamp": "2026-07-17T23:32:37.105377497Z",
-  "model": "glm-5.2"
+  ]
 }

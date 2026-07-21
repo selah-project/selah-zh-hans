@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "ecclesiastes 5:13",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19087,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19458
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:20:27.379366930Z",
   "translation": "财富在那灾祸中灭没，他生了⟨一个⟩子，⟨他⟩手中一无所有。",
   "tokens": [
     {
       "surface": "ואבד",
-      "english": "灭没"
+      "gloss": "灭没"
     },
     {
       "surface": "העשר",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "בענין",
-      "english": "在……灾祸中"
+      "gloss": "在……灾祸中"
     },
     {
       "surface": "רע",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "והוליד",
-      "english": "他生了"
+      "gloss": "他生了"
     },
     {
       "surface": "בן",
-      "english": "⟨一个⟩子"
+      "gloss": "⟨一个⟩子"
     },
     {
       "surface": "ואין",
-      "english": "一无所有"
+      "gloss": "一无所有"
     },
     {
       "surface": "בידו",
-      "english": "⟨他⟩手中"
+      "gloss": "⟨他⟩手中"
     },
     {
       "surface": "מאומה",
-      "english": "什么也没有"
+      "gloss": "什么也没有"
     }
-  ],
-  "timestamp": "2026-07-18T01:20:27.379366930Z",
-  "model": "glm-5.2"
+  ]
 }

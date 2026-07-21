@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "jeremiah 52:27",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19501,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20010
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:39:31.242086193Z",
   "translation": "巴比伦王击打⟨את⟩他们,在哈马地、利比拉将他们处死。于是犹大被掳,离开⟨了⟩自己的土地。",
   "tokens": [
     {
       "surface": "ויכה",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们 (即前文提到的犹大首领)"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "וימתם",
-      "english": "将他们处死"
+      "gloss": "将他们处死"
     },
     {
       "surface": "ברבלה",
-      "english": "在利比拉"
+      "gloss": "在利比拉"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "חמת",
-      "english": "哈马"
+      "gloss": "哈马"
     },
     {
       "surface": "ויגל",
-      "english": "于是犹大被掳"
+      "gloss": "于是犹大被掳"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "מעל",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "אדמתו",
-      "english": "自己的土地"
+      "gloss": "自己的土地"
     }
-  ],
-  "timestamp": "2026-07-17T22:39:31.242086193Z",
-  "model": "glm-5.2"
+  ]
 }

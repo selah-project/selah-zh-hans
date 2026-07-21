@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 8:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64999
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:25.424448519Z",
   "translation": "人算什么,你竟记念他?世人算什么,你竟眷顾他?",
   "tokens": [
     {
       "surface": "מה",
-      "english": "算什么"
+      "gloss": "算什么"
     },
     {
       "surface": "אנוש",
-      "english": "人(必朽的人)"
+      "gloss": "人(必朽的人)"
     },
     {
       "surface": "כי",
-      "english": "⟨竟然⟩"
+      "gloss": "⟨竟然⟩"
     },
     {
       "surface": "תזכרנו",
-      "english": "你记念他"
+      "gloss": "你记念他"
     },
     {
       "surface": "ובן",
-      "english": "和⟨……⟩之子"
+      "gloss": "和⟨……⟩之子"
     },
     {
       "surface": "אדם",
-      "english": "亚当(世人)"
+      "gloss": "亚当(世人)"
     },
     {
       "surface": "כי",
-      "english": "⟨竟然⟩"
+      "gloss": "⟨竟然⟩"
     },
     {
       "surface": "תפקדנו",
-      "english": "你眷顾他"
+      "gloss": "你眷顾他"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:25.424448519Z",
-  "model": "glm-5.2"
+  ]
 }

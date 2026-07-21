@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 27:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22941,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23355
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:49:58.182758987Z",
   "translation": "你要带给你的父亲,他⟨要⟩吃,好叫他在他死之前祝福你。",
   "tokens": [
     {
       "surface": "והבאת",
-      "english": "你要带给"
+      "gloss": "你要带给"
     },
     {
       "surface": "לאביך",
-      "english": "你的父亲"
+      "gloss": "你的父亲"
     },
     {
       "surface": "ואכל",
-      "english": "他⟨要⟩吃"
+      "gloss": "他⟨要⟩吃"
     },
     {
       "surface": "בעבר",
-      "english": "好叫"
+      "gloss": "好叫"
     },
     {
       "surface": "אשר",
-      "english": "⟨以至于⟩"
+      "gloss": "⟨以至于⟩"
     },
     {
       "surface": "יברכך",
-      "english": "他祝福你"
+      "gloss": "他祝福你"
     },
     {
       "surface": "לפני",
-      "english": "在……之前"
+      "gloss": "在……之前"
     },
     {
       "surface": "מותו",
-      "english": "他的死"
+      "gloss": "他的死"
     }
-  ],
-  "timestamp": "2026-07-17T17:49:58.182758987Z",
-  "model": "glm-5.2"
+  ]
 }

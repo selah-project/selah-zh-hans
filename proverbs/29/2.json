@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 29:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54515,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54913
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:30.528128814Z",
   "translation": "义人增多时，百姓欢喜；恶人辖制时，百姓叹息。",
   "tokens": [
     {
       "surface": "ברבות",
-      "english": "增多时"
+      "gloss": "增多时"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "ישמח",
-      "english": "欢喜"
+      "gloss": "欢喜"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "ובמשל",
-      "english": "而辖制时"
+      "gloss": "而辖制时"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "יאנח",
-      "english": "叹息"
+      "gloss": "叹息"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:30.528128814Z",
-  "model": "glm-5.2"
+  ]
 }

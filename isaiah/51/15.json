@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 51:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20894,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21421
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:59:10.311850234Z",
   "translation": "至于我,⟨我是⟩雅威你的以罗欣,搅动那海,使它的波浪咆哮——万军之雅威,⟨这是⟩他的名。",
   "tokens": [
     {
       "surface": "ואנכי",
-      "english": "至于我,"
+      "gloss": "至于我,"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "רגע",
-      "english": "搅动"
+      "gloss": "搅动"
     },
     {
       "surface": "הים",
-      "english": "那海,"
+      "gloss": "那海,"
     },
     {
       "surface": "ויהמו",
-      "english": "使咆哮"
+      "gloss": "使咆哮"
     },
     {
       "surface": "גליו",
-      "english": "它的波浪"
+      "gloss": "它的波浪"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军"
+      "gloss": "万军"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     }
-  ],
-  "timestamp": "2026-07-17T21:59:10.311850234Z",
-  "model": "glm-5.2"
+  ]
 }

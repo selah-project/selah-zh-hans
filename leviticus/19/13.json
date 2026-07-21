@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "leviticus 19:13",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19582,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20075
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:53:14.264084627Z",
   "translation": "你不可欺压 ⟨את⟩ 你的同伴，也不可抢夺；雇工的工价不可在你那里过夜，⟨留⟩ 到早晨。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תעשֹׁק",
-      "english": "你欺压"
+      "gloss": "你欺压"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的同伴"
     },
     {
       "surface": "רֵֽעֲ\/ךָ",
-      "english": "你的同伴"
+      "gloss": "你的同伴"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "תִגְזֹל",
-      "english": "你抢夺"
+      "gloss": "你抢夺"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תָלִין",
-      "english": "过夜"
+      "gloss": "过夜"
     },
     {
       "surface": "פְּעֻלַּת",
-      "english": "工价"
+      "gloss": "工价"
     },
     {
       "surface": "שָׂכִיר",
-      "english": "雇工的"
+      "gloss": "雇工的"
     },
     {
       "surface": "אִתְּ\/ךָ",
-      "english": "在你那里"
+      "gloss": "在你那里"
     },
     {
       "surface": "עַד",
-      "english": "⟨留⟩到"
+      "gloss": "⟨留⟩到"
     },
     {
       "surface": "בֹּֽקֶר",
-      "english": "早晨"
+      "gloss": "早晨"
     }
-  ],
-  "timestamp": "2026-07-17T18:53:14.264084627Z",
-  "model": "glm-5.2"
+  ]
 }

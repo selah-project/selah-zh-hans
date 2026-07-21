@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "proverbs 14:33",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54441,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54819
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:43.140026371Z",
   "translation": "חכמה (智慧) 在悟性人的心中安息；但在愚昧人的中间，⟨她⟩被知道。",
   "tokens": [
     {
       "surface": "בלב",
-      "english": "在……心中"
+      "gloss": "在……心中"
     },
     {
       "surface": "נבון",
-      "english": "悟性人"
+      "gloss": "悟性人"
     },
     {
       "surface": "תנוח",
-      "english": "安息"
+      "gloss": "安息"
     },
     {
       "surface": "חכמה",
-      "english": "חכמה (智慧)"
+      "gloss": "חכמה (智慧)"
     },
     {
       "surface": "ובקרב",
-      "english": "但在……中间"
+      "gloss": "但在……中间"
     },
     {
       "surface": "כסילים",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "תודע",
-      "english": "被知道"
+      "gloss": "被知道"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:43.140026371Z",
-  "model": "glm-5.2"
+  ]
 }

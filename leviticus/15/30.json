@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "leviticus 15:30",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 752,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19864,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 20616
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:04:21.485618225Z",
   "translation": "祭司要献上⟨את⟩第一只作חטאת,⟨את⟩另一只作עֹלָה;祭司要在雅威面前为她行卡帕拉,免她因血漏的不洁。",
   "tokens": [
     {
       "surface": "וְ\/עָשָׂ֤ה",
-      "english": "要献上"
+      "gloss": "要献上"
     },
     {
       "surface": "הַ\/כֹּהֵן֙",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "第一只"
     },
     {
       "surface": "הָ\/אֶחָ֣ד",
-      "english": "第一只"
+      "gloss": "第一只"
     },
     {
       "surface": "חַטָּ֔את",
-      "english": "חטאת"
+      "gloss": "חטאת"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "另一只"
     },
     {
       "surface": "הָ\/אֶחָ֖ד",
-      "english": "另一只"
+      "gloss": "另一只"
     },
     {
       "surface": "עֹלָ֑ה",
-      "english": "עֹלָה"
+      "gloss": "עֹלָה"
     },
     {
       "surface": "וְ\/כִפֶּ֨ר",
-      "english": "要行卡帕拉"
+      "gloss": "要行卡帕拉"
     },
     {
       "surface": "עָלֶ֤י\/הָ",
-      "english": "为她"
+      "gloss": "为她"
     },
     {
       "surface": "הַ\/כֹּהֵן֙",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "לִ\/פְנֵ֣י",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מִ\/זּ֖וֹב",
-      "english": "因血漏"
+      "gloss": "因血漏"
     },
     {
       "surface": "טֻמְאָתָֽ\/הּ",
-      "english": "她的不洁"
+      "gloss": "她的不洁"
     }
-  ],
-  "timestamp": "2026-07-20T15:04:21.485618225Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 30:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54372,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54780
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:50.772005807Z",
   "translation": "地上的微小之物有四，它们⟨是⟩——这些，它们是有智慧的，被奇妙地赐予智慧。",
   "tokens": [
     {
       "surface": "ארבעה",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "הם",
-      "english": "它们⟨是⟩"
+      "gloss": "它们⟨是⟩"
     },
     {
       "surface": "קטני",
-      "english": "微小之物"
+      "gloss": "微小之物"
     },
     {
       "surface": "ארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     },
     {
       "surface": "והמה",
-      "english": "这些，它们"
+      "gloss": "这些，它们"
     },
     {
       "surface": "חכמים",
-      "english": "是有智慧的"
+      "gloss": "是有智慧的"
     },
     {
       "surface": "מחכמים",
-      "english": "被奇妙地赐予智慧的"
+      "gloss": "被奇妙地赐予智慧的"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:50.772005807Z",
-  "model": "glm-5.2"
+  ]
 }

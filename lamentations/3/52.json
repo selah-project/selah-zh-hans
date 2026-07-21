@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 52,
   "ref": "lamentations 3:52",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33396,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33707
-  },
+  "verse": 52,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:16.303029019Z",
   "translation": "猎捕——他们猎捕了我,如同小鸟;我的仇敌,无缘无故。",
   "tokens": [
     {
       "surface": "צוד",
-      "english": "猎捕"
+      "gloss": "猎捕"
     },
     {
       "surface": "צדוני",
-      "english": "他们猎捕了我"
+      "gloss": "他们猎捕了我"
     },
     {
       "surface": "כצפור",
-      "english": "如同小鸟"
+      "gloss": "如同小鸟"
     },
     {
       "surface": "איבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "חנם",
-      "english": "无缘无故"
+      "gloss": "无缘无故"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:16.303029019Z",
-  "model": "glm-5.2"
+  ]
 }

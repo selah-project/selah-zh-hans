@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ecclesiastes 12:10",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19127,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19572
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:23:25.778618898Z",
   "translation": "传道者寻求要找到令人愉悦的*davar*（话语），所写下的⟨是⟩正直——真实的话语。",
   "tokens": [
     {
       "surface": "בקש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "קהלת",
-      "english": "传道者"
+      "gloss": "传道者"
     },
     {
       "surface": "למצא",
-      "english": "要找到"
+      "gloss": "要找到"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（话语）的"
+      "gloss": "*davar*（话语）的"
     },
     {
       "surface": "חפץ",
-      "english": "令人愉悦"
+      "gloss": "令人愉悦"
     },
     {
       "surface": "וכתוב",
-      "english": "所写下的"
+      "gloss": "所写下的"
     },
     {
       "surface": "ישר",
-      "english": "正直"
+      "gloss": "正直"
     },
     {
       "surface": "דברי",
-      "english": "*davar*（话语）的"
+      "gloss": "*davar*（话语）的"
     },
     {
       "surface": "אמת",
-      "english": "真实"
+      "gloss": "真实"
     }
-  ],
-  "timestamp": "2026-07-18T01:23:25.778618898Z",
-  "model": "glm-5.2"
+  ]
 }

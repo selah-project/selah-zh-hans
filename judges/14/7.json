@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "judges 14:7",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17590,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18034
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:15:50.810081098Z",
   "translation": "⟨他⟩下去了，⟨他⟩与⟨那⟩女人说话，⟨她⟩在参孙的眼中⟨为⟩正直。",
   "tokens": [
     {
       "surface": "וירד",
-      "english": "⟨他⟩下去了"
+      "gloss": "⟨他⟩下去了"
     },
     {
       "surface": "וידבר",
-      "english": "⟨他⟩说话"
+      "gloss": "⟨他⟩说话"
     },
     {
       "surface": "לאשה",
-      "english": "与⟨那⟩女人"
+      "gloss": "与⟨那⟩女人"
     },
     {
       "surface": "ותישר",
-      "english": "⟨她⟩⟨为⟩正直"
+      "gloss": "⟨她⟩⟨为⟩正直"
     },
     {
       "surface": "בעיני",
-      "english": "在……的眼中"
+      "gloss": "在……的眼中"
     },
     {
       "surface": "שמשון",
-      "english": "参孙"
+      "gloss": "参孙"
     }
-  ],
-  "timestamp": "2026-07-17T20:15:50.810081098Z",
-  "model": "glm-5.2"
+  ]
 }

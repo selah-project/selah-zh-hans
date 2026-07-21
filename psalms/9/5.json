@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 9:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64619,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65044
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:50.890923105Z",
   "translation": "因为你行了⟨我的⟩公平和⟨我的⟩审判，⟨你⟩坐在宝座上，审判公义。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עשית",
-      "english": "你行了"
+      "gloss": "你行了"
     },
     {
       "surface": "משפטי",
-      "english": "⟨我的⟩公平"
+      "gloss": "⟨我的⟩公平"
     },
     {
       "surface": "ודיני",
-      "english": "和⟨我的⟩审判"
+      "gloss": "和⟨我的⟩审判"
     },
     {
       "surface": "ישבת",
-      "english": "⟨你⟩坐"
+      "gloss": "⟨你⟩坐"
     },
     {
       "surface": "לכסא",
-      "english": "在宝座上"
+      "gloss": "在宝座上"
     },
     {
       "surface": "שופט",
-      "english": "审判"
+      "gloss": "审判"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:50.890923105Z",
-  "model": "glm-5.2"
+  ]
 }

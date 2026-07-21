@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 19:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18295,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18752
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:51:01.019104805Z",
   "translation": "扫罗听从了约拿单的声音,扫罗起誓:⟨指着⟩雅威活着,他⟨必不⟩被处死。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "听从了"
+      "gloss": "听从了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "בקול",
-      "english": "听从……的声音"
+      "gloss": "听从……的声音"
     },
     {
       "surface": "יהונתן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "וישבע",
-      "english": "起誓"
+      "gloss": "起誓"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "חי",
-      "english": "活着"
+      "gloss": "活着"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אם",
-      "english": "⟨必不⟩"
+      "gloss": "⟨必不⟩"
     },
     {
       "surface": "יומת",
-      "english": "被处死"
+      "gloss": "被处死"
     }
-  ],
-  "timestamp": "2026-07-18T02:51:01.019104805Z",
-  "model": "glm-5.2"
+  ]
 }

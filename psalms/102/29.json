@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "psalms 102:29",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64199,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64512
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:13.184966481Z",
   "translation": "你仆人的子孙们要居住，他们的后裔要在你面前⟨被⟩坚立。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙们"
+      "gloss": "……的子孙们"
     },
     {
       "surface": "עבדיך",
-      "english": "你仆人"
+      "gloss": "你仆人"
     },
     {
       "surface": "ישכונו",
-      "english": "要居住"
+      "gloss": "要居住"
     },
     {
       "surface": "וזרעם",
-      "english": "他们的后裔"
+      "gloss": "他们的后裔"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "יכון",
-      "english": "⟨被⟩坚立"
+      "gloss": "⟨被⟩坚立"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:13.184966481Z",
-  "model": "glm-5.2"
+  ]
 }

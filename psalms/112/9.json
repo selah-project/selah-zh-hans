@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 112:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64687,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65103
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:12.729179899Z",
   "translation": "他施散,他分给穷乏人;他的公义永远长存,他的角必 ⟨以⟩ 尊荣高举。",
   "tokens": [
     {
       "surface": "פזר",
-      "english": "施散"
+      "gloss": "施散"
     },
     {
       "surface": "נתן",
-      "english": "他分给"
+      "gloss": "他分给"
     },
     {
       "surface": "לאביונים",
-      "english": "给穷乏人"
+      "gloss": "给穷乏人"
     },
     {
       "surface": "צדקתו",
-      "english": "他的公义"
+      "gloss": "他的公义"
     },
     {
       "surface": "עמדת",
-      "english": "长存"
+      "gloss": "长存"
     },
     {
       "surface": "לעד",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "קרנו",
-      "english": "他的角"
+      "gloss": "他的角"
     },
     {
       "surface": "תרום",
-      "english": "必高举"
+      "gloss": "必高举"
     },
     {
       "surface": "בכבוד",
-      "english": "以尊荣"
+      "gloss": "以尊荣"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:12.729179899Z",
-  "model": "glm-5.2"
+  ]
 }

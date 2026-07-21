@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 29:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23266,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23703
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:51.298334522Z",
   "translation": "雅各为拉结服事了七年；因为他对她的爱，它们在他眼中⟨就像⟩几天一样，⟨他爱⟩⟨את⟩她。",
   "tokens": [
     {
       "surface": "ויעבד",
-      "english": "服事了"
+      "gloss": "服事了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ברחל",
-      "english": "为拉结"
+      "gloss": "为拉结"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ויהיו",
-      "english": "它们⟨就像⟩"
+      "gloss": "它们⟨就像⟩"
     },
     {
       "surface": "בעיניו",
-      "english": "在他眼中"
+      "gloss": "在他眼中"
     },
     {
       "surface": "כימים",
-      "english": "几天一样"
+      "gloss": "几天一样"
     },
     {
       "surface": "אחדים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "באהבתו",
-      "english": "因为他的爱"
+      "gloss": "因为他的爱"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:51.298334522Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-samuel 18:16",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18309,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18743
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:56.856622285Z",
   "translation": "全以色列和犹大都爱大卫，因为他在他们面前出入。",
   "tokens": [
     {
       "surface": "וְ\/כָל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "יִשְׂרָאֵל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וִ\/יהוּדָה",
-      "english": "和犹大"
+      "gloss": "和犹大"
     },
     {
       "surface": "אֹהֵ֖ב",
-      "english": "都爱"
+      "gloss": "都爱"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫"
     },
     {
       "surface": "דָּוִ֑ד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ה֛וּא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "יוֹצֵ֥א",
-      "english": "出"
+      "gloss": "出"
     },
     {
       "surface": "וָ\/בָ֖א",
-      "english": "和入"
+      "gloss": "和入"
     },
     {
       "surface": "לִ\/פְנֵי\/הֶֽם",
-      "english": "在他们面前"
+      "gloss": "在他们面前"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:56.856622285Z",
-  "model": "glm-5.2"
+  ]
 }

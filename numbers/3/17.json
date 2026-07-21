@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "numbers 3:17",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19543,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19802
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:44.882243615Z",
   "translation": "这些⟨是⟩利未的众子,按⟨他们的⟩名字:革顺、哥辖和米拉利。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨他们⟩是"
+      "gloss": "⟨他们⟩是"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "……的众子"
+      "gloss": "……的众子"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "בשמתם",
-      "english": "按⟨他们的⟩名字"
+      "gloss": "按⟨他们的⟩名字"
     },
     {
       "surface": "גרשון",
-      "english": "革顺"
+      "gloss": "革顺"
     },
     {
       "surface": "וקהת",
-      "english": "和哥辖"
+      "gloss": "和哥辖"
     },
     {
       "surface": "ומררי",
-      "english": "和米拉利"
+      "gloss": "和米拉利"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:44.882243615Z",
-  "model": "glm-5.2"
+  ]
 }

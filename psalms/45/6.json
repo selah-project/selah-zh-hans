@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 45:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64629,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65129
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:39.643597210Z",
   "translation": "你的箭锋利,众民⟨要⟩在你脚下仆倒;⟨它们刺入⟩王的仇敌的心中。",
   "tokens": [
     {
       "surface": "חציך",
-      "english": "你的箭"
+      "gloss": "你的箭"
     },
     {
       "surface": "שנונים",
-      "english": "锋利"
+      "gloss": "锋利"
     },
     {
       "surface": "עמים",
-      "english": "众民"
+      "gloss": "众民"
     },
     {
       "surface": "תחתיך",
-      "english": "在你脚下"
+      "gloss": "在你脚下"
     },
     {
       "surface": "יפלו",
-      "english": "仆倒"
+      "gloss": "仆倒"
     },
     {
       "surface": "בלב",
-      "english": "⟨刺入⟩……的心中"
+      "gloss": "⟨刺入⟩……的心中"
     },
     {
       "surface": "אויבי",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "המלך",
-      "english": "王的"
+      "gloss": "王的"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:39.643597210Z",
-  "model": "glm-5.2"
+  ]
 }

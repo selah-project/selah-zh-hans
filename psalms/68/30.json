@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "psalms 68:30",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 700,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64509,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65209
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:25.846429558Z",
   "translation": "从你的圣殿，⟨在⟩耶路撒冷之上，为你，君王们将引带献礼。",
   "tokens": [
     {
       "surface": "מֵֽ֭\/הֵיכָלֶ\/ךָ",
-      "english": "从你的圣殿"
+      "gloss": "从你的圣殿"
     },
     {
       "surface": "עַל",
-      "english": "⟨在⟩……之上"
+      "gloss": "⟨在⟩……之上"
     },
     {
       "surface": "יְרוּשָׁלִָ֑ם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "לְ\/ךָ֤",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "יוֹבִ֖ילוּ",
-      "english": "他们[君王]将引带"
+      "gloss": "他们[君王]将引带"
     },
     {
       "surface": "מְלָכִ֣ים",
-      "english": "君王们"
+      "gloss": "君王们"
     },
     {
       "surface": "שָֽׁי",
-      "english": "献礼"
+      "gloss": "献礼"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:25.846429558Z",
-  "model": "glm-5.2"
+  ]
 }

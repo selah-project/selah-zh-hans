@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "isaiah 5:17",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20552,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20992
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:36:37.513808058Z",
   "translation": "羔羊将按⟨它们⟩的草场吃草，寄居者将吞吃肥美者的荒场。",
   "tokens": [
     {
       "surface": "וְ\/רָעוּ",
-      "english": "将吃草"
+      "gloss": "将吃草"
     },
     {
       "surface": "כְבָשִׂ֖ים",
-      "english": "羔羊"
+      "gloss": "羔羊"
     },
     {
       "surface": "כְּ\/דָבְרָ֑\/ם",
-      "english": "按⟨它们⟩的草场"
+      "gloss": "按⟨它们⟩的草场"
     },
     {
       "surface": "וְ\/חָרְב֥וֹת",
-      "english": "荒场"
+      "gloss": "荒场"
     },
     {
       "surface": "מֵחִ֖ים",
-      "english": "肥美者的"
+      "gloss": "肥美者的"
     },
     {
       "surface": "גָּרִ֥ים",
-      "english": "寄居者"
+      "gloss": "寄居者"
     },
     {
       "surface": "יֹאכֵֽלוּ",
-      "english": "将吞吃"
+      "gloss": "将吞吃"
     }
-  ],
-  "timestamp": "2026-07-17T21:36:37.513808058Z",
-  "model": "glm-5.2"
+  ]
 }

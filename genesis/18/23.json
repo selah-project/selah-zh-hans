@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 18:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22883,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23279
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:39:50.218849589Z",
   "translation": "亚伯拉罕上前来说:你真要将义人与恶人一同刮去吗?",
   "tokens": [
     {
       "surface": "ויגש",
-      "english": "上前来说"
+      "gloss": "上前来说"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "האף",
-      "english": "难道真要"
+      "gloss": "难道真要"
     },
     {
       "surface": "תספה",
-      "english": "刮去"
+      "gloss": "刮去"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "עם",
-      "english": "与……一同"
+      "gloss": "与……一同"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     }
-  ],
-  "timestamp": "2026-07-18T02:39:50.218849589Z",
-  "model": "glm-5.2"
+  ]
 }

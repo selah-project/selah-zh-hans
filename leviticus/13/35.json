@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "leviticus 13:35",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18891,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19232
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:38.771303522Z",
   "translation": "但如果 ⟨הַ\/נֶּתֶק⟩ (癣) 在他的洁净之后确实在皮肤上扩散——",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "但如果"
+      "gloss": "但如果"
     },
     {
       "surface": "פשה",
-      "english": "扩散"
+      "gloss": "扩散"
     },
     {
       "surface": "יפשה",
-      "english": "确实扩散"
+      "gloss": "确实扩散"
     },
     {
       "surface": "הנתק",
-      "english": "⟨הַ\/נֶּתֶק⟩"
+      "gloss": "⟨הַ\/נֶּתֶק⟩"
     },
     {
       "surface": "בעור",
-      "english": "在皮肤上"
+      "gloss": "在皮肤上"
     },
     {
       "surface": "אחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "טהרתו",
-      "english": "他的洁净"
+      "gloss": "他的洁净"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:38.771303522Z",
-  "model": "glm-5.2"
+  ]
 }

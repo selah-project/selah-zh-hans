@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 83:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 277,
-    "prompt_tokens": 64555,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64832
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:32.782131892Z",
   "translation": "迦巴勒、亚扪、亚玛力,非利士人与推罗的居民",
   "tokens": [
     {
       "surface": "גבל",
-      "english": "迦巴勒"
+      "gloss": "迦巴勒"
     },
     {
       "surface": "ועמון",
-      "english": "、亚扪"
+      "gloss": "、亚扪"
     },
     {
       "surface": "ועמלק",
-      "english": "、亚玛力"
+      "gloss": "、亚玛力"
     },
     {
       "surface": "פלשת",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "ישבי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "צור",
-      "english": "推罗"
+      "gloss": "推罗"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:32.782131892Z",
-  "model": "glm-4.5"
+  ]
 }

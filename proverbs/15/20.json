@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 15:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 268,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54450,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54718
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:00.845740458Z",
   "translation": "智慧的儿子使父亲欢喜;愚昧的人藐视自己的母亲。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "חכם",
-      "english": "智慧的"
+      "gloss": "智慧的"
     },
     {
       "surface": "ישמח",
-      "english": "使……欢喜"
+      "gloss": "使……欢喜"
     },
     {
       "surface": "אב",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "וכסיל",
-      "english": "愚昧的人"
+      "gloss": "愚昧的人"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "בוזה",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "אמו",
-      "english": "自己的母亲"
+      "gloss": "自己的母亲"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:00.845740458Z",
-  "model": "glm-5.2"
+  ]
 }

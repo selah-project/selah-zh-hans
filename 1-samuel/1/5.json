@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-samuel 1:5",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18405,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18916
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:21:09.674991016Z",
   "translation": "而给哈娜,他⟨给⟩一份⟨特别的⟩份额;因为他爱⟨את⟩哈娜,但雅威已经关闭了她的子宫。",
   "tokens": [
     {
       "surface": "ולחנה",
-      "english": "而给哈娜"
+      "gloss": "而给哈娜"
     },
     {
       "surface": "יתן",
-      "english": "他⟨给⟩"
+      "gloss": "他⟨给⟩"
     },
     {
       "surface": "מנה",
-      "english": "份额"
+      "gloss": "份额"
     },
     {
       "surface": "אחת",
-      "english": "一份"
+      "gloss": "一份"
     },
     {
       "surface": "אפים",
-      "english": "⟨特别的⟩"
+      "gloss": "⟨特别的⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈娜"
     },
     {
       "surface": "חנה",
-      "english": "哈娜"
+      "gloss": "哈娜"
     },
     {
       "surface": "אהב",
-      "english": "他爱"
+      "gloss": "他爱"
     },
     {
       "surface": "ויהוה",
-      "english": "但雅威"
+      "gloss": "但雅威"
     },
     {
       "surface": "סגר",
-      "english": "已经关闭了"
+      "gloss": "已经关闭了"
     },
     {
       "surface": "רחמה",
-      "english": "她的子宫"
+      "gloss": "她的子宫"
     }
-  ],
-  "timestamp": "2026-07-17T20:21:09.674991016Z",
-  "model": "glm-5.2"
+  ]
 }

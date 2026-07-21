@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 16:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20060,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20540
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:12:16.289932895Z",
   "translation": "他领⟨你⟩近前来,⟨את⟩你的众弟兄——利未之子——也与你一同 ⟨被领近⟩;你们竟然还寻求祭司之职?",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "他领近前来"
+      "gloss": "他领近前来"
     },
     {
       "surface": "אתך",
-      "english": "⟨את⟩ ⟨你⟩",
+      "gloss": "⟨את⟩ ⟨你⟩",
       "marks": "你"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的众弟兄——利未之子"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "אחיך",
-      "english": "你的众弟兄"
+      "gloss": "你的众弟兄"
     },
     {
       "surface": "בני",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "לוי",
-      "english": "利未"
+      "gloss": "利未"
     },
     {
       "surface": "אתך",
-      "english": "与你一同"
+      "gloss": "与你一同"
     },
     {
       "surface": "ובקשתם",
-      "english": "你们寻求"
+      "gloss": "你们寻求"
     },
     {
       "surface": "גם",
-      "english": "还、也"
+      "gloss": "还、也"
     },
     {
       "surface": "כהנה",
-      "english": "祭司之职"
+      "gloss": "祭司之职"
     }
-  ],
-  "timestamp": "2026-07-17T19:12:16.289932895Z",
-  "model": "glm-5.2"
+  ]
 }

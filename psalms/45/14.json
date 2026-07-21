@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 45:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 662,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64543,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65205
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:50.077207963Z",
   "translation": "君王之女的全部荣耀⟨在⟩内室之中；她的衣裳是⟨由⟩金箔编织交错而成的。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "כבודה",
-      "english": "荣耀"
+      "gloss": "荣耀"
     },
     {
       "surface": "בת",
-      "english": "之女"
+      "gloss": "之女"
     },
     {
       "surface": "מלך",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "פנימה",
-      "english": "⟨在⟩内室之中"
+      "gloss": "⟨在⟩内室之中"
     },
     {
       "surface": "ממשבצות",
-      "english": "编织交错"
+      "gloss": "编织交错"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "לבושה",
-      "english": "她的衣裳"
+      "gloss": "她的衣裳"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:50.077207963Z",
-  "model": "glm-5.2"
+  ]
 }

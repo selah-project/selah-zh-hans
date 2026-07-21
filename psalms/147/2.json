@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 147:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64416,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:43.788407321Z",
   "translation": "建造耶路撒冷的是雅威,⟨他⟩将以色列被驱散的收聚。",
   "tokens": [
     {
       "surface": "בונה",
-      "english": "建造"
+      "gloss": "建造"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷的"
+      "gloss": "耶路撒冷的"
     },
     {
       "surface": "יהוה",
-      "english": "是雅威"
+      "gloss": "是雅威"
     },
     {
       "surface": "נדחי",
-      "english": "被驱散的"
+      "gloss": "被驱散的"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "יכנס",
-      "english": "⟨他⟩收聚"
+      "gloss": "⟨他⟩收聚"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:43.788407321Z",
-  "model": "glm-5.2"
+  ]
 }

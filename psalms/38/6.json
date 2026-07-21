@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 38:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64328,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64697
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:25.952943783Z",
   "translation": "它们发臭，它们溃烂，⟨我的⟩瘀伤，因为⟨我的⟩愚妄。",
   "tokens": [
     {
       "surface": "הבאישו",
-      "english": "它们发臭"
+      "gloss": "它们发臭"
     },
     {
       "surface": "נמקו",
-      "english": "它们溃烂"
+      "gloss": "它们溃烂"
     },
     {
       "surface": "חבורתי",
-      "english": "⟨我的⟩瘀伤"
+      "gloss": "⟨我的⟩瘀伤"
     },
     {
       "surface": "מפני",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אולתי",
-      "english": "⟨我的⟩愚妄"
+      "gloss": "⟨我的⟩愚妄"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:25.952943783Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 66:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 250,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64621,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64871
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:33.995827719Z",
   "translation": "来！听，凡敬畏以罗欣的人，我要讲述他为我的נפש所做的事。",
   "tokens": [
     {
       "surface": "לכו",
-      "english": "来！"
+      "gloss": "来！"
     },
     {
       "surface": "שמעו",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "ואספרה",
-      "english": "我要讲述"
+      "gloss": "我要讲述"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "יראי",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אשר",
-      "english": "的人，他所做的事"
+      "gloss": "的人，他所做的事"
     },
     {
       "surface": "עשה",
-      "english": "他所做的事"
+      "gloss": "他所做的事"
     },
     {
       "surface": "לנפשי",
-      "english": "为我的נפש"
+      "gloss": "为我的נפש"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:33.995827719Z",
-  "model": "glm-5.2"
+  ]
 }

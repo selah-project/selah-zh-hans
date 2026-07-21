@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 60:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20451,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20857
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:03:11.657633167Z",
   "translation": "列国必行在你的光中,君王必走向你闪耀的晨辉。",
   "tokens": [
     {
       "surface": "וְ\/הָלְכ֥וּ",
-      "english": "必行走在"
+      "gloss": "必行走在"
     },
     {
       "surface": "גוֹיִ֖ם",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "לְ\/אוֹרֵ֑\/ךְ",
-      "english": "在你的光中"
+      "gloss": "在你的光中"
     },
     {
       "surface": "וּ\/מְלָכִ֖ים",
-      "english": "以及君王"
+      "gloss": "以及君王"
     },
     {
       "surface": "לְ\/נֹ֥\/גַהּ",
-      "english": "走向你闪耀的"
+      "gloss": "走向你闪耀的"
     },
     {
       "surface": "זַרְחֵֽ\/ךְ",
-      "english": "晨辉"
+      "gloss": "晨辉"
     }
-  ],
-  "timestamp": "2026-07-17T22:03:11.657633167Z",
-  "model": "glm-5.2"
+  ]
 }

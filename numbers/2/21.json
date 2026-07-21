@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 2:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19457,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19770
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:01:22.301977112Z",
   "translation": "和他的全军, ⟨他们⟩被数点的人:三万二千二百。",
   "tokens": [
     {
       "surface": "וצבאו",
-      "english": "和他的全军"
+      "gloss": "和他的全军"
     },
     {
       "surface": "ופקדיהם",
-      "english": "⟨他们⟩被数点的人"
+      "gloss": "⟨他们⟩被数点的人"
     },
     {
       "surface": "שנים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "ושלשים",
-      "english": "和三十"
+      "gloss": "和三十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "ומאתים",
-      "english": "和二百"
+      "gloss": "和二百"
     }
-  ],
-  "timestamp": "2026-07-17T19:01:22.301977112Z",
-  "model": "glm-5.2"
+  ]
 }

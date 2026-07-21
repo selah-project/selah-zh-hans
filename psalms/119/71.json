@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 71,
   "ref": "psalms 119:71",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64385,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64761
-  },
+  "verse": 71,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:35.869628360Z",
   "translation": "对我好，因为我受苦，为要让我学习你的律例。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עניתי",
-      "english": "我受苦"
+      "gloss": "我受苦"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "אלמד",
-      "english": "让我学习"
+      "gloss": "让我学习"
     },
     {
       "surface": "חקיך",
-      "english": "你的律例"
+      "gloss": "你的律例"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:35.869628360Z",
-  "model": "glm-5.2"
+  ]
 }

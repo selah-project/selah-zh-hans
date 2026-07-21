@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 20:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23516,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24101
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:44:42.563288738Z",
   "translation": "亚伯拉罕对撒拉⟨他的⟩妻子说：⟨她是⟩我的妹妹。亚比米勒，基拉耳的王，差派人，取了⟨את⟩撒拉。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     },
     {
       "surface": "אשתו",
-      "english": "⟨他的⟩妻子"
+      "gloss": "⟨他的⟩妻子"
     },
     {
       "surface": "אחתי",
-      "english": "我的妹妹"
+      "gloss": "我的妹妹"
     },
     {
       "surface": "הוא",
-      "english": "⟨她是⟩"
+      "gloss": "⟨她是⟩"
     },
     {
       "surface": "וישלח",
-      "english": "差派人"
+      "gloss": "差派人"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "גרר",
-      "english": "基拉耳"
+      "gloss": "基拉耳"
     },
     {
       "surface": "ויקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒拉"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     }
-  ],
-  "timestamp": "2026-07-17T17:44:42.563288738Z",
-  "model": "glm-5.2"
+  ]
 }

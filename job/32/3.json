@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 32:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22173,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22622
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:43.476533650Z",
   "translation": "又⟨对⟩他的三个同伴,他的怒火燃烧,因为他们找不到回答,却定了⟨את⟩约伯的罪。",
   "tokens": [
     {
       "surface": "ובשלשת",
-      "english": "又对三个"
+      "gloss": "又对三个"
     },
     {
       "surface": "רעיו",
-      "english": "他的同伴"
+      "gloss": "他的同伴"
     },
     {
       "surface": "חרה",
-      "english": "燃烧"
+      "gloss": "燃烧"
     },
     {
       "surface": "אפו",
-      "english": "他的怒火"
+      "gloss": "他的怒火"
     },
     {
       "surface": "על",
-      "english": "⟨对⟩"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "אשר",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "מצאו",
-      "english": "他们找到"
+      "gloss": "他们找到"
     },
     {
       "surface": "מענה",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "וירשיעו",
-      "english": "却定了……的罪"
+      "gloss": "却定了……的罪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约伯"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:43.476533650Z",
-  "model": "glm-5.2"
+  ]
 }

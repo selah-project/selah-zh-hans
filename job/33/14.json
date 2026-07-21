@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 33:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21585,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21933
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:22.688217840Z",
   "translation": "因为以罗欣⟨是⟩在一次中说话,甚至在两次中⟨他⟩不察看⟨它⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "באחת",
-      "english": "在一次中"
+      "gloss": "在一次中"
     },
     {
       "surface": "ידבר",
-      "english": "⟨他⟩说话"
+      "gloss": "⟨他⟩说话"
     },
     {
       "surface": "אל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ובשתים",
-      "english": "甚至在两次中"
+      "gloss": "甚至在两次中"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישורנה",
-      "english": "⟨他⟩察看"
+      "gloss": "⟨他⟩察看"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:22.688217840Z",
-  "model": "glm-5.2"
+  ]
 }

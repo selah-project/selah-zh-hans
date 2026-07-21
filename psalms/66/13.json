@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 66:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64300,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64566
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:32.638685495Z",
   "translation": "我要进入你的家 ⟨בְּ\/⟩带着燔祭；我要向你偿还我的许愿——",
   "tokens": [
     {
       "surface": "אבוא",
-      "english": "我要进入"
+      "gloss": "我要进入"
     },
     {
       "surface": "ביתך",
-      "english": "你的家"
+      "gloss": "你的家"
     },
     {
       "surface": "בעולות",
-      "english": "⟨בְּ\/⟩带着燔祭"
+      "gloss": "⟨בְּ\/⟩带着燔祭"
     },
     {
       "surface": "אשלם",
-      "english": "我要偿还"
+      "gloss": "我要偿还"
     },
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "נדרי",
-      "english": "我的许愿"
+      "gloss": "我的许愿"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:32.638685495Z",
-  "model": "glm-5.2"
+  ]
 }

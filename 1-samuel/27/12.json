@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-samuel 27:12",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18323,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18807
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:37:48.170746004Z",
   "translation": "亚吉信了大卫,心里说:⟨他⟩使自己的百姓、以色列,彻底对自己发⟨出⟩恶臭;他必永远作我的仆人。",
   "tokens": [
     {
       "surface": "ויאמן",
-      "english": "信了"
+      "gloss": "信了"
     },
     {
       "surface": "אכיש",
-      "english": "亚吉"
+      "gloss": "亚吉"
     },
     {
       "surface": "בדוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "לאמר",
-      "english": "心里说"
+      "gloss": "心里说"
     },
     {
       "surface": "הבאש",
-      "english": "发⟨出⟩恶臭"
+      "gloss": "发⟨出⟩恶臭"
     },
     {
       "surface": "הבאיש",
-      "english": "使彻底发恶臭"
+      "gloss": "使彻底发恶臭"
     },
     {
       "surface": "בעמו",
-      "english": "自己的百姓"
+      "gloss": "自己的百姓"
     },
     {
       "surface": "בישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "והיה",
-      "english": "他必"
+      "gloss": "他必"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "לעבד",
-      "english": "作仆人"
+      "gloss": "作仆人"
     },
     {
       "surface": "עולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T20:37:48.170746004Z",
-  "model": "glm-5.2"
+  ]
 }

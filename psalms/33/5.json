@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "psalms 33:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 529,
-    "prompt_tokens": 64519,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65048
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:55.002965295Z",
   "translation": "他喜爱公义 ⟨和⟩ 公平；雅威 的 仁爱 *chesed* 充满了 ⟨这⟩ 地。",
   "tokens": [
     {
       "surface": "אהב",
-      "english": "他喜爱"
+      "gloss": "他喜爱"
     },
     {
       "surface": "צדקה",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "ומשפט",
-      "english": "⟨和⟩ 公平"
+      "gloss": "⟨和⟩ 公平"
     },
     {
       "surface": "חסד",
-      "english": "仁爱 *chesed*"
+      "gloss": "仁爱 *chesed*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מלאה",
-      "english": "充满了"
+      "gloss": "充满了"
     },
     {
       "surface": "הארץ",
-      "english": "⟨这⟩ 地"
+      "gloss": "⟨这⟩ 地"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:55.002965295Z",
-  "model": "glm-4.5"
+  ]
 }

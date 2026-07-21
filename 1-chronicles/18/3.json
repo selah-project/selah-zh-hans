@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 18:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59166,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59670
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:05:22.144028529Z",
   "translation": "大卫击打了 ⟨את⟩ 哈大利谢——琐巴王，⟨在⟩ 哈马——当他去 ⟩往幼发拉底河设立 ⟨他的⟩ 手 ⟨势力⟩ 之时。",
   "tokens": [
     {
       "surface": "ויך",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "哈大利谢"
     },
     {
       "surface": "הדדעזר",
-      "english": "哈大利谢"
+      "gloss": "哈大利谢"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "צובה",
-      "english": "琐巴"
+      "gloss": "琐巴"
     },
     {
       "surface": "חמתה",
-      "english": "⟨在⟩ 哈马"
+      "gloss": "⟨在⟩ 哈马"
     },
     {
       "surface": "בלכתו",
-      "english": "当他去……之时"
+      "gloss": "当他去……之时"
     },
     {
       "surface": "להציב",
-      "english": "设立"
+      "gloss": "设立"
     },
     {
       "surface": "ידו",
-      "english": "⟨他的⟩ 手 ⟨势力⟩"
+      "gloss": "⟨他的⟩ 手 ⟨势力⟩"
     },
     {
       "surface": "בנהר",
-      "english": "往河"
+      "gloss": "往河"
     },
     {
       "surface": "פרת",
-      "english": "幼发拉底"
+      "gloss": "幼发拉底"
     }
-  ],
-  "timestamp": "2026-07-18T02:05:22.144028529Z",
-  "model": "glm-5.2"
+  ]
 }

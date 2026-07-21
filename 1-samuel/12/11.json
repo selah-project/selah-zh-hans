@@ -1,97 +1,86 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-samuel 12:11",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 636,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19273,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19909
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:27:06.751094392Z",
   "translation": "雅威差遣了耶路巴力、⟨את⟩ 比丹、⟨את⟩ 耶弗他、⟨את⟩ 撒母耳,拯救了⟨את⟩ 你们脱离四围仇敌的手,你们就安然居住。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "差遣了"
+      "gloss": "差遣了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶路巴力"
     },
     {
       "surface": "ירבעל",
-      "english": "耶路巴力"
+      "gloss": "耶路巴力"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "比丹"
     },
     {
       "surface": "בדן",
-      "english": "比丹"
+      "gloss": "比丹"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶弗他"
     },
     {
       "surface": "יפתח",
-      "english": "耶弗他"
+      "gloss": "耶弗他"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒母耳"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "ויצל",
-      "english": "拯救了"
+      "gloss": "拯救了"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩你们",
+      "gloss": "⟨את⟩你们",
       "marks": "你们"
     },
     {
       "surface": "מיד",
-      "english": "脱离……的手"
+      "gloss": "脱离……的手"
     },
     {
       "surface": "איביכם",
-      "english": "你们的仇敌"
+      "gloss": "你们的仇敌"
     },
     {
       "surface": "מסביב",
-      "english": "四围"
+      "gloss": "四围"
     },
     {
       "surface": "ותשבו",
-      "english": "你们就居住"
+      "gloss": "你们就居住"
     },
     {
       "surface": "בטח",
-      "english": "安然"
+      "gloss": "安然"
     }
-  ],
-  "timestamp": "2026-07-17T20:27:06.751094392Z",
-  "model": "glm-5.2"
+  ]
 }

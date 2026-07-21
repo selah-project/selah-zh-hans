@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
   "ref": "exodus 12:38",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18663,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19048
-  },
+  "verse": 38,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:06.923423793Z",
   "translation": "又有许多闲杂人⟨同⟩他们上去,还有羊群和牛群,⟨就是⟩极多的牲畜。",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "又有"
+      "gloss": "又有"
     },
     {
       "surface": "ערב",
-      "english": "闲杂人"
+      "gloss": "闲杂人"
     },
     {
       "surface": "רב",
-      "english": "许多"
+      "gloss": "许多"
     },
     {
       "surface": "עלה",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "אתם",
-      "english": "⟨同⟩他们"
+      "gloss": "⟨同⟩他们"
     },
     {
       "surface": "וצאן",
-      "english": "还有羊群"
+      "gloss": "还有羊群"
     },
     {
       "surface": "ובקר",
-      "english": "和牛群"
+      "gloss": "和牛群"
     },
     {
       "surface": "מקנה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "כבד",
-      "english": "极多"
+      "gloss": "极多"
     },
     {
       "surface": "מאד",
-      "english": "非常"
+      "gloss": "非常"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:06.923423793Z",
-  "model": "glm-5.2"
+  ]
 }

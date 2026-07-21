@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "1-chronicles 9:25",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58731,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59159
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:59:08.676816548Z",
   "translation": "他们的兄弟 ⟨在他们⟩ 的院宇中 ⟨要⟩ 进来，⟨轮值⟩ 七日，从一个时段到一个时段，⟨与⟩ 这些人 ⟨同在⟩。",
   "tokens": [
     {
       "surface": "ואחיהם",
-      "english": "他们的兄弟"
+      "gloss": "他们的兄弟"
     },
     {
       "surface": "בחצריהם",
-      "english": "在他们的院宇中"
+      "gloss": "在他们的院宇中"
     },
     {
       "surface": "לבוא",
-      "english": "要进来"
+      "gloss": "要进来"
     },
     {
       "surface": "לשבעת",
-      "english": "⟨轮值⟩ 七"
+      "gloss": "⟨轮值⟩ 七"
     },
     {
       "surface": "הימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "מעת",
-      "english": "从一个时段"
+      "gloss": "从一个时段"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "עת",
-      "english": "一个时段"
+      "gloss": "一个时段"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אלה",
-      "english": "这些人"
+      "gloss": "这些人"
     }
-  ],
-  "timestamp": "2026-07-18T01:59:08.676816548Z",
-  "model": "glm-5.2"
+  ]
 }

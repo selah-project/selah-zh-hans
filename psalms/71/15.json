@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 71:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64794,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65372
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:43.659263128Z",
   "translation": "我的口要述说你的公义，终日⟨述说⟩你的救恩，因为我不知道数目。",
   "tokens": [
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "יספר",
-      "english": "要述说"
+      "gloss": "要述说"
     },
     {
       "surface": "צדקתך",
-      "english": "你的公义"
+      "gloss": "你的公义"
     },
     {
       "surface": "כל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "היום",
-      "english": "⟨这⟩日"
+      "gloss": "⟨这⟩日"
     },
     {
       "surface": "תשועתך",
-      "english": "你的救恩"
+      "gloss": "你的救恩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידעתי",
-      "english": "我知道"
+      "gloss": "我知道"
     },
     {
       "surface": "ספרות",
-      "english": "数目"
+      "gloss": "数目"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:43.659263128Z",
-  "model": "glm-5.2"
+  ]
 }

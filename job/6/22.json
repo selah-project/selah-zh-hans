@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "job 6:22",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21544,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21916
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:08.758961964Z",
   "translation": "难道我说过『给⟨我⟩』吗？或从你们的财力中为⟨我⟩贿赂吗？",
   "tokens": [
     {
       "surface": "הכי",
-      "english": "难道"
+      "gloss": "难道"
     },
     {
       "surface": "אמרתי",
-      "english": "我说过"
+      "gloss": "我说过"
     },
     {
       "surface": "הבו",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "לי",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     },
     {
       "surface": "ומכחכם",
-      "english": "或从你们的财力中"
+      "gloss": "或从你们的财力中"
     },
     {
       "surface": "שחדו",
-      "english": "贿赂"
+      "gloss": "贿赂"
     },
     {
       "surface": "בעדי",
-      "english": "⟨为我⟩"
+      "gloss": "⟨为我⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:08.758961964Z",
-  "model": "glm-5.2"
+  ]
 }

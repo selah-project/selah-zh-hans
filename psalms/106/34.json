@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "psalms 106:34",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64535,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64812
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:42.218149744Z",
   "translation": "他们没有灭绝⟨את⟩⟨那些⟩万民，就是雅威曾对他们说的，",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不 \/ 没有"
+      "gloss": "不 \/ 没有"
     },
     {
       "surface": "השמידו",
-      "english": "他们灭绝"
+      "gloss": "他们灭绝"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那些⟩万民"
     },
     {
       "surface": "העמים",
-      "english": "⟨那些⟩万民"
+      "gloss": "⟨那些⟩万民"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "אמר",
-      "english": "曾说的"
+      "gloss": "曾说的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "להם",
-      "english": "对他们"
+      "gloss": "对他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:42.218149744Z",
-  "model": "glm-5.2"
+  ]
 }

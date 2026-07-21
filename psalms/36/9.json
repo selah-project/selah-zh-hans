@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 36:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 294,
-    "prompt_tokens": 64441,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64735
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:35:48.601114240Z",
   "translation": "他们必因你家的肥甘 ⟨得⟩饱足,你必用你乐河的 ⟨水⟩ 使他们喝 ⟨ט⟩。",
   "tokens": [
     {
       "surface": "ירוין",
-      "english": "他们必 ⟨得⟩ 饱足"
+      "gloss": "他们必 ⟨得⟩ 饱足"
     },
     {
       "surface": "מדשן",
-      "english": "肥甘"
+      "gloss": "肥甘"
     },
     {
       "surface": "ביתך",
-      "english": "你家的"
+      "gloss": "你家的"
     },
     {
       "surface": "ונחל",
-      "english": "河"
+      "gloss": "河"
     },
     {
       "surface": "עדניך",
-      "english": "你乐"
+      "gloss": "你乐"
     },
     {
       "surface": "תשקם",
-      "english": "使他们喝"
+      "gloss": "使他们喝"
     }
-  ],
-  "timestamp": "2026-07-21T02:35:48.601114240Z",
-  "model": "glm-4.5"
+  ]
 }

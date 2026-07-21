@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-chronicles 35:11",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59678,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60132
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:35:54.779365564Z",
   "translation": "他们宰了Pésach，祭司们从他们手中⟨把血⟩撒出，利未人⟨负责⟩剥皮。",
   "tokens": [
     {
       "surface": "וישחטו",
-      "english": "他们宰了"
+      "gloss": "他们宰了"
     },
     {
       "surface": "הפסח",
-      "english": "Pésach（逾越羔羊）"
+      "gloss": "Pésach（逾越羔羊）"
     },
     {
       "surface": "ויזרקו",
-      "english": "祭司们撒出"
+      "gloss": "祭司们撒出"
     },
     {
       "surface": "הכהנים",
-      "english": "（祭司们）"
+      "gloss": "（祭司们）"
     },
     {
       "surface": "מידם",
-      "english": "从他们手中"
+      "gloss": "从他们手中"
     },
     {
       "surface": "והלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     },
     {
       "surface": "מפשיטים",
-      "english": "剥皮"
+      "gloss": "剥皮"
     }
-  ],
-  "timestamp": "2026-07-18T02:35:54.779365564Z",
-  "model": "glm-5.2"
+  ]
 }

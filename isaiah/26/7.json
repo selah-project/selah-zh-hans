@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 26:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20582,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20945
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:53.665022025Z",
   "translation": "义人的道路 ⟨是⟩ 平直的；正直者啊，你铺平义人的路径。",
   "tokens": [
     {
       "surface": "ארח",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "לצדיק",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "מישרים",
-      "english": "平直的"
+      "gloss": "平直的"
     },
     {
       "surface": "ישר",
-      "english": "正直者啊"
+      "gloss": "正直者啊"
     },
     {
       "surface": "מעגל",
-      "english": "路径"
+      "gloss": "路径"
     },
     {
       "surface": "צדיק",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "תפלס",
-      "english": "你铺平"
+      "gloss": "你铺平"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:53.665022025Z",
-  "model": "glm-5.2"
+  ]
 }

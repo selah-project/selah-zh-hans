@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 55:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20514,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20872
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:00:52.726865959Z",
   "translation": "要寻求雅威,在他可被寻见之时;要呼求他,在他尚且临近之时。",
   "tokens": [
     {
       "surface": "דרשו",
-      "english": "要寻求"
+      "gloss": "要寻求"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בהמצאו",
-      "english": "在他可被寻见之时"
+      "gloss": "在他可被寻见之时"
     },
     {
       "surface": "קראהו",
-      "english": "要呼求他"
+      "gloss": "要呼求他"
     },
     {
       "surface": "בהיותו",
-      "english": "在他……之时"
+      "gloss": "在他……之时"
     },
     {
       "surface": "קרוב",
-      "english": "临近"
+      "gloss": "临近"
     }
-  ],
-  "timestamp": "2026-07-17T22:00:52.726865959Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 12:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23015,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23532
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:55.583144885Z",
   "translation": "我必将你做成大国,我必赐福给你,我必使你的名为大;⟨你⟩要成为祝福。",
   "tokens": [
     {
       "surface": "ואעשך",
-      "english": "我必将你做成"
+      "gloss": "我必将你做成"
     },
     {
       "surface": "לגוי",
-      "english": "大国"
+      "gloss": "大国"
     },
     {
       "surface": "גדול",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "ואברכך",
-      "english": "我必赐福给你"
+      "gloss": "我必赐福给你"
     },
     {
       "surface": "ואגדלה",
-      "english": "我必使……为大"
+      "gloss": "我必使……为大"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "והיה",
-      "english": "⟨你⟩要成为"
+      "gloss": "⟨你⟩要成为"
     },
     {
       "surface": "ברכה",
-      "english": "祝福"
+      "gloss": "祝福"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:55.583144885Z",
-  "model": "glm-5.2"
+  ]
 }

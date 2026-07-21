@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "2-chronicles 36:11",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 342,
-    "prompt_tokens": 60025,
-    "prompt_tokens_details": {
-      "cached_tokens": 54016
-    },
-    "total_tokens": 60367
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:55.463244483Z",
   "translation": "西底家 ⟨是⟩二十一岁,在他开始统治的时候,并在耶路撒冷作王十一年。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "ואחת",
-      "english": "和一"
+      "gloss": "和一"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "צדקיהו",
-      "english": "西底家"
+      "gloss": "西底家"
     },
     {
       "surface": "במלכו",
-      "english": "在他开始统治的时候"
+      "gloss": "在他开始统治的时候"
     },
     {
       "surface": "ואחת",
-      "english": "和一"
+      "gloss": "和一"
     },
     {
       "surface": "עשרה",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "מלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:55.463244483Z",
-  "model": "glm-4.5"
+  ]
 }

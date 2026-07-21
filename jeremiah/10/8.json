@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "jeremiah 10:8",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18969,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19462
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:13:08.707371437Z",
   "translation": "他们必一同变为愚昧,并被变作痴呆;虚空的训诲——它 ⟨是⟩ 木头。",
   "tokens": [
     {
       "surface": "ובאחת",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "יבערו",
-      "english": "他们必变为愚昧"
+      "gloss": "他们必变为愚昧"
     },
     {
       "surface": "ויכסלו",
-      "english": "并被变作痴呆"
+      "gloss": "并被变作痴呆"
     },
     {
       "surface": "מוסר",
-      "english": "训诲"
+      "gloss": "训诲"
     },
     {
       "surface": "הבלים",
-      "english": "虚空的"
+      "gloss": "虚空的"
     },
     {
       "surface": "עץ",
-      "english": "木头"
+      "gloss": "木头"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     }
-  ],
-  "timestamp": "2026-07-17T22:13:08.707371437Z",
-  "model": "glm-5.2"
+  ]
 }

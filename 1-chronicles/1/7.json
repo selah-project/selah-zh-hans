@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "1-chronicles 1:7",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58530,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58930
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:20.342996855Z",
   "translation": "雅完的儿子们⟨是⟩以利沙、他施、基提和罗单。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "和儿子们"
+      "gloss": "和儿子们"
     },
     {
       "surface": "יון",
-      "english": "雅完"
+      "gloss": "雅完"
     },
     {
       "surface": "אלישה",
-      "english": "以利沙"
+      "gloss": "以利沙"
     },
     {
       "surface": "ותרשישה",
-      "english": "和他施"
+      "gloss": "和他施"
     },
     {
       "surface": "כתים",
-      "english": "基提"
+      "gloss": "基提"
     },
     {
       "surface": "ורודנים",
-      "english": "和罗单"
+      "gloss": "和罗单"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:20.342996855Z",
-  "model": "glm-5.2"
+  ]
 }

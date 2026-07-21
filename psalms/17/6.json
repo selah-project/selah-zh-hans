@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 17:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64724,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65144
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:59.600092621Z",
   "translation": "我呼求你,因为你必回答我,אֵל⟨以罗欣⟩;侧你的耳向我,听我的话语。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "קראתיך",
-      "english": "我呼求你"
+      "gloss": "我呼求你"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "תענני",
-      "english": "你必回答我"
+      "gloss": "你必回答我"
     },
     {
       "surface": "אל",
-      "english": "אֵל⟨以罗欣⟩"
+      "gloss": "אֵל⟨以罗欣⟩"
     },
     {
       "surface": "הט",
-      "english": "侧"
+      "gloss": "侧"
     },
     {
       "surface": "אזנך",
-      "english": "你的耳"
+      "gloss": "你的耳"
     },
     {
       "surface": "לי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "שמע",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "אמרתי",
-      "english": "我的话语"
+      "gloss": "我的话语"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:59.600092621Z",
-  "model": "glm-5.2"
+  ]
 }

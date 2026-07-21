@@ -1,46 +1,38 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 51:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 396,
-    "prompt_tokens": 64303,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64699
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:04.522226623Z",
   "translation": "多多地 ⟨为⟩ 我 ⟨洗⟩ ⟨我的⟩ 不义，和 ⟨从⟩ 我的罪，洁净我。",
   "tokens": [
     {
       "surface": "הרבה",
-      "english": "多多地",
+      "gloss": "多多地",
       "marks": null
     },
     {
       "surface": "כבסני",
-      "english": "⟨为⟩ 我 ⟨洗⟩",
+      "gloss": "⟨为⟩ 我 ⟨洗⟩",
       "marks": "我"
     },
     {
       "surface": "מעוני",
-      "english": "⟨我的⟩ 不义",
+      "gloss": "⟨我的⟩ 不义",
       "marks": null
     },
     {
       "surface": "ומחטאתי",
-      "english": "和 ⟨从⟩ 我的罪",
+      "gloss": "和 ⟨从⟩ 我的罪",
       "marks": "罪"
     },
     {
       "surface": "טהרני",
-      "english": "洁净我",
+      "gloss": "洁净我",
       "marks": null
     }
-  ],
-  "timestamp": "2026-07-21T13:22:04.522226623Z",
-  "model": "glm-4.5"
+  ]
 }

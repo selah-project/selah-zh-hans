@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 25:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64507,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64860
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:27.974239483Z",
   "translation": "求你守护我的נפש（生命气息），搭救我；别让我蒙羞，因为我投靠了你。",
   "tokens": [
     {
       "surface": "שמרה",
-      "english": "求你守护"
+      "gloss": "求你守护"
     },
     {
       "surface": "נפשי",
-      "english": "我的נפש（生命气息）"
+      "gloss": "我的נפש（生命气息）"
     },
     {
       "surface": "והצילני",
-      "english": "并搭救我"
+      "gloss": "并搭救我"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "אבוש",
-      "english": "让我蒙羞"
+      "gloss": "让我蒙羞"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חסיתי",
-      "english": "我投靠了"
+      "gloss": "我投靠了"
     },
     {
       "surface": "בך",
-      "english": "你"
+      "gloss": "你"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:27.974239483Z",
-  "model": "glm-5.2"
+  ]
 }

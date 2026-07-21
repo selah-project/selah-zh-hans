@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "leviticus 10:2",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19249,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19626
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:51.628196380Z",
   "translation": "火从雅威面前出来,吞灭了⟨את⟩他们,他们就在雅威面前死了。",
   "tokens": [
     {
       "surface": "ותצא",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "מלפני",
-      "english": "从……面前"
+      "gloss": "从……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ותאכל",
-      "english": "吞灭了"
+      "gloss": "吞灭了"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "וימתו",
-      "english": "他们……死了"
+      "gloss": "他们……死了"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:51.628196380Z",
-  "model": "glm-5.2"
+  ]
 }

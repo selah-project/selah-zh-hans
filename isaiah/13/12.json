@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 13:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20473,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20901
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:35.416595229Z",
   "translation": "我必使必死之人 ⟨比⟩ 纯金更稀少,使人 ⟨比⟩ 俄斐的金更稀少。",
   "tokens": [
     {
       "surface": "אוֹקִ֥יר",
-      "english": "我必使……更稀少"
+      "gloss": "我必使……更稀少"
     },
     {
       "surface": "אֱנ֖וֹשׁ",
-      "english": "必死之人"
+      "gloss": "必死之人"
     },
     {
       "surface": "מִ\/פָּ֑ז",
-      "english": "比纯金"
+      "gloss": "比纯金"
     },
     {
       "surface": "וְ\/אָדָ֖ם",
-      "english": "和人"
+      "gloss": "和人"
     },
     {
       "surface": "מִ\/כֶּ֥תֶם",
-      "english": "比……的金"
+      "gloss": "比……的金"
     },
     {
       "surface": "אוֹפִֽיר",
-      "english": "俄斐"
+      "gloss": "俄斐"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:35.416595229Z",
-  "model": "glm-5.2"
+  ]
 }

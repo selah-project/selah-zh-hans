@@ -1,109 +1,98 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 50:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 745,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 24306,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 25051
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:14.658880536Z",
   "translation": "我父亲叫我起誓,说:'看哪,我正要死:在我于迦南地为我所掘的坟墓里,在那里你要把我葬了。'现在请让我上去,我要葬⟨את⟩我的父亲,然后我将返回。'",
   "tokens": [
     {
       "surface": "אבי",
-      "english": "我父亲"
+      "gloss": "我父亲"
     },
     {
       "surface": "השביעני",
-      "english": "叫我起誓"
+      "gloss": "叫我起誓"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מת",
-      "english": "正要死"
+      "gloss": "正要死"
     },
     {
       "surface": "בקברי",
-      "english": "在我的坟墓里"
+      "gloss": "在我的坟墓里"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "כריתי",
-      "english": "我所掘的"
+      "gloss": "我所掘的"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     },
     {
       "surface": "שמה",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "תקברני",
-      "english": "你要把我葬了"
+      "gloss": "你要把我葬了"
     },
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "אעלה",
-      "english": "请让我上去"
+      "gloss": "请让我上去"
     },
     {
       "surface": "נא",
-      "english": "求你"
+      "gloss": "求你"
     },
     {
       "surface": "ואקברה",
-      "english": "我要葬"
+      "gloss": "我要葬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的父亲"
     },
     {
       "surface": "אבי",
-      "english": "我的父亲"
+      "gloss": "我的父亲"
     },
     {
       "surface": "ואשובה",
-      "english": "然后我将返回"
+      "gloss": "然后我将返回"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:14.658880536Z",
-  "model": "glm-5.2"
+  ]
 }

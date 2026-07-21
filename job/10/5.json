@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 10:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21555,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21936
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:09.753588507Z",
   "translation": "你的日子⟨是否⟩如凡人的日子？你的年岁⟨是否⟩如壮士的年岁？",
   "tokens": [
     {
       "surface": "הכימי",
-      "english": "如……的日子"
+      "gloss": "如……的日子"
     },
     {
       "surface": "אנושׁ",
-      "english": "凡人"
+      "gloss": "凡人"
     },
     {
       "surface": "ימיך",
-      "english": "你的日子"
+      "gloss": "你的日子"
     },
     {
       "surface": "אם",
-      "english": "⟨是否⟩"
+      "gloss": "⟨是否⟩"
     },
     {
       "surface": "שנותיך",
-      "english": "你的年岁"
+      "gloss": "你的年岁"
     },
     {
       "surface": "כימי",
-      "english": "如……的日子"
+      "gloss": "如……的日子"
     },
     {
       "surface": "גבר",
-      "english": "壮士"
+      "gloss": "壮士"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:09.753588507Z",
-  "model": "glm-5.2"
+  ]
 }

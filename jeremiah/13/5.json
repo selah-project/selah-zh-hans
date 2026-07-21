@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "jeremiah 13:5",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19000,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19326
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:14:17.456239468Z",
   "translation": "我就去,把它藏在幼发拉底 ⟨פרת⟩,正如雅威所吩咐 ⟨את⟩我的。",
   "tokens": [
     {
       "surface": "ואלך",
-      "english": "我就去"
+      "gloss": "我就去"
     },
     {
       "surface": "ואטמנהו",
-      "english": "把它藏在"
+      "gloss": "把它藏在"
     },
     {
       "surface": "בפרת",
-      "english": "幼发拉底 ⟨פרת⟩"
+      "gloss": "幼发拉底 ⟨פרת⟩"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐"
+      "gloss": "所吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אותי",
-      "english": "⟨את⟩我的"
+      "gloss": "⟨את⟩我的"
     }
-  ],
-  "timestamp": "2026-07-17T22:14:17.456239468Z",
-  "model": "glm-5.2"
+  ]
 }

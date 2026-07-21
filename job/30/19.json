@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 30:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21388,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21647
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:27.695577747Z",
   "translation": "⟨他⟩将我抛入泥中，我变得如尘土与灰烬一般。",
   "tokens": [
     {
       "surface": "הרני",
-      "english": "⟨他⟩将我抛入"
+      "gloss": "⟨他⟩将我抛入"
     },
     {
       "surface": "לחמר",
-      "english": "泥中"
+      "gloss": "泥中"
     },
     {
       "surface": "ואתמשל",
-      "english": "我变得如"
+      "gloss": "我变得如"
     },
     {
       "surface": "כעפר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "ואפר",
-      "english": "与灰烬"
+      "gloss": "与灰烬"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:27.695577747Z",
-  "model": "glm-5.2"
+  ]
 }

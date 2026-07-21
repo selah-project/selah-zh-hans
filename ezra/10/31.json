@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "ezra 10:31",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46477,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46747
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:19.380951559Z",
   "translation": "属哈琳的子孙：以利以谢、伊示雅、玛基雅、示玛雅、西缅。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "属……的子孙"
+      "gloss": "属……的子孙"
     },
     {
       "surface": "חרם",
-      "english": "哈琳"
+      "gloss": "哈琳"
     },
     {
       "surface": "אליעזר",
-      "english": "以利以谢"
+      "gloss": "以利以谢"
     },
     {
       "surface": "ישיה",
-      "english": "伊示雅"
+      "gloss": "伊示雅"
     },
     {
       "surface": "מלכיה",
-      "english": "玛基雅"
+      "gloss": "玛基雅"
     },
     {
       "surface": "שמעיה",
-      "english": "示玛雅"
+      "gloss": "示玛雅"
     },
     {
       "surface": "שמעון",
-      "english": "西缅"
+      "gloss": "西缅"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:19.380951559Z",
-  "model": "glm-5.2"
+  ]
 }

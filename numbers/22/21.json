@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 22:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19873,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20287
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:16:35.111164111Z",
   "translation": "比蓝早晨起来,备好⟨את⟩他的母驴,就与摩押的领袖们同去。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "בלעם",
-      "english": "比蓝"
+      "gloss": "比蓝"
     },
     {
       "surface": "בבקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "ויחבש",
-      "english": "备好"
+      "gloss": "备好"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的母驴"
     },
     {
       "surface": "אתנו",
-      "english": "他的母驴"
+      "gloss": "他的母驴"
     },
     {
       "surface": "וילך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "עם",
-      "english": "与……同"
+      "gloss": "与……同"
     },
     {
       "surface": "שרי",
-      "english": "领袖们"
+      "gloss": "领袖们"
     },
     {
       "surface": "מואב",
-      "english": "摩押的"
+      "gloss": "摩押的"
     }
-  ],
-  "timestamp": "2026-07-17T19:16:35.111164111Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 73:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64430,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64830
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:38.117780762Z",
   "translation": "看哪，⟨这些⟩就是恶人；常享安逸的，⟨他们⟩得着了财利。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אלה",
-      "english": "⟨这些⟩"
+      "gloss": "⟨这些⟩"
     },
     {
       "surface": "רשעים",
-      "english": "就是恶人"
+      "gloss": "就是恶人"
     },
     {
       "surface": "ושלוי",
-      "english": "常享安逸的"
+      "gloss": "常享安逸的"
     },
     {
       "surface": "עולם",
-      "english": "（长久）"
+      "gloss": "（长久）"
     },
     {
       "surface": "השגו",
-      "english": "得着了"
+      "gloss": "得着了"
     },
     {
       "surface": "חיל",
-      "english": "财利"
+      "gloss": "财利"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:38.117780762Z",
-  "model": "glm-5.2"
+  ]
 }

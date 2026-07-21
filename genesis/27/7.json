@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "genesis 27:7",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23227,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23743
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:49:59.401656566Z",
   "translation": "给我带猎物来,为我做美味,⟨好让⟩我吃,⟨好让⟩我在雅威面前祝福你——在我死之前。",
   "tokens": [
     {
       "surface": "הביאה",
-      "english": "给我带来"
+      "gloss": "给我带来"
     },
     {
       "surface": "לי",
-      "english": "给我"
+      "gloss": "给我"
     },
     {
       "surface": "ציד",
-      "english": "猎物"
+      "gloss": "猎物"
     },
     {
       "surface": "ועשה",
-      "english": "并做"
+      "gloss": "并做"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "מטעמים",
-      "english": "美味"
+      "gloss": "美味"
     },
     {
       "surface": "ואכלה",
-      "english": "⟨好让⟩我吃"
+      "gloss": "⟨好让⟩我吃"
     },
     {
       "surface": "ואברככה",
-      "english": "⟨好让⟩我祝福你"
+      "gloss": "⟨好让⟩我祝福你"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לפני",
-      "english": "在……之前"
+      "gloss": "在……之前"
     },
     {
       "surface": "מותי",
-      "english": "我的死"
+      "gloss": "我的死"
     }
-  ],
-  "timestamp": "2026-07-17T17:49:59.401656566Z",
-  "model": "glm-5.2"
+  ]
 }

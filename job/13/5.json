@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "job 13:5",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21555,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22065
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:28.588012451Z",
   "translation": "谁⟨能⟩赐下沉默呢？你们全然静默吧，⟨这⟩就作你们的智慧。",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יתן",
-      "english": "⟨能⟩赐下"
+      "gloss": "⟨能⟩赐下"
     },
     {
       "surface": "החרש",
-      "english": "沉默"
+      "gloss": "沉默"
     },
     {
       "surface": "תחרישון",
-      "english": "你们全然静默吧"
+      "gloss": "你们全然静默吧"
     },
     {
       "surface": "ותהי",
-      "english": "⟨这⟩就作"
+      "gloss": "⟨这⟩就作"
     },
     {
       "surface": "לכם",
-      "english": "你们的"
+      "gloss": "你们的"
     },
     {
       "surface": "לחכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:28.588012451Z",
-  "model": "glm-5.2"
+  ]
 }

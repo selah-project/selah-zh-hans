@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-kings 4:9",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 399,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64000,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64399
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:42.205906174Z",
   "translation": "本-德克尔 ⟨在⟩ 玛卡兹、沙阿勒宾、伯-示麦,以及以伦 ⟨和⟩ 伯-哈南:",
   "tokens": [
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "דקר",
-      "english": "德克尔"
+      "gloss": "德克尔"
     },
     {
       "surface": "במקץ",
-      "english": "⟨在⟩ 玛卡兹"
+      "gloss": "⟨在⟩ 玛卡兹"
     },
     {
       "surface": "ובשעלבים",
-      "english": "、沙阿勒宾"
+      "gloss": "、沙阿勒宾"
     },
     {
       "surface": "ובית",
-      "english": "、伯-"
+      "gloss": "、伯-"
     },
     {
       "surface": "שמש",
-      "english": "示麦"
+      "gloss": "示麦"
     },
     {
       "surface": "ואילון",
-      "english": ",以及以伦"
+      "gloss": ",以及以伦"
     },
     {
       "surface": "בית",
-      "english": "⟨和⟩ 伯-"
+      "gloss": "⟨和⟩ 伯-"
     },
     {
       "surface": "חנן",
-      "english": "哈南"
+      "gloss": "哈南"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:42.205906174Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "1-samuel 17:21",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 288,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17922,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18210
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:50:45.455017366Z",
   "translation": "以色列和非利士人摆开阵势,阵列对阵列传阵对峙。",
   "tokens": [
     {
       "surface": "ו\/תערך",
-      "english": "摆开阵势"
+      "gloss": "摆开阵势"
     },
     {
       "surface": "י\/שראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ו\/פלשתים",
-      "english": "和非利士人"
+      "gloss": "和非利士人"
     },
     {
       "surface": "מערכה",
-      "english": "阵列"
+      "gloss": "阵列"
     },
     {
       "surface": "ל\/קראת",
-      "english": "对阵"
+      "gloss": "对阵"
     },
     {
       "surface": "מערכה",
-      "english": "阵列"
+      "gloss": "阵列"
     }
-  ],
-  "timestamp": "2026-07-18T02:50:45.455017366Z",
-  "model": "glm-5.2"
+  ]
 }

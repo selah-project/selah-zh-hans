@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "song-of-songs 6:10",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22353,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22936
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:21.324185295Z",
   "translation": "这是谁？那俯瞰⟨者⟩如黎明，美丽如月亮，皎洁如太阳，可畏如展开旌旗的军旅。",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "זאת",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "הנשקפה",
-      "english": "那俯瞰⟨者⟩"
+      "gloss": "那俯瞰⟨者⟩"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "שחר",
-      "english": "黎明"
+      "gloss": "黎明"
     },
     {
       "surface": "יפה",
-      "english": "美丽"
+      "gloss": "美丽"
     },
     {
       "surface": "כלבנה",
-      "english": "如月亮"
+      "gloss": "如月亮"
     },
     {
       "surface": "ברה",
-      "english": "皎洁"
+      "gloss": "皎洁"
     },
     {
       "surface": "כחמה",
-      "english": "如太阳"
+      "gloss": "如太阳"
     },
     {
       "surface": "אימה",
-      "english": "可畏"
+      "gloss": "可畏"
     },
     {
       "surface": "כנדגלות",
-      "english": "如展开旌旗的军旅"
+      "gloss": "如展开旌旗的军旅"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:21.324185295Z",
-  "model": "glm-5.2"
+  ]
 }

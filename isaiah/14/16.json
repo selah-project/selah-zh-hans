@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 14:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 486,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20982,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21468
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:18.002549894Z",
   "translation": "看见你的人向你凝视,⟨对你⟩注视,默想⟨你⟩:⟨这⟩就是⟨那⟩使大地战栗、使列国动荡的人吗?",
   "tokens": [
     {
       "surface": "ראיך",
-      "english": "看见你的人"
+      "gloss": "看见你的人"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "ישגיחו",
-      "english": "凝视"
+      "gloss": "凝视"
     },
     {
       "surface": "אליך",
-      "english": "⟨对你⟩"
+      "gloss": "⟨对你⟩"
     },
     {
       "surface": "יתבוננו",
-      "english": "注视,默想⟨你⟩"
+      "gloss": "注视,默想⟨你⟩"
     },
     {
       "surface": "הזה",
-      "english": "⟨这⟩"
+      "gloss": "⟨这⟩"
     },
     {
       "surface": "האיש",
-      "english": "就是⟨那⟩……人吗"
+      "gloss": "就是⟨那⟩……人吗"
     },
     {
       "surface": "מרגיז",
-      "english": "使……战栗"
+      "gloss": "使……战栗"
     },
     {
       "surface": "הארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "מרעיש",
-      "english": "使……动荡"
+      "gloss": "使……动荡"
     },
     {
       "surface": "ממלכות",
-      "english": "列国"
+      "gloss": "列国"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:18.002549894Z",
-  "model": "glm-5.2"
+  ]
 }

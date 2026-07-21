@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 16:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64407,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64969
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:38.776529181Z",
   "translation": "米克塔姆 ⟨属于⟩ 大卫。保护我，⟨哦⟩ 以罗欣，因为我 ⟨已经⟩ 在你里面避难。",
   "tokens": [
     {
       "surface": "מכתם",
-      "english": "米克塔姆"
+      "gloss": "米克塔姆"
     },
     {
       "surface": "לדוד",
-      "english": "⟨属于⟩ 大卫"
+      "gloss": "⟨属于⟩ 大卫"
     },
     {
       "surface": "שמרני",
-      "english": "保护我"
+      "gloss": "保护我"
     },
     {
       "surface": "אל",
-      "english": "⟨哦⟩ 以罗欣"
+      "gloss": "⟨哦⟩ 以罗欣"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חסיתי",
-      "english": "我 ⟨已经⟩ 避难"
+      "gloss": "我 ⟨已经⟩ 避难"
     },
     {
       "surface": "בך",
-      "english": "在你里面"
+      "gloss": "在你里面"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:38.776529181Z",
-  "model": "glm-5.2"
+  ]
 }

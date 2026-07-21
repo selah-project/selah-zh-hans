@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "zechariah 6:9",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17362,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 17692
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:34:22.729297100Z",
   "translation": "雅威的*davar* (话语) 临到我，说：",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话语)"
+      "gloss": "*davar* (话语)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אלי",
-      "english": "到我"
+      "gloss": "到我"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T23:34:22.729297100Z",
-  "model": "glm-5.2"
+  ]
 }

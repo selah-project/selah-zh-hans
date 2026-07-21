@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 2:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21648,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22059
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:25.382889275Z",
   "translation": "他为自己拿了一片瓦器，用以刮自己，⟨他⟩坐在灰烬之中。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "他拿了"
+      "gloss": "他拿了"
     },
     {
       "surface": "לו",
-      "english": "为自己"
+      "gloss": "为自己"
     },
     {
       "surface": "חרש",
-      "english": "一片瓦器"
+      "gloss": "一片瓦器"
     },
     {
       "surface": "להתגרד",
-      "english": "用以刮自己"
+      "gloss": "用以刮自己"
     },
     {
       "surface": "בו",
-      "english": "用它"
+      "gloss": "用它"
     },
     {
       "surface": "והוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ישב",
-      "english": "坐在"
+      "gloss": "坐在"
     },
     {
       "surface": "בתוך",
-      "english": "在……之中"
+      "gloss": "在……之中"
     },
     {
       "surface": "האפר",
-      "english": "灰烬"
+      "gloss": "灰烬"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:25.382889275Z",
-  "model": "glm-5.2"
+  ]
 }

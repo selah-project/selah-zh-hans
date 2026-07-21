@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 69:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64257,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64633
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:41.969824708Z",
   "translation": "我哭泣 (כָּוִיתִי) 在禁食中我的נֶפֶשׁ，它成了⟨对我⟩的辱骂。",
   "tokens": [
     {
       "surface": "ואבכה",
-      "english": "我哭泣"
+      "gloss": "我哭泣"
     },
     {
       "surface": "בצום",
-      "english": "在禁食中"
+      "gloss": "在禁食中"
     },
     {
       "surface": "נפשי",
-      "english": "我的נֶפֶשׁ"
+      "gloss": "我的נֶפֶשׁ"
     },
     {
       "surface": "ותהי",
-      "english": "它成了"
+      "gloss": "它成了"
     },
     {
       "surface": "לחרפות",
-      "english": "辱骂"
+      "gloss": "辱骂"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:41.969824708Z",
-  "model": "glm-5.2"
+  ]
 }

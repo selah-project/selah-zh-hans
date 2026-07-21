@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 11:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 201,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22854,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23055
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:16.137090655Z",
   "translation": "西鹿活了三十岁,生了⟨את⟩拿鹤。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "שרוג",
-      "english": "西鹿"
+      "gloss": "西鹿"
     },
     {
       "surface": "שלשים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "ויולד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿鹤"
     },
     {
       "surface": "נחור",
-      "english": "拿鹤"
+      "gloss": "拿鹤"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:16.137090655Z",
-  "model": "glm-5.2"
+  ]
 }

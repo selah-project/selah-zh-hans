@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "joel 2:8",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 657,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18317,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18974
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:53.057176391Z",
   "translation": "各人不挤 ⟨他的⟩ 弟兄;各人 ⟨男人⟩ 在 ⟨他的⟩ 路径上行走;他们穿过 ⟨ה⟩ 武器 ⟨时⟩ 倒下,不被截断。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "אחיו",
-      "english": "他的弟兄"
+      "gloss": "他的弟兄"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידחקון",
-      "english": "挤 (他们)"
+      "gloss": "挤 (他们)"
     },
     {
       "surface": "גבר",
-      "english": "男人"
+      "gloss": "男人"
     },
     {
       "surface": "במסלתו",
-      "english": "在他的路径上"
+      "gloss": "在他的路径上"
     },
     {
       "surface": "ילכון",
-      "english": "行走 (他们)"
+      "gloss": "行走 (他们)"
     },
     {
       "surface": "ובעד",
-      "english": "穿过"
+      "gloss": "穿过"
     },
     {
       "surface": "השלח",
-      "english": "武器"
+      "gloss": "武器"
     },
     {
       "surface": "יפלו",
-      "english": "倒下"
+      "gloss": "倒下"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יבצעו",
-      "english": "被截断"
+      "gloss": "被截断"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:53.057176391Z",
-  "model": "glm-5.2"
+  ]
 }

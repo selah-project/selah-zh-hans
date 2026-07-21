@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 35:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23169,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23499
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:17.159280242Z",
   "translation": "雅各布在她坟墓上立了一根柱子;它⟨是⟩拉结坟墓的柱子,直到今日。",
   "tokens": [
     {
       "surface": "ויצב",
-      "english": "立了"
+      "gloss": "立了"
     },
     {
       "surface": "יעקב",
-      "english": "雅各布"
+      "gloss": "雅各布"
     },
     {
       "surface": "מצבה",
-      "english": "一根柱子"
+      "gloss": "一根柱子"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "קברתה",
-      "english": "她坟墓"
+      "gloss": "她坟墓"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "מצבת",
-      "english": "……的柱子"
+      "gloss": "……的柱子"
     },
     {
       "surface": "קברת",
-      "english": "……的坟墓"
+      "gloss": "……的坟墓"
     },
     {
       "surface": "רחל",
-      "english": "拉结"
+      "gloss": "拉结"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "היום",
-      "english": "今日"
+      "gloss": "今日"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:17.159280242Z",
-  "model": "glm-5.2"
+  ]
 }

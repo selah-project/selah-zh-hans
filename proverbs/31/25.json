@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 31:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54294,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54626
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:39.480097305Z",
   "translation": "力量与威荣是她的衣服,她向最后一日欢笑。",
   "tokens": [
     {
       "surface": "עז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "והדר",
-      "english": "与威荣"
+      "gloss": "与威荣"
     },
     {
       "surface": "לבושה",
-      "english": "⟨是⟩她的衣服"
+      "gloss": "⟨是⟩她的衣服"
     },
     {
       "surface": "ותשחק",
-      "english": "她向……欢笑"
+      "gloss": "她向……欢笑"
     },
     {
       "surface": "ליום",
-      "english": "向……那日"
+      "gloss": "向……那日"
     },
     {
       "surface": "אחרון",
-      "english": "最后"
+      "gloss": "最后"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:39.480097305Z",
-  "model": "glm-5.2"
+  ]
 }

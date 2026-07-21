@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "exodus 9:16",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19036,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19529
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:14:57.998306112Z",
   "translation": "然而,正是为⟨这⟩缘故,我让你站立,为要向你展示⟨את⟩我的力量,并为要在全地传讲我的名。",
   "tokens": [
     {
       "surface": "ואולם",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "בעבור",
-      "english": "为……缘故"
+      "gloss": "为……缘故"
     },
     {
       "surface": "זאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "העמדתיך",
-      "english": "我让你站立"
+      "gloss": "我让你站立"
     },
     {
       "surface": "בעבור",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "הראתך",
-      "english": "向你展示"
+      "gloss": "向你展示"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的力量 (כחי)"
     },
     {
       "surface": "כחי",
-      "english": "我的力量"
+      "gloss": "我的力量"
     },
     {
       "surface": "ולמען",
-      "english": "并为要"
+      "gloss": "并为要"
     },
     {
       "surface": "ספר",
-      "english": "传讲"
+      "gloss": "传讲"
     },
     {
       "surface": "שמי",
-      "english": "我的名"
+      "gloss": "我的名"
     },
     {
       "surface": "בכל",
-      "english": "在全"
+      "gloss": "在全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T18:14:57.998306112Z",
-  "model": "glm-5.2"
+  ]
 }

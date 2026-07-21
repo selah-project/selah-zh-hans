@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 107:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64346,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64671
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:28.951903945Z",
   "translation": "愿他们向雅威称谢他的慈爱,向人子们⟨述说⟩他的奇妙作为!",
   "tokens": [
     {
       "surface": "יודו",
-      "english": "愿他们称谢"
+      "gloss": "愿他们称谢"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "חסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "和他的奇妙作为"
+      "gloss": "和他的奇妙作为"
     },
     {
       "surface": "לבני",
-      "english": "向人子们"
+      "gloss": "向人子们"
     },
     {
       "surface": "אדם",
-      "english": "〈人〉"
+      "gloss": "〈人〉"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:28.951903945Z",
-  "model": "glm-5.2"
+  ]
 }

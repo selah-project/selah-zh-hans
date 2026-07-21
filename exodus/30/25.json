@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "exodus 30:25",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19105,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19670
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:57.249459099Z",
   "translation": "你要用⟨את⟩它制成圣膏油,香料调制之作,调制者之工;它将是圣膏油。",
   "tokens": [
     {
       "surface": "וְ\/עָשִׂ֣יתָ",
-      "english": "你要用……制成"
+      "gloss": "你要用……制成"
     },
     {
       "surface": "אֹת֗\/וֹ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它"
     },
     {
       "surface": "שֶׁ֚מֶן",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "מִשְׁחַת",
-      "english": "膏油"
+      "gloss": "膏油"
     },
     {
       "surface": "קֹ֔דֶשׁ",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "רֹ֥קַח",
-      "english": "香料调制"
+      "gloss": "香料调制"
     },
     {
       "surface": "מִרְקַ֖חַת",
-      "english": "之作"
+      "gloss": "之作"
     },
     {
       "surface": "מַעֲשֵׂ֣ה",
-      "english": "……之工"
+      "gloss": "……之工"
     },
     {
       "surface": "רֹקֵ֑חַ",
-      "english": "调制者"
+      "gloss": "调制者"
     },
     {
       "surface": "שֶׁ֥מֶן",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "מִשְׁחַת",
-      "english": "膏油"
+      "gloss": "膏油"
     },
     {
       "surface": "קֹ֖דֶשׁ",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "יִהְיֶֽה",
-      "english": "它将是"
+      "gloss": "它将是"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:57.249459099Z",
-  "model": "glm-5.2"
+  ]
 }

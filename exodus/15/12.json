@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "exodus 15:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 267,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18128,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18395
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:04.436041953Z",
   "translation": "你伸出你的右手，地吞灭了他们。",
   "tokens": [
     {
       "surface": "נָטִ֨יתָ֙",
-      "english": "你伸出"
+      "gloss": "你伸出"
     },
     {
       "surface": "יְמִ֣ינְ\/ךָ֔",
-      "english": "你的右手"
+      "gloss": "你的右手"
     },
     {
       "surface": "תִּבְלָעֵ֖\/מוֹ",
-      "english": "地吞灭了他们"
+      "gloss": "地吞灭了他们"
     },
     {
       "surface": "אָֽרֶץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:04.436041953Z",
-  "model": "glm-5.2"
+  ]
 }

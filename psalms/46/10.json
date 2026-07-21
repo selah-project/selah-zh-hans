@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 46:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 437,
-    "prompt_tokens": 64994,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65431
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:41.566799638Z",
   "translation": "他使战事停止直到地极；他折断弓，又砍断长枪，用火焚烧战车。",
   "tokens": [
     {
       "surface": "משבית",
-      "english": "他使……停止"
+      "gloss": "他使……停止"
     },
     {
       "surface": "מלחמות",
-      "english": "战事"
+      "gloss": "战事"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "קצה",
-      "english": "极"
+      "gloss": "极"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "קשת",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "ישבר",
-      "english": "他折断"
+      "gloss": "他折断"
     },
     {
       "surface": "וקצץ",
-      "english": "又砍断"
+      "gloss": "又砍断"
     },
     {
       "surface": "חנית",
-      "english": "长枪"
+      "gloss": "长枪"
     },
     {
       "surface": "עגלות",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "ישרף",
-      "english": "他用火焚烧"
+      "gloss": "他用火焚烧"
     },
     {
       "surface": "באש",
-      "english": "火"
+      "gloss": "火"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:41.566799638Z",
-  "model": "glm-4.5"
+  ]
 }

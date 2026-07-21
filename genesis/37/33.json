@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "genesis 37:33",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23213,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23619
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:00.019879751Z",
   "translation": "他认出了它,就说:\"我儿子的长袍!一只恶兽把他吃了。约瑟被撕碎了!被撕碎了!\"",
   "tokens": [
     {
       "surface": "ויכירה",
-      "english": "他认出了它"
+      "gloss": "他认出了它"
     },
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "כתנת",
-      "english": "长袍"
+      "gloss": "长袍"
     },
     {
       "surface": "בני",
-      "english": "我儿子的"
+      "gloss": "我儿子的"
     },
     {
       "surface": "חיה",
-      "english": "一只活物 (野兽)"
+      "gloss": "一只活物 (野兽)"
     },
     {
       "surface": "רעה",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "אכלתהו",
-      "english": "把他吃了"
+      "gloss": "把他吃了"
     },
     {
       "surface": "טרף",
-      "english": "被撕碎了"
+      "gloss": "被撕碎了"
     },
     {
       "surface": "טרף",
-      "english": "被撕碎了!"
+      "gloss": "被撕碎了!"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:00.019879751Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 35:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64668,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65134
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:56.019794389Z",
   "translation": "拔出枪,封闭⟨道路⟩阻挡追赶我的人;对⟨我的⟩נפש说:你的拯救⟨,⟩我⟨是⟩。",
   "tokens": [
     {
       "surface": "והרק",
-      "english": "拔出"
+      "gloss": "拔出"
     },
     {
       "surface": "חנית",
-      "english": "枪"
+      "gloss": "枪"
     },
     {
       "surface": "וסגר",
-      "english": "封闭"
+      "gloss": "封闭"
     },
     {
       "surface": "לקראת",
-      "english": "阻挡"
+      "gloss": "阻挡"
     },
     {
       "surface": "רדפי",
-      "english": "追赶我的人"
+      "gloss": "追赶我的人"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לנפשי",
-      "english": "对⟨我的⟩נפש"
+      "gloss": "对⟨我的⟩נפש"
     },
     {
       "surface": "ישעתך",
-      "english": "你的拯救"
+      "gloss": "你的拯救"
     },
     {
       "surface": "אני",
-      "english": "我⟨是⟩"
+      "gloss": "我⟨是⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:56.019794389Z",
-  "model": "glm-5.2"
+  ]
 }

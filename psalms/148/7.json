@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 148:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64598,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64957
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:57.850018958Z",
   "translation": "你们要从地赞美雅威——海怪和一切的深渊：",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "תנינים",
-      "english": "海怪"
+      "gloss": "海怪"
     },
     {
       "surface": "וכל",
-      "english": "和一切的"
+      "gloss": "和一切的"
     },
     {
       "surface": "תהמות",
-      "english": "深渊"
+      "gloss": "深渊"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:57.850018958Z",
-  "model": "glm-5.2"
+  ]
 }

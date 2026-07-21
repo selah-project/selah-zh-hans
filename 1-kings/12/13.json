@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "1-kings 12:13",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64332,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64832
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:07:47.277595133Z",
   "translation": "王严厉地回答了⟨את⟩这百姓，并离弃了⟨את⟩那些曾给过他建议的长老们的计谋，",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "王回答了"
+      "gloss": "王回答了"
     },
     {
       "surface": "המלך",
-      "english": "⟨王⟩"
+      "gloss": "⟨王⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这百姓"
     },
     {
       "surface": "העם",
-      "english": "这百姓"
+      "gloss": "这百姓"
     },
     {
       "surface": "קשה",
-      "english": "严厉地"
+      "gloss": "严厉地"
     },
     {
       "surface": "ויעזב",
-      "english": "并离弃了"
+      "gloss": "并离弃了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "长老们的计谋"
     },
     {
       "surface": "עצת",
-      "english": "计谋"
+      "gloss": "计谋"
     },
     {
       "surface": "הזקנים",
-      "english": "长老们的"
+      "gloss": "长老们的"
     },
     {
       "surface": "אשר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "יעצהו",
-      "english": "曾给过他建议"
+      "gloss": "曾给过他建议"
     }
-  ],
-  "timestamp": "2026-07-17T21:07:47.277595133Z",
-  "model": "glm-5.2"
+  ]
 }

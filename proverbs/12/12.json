@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 12:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54391,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54797
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:24.585408877Z",
   "translation": "恶人贪图恶人的网罗,但义人的根⟨赐予⟩。",
   "tokens": [
     {
       "surface": "חמד",
-      "english": "贪图"
+      "gloss": "贪图"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "מצוד",
-      "english": "网罗"
+      "gloss": "网罗"
     },
     {
       "surface": "רעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "ושרש",
-      "english": "但……的根"
+      "gloss": "但……的根"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "יתן",
-      "english": "⟨赐予⟩"
+      "gloss": "⟨赐予⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:24.585408877Z",
-  "model": "glm-5.2"
+  ]
 }

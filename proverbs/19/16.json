@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 19:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54450,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54859
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:23.107359173Z",
   "translation": "遵守⟨את⟩诫命的,保守自己的נפש；藐视自己道路的,必被治死。",
   "tokens": [
     {
       "surface": "שמר",
-      "english": "遵守"
+      "gloss": "遵守"
     },
     {
       "surface": "מצוה",
-      "english": "诫命"
+      "gloss": "诫命"
     },
     {
       "surface": "שמר",
-      "english": "保守"
+      "gloss": "保守"
     },
     {
       "surface": "נפשו",
-      "english": "自己的נפש"
+      "gloss": "自己的נפש"
     },
     {
       "surface": "בוזה",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "דרכיו",
-      "english": "自己道路的"
+      "gloss": "自己道路的"
     },
     {
       "surface": "יומת",
-      "english": "必被治死"
+      "gloss": "必被治死"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:23.107359173Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "genesis 41:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 23101,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23498
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:34.889143483Z",
   "translation": "我们在一夜之间各做了一个梦，我和他；各人照着其梦的解法做了梦。",
   "tokens": [
     {
       "surface": "ונחלמה",
-      "english": "我们做了梦"
+      "gloss": "我们做了梦"
     },
     {
       "surface": "חלום",
-      "english": "梦"
+      "gloss": "梦"
     },
     {
       "surface": "בלילה",
-      "english": "在夜里"
+      "gloss": "在夜里"
     },
     {
       "surface": "אחד",
-      "english": "一"
+      "gloss": "一"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "והוא",
-      "english": "和他"
+      "gloss": "和他"
     },
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "כפתרון",
-      "english": "解法"
+      "gloss": "解法"
     },
     {
       "surface": "חלמו",
-      "english": "其梦的"
+      "gloss": "其梦的"
     },
     {
       "surface": "חלמנו",
-      "english": "做了梦"
+      "gloss": "做了梦"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:34.889143483Z",
-  "model": "glm-4.5"
+  ]
 }

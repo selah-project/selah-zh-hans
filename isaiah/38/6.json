@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "isaiah 38:6",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 543,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20961,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21504
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:23.317755339Z",
   "translation": "我必将你从亚述王的手中抢救出来，⟨也必救⟩ ⟨את⟩ 这座城；我必遮盖这座城。",
   "tokens": [
     {
       "surface": "ומכף",
-      "english": "从……的手中"
+      "gloss": "从……的手中"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "אצילך",
-      "english": "我必将你抢救出来"
+      "gloss": "我必将你抢救出来"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这座城"
     },
     {
       "surface": "העיר",
-      "english": "这座城"
+      "gloss": "这座城"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "וגנותי",
-      "english": "我必遮盖"
+      "gloss": "我必遮盖"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "העיר",
-      "english": "这座城"
+      "gloss": "这座城"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:23.317755339Z",
-  "model": "glm-5.2"
+  ]
 }

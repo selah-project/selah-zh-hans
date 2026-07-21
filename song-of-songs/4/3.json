@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "song-of-songs 4:3",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22336,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22804
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:38.024350343Z",
   "translation": "你的双唇如朱红线，你的话语秀美；你的太阳穴如石榴的切片，在你的面纱后面。如同",
   "tokens": [
     {
       "surface": "כחוט",
-      "english": "如线"
+      "gloss": "如线"
     },
     {
       "surface": "השני",
-      "english": "朱红"
+      "gloss": "朱红"
     },
     {
       "surface": "שפתתיך",
-      "english": "你的双唇"
+      "gloss": "你的双唇"
     },
     {
       "surface": "ומדבריך",
-      "english": "你的话语"
+      "gloss": "你的话语"
     },
     {
       "surface": "נאוה",
-      "english": "秀美"
+      "gloss": "秀美"
     },
     {
       "surface": "כפלח",
-      "english": "如切片"
+      "gloss": "如切片"
     },
     {
       "surface": "הרמון",
-      "english": "石榴"
+      "gloss": "石榴"
     },
     {
       "surface": "רקתך",
-      "english": "你的太阳穴"
+      "gloss": "你的太阳穴"
     },
     {
       "surface": "מבעד",
-      "english": "在……后面"
+      "gloss": "在……后面"
     },
     {
       "surface": "לצמתך",
-      "english": "你的面纱"
+      "gloss": "你的面纱"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:38.024350343Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "esther 4:9",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 247,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19246,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19493
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:25:18.997468779Z",
   "translation": "哈塔克就来，把末底改的⟨את⟩话语告诉以斯帖。",
   "tokens": [
     {
       "surface": "ויבוא",
-      "english": "就来"
+      "gloss": "就来"
     },
     {
       "surface": "התך",
-      "english": "哈塔克"
+      "gloss": "哈塔克"
     },
     {
       "surface": "ויגד",
-      "english": "告诉"
+      "gloss": "告诉"
     },
     {
       "surface": "לאסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "末底改的⟨את⟩话语"
     },
     {
       "surface": "דברי",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "מרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     }
-  ],
-  "timestamp": "2026-07-18T01:25:18.997468779Z",
-  "model": "glm-5.2"
+  ]
 }

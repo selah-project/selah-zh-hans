@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-samuel 18:3",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 493,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18056,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18549
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:50:46.794280923Z",
   "translation": "约拿单与大卫立了布瑞特（约），因为他爱他 ⟨את⟩ 如自己的 נפש（生命）。",
   "tokens": [
     {
       "surface": "וַ\/יִּכְרֹ֧ת",
-      "english": "于是……立了"
+      "gloss": "于是……立了"
     },
     {
       "surface": "יְהוֹנָתָ֛ן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "וְ\/דָוִ֖ד",
-      "english": "与大卫"
+      "gloss": "与大卫"
     },
     {
       "surface": "בְּרִ֑ית",
-      "english": "布瑞特（约）"
+      "gloss": "布瑞特（约）"
     },
     {
       "surface": "בְּ\/אַהֲבָת֥\/וֹ",
-      "english": "因他对他的爱"
+      "gloss": "因他对他的爱"
     },
     {
       "surface": "אֹת֖\/וֹ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "如自己的 נפש（生命）"
     },
     {
       "surface": "כְּ\/נַפְשֽׁ\/וֹ",
-      "english": "如自己的 נפש（生命）"
+      "gloss": "如自己的 נפש（生命）"
     }
-  ],
-  "timestamp": "2026-07-18T02:50:46.794280923Z",
-  "model": "glm-5.2"
+  ]
 }

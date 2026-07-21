@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 41:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21650,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22261
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:43.953387498Z",
   "translation": "不⟨是⟩凶猛的，即使他被激醒；那他是谁，竟⟨能⟩在我面前站立得住？",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אכזר",
-      "english": "凶猛的"
+      "gloss": "凶猛的"
     },
     {
       "surface": "כי",
-      "english": "即使"
+      "gloss": "即使"
     },
     {
       "surface": "יעורנו",
-      "english": "他被激醒"
+      "gloss": "他被激醒"
     },
     {
       "surface": "ומי",
-      "english": "那他是谁"
+      "gloss": "那他是谁"
     },
     {
       "surface": "הוא",
-      "english": "（强调）"
+      "gloss": "（强调）"
     },
     {
       "surface": "לפני",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "יתיצב",
-      "english": "站立得住"
+      "gloss": "站立得住"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:43.953387498Z",
-  "model": "glm-5.2"
+  ]
 }

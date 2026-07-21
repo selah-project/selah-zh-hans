@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 137:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 137,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64462,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64808
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:35.333184467Z",
   "translation": "有福了 ⟨是⟩ 那抓住⟨你⟩ 的婴孩、将⟨את⟩⟨你⟩ 的婴孩摔在岩石上的人。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福了"
+      "gloss": "有福了"
     },
     {
       "surface": "שיאחז",
-      "english": "那抓住"
+      "gloss": "那抓住"
     },
     {
       "surface": "ונפץ",
-      "english": "和摔碎"
+      "gloss": "和摔碎"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的婴孩"
     },
     {
       "surface": "עלליך",
-      "english": "你的婴孩"
+      "gloss": "你的婴孩"
     },
     {
       "surface": "אל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הסלע",
-      "english": "那岩石"
+      "gloss": "那岩石"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:35.333184467Z",
-  "model": "glm-5.2"
+  ]
 }

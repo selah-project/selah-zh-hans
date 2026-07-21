@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "leviticus 18:25",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19293,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19832
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:52:53.763251641Z",
   "translation": "于是那地变得不洁，我便追查它的罪孽 ⟨עליה⟩，那地就吐出了 ⟨את⟩ 它的居民。",
   "tokens": [
     {
       "surface": "וַ\/תִּטְמָ֣א",
-      "english": "于是⟨她⟩变得不洁"
+      "gloss": "于是⟨她⟩变得不洁"
     },
     {
       "surface": "הָ\/אָ֔רֶץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "וָ\/אֶפְקֹ֥ד",
-      "english": "我便追查"
+      "gloss": "我便追查"
     },
     {
       "surface": "עֲוֺנָ֖\/הּ",
-      "english": "它的罪孽"
+      "gloss": "它的罪孽"
     },
     {
       "surface": "עָלֶ֑י\/הָ",
-      "english": "⟨在其上⟩"
+      "gloss": "⟨在其上⟩"
     },
     {
       "surface": "וַ\/תָּקִ֥א",
-      "english": "于是⟨她⟩吐出了"
+      "gloss": "于是⟨她⟩吐出了"
     },
     {
       "surface": "הָ\/אָ֖רֶץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的居民"
     },
     {
       "surface": "יֹשְׁבֶֽי\/הָ",
-      "english": "它的居民"
+      "gloss": "它的居民"
     }
-  ],
-  "timestamp": "2026-07-17T18:52:53.763251641Z",
-  "model": "glm-5.2"
+  ]
 }

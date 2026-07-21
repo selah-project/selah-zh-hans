@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 23:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54211,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54482
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:38.135971255Z",
   "translation": "不要为致富而耗尽精力;出于你的理解力,要克制。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תיגע",
-      "english": "耗尽精力"
+      "gloss": "耗尽精力"
     },
     {
       "surface": "להעשיר",
-      "english": "为致富"
+      "gloss": "为致富"
     },
     {
       "surface": "מבינתך",
-      "english": "出于你的理解力"
+      "gloss": "出于你的理解力"
     },
     {
       "surface": "חדל",
-      "english": "要克制"
+      "gloss": "要克制"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:38.135971255Z",
-  "model": "glm-5.2"
+  ]
 }

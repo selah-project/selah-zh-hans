@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 71:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64473,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64774
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:31.365099699Z",
   "translation": "因为你 ⟨是⟩ 我的盼望，阿多奈 雅威，我自幼年以来的依靠。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "תקותי",
-      "english": "我的盼望"
+      "gloss": "我的盼望"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מבטחי",
-      "english": "我的依靠"
+      "gloss": "我的依靠"
     },
     {
       "surface": "מנעורי",
-      "english": "自幼年以来"
+      "gloss": "自幼年以来"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:31.365099699Z",
-  "model": "glm-5.2"
+  ]
 }

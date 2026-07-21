@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 9:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21713,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22175
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:12.111119806Z",
   "translation": "我若呼求，他回答我，我也不信他会侧耳听我的声音。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "我若"
+      "gloss": "我若"
     },
     {
       "surface": "קראתי",
-      "english": "呼求"
+      "gloss": "呼求"
     },
     {
       "surface": "ויענני",
-      "english": "他回答我"
+      "gloss": "他回答我"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אאמין",
-      "english": "我会信"
+      "gloss": "我会信"
     },
     {
       "surface": "כי",
-      "english": "⟨会⟩"
+      "gloss": "⟨会⟩"
     },
     {
       "surface": "יַאֲזִין",
-      "english": "他侧耳听"
+      "gloss": "他侧耳听"
     },
     {
       "surface": "קולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:12.111119806Z",
-  "model": "glm-5.2"
+  ]
 }

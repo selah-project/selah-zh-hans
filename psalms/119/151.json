@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 151,
   "ref": "psalms 119:151",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 246,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64290,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64536
-  },
+  "verse": 151,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:29.700787900Z",
   "translation": "קרוב ⟨אתה⟩ 雅威,而你所有的训诫 ⟨是⟩ אמת。",
   "tokens": [
     {
       "surface": "קרוב",
-      "english": "近"
+      "gloss": "近"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וכל",
-      "english": "而所有的"
+      "gloss": "而所有的"
     },
     {
       "surface": "מצותיך",
-      "english": "你的训诫"
+      "gloss": "你的训诫"
     },
     {
       "surface": "אמת",
-      "english": "אמת"
+      "gloss": "אמת"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:29.700787900Z",
-  "model": "glm-5.2"
+  ]
 }

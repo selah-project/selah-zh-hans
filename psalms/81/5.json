@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 81:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 81,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64496,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64797
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:09.699355158Z",
   "translation": "因为这是给以色列的定例，是给雅各的以罗欣的法规。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חק",
-      "english": "定例"
+      "gloss": "定例"
     },
     {
       "surface": "לישראל",
-      "english": "给以色列的"
+      "gloss": "给以色列的"
     },
     {
       "surface": "הוא",
-      "english": "这是"
+      "gloss": "这是"
     },
     {
       "surface": "משפט",
-      "english": "法规"
+      "gloss": "法规"
     },
     {
       "surface": "לאלהי",
-      "english": "给……的以罗欣的"
+      "gloss": "给……的以罗欣的"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:09.699355158Z",
-  "model": "glm-5.2"
+  ]
 }

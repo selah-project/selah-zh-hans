@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 45:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64397,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64799
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:45.795374690Z",
   "translation": "推罗的女儿 ⟨将⟩ 带着献礼 ⟨来⟩；民中的富贵人 ⟨将⟩ 寻求你的恩面。",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "推罗的女儿"
+      "gloss": "推罗的女儿"
     },
     {
       "surface": "צר",
-      "english": "⟨推罗⟩"
+      "gloss": "⟨推罗⟩"
     },
     {
       "surface": "במנחה",
-      "english": "带着献礼"
+      "gloss": "带着献礼"
     },
     {
       "surface": "פניך",
-      "english": "你的恩面"
+      "gloss": "你的恩面"
     },
     {
       "surface": "יחלו",
-      "english": "⟨将⟩ 寻求"
+      "gloss": "⟨将⟩ 寻求"
     },
     {
       "surface": "עשירי",
-      "english": "富贵人"
+      "gloss": "富贵人"
     },
     {
       "surface": "עם",
-      "english": "民中的"
+      "gloss": "民中的"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:45.795374690Z",
-  "model": "glm-5.2"
+  ]
 }

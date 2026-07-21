@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 109:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64475,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64865
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:33.117123976Z",
   "translation": "愿它对他像他所披戴的衣服，并像腰带，他总是束着它。",
   "tokens": [
     {
       "surface": "תְּהִי",
-      "english": "愿⟨它⟩"
+      "gloss": "愿⟨它⟩"
     },
     {
       "surface": "ל֭\/וֹ",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "כְּ\/בֶ֣גֶד",
-      "english": "像衣服"
+      "gloss": "像衣服"
     },
     {
       "surface": "יַעְטֶ֑ה",
-      "english": "他所披戴的"
+      "gloss": "他所披戴的"
     },
     {
       "surface": "וּ֝\/לְ\/מֵ֗זַח",
-      "english": "并像腰带"
+      "gloss": "并像腰带"
     },
     {
       "surface": "תָּמִ֥יד",
-      "english": "总是"
+      "gloss": "总是"
     },
     {
       "surface": "יַחְגְּרֶֽ\/הָ",
-      "english": "他束着它"
+      "gloss": "他束着它"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:33.117123976Z",
-  "model": "glm-5.2"
+  ]
 }

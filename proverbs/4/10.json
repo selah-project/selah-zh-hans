@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 4:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54433,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54829
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:12.583069850Z",
   "translation": "我儿啊，要听，要领受我的话语，你存活之年的数目就必增多。",
   "tokens": [
     {
       "surface": "שמע",
-      "english": "要听"
+      "gloss": "要听"
     },
     {
       "surface": "בני",
-      "english": "我儿啊"
+      "gloss": "我儿啊"
     },
     {
       "surface": "וקח",
-      "english": "要领受"
+      "gloss": "要领受"
     },
     {
       "surface": "אמרי",
-      "english": "我的话语"
+      "gloss": "我的话语"
     },
     {
       "surface": "וירבו",
-      "english": "就必增多"
+      "gloss": "就必增多"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "שנות",
-      "english": "……之年"
+      "gloss": "……之年"
     },
     {
       "surface": "חיים",
-      "english": "存活"
+      "gloss": "存活"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:12.583069850Z",
-  "model": "glm-5.2"
+  ]
 }

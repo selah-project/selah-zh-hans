@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 124,
   "ref": "psalms 119:124",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64297,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64685
-  },
+  "verse": 124,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:46.674933422Z",
   "translation": "求你⟨与⟩你的仆人行事,⟨按照⟩你的慈爱,并将你的律例指教我。",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "求你……行事"
+      "gloss": "求你……行事"
     },
     {
       "surface": "עם",
-      "english": "⟨与⟩"
+      "gloss": "⟨与⟩"
     },
     {
       "surface": "עבדך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "כחסדך",
-      "english": "⟨按照⟩你的慈爱"
+      "gloss": "⟨按照⟩你的慈爱"
     },
     {
       "surface": "וחקיך",
-      "english": "并将你的律例"
+      "gloss": "并将你的律例"
     },
     {
       "surface": "למדני",
-      "english": "指教我"
+      "gloss": "指教我"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:46.674933422Z",
-  "model": "glm-5.2"
+  ]
 }

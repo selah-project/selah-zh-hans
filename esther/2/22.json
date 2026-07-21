@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "esther 2:22",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 476,
-    "prompt_tokens": 19658,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20134
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:01.447245594Z",
   "translation": "这事被末底改知道了,他告诉⟨了⟩王后以斯帖,以斯帖奉末底改的名将这事禀报⟨给⟩王。",
   "tokens": [
     {
       "surface": "ויודע",
-      "english": "这事被末底改知道了"
+      "gloss": "这事被末底改知道了"
     },
     {
       "surface": "הדבר",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "למרדכי",
-      "english": "被末底改"
+      "gloss": "被末底改"
     },
     {
       "surface": "ויגד",
-      "english": "他告诉⟨了⟩"
+      "gloss": "他告诉⟨了⟩"
     },
     {
       "surface": "לאסתר",
-      "english": "王后以斯帖"
+      "gloss": "王后以斯帖"
     },
     {
       "surface": "המלכה",
-      "english": "王后"
+      "gloss": "王后"
     },
     {
       "surface": "ותאמר",
-      "english": "以斯帖...禀报"
+      "gloss": "以斯帖...禀报"
     },
     {
       "surface": "אסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     },
     {
       "surface": "למלך",
-      "english": "⟨给⟩王"
+      "gloss": "⟨给⟩王"
     },
     {
       "surface": "בשם",
-      "english": "奉...的名"
+      "gloss": "奉...的名"
     },
     {
       "surface": "מרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:01.447245594Z",
-  "model": "glm-4.5"
+  ]
 }

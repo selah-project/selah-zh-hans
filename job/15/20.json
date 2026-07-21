@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 15:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21816,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22251
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:24.911395393Z",
   "translation": "恶人 ⟨的⟩ 一切日子,他都在痛苦中翻搅;若干年数 ⟨被⟩ 隐藏,给那残暴者。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ימי",
-      "english": "⟨的⟩ 日子"
+      "gloss": "⟨的⟩ 日子"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "הוא",
-      "english": "他 ⟨都⟩"
+      "gloss": "他 ⟨都⟩"
     },
     {
       "surface": "מתחולל",
-      "english": "在痛苦中翻搅"
+      "gloss": "在痛苦中翻搅"
     },
     {
       "surface": "ומספר",
-      "english": "而若干……数"
+      "gloss": "而若干……数"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "נצפנו",
-      "english": "⟨被⟩ 隐藏"
+      "gloss": "⟨被⟩ 隐藏"
     },
     {
       "surface": "לעריץ",
-      "english": "给那残暴者"
+      "gloss": "给那残暴者"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:24.911395393Z",
-  "model": "glm-5.2"
+  ]
 }

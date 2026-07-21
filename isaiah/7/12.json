@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 7:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20654,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21129
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:37:32.046750526Z",
   "translation": "亚哈斯说:我不求,也不试探⟨את⟩雅威。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אחז",
-      "english": "亚哈斯"
+      "gloss": "亚哈斯"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אשאל",
-      "english": "求"
+      "gloss": "求"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "אנסה",
-      "english": "试探"
+      "gloss": "试探"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T21:37:32.046750526Z",
-  "model": "glm-5.2"
+  ]
 }

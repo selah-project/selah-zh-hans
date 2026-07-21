@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "ezra 10:28",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46326,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46570
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:42:15.844854763Z",
   "translation": "又从比拜的儿子中:约哈南、哈南尼雅、扎拜、阿特莱。",
   "tokens": [
     {
       "surface": "ומבני",
-      "english": "又从……的儿子中"
+      "gloss": "又从……的儿子中"
     },
     {
       "surface": "בבי",
-      "english": "比拜"
+      "gloss": "比拜"
     },
     {
       "surface": "יהוחנן",
-      "english": "约哈南"
+      "gloss": "约哈南"
     },
     {
       "surface": "חנניה",
-      "english": "哈南尼雅"
+      "gloss": "哈南尼雅"
     },
     {
       "surface": "זבי",
-      "english": "扎拜"
+      "gloss": "扎拜"
     },
     {
       "surface": "עתלי",
-      "english": "阿特莱"
+      "gloss": "阿特莱"
     }
-  ],
-  "timestamp": "2026-07-18T01:42:15.844854763Z",
-  "model": "glm-5.2"
+  ]
 }

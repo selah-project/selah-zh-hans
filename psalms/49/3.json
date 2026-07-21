@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 49:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65058
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:06.888527381Z",
   "translation": "无论普通人（בְּנֵי אָדָם）还是尊贵人（בְּנֵי אִישׁ），富足的与贫穷的， ⟨都⟩ 一同 ⟨在此⟩。",
   "tokens": [
     {
       "surface": "גם",
-      "english": "无论……还是"
+      "gloss": "无论……还是"
     },
     {
       "surface": "בני",
-      "english": "……之子 \/ ……之辈"
+      "gloss": "……之子 \/ ……之辈"
     },
     {
       "surface": "אדם",
-      "english": "亚当（指普通人）"
+      "gloss": "亚当（指普通人）"
     },
     {
       "surface": "גם",
-      "english": "以及"
+      "gloss": "以及"
     },
     {
       "surface": "בני",
-      "english": "……之子 \/ ……之辈"
+      "gloss": "……之子 \/ ……之辈"
     },
     {
       "surface": "איש",
-      "english": "显赫之人（尊贵人）"
+      "gloss": "显赫之人（尊贵人）"
     },
     {
       "surface": "יחד",
-      "english": "一同"
+      "gloss": "一同"
     },
     {
       "surface": "עשיר",
-      "english": "富足的"
+      "gloss": "富足的"
     },
     {
       "surface": "ואביון",
-      "english": "与贫穷的"
+      "gloss": "与贫穷的"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:06.888527381Z",
-  "model": "glm-5.2"
+  ]
 }

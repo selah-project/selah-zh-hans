@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 14:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54345,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54679
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:24.671113579Z",
   "translation": "连他的同伴也恨慕贫乏人,而爱富人的人⟨是⟩多的。",
   "tokens": [
     {
       "surface": "גם",
-      "english": "连"
+      "gloss": "连"
     },
     {
       "surface": "לרעהו",
-      "english": "他的同伴"
+      "gloss": "他的同伴"
     },
     {
       "surface": "ישנא",
-      "english": "恨"
+      "gloss": "恨"
     },
     {
       "surface": "רש",
-      "english": "贫乏人"
+      "gloss": "贫乏人"
     },
     {
       "surface": "ואהבי",
-      "english": "而爱……的人"
+      "gloss": "而爱……的人"
     },
     {
       "surface": "עשיר",
-      "english": "富人"
+      "gloss": "富人"
     },
     {
       "surface": "רבים",
-      "english": "多的"
+      "gloss": "多的"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:24.671113579Z",
-  "model": "glm-5.2"
+  ]
 }

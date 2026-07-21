@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "ezra 2:32",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 153,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46105,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46258
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:19.904296153Z",
   "translation": "哈琳的子孙：三百二十人。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "חרם",
-      "english": "哈琳"
+      "gloss": "哈琳"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ועשרים",
-      "english": "和二十"
+      "gloss": "和二十"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:19.904296153Z",
-  "model": "glm-5.2"
+  ]
 }

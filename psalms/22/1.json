@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 22:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64382,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64692
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:10.728971307Z",
   "translation": "给诗班长,关于黎明之母鹿,大卫的 mizmór。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给诗班长"
+      "gloss": "给诗班长"
     },
     {
       "surface": "על",
-      "english": "关于"
+      "gloss": "关于"
     },
     {
       "surface": "אילת",
-      "english": "母鹿"
+      "gloss": "母鹿"
     },
     {
       "surface": "השחר",
-      "english": "黎明的"
+      "gloss": "黎明的"
     },
     {
       "surface": "מזמור",
-      "english": "mizmór"
+      "gloss": "mizmór"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:10.728971307Z",
-  "model": "glm-5.2"
+  ]
 }

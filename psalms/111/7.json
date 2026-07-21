@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 111:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 111,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64521,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:58.160194002Z",
   "translation": "他手所做的 ⟨是⟩ 真理与公义；他一切的训词都 ⟨是⟩ 可信靠的。",
   "tokens": [
     {
       "surface": "מעשי",
-      "english": "所做的"
+      "gloss": "所做的"
     },
     {
       "surface": "ידיו",
-      "english": "他手的"
+      "gloss": "他手的"
     },
     {
       "surface": "אמת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "ומשפט",
-      "english": "与公义"
+      "gloss": "与公义"
     },
     {
       "surface": "נאמנים",
-      "english": "可信靠的"
+      "gloss": "可信靠的"
     },
     {
       "surface": "כל",
-      "english": "他一切的"
+      "gloss": "他一切的"
     },
     {
       "surface": "פקודיו",
-      "english": "训词"
+      "gloss": "训词"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:58.160194002Z",
-  "model": "glm-5.2"
+  ]
 }

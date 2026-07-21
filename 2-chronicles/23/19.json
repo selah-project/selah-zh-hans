@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "2-chronicles 23:19",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59954,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60352
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:27:21.939829428Z",
   "translation": "他设立守门者在雅威殿的各门口,使不洁净的人不能为任何*davar*进入。",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "他设立"
+      "gloss": "他设立"
     },
     {
       "surface": "השוערים",
-      "english": "守门者"
+      "gloss": "守门者"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "שערי",
-      "english": "……的各门口"
+      "gloss": "……的各门口"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יבא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "טמא",
-      "english": "不洁净的人"
+      "gloss": "不洁净的人"
     },
     {
       "surface": "לכל",
-      "english": "为任何"
+      "gloss": "为任何"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     }
-  ],
-  "timestamp": "2026-07-18T02:27:21.939829428Z",
-  "model": "glm-5.2"
+  ]
 }

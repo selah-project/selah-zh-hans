@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 52:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64481,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64849
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:16.740656351Z",
   "translation": "灾祸,你的舌头图谋⟨它⟩;如同一把磨利的剃刀,制造欺诈。",
   "tokens": [
     {
       "surface": "הוות",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "תחשב",
-      "english": "图谋"
+      "gloss": "图谋"
     },
     {
       "surface": "לשונך",
-      "english": "你的舌头"
+      "gloss": "你的舌头"
     },
     {
       "surface": "כתער",
-      "english": "如同一把剃刀"
+      "gloss": "如同一把剃刀"
     },
     {
       "surface": "מלטש",
-      "english": "磨利的"
+      "gloss": "磨利的"
     },
     {
       "surface": "עשה",
-      "english": "制造"
+      "gloss": "制造"
     },
     {
       "surface": "רמיה",
-      "english": "欺诈"
+      "gloss": "欺诈"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:16.740656351Z",
-  "model": "glm-5.2"
+  ]
 }

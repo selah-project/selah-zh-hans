@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 39:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21603,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22044
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:46.953924481Z",
   "translation": "她忘记⟨那⟩脚可能会踩碎，⟨那⟩田野的野兽可能会践踏她。",
   "tokens": [
     {
       "surface": "וַ֭\/תִּשְׁכַּח",
-      "english": "她忘记"
+      "gloss": "她忘记"
     },
     {
       "surface": "כִּי",
-      "english": "⟨那⟩……可能会"
+      "gloss": "⟨那⟩……可能会"
     },
     {
       "surface": "רֶ֣גֶל",
-      "english": "脚"
+      "gloss": "脚"
     },
     {
       "surface": "תְּזוּרֶ֑\/הָ",
-      "english": "踩碎"
+      "gloss": "踩碎"
     },
     {
       "surface": "וְ\/חַיַּ֖ת",
-      "english": "和⟨那⟩野兽"
+      "gloss": "和⟨那⟩野兽"
     },
     {
       "surface": "הַ\/שָּׂדֶ֣ה",
-      "english": "田野的"
+      "gloss": "田野的"
     },
     {
       "surface": "תְּדוּשֶֽׁ\/הָ",
-      "english": "践踏她"
+      "gloss": "践踏她"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:46.953924481Z",
-  "model": "glm-5.2"
+  ]
 }

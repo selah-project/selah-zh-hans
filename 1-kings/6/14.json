@@ -1,45 +1,34 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "1-kings 6:14",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 244,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63677,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63921
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:43.840616756Z",
   "translation": "所罗门建造了 ⟨את⟩ ⟨הַ\/בַּיִת⟩ 殿宇，并将其完工。",
   "tokens": [
     {
       "surface": "וַ\/יִּ֧בֶן",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "שְׁלֹמֹ֛ה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "殿宇"
     },
     {
       "surface": "הַ\/בַּ֖יִת",
-      "english": "殿宇"
+      "gloss": "殿宇"
     },
     {
       "surface": "וַ\/יְכַלֵּֽ\/הוּ",
-      "english": "并将其完工"
+      "gloss": "并将其完工"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:43.840616756Z",
-  "model": "glm-5.2"
+  ]
 }

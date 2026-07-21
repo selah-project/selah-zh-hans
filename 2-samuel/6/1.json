@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-samuel 6:1",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18883,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19295
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:42:51.338888813Z",
   "translation": "大卫再次聚集了⟨את⟩全以色列的精选之人,三万人。",
   "tokens": [
     {
       "surface": "וַ\/יֹּ֨סֶף",
-      "english": "再次"
+      "gloss": "再次"
     },
     {
       "surface": "ע֥וֹד",
-      "english": "又"
+      "gloss": "又"
     },
     {
       "surface": "דָּוִ֛ד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全以色列的精选之人"
     },
     {
       "surface": "כָּל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "בָּח֥וּר",
-      "english": "精选之人"
+      "gloss": "精选之人"
     },
     {
       "surface": "בְּ\/יִשְׂרָאֵ֖ל",
-      "english": "在以色列"
+      "gloss": "在以色列"
     },
     {
       "surface": "שְׁלֹשִׁ֥ים",
-      "english": "三十"
+      "gloss": "三十"
     },
     {
       "surface": "אָֽלֶף",
-      "english": "千"
+      "gloss": "千"
     }
-  ],
-  "timestamp": "2026-07-17T20:42:51.338888813Z",
-  "model": "glm-5.2"
+  ]
 }

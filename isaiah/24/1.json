@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 24:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20805,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21205
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:05.784928796Z",
   "translation": "看哪，雅威使地空虚，使其荒凉；他扭曲它的面貌，驱散它的居民。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בוקק",
-      "english": "使……空虚"
+      "gloss": "使……空虚"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ובולקה",
-      "english": "并使其荒凉"
+      "gloss": "并使其荒凉"
     },
     {
       "surface": "ועוה",
-      "english": "他扭曲"
+      "gloss": "他扭曲"
     },
     {
       "surface": "פניה",
-      "english": "它的面貌"
+      "gloss": "它的面貌"
     },
     {
       "surface": "והפיץ",
-      "english": "并驱散"
+      "gloss": "并驱散"
     },
     {
       "surface": "ישביה",
-      "english": "它的居民"
+      "gloss": "它的居民"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:05.784928796Z",
-  "model": "glm-5.2"
+  ]
 }

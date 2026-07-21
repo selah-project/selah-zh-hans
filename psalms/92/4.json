@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 4,
   "ref": "psalms 92:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 440,
-    "prompt_tokens": 64437,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64877
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:13.736152833Z",
   "translation": "用十弦的乐器和拿弗尔琴，用默想的声音和基奴尔琴。",
   "tokens": [
     {
       "surface": "עלי",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "עשור",
-      "english": "十弦的乐器"
+      "gloss": "十弦的乐器"
     },
     {
       "surface": "ועלי",
-      "english": "和用"
+      "gloss": "和用"
     },
     {
       "surface": "נבל",
-      "english": "拿弗尔琴"
+      "gloss": "拿弗尔琴"
     },
     {
       "surface": "עלי",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "הגיון",
-      "english": "默想的声音"
+      "gloss": "默想的声音"
     },
     {
       "surface": "בכנור",
-      "english": "基奴尔琴"
+      "gloss": "基奴尔琴"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:13.736152833Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 24:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19179,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19632
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:56:51.804658856Z",
   "translation": "在洁净的灯台上,他要排列 ⟨את⟩ 灯 —— 在雅威面前,持续不断地。",
   "tokens": [
     {
       "surface": "עַ֚ל",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הַ\/מְּנֹרָ֣ה",
-      "english": "灯台"
+      "gloss": "灯台"
     },
     {
       "surface": "הַ\/טְּהֹרָ֔ה",
-      "english": "洁净的"
+      "gloss": "洁净的"
     },
     {
       "surface": "יַעֲרֹ֖ךְ",
-      "english": "他要排列"
+      "gloss": "他要排列"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "灯"
     },
     {
       "surface": "הַ\/נֵּר֑וֹת",
-      "english": "灯"
+      "gloss": "灯"
     },
     {
       "surface": "לִ\/פְנֵ֥י",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יְהוָ֖ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "תָּמִֽיד",
-      "english": "持续不断地"
+      "gloss": "持续不断地"
     }
-  ],
-  "timestamp": "2026-07-17T18:56:51.804658856Z",
-  "model": "glm-5.2"
+  ]
 }

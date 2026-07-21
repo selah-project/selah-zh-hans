@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "leviticus 27:13",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18982,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19421
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:24.767711878Z",
   "translation": "如果⟨他⟩一定要赎回它，就要在⟨你的⟩估价上加上它的五分之一。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "גאל",
-      "english": "一定要赎回"
+      "gloss": "一定要赎回"
     },
     {
       "surface": "יגאלנה",
-      "english": "⟨他⟩要赎回⟨它⟩"
+      "gloss": "⟨他⟩要赎回⟨它⟩"
     },
     {
       "surface": "ויסף",
-      "english": "就要加上"
+      "gloss": "就要加上"
     },
     {
       "surface": "חמישתו",
-      "english": "它的五分之一"
+      "gloss": "它的五分之一"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ערכך",
-      "english": "⟨你的⟩估价"
+      "gloss": "⟨你的⟩估价"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:24.767711878Z",
-  "model": "glm-5.2"
+  ]
 }

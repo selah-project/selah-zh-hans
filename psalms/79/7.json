@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 79:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64580,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64942
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:28.595026933Z",
   "translation": "因为他们吞噬了⟨את⟩雅各，⟨את⟩他的居所他们也荒废了。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אכל",
-      "english": "吞噬了"
+      "gloss": "吞噬了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅各"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩……也",
+      "gloss": "⟨את⟩……也",
       "marks": "他的居所"
     },
     {
       "surface": "נוהו",
-      "english": "他的居所"
+      "gloss": "他的居所"
     },
     {
       "surface": "השמו",
-      "english": "荒废了"
+      "gloss": "荒废了"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:28.595026933Z",
-  "model": "glm-5.2"
+  ]
 }

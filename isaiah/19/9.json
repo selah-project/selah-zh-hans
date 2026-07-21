@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 19:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20492,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20980
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:02.262145022Z",
   "translation": "制作亚麻细布的工人必抱愧，织造白细麻的也必惶恐。",
   "tokens": [
     {
       "surface": "וּבֹשׁוּ",
-      "english": "必抱愧"
+      "gloss": "必抱愧"
     },
     {
       "surface": "עֹבְדֵי",
-      "english": "……的工人"
+      "gloss": "……的工人"
     },
     {
       "surface": "פִשְׁתִּים",
-      "english": "亚麻"
+      "gloss": "亚麻"
     },
     {
       "surface": "שְׂרִיקָה",
-      "english": "细布"
+      "gloss": "细布"
     },
     {
       "surface": "וְאֹרְגִים",
-      "english": "织造的"
+      "gloss": "织造的"
     },
     {
       "surface": "חוֹרָי",
-      "english": "白细麻"
+      "gloss": "白细麻"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:02.262145022Z",
-  "model": "glm-5.2"
+  ]
 }

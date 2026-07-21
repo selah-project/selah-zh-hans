@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-samuel 12:2",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18562,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 18898
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:45:56.874992935Z",
   "translation": "那富户有极多的羊群和牛群,",
   "tokens": [
     {
       "surface": "לְ\/עָשִׁיר",
-      "english": "那富户"
+      "gloss": "那富户"
     },
     {
       "surface": "הָיָה",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "צֹאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "וּ\/בָקָר",
-      "english": "和牛群"
+      "gloss": "和牛群"
     },
     {
       "surface": "הַרְבֵּה",
-      "english": "极多"
+      "gloss": "极多"
     },
     {
       "surface": "מְאֹד",
-      "english": "极为"
+      "gloss": "极为"
     }
-  ],
-  "timestamp": "2026-07-17T20:45:56.874992935Z",
-  "model": "glm-5.2"
+  ]
 }

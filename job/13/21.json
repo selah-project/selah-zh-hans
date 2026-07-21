@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "job 13:21",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21491,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21931
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:36.768519555Z",
   "translation": "你的手掌 ⟨要⟩ 远离我；你的威吓不要使我惊恐。",
   "tokens": [
     {
       "surface": "כַּ֭פְּ\/ךָ",
-      "english": "你的手掌"
+      "gloss": "你的手掌"
     },
     {
       "surface": "מֵ\/עָלַ֣\/י",
-      "english": "远离我"
+      "gloss": "远离我"
     },
     {
       "surface": "הַרְחַ֑ק",
-      "english": "⟨要⟩ 远"
+      "gloss": "⟨要⟩ 远"
     },
     {
       "surface": "וְ֝\/אֵ֥מָתְ\/ךָ֗",
-      "english": "你的威吓"
+      "gloss": "你的威吓"
     },
     {
       "surface": "אַֽל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תְּבַעֲתַֽ\/נִּי",
-      "english": "使我惊恐"
+      "gloss": "使我惊恐"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:36.768519555Z",
-  "model": "glm-5.2"
+  ]
 }

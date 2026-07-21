@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "psalms 106:36",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 277,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64396,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64673
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:50.511154250Z",
   "translation": "他们事奉了 ⟨את⟩ 他们的偶像，它们就向他们成了网罗。",
   "tokens": [
     {
       "surface": "ויעבדו",
-      "english": "他们事奉了"
+      "gloss": "他们事奉了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的偶像"
     },
     {
       "surface": "עצביהם",
-      "english": "他们的偶像"
+      "gloss": "他们的偶像"
     },
     {
       "surface": "ויהיו",
-      "english": "它们就成"
+      "gloss": "它们就成"
     },
     {
       "surface": "להם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "למוקש",
-      "english": "网罗"
+      "gloss": "网罗"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:50.511154250Z",
-  "model": "glm-5.2"
+  ]
 }

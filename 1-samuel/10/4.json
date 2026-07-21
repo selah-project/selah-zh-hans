@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 10:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18114,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18565
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:26:09.726428057Z",
   "translation": "他们必向你问安,⟨并⟩给你两个饼;你要从他们手中接过⟨来⟩。",
   "tokens": [
     {
       "surface": "ושאלו",
-      "english": "他们必问"
+      "gloss": "他们必问"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "לשלום",
-      "english": "安"
+      "gloss": "安"
     },
     {
       "surface": "ונתנו",
-      "english": "⟨并⟩他们必给"
+      "gloss": "⟨并⟩他们必给"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "שתי",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "ולקחת",
-      "english": "你要接过"
+      "gloss": "你要接过"
     },
     {
       "surface": "מידם",
-      "english": "从他们手中"
+      "gloss": "从他们手中"
     }
-  ],
-  "timestamp": "2026-07-17T20:26:09.726428057Z",
-  "model": "glm-5.2"
+  ]
 }

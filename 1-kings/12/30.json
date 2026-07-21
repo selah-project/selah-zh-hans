@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-kings 12:30",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63980,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64346
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:07:34.330851326Z",
   "translation": "这件事就成了罪：⟨那⟩百姓走 ⟨到⟩ ⟨那⟩一只 ⟨牛犊⟩面前，直到丹。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "就成了"
+      "gloss": "就成了"
     },
     {
       "surface": "הדבר",
-      "english": "这件事（*davar*）"
+      "gloss": "这件事（*davar*）"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "לחטאת",
-      "english": "成了罪"
+      "gloss": "成了罪"
     },
     {
       "surface": "וילכו",
-      "english": "走"
+      "gloss": "走"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "לפני",
-      "english": "⟨到⟩……面前"
+      "gloss": "⟨到⟩……面前"
     },
     {
       "surface": "האחד",
-      "english": "⟨那⟩一只 ⟨牛犊⟩"
+      "gloss": "⟨那⟩一只 ⟨牛犊⟩"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "דן",
-      "english": "丹"
+      "gloss": "丹"
     }
-  ],
-  "timestamp": "2026-07-17T21:07:34.330851326Z",
-  "model": "glm-5.2"
+  ]
 }

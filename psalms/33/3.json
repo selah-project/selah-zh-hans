@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 33:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64364,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64745
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:00.547171279Z",
   "translation": "要向 ⟨他⟩ 唱一首新歌；要弹得美妙，伴随欢呼的声音。",
   "tokens": [
     {
       "surface": "שירו",
-      "english": "要唱"
+      "gloss": "要唱"
     },
     {
       "surface": "לו",
-      "english": "向 ⟨他⟩"
+      "gloss": "向 ⟨他⟩"
     },
     {
       "surface": "שיר",
-      "english": "一首歌"
+      "gloss": "一首歌"
     },
     {
       "surface": "חדש",
-      "english": "新"
+      "gloss": "新"
     },
     {
       "surface": "היטיבו",
-      "english": "要弹得美妙"
+      "gloss": "要弹得美妙"
     },
     {
       "surface": "נגן",
-      "english": "弹奏"
+      "gloss": "弹奏"
     },
     {
       "surface": "בתרועה",
-      "english": "伴随欢呼的声音"
+      "gloss": "伴随欢呼的声音"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:00.547171279Z",
-  "model": "glm-5.2"
+  ]
 }

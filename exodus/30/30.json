@@ -1,63 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "exodus 30:30",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 334,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18751,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19085
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:31:54.047689167Z",
   "translation": "你要膏亚伦和他的儿子们,你要将他们分别为圣,使他们作事奉我的祭司。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伦"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的儿子们"
     },
     {
       "surface": "בניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "תמשח",
-      "english": "你要膏"
+      "gloss": "你要膏"
     },
     {
       "surface": "וקדשת",
-      "english": "你要将……分别为圣"
+      "gloss": "你要将……分别为圣"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩他们",
+      "gloss": "⟨את⟩他们",
       "marks": "他们"
     },
     {
       "surface": "לכהן",
-      "english": "作祭司"
+      "gloss": "作祭司"
     },
     {
       "surface": "לי",
-      "english": "事奉我"
+      "gloss": "事奉我"
     }
-  ],
-  "timestamp": "2026-07-17T18:31:54.047689167Z",
-  "model": "glm-5.2"
+  ]
 }

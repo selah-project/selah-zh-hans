@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "judges 9:50",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17730,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18086
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:13:04.202008917Z",
   "translation": "亚比米勒去提备斯,对着提备斯扎营,就攻取了⟨她⟩。",
   "tokens": [
     {
       "surface": "וילך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "אל",
-      "english": "往"
+      "gloss": "往"
     },
     {
       "surface": "תבץ",
-      "english": "提备斯"
+      "gloss": "提备斯"
     },
     {
       "surface": "ויחן",
-      "english": "扎营"
+      "gloss": "扎营"
     },
     {
       "surface": "בתבץ",
-      "english": "对着提备斯"
+      "gloss": "对着提备斯"
     },
     {
       "surface": "וילכדה",
-      "english": "攻取了⟨她⟩"
+      "gloss": "攻取了⟨她⟩"
     }
-  ],
-  "timestamp": "2026-07-17T20:13:04.202008917Z",
-  "model": "glm-5.2"
+  ]
 }

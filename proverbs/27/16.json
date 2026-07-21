@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 27:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54379,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54703
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:26.508974327Z",
   "translation": "藏匿她的人，藏匿了鲁阿，而他右手上的油 ⟨会⟩ 呼喊出来。",
   "tokens": [
     {
       "surface": "צפניה",
-      "english": "藏匿她的人"
+      "gloss": "藏匿她的人"
     },
     {
       "surface": "צפן",
-      "english": "藏匿了"
+      "gloss": "藏匿了"
     },
     {
       "surface": "רוח",
-      "english": "鲁阿"
+      "gloss": "鲁阿"
     },
     {
       "surface": "ושמן",
-      "english": "而他……上的油"
+      "gloss": "而他……上的油"
     },
     {
       "surface": "ימינו",
-      "english": "他的右手"
+      "gloss": "他的右手"
     },
     {
       "surface": "יקרא",
-      "english": "呼喊出来"
+      "gloss": "呼喊出来"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:26.508974327Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 8:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18545,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18934
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:22:30.278518767Z",
   "translation": "在他的日子,以东从犹大的手下背叛,他们就立了⟨一⟩王治理他们。",
   "tokens": [
     {
       "surface": "בְּ\/יָמָי\/ו֙",
-      "english": "在他的日子"
+      "gloss": "在他的日子"
     },
     {
       "surface": "פָּשַׁ֣ע",
-      "english": "背叛"
+      "gloss": "背叛"
     },
     {
       "surface": "אֱד֔וֹם",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "מִ\/תַּ֖חַת",
-      "english": "从……下"
+      "gloss": "从……下"
     },
     {
       "surface": "יַד",
-      "english": "手"
+      "gloss": "手"
     },
     {
       "surface": "יְהוּדָ֑ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וַ\/יַּמְלִ֥יכוּ",
-      "english": "他们就立了……为王"
+      "gloss": "他们就立了……为王"
     },
     {
       "surface": "עֲלֵי\/הֶ֖ם",
-      "english": "治理他们"
+      "gloss": "治理他们"
     },
     {
       "surface": "מֶֽלֶךְ",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-17T21:22:30.278518767Z",
-  "model": "glm-5.2"
+  ]
 }

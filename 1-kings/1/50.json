@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "1-kings 1:50",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64062,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64393
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:23.468361890Z",
   "translation": "阿多尼雅惧怕所罗门的⟨面⟩,就起来,去抓住祭坛的角。",
   "tokens": [
     {
       "surface": "ואדניהו",
-      "english": "阿多尼雅"
+      "gloss": "阿多尼雅"
     },
     {
       "surface": "ירא",
-      "english": "惧怕"
+      "gloss": "惧怕"
     },
     {
       "surface": "מפני",
-      "english": "……的⟨面⟩"
+      "gloss": "……的⟨面⟩"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "ויקם",
-      "english": "就起来"
+      "gloss": "就起来"
     },
     {
       "surface": "וילך",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "ויחזק",
-      "english": "抓住"
+      "gloss": "抓住"
     },
     {
       "surface": "בקרנות",
-      "english": "……的角"
+      "gloss": "……的角"
     },
     {
       "surface": "המזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:23.468361890Z",
-  "model": "glm-5.2"
+  ]
 }

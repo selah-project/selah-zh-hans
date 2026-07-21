@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 13:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19271,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19575
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:09:44.422114123Z",
   "translation": "属以法莲支派,何西阿,本-嫩的儿子。",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "属……支派"
+      "gloss": "属……支派"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "הושע",
-      "english": "何西阿"
+      "gloss": "何西阿"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "נון",
-      "english": "嫩的儿子"
+      "gloss": "嫩的儿子"
     }
-  ],
-  "timestamp": "2026-07-17T19:09:44.422114123Z",
-  "model": "glm-5.2"
+  ]
 }

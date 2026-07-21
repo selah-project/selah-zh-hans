@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "deuteronomy 27:6",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19687,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20199
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:44:21.176534881Z",
   "translation": "你要用完整的石头建造⟨את⟩雅威你以罗欣的祭坛,在其上向雅威你以罗欣献上燔祭。",
   "tokens": [
     {
       "surface": "אבנים",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "שלמות",
-      "english": "完整的"
+      "gloss": "完整的"
     },
     {
       "surface": "תבנה",
-      "english": "你要建造"
+      "gloss": "你要建造"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "祭坛"
     },
     {
       "surface": "מזבח",
-      "english": "祭坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你以罗欣"
+      "gloss": "你以罗欣"
     },
     {
       "surface": "והעלית",
-      "english": "你要在其上献上"
+      "gloss": "你要在其上献上"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "עולת",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你以罗欣"
+      "gloss": "你以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:44:21.176534881Z",
-  "model": "glm-5.2"
+  ]
 }

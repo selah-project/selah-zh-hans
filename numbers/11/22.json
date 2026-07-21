@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "numbers 11:22",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20262,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20763
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:08:22.203293804Z",
   "translation": "羊群和牛群 ⟨要⟩为他们宰杀,⟨足以⟩供应他们吗?如果⟨את⟩海里一切的鱼都为他们聚集,⟨足以⟩供应他们吗?",
   "tokens": [
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ובקר",
-      "english": "和牛群"
+      "gloss": "和牛群"
     },
     {
       "surface": "ישחט",
-      "english": "⟨要⟩宰杀"
+      "gloss": "⟨要⟩宰杀"
     },
     {
       "surface": "להם",
-      "english": "为他们"
+      "gloss": "为他们"
     },
     {
       "surface": "ומצא",
-      "english": "⟨足以⟩供应"
+      "gloss": "⟨足以⟩供应"
     },
     {
       "surface": "להם",
-      "english": "他们吗"
+      "gloss": "他们吗"
     },
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "海里一切的鱼"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "דגי",
-      "english": "……的鱼"
+      "gloss": "……的鱼"
     },
     {
       "surface": "הים",
-      "english": "海里"
+      "gloss": "海里"
     },
     {
       "surface": "יאסף",
-      "english": "都……聚集"
+      "gloss": "都……聚集"
     },
     {
       "surface": "להם",
-      "english": "为他们"
+      "gloss": "为他们"
     },
     {
       "surface": "ומצא",
-      "english": "⟨足以⟩供应"
+      "gloss": "⟨足以⟩供应"
     },
     {
       "surface": "להם",
-      "english": "他们吗"
+      "gloss": "他们吗"
     }
-  ],
-  "timestamp": "2026-07-17T19:08:22.203293804Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 43:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64893,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65344
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:59.105786501Z",
   "translation": "求你差遣你的光和你的真理,它们要引导我,带我到你的圣山,到你的居所。",
   "tokens": [
     {
       "surface": "שלח",
-      "english": "求你差遣"
+      "gloss": "求你差遣"
     },
     {
       "surface": "אורך",
-      "english": "你的光"
+      "gloss": "你的光"
     },
     {
       "surface": "ואמתך",
-      "english": "和你的真理"
+      "gloss": "和你的真理"
     },
     {
       "surface": "המה",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "ינחוני",
-      "english": "要引导我"
+      "gloss": "要引导我"
     },
     {
       "surface": "יביאוני",
-      "english": "带我"
+      "gloss": "带我"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "קדשך",
-      "english": "你的圣"
+      "gloss": "你的圣"
     },
     {
       "surface": "ואל",
-      "english": "和到"
+      "gloss": "和到"
     },
     {
       "surface": "משכנותיך",
-      "english": "你的居所"
+      "gloss": "你的居所"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:59.105786501Z",
-  "model": "glm-5.2"
+  ]
 }

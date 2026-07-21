@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 46:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64551,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64927
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:03.964148996Z",
   "translation": "松弛吧,并知道 ⟨我是⟩ 以罗欣;我必在列邦中被高举,我必在地上被高举。",
   "tokens": [
     {
       "surface": "הרפו",
-      "english": "松弛吧"
+      "gloss": "松弛吧"
     },
     {
       "surface": "ודעו",
-      "english": "并知道"
+      "gloss": "并知道"
     },
     {
       "surface": "כי",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אלהים",
-      "english": "是 以罗欣"
+      "gloss": "是 以罗欣"
     },
     {
       "surface": "ארום",
-      "english": "我必被高举"
+      "gloss": "我必被高举"
     },
     {
       "surface": "בגוים",
-      "english": "在列邦中"
+      "gloss": "在列邦中"
     },
     {
       "surface": "ארום",
-      "english": "我必被高举"
+      "gloss": "我必被高举"
     },
     {
       "surface": "בארץ",
-      "english": "在地上"
+      "gloss": "在地上"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:03.964148996Z",
-  "model": "glm-5.2"
+  ]
 }

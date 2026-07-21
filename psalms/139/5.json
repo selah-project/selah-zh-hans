@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 139:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64400,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64854
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:00.736683736Z",
   "translation": "你在后面和在前面围困了我，你在⟨我身上⟩放置了你的手掌。",
   "tokens": [
     {
       "surface": "אחור",
-      "english": "在后面"
+      "gloss": "在后面"
     },
     {
       "surface": "וקדם",
-      "english": "和在前面"
+      "gloss": "和在前面"
     },
     {
       "surface": "צרתני",
-      "english": "围困了我"
+      "gloss": "围困了我"
     },
     {
       "surface": "ותשׁת",
-      "english": "你放置了"
+      "gloss": "你放置了"
     },
     {
       "surface": "עלי",
-      "english": "在我身上"
+      "gloss": "在我身上"
     },
     {
       "surface": "כפכה",
-      "english": "你的手掌"
+      "gloss": "你的手掌"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:00.736683736Z",
-  "model": "glm-5.2"
+  ]
 }

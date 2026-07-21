@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 45:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20632,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21186
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:56:14.411042240Z",
   "translation": "祸哉！对父亲说⟨的⟩：『你⟨为何⟩生⟨我⟩？』或对母亲⟮此处希伯来文作 אשׁה⟯说：『你⟨为何⟩阵痛⟮生产⟯？』",
   "tokens": [
     {
       "surface": "הוי",
-      "english": "祸哉！"
+      "gloss": "祸哉！"
     },
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לאב",
-      "english": "对父亲"
+      "gloss": "对父亲"
     },
     {
       "surface": "מה",
-      "english": "⟨为何⟩"
+      "gloss": "⟨为何⟩"
     },
     {
       "surface": "תוליד",
-      "english": "生"
+      "gloss": "生"
     },
     {
       "surface": "ולאשה",
-      "english": "或对母亲⟮此处希伯来文作 אשׁה⟯"
+      "gloss": "或对母亲⟮此处希伯来文作 אשׁה⟯"
     },
     {
       "surface": "מה",
-      "english": "⟨为何⟩"
+      "gloss": "⟨为何⟩"
     },
     {
       "surface": "תחילין",
-      "english": "阵痛⟮生产⟯"
+      "gloss": "阵痛⟮生产⟯"
     }
-  ],
-  "timestamp": "2026-07-17T21:56:14.411042240Z",
-  "model": "glm-5.2"
+  ]
 }

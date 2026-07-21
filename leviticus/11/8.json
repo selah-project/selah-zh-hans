@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 11:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19117,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19520
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:04:22.444917752Z",
   "translation": "它们的肉你们不可吃,它们的尸体你们不可触摸;它们对你们是不洁净的。",
   "tokens": [
     {
       "surface": "מבשרם",
-      "english": "它们的肉"
+      "gloss": "它们的肉"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "你们吃"
+      "gloss": "你们吃"
     },
     {
       "surface": "ובנבלתם",
-      "english": "它们的尸体"
+      "gloss": "它们的尸体"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תגעו",
-      "english": "你们触摸"
+      "gloss": "你们触摸"
     },
     {
       "surface": "טמאים",
-      "english": "不洁净的"
+      "gloss": "不洁净的"
     },
     {
       "surface": "הם",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "לכם",
-      "english": "对你们"
+      "gloss": "对你们"
     }
-  ],
-  "timestamp": "2026-07-20T15:04:22.444917752Z",
-  "model": "glm-5.2"
+  ]
 }

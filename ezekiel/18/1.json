@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 18:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18530,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 18844
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:49:46.190882423Z",
   "translation": "雅威的*davar* ⟨臨到⟩ 我,說:",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨臨到⟩"
+      "gloss": "⟨臨到⟩"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אלי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לאמר",
-      "english": "說:"
+      "gloss": "說:"
     }
-  ],
-  "timestamp": "2026-07-17T22:49:46.190882423Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "song-of-songs 7:3",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22315,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22831
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:40.583879972Z",
   "translation": "你的腰如圆碗, ⟨את⟩混合之酒不缺;你的腹如麦堆,围以百合花。",
   "tokens": [
     {
       "surface": "שררך",
-      "english": "你的腰"
+      "gloss": "你的腰"
     },
     {
       "surface": "אגן",
-      "english": "如碗"
+      "gloss": "如碗"
     },
     {
       "surface": "הסהר",
-      "english": "圆的"
+      "gloss": "圆的"
     },
     {
       "surface": "אל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יחסר",
-      "english": "缺"
+      "gloss": "缺"
     },
     {
       "surface": "המזג",
-      "english": "⟨את⟩混合之酒"
+      "gloss": "⟨את⟩混合之酒"
     },
     {
       "surface": "בטנך",
-      "english": "你的腹"
+      "gloss": "你的腹"
     },
     {
       "surface": "ערמת",
-      "english": "如堆"
+      "gloss": "如堆"
     },
     {
       "surface": "חטים",
-      "english": "麦"
+      "gloss": "麦"
     },
     {
       "surface": "סוגה",
-      "english": "围"
+      "gloss": "围"
     },
     {
       "surface": "בשושנים",
-      "english": "以百合花"
+      "gloss": "以百合花"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:40.583879972Z",
-  "model": "glm-5.2"
+  ]
 }

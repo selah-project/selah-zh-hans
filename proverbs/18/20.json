@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 18:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54542,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55027
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:05.086818423Z",
   "translation": "从一个人之口所出的果子，他的腹就⟨得⟩饱足；从他嘴唇所⟨出⟩的出产，他⟨自己⟩也饱足。",
   "tokens": [
     {
       "surface": "מפרי",
-      "english": "从……的果子"
+      "gloss": "从……的果子"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "תשבע",
-      "english": "饱足"
+      "gloss": "饱足"
     },
     {
       "surface": "בטנו",
-      "english": "他的腹"
+      "gloss": "他的腹"
     },
     {
       "surface": "תבואת",
-      "english": "出产"
+      "gloss": "出产"
     },
     {
       "surface": "שפתיו",
-      "english": "他的嘴唇"
+      "gloss": "他的嘴唇"
     },
     {
       "surface": "ישבע",
-      "english": "饱足"
+      "gloss": "饱足"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:05.086818423Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 104:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64499,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64872
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:55.000166338Z",
   "translation": "在那里飞鸟筑巢；鹳以柏木⟨为⟩她的家。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "⟨在那里⟩"
+      "gloss": "⟨在那里⟩"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "צפרים",
-      "english": "飞鸟"
+      "gloss": "飞鸟"
     },
     {
       "surface": "יקננו",
-      "english": "筑巢"
+      "gloss": "筑巢"
     },
     {
       "surface": "חסידה",
-      "english": "鹳"
+      "gloss": "鹳"
     },
     {
       "surface": "ברושים",
-      "english": "柏木"
+      "gloss": "柏木"
     },
     {
       "surface": "ביתה",
-      "english": "她的家"
+      "gloss": "她的家"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:55.000166338Z",
-  "model": "glm-5.2"
+  ]
 }

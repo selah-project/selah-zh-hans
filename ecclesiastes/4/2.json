@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ecclesiastes 4:2",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19367,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19800
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:02:55.809279723Z",
   "translation": "我称赞⟨את⟩死者——他们已经死了——胜过⟨还⟩活着的活人，直到如今。",
   "tokens": [
     {
       "surface": "ושבח",
-      "english": "我称赞"
+      "gloss": "我称赞"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "死者"
     },
     {
       "surface": "המתים",
-      "english": "死者"
+      "gloss": "死者"
     },
     {
       "surface": "שכבר",
-      "english": "已经"
+      "gloss": "已经"
     },
     {
       "surface": "מתו",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "מן",
-      "english": "胜过"
+      "gloss": "胜过"
     },
     {
       "surface": "החיים",
-      "english": "活人"
+      "gloss": "活人"
     },
     {
       "surface": "אשר",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "חיים",
-      "english": "还活着"
+      "gloss": "还活着"
     },
     {
       "surface": "עדנה",
-      "english": "直到如今"
+      "gloss": "直到如今"
     }
-  ],
-  "timestamp": "2026-07-20T15:02:55.809279723Z",
-  "model": "glm-5.2"
+  ]
 }

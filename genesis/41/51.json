@@ -1,91 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 51,
   "ref": "genesis 41:51",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23843,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24429
-  },
+  "verse": 51,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:02:06.902477283Z",
   "translation": "约瑟给长子起名叫玛拿西,因为以罗欣使我忘了我一切的劳苦,以及⟨את⟩我父家的一切。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "⟨他⟩呼叫了"
+      "gloss": "⟨他⟩呼叫了"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "名字"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "הבכור",
-      "english": "长子(的)"
+      "gloss": "长子(的)"
     },
     {
       "surface": "מנשה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נשני",
-      "english": "使我忘了"
+      "gloss": "使我忘了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "一切"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "עמלי",
-      "english": "我劳苦(的)"
+      "gloss": "我劳苦(的)"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "一切"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "אבי",
-      "english": "我父(的)"
+      "gloss": "我父(的)"
     }
-  ],
-  "timestamp": "2026-07-17T18:02:06.902477283Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 55,
   "ref": "1-kings 8:55",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64092,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64451
-  },
+  "verse": 55,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:04:08.951331688Z",
   "translation": "他站起来,以大声祝福⟨את⟩全以色列会众,说:",
   "tokens": [
     {
       "surface": "ויעמד",
-      "english": "他站起来"
+      "gloss": "他站起来"
     },
     {
       "surface": "ויברך",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全以色列会众"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "קהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "קול",
-      "english": "声"
+      "gloss": "声"
     },
     {
       "surface": "גדול",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     }
-  ],
-  "timestamp": "2026-07-17T21:04:08.951331688Z",
-  "model": "glm-5.2"
+  ]
 }

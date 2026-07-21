@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 72:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 668,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65040,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65708
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:21.083622443Z",
   "translation": "愿地里有丰盛的五谷，在群山之巅，它的果实如黎巴嫩般摇曳；他们必从城中绽放，如地上的草木。",
   "tokens": [
     {
       "surface": "יְהִי",
-      "english": "愿有"
+      "gloss": "愿有"
     },
     {
       "surface": "פִסַּת",
-      "english": "丰盛"
+      "gloss": "丰盛"
     },
     {
       "surface": "בַּר",
-      "english": "五谷"
+      "gloss": "五谷"
     },
     {
       "surface": "בָּ\/אָרֶץ",
-      "english": "在地里"
+      "gloss": "在地里"
     },
     {
       "surface": "בְּ\/רֹאשׁ",
-      "english": "在……之巅"
+      "gloss": "在……之巅"
     },
     {
       "surface": "הָ\/רִים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "יִרְעַשׁ",
-      "english": "摇曳"
+      "gloss": "摇曳"
     },
     {
       "surface": "כַּ\/לְּבָנ֣וֹן",
-      "english": "如黎巴嫩"
+      "gloss": "如黎巴嫩"
     },
     {
       "surface": "פִּרְי\/וֹ",
-      "english": "它的果实"
+      "gloss": "它的果实"
     },
     {
       "surface": "וְ\/יָצִיצוּ",
-      "english": "他们必绽放"
+      "gloss": "他们必绽放"
     },
     {
       "surface": "מֵ\/עִיר",
-      "english": "从城中"
+      "gloss": "从城中"
     },
     {
       "surface": "כְּ\/עֵשֶׂב",
-      "english": "如草木"
+      "gloss": "如草木"
     },
     {
       "surface": "הָ\/אָרֶץ",
-      "english": "地上的"
+      "gloss": "地上的"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:21.083622443Z",
-  "model": "glm-5.2"
+  ]
 }

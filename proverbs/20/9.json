@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "proverbs 20:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 355,
-    "prompt_tokens": 54310,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54665
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:27.641467271Z",
   "translation": "谁能说：我洁净了我的心，我脱离我的罪 ⟨纯净⟩？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁能"
+      "gloss": "谁能"
     },
     {
       "surface": "יאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "זכיתי",
-      "english": "我洁净了"
+      "gloss": "我洁净了"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "טהרתי",
-      "english": "我……纯净"
+      "gloss": "我……纯净"
     },
     {
       "surface": "מחטאתי",
-      "english": "脱离我的罪"
+      "gloss": "脱离我的罪"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:27.641467271Z",
-  "model": "glm-4.5"
+  ]
 }

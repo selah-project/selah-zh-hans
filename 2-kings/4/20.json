@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 4:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18563,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18944
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:29.198561240Z",
   "translation": "他抱起他,把他带到他母亲那里;他就坐在她膝上,直到中午,然后就死了。",
   "tokens": [
     {
       "surface": "וישאהו",
-      "english": "他抱起他"
+      "gloss": "他抱起他"
     },
     {
       "surface": "ויביאהו",
-      "english": "把他带来"
+      "gloss": "把他带来"
     },
     {
       "surface": "אל",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "אמו",
-      "english": "他母亲"
+      "gloss": "他母亲"
     },
     {
       "surface": "וישב",
-      "english": "他就坐"
+      "gloss": "他就坐"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ברכיה",
-      "english": "她膝"
+      "gloss": "她膝"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הצהרים",
-      "english": "中午"
+      "gloss": "中午"
     },
     {
       "surface": "וימת",
-      "english": "就死了"
+      "gloss": "就死了"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:29.198561240Z",
-  "model": "glm-5.2"
+  ]
 }

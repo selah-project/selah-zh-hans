@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 24:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23311,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23787
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:47:09.796225577Z",
   "translation": "她急忙把⟨她的⟩罐子倒⟨入⟩⟨那⟩水槽,又跑回⟨那⟩井去打水,就为⟨他的⟩所有骆驼打了水。",
   "tokens": [
     {
       "surface": "ותמהר",
-      "english": "她急忙"
+      "gloss": "她急忙"
     },
     {
       "surface": "ותער",
-      "english": "把……倒空"
+      "gloss": "把……倒空"
     },
     {
       "surface": "כדה",
-      "english": "⟨她的⟩罐子"
+      "gloss": "⟨她的⟩罐子"
     },
     {
       "surface": "אל",
-      "english": "⟨入⟩"
+      "gloss": "⟨入⟩"
     },
     {
       "surface": "השקת",
-      "english": "⟨那⟩水槽"
+      "gloss": "⟨那⟩水槽"
     },
     {
       "surface": "ותרץ",
-      "english": "又跑回"
+      "gloss": "又跑回"
     },
     {
       "surface": "עוד",
-      "english": "回"
+      "gloss": "回"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "הבאר",
-      "english": "⟨那⟩井"
+      "gloss": "⟨那⟩井"
     },
     {
       "surface": "לשאב",
-      "english": "去打水"
+      "gloss": "去打水"
     },
     {
       "surface": "ותשאב",
-      "english": "就打了水"
+      "gloss": "就打了水"
     },
     {
       "surface": "לכל",
-      "english": "为⟨他的⟩所有"
+      "gloss": "为⟨他的⟩所有"
     },
     {
       "surface": "גמליו",
-      "english": "骆驼"
+      "gloss": "骆驼"
     }
-  ],
-  "timestamp": "2026-07-17T17:47:09.796225577Z",
-  "model": "glm-5.2"
+  ]
 }

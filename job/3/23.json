@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 3:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21590,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21979
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:46.807153961Z",
   "translation": "给一个人——他的道路隐藏，以罗呵在他周围四面围住⟨他⟩？",
   "tokens": [
     {
       "surface": "לגבר",
-      "english": "给一个人"
+      "gloss": "给一个人"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "דרכו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "נסתרה",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "ויסך",
-      "english": "在他周围四面围住"
+      "gloss": "在他周围四面围住"
     },
     {
       "surface": "אלוה",
-      "english": "以罗呵"
+      "gloss": "以罗呵"
     },
     {
       "surface": "בעדו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:46.807153961Z",
-  "model": "glm-5.2"
+  ]
 }

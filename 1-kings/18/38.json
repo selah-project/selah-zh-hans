@@ -1,96 +1,85 @@
 {
-  "tier": "glm-5.2",
-  "verse": 38,
   "ref": "1-kings 18:38",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 735,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65012,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65747
-  },
+  "verse": 38,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:13:07.015471963Z",
   "translation": "雅威的火降下,吞噬了⟨את⟩燔祭和⟨את⟩木柴、⟨את⟩石头、⟨את⟩尘土,连⟨את⟩水沟里的水也舔尽了。",
   "tokens": [
     {
       "surface": "וַ\/תִּפֹּ֣ל",
-      "english": "降下"
+      "gloss": "降下"
     },
     {
       "surface": "אֵשׁ",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "יְהוָ֗ה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "וַ\/תֹּ֤אכַל",
-      "english": "吞噬了"
+      "gloss": "吞噬了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭"
     },
     {
       "surface": "הָֽ\/עֹלָה֙",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "木柴"
     },
     {
       "surface": "הָ֣\/עֵצִ֔ים",
-      "english": "木柴"
+      "gloss": "木柴"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石头"
     },
     {
       "surface": "הָ\/אֲבָנִ֖ים",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "尘土"
     },
     {
       "surface": "הֶ\/עָפָ֑ר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "וְ\/אֶת",
-      "english": "连⟨את⟩"
+      "gloss": "连⟨את⟩"
     },
     {
       "surface": "הַ\/מַּ֥יִם",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "里的"
+      "gloss": "里的"
     },
     {
       "surface": "בַּ\/תְּעָלָ֖ה",
-      "english": "沟"
+      "gloss": "沟"
     },
     {
       "surface": "לִחֵֽכָה",
-      "english": "也舔尽了"
+      "gloss": "也舔尽了"
     }
-  ],
-  "timestamp": "2026-07-17T21:13:07.015471963Z",
-  "model": "glm-5.2"
+  ]
 }

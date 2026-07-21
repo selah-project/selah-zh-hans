@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "proverbs 30:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54496,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54926
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:04.162957987Z",
   "translation": "在被恨恶的女人之下,当她被娶为妻;⟨以及⟩婢女,当她赶走⟨她的⟩主母。",
   "tokens": [
     {
       "surface": "תחת",
-      "english": "在……之下"
+      "gloss": "在……之下"
     },
     {
       "surface": "שנואה",
-      "english": "被恨恶的女人"
+      "gloss": "被恨恶的女人"
     },
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תבעל",
-      "english": "被娶为妻"
+      "gloss": "被娶为妻"
     },
     {
       "surface": "ושפחה",
-      "english": "⟨以及⟩婢女"
+      "gloss": "⟨以及⟩婢女"
     },
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תירש",
-      "english": "赶走"
+      "gloss": "赶走"
     },
     {
       "surface": "גברתה",
-      "english": "⟨她的⟩主母"
+      "gloss": "⟨她的⟩主母"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:04.162957987Z",
-  "model": "glm-5.2"
+  ]
 }

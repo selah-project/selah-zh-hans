@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 21:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23316,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23775
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:20.044088568Z",
   "translation": "那孩子长大了,就断了奶;亚伯拉罕在断奶以撒⟨את⟩的日子,摆设了盛大的筵席。",
   "tokens": [
     {
       "surface": "ויגדל",
-      "english": "长大了"
+      "gloss": "长大了"
     },
     {
       "surface": "הילד",
-      "english": "那孩子"
+      "gloss": "那孩子"
     },
     {
       "surface": "ויגמל",
-      "english": "就断了奶"
+      "gloss": "就断了奶"
     },
     {
       "surface": "ויעש",
-      "english": "摆设了"
+      "gloss": "摆设了"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "משתה",
-      "english": "筵席"
+      "gloss": "筵席"
     },
     {
       "surface": "גדול",
-      "english": "盛大的"
+      "gloss": "盛大的"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "הגמל",
-      "english": "断奶"
+      "gloss": "断奶"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以撒"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:20.044088568Z",
-  "model": "glm-5.2"
+  ]
 }

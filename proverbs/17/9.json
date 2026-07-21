@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 17:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54532,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54950
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:33.856963173Z",
   "translation": "遮掩过犯的,寻求爱;但在⟨一件⟩事上重复的,使密友分离。",
   "tokens": [
     {
       "surface": "מכסה",
-      "english": "遮掩"
+      "gloss": "遮掩"
     },
     {
       "surface": "פשע",
-      "english": "过犯的"
+      "gloss": "过犯的"
     },
     {
       "surface": "מבקש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "אהבה",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "ושנה",
-      "english": "但在……上重复"
+      "gloss": "但在……上重复"
     },
     {
       "surface": "בדבר",
-      "english": "事"
+      "gloss": "事"
     },
     {
       "surface": "מפריד",
-      "english": "使……分离"
+      "gloss": "使……分离"
     },
     {
       "surface": "אלוף",
-      "english": "密友"
+      "gloss": "密友"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:33.856963173Z",
-  "model": "glm-5.2"
+  ]
 }

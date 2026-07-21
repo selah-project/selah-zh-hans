@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "proverbs 22:23",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54604,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54979
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:05.523420703Z",
   "translation": "因为雅威必为他们争诉讼,他必剥夺那剥夺他们之人的生命。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יריב",
-      "english": "必争诉讼"
+      "gloss": "必争诉讼"
     },
     {
       "surface": "ריבם",
-      "english": "他们的诉讼"
+      "gloss": "他们的诉讼"
     },
     {
       "surface": "וקבע",
-      "english": "他必剥夺"
+      "gloss": "他必剥夺"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那剥夺他们之人的"
     },
     {
       "surface": "קבעיהם",
-      "english": "那剥夺他们之人"
+      "gloss": "那剥夺他们之人"
     },
     {
       "surface": "נפש",
-      "english": "生命"
+      "gloss": "生命"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:05.523420703Z",
-  "model": "glm-5.2"
+  ]
 }

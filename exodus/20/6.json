@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "exodus 20:6",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18326,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18895
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:39.452322050Z",
   "translation": "并 \\⟨他\\⟩ 向成千上万施行 *chesed* (坚定之爱)，向那些爱我的人，以及那些恪守我 *mitzvot* (诫命) 的人。",
   "tokens": [
     {
       "surface": "ועשה",
-      "english": "并施行"
+      "gloss": "并施行"
     },
     {
       "surface": "חסד",
-      "english": "*chesed* (坚定之爱)"
+      "gloss": "*chesed* (坚定之爱)"
     },
     {
       "surface": "לאלפים",
-      "english": "向成千上万"
+      "gloss": "向成千上万"
     },
     {
       "surface": "לאהבי",
-      "english": "向那些爱我的人"
+      "gloss": "向那些爱我的人"
     },
     {
       "surface": "ולשמרי",
-      "english": "以及那些恪守"
+      "gloss": "以及那些恪守"
     },
     {
       "surface": "מצותי",
-      "english": "我 *mitzvot* (诫命) 的人"
+      "gloss": "我 *mitzvot* (诫命) 的人"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:39.452322050Z",
-  "model": "glm-5.2"
+  ]
 }

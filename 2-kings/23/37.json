@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "2-kings 23:37",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18331,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18735
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:33:10.771383022Z",
   "translation": "他行雅威眼中看为恶的事，完全照着他列祖所行的一切去行。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他行了"
+      "gloss": "他行了"
     },
     {
       "surface": "הרע",
-      "english": "那恶"
+      "gloss": "那恶"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼中"
+      "gloss": "在……眼中"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ככל",
-      "english": "照着……一切"
+      "gloss": "照着……一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "עשו",
-      "english": "行了"
+      "gloss": "行了"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     }
-  ],
-  "timestamp": "2026-07-17T21:33:10.771383022Z",
-  "model": "glm-5.2"
+  ]
 }

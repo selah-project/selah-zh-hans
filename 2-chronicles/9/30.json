@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "2-chronicles 9:30",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 215,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59671,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59886
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:19:06.831032034Z",
   "translation": "所罗门在耶路撒冷统治全以色列 ⟨את⟩ 四十年。",
   "tokens": [
     {
       "surface": "וימלך",
-      "english": "统治了"
+      "gloss": "统治了"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     },
     {
       "surface": "על",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     }
-  ],
-  "timestamp": "2026-07-18T02:19:06.831032034Z",
-  "model": "glm-5.2"
+  ]
 }

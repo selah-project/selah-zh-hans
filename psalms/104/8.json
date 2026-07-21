@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 104:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64592,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64988
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:46.619280854Z",
   "translation": "群山上腾,谷地沉降至⟨你⟩为它们所立定的那地方。",
   "tokens": [
     {
       "surface": "יעלו",
-      "english": "上腾"
+      "gloss": "上腾"
     },
     {
       "surface": "הרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "ירדו",
-      "english": "沉降"
+      "gloss": "沉降"
     },
     {
       "surface": "בקעות",
-      "english": "谷地"
+      "gloss": "谷地"
     },
     {
       "surface": "אל",
-      "english": "至"
+      "gloss": "至"
     },
     {
       "surface": "מקום",
-      "english": "那地方"
+      "gloss": "那地方"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "יסדת",
-      "english": "⟨你⟩立定"
+      "gloss": "⟨你⟩立定"
     },
     {
       "surface": "להם",
-      "english": "为它们"
+      "gloss": "为它们"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:46.619280854Z",
-  "model": "glm-5.2"
+  ]
 }

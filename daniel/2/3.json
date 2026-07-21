@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "daniel 2:3",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19000,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19458
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:28:39.514698395Z",
   "translation": "王对他们说：我做了一个梦,我的鲁阿(灵)烦躁不安,⟨要⟩知道⟨את⟩那梦。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "להם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חלום",
-      "english": "一个梦"
+      "gloss": "一个梦"
     },
     {
       "surface": "חלמתי",
-      "english": "我做了"
+      "gloss": "我做了"
     },
     {
       "surface": "ותפעם",
-      "english": "烦躁不安"
+      "gloss": "烦躁不安"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿(灵)"
+      "gloss": "我的鲁阿(灵)"
     },
     {
       "surface": "לדעת",
-      "english": "⟨要⟩知道"
+      "gloss": "⟨要⟩知道"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那梦"
     },
     {
       "surface": "החלום",
-      "english": "那梦"
+      "gloss": "那梦"
     }
-  ],
-  "timestamp": "2026-07-18T01:28:39.514698395Z",
-  "model": "glm-5.2"
+  ]
 }

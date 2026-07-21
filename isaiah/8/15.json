@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 8:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20537,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20930
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:10.642515320Z",
   "translation": "许多人必在其中绊倒，必跌倒，必摔碎，必被缠住，必被捉住。",
   "tokens": [
     {
       "surface": "וְ\/כָ֥שְׁלוּ",
-      "english": "必绊倒"
+      "gloss": "必绊倒"
     },
     {
       "surface": "בָ֖\/ם",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "רַבִּ֑ים",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "וְ\/נָפְל֣וּ",
-      "english": "必跌倒"
+      "gloss": "必跌倒"
     },
     {
       "surface": "וְ\/נִשְׁבָּ֔רוּ",
-      "english": "必摔碎"
+      "gloss": "必摔碎"
     },
     {
       "surface": "וְ\/נוֹקְשׁ֖וּ",
-      "english": "必被缠住"
+      "gloss": "必被缠住"
     },
     {
       "surface": "וְ\/נִלְכָּֽדוּ",
-      "english": "必被捉住"
+      "gloss": "必被捉住"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:10.642515320Z",
-  "model": "glm-5.2"
+  ]
 }

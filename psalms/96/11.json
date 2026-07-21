@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 96:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64466,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64753
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:37.294282115Z",
   "translation": "愿诸天欢欣,愿地欢跃;愿海咆哮,及其丰盛。",
   "tokens": [
     {
       "surface": "ישמחו",
-      "english": "愿……欢欣"
+      "gloss": "愿……欢欣"
     },
     {
       "surface": "השמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "ותגל",
-      "english": "愿……欢跃"
+      "gloss": "愿……欢跃"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ירעם",
-      "english": "愿……咆哮"
+      "gloss": "愿……咆哮"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "ומלאו",
-      "english": "及其丰盛"
+      "gloss": "及其丰盛"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:37.294282115Z",
-  "model": "glm-5.2"
+  ]
 }

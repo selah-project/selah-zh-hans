@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 80:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 421,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64300,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64721
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:02.588935215Z",
   "translation": "以罗欣啊，求祢使我们回转，使祢的脸面光照⟨我们⟩，我们就⟨将⟩蒙拯救！",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣 (神)"
+      "gloss": "以罗欣 (神)"
     },
     {
       "surface": "השיבנו",
-      "english": "求祢使我们回转"
+      "gloss": "求祢使我们回转"
     },
     {
       "surface": "והאר",
-      "english": "并使……光照"
+      "gloss": "并使……光照"
     },
     {
       "surface": "פניך",
-      "english": "祢的脸面"
+      "gloss": "祢的脸面"
     },
     {
       "surface": "ונושעה",
-      "english": "我们就蒙拯救"
+      "gloss": "我们就蒙拯救"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:02.588935215Z",
-  "model": "glm-5.2"
+  ]
 }

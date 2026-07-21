@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "ezra 8:32",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46344,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46575
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:41:01.055741356Z",
   "translation": "我们来到耶路撒冷,在那里停留了三天。",
   "tokens": [
     {
       "surface": "ונבוא",
-      "english": "我们来到"
+      "gloss": "我们来到"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "ונשב",
-      "english": "停留"
+      "gloss": "停留"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "gloss": "三"
     }
-  ],
-  "timestamp": "2026-07-18T01:41:01.055741356Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "lamentations 3:30",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33424,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33853
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:56.545158312Z",
   "translation": "他当将自己的脸颊交给击打他的人;他当在凌辱中⟨得以⟩饱足。",
   "tokens": [
     {
       "surface": "יתן",
-      "english": "他当交出"
+      "gloss": "他当交出"
     },
     {
       "surface": "למכהו",
-      "english": "给击打他的人"
+      "gloss": "给击打他的人"
     },
     {
       "surface": "לחי",
-      "english": "脸颊"
+      "gloss": "脸颊"
     },
     {
       "surface": "ישבע",
-      "english": "他当饱足"
+      "gloss": "他当饱足"
     },
     {
       "surface": "בחרפה",
-      "english": "在凌辱中"
+      "gloss": "在凌辱中"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:56.545158312Z",
-  "model": "glm-5.2"
+  ]
 }

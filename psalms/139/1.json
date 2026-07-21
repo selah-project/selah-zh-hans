@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 139:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64326,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64646
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:58.330684644Z",
   "translation": "给诗班长，大卫的诗。雅威啊，你已鉴察我，也认识⟨我⟩。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给诗班长"
+      "gloss": "给诗班长"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "מזמור",
-      "english": "诗"
+      "gloss": "诗"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "חקרתני",
-      "english": "你已鉴察我"
+      "gloss": "你已鉴察我"
     },
     {
       "surface": "ותדע",
-      "english": "也认识"
+      "gloss": "也认识"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:58.330684644Z",
-  "model": "glm-5.2"
+  ]
 }

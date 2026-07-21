@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "psalms 69:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 406,
-    "prompt_tokens": 64403,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64809
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:36:59.728397519Z",
   "translation": "坐在城门口的 ⟨那些⟩ 谈论我，喝浓酒的 ⟨那些⟩ 唱歌咏叹我。",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "谈论我"
+      "gloss": "谈论我"
     },
     {
       "surface": "בי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ישבי",
-      "english": "坐在城门口的 ⟨那些⟩"
+      "gloss": "坐在城门口的 ⟨那些⟩"
     },
     {
       "surface": "שער",
-      "english": "城门口"
+      "gloss": "城门口"
     },
     {
       "surface": "ונגינות",
-      "english": "唱歌咏叹我"
+      "gloss": "唱歌咏叹我"
     },
     {
       "surface": "שותי",
-      "english": "喝浓酒的 ⟨那些⟩"
+      "gloss": "喝浓酒的 ⟨那些⟩"
     },
     {
       "surface": "שכר",
-      "english": "浓酒"
+      "gloss": "浓酒"
     }
-  ],
-  "timestamp": "2026-07-21T02:36:59.728397519Z",
-  "model": "glm-4.5"
+  ]
 }

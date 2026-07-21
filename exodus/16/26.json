@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "exodus 16:26",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18570,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18941
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:20:55.612023694Z",
   "translation": "六日你⟨们⟩要拾取它，而第七日是安息日，在其中它必不⟨存⟩在。",
   "tokens": [
     {
       "surface": "ששת",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "תלקטהו",
-      "english": "你要拾取它"
+      "gloss": "你要拾取它"
     },
     {
       "surface": "וביום",
-      "english": "而在⟨第⟩日"
+      "gloss": "而在⟨第⟩日"
     },
     {
       "surface": "השביעי",
-      "english": "那第七"
+      "gloss": "那第七"
     },
     {
       "surface": "שבת",
-      "english": "是安息日"
+      "gloss": "是安息日"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יהיה",
-      "english": "它必⟨存⟩在"
+      "gloss": "它必⟨存⟩在"
     },
     {
       "surface": "בו",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-17T18:20:55.612023694Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 108:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64659,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65109
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:56.248282359Z",
   "translation": "基列⟨是⟩属我的，玛拿西⟨是⟩属我的；以法莲⟨是⟩我头上的力量，犹大⟨是⟩我的立法者。",
   "tokens": [
     {
       "surface": "לִ֤י",
-      "english": "属我的"
+      "gloss": "属我的"
     },
     {
       "surface": "גִלְעָ֨ד",
-      "english": "基列"
+      "gloss": "基列"
     },
     {
       "surface": "לִ֤י",
-      "english": "属我的"
+      "gloss": "属我的"
     },
     {
       "surface": "מְנַשֶּ֗ה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "וְ֭\/אֶפְרַיִם",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "מָע֣וֹז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "רֹאשִׁ֑\/י",
-      "english": "我头上的"
+      "gloss": "我头上的"
     },
     {
       "surface": "יְהוּדָ֗ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "מְחֹקְקִֽ\/י",
-      "english": "我的立法者"
+      "gloss": "我的立法者"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:56.248282359Z",
-  "model": "glm-5.2"
+  ]
 }

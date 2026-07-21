@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ecclesiastes 7:1",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18991,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19363
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:15.254357568Z",
   "translation": "好名声胜过好膏油,死亡之日胜过出生之日。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "משמן",
-      "english": "胜过膏油"
+      "gloss": "胜过膏油"
     },
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "ויום",
-      "english": "而……的日子"
+      "gloss": "而……的日子"
     },
     {
       "surface": "המות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "מיום",
-      "english": "胜过……的日子"
+      "gloss": "胜过……的日子"
     },
     {
       "surface": "הולדו",
-      "english": "他的出生"
+      "gloss": "他的出生"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:15.254357568Z",
-  "model": "glm-5.2"
+  ]
 }

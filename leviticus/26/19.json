@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "leviticus 26:19",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19584,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20105
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:36.669661030Z",
   "translation": "我必折断你们力量的骄傲；我必使⟨你们的⟩天如铁，⟨את⟩你们的地如铜。",
   "tokens": [
     {
       "surface": "ושברתי",
-      "english": "我必折断"
+      "gloss": "我必折断"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "骄傲"
     },
     {
       "surface": "גאון",
-      "english": "骄傲"
+      "gloss": "骄傲"
     },
     {
       "surface": "עזכם",
-      "english": "你们力量的"
+      "gloss": "你们力量的"
     },
     {
       "surface": "ונתתי",
-      "english": "我必使"
+      "gloss": "我必使"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的天"
     },
     {
       "surface": "שמיכם",
-      "english": "你们的天"
+      "gloss": "你们的天"
     },
     {
       "surface": "כברזל",
-      "english": "如铁"
+      "gloss": "如铁"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的地"
     },
     {
       "surface": "ארצכם",
-      "english": "你们的地"
+      "gloss": "你们的地"
     },
     {
       "surface": "כנחשה",
-      "english": "如铜"
+      "gloss": "如铜"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:36.669661030Z",
-  "model": "glm-5.2"
+  ]
 }

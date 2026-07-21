@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "2-chronicles 35:27",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59792,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60305
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:36:15.853858848Z",
   "translation": "至于他的*事*、首⟨和⟩尾、看哪、⟨它们⟩都写在论以色列和犹大诸王的卷上。",
   "tokens": [
     {
       "surface": "ודבריו",
-      "english": "至于他的*davar*（事）"
+      "gloss": "至于他的*davar*（事）"
     },
     {
       "surface": "הראשנים",
-      "english": "首"
+      "gloss": "首"
     },
     {
       "surface": "והאחרנים",
-      "english": "⟨和⟩尾"
+      "gloss": "⟨和⟩尾"
     },
     {
       "surface": "הנם",
-      "english": "看哪、⟨它们⟩"
+      "gloss": "看哪、⟨它们⟩"
     },
     {
       "surface": "כתובים",
-      "english": "都写在"
+      "gloss": "都写在"
     },
     {
       "surface": "על",
-      "english": "论"
+      "gloss": "论"
     },
     {
       "surface": "ספר",
-      "english": "……卷上"
+      "gloss": "……卷上"
     },
     {
       "surface": "מלכי",
-      "english": "诸王"
+      "gloss": "诸王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויהודה",
-      "english": "和犹大"
+      "gloss": "和犹大"
     }
-  ],
-  "timestamp": "2026-07-18T02:36:15.853858848Z",
-  "model": "glm-5.2"
+  ]
 }

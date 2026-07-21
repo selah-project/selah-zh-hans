@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "job 29:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21908,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22389
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:13.013246998Z",
   "translation": "我选择 ⟨他们的⟩ 道路,就坐为首;我安居如 ⟨一⟩ 王 ⟨在⟩ 军中,像安慰哀悼者 ⟨的⟩ 那位。",
   "tokens": [
     {
       "surface": "אבחר",
-      "english": "我选择"
+      "gloss": "我选择"
     },
     {
       "surface": "דרכם",
-      "english": "他们的道路"
+      "gloss": "他们的道路"
     },
     {
       "surface": "ואשב",
-      "english": "我就坐为首"
+      "gloss": "我就坐为首"
     },
     {
       "surface": "ראש",
-      "english": "为首"
+      "gloss": "为首"
     },
     {
       "surface": "ואשכון",
-      "english": "我安居"
+      "gloss": "我安居"
     },
     {
       "surface": "כמלך",
-      "english": "如王"
+      "gloss": "如王"
     },
     {
       "surface": "בגדוד",
-      "english": "在军中"
+      "gloss": "在军中"
     },
     {
       "surface": "כאשר",
-      "english": "像"
+      "gloss": "像"
     },
     {
       "surface": "אבלים",
-      "english": "哀悼者"
+      "gloss": "哀悼者"
     },
     {
       "surface": "ינחם",
-      "english": "他安慰"
+      "gloss": "他安慰"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:13.013246998Z",
-  "model": "glm-5.2"
+  ]
 }

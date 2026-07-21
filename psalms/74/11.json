@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 74:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 74,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64467,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64917
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:00.049894793Z",
   "translation": "为何你收回你的手,甚至你的右手?从你怀中拔出⟨它⟩,灭尽⟨他们⟩!",
   "tokens": [
     {
       "surface": "למה",
-      "english": "为何"
+      "gloss": "为何"
     },
     {
       "surface": "תשיב",
-      "english": "你收回"
+      "gloss": "你收回"
     },
     {
       "surface": "ידך",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "וימינך",
-      "english": "甚至你的右手"
+      "gloss": "甚至你的右手"
     },
     {
       "surface": "מקרב",
-      "english": "从……怀中"
+      "gloss": "从……怀中"
     },
     {
       "surface": "חוקך",
-      "english": "你的胸怀"
+      "gloss": "你的胸怀"
     },
     {
       "surface": "כלה",
-      "english": "灭尽"
+      "gloss": "灭尽"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:00.049894793Z",
-  "model": "glm-5.2"
+  ]
 }

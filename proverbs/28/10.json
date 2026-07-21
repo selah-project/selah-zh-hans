@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 28:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54742,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55134
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:46.420003440Z",
   "translation": "误导正直人走在恶道上的,必落入自己所挖的坑中;而完全人将承受善物。",
   "tokens": [
     {
       "surface": "משְׁגֶּה",
-      "english": "误导"
+      "gloss": "误导"
     },
     {
       "surface": "יְשָׁרִים",
-      "english": "正直人"
+      "gloss": "正直人"
     },
     {
       "surface": "בְּ\/דֶרֶךְ",
-      "english": "走在……道上"
+      "gloss": "走在……道上"
     },
     {
       "surface": "רָע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "בִּ\/שְׁחוּת\/וֹ",
-      "english": "⟨落入⟩他自己所挖的坑中"
+      "gloss": "⟨落入⟩他自己所挖的坑中"
     },
     {
       "surface": "הוּא",
-      "english": "⟨他自己⟩"
+      "gloss": "⟨他自己⟩"
     },
     {
       "surface": "יִפֹּל",
-      "english": "必落入"
+      "gloss": "必落入"
     },
     {
       "surface": "וּ\/תְמִימִים",
-      "english": "而完全人"
+      "gloss": "而完全人"
     },
     {
       "surface": "יִנְחֲלוּ",
-      "english": "将承受"
+      "gloss": "将承受"
     },
     {
       "surface": "טוֹב",
-      "english": "善物"
+      "gloss": "善物"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:46.420003440Z",
-  "model": "glm-5.2"
+  ]
 }

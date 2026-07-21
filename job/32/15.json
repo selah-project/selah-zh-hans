@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 32:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21525,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22031
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:00.180355975Z",
   "translation": "他们惊骇,不再回答;他们转移了话语⟨离开⟩他们。",
   "tokens": [
     {
       "surface": "חַ֭תּוּ",
-      "english": "他们惊骇"
+      "gloss": "他们惊骇"
     },
     {
       "surface": "לֹא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עָ֣נוּ",
-      "english": "回答了"
+      "gloss": "回答了"
     },
     {
       "surface": "ע֑וֹד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "הֶעְתִּ֖יקוּ",
-      "english": "他们转移了"
+      "gloss": "他们转移了"
     },
     {
       "surface": "מֵ\/הֶ֣ם",
-      "english": "⟨离开⟩他们"
+      "gloss": "⟨离开⟩他们"
     },
     {
       "surface": "מִלִּֽים",
-      "english": "话语"
+      "gloss": "话语"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:00.180355975Z",
-  "model": "glm-5.2"
+  ]
 }

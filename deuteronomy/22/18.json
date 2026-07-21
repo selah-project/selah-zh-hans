@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "deuteronomy 22:18",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19257,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19709
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:41:24.796650277Z",
   "translation": "那城的⟨הַ\/הִ֖וא⟩长老要带去⟨את⟩那男人，并管教他⟨את⟩。",
   "tokens": [
     {
       "surface": "וְ\/לָֽקְח֛וּ",
-      "english": "要带去"
+      "gloss": "要带去"
     },
     {
       "surface": "זִקְנֵ֥י",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "הָֽ\/עִיר",
-      "english": "那城的"
+      "gloss": "那城的"
     },
     {
       "surface": "הַ\/הִ֖וא",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那男人"
     },
     {
       "surface": "הָ\/אִ֑ישׁ",
-      "english": "那男人"
+      "gloss": "那男人"
     },
     {
       "surface": "וְ\/יִסְּר֖וּ",
-      "english": "并管教"
+      "gloss": "并管教"
     },
     {
       "surface": "אֹתֽ\/וֹ",
-      "english": "他⟨את⟩",
+      "gloss": "他⟨את⟩",
       "marks": "他"
     }
-  ],
-  "timestamp": "2026-07-17T19:41:24.796650277Z",
-  "model": "glm-5.2"
+  ]
 }

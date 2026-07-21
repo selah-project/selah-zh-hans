@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 109,
   "ref": "psalms 119:109",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64343,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64754
-  },
+  "verse": 109,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:04.815360147Z",
   "translation": "我的 nefesh 不断在我的手掌中,⟨然而⟩ 你的妥拉我没有遗忘。",
   "tokens": [
     {
       "surface": "נפשי",
-      "english": "我的 nefesh"
+      "gloss": "我的 nefesh"
     },
     {
       "surface": "בכפי",
-      "english": "在我的手掌中"
+      "gloss": "在我的手掌中"
     },
     {
       "surface": "תמיד",
-      "english": "不断"
+      "gloss": "不断"
     },
     {
       "surface": "ותורתך",
-      "english": "⟨然而⟩ 你的妥拉"
+      "gloss": "⟨然而⟩ 你的妥拉"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שכחתי",
-      "english": "我遗忘了"
+      "gloss": "我遗忘了"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:04.815360147Z",
-  "model": "glm-5.2"
+  ]
 }

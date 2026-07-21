@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "job 39:21",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21601,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21917
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:32.475748089Z",
   "translation": "他在谷中刨地,在力量中欢跃;他出去迎⟨את⟩兵器。",
   "tokens": [
     {
       "surface": "יחפרו",
-      "english": "刨地"
+      "gloss": "刨地"
     },
     {
       "surface": "בעמק",
-      "english": "在谷中"
+      "gloss": "在谷中"
     },
     {
       "surface": "וישיש",
-      "english": "在力量中欢跃"
+      "gloss": "在力量中欢跃"
     },
     {
       "surface": "בכח",
-      "english": "(重叠标记)"
+      "gloss": "(重叠标记)"
     },
     {
       "surface": "יצא",
-      "english": "他出去"
+      "gloss": "他出去"
     },
     {
       "surface": "לקראת",
-      "english": "迎"
+      "gloss": "迎"
     },
     {
       "surface": "נשק",
-      "english": "兵器"
+      "gloss": "兵器"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:32.475748089Z",
-  "model": "glm-5.2"
+  ]
 }

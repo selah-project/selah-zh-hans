@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "deuteronomy 15:1",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18838,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19157
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:37:21.524775155Z",
   "translation": "每七年的末尾，你要实行免债释放。",
   "tokens": [
     {
       "surface": "מִ\/קֵּ֥ץ",
-      "english": "⟨每⟩……的末尾"
+      "gloss": "⟨每⟩……的末尾"
     },
     {
       "surface": "שֶֽׁבַע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "שָׁנִ֖ים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "תַּעֲשֶׂ֥ה",
-      "english": "你要实行"
+      "gloss": "你要实行"
     },
     {
       "surface": "שְׁמִטָּֽה",
-      "english": "免债释放"
+      "gloss": "免债释放"
     }
-  ],
-  "timestamp": "2026-07-17T19:37:21.524775155Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "malachi 1:1",
   "book": "malachi",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 416,
-    "prompt_tokens": 18144,
-    "prompt_tokens_details": {
-      "cached_tokens": 17024
-    },
-    "total_tokens": 18560
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:30.269325488Z",
   "translation": "玛拉基手下的负担,雅威的话临到以色列 —— ⟨这⟩*davar* (话语\/事) 被称为负担。",
   "tokens": [
     {
       "surface": "משא",
-      "english": "负担"
+      "gloss": "负担"
     },
     {
       "surface": "דבר",
-      "english": "*davar* (话语\/事)"
+      "gloss": "*davar* (话语\/事)"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ביד",
-      "english": "手下"
+      "gloss": "手下"
     },
     {
       "surface": "מלאכי",
-      "english": "玛拉基"
+      "gloss": "玛拉基"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:30.269325488Z",
-  "model": "glm-4.5"
+  ]
 }

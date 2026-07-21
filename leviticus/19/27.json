@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "leviticus 19:27",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19237,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19672
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:53:21.982307582Z",
   "translation": "不可剃刮⟨你们⟩头的边缘，也不可毁坏⟨את⟩你胡须的边缘。",
   "tokens": [
     {
       "surface": "לֹ֣א",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תַקִּ֔פוּ",
-      "english": "剃刮"
+      "gloss": "剃刮"
     },
     {
       "surface": "פְּאַ֖ת",
-      "english": "边缘"
+      "gloss": "边缘"
     },
     {
       "surface": "רֹאשְׁ\/כֶ֑ם",
-      "english": "⟨你们⟩头"
+      "gloss": "⟨你们⟩头"
     },
     {
       "surface": "וְ\/לֹ֣א",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "תַשְׁחִ֔ית",
-      "english": "毁坏"
+      "gloss": "毁坏"
     },
     {
       "surface": "אֵ֖ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "边缘"
     },
     {
       "surface": "פְּאַ֥ת",
-      "english": "边缘"
+      "gloss": "边缘"
     },
     {
       "surface": "זְקָנֶֽ\/ךָ",
-      "english": "你胡须"
+      "gloss": "你胡须"
     }
-  ],
-  "timestamp": "2026-07-17T18:53:21.982307582Z",
-  "model": "glm-5.2"
+  ]
 }

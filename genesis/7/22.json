@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 7:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23165,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23674
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:37:10.349858680Z",
   "translation": "凡鼻孔里有生命之气息的,就是旱地上的一切,都死了。",
   "tokens": [
     {
       "surface": "כֹּל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "נִשְׁמַת",
-      "english": "气息"
+      "gloss": "气息"
     },
     {
       "surface": "רוּחַ",
-      "english": "气"
+      "gloss": "气"
     },
     {
       "surface": "חַיִּים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "בְּ\/אַפָּי\/ו",
-      "english": "在牠的鼻孔里"
+      "gloss": "在牠的鼻孔里"
     },
     {
       "surface": "מִ\/כֹּל",
-      "english": "一切之中"
+      "gloss": "一切之中"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בֶּ\/חָרָבָה",
-      "english": "在旱地上"
+      "gloss": "在旱地上"
     },
     {
       "surface": "מֵתוּ",
-      "english": "都死了"
+      "gloss": "都死了"
     }
-  ],
-  "timestamp": "2026-07-17T17:37:10.349858680Z",
-  "model": "glm-5.2"
+  ]
 }

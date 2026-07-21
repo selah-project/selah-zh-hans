@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "proverbs 14:21",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54303,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54617
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:34.433138678Z",
   "translation": "藐视他邻舍的,⟨是⟩犯罪之人;但恩待穷乏人的,⟨是⟩有福之人。",
   "tokens": [
     {
       "surface": "בז",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "לרעהו",
-      "english": "他邻舍的"
+      "gloss": "他邻舍的"
     },
     {
       "surface": "חוטא",
-      "english": "犯罪之人"
+      "gloss": "犯罪之人"
     },
     {
       "surface": "ומחונן",
-      "english": "但恩待"
+      "gloss": "但恩待"
     },
     {
       "surface": "עניים",
-      "english": "穷乏人的"
+      "gloss": "穷乏人的"
     },
     {
       "surface": "אשריו",
-      "english": "⟨是⟩有福之人"
+      "gloss": "⟨是⟩有福之人"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:34.433138678Z",
-  "model": "glm-5.2"
+  ]
 }

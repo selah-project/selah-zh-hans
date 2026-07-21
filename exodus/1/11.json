@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "exodus 1:11",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19400,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20016
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:59.544411350Z",
   "translation": "于是⟨他们⟩在他之上设立了苦役长官,为要用重担压榨他;他便为法老建造了储货城 ⟨את⟩ 比东和 ⟨את⟩ 兰塞。",
   "tokens": [
     {
       "surface": "וישימו",
-      "english": "于是⟨他们⟩设立"
+      "gloss": "于是⟨他们⟩设立"
     },
     {
       "surface": "עליו",
-      "english": "在他之上"
+      "gloss": "在他之上"
     },
     {
       "surface": "שרי",
-      "english": "长官"
+      "gloss": "长官"
     },
     {
       "surface": "מסים",
-      "english": "苦役"
+      "gloss": "苦役"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "ענתו",
-      "english": "压榨他"
+      "gloss": "压榨他"
     },
     {
       "surface": "בסבלתם",
-      "english": "用重担"
+      "gloss": "用重担"
     },
     {
       "surface": "ויבן",
-      "english": "他便建造"
+      "gloss": "他便建造"
     },
     {
       "surface": "ערי",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "מסכנות",
-      "english": "储货"
+      "gloss": "储货"
     },
     {
       "surface": "לפרעה",
-      "english": "为法老"
+      "gloss": "为法老"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "比东"
     },
     {
       "surface": "פתם",
-      "english": "比东"
+      "gloss": "比东"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "兰塞"
     },
     {
       "surface": "רעמסס",
-      "english": "兰塞"
+      "gloss": "兰塞"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:59.544411350Z",
-  "model": "glm-5.2"
+  ]
 }

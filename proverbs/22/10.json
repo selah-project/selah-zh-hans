@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 22:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 330,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54372,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54702
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:49.840750468Z",
   "translation": "赶出嘲讽者，纷争就⟨会⟩出去；纷争与羞辱就⟨会⟩止息。",
   "tokens": [
     {
       "surface": "גרש",
-      "english": "赶出"
+      "gloss": "赶出"
     },
     {
       "surface": "לץ",
-      "english": "嘲讽者"
+      "gloss": "嘲讽者"
     },
     {
       "surface": "ויצא",
-      "english": "纷争就⟨会⟩出去"
+      "gloss": "纷争就⟨会⟩出去"
     },
     {
       "surface": "מדון",
-      "english": "纷争"
+      "gloss": "纷争"
     },
     {
       "surface": "וישבת",
-      "english": "就⟨会⟩止息"
+      "gloss": "就⟨会⟩止息"
     },
     {
       "surface": "דין",
-      "english": "纷争"
+      "gloss": "纷争"
     },
     {
       "surface": "וקלון",
-      "english": "与羞辱"
+      "gloss": "与羞辱"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:49.840750468Z",
-  "model": "glm-5.2"
+  ]
 }

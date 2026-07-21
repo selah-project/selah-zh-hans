@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 11,
   "ref": "daniel 8:11",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 589,
-    "prompt_tokens": 18988,
-    "prompt_tokens_details": {
-      "cached_tokens": 17536
-    },
-    "total_tokens": 19577
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:34.486226223Z",
   "translation": "以至于军队的首领 ⟨它⟩ 被高举，并且从 ⟨他⟩ ⟨那里⟩ 常献的 ⟨祭⟩ 被除去，并且祂的圣所的据点被抛弃。",
   "tokens": [
     {
       "surface": "ועד",
-      "english": "以至于"
+      "gloss": "以至于"
     },
     {
       "surface": "שר",
-      "english": "首领"
+      "gloss": "首领"
     },
     {
       "surface": "הצבא",
-      "english": "军队的"
+      "gloss": "军队的"
     },
     {
       "surface": "הגדיל",
-      "english": "⟨它⟩ 被高举"
+      "gloss": "⟨它⟩ 被高举"
     },
     {
       "surface": "וממנו",
-      "english": "并且从 ⟨他⟩ ⟨那里⟩"
+      "gloss": "并且从 ⟨他⟩ ⟨那里⟩"
     },
     {
       "surface": "הרים",
-      "english": "被除去"
+      "gloss": "被除去"
     },
     {
       "surface": "התמיד",
-      "english": "常献的 ⟨祭⟩"
+      "gloss": "常献的 ⟨祭⟩"
     },
     {
       "surface": "והשלך",
-      "english": "并且被抛弃"
+      "gloss": "并且被抛弃"
     },
     {
       "surface": "מכון",
-      "english": "据点"
+      "gloss": "据点"
     },
     {
       "surface": "מקדשו",
-      "english": "祂的圣所的"
+      "gloss": "祂的圣所的"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:34.486226223Z",
-  "model": "glm-4.5"
+  ]
 }

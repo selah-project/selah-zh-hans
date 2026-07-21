@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 38:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22958,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23310
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:10.578609357Z",
   "translation": "她又怀了孕，生了一个儿子，就给⟨他⟩起⟨את⟩名叫俄南。",
   "tokens": [
     {
       "surface": "וַ\/תַּ֥הַר",
-      "english": "她又怀了孕"
+      "gloss": "她又怀了孕"
     },
     {
       "surface": "ע֖וֹד",
-      "english": "又"
+      "gloss": "又"
     },
     {
       "surface": "וַ\/תֵּ֣לֶד",
-      "english": "生了一个儿子"
+      "gloss": "生了一个儿子"
     },
     {
       "surface": "בֵּ֑ן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "וַ\/תִּקְרָ֥א",
-      "english": "她就给⟨他⟩起"
+      "gloss": "她就给⟨他⟩起"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的名字"
     },
     {
       "surface": "שְׁמ֖\/וֹ",
-      "english": "名叫"
+      "gloss": "名叫"
     },
     {
       "surface": "אוֹנָֽן",
-      "english": "俄南"
+      "gloss": "俄南"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:10.578609357Z",
-  "model": "glm-5.2"
+  ]
 }

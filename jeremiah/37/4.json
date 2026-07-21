@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "jeremiah 37:4",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 598,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19254,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19852
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:29:36.504973887Z",
   "translation": "至于耶利米,他 ⟨还⟩ 来 ⟨去⟩ 进出在百姓中间,而他们还没有把 ⟨他⟩ ⟨את⟩ 交给监牢。",
   "tokens": [
     {
       "surface": "וְ\/יִרְמְיָ֕הוּ",
-      "english": "至于耶利米"
+      "gloss": "至于耶利米"
     },
     {
       "surface": "בָּ֥א",
-      "english": "⟨还⟩ 来"
+      "gloss": "⟨还⟩ 来"
     },
     {
       "surface": "וְ\/יֹצֵ֖א",
-      "english": "⟨去⟩"
+      "gloss": "⟨去⟩"
     },
     {
       "surface": "בְּ\/ת֣וֹךְ",
-      "english": "进出在……中间"
+      "gloss": "进出在……中间"
     },
     {
       "surface": "הָ\/עָ֑ם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "english": "而还没有"
+      "gloss": "而还没有"
     },
     {
       "surface": "נָתְנ֥וּ",
-      "english": "他们把……交给"
+      "gloss": "他们把……交给"
     },
     {
       "surface": "אֹת֖\/וֹ",
-      "english": "⟨את⟩ 他",
+      "gloss": "⟨את⟩ 他",
       "marks": "监牢"
     },
     {
       "surface": "בֵּ֥ית",
-      "english": "之屋"
+      "gloss": "之屋"
     },
     {
       "surface": "ה\/כליא",
-      "english": "监禁"
+      "gloss": "监禁"
     }
-  ],
-  "timestamp": "2026-07-17T22:29:36.504973887Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 89:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64345,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:59.524850483Z",
   "translation": "若他们亵渎我的律例，不守我的诫命——",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "חקתי",
-      "english": "我的律例"
+      "gloss": "我的律例"
     },
     {
       "surface": "יחללו",
-      "english": "他们亵渎"
+      "gloss": "他们亵渎"
     },
     {
       "surface": "ומצותי",
-      "english": "而我的诫命"
+      "gloss": "而我的诫命"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישמרו",
-      "english": "他们守"
+      "gloss": "他们守"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:59.524850483Z",
-  "model": "glm-5.2"
+  ]
 }

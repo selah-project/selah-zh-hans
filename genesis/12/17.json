@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 12:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23528,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24022
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:05.300929410Z",
   "translation": "雅威以大灾病击打法老 ⟨את⟩ 法老和 ⟨את⟩ 他的家,因撒莱——亚伯兰之妻的缘故。",
   "tokens": [
     {
       "surface": "וינגע",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法老"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "נגעים",
-      "english": "灾病"
+      "gloss": "灾病"
     },
     {
       "surface": "גדלים",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他的家"
     },
     {
       "surface": "ביתו",
-      "english": "他的家"
+      "gloss": "他的家"
     },
     {
       "surface": "על",
-      "english": "因……的缘故"
+      "gloss": "因……的缘故"
     },
     {
       "surface": "דבר",
-      "english": "事"
+      "gloss": "事"
     },
     {
       "surface": "שרי",
-      "english": "撒莱"
+      "gloss": "撒莱"
     },
     {
       "surface": "אשת",
-      "english": "……之妻"
+      "gloss": "……之妻"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:05.300929410Z",
-  "model": "glm-5.2"
+  ]
 }

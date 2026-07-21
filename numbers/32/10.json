@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 32:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19456,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19794
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:23:21.596923238Z",
   "translation": "雅威的怒气在那日发作,⟨他⟩便起誓,说:",
   "tokens": [
     {
       "surface": "ויחר",
-      "english": "发作"
+      "gloss": "发作"
     },
     {
       "surface": "אף",
-      "english": "雅威的怒气"
+      "gloss": "雅威的怒气"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ביום",
-      "english": "在那日"
+      "gloss": "在那日"
     },
     {
       "surface": "ההוא",
-      "english": "那(日)"
+      "gloss": "那(日)"
     },
     {
       "surface": "וישבע",
-      "english": "⟨他⟩便起誓"
+      "gloss": "⟨他⟩便起誓"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T19:23:21.596923238Z",
-  "model": "glm-5.2"
+  ]
 }

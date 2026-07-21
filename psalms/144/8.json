@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 144:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64463,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:34.475454948Z",
   "translation": "他们的口说话语虚空,他们的右手是欺骗的右手。",
   "tokens": [
     {
       "surface": "אשר",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "פיהם",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "דבר",
-      "english": "说了"
+      "gloss": "说了"
     },
     {
       "surface": "שוא",
-      "english": "虚空"
+      "gloss": "虚空"
     },
     {
       "surface": "ושמינם",
-      "english": "而他们的右手"
+      "gloss": "而他们的右手"
     },
     {
       "surface": "ימין",
-      "english": "右手"
+      "gloss": "右手"
     },
     {
       "surface": "שקר",
-      "english": "欺骗"
+      "gloss": "欺骗"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:34.475454948Z",
-  "model": "glm-5.2"
+  ]
 }

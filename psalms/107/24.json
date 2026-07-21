@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 107:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64316,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64649
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:15.731121329Z",
   "translation": "他们看见了雅威的作为,⟨并⟩他的奇事在深渊之中。",
   "tokens": [
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ראו",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "מעשי",
-      "english": "的作为"
+      "gloss": "的作为"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ונפלאותיו",
-      "english": "⟨并⟩他的奇事"
+      "gloss": "⟨并⟩他的奇事"
     },
     {
       "surface": "במצולה",
-      "english": "在深渊之中"
+      "gloss": "在深渊之中"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:15.731121329Z",
-  "model": "glm-5.2"
+  ]
 }

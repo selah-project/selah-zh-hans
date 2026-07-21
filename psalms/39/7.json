@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 39:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64894,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65403
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:37.473426032Z",
   "translation": "诚然,人不过如影像行走;诚然,他们不过是虚妄而喧嚷⟨;⟩他堆积财富,却不知道是谁收聚它们。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "בצלם",
-      "english": "如影像"
+      "gloss": "如影像"
     },
     {
       "surface": "יתהלך",
-      "english": "行走"
+      "gloss": "行走"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "הבל",
-      "english": "虚妄"
+      "gloss": "虚妄"
     },
     {
       "surface": "יהמיון",
-      "english": "而喧嚷"
+      "gloss": "而喧嚷"
     },
     {
       "surface": "יצבר",
-      "english": "他堆积"
+      "gloss": "他堆积"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "מי",
-      "english": "是谁"
+      "gloss": "是谁"
     },
     {
       "surface": "אספם",
-      "english": "收聚它们"
+      "gloss": "收聚它们"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:37.473426032Z",
-  "model": "glm-5.2"
+  ]
 }

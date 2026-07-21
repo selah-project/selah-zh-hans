@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 14:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 579,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23710,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24289
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:52.770963680Z",
   "translation": "他追回⟨את⟩所有的财物,也带回⟨את⟩罗得——⟨他⟩的兄弟,以及⟨他⟩的财物,他夺回;也⟨带回⟩⟨את⟩⟨那些⟩妇女和⟨את⟩⟨那⟩百姓。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "他追回"
+      "gloss": "他追回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有的财物"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "הרכש",
-      "english": "财物"
+      "gloss": "财物"
     },
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "罗得"
     },
     {
       "surface": "לוט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "אחיו",
-      "english": "⟨他⟩的兄弟"
+      "gloss": "⟨他⟩的兄弟"
     },
     {
       "surface": "ורכשו",
-      "english": "以及⟨他⟩的财物"
+      "gloss": "以及⟨他⟩的财物"
     },
     {
       "surface": "השיב",
-      "english": "他夺回"
+      "gloss": "他夺回"
     },
     {
       "surface": "וגם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那些⟩妇女"
     },
     {
       "surface": "הנשים",
-      "english": "⟨那些⟩妇女"
+      "gloss": "⟨那些⟩妇女"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "⟨那⟩百姓"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:52.770963680Z",
-  "model": "glm-5.2"
+  ]
 }

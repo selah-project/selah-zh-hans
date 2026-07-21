@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 43:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64819,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65287
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:58.875763407Z",
   "translation": "以罗欣啊，求你为我伸冤，⟨求你⟩为我辩论我的争讼——⟨⟨去⟩⟩对抗不敬虔的国民，⟨⟨去⟩⟩对抗欺诈与不义的人；你⟨要⟩救援我。",
   "tokens": [
     {
       "surface": "שפטני",
-      "english": "求你为我伸冤"
+      "gloss": "求你为我伸冤"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "וריבה",
-      "english": "⟨求你⟩辩论"
+      "gloss": "⟨求你⟩辩论"
     },
     {
       "surface": "ריבי",
-      "english": "我的争讼"
+      "gloss": "我的争讼"
     },
     {
       "surface": "מגוי",
-      "english": "对抗⟨某⟩国民"
+      "gloss": "对抗⟨某⟩国民"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "חסיד",
-      "english": "敬虔的"
+      "gloss": "敬虔的"
     },
     {
       "surface": "מאיש",
-      "english": "对抗⟨某⟩人"
+      "gloss": "对抗⟨某⟩人"
     },
     {
       "surface": "מרמה",
-      "english": "欺诈"
+      "gloss": "欺诈"
     },
     {
       "surface": "ועולה",
-      "english": "与不义"
+      "gloss": "与不义"
     },
     {
       "surface": "תפלטני",
-      "english": "你救援我"
+      "gloss": "你救援我"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:58.875763407Z",
-  "model": "glm-5.2"
+  ]
 }

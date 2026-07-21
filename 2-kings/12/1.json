@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-kings 12:1",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 302,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18204,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 18506
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:25:12.982905795Z",
   "translation": "七岁 ⟨的⟩ 约阿施 ⟨开始⟩ 作王。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "⟨年⟩"
+      "gloss": "⟨年⟩"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "שנים",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "יהואש",
-      "english": "约阿施"
+      "gloss": "约阿施"
     },
     {
       "surface": "במלכו",
-      "english": "⟨开始⟩ 作王"
+      "gloss": "⟨开始⟩ 作王"
     }
-  ],
-  "timestamp": "2026-07-17T21:25:12.982905795Z",
-  "model": "glm-5.2"
+  ]
 }

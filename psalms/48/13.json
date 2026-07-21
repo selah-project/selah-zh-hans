@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 48:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 303,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64355,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64658
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:44.200201864Z",
   "translation": "环绕锡安，绕行她，数点她的塔楼。",
   "tokens": [
     {
       "surface": "סבו",
-      "english": "环绕"
+      "gloss": "环绕"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "והקיפוה",
-      "english": "绕行她"
+      "gloss": "绕行她"
     },
     {
       "surface": "ספרו",
-      "english": "数点"
+      "gloss": "数点"
     },
     {
       "surface": "מגדליה",
-      "english": "她的塔楼"
+      "gloss": "她的塔楼"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:44.200201864Z",
-  "model": "glm-5.2"
+  ]
 }

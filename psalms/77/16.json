@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 77:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64472,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64908
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:59.849640424Z",
   "translation": "你以膀臂赎了⟨את⟩你的百姓，雅各的众子和约瑟的子孙。细拉。",
   "tokens": [
     {
       "surface": "גאלת",
-      "english": "你赎了"
+      "gloss": "你赎了"
     },
     {
       "surface": "בזרוע",
-      "english": "以膀臂"
+      "gloss": "以膀臂"
     },
     {
       "surface": "עמך",
-      "english": "你的百姓"
+      "gloss": "你的百姓"
     },
     {
       "surface": "בני",
-      "english": "的众子"
+      "gloss": "的众子"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "ויוסף",
-      "english": "和约瑟"
+      "gloss": "和约瑟"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:59.849640424Z",
-  "model": "glm-5.2"
+  ]
 }

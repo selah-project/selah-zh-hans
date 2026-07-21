@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 36,
   "ref": "genesis 37:36",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23248,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23806
-  },
+  "verse": 36,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:59:03.655937138Z",
   "translation": "米甸人将⟨他⟩卖⟨到⟩埃及，给法老的内臣——波提乏，就是护卫长。",
   "tokens": [
     {
       "surface": "והמדנים",
-      "english": "米甸人"
+      "gloss": "米甸人"
     },
     {
       "surface": "מכרו",
-      "english": "卖了"
+      "gloss": "卖了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩他",
+      "gloss": "⟨את⟩他",
       "marks": "他"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "לפוטיפר",
-      "english": "给波提乏"
+      "gloss": "给波提乏"
     },
     {
       "surface": "סריס",
-      "english": "内臣"
+      "gloss": "内臣"
     },
     {
       "surface": "פרעה",
-      "english": "法老的"
+      "gloss": "法老的"
     },
     {
       "surface": "שר",
-      "english": "长"
+      "gloss": "长"
     },
     {
       "surface": "הטבחים",
-      "english": "护卫"
+      "gloss": "护卫"
     }
-  ],
-  "timestamp": "2026-07-17T17:59:03.655937138Z",
-  "model": "glm-5.2"
+  ]
 }

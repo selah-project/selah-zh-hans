@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 21:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64531,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64912
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:53.139729181Z",
   "translation": "因为王倚靠雅威，借着至高者的חֶ֥סֶד（*chesed*），⟨他⟩必不摇动。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "המלך",
-      "english": "⟨这⟩王"
+      "gloss": "⟨这⟩王"
     },
     {
       "surface": "בטח",
-      "english": "倚靠"
+      "gloss": "倚靠"
     },
     {
       "surface": "ביהוה",
-      "english": "在雅威"
+      "gloss": "在雅威"
     },
     {
       "surface": "ובחסד",
-      "english": "借着חֶ֥סֶד（*chesed*；坚固的爱）"
+      "gloss": "借着חֶ֥סֶד（*chesed*；坚固的爱）"
     },
     {
       "surface": "עליון",
-      "english": "至高者的"
+      "gloss": "至高者的"
     },
     {
       "surface": "בל",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "ימוט",
-      "english": "⟨他⟩摇动"
+      "gloss": "⟨他⟩摇动"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:53.139729181Z",
-  "model": "glm-5.2"
+  ]
 }

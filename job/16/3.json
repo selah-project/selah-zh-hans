@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 16:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21681,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22185
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:08.782016625Z",
   "translation": "风中言辞有尽头吗？或是什么⟨事物⟩刺激着你，使你⟨还⟩要回答？",
   "tokens": [
     {
       "surface": "הֲ\/קֵץ",
-      "english": "有尽头吗"
+      "gloss": "有尽头吗"
     },
     {
       "surface": "לְ\/דִבְרֵי",
-      "english": "言辞"
+      "gloss": "言辞"
     },
     {
       "surface": "רוּחַ",
-      "english": "风"
+      "gloss": "风"
     },
     {
       "surface": "אוֹ",
-      "english": "或者"
+      "gloss": "或者"
     },
     {
       "surface": "מָה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "יַמְרִיצְ\/ךָ",
-      "english": "刺激着你"
+      "gloss": "刺激着你"
     },
     {
       "surface": "כִּי",
-      "english": "使你"
+      "gloss": "使你"
     },
     {
       "surface": "תַעֲנֶה",
-      "english": "要回答"
+      "gloss": "要回答"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:08.782016625Z",
-  "model": "glm-5.2"
+  ]
 }

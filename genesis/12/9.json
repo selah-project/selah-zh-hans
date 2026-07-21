@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "genesis 12:9",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22627,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22959
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:52.682109869Z",
   "translation": "亚伯兰起行,不断前行,⟨向⟩南地去。",
   "tokens": [
     {
       "surface": "ויסע",
-      "english": "起行"
+      "gloss": "起行"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "הלוך",
-      "english": "不断前行"
+      "gloss": "不断前行"
     },
     {
       "surface": "ונסוע",
-      "english": "继续行进"
+      "gloss": "继续行进"
     },
     {
       "surface": "הנגבה",
-      "english": "⟨向⟩南地"
+      "gloss": "⟨向⟩南地"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:52.682109869Z",
-  "model": "glm-5.2"
+  ]
 }

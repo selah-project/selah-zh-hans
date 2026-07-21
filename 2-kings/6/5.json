@@ -1,85 +1,74 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "2-kings 6:5",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 731,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19108,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19839
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:20:59.027070944Z",
   "translation": "事就如此:⟨那⟩一人正在砍伐 ⟨那⟩梁木,⟨את⟩⟨那⟩铁斧头掉进了 ⟨那⟩水中,他就呼喊并说:⟨切呼⟩哀哉!阿多奈 (我主)啊!而它是借来的。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事就如此"
+      "gloss": "事就如此"
     },
     {
       "surface": "האחד",
-      "english": "⟨那⟩一人"
+      "gloss": "⟨那⟩一人"
     },
     {
       "surface": "מפיל",
-      "english": "正在使……落下 (砍伐)"
+      "gloss": "正在使……落下 (砍伐)"
     },
     {
       "surface": "הקורה",
-      "english": "⟨那⟩梁木"
+      "gloss": "⟨那⟩梁木"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩铁"
     },
     {
       "surface": "הברזל",
-      "english": "⟨那⟩铁斧头"
+      "gloss": "⟨那⟩铁斧头"
     },
     {
       "surface": "נפל",
-      "english": "掉进了"
+      "gloss": "掉进了"
     },
     {
       "surface": "אל",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "המים",
-      "english": "⟨那⟩水中"
+      "gloss": "⟨那⟩水中"
     },
     {
       "surface": "ויצעק",
-      "english": "他就呼喊"
+      "gloss": "他就呼喊"
     },
     {
       "surface": "ויאמר",
-      "english": "并说"
+      "gloss": "并说"
     },
     {
       "surface": "אהה",
-      "english": "⟨切呼⟩哀哉"
+      "gloss": "⟨切呼⟩哀哉"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈 (我主)"
+      "gloss": "阿多奈 (我主)"
     },
     {
       "surface": "והוא",
-      "english": "而它"
+      "gloss": "而它"
     },
     {
       "surface": "שאול",
-      "english": "是借来的"
+      "gloss": "是借来的"
     }
-  ],
-  "timestamp": "2026-07-17T21:20:59.027070944Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 31:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20008,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20437
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:22:23.304291067Z",
   "translation": "他们列阵攻打米甸,正如雅威所吩咐⟨את⟩摩西的;他们杀了所有男性。",
   "tokens": [
     {
       "surface": "ויצבאו",
-      "english": "他们列阵攻打"
+      "gloss": "他们列阵攻打"
     },
     {
       "surface": "על",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "מדין",
-      "english": "米甸"
+      "gloss": "米甸"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "צוה",
-      "english": "所吩咐"
+      "gloss": "所吩咐"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩西"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ויהרגו",
-      "english": "他们杀了"
+      "gloss": "他们杀了"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "זכר",
-      "english": "男性"
+      "gloss": "男性"
     }
-  ],
-  "timestamp": "2026-07-17T19:22:23.304291067Z",
-  "model": "glm-5.2"
+  ]
 }

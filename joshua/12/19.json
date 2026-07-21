@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "joshua 12:19",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 255,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17623,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17878
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:55.588794843Z",
   "translation": "玛顿的王，一个；夏琐的王，一个。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מדון",
-      "english": "玛顿"
+      "gloss": "玛顿"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "חצור",
-      "english": "夏琐"
+      "gloss": "夏琐"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:55.588794843Z",
-  "model": "glm-5.2"
+  ]
 }

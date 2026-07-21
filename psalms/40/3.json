@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 40:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64847,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65373
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:55.654147344Z",
   "translation": "⟨他⟩将我从喧闹的坑中、从泥泞中拉上来；⟨他⟩将我的双脚立在磐石上，确立了我的步伐。",
   "tokens": [
     {
       "surface": "ויעלני",
-      "english": "⟨他⟩将我拉上来"
+      "gloss": "⟨他⟩将我拉上来"
     },
     {
       "surface": "מבור",
-      "english": "从坑中"
+      "gloss": "从坑中"
     },
     {
       "surface": "שאון",
-      "english": "喧闹的"
+      "gloss": "喧闹的"
     },
     {
       "surface": "מטיט",
-      "english": "从泥泞中"
+      "gloss": "从泥泞中"
     },
     {
       "surface": "היון",
-      "english": "泥泞"
+      "gloss": "泥泞"
     },
     {
       "surface": "ויקם",
-      "english": "⟨他⟩立"
+      "gloss": "⟨他⟩立"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "סלע",
-      "english": "磐石"
+      "gloss": "磐石"
     },
     {
       "surface": "רגלי",
-      "english": "我的双脚"
+      "gloss": "我的双脚"
     },
     {
       "surface": "כונן",
-      "english": "确立了"
+      "gloss": "确立了"
     },
     {
       "surface": "אשרי",
-      "english": "我的步伐"
+      "gloss": "我的步伐"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:55.654147344Z",
-  "model": "glm-5.2"
+  ]
 }

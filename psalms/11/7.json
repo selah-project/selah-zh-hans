@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 11:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64533,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64936
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:32.229785744Z",
   "translation": "因为雅威 ⟨是⟩ 公义的,他爱公义;正直的人 ⟨必⟩ 见他的面。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "צדיק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צדקות",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "אהב",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "ישר",
-      "english": "正直的人"
+      "gloss": "正直的人"
     },
     {
       "surface": "יחזו",
-      "english": "见"
+      "gloss": "见"
     },
     {
       "surface": "פנימו",
-      "english": "他的面"
+      "gloss": "他的面"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:32.229785744Z",
-  "model": "glm-5.2"
+  ]
 }

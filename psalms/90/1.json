@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 90:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 90,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64701,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65260
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:43.126254344Z",
   "translation": "祈祷，属摩西，以罗欣的人：阿多奈，居所⟨是⟩你，你向来属于我们，世世代代。",
   "tokens": [
     {
       "surface": "תפלה",
-      "english": "祈祷"
+      "gloss": "祈祷"
     },
     {
       "surface": "למשה",
-      "english": "属摩西"
+      "gloss": "属摩西"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "מעון",
-      "english": "居所"
+      "gloss": "居所"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "היית",
-      "english": "你向来是"
+      "gloss": "你向来是"
     },
     {
       "surface": "לנו",
-      "english": "属于我们"
+      "gloss": "属于我们"
     },
     {
       "surface": "בדר",
-      "english": "在世代"
+      "gloss": "在世代"
     },
     {
       "surface": "ודר",
-      "english": "又世代"
+      "gloss": "又世代"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:43.126254344Z",
-  "model": "glm-5.2"
+  ]
 }

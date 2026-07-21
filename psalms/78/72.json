@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 72,
   "ref": "psalms 78:72",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64340,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64701
-  },
+  "verse": 72,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:19.282336173Z",
   "translation": "他牧放他们,按他内心的完全,凭他双手的技巧引导他们。",
   "tokens": [
     {
       "surface": "וירעם",
-      "english": "他牧放他们"
+      "gloss": "他牧放他们"
     },
     {
       "surface": "כתם",
-      "english": "按⟨……⟩完全"
+      "gloss": "按⟨……⟩完全"
     },
     {
       "surface": "לבבו",
-      "english": "他内心的"
+      "gloss": "他内心的"
     },
     {
       "surface": "ובתבונות",
-      "english": "凭⟨……⟩技巧"
+      "gloss": "凭⟨……⟩技巧"
     },
     {
       "surface": "כפיו",
-      "english": "他双手的"
+      "gloss": "他双手的"
     },
     {
       "surface": "ינחם",
-      "english": "引导他们"
+      "gloss": "引导他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:19.282336173Z",
-  "model": "glm-5.2"
+  ]
 }

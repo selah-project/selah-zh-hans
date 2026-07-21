@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 18:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23083,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23551
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:43:05.308703482Z",
   "translation": "亚伯拉罕和撒拉 ⟨是⟩ 年老的了，⟨他们⟩ 进入了 ⟨人生的⟩ 日子；撒拉 ⟨身上⟩ 停止了 ⟨再有⟩ 妇女的 ⟨那样的事⟩。",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "ושרה",
-      "english": "和撒拉"
+      "gloss": "和撒拉"
     },
     {
       "surface": "זקנים",
-      "english": "年老的了"
+      "gloss": "年老的了"
     },
     {
       "surface": "באים",
-      "english": "进入了"
+      "gloss": "进入了"
     },
     {
       "surface": "בימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "חדל",
-      "english": "停止了"
+      "gloss": "停止了"
     },
     {
       "surface": "להיות",
-      "english": "⟨再有⟩"
+      "gloss": "⟨再有⟩"
     },
     {
       "surface": "לשרה",
-      "english": "撒拉 ⟨身上⟩"
+      "gloss": "撒拉 ⟨身上⟩"
     },
     {
       "surface": "ארח",
-      "english": "⟨那样的事⟩ (常规)"
+      "gloss": "⟨那样的事⟩ (常规)"
     },
     {
       "surface": "כנשים",
-      "english": "如妇女的"
+      "gloss": "如妇女的"
     }
-  ],
-  "timestamp": "2026-07-17T17:43:05.308703482Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "genesis 19:23",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22737,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23063
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:43:52.271759118Z",
   "translation": "太阳出来⟨在⟩地上,罗得进了琐珥。",
   "tokens": [
     {
       "surface": "הַ\/שֶּׁ֖מֶשׁ",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "יָצָ֣א",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "עַל",
-      "english": "⟨在⟩"
+      "gloss": "⟨在⟩"
     },
     {
       "surface": "הָ\/אָ֑רֶץ",
-      "english": "地上"
+      "gloss": "地上"
     },
     {
       "surface": "וְ\/ל֖וֹט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "בָּ֥א",
-      "english": "进了"
+      "gloss": "进了"
     },
     {
       "surface": "צֹֽעֲרָ\/ה",
-      "english": "琐珥"
+      "gloss": "琐珥"
     }
-  ],
-  "timestamp": "2026-07-17T17:43:52.271759118Z",
-  "model": "glm-5.2"
+  ]
 }

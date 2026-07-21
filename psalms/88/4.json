@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 88:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 88,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64475,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64826
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:17.735529619Z",
   "translation": "因为我的生命被灾难充满,我的年日已触及阴间。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שבעה",
-      "english": "⟨被⟩充满"
+      "gloss": "⟨被⟩充满"
     },
     {
       "surface": "ברעות",
-      "english": "灾难"
+      "gloss": "灾难"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     },
     {
       "surface": "וחיי",
-      "english": "而我的年日"
+      "gloss": "而我的年日"
     },
     {
       "surface": "לשאול",
-      "english": "至阴间"
+      "gloss": "至阴间"
     },
     {
       "surface": "הגיעו",
-      "english": "已触及"
+      "gloss": "已触及"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:17.735529619Z",
-  "model": "glm-5.2"
+  ]
 }

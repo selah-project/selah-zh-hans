@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "hosea 12:6",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20817,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21253
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:16:12.218606889Z",
   "translation": "而万军之雅威 ⟨是⟩ 以罗欣；雅威 ⟨是⟩ 他的记念。",
   "tokens": [
     {
       "surface": "ויהוָה",
-      "english": "而雅威"
+      "gloss": "而雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "הצבאות",
-      "english": "万军的"
+      "gloss": "万军的"
     },
     {
       "surface": "יהוָה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "זכרו",
-      "english": "他的记念"
+      "gloss": "他的记念"
     }
-  ],
-  "timestamp": "2026-07-17T23:16:12.218606889Z",
-  "model": "glm-5.2"
+  ]
 }

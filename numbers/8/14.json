@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "numbers 8:14",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19765,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20027
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:06:43.594261642Z",
   "translation": "你要将⟨את⟩利未人从以色列子民中间分别出来,利未人就要归我。",
   "tokens": [
     {
       "surface": "והבדלת",
-      "english": "你要将……分别出来"
+      "gloss": "你要将……分别出来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "利未人"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     },
     {
       "surface": "מתוך",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "והיו",
-      "english": "他们就要"
+      "gloss": "他们就要"
     },
     {
       "surface": "לי",
-      "english": "归我"
+      "gloss": "归我"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     }
-  ],
-  "timestamp": "2026-07-17T19:06:43.594261642Z",
-  "model": "glm-5.2"
+  ]
 }

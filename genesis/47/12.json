@@ -1,79 +1,68 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 47:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23537,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24104
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:06:52.799602033Z",
   "translation": "约瑟供养他的父亲和⟨את⟩他的兄弟们,以及⟨את⟩他父亲的⟨את⟩全家,以粮食,按照幼童〈的口〉。",
   "tokens": [
     {
       "surface": "ויכלכל",
-      "english": "供养"
+      "gloss": "供养"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的父亲"
     },
     {
       "surface": "אביו",
-      "english": "他的父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "他的兄弟们"
     },
     {
       "surface": "אחיו",
-      "english": "他的兄弟们"
+      "gloss": "他的兄弟们"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "全家"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "לחם",
-      "english": "以粮食"
+      "gloss": "以粮食"
     },
     {
       "surface": "לפי",
-      "english": "按照……〈的口〉"
+      "gloss": "按照……〈的口〉"
     },
     {
       "surface": "הטף",
-      "english": "幼童"
+      "gloss": "幼童"
     }
-  ],
-  "timestamp": "2026-07-17T18:06:52.799602033Z",
-  "model": "glm-5.2"
+  ]
 }

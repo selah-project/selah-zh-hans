@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 29:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21667,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22152
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:56.073648576Z",
   "translation": "我在奶油中洗我的步履，⟨而⟩岩石为我倾出橄榄油之溪流；",
   "tokens": [
     {
       "surface": "בִּ\/רְחֹ֣ץ",
-      "english": "我洗"
+      "gloss": "我洗"
     },
     {
       "surface": "הֲלִיכַ֣\/י",
-      "english": "我的步履"
+      "gloss": "我的步履"
     },
     {
       "surface": "בְּ\/חֵמָ֑ה",
-      "english": "在奶油中"
+      "gloss": "在奶油中"
     },
     {
       "surface": "וְ\/צ֥וּר",
-      "english": "⟨而⟩岩石"
+      "gloss": "⟨而⟩岩石"
     },
     {
       "surface": "יָצ֥וּק",
-      "english": "倾出"
+      "gloss": "倾出"
     },
     {
       "surface": "עִ֝מָּדִ֗\/י",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "פַּלְגֵי",
-      "english": "溪流"
+      "gloss": "溪流"
     },
     {
       "surface": "שָֽׁמֶן",
-      "english": "橄榄油"
+      "gloss": "橄榄油"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:56.073648576Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 21:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18560,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19107
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:24:32.006672440Z",
   "translation": "若他另娶一位归⟨他⟩，⟨他⟩不可减少她的食物、她的衣服和她的同房权利。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אחרת",
-      "english": "另一位"
+      "gloss": "另一位"
     },
     {
       "surface": "יקח",
-      "english": "他娶"
+      "gloss": "他娶"
     },
     {
       "surface": "לו",
-      "english": "归⟨他⟩"
+      "gloss": "归⟨他⟩"
     },
     {
       "surface": "שְׁאֵרָהּ",
-      "english": "她的食物"
+      "gloss": "她的食物"
     },
     {
       "surface": "כְּסוּתָהּ",
-      "english": "她的衣服"
+      "gloss": "她的衣服"
     },
     {
       "surface": "וְ\/עֹנָתָהּ",
-      "english": "和她的同房权利"
+      "gloss": "和她的同房权利"
     },
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יִגְרָע",
-      "english": "⟨他⟩减少"
+      "gloss": "⟨他⟩减少"
     }
-  ],
-  "timestamp": "2026-07-17T18:24:32.006672440Z",
-  "model": "glm-5.2"
+  ]
 }

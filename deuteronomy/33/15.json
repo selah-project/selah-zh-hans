@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "deuteronomy 33:15",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19025,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19433
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:49:30.820335809Z",
   "translation": "以及来自东方群山之巅的，和来自永恒丘陵之佳美的，",
   "tokens": [
     {
       "surface": "וּ\/מֵ\/רֹאשׁ",
-      "english": "以及来自……之巅"
+      "gloss": "以及来自……之巅"
     },
     {
       "surface": "הַרְרֵי",
-      "english": "群山的"
+      "gloss": "群山的"
     },
     {
       "surface": "קֶדֶם",
-      "english": "东方（远古）"
+      "gloss": "东方（远古）"
     },
     {
       "surface": "וּ\/מִ\/מֶּגֶד",
-      "english": "以及来自……的佳美（出产）"
+      "gloss": "以及来自……的佳美（出产）"
     },
     {
       "surface": "גִּבְע֥וֹת",
-      "english": "丘陵"
+      "gloss": "丘陵"
     },
     {
       "surface": "עוֹלָֽם",
-      "english": "永恒的"
+      "gloss": "永恒的"
     }
-  ],
-  "timestamp": "2026-07-17T19:49:30.820335809Z",
-  "model": "glm-5.2"
+  ]
 }

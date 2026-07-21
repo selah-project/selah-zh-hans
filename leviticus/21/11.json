@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 21:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19167,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19641
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:47.122484788Z",
   "translation": "也不可靠近任何死人的נפש(生命体);⟨他⟩不可为⟨他的⟩父亲和⟨他的⟩母亲使自己不洁。",
   "tokens": [
     {
       "surface": "ועל",
-      "english": "也不可靠近"
+      "gloss": "也不可靠近"
     },
     {
       "surface": "כל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "נפשת",
-      "english": "死人的נפש(生命体)"
+      "gloss": "死人的נפש(生命体)"
     },
     {
       "surface": "מת",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יבא",
-      "english": "⟨他⟩靠近"
+      "gloss": "⟨他⟩靠近"
     },
     {
       "surface": "לאביו",
-      "english": "为⟨他的⟩父亲"
+      "gloss": "为⟨他的⟩父亲"
     },
     {
       "surface": "ולאמו",
-      "english": "和⟨他的⟩母亲"
+      "gloss": "和⟨他的⟩母亲"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יטמא",
-      "english": "使自己不洁"
+      "gloss": "使自己不洁"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:47.122484788Z",
-  "model": "glm-5.2"
+  ]
 }

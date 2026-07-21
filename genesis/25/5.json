@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 25:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22846,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23130
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:13.725216616Z",
   "translation": "亚伯拉罕把凡⟨他⟩所有的都给了⟨את⟩以撒。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "给了"
+      "gloss": "给了"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "凡他所有的"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
-      "english": "⟨他⟩所有的"
+      "gloss": "⟨他⟩所有的"
     },
     {
       "surface": "לו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ליצחק",
-      "english": "给以撒"
+      "gloss": "给以撒"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:13.725216616Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-samuel 3:15",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18842,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19308
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:22:51.907759763Z",
   "translation": "撒母耳躺卧⟨直到⟩早晨,⟨他⟩打开了雅威家的门。撒母耳畏惧,不敢将⟨את⟩那异象告诉以利。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "躺卧"
+      "gloss": "躺卧"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "עד",
-      "english": "⟨直到⟩"
+      "gloss": "⟨直到⟩"
     },
     {
       "surface": "הבקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "ויפתח",
-      "english": "⟨他⟩打开了"
+      "gloss": "⟨他⟩打开了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "门"
     },
     {
       "surface": "דלתות",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ושמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "ירא",
-      "english": "畏惧"
+      "gloss": "畏惧"
     },
     {
       "surface": "מהגיד",
-      "english": "不敢告诉"
+      "gloss": "不敢告诉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那异象"
     },
     {
       "surface": "המראה",
-      "english": "那异象"
+      "gloss": "那异象"
     },
     {
       "surface": "אל",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "עלי",
-      "english": "以利"
+      "gloss": "以利"
     }
-  ],
-  "timestamp": "2026-07-17T20:22:51.907759763Z",
-  "model": "glm-5.2"
+  ]
 }

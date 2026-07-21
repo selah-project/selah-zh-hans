@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 25:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64528,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64958
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:20.478705153Z",
   "translation": "为⟨你⟩的名的缘故,雅威啊,⟨你⟩已经赦免了我的罪孽,因为⟨它⟩重大。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "为……的缘故"
+      "gloss": "为……的缘故"
     },
     {
       "surface": "שמך",
-      "english": "⟨你⟩的名"
+      "gloss": "⟨你⟩的名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "וסלחת",
-      "english": "⟨你⟩已经赦免了"
+      "gloss": "⟨你⟩已经赦免了"
     },
     {
       "surface": "לעוני",
-      "english": "我的罪孽"
+      "gloss": "我的罪孽"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רב",
-      "english": "重大"
+      "gloss": "重大"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩"
+      "gloss": "⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:20.478705153Z",
-  "model": "glm-5.2"
+  ]
 }

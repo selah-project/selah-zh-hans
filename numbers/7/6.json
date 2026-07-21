@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "numbers 7:6",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19892,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20321
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:18.369009649Z",
   "translation": "摩西取了⟨את⟩⟨那些⟩车和⟨את⟩⟨那些⟩牛，把它们交给⟨那些⟩利未人。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "车"
     },
     {
       "surface": "העגלת",
-      "english": "⟨那些⟩车"
+      "gloss": "⟨那些⟩车"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "牛"
     },
     {
       "surface": "הבקר",
-      "english": "⟨那些⟩牛"
+      "gloss": "⟨那些⟩牛"
     },
     {
       "surface": "ויתן",
-      "english": "交给"
+      "gloss": "交给"
     },
     {
       "surface": "אותם",
-      "english": "把它们"
+      "gloss": "把它们"
     },
     {
       "surface": "אל",
-      "english": "给 \/ 交给"
+      "gloss": "给 \/ 交给"
     },
     {
       "surface": "הלוים",
-      "english": "⟨那些⟩利未人"
+      "gloss": "⟨那些⟩利未人"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:18.369009649Z",
-  "model": "glm-5.2"
+  ]
 }

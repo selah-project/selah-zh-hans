@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 24:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 427,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20594,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21021
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:15.418756270Z",
   "translation": "新酒哀悼,葡萄藤枯萎,心中一切欢喜的⟨人都⟩叹息。",
   "tokens": [
     {
       "surface": "אבל",
-      "english": "哀悼"
+      "gloss": "哀悼"
     },
     {
       "surface": "תירוש",
-      "english": "新酒"
+      "gloss": "新酒"
     },
     {
       "surface": "אמללה",
-      "english": "枯萎了"
+      "gloss": "枯萎了"
     },
     {
       "surface": "גפן",
-      "english": "葡萄藤"
+      "gloss": "葡萄藤"
     },
     {
       "surface": "נאנחו",
-      "english": "叹息了"
+      "gloss": "叹息了"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שמחי",
-      "english": "欢喜的"
+      "gloss": "欢喜的"
     },
     {
       "surface": "לב",
-      "english": "心中"
+      "gloss": "心中"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:15.418756270Z",
-  "model": "glm-5.2"
+  ]
 }

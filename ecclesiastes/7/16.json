@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "ecclesiastes 7:16",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 396,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19132,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19528
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:29.617341666Z",
   "translation": "不要⟨过度⟩作义人，也不要⟨过度⟩使自己有智慧——为什么你要成为荒凉？",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תהי",
-      "english": "⟨你⟩作"
+      "gloss": "⟨你⟩作"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "הרבה",
-      "english": "⟨过度⟩"
+      "gloss": "⟨过度⟩"
     },
     {
       "surface": "ואל",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "תתחכם",
-      "english": "使⟨你自己⟩有智慧"
+      "gloss": "使⟨你自己⟩有智慧"
     },
     {
       "surface": "יותר",
-      "english": "⟨过度⟩"
+      "gloss": "⟨过度⟩"
     },
     {
       "surface": "למה",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "תשומם",
-      "english": "⟨你⟩成为荒凉"
+      "gloss": "⟨你⟩成为荒凉"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:29.617341666Z",
-  "model": "glm-5.2"
+  ]
 }

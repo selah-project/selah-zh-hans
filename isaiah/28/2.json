@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 28:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 673,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21307,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21980
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:46:54.468887020Z",
   "translation": "看哪！对阿多奈而言，⟨有⟩强而有力的 ⟨一位⟩，如冰雹的狂涛、毁坏的暴风，如大水漫溢的狂涛，⟨他⟩必亲手将其推翻在地上。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪！"
+      "gloss": "看哪！"
     },
     {
       "surface": "חזק",
-      "english": "强"
+      "gloss": "强"
     },
     {
       "surface": "ואמץ",
-      "english": "而有力的"
+      "gloss": "而有力的"
     },
     {
       "surface": "לאדני",
-      "english": "对阿多奈而言"
+      "gloss": "对阿多奈而言"
     },
     {
       "surface": "כזרם",
-      "english": "如……的狂涛"
+      "gloss": "如……的狂涛"
     },
     {
       "surface": "ברד",
-      "english": "冰雹"
+      "gloss": "冰雹"
     },
     {
       "surface": "שער",
-      "english": "暴风"
+      "gloss": "暴风"
     },
     {
       "surface": "קטב",
-      "english": "毁坏的"
+      "gloss": "毁坏的"
     },
     {
       "surface": "כזרם",
-      "english": "如……的狂涛"
+      "gloss": "如……的狂涛"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "כבירים",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "שטפים",
-      "english": "漫溢"
+      "gloss": "漫溢"
     },
     {
       "surface": "הניח",
-      "english": "推翻"
+      "gloss": "推翻"
     },
     {
       "surface": "לארץ",
-      "english": "在地上"
+      "gloss": "在地上"
     },
     {
       "surface": "ביד",
-      "english": "亲手"
+      "gloss": "亲手"
     }
-  ],
-  "timestamp": "2026-07-17T21:46:54.468887020Z",
-  "model": "glm-5.2"
+  ]
 }

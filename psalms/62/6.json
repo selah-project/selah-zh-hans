@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 62:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64491,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64976
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:14.498847913Z",
   "translation": "诚然,对以罗欣⟨是⟩我灵默默等候的,因为从他⟨那里⟩⟨来⟩我的指望。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "לאלהים",
-      "english": "对以罗欣"
+      "gloss": "对以罗欣"
     },
     {
       "surface": "דומי",
-      "english": "⟨是⟩……默默等候的"
+      "gloss": "⟨是⟩……默默等候的"
     },
     {
       "surface": "נפשי",
-      "english": "我灵"
+      "gloss": "我灵"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ממנו",
-      "english": "从他⟨那里⟩"
+      "gloss": "从他⟨那里⟩"
     },
     {
       "surface": "תקותי",
-      "english": "⟨来⟩我的指望"
+      "gloss": "⟨来⟩我的指望"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:14.498847913Z",
-  "model": "glm-5.2"
+  ]
 }

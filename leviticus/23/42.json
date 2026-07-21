@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "leviticus 23:42",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19165,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19599
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:56:24.951378789Z",
   "translation": "在棚里⟨你们⟩要住七日；凡在以色列⟨的⟩本地人⟨他们⟩要住在棚里。",
   "tokens": [
     {
       "surface": "בסכת",
-      "english": "在棚里"
+      "gloss": "在棚里"
     },
     {
       "surface": "תשבו",
-      "english": "⟨你们⟩要住"
+      "gloss": "⟨你们⟩要住"
     },
     {
       "surface": "שבעת",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ימים",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "האזרח",
-      "english": "本地人"
+      "gloss": "本地人"
     },
     {
       "surface": "בישראל",
-      "english": "在以色列⟨的⟩"
+      "gloss": "在以色列⟨的⟩"
     },
     {
       "surface": "ישבו",
-      "english": "⟨他们⟩要住"
+      "gloss": "⟨他们⟩要住"
     },
     {
       "surface": "בסכת",
-      "english": "在棚里"
+      "gloss": "在棚里"
     }
-  ],
-  "timestamp": "2026-07-17T18:56:24.951378789Z",
-  "model": "glm-5.2"
+  ]
 }

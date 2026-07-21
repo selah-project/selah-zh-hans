@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 71:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64508,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64801
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:36.750660914Z",
   "translation": "因为我的仇敌对我说，那些埋伏等候我气息的也一起商议，",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמרו",
-      "english": "说了"
+      "gloss": "说了"
     },
     {
       "surface": "אויבי",
-      "english": "我的仇敌"
+      "gloss": "我的仇敌"
     },
     {
       "surface": "לי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "ושמרי",
-      "english": "那些埋伏等候"
+      "gloss": "那些埋伏等候"
     },
     {
       "surface": "נפשי",
-      "english": "我气息的"
+      "gloss": "我气息的"
     },
     {
       "surface": "נועצו",
-      "english": "商议了"
+      "gloss": "商议了"
     },
     {
       "surface": "יחדו",
-      "english": "一起"
+      "gloss": "一起"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:36.750660914Z",
-  "model": "glm-5.2"
+  ]
 }

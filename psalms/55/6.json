@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 55:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64337,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64586
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:51.261046395Z",
   "translation": "恐惧与颤抖临到我⟨身上⟩，恐怖将我遮盖。",
   "tokens": [
     {
       "surface": "יראה",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "ורעד",
-      "english": "与颤抖"
+      "gloss": "与颤抖"
     },
     {
       "surface": "יבא",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "בי",
-      "english": "我⟨身上⟩"
+      "gloss": "我⟨身上⟩"
     },
     {
       "surface": "ותכסני",
-      "english": "将我遮盖"
+      "gloss": "将我遮盖"
     },
     {
       "surface": "פלצות",
-      "english": "恐怖"
+      "gloss": "恐怖"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:51.261046395Z",
-  "model": "glm-5.2"
+  ]
 }

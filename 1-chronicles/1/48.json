@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 48,
   "ref": "1-chronicles 1:48",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58554,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58905
-  },
+  "verse": 48,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:45.437303690Z",
   "translation": "撒姆拉死了,在他之后来自河的雷霍博特的扫罗 ⟨登基⟩ 统治。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "שמלה",
-      "english": "撒姆拉"
+      "gloss": "撒姆拉"
     },
     {
       "surface": "וימלך",
-      "english": "统治"
+      "gloss": "统治"
     },
     {
       "surface": "תחתיו",
-      "english": "在他之后"
+      "gloss": "在他之后"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "מרחבות",
-      "english": "雷霍博特"
+      "gloss": "雷霍博特"
     },
     {
       "surface": "הנהר",
-      "english": "河"
+      "gloss": "河"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:45.437303690Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 105:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64346,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64713
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:41.666867214Z",
   "translation": "王差遣人,解开他;多民的掌权者,释放他。",
   "tokens": [
     {
       "surface": "שָׁ֣לַח",
-      "english": "差遣人"
+      "gloss": "差遣人"
     },
     {
       "surface": "מֶ֭לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "וַ\/יַּתִּירֵ֑\/הוּ",
-      "english": "解开他"
+      "gloss": "解开他"
     },
     {
       "surface": "מֹשֵׁ֥ל",
-      "english": "掌权者"
+      "gloss": "掌权者"
     },
     {
       "surface": "עַ֝מִּ֗ים",
-      "english": "多民的"
+      "gloss": "多民的"
     },
     {
       "surface": "וַֽ\/יְפַתְּחֵֽ\/הוּ",
-      "english": "释放他"
+      "gloss": "释放他"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:41.666867214Z",
-  "model": "glm-5.2"
+  ]
 }

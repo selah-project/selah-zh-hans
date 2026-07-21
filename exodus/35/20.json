@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "exodus 35:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18386,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18679
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:35:28.437949391Z",
   "translation": "以色列子民的全会众就从摩西面前出去了。",
   "tokens": [
     {
       "surface": "ויצאו",
-      "english": "就出去了"
+      "gloss": "就出去了"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "עדת",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מלפני",
-      "english": "从……面前"
+      "gloss": "从……面前"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:35:28.437949391Z",
-  "model": "glm-5.2"
+  ]
 }

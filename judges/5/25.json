@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "judges 5:25",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17774,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18182
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:08:59.181907478Z",
   "translation": "他求水,她给了奶;在⟨ה⟩器宇不凡的碗中,她呈上了奶酪。",
   "tokens": [
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "שאל",
-      "english": "他求"
+      "gloss": "他求"
     },
     {
       "surface": "חלב",
-      "english": "奶"
+      "gloss": "奶"
     },
     {
       "surface": "נתנה",
-      "english": "她给了"
+      "gloss": "她给了"
     },
     {
       "surface": "בספל",
-      "english": "在碗中"
+      "gloss": "在碗中"
     },
     {
       "surface": "אדירים",
-      "english": "器宇不凡的"
+      "gloss": "器宇不凡的"
     },
     {
       "surface": "הקריבה",
-      "english": "她呈上了"
+      "gloss": "她呈上了"
     },
     {
       "surface": "חמאה",
-      "english": "奶酪"
+      "gloss": "奶酪"
     }
-  ],
-  "timestamp": "2026-07-17T20:08:59.181907478Z",
-  "model": "glm-5.2"
+  ]
 }

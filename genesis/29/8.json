@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "genesis 29:8",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23763,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24280
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:52:01.980294617Z",
   "translation": "他们⟨说⟩：不⟨能⟩，直到所有羊群都被聚集，他们滚开⟨את⟩井口上的石头，然后我们饮羊群。",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נוכל",
-      "english": "能"
+      "gloss": "能"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אשר",
-      "english": "（关系\/时间标记，融为'直到……时'）"
+      "gloss": "（关系\/时间标记，融为'直到……时'）"
     },
     {
       "surface": "יאספו",
-      "english": "被聚集"
+      "gloss": "被聚集"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "העדרים",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "וגללו",
-      "english": "他们滚开"
+      "gloss": "他们滚开"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "石头"
     },
     {
       "surface": "האבן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "מעל",
-      "english": "……之上（离开）"
+      "gloss": "……之上（离开）"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "הבאר",
-      "english": "井"
+      "gloss": "井"
     },
     {
       "surface": "והשקינו",
-      "english": "然后我们饮"
+      "gloss": "然后我们饮"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     }
-  ],
-  "timestamp": "2026-07-17T17:52:01.980294617Z",
-  "model": "glm-5.2"
+  ]
 }

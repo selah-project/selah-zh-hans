@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 146:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64739,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65207
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:21.340024241Z",
   "translation": "雅威开 ⟨能看见的⟩ 瞎子的眼,雅威扶起 ⟨那⟩ 弯曲 ⟨的人⟩;雅威爱义人。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "פקח",
-      "english": "开"
+      "gloss": "开"
     },
     {
       "surface": "עורים",
-      "english": "瞎子的眼"
+      "gloss": "瞎子的眼"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "זקף",
-      "english": "扶起"
+      "gloss": "扶起"
     },
     {
       "surface": "כפופים",
-      "english": "弯曲的人"
+      "gloss": "弯曲的人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אהב",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:21.340024241Z",
-  "model": "glm-5.2"
+  ]
 }

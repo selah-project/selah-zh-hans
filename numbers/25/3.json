@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "numbers 25:3",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19615,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20021
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T07:00:56.326522834Z",
   "translation": "以色列附着于巴力·毗珥，雅威的怒气向以色列发作。",
   "tokens": [
     {
       "surface": "ויצמד",
-      "english": "附着于"
+      "gloss": "附着于"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לבעל",
-      "english": "于巴力"
+      "gloss": "于巴力"
     },
     {
       "surface": "פעור",
-      "english": "·毗珥"
+      "gloss": "·毗珥"
     },
     {
       "surface": "ויחר",
-      "english": "发作"
+      "gloss": "发作"
     },
     {
       "surface": "אף",
-      "english": "怒气"
+      "gloss": "怒气"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "בישראל",
-      "english": "向以色列"
+      "gloss": "向以色列"
     }
-  ],
-  "timestamp": "2026-07-20T07:00:56.326522834Z",
-  "model": "glm-5.2"
+  ]
 }

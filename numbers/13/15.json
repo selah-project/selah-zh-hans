@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "numbers 13:15",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19260,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19531
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:44:14.144868205Z",
   "translation": "属迦得支派的,革乌利,本-玛基。",
   "tokens": [
     {
       "surface": "למטה",
-      "english": "属……支派的"
+      "gloss": "属……支派的"
     },
     {
       "surface": "גד",
-      "english": "迦得"
+      "gloss": "迦得"
     },
     {
       "surface": "גאואל",
-      "english": "革乌利"
+      "gloss": "革乌利"
     },
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "מכי",
-      "english": "玛基"
+      "gloss": "玛基"
     }
-  ],
-  "timestamp": "2026-07-18T02:44:14.144868205Z",
-  "model": "glm-5.2"
+  ]
 }

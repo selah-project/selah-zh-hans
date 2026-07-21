@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 89:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64662,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65110
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:06.862103049Z",
   "translation": "以罗欣,在圣洁者的会中可畏,宏大,且在周围一切之上令人惧怕。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "נערץ",
-      "english": "可畏"
+      "gloss": "可畏"
     },
     {
       "surface": "בסוד",
-      "english": "在……的会中"
+      "gloss": "在……的会中"
     },
     {
       "surface": "קדשים",
-      "english": "圣洁者"
+      "gloss": "圣洁者"
     },
     {
       "surface": "רבה",
-      "english": "宏大"
+      "gloss": "宏大"
     },
     {
       "surface": "ונורא",
-      "english": "且令人惧怕"
+      "gloss": "且令人惧怕"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "סביביו",
-      "english": "周围的"
+      "gloss": "周围的"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:06.862103049Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 27:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54464,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54811
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:08.434787784Z",
   "translation": "石头的重量、沙土的负担重；愚昧人的恼怒比两者更重。",
   "tokens": [
     {
       "surface": "כבד",
-      "english": "重"
+      "gloss": "重"
     },
     {
       "surface": "אבן",
-      "english": "石头的"
+      "gloss": "石头的"
     },
     {
       "surface": "ונטל",
-      "english": "和负担"
+      "gloss": "和负担"
     },
     {
       "surface": "החול",
-      "english": "沙土的"
+      "gloss": "沙土的"
     },
     {
       "surface": "וכעס",
-      "english": "而恼怒"
+      "gloss": "而恼怒"
     },
     {
       "surface": "אויל",
-      "english": "愚昧人的"
+      "gloss": "愚昧人的"
     },
     {
       "surface": "כבד",
-      "english": "重"
+      "gloss": "重"
     },
     {
       "surface": "משניהם",
-      "english": "比两者更"
+      "gloss": "比两者更"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:08.434787784Z",
-  "model": "glm-5.2"
+  ]
 }

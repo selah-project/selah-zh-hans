@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "joel 1:10",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18226,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18804
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:20.871030117Z",
   "translation": "田野荒废了，土地悲哀；因为五谷荒废了，新酒干竭，橄榄油衰残。",
   "tokens": [
     {
       "surface": "שֻׁדַּד",
-      "english": "荒废了"
+      "gloss": "荒废了"
     },
     {
       "surface": "שָׂדֶה",
-      "english": "田野"
+      "gloss": "田野"
     },
     {
       "surface": "אָבְלָה",
-      "english": "悲哀"
+      "gloss": "悲哀"
     },
     {
       "surface": "אֲדָמָה",
-      "english": "土地"
+      "gloss": "土地"
     },
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שֻׁדַּד",
-      "english": "荒废了"
+      "gloss": "荒废了"
     },
     {
       "surface": "דָּגָן",
-      "english": "五谷"
+      "gloss": "五谷"
     },
     {
       "surface": "הוֹבִישׁ",
-      "english": "干竭"
+      "gloss": "干竭"
     },
     {
       "surface": "תִּירוֹשׁ",
-      "english": "新酒"
+      "gloss": "新酒"
     },
     {
       "surface": "אֻמְלַל",
-      "english": "衰残"
+      "gloss": "衰残"
     },
     {
       "surface": "יִצְהָר",
-      "english": "橄榄油"
+      "gloss": "橄榄油"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:20.871030117Z",
-  "model": "glm-5.2"
+  ]
 }

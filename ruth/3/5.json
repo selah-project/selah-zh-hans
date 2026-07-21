@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ruth 3:5",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22345,
-    "prompt_tokens_details": {
-      "cached_tokens": 21440
-    },
-    "total_tokens": 22732
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:14:24.697110585Z",
   "translation": "她⟨对⟩她说：凡你所说的，我⟨都⟩会做。",
   "tokens": [
     {
       "surface": "ו\/תֹּאמֶר",
-      "english": "她⟨对⟩……说"
+      "gloss": "她⟨对⟩……说"
     },
     {
       "surface": "אֵלֶי\/הָ",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "כֹּל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "你所"
+      "gloss": "你所"
     },
     {
       "surface": "תֹּאמְרִי",
-      "english": "说的"
+      "gloss": "说的"
     },
     {
       "surface": "אֶֽעֱשֶֽׂה",
-      "english": "我⟨都⟩会做"
+      "gloss": "我⟨都⟩会做"
     }
-  ],
-  "timestamp": "2026-07-18T01:14:24.697110585Z",
-  "model": "glm-5.2"
+  ]
 }

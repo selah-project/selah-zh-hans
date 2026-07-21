@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 24:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54328,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54664
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:33.873877345Z",
   "translation": "至于责备人的人，在他们看来⟨是⟩蒙喜悦的，必有美好的祝福临到他们。",
   "tokens": [
     {
       "surface": "ולמוכיחים",
-      "english": "至于责备人的人"
+      "gloss": "至于责备人的人"
     },
     {
       "surface": "ינעם",
-      "english": "在他们看来⟨是⟩蒙喜悦的"
+      "gloss": "在他们看来⟨是⟩蒙喜悦的"
     },
     {
       "surface": "ועליהם",
-      "english": "临到他们"
+      "gloss": "临到他们"
     },
     {
       "surface": "תבוא",
-      "english": "必有……临到"
+      "gloss": "必有……临到"
     },
     {
       "surface": "ברכת",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "טוב",
-      "english": "美好的"
+      "gloss": "美好的"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:33.873877345Z",
-  "model": "glm-5.2"
+  ]
 }

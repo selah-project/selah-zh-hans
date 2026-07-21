@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 16:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54521,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54904
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:49.235217641Z",
   "translation": "行恶是君王所憎恶之事，因为藉着公义，宝座才得坚立。",
   "tokens": [
     {
       "surface": "תועבת",
-      "english": "憎恶之事"
+      "gloss": "憎恶之事"
     },
     {
       "surface": "מלכים",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "עשות",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "רשע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בצדקה",
-      "english": "藉着公义"
+      "gloss": "藉着公义"
     },
     {
       "surface": "יכון",
-      "english": "才得坚立"
+      "gloss": "才得坚立"
     },
     {
       "surface": "כסא",
-      "english": "宝座"
+      "gloss": "宝座"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:49.235217641Z",
-  "model": "glm-5.2"
+  ]
 }

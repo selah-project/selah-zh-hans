@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 10:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64688,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65074
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:08.624659237Z",
   "translation": "恶人 ⟨因⟩ 他鼻孔的高傲 ⟨而⟩ 不寻求：他的一切计谋 ⟨中⟩ ⟨没有⟩ 以罗欣。",
   "tokens": [
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "כגבה",
-      "english": "因……的高傲"
+      "gloss": "因……的高傲"
     },
     {
       "surface": "אפו",
-      "english": "他的鼻孔"
+      "gloss": "他的鼻孔"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ידרש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "אין",
-      "english": "⟨没有⟩"
+      "gloss": "⟨没有⟩"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "כל",
-      "english": "他的一切"
+      "gloss": "他的一切"
     },
     {
       "surface": "מזמותיו",
-      "english": "计谋"
+      "gloss": "计谋"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:08.624659237Z",
-  "model": "glm-5.2"
+  ]
 }

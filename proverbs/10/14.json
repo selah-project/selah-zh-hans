@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "proverbs 10:14",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54375,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54690
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:30.025634657Z",
   "translation": "智慧人储藏知识,愚昧人的口 ⟨是⟩ 毁灭临近之处。",
   "tokens": [
     {
       "surface": "חכמים",
-      "english": "智慧人"
+      "gloss": "智慧人"
     },
     {
       "surface": "יצפנו",
-      "english": "储藏"
+      "gloss": "储藏"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "ופי",
-      "english": "而愚昧人的口"
+      "gloss": "而愚昧人的口"
     },
     {
       "surface": "אויל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מחתה",
-      "english": "毁灭"
+      "gloss": "毁灭"
     },
     {
       "surface": "קרבה",
-      "english": "临近之处"
+      "gloss": "临近之处"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:30.025634657Z",
-  "model": "glm-5.2"
+  ]
 }

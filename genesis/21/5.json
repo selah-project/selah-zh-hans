@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 21:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23031,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23390
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:08.152641590Z",
   "translation": "亚伯拉罕⟨是⟩百岁之子，⟨当⟩以撒他的儿子⟨被⟩生给他时。",
   "tokens": [
     {
       "surface": "ואברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "מאת",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "שנה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "בהולד",
-      "english": "⟨当⟩⟨被⟩生"
+      "gloss": "⟨当⟩⟨被⟩生"
     },
     {
       "surface": "לו",
-      "english": "给他"
+      "gloss": "给他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以撒"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:08.152641590Z",
-  "model": "glm-5.2"
+  ]
 }

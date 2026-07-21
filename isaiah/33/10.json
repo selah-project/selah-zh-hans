@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 33:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20660,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21020
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:49.174812158Z",
   "translation": "现在我要兴起，雅威说；现在我要被高举；现在我要被举起。",
   "tokens": [
     {
       "surface": "עתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "אקום",
-      "english": "我要兴起"
+      "gloss": "我要兴起"
     },
     {
       "surface": "יאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "ארומם",
-      "english": "我要被高举"
+      "gloss": "我要被高举"
     },
     {
       "surface": "עתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "אנשא",
-      "english": "我要被举起"
+      "gloss": "我要被举起"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:49.174812158Z",
-  "model": "glm-5.2"
+  ]
 }

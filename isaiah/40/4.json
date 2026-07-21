@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 40:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 661,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21054,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21715
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:19.059144438Z",
   "translation": "一切山谷必被升高，一切山岭和丘陵必被降卑；曲折之处必⟨成为⟩平原，崎岖之地⟨成为⟩山谷。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "גיא",
-      "english": "山谷"
+      "gloss": "山谷"
     },
     {
       "surface": "ינשא",
-      "english": "必被升高"
+      "gloss": "必被升高"
     },
     {
       "surface": "וכל",
-      "english": "以及一切"
+      "gloss": "以及一切"
     },
     {
       "surface": "הר",
-      "english": "山岭"
+      "gloss": "山岭"
     },
     {
       "surface": "וגבעה",
-      "english": "和丘陵"
+      "gloss": "和丘陵"
     },
     {
       "surface": "ישפלו",
-      "english": "必被降卑"
+      "gloss": "必被降卑"
     },
     {
       "surface": "והיה",
-      "english": "于是⟨将有⟩ \/ 必⟨成为⟩"
+      "gloss": "于是⟨将有⟩ \/ 必⟨成为⟩"
     },
     {
       "surface": "העקב",
-      "english": "曲折之处"
+      "gloss": "曲折之处"
     },
     {
       "surface": "למישור",
-      "english": "为平原"
+      "gloss": "为平原"
     },
     {
       "surface": "והרכסים",
-      "english": "崎岖之地"
+      "gloss": "崎岖之地"
     },
     {
       "surface": "לבקעה",
-      "english": "为山谷"
+      "gloss": "为山谷"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:19.059144438Z",
-  "model": "glm-5.2"
+  ]
 }

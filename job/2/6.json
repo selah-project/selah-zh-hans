@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 2:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 394,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21932,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22326
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:24.777619842Z",
   "translation": "雅威对哈撒坦说：看哪，他在⟨你⟩手中；只是 ⟨את⟩ 他的性命，你要保守。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "השטן",
-      "english": "哈撒坦"
+      "gloss": "哈撒坦"
     },
     {
       "surface": "הנו",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "בידך",
-      "english": "在你手中"
+      "gloss": "在你手中"
     },
     {
       "surface": "אך",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的性命"
     },
     {
       "surface": "נפשו",
-      "english": "他的性命"
+      "gloss": "他的性命"
     },
     {
       "surface": "שמר",
-      "english": "你要保守"
+      "gloss": "你要保守"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:24.777619842Z",
-  "model": "glm-5.2"
+  ]
 }

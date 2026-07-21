@@ -1,65 +1,57 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "hosea 6:9",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 439,
-    "prompt_tokens": 21515,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21954
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:14:20.636867421Z",
   "translation": "如强盗埋伏人一般,祭司的团伙在往示剑的路上杀人,因为他们做了阴谋。",
   "tokens": [
     {
       "surface": "וכחכי",
-      "english": "如……一般"
+      "gloss": "如……一般"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "גדודים",
-      "english": "强盗"
+      "gloss": "强盗"
     },
     {
       "surface": "חבר",
-      "english": "团伙"
+      "gloss": "团伙"
     },
     {
       "surface": "כהנים",
-      "english": "祭司的"
+      "gloss": "祭司的"
     },
     {
       "surface": "דרך",
-      "english": "路上"
+      "gloss": "路上"
     },
     {
       "surface": "ירצחו",
-      "english": "杀人"
+      "gloss": "杀人"
     },
     {
       "surface": "שכמה",
-      "english": "示剑"
+      "gloss": "示剑"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "זמה",
-      "english": "阴谋"
+      "gloss": "阴谋"
     },
     {
       "surface": "עשו",
-      "english": "做了"
+      "gloss": "做了"
     }
-  ],
-  "timestamp": "2026-07-21T13:14:20.636867421Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "psalms 89:50",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64471,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64837
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:24.739224489Z",
   "translation": "你从前的慈爱在哪里，阿多奈？你凭你的信实向大卫起过誓。",
   "tokens": [
     {
       "surface": "איה",
-      "english": "在哪里"
+      "gloss": "在哪里"
     },
     {
       "surface": "חסדיך",
-      "english": "你的慈爱"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "הראשנים",
-      "english": "从前的"
+      "gloss": "从前的"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "נשבעת",
-      "english": "你起了誓"
+      "gloss": "你起了誓"
     },
     {
       "surface": "לדוד",
-      "english": "向大卫"
+      "gloss": "向大卫"
     },
     {
       "surface": "באמונתך",
-      "english": "在你的信实中"
+      "gloss": "在你的信实中"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:24.739224489Z",
-  "model": "glm-5.2"
+  ]
 }

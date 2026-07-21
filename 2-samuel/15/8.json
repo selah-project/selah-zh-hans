@@ -1,89 +1,78 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "2-samuel 15:8",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 776,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19715,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 20491
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:13:13.501826074Z",
   "translation": "因为⟨你的⟩仆人在⟨我⟩寄居 Gur (戈舒尔) 的 亚兰 时许了一个愿，说：'如果 雅威 确实让⟨我⟩回到 耶路撒冷，我就会事奉⟨את⟩ 雅威。'",
   "tokens": [
     {
       "surface": "כִּי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "נֵ֨דֶר֙",
-      "english": "一个愿"
+      "gloss": "一个愿"
     },
     {
       "surface": "נָדַ֣ר",
-      "english": "许了"
+      "gloss": "许了"
     },
     {
       "surface": "עַבְדְּ\/ךָ֔",
-      "english": "⟨你的⟩仆人"
+      "gloss": "⟨你的⟩仆人"
     },
     {
       "surface": "בְּ\/שִׁבְתִּ֥\/י",
-      "english": "在⟨我⟩寄居时"
+      "gloss": "在⟨我⟩寄居时"
     },
     {
       "surface": "בִ\/גְשׁ֛וּר",
-      "english": "Gur (戈舒尔)"
+      "gloss": "Gur (戈舒尔)"
     },
     {
       "surface": "בַּ\/אֲרָ֖ם",
-      "english": "亚兰"
+      "gloss": "亚兰"
     },
     {
       "surface": "לֵ\/אמֹ֑ר",
-      "english": "说："
+      "gloss": "说："
     },
     {
       "surface": "אִם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "יְשִׁיבֵ֤",
-      "english": "确实让回"
+      "gloss": "确实让回"
     },
     {
       "surface": "יְשִׁיבֵ֤\/נִי",
-      "english": "让⟨我⟩回"
+      "gloss": "让⟨我⟩回"
     },
     {
       "surface": "יְהוָה֙",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יְרוּשָׁלִַ֔ם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "וְ\/עָבַדְתִּ֖י",
-      "english": "我就会事奉"
+      "gloss": "我就会事奉"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "YHWH (雅威)"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T03:13:13.501826074Z",
-  "model": "glm-5.2"
+  ]
 }

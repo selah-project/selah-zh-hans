@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezekiel 21:4",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19096,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19479
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:51:53.618528394Z",
   "translation": "全凡肉都要看见,因为我是雅威 —— 我已经将它点燃;它必⟨不⟩熄灭。",
   "tokens": [
     {
       "surface": "וראו",
-      "english": "都要看见"
+      "gloss": "都要看见"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "בשר",
-      "english": "凡肉"
+      "gloss": "凡肉"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בערתיה",
-      "english": "我已经将它点燃"
+      "gloss": "我已经将它点燃"
     },
     {
       "surface": "לא",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "תכבה",
-      "english": "熄灭"
+      "gloss": "熄灭"
     }
-  ],
-  "timestamp": "2026-07-17T22:51:53.618528394Z",
-  "model": "glm-5.2"
+  ]
 }

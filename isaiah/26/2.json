@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 26:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 603,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20509,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21112
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:58.321533399Z",
   "translation": "打开 ⟨那⟩ 城门 ⟨吧⟩，让 ⟨那⟩ 公义的国民 ⟨，就是⟩ 守 תְּאֻמָּנִים ⟨的⟩ ⟨那⟩ 民进来！",
   "tokens": [
     {
       "surface": "פִּתְח֖וּ",
-      "english": "打开"
+      "gloss": "打开"
     },
     {
       "surface": "שְׁעָרִ֑ים",
-      "english": "城门"
+      "gloss": "城门"
     },
     {
       "surface": "וְ\/יָבֹ֥א",
-      "english": "让……进来"
+      "gloss": "让……进来"
     },
     {
       "surface": "גוֹי",
-      "english": "国民"
+      "gloss": "国民"
     },
     {
       "surface": "צַדִּ֖יק",
-      "english": "公义的"
+      "gloss": "公义的"
     },
     {
       "surface": "שֹׁמֵ֥ר",
-      "english": "守"
+      "gloss": "守"
     },
     {
       "surface": "אֱמֻנִֽים",
-      "english": "信托"
+      "gloss": "信托"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:58.321533399Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 44:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19179,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19671
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:08:32.827484905Z",
   "translation": "你们没有看守我圣物的职责,反而在我的圣所里设立⟨人⟩来看守我所交付的职责,归你们自己。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "你们没有"
+      "gloss": "你们没有"
     },
     {
       "surface": "שמרתם",
-      "english": "看守了"
+      "gloss": "看守了"
     },
     {
       "surface": "משמרת",
-      "english": "职责"
+      "gloss": "职责"
     },
     {
       "surface": "קדשי",
-      "english": "我圣物的"
+      "gloss": "我圣物的"
     },
     {
       "surface": "ותשימון",
-      "english": "你们设立"
+      "gloss": "你们设立"
     },
     {
       "surface": "לשמרי",
-      "english": "来看守"
+      "gloss": "来看守"
     },
     {
       "surface": "משמרתי",
-      "english": "我所交付的职责"
+      "gloss": "我所交付的职责"
     },
     {
       "surface": "במקדשי",
-      "english": "在我的圣所里"
+      "gloss": "在我的圣所里"
     },
     {
       "surface": "לכם",
-      "english": "归你们自己"
+      "gloss": "归你们自己"
     }
-  ],
-  "timestamp": "2026-07-17T23:08:32.827484905Z",
-  "model": "glm-5.2"
+  ]
 }

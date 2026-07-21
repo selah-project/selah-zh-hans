@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezra 2:8",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 220,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46195,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46415
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:01.509172913Z",
   "translation": "撒突的子孙：九百⟨零⟩四十五⟨人⟩。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "זתוא",
-      "english": "撒突"
+      "gloss": "撒突"
     },
     {
       "surface": "תשע",
-      "english": "九"
+      "gloss": "九"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "וארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "וחמשה",
-      "english": "五"
+      "gloss": "五"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:01.509172913Z",
-  "model": "glm-5.2"
+  ]
 }

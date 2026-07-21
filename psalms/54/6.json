@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 54:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64438,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64808
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:42.564387424Z",
   "translation": "看哪，以罗欣是帮助我的；阿多奈，在那些扶持我生命〈的人〉之中。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "עזר",
-      "english": "帮助"
+      "gloss": "帮助"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "בסמכי",
-      "english": "在那些扶持……之中"
+      "gloss": "在那些扶持……之中"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:42.564387424Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "genesis 11:30",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22669,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23213
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:40.935058307Z",
   "translation": "撒莱 ⟨是⟩ 不生育的，她没有孩子。",
   "tokens": [
     {
       "surface": "וַ\/תְּהִ֥י",
-      "english": "⟨她⟩ ⟨是⟩"
+      "gloss": "⟨她⟩ ⟨是⟩"
     },
     {
       "surface": "שָׂרַ֖י",
-      "english": "撒莱"
+      "gloss": "撒莱"
     },
     {
       "surface": "עֲקָר֑ה",
-      "english": "不生育的"
+      "gloss": "不生育的"
     },
     {
       "surface": "אֵ֥ין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לָ֖\/הּ",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "וָלָֽד",
-      "english": "孩子"
+      "gloss": "孩子"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:40.935058307Z",
-  "model": "glm-5.2"
+  ]
 }

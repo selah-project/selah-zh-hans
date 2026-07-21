@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 6:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21612,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22058
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:13.582177117Z",
   "translation": "我的弟兄们行事诡诈，如同נָחַל（干涸溪谷），像溪谷的河道——它们流过去 ⟨就过去了⟩。",
   "tokens": [
     {
       "surface": "אחי",
-      "english": "我的弟兄们"
+      "gloss": "我的弟兄们"
     },
     {
       "surface": "בגדו",
-      "english": "行事诡诈"
+      "gloss": "行事诡诈"
     },
     {
       "surface": "כמו",
-      "english": "如同"
+      "gloss": "如同"
     },
     {
       "surface": "נחל",
-      "english": "נָחַל（干涸溪谷）"
+      "gloss": "נָחַל（干涸溪谷）"
     },
     {
       "surface": "כאפיק",
-      "english": "像……的河道"
+      "gloss": "像……的河道"
     },
     {
       "surface": "נחלים",
-      "english": "溪谷（复数）"
+      "gloss": "溪谷（复数）"
     },
     {
       "surface": "יעברו",
-      "english": "它们流过去"
+      "gloss": "它们流过去"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:13.582177117Z",
-  "model": "glm-5.2"
+  ]
 }

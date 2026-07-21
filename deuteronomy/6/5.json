@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "deuteronomy 6:5",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19468,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20003
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:32:03.352536600Z",
   "translation": "你要爱 ⟨את⟩ 雅威 ⟨你的⟩ 以罗欣,尽 ⟨你的⟩ 全心、尽 ⟨你的⟩ 全性命、尽 ⟨你的⟩ 全力。",
   "tokens": [
     {
       "surface": "ואהבת",
-      "english": "你要爱"
+      "gloss": "你要爱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     },
     {
       "surface": "בכל",
-      "english": "尽 ⟨你的⟩ 全"
+      "gloss": "尽 ⟨你的⟩ 全"
     },
     {
       "surface": "לבבך",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "ובכל",
-      "english": "尽 ⟨你的⟩ 全"
+      "gloss": "尽 ⟨你的⟩ 全"
     },
     {
       "surface": "נפשך",
-      "english": "性命"
+      "gloss": "性命"
     },
     {
       "surface": "ובכל",
-      "english": "尽 ⟨你的⟩ 全"
+      "gloss": "尽 ⟨你的⟩ 全"
     },
     {
       "surface": "מאדך",
-      "english": "力"
+      "gloss": "力"
     }
-  ],
-  "timestamp": "2026-07-17T19:32:03.352536600Z",
-  "model": "glm-5.2"
+  ]
 }

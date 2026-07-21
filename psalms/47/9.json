@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 47:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 480,
-    "prompt_tokens": 64605,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65085
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:36:28.097422530Z",
   "translation": "以罗欣在列国中掌权;以罗欣安坐在祂圣洁的宝座上。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "在...掌权"
+      "gloss": "在...掌权"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "על",
-      "english": "在...中"
+      "gloss": "在...中"
     },
     {
       "surface": "גוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ישב",
-      "english": "安坐在"
+      "gloss": "安坐在"
     },
     {
       "surface": "על",
-      "english": "在...上"
+      "gloss": "在...上"
     },
     {
       "surface": "כסא",
-      "english": "宝座"
+      "gloss": "宝座"
     },
     {
       "surface": "קדשו",
-      "english": "祂圣洁的"
+      "gloss": "祂圣洁的"
     }
-  ],
-  "timestamp": "2026-07-21T02:36:28.097422530Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 24:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21588,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21934
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:56.754110381Z",
   "translation": "赤身的人无衣行走，饥饿的人 ⟨את⟩ 谷捆扛走。",
   "tokens": [
     {
       "surface": "ערום",
-      "english": "赤身的人"
+      "gloss": "赤身的人"
     },
     {
       "surface": "הלכו",
-      "english": "行走"
+      "gloss": "行走"
     },
     {
       "surface": "בלי",
-      "english": "无"
+      "gloss": "无"
     },
     {
       "surface": "לבוש",
-      "english": "衣"
+      "gloss": "衣"
     },
     {
       "surface": "ורעבים",
-      "english": "饥饿的人"
+      "gloss": "饥饿的人"
     },
     {
       "surface": "נשאו",
-      "english": "扛走"
+      "gloss": "扛走"
     },
     {
       "surface": "עמר",
-      "english": "⟨את⟩ 谷捆"
+      "gloss": "⟨את⟩ 谷捆"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:56.754110381Z",
-  "model": "glm-5.2"
+  ]
 }

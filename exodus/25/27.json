@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "exodus 25:27",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18632,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19057
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:27:44.081695161Z",
   "translation": "紧贴框架 ⟨要⟩有环,⟨作为⟩杆子的底座,用以抬 ⟨את⟩桌子。",
   "tokens": [
     {
       "surface": "לְ\/עֻמַּת",
-      "english": "紧贴"
+      "gloss": "紧贴"
     },
     {
       "surface": "הַ\/מִּסְגֶּרֶת",
-      "english": "框架"
+      "gloss": "框架"
     },
     {
       "surface": "תִּהְיֶ֖ינָה",
-      "english": "⟨要⟩有"
+      "gloss": "⟨要⟩有"
     },
     {
       "surface": "הַ\/טַּבָּעֹ֑ת",
-      "english": "环"
+      "gloss": "环"
     },
     {
       "surface": "לְ\/בָתִּ֣ים",
-      "english": "⟨作为⟩底座"
+      "gloss": "⟨作为⟩底座"
     },
     {
       "surface": "לְ\/בַדִּ֔ים",
-      "english": "给杆子"
+      "gloss": "给杆子"
     },
     {
       "surface": "לָ\/שֵׂ֖את",
-      "english": "用以抬"
+      "gloss": "用以抬"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "桌子"
     },
     {
       "surface": "הַ\/שֻּׁלְחָֽן",
-      "english": "桌子"
+      "gloss": "桌子"
     }
-  ],
-  "timestamp": "2026-07-17T18:27:44.081695161Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "lamentations 3:7",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 324,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33516,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33840
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:31.240158505Z",
   "translation": "他围圈在我周围,我不能出去;他使我的铜链变重。",
   "tokens": [
     {
       "surface": "גדר",
-      "english": "围圈"
+      "gloss": "围圈"
     },
     {
       "surface": "בעדי",
-      "english": "在我周围"
+      "gloss": "在我周围"
     },
     {
       "surface": "ולא",
-      "english": "而不能"
+      "gloss": "而不能"
     },
     {
       "surface": "אצא",
-      "english": "出去"
+      "gloss": "出去"
     },
     {
       "surface": "הכביד",
-      "english": "他使……变重"
+      "gloss": "他使……变重"
     },
     {
       "surface": "נחשתי",
-      "english": "我的铜链"
+      "gloss": "我的铜链"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:31.240158505Z",
-  "model": "glm-5.2"
+  ]
 }

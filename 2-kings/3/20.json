@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 3:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18952,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19428
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:21:23.726298014Z",
   "translation": "到了早晨,在献上素祭的时候,看哪,水从以东路方向涌来,全地满了⟨את⟩那水。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "到了"
+      "gloss": "到了"
     },
     {
       "surface": "בבקר",
-      "english": "早晨"
+      "gloss": "早晨"
     },
     {
       "surface": "כעלות",
-      "english": "在献上……的时候"
+      "gloss": "在献上……的时候"
     },
     {
       "surface": "המנחה",
-      "english": "素祭"
+      "gloss": "素祭"
     },
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "באים",
-      "english": "涌来"
+      "gloss": "涌来"
     },
     {
       "surface": "מדרך",
-      "english": "从……路方向"
+      "gloss": "从……路方向"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "ותמלא",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "הארץ",
-      "english": "全地"
+      "gloss": "全地"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那水 (המים)"
     },
     {
       "surface": "המים",
-      "english": "那水"
+      "gloss": "那水"
     }
-  ],
-  "timestamp": "2026-07-18T03:21:23.726298014Z",
-  "model": "glm-5.2"
+  ]
 }

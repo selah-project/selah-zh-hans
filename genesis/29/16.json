@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 29:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22960,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23411
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:38.605000457Z",
   "translation": "拉班有两个女儿：大的名叫莉亚，小的名叫拉结。",
   "tokens": [
     {
       "surface": "וּ\/לְ\/לָבָ֖ן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "שְׁתֵּ֣י",
-      "english": "两个"
+      "gloss": "两个"
     },
     {
       "surface": "בָנ֑וֹת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "שֵׁ֤ם",
-      "english": "名"
+      "gloss": "名"
     },
     {
       "surface": "הַ\/גְּדֹלָה֙",
-      "english": "大的"
+      "gloss": "大的"
     },
     {
       "surface": "לֵאָ֔ה",
-      "english": "莉亚"
+      "gloss": "莉亚"
     },
     {
       "surface": "וְ\/שֵׁ֥ם",
-      "english": "而……的名"
+      "gloss": "而……的名"
     },
     {
       "surface": "הַ\/קְּטַנָּ֖ה",
-      "english": "小的"
+      "gloss": "小的"
     },
     {
       "surface": "רָחֵֽל",
-      "english": "拉结"
+      "gloss": "拉结"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:38.605000457Z",
-  "model": "glm-5.2"
+  ]
 }

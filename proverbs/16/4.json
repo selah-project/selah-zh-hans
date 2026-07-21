@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 16:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54463,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54795
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:47.615569094Z",
   "translation": "雅威所做的一切,都⟨各⟩有其对应的用處,甚至惡人,也是為災禍之日而造。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "פעל",
-      "english": "所做"
+      "gloss": "所做"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "למענהו",
-      "english": "都⟨各⟩有其对应的用處"
+      "gloss": "都⟨各⟩有其对应的用處"
     },
     {
       "surface": "וגם",
-      "english": "甚至"
+      "gloss": "甚至"
     },
     {
       "surface": "רשע",
-      "english": "惡人"
+      "gloss": "惡人"
     },
     {
       "surface": "ליום",
-      "english": "也是為……之日"
+      "gloss": "也是為……之日"
     },
     {
       "surface": "רעה",
-      "english": "災禍"
+      "gloss": "災禍"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:47.615569094Z",
-  "model": "glm-5.2"
+  ]
 }

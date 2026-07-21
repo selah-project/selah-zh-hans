@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 93:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 93,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64261,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64642
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:32.934793077Z",
   "translation": "你的宝座自那时起就已立定，从永恒之中⟨是⟩你。",
   "tokens": [
     {
       "surface": "נָכ֣וֹן",
-      "english": "已立定"
+      "gloss": "已立定"
     },
     {
       "surface": "כִּסְאֲ\/ךָ֣",
-      "english": "你的宝座"
+      "gloss": "你的宝座"
     },
     {
       "surface": "מֵ\/אָ֑ז",
-      "english": "自那时起"
+      "gloss": "自那时起"
     },
     {
       "surface": "מֵֽ\/עוֹלָ֣ם",
-      "english": "从永恒之中"
+      "gloss": "从永恒之中"
     },
     {
       "surface": "אָֽתָּה",
-      "english": "你"
+      "gloss": "你"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:32.934793077Z",
-  "model": "glm-5.2"
+  ]
 }

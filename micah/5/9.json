@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "micah 5:9",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17579,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18067
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:26:09.562326533Z",
   "translation": "那日必到 —— 雅威的宣告:我必从你中间剪除你的马匹,我必除灭你的战车。",
   "tokens": [
     {
       "surface": "והיה",
-      "english": "⟨必到⟩"
+      "gloss": "⟨必到⟩"
     },
     {
       "surface": "ביום",
-      "english": "在……那日"
+      "gloss": "在……那日"
     },
     {
       "surface": "ההוא",
-      "english": "那个"
+      "gloss": "那个"
     },
     {
       "surface": "נאם",
-      "english": "……的宣告"
+      "gloss": "……的宣告"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "והכרתי",
-      "english": "我必剪除"
+      "gloss": "我必剪除"
     },
     {
       "surface": "סוסיך",
-      "english": "你的马匹"
+      "gloss": "你的马匹"
     },
     {
       "surface": "מקרבך",
-      "english": "从你中间"
+      "gloss": "从你中间"
     },
     {
       "surface": "והאבדתי",
-      "english": "我必除灭"
+      "gloss": "我必除灭"
     },
     {
       "surface": "מרכבתיך",
-      "english": "你的战车"
+      "gloss": "你的战车"
     }
-  ],
-  "timestamp": "2026-07-17T23:26:09.562326533Z",
-  "model": "glm-5.2"
+  ]
 }

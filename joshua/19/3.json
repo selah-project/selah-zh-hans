@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "joshua 19:3",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 192,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17452,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17644
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:01:55.463590297Z",
   "translation": "还有哈萨·书亚、巴拉和以森,",
   "tokens": [
     {
       "surface": "וחצר",
-      "english": "还有哈萨"
+      "gloss": "还有哈萨"
     },
     {
       "surface": "שועל",
-      "english": "-书亚"
+      "gloss": "-书亚"
     },
     {
       "surface": "ובלה",
-      "english": "、巴拉"
+      "gloss": "、巴拉"
     },
     {
       "surface": "ועצם",
-      "english": "和以森"
+      "gloss": "和以森"
     }
-  ],
-  "timestamp": "2026-07-17T20:01:55.463590297Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 1:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 253,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21823,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22076
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:12.697237578Z",
   "translation": "⟨到了⟩一日，他的儿子们和他的女儿们正在吃喝着酒，在他们长兄的家中。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨到了⟩"
+      "gloss": "⟨到了⟩"
     },
     {
       "surface": "היום",
-      "english": "一日"
+      "gloss": "一日"
     },
     {
       "surface": "ובניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ובנתיו",
-      "english": "和他的女儿们"
+      "gloss": "和他的女儿们"
     },
     {
       "surface": "אכלים",
-      "english": "正在吃"
+      "gloss": "正在吃"
     },
     {
       "surface": "ושתים",
-      "english": "喝着"
+      "gloss": "喝着"
     },
     {
       "surface": "יין",
-      "english": "酒"
+      "gloss": "酒"
     },
     {
       "surface": "בבית",
-      "english": "在……的家中"
+      "gloss": "在……的家中"
     },
     {
       "surface": "אחיהם",
-      "english": "他们兄弟"
+      "gloss": "他们兄弟"
     },
     {
       "surface": "הבכור",
-      "english": "长子"
+      "gloss": "长子"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:12.697237578Z",
-  "model": "glm-5.2"
+  ]
 }

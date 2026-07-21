@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 2:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22801,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23223
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:07.288661885Z",
   "translation": "二人⟨都⟩赤身露体——那亚当和他的妻子,也不觉得羞愧。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨他们⟩是"
+      "gloss": "⟨他们⟩是"
     },
     {
       "surface": "שניהם",
-      "english": "他们二人"
+      "gloss": "他们二人"
     },
     {
       "surface": "ערומים",
-      "english": "赤身露体"
+      "gloss": "赤身露体"
     },
     {
       "surface": "האדם",
-      "english": "那亚当"
+      "gloss": "那亚当"
     },
     {
       "surface": "ואשתו",
-      "english": "和他的妻子"
+      "gloss": "和他的妻子"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "יתבששו",
-      "english": "觉得羞愧"
+      "gloss": "觉得羞愧"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:07.288661885Z",
-  "model": "glm-5.2"
+  ]
 }

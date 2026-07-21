@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 49:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64378,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64722
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:56.326475324Z",
   "translation": "我向比喻侧耳倾听,我用琴拨开我的谜语。",
   "tokens": [
     {
       "surface": "אטה",
-      "english": "我向……侧耳倾听"
+      "gloss": "我向……侧耳倾听"
     },
     {
       "surface": "למשל",
-      "english": "比喻"
+      "gloss": "比喻"
     },
     {
       "surface": "אזני",
-      "english": "我的耳"
+      "gloss": "我的耳"
     },
     {
       "surface": "אפתח",
-      "english": "我拨开"
+      "gloss": "我拨开"
     },
     {
       "surface": "בכנור",
-      "english": "用琴"
+      "gloss": "用琴"
     },
     {
       "surface": "חידתי",
-      "english": "我的谜语"
+      "gloss": "我的谜语"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:56.326475324Z",
-  "model": "glm-5.2"
+  ]
 }

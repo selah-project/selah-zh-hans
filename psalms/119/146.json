@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 146,
   "ref": "psalms 119:146",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 221,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64190,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64411
-  },
+  "verse": 146,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:27.558163564Z",
   "translation": "我呼求了你：拯救我！我就要守护你的法度。",
   "tokens": [
     {
       "surface": "קראתיך",
-      "english": "我呼求了你"
+      "gloss": "我呼求了你"
     },
     {
       "surface": "הושיעני",
-      "english": "拯救我"
+      "gloss": "拯救我"
     },
     {
       "surface": "ואשמרה",
-      "english": "我就要守护"
+      "gloss": "我就要守护"
     },
     {
       "surface": "עדתיך",
-      "english": "你的法度"
+      "gloss": "你的法度"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:27.558163564Z",
-  "model": "glm-5.2"
+  ]
 }

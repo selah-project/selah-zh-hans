@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "esther 4:17",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19209,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19493
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:25:24.201863490Z",
   "translation": "末底改过去,⟨他⟩做了以斯帖所吩咐他的一切。",
   "tokens": [
     {
       "surface": "ויעבר",
-      "english": "过去"
+      "gloss": "过去"
     },
     {
       "surface": "מרדכי",
-      "english": "末底改"
+      "gloss": "末底改"
     },
     {
       "surface": "ויעש",
-      "english": "⟨他⟩做了"
+      "gloss": "⟨他⟩做了"
     },
     {
       "surface": "ככל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "צותה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "עליו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "אסתר",
-      "english": "以斯帖"
+      "gloss": "以斯帖"
     }
-  ],
-  "timestamp": "2026-07-18T01:25:24.201863490Z",
-  "model": "glm-5.2"
+  ]
 }

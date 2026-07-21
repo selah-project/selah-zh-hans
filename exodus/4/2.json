@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 4:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18374,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18739
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:11:31.313803098Z",
   "translation": "雅威对他说:你手里 ⟨是⟩ 什么?他说:一根杖。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אליו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מזה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "בידך",
-      "english": "在你手里"
+      "gloss": "在你手里"
     },
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "מטה",
-      "english": "一根杖"
+      "gloss": "一根杖"
     }
-  ],
-  "timestamp": "2026-07-17T18:11:31.313803098Z",
-  "model": "glm-5.2"
+  ]
 }

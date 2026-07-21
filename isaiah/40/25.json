@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "isaiah 40:25",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20491,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20914
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:27.682020421Z",
   "translation": "那你们要将我比作谁,⟨我⟩才可等同呢?圣者说。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "那⟨对⟩"
+      "gloss": "那⟨对⟩"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "תדמיוני",
-      "english": "你们要将我比作"
+      "gloss": "你们要将我比作"
     },
     {
       "surface": "ואשוה",
-      "english": "⟨我⟩才可等同呢"
+      "gloss": "⟨我⟩才可等同呢"
     },
     {
       "surface": "יאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "קדוש",
-      "english": "圣者"
+      "gloss": "圣者"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:27.682020421Z",
-  "model": "glm-5.2"
+  ]
 }

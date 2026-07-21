@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "2-samuel 7:1",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18936,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19296
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:43:25.534626439Z",
   "translation": "事情发生在这个时候：王住在⟨他的⟩殿里，雅威已经使他四围从一切仇敌中得享安息。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生在这个时候："
+      "gloss": "事情发生在这个时候："
     },
     {
       "surface": "כי",
-      "english": "当……的时候"
+      "gloss": "当……的时候"
     },
     {
       "surface": "ישב",
-      "english": "住"
+      "gloss": "住"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בביתו",
-      "english": "在⟨他的⟩殿里"
+      "gloss": "在⟨他的⟩殿里"
     },
     {
       "surface": "ויהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הניח",
-      "english": "已经使……得享安息"
+      "gloss": "已经使……得享安息"
     },
     {
       "surface": "לו",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "מסביב",
-      "english": "四围"
+      "gloss": "四围"
     },
     {
       "surface": "מכל",
-      "english": "从一切"
+      "gloss": "从一切"
     },
     {
       "surface": "איביו",
-      "english": "仇敌"
+      "gloss": "仇敌"
     }
-  ],
-  "timestamp": "2026-07-17T20:43:25.534626439Z",
-  "model": "glm-5.2"
+  ]
 }

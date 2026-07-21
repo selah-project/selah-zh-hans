@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 12:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 217,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54536,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54753
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:31.890841509Z",
   "translation": "耕种自己土地的，饱得粮食；追逐虚妄的，缺乏心智。",
   "tokens": [
     {
       "surface": "עבד",
-      "english": "耕种"
+      "gloss": "耕种"
     },
     {
       "surface": "אדמתו",
-      "english": "自己土地的"
+      "gloss": "自己土地的"
     },
     {
       "surface": "ישבע",
-      "english": "饱得"
+      "gloss": "饱得"
     },
     {
       "surface": "לחם",
-      "english": "粮食"
+      "gloss": "粮食"
     },
     {
       "surface": "ומרדף",
-      "english": "追逐"
+      "gloss": "追逐"
     },
     {
       "surface": "ריקים",
-      "english": "虚妄的"
+      "gloss": "虚妄的"
     },
     {
       "surface": "חסר",
-      "english": "缺乏"
+      "gloss": "缺乏"
     },
     {
       "surface": "לב",
-      "english": "心智"
+      "gloss": "心智"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:31.890841509Z",
-  "model": "glm-5.2"
+  ]
 }

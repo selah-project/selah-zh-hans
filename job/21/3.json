@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 21:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21513,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21863
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:17.132925897Z",
   "translation": "请容忍⟨我⟩,我要说话;我说话之后,你们尽管嘲笑。",
   "tokens": [
     {
       "surface": "שאוני",
-      "english": "请容忍"
+      "gloss": "请容忍"
     },
     {
       "surface": "ואנכי",
-      "english": "我要"
+      "gloss": "我要"
     },
     {
       "surface": "אדבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "ואחר",
-      "english": "之后"
+      "gloss": "之后"
     },
     {
       "surface": "דברי",
-      "english": "我说话"
+      "gloss": "我说话"
     },
     {
       "surface": "תלעיג",
-      "english": "你们尽管嘲笑"
+      "gloss": "你们尽管嘲笑"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:17.132925897Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 40:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 557,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64660,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65217
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:01.500206055Z",
   "translation": "而我 ⟨是⟩ 困苦穷乏的；阿多奈眷念我。你是我的帮助和我的拯救；以罗欣 ⟨我 ⟩的 ⟨神⟩ 啊，求你不要耽延。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "עני",
-      "english": "困苦穷乏的"
+      "gloss": "困苦穷乏的"
     },
     {
       "surface": "ואביון",
-      "english": "（与困苦并列的）赤贫者"
+      "gloss": "（与困苦并列的）赤贫者"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יחשב",
-      "english": "眷念"
+      "gloss": "眷念"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "עזרתי",
-      "english": "我的帮助"
+      "gloss": "我的帮助"
     },
     {
       "surface": "ומפלטי",
-      "english": "和我的拯救"
+      "gloss": "和我的拯救"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אל",
-      "english": "求你不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תאחר",
-      "english": "耽延"
+      "gloss": "耽延"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:01.500206055Z",
-  "model": "glm-5.2"
+  ]
 }

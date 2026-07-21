@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 41:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21556,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21913
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:39.322800038Z",
   "translation": "各人 ⟨与⟩他的弟兄紧紧贴合，他们彼此卡住，⟨且⟩不分开。",
   "tokens": [
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "באחיהו",
-      "english": "⟨与⟩他的弟兄"
+      "gloss": "⟨与⟩他的弟兄"
     },
     {
       "surface": "ידבקו",
-      "english": "紧紧贴合"
+      "gloss": "紧紧贴合"
     },
     {
       "surface": "יתלכדו",
-      "english": "他们彼此卡住"
+      "gloss": "他们彼此卡住"
     },
     {
       "surface": "ולא",
-      "english": "⟨且⟩不"
+      "gloss": "⟨且⟩不"
     },
     {
       "surface": "יתפרדו",
-      "english": "分开"
+      "gloss": "分开"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:39.322800038Z",
-  "model": "glm-5.2"
+  ]
 }

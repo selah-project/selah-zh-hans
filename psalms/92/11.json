@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 92:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64702
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:15.949959005Z",
   "translation": "你高举了我的角如野牛的角；我被鲜嫩的油所膏抹。",
   "tokens": [
     {
       "surface": "ותרם",
-      "english": "你高举了"
+      "gloss": "你高举了"
     },
     {
       "surface": "כראים",
-      "english": "如野牛"
+      "gloss": "如野牛"
     },
     {
       "surface": "קרני",
-      "english": "我的角"
+      "gloss": "我的角"
     },
     {
       "surface": "בלתי",
-      "english": "我被膏抹"
+      "gloss": "我被膏抹"
     },
     {
       "surface": "בשמן",
-      "english": "用油"
+      "gloss": "用油"
     },
     {
       "surface": "רענן",
-      "english": "鲜嫩的"
+      "gloss": "鲜嫩的"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:15.949959005Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-samuel 3:2",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18925,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19260
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:41:06.146977981Z",
   "translation": "儿子们在希伯仑为大卫所生;⟨他的⟩长子是阿姆农,⟨从⟩阿希暖⟨而来⟩,那耶斯列人。",
   "tokens": [
     {
       "surface": "וילדו",
-      "english": "⟨被⟩生"
+      "gloss": "⟨被⟩生"
     },
     {
       "surface": "לדוד",
-      "english": "给大卫"
+      "gloss": "给大卫"
     },
     {
       "surface": "בנים",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "בחברון",
-      "english": "在希伯仑"
+      "gloss": "在希伯仑"
     },
     {
       "surface": "ויהי",
-      "english": "⟨他⟩是"
+      "gloss": "⟨他⟩是"
     },
     {
       "surface": "בכורו",
-      "english": "⟨他的⟩长子"
+      "gloss": "⟨他的⟩长子"
     },
     {
       "surface": "אמנון",
-      "english": "阿姆农"
+      "gloss": "阿姆农"
     },
     {
       "surface": "לאחינעם",
-      "english": "属阿希暖"
+      "gloss": "属阿希暖"
     },
     {
       "surface": "היזרעאלת",
-      "english": "那耶斯列人"
+      "gloss": "那耶斯列人"
     }
-  ],
-  "timestamp": "2026-07-17T20:41:06.146977981Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 33:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64390,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64841
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:52.370687225Z",
   "translation": "当向雅威认谢，用琴；用十弦*nevel*，向他弹奏。",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "当认谢"
+      "gloss": "当认谢"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "בכנור",
-      "english": "用琴"
+      "gloss": "用琴"
     },
     {
       "surface": "בנבל",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "עשור",
-      "english": "十弦 *nevel*"
+      "gloss": "十弦 *nevel*"
     },
     {
       "surface": "זמרו",
-      "english": "向他弹奏"
+      "gloss": "向他弹奏"
     },
     {
       "surface": "לו",
-      "english": "向他"
+      "gloss": "向他"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:52.370687225Z",
-  "model": "glm-5.2"
+  ]
 }

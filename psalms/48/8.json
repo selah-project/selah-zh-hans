@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 48:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64645
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:37.218096722Z",
   "translation": "以东风⟨你⟩击碎他施的船只。",
   "tokens": [
     {
       "surface": "ברוח",
-      "english": "以鲁阿 (风)"
+      "gloss": "以鲁阿 (风)"
     },
     {
       "surface": "קדים",
-      "english": "东"
+      "gloss": "东"
     },
     {
       "surface": "תשבר",
-      "english": "⟨你⟩击碎"
+      "gloss": "⟨你⟩击碎"
     },
     {
       "surface": "אניות",
-      "english": "船只"
+      "gloss": "船只"
     },
     {
       "surface": "תרשיש",
-      "english": "他施"
+      "gloss": "他施"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:37.218096722Z",
-  "model": "glm-5.2"
+  ]
 }

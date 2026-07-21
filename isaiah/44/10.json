@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 44:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20536,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20905
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:55:31.444887860Z",
   "translation": "谁塑造了一位神明，或浇铸了一座雕像，⟨以致⟩毫无益处？",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יצר",
-      "english": "塑造了"
+      "gloss": "塑造了"
     },
     {
       "surface": "אל",
-      "english": "一位神明"
+      "gloss": "一位神明"
     },
     {
       "surface": "ופסל",
-      "english": "或浇铸了一座雕像"
+      "gloss": "或浇铸了一座雕像"
     },
     {
       "surface": "נסך",
-      "english": "浇铸"
+      "gloss": "浇铸"
     },
     {
       "surface": "לבלתי",
-      "english": "⟨以致⟩不"
+      "gloss": "⟨以致⟩不"
     },
     {
       "surface": "הועיל",
-      "english": "有益"
+      "gloss": "有益"
     }
-  ],
-  "timestamp": "2026-07-17T21:55:31.444887860Z",
-  "model": "glm-5.2"
+  ]
 }

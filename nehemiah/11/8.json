@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "nehemiah 11:8",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51067,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51360
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:48:51.004352474Z",
   "translation": "在他之后⟨是⟩加拜、萨莱,九百二十又八。",
   "tokens": [
     {
       "surface": "ואחריו",
-      "english": "在他之后"
+      "gloss": "在他之后"
     },
     {
       "surface": "גבי",
-      "english": "加拜"
+      "gloss": "加拜"
     },
     {
       "surface": "סלי",
-      "english": "萨莱"
+      "gloss": "萨莱"
     },
     {
       "surface": "תשע",
-      "english": "九"
+      "gloss": "九"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "ושמנה",
-      "english": "又八"
+      "gloss": "又八"
     }
-  ],
-  "timestamp": "2026-07-18T01:48:51.004352474Z",
-  "model": "glm-5.2"
+  ]
 }

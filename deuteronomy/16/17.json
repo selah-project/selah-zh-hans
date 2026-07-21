@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "deuteronomy 16:17",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19339,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19805
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:38:11.650306949Z",
   "translation": "各人按 ⟨他⟩ 手的礼物，按雅威 ⟨你⟩ 的以罗欣所赐给 ⟨你⟩ 的祝福 ⟨如此给⟩。",
   "tokens": [
     {
       "surface": "איש",
-      "english": "各人"
+      "gloss": "各人"
     },
     {
       "surface": "כמתנת",
-      "english": "按……的礼物"
+      "gloss": "按……的礼物"
     },
     {
       "surface": "ידו",
-      "english": "⟨他⟩ 手"
+      "gloss": "⟨他⟩ 手"
     },
     {
       "surface": "כברכת",
-      "english": "按……的祝福"
+      "gloss": "按……的祝福"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "⟨你⟩ 的以罗欣"
+      "gloss": "⟨你⟩ 的以罗欣"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "נתן",
-      "english": "赐给"
+      "gloss": "赐给"
     },
     {
       "surface": "לך",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:38:11.650306949Z",
-  "model": "glm-5.2"
+  ]
 }

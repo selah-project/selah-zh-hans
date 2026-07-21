@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "exodus 29:6",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18726,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19145
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:30:37.797042025Z",
   "translation": "你要把裹头巾戴在他头上,你要把⟨את⟩圣冠戴在裹头巾上。",
   "tokens": [
     {
       "surface": "ושמת",
-      "english": "你要把……放"
+      "gloss": "你要把……放"
     },
     {
       "surface": "המצנפת",
-      "english": "裹头巾"
+      "gloss": "裹头巾"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ראשו",
-      "english": "他的头"
+      "gloss": "他的头"
     },
     {
       "surface": "ונתת",
-      "english": "你要给"
+      "gloss": "你要给"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "圣冠"
     },
     {
       "surface": "נזר",
-      "english": "冠"
+      "gloss": "冠"
     },
     {
       "surface": "הקדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "המצנפת",
-      "english": "裹头巾"
+      "gloss": "裹头巾"
     }
-  ],
-  "timestamp": "2026-07-17T18:30:37.797042025Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 145:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 269,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64435,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64704
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:11.338346999Z",
   "translation": "雅威对一切 ⟨都⟩ 好，他的怜悯 ⟨覆⟩ 于他一切的工作之上。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לכל",
-      "english": "对一切"
+      "gloss": "对一切"
     },
     {
       "surface": "ורחמיו",
-      "english": "他的怜悯"
+      "gloss": "他的怜悯"
     },
     {
       "surface": "על",
-      "english": "……之上"
+      "gloss": "……之上"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מעשיו",
-      "english": "他的工作"
+      "gloss": "他的工作"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:11.338346999Z",
-  "model": "glm-5.2"
+  ]
 }

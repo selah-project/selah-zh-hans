@@ -1,87 +1,76 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "exodus 39:33",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19302,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19844
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:39:17.781780653Z",
   "translation": "他们将⟨את⟩הַ\/מִּשְׁכָּן֙带到摩西那里，⟨את⟩הָ\/אֹ֖הֶל和⟨את⟩它的一切器具，它的钩子、它的板子、它的横木，以及它的柱子和它的卯座。",
   "tokens": [
     {
       "surface": "ויביאו",
-      "english": "他们将…带来"
+      "gloss": "他们将…带来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "המשכן (会幕)"
     },
     {
       "surface": "המשכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "אל",
-      "english": "到…那里"
+      "gloss": "到…那里"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האהל (帐棚)"
     },
     {
       "surface": "האהל",
-      "english": "帐棚"
+      "gloss": "帐棚"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "כל (一切)"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "קרסיו",
-      "english": "它的钩子"
+      "gloss": "它的钩子"
     },
     {
       "surface": "קרשיו",
-      "english": "它的板子"
+      "gloss": "它的板子"
     },
     {
       "surface": "בריחו",
-      "english": "它的横木"
+      "gloss": "它的横木"
     },
     {
       "surface": "ועמדיו",
-      "english": "以及它的柱子"
+      "gloss": "以及它的柱子"
     },
     {
       "surface": "ואדניו",
-      "english": "和它的卯座"
+      "gloss": "和它的卯座"
     }
-  ],
-  "timestamp": "2026-07-17T18:39:17.781780653Z",
-  "model": "glm-5.2"
+  ]
 }

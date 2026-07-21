@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 59:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64472,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64816
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:16.490777934Z",
   "translation": "他们游荡如⟨要⟩吃食；若不饱足，他们就过夜。",
   "tokens": [
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "ינועון",
-      "english": "游荡"
+      "gloss": "游荡"
     },
     {
       "surface": "לאכל",
-      "english": "如⟨要⟩吃食"
+      "gloss": "如⟨要⟩吃食"
     },
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישבעו",
-      "english": "饱足"
+      "gloss": "饱足"
     },
     {
       "surface": "וילינו",
-      "english": "他们就过夜"
+      "gloss": "他们就过夜"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:16.490777934Z",
-  "model": "glm-5.2"
+  ]
 }

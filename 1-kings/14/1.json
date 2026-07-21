@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-kings 14:1",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 239,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63686,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 63925
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:08:57.973923591Z",
   "translation": "在那时，雅罗波暗的儿子亚比雅病了。",
   "tokens": [
     {
       "surface": "בעת",
-      "english": "在……时"
+      "gloss": "在……时"
     },
     {
       "surface": "ההיא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "חלה",
-      "english": "病了"
+      "gloss": "病了"
     },
     {
       "surface": "אביה",
-      "english": "亚比雅"
+      "gloss": "亚比雅"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "ירבעם",
-      "english": "雅罗波暗"
+      "gloss": "雅罗波暗"
     }
-  ],
-  "timestamp": "2026-07-17T21:08:57.973923591Z",
-  "model": "glm-5.2"
+  ]
 }

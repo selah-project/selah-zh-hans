@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 46:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20405,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20856
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:56:51.311706062Z",
   "translation": "你们将我比作谁，⟨又⟩使之相等？你们将我比拟，⟨以致⟩相似？",
   "tokens": [
     {
       "surface": "למי",
-      "english": "将我比作谁"
+      "gloss": "将我比作谁"
     },
     {
       "surface": "תדמיוני",
-      "english": "你们将我比作"
+      "gloss": "你们将我比作"
     },
     {
       "surface": "ותשוו",
-      "english": "⟨又⟩使之相等"
+      "gloss": "⟨又⟩使之相等"
     },
     {
       "surface": "ותמשלוני",
-      "english": "你们将我比拟"
+      "gloss": "你们将我比拟"
     },
     {
       "surface": "ונדמה",
-      "english": "⟨以致⟩相似"
+      "gloss": "⟨以致⟩相似"
     }
-  ],
-  "timestamp": "2026-07-17T21:56:51.311706062Z",
-  "model": "glm-5.2"
+  ]
 }

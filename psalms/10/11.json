@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 10:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 466,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64522,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64988
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:12.038563832Z",
   "translation": "他心里说：⟨以罗欣⟩忘记了，他掩了面，绝对不看见——直到永远。",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "בלבו",
-      "english": "在他心里"
+      "gloss": "在他心里"
     },
     {
       "surface": "שכח",
-      "english": "忘记了"
+      "gloss": "忘记了"
     },
     {
       "surface": "אל",
-      "english": "⟨以罗欣⟩"
+      "gloss": "⟨以罗欣⟩"
     },
     {
       "surface": "הסתיר",
-      "english": "他掩藏了"
+      "gloss": "他掩藏了"
     },
     {
       "surface": "פניו",
-      "english": "他的面"
+      "gloss": "他的面"
     },
     {
       "surface": "בל",
-      "english": "绝对不"
+      "gloss": "绝对不"
     },
     {
       "surface": "ראה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "לנצח",
-      "english": "直到永远"
+      "gloss": "直到永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:12.038563832Z",
-  "model": "glm-5.2"
+  ]
 }

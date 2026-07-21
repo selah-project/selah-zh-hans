@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 82:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64424,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64906
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:34.454837790Z",
   "translation": "我曾说:『你们是以罗欣 ⟨אתם⟩,至高者的子孙 —— 你们全都是;』",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אמרתי",
-      "english": "曾说"
+      "gloss": "曾说"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣 (复数形式)"
+      "gloss": "以罗欣 (复数形式)"
     },
     {
       "surface": "אתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "ובני",
-      "english": "和……的子孙"
+      "gloss": "和……的子孙"
     },
     {
       "surface": "עליון",
-      "english": "至高者"
+      "gloss": "至高者"
     },
     {
       "surface": "כלכם",
-      "english": "你们全都是"
+      "gloss": "你们全都是"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:34.454837790Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "proverbs 8:20",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54303,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54803
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:31.813944570Z",
   "translation": "我在公义的道路上行走,在公正的路径中间 ⟨行走⟩;",
   "tokens": [
     {
       "surface": "בְּ\/אֹֽרַח",
-      "english": "在……的道路上"
+      "gloss": "在……的道路上"
     },
     {
       "surface": "צְדָקָ֥ה",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "אֲהַלֵּ֑ך",
-      "english": "我行走"
+      "gloss": "我行走"
     },
     {
       "surface": "בְּ\/ת֗וֹךְ",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "נְתִיב֥וֹת",
-      "english": "路径"
+      "gloss": "路径"
     },
     {
       "surface": "מִשְׁפָּֽט",
-      "english": "公正"
+      "gloss": "公正"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:31.813944570Z",
-  "model": "glm-5.2"
+  ]
 }

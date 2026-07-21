@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "exodus 40:3",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 400,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18719,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19119
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:18.647923330Z",
   "translation": "你要把⟨את⟩法柜的约柜放在那里，并用⟨את⟩幔子遮盖约柜。",
   "tokens": [
     {
       "surface": "ושמת",
-      "english": "你要把……放"
+      "gloss": "你要把……放"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "法柜的约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "העדות",
-      "english": "法柜的"
+      "gloss": "法柜的"
     },
     {
       "surface": "וסכת",
-      "english": "并要遮盖"
+      "gloss": "并要遮盖"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הארן",
-      "english": "那约柜"
+      "gloss": "那约柜"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "幔子"
     },
     {
       "surface": "הפרכת",
-      "english": "幔子"
+      "gloss": "幔子"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:18.647923330Z",
-  "model": "glm-5.2"
+  ]
 }

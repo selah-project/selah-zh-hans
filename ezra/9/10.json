@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezra 9:10",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46643,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46997
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:41:29.355042802Z",
   "translation": "现在,我们的以罗欣啊,在这⟨事⟩之后我们还能说什么?因为我们离弃了你的诫命。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "נאמר",
-      "english": "我们⟨还能⟩说"
+      "gloss": "我们⟨还能⟩说"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣啊"
+      "gloss": "我们的以罗欣啊"
     },
     {
       "surface": "אחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "זאת",
-      "english": "这⟨事⟩"
+      "gloss": "这⟨事⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עזבנו",
-      "english": "我们离弃了"
+      "gloss": "我们离弃了"
     },
     {
       "surface": "מצותיך",
-      "english": "你的诫命"
+      "gloss": "你的诫命"
     }
-  ],
-  "timestamp": "2026-07-18T01:41:29.355042802Z",
-  "model": "glm-5.2"
+  ]
 }

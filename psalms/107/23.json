@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 107:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 273,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64367,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64640
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:24.074235352Z",
   "translation": "那些下到海里、在船只中的人，在水域繁多之处做工的；",
   "tokens": [
     {
       "surface": "יורדי",
-      "english": "那些下到……的人"
+      "gloss": "那些下到……的人"
     },
     {
       "surface": "הים",
-      "english": "海里"
+      "gloss": "海里"
     },
     {
       "surface": "באניות",
-      "english": "在船只中"
+      "gloss": "在船只中"
     },
     {
       "surface": "עשי",
-      "english": "做工的"
+      "gloss": "做工的"
     },
     {
       "surface": "מלאכה",
-      "english": "工"
+      "gloss": "工"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "רבים",
-      "english": "繁多的"
+      "gloss": "繁多的"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:24.074235352Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 54,
   "ref": "genesis 31:54",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23260,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23766
-  },
+  "verse": 54,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:54:05.715599966Z",
   "translation": "雅各在山上献上 *zevaj* ⟨זבח⟩，呼叫⟨他的⟩兄弟们来吃饼；他们就吃了饼，在山上过夜。",
   "tokens": [
     {
       "surface": "ויזבח",
-      "english": "献上"
+      "gloss": "献上"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "זבח",
-      "english": "*zevaj*（祭牲）"
+      "gloss": "*zevaj*（祭牲）"
     },
     {
       "surface": "בהר",
-      "english": "在山上"
+      "gloss": "在山上"
     },
     {
       "surface": "ויקרא",
-      "english": "呼叫"
+      "gloss": "呼叫"
     },
     {
       "surface": "לאחיו",
-      "english": "⟨他的⟩兄弟们"
+      "gloss": "⟨他的⟩兄弟们"
     },
     {
       "surface": "לאכל",
-      "english": "来吃"
+      "gloss": "来吃"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "ויאכלו",
-      "english": "他们就吃了"
+      "gloss": "他们就吃了"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "וילינו",
-      "english": "过夜"
+      "gloss": "过夜"
     },
     {
       "surface": "בהר",
-      "english": "在山上"
+      "gloss": "在山上"
     }
-  ],
-  "timestamp": "2026-07-17T17:54:05.715599966Z",
-  "model": "glm-5.2"
+  ]
 }

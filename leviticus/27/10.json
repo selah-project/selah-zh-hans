@@ -1,105 +1,94 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "leviticus 27:10",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20230,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20841
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:46.872138279Z",
   "translation": "他不可替换它,也不可更换 ⟨את⟩ 它——好换坏,或坏换好;他若确实用牲畜换牲畜,那么它和它的替换物都⟨将是⟩圣的。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יחליפנו",
-      "english": "他替换它"
+      "gloss": "他替换它"
     },
     {
       "surface": "ולא",
-      "english": "也不可"
+      "gloss": "也不可"
     },
     {
       "surface": "ימיר",
-      "english": "更换"
+      "gloss": "更换"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "好（牲畜）"
     },
     {
       "surface": "טוב",
-      "english": "好"
+      "gloss": "好"
     },
     {
       "surface": "ברע",
-      "english": "换坏"
+      "gloss": "换坏"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "רע",
-      "english": "坏"
+      "gloss": "坏"
     },
     {
       "surface": "בטוב",
-      "english": "换好"
+      "gloss": "换好"
     },
     {
       "surface": "ואם",
-      "english": "他若"
+      "gloss": "他若"
     },
     {
       "surface": "המר",
-      "english": "确实"
+      "gloss": "确实"
     },
     {
       "surface": "ימיר",
-      "english": "换"
+      "gloss": "换"
     },
     {
       "surface": "בהמה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "בבהמה",
-      "english": "换牲畜"
+      "gloss": "换牲畜"
     },
     {
       "surface": "והיה",
-      "english": "那么"
+      "gloss": "那么"
     },
     {
       "surface": "הוא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "ותמורתו",
-      "english": "和它的替换物"
+      "gloss": "和它的替换物"
     },
     {
       "surface": "יהיה",
-      "english": "都将是"
+      "gloss": "都将是"
     },
     {
       "surface": "קדש",
-      "english": "圣的"
+      "gloss": "圣的"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:46.872138279Z",
-  "model": "glm-5.2"
+  ]
 }

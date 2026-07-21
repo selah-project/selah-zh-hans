@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 5:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 307,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59719,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60026
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:11.707852736Z",
   "translation": "以色列的众长老全都来了，利未人抬起⟨את⟩约柜。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "来了"
+      "gloss": "来了"
     },
     {
       "surface": "כל",
-      "english": "全都"
+      "gloss": "全都"
     },
     {
       "surface": "זקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "ישראל",
-      "english": "以色列的"
+      "gloss": "以色列的"
     },
     {
       "surface": "וישאו",
-      "english": "⟨他们⟩抬起"
+      "gloss": "⟨他们⟩抬起"
     },
     {
       "surface": "הלוים",
-      "english": "利未人"
+      "gloss": "利未人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约柜"
     },
     {
       "surface": "הארון",
-      "english": "约柜"
+      "gloss": "约柜"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:11.707852736Z",
-  "model": "glm-5.2"
+  ]
 }

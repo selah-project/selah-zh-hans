@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "psalms 103:21",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 335,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64497,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64832
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:33.914548259Z",
   "translation": "你们要称颂雅威，他一切的万军，（就是）事奉他的，（就是）行他所喜悦之事的——",
   "tokens": [
     {
       "surface": "ברכו",
-      "english": "你们要称颂"
+      "gloss": "你们要称颂"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "צבאיו",
-      "english": "万军"
+      "gloss": "万军"
     },
     {
       "surface": "משרתיו",
-      "english": "事奉他的"
+      "gloss": "事奉他的"
     },
     {
       "surface": "עשי",
-      "english": "行……的"
+      "gloss": "行……的"
     },
     {
       "surface": "רצונו",
-      "english": "他所喜悦的事"
+      "gloss": "他所喜悦的事"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:33.914548259Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "psalms 106:30",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64268,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64675
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:24.952569698Z",
   "translation": "非尼哈 站起来行审判，瘟疫就被阻止了。",
   "tokens": [
     {
       "surface": "וַ\/יַּעֲמֹ֣ד",
-      "english": "站起来"
+      "gloss": "站起来"
     },
     {
       "surface": "פִּֽ֭ינְחָס",
-      "english": "非尼哈"
+      "gloss": "非尼哈"
     },
     {
       "surface": "וַ\/יְפַלֵּ֑ל",
-      "english": "行审判"
+      "gloss": "行审判"
     },
     {
       "surface": "וַ֝\/תֵּעָצַ֗ר",
-      "english": "就被阻止了"
+      "gloss": "就被阻止了"
     },
     {
       "surface": "הַ\/מַּגֵּפָֽה",
-      "english": "瘟疫"
+      "gloss": "瘟疫"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:24.952569698Z",
-  "model": "glm-5.2"
+  ]
 }

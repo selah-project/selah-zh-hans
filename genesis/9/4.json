@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "genesis 9:4",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 415,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22709,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23124
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:01.536890670Z",
   "translation": "只是 ⟨带着⟩ 它的生命 ⟨的⟩ 肉 —— 它的血 —— 你们不可吃。",
   "tokens": [
     {
       "surface": "אַךְ",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "בָּשָׂר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "בְּ\/נַפְשׁ\/וֹ",
-      "english": "带着它的生命"
+      "gloss": "带着它的生命"
     },
     {
       "surface": "דָמ\/וֹ",
-      "english": "它的血"
+      "gloss": "它的血"
     },
     {
       "surface": "לֹא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תֹאכֵֽלוּ",
-      "english": "你们吃"
+      "gloss": "你们吃"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:01.536890670Z",
-  "model": "glm-5.2"
+  ]
 }

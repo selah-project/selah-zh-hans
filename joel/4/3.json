@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "joel 4:3",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 626,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17860,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18486
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:57.856461077Z",
   "translation": "他们对我的民 cast ⟨גּוֹרָל⟩ (lot);他们将男孩给 זוֹנָה (zoná),将女孩卖了换酒,并且喝了。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "עמי",
-      "english": "我的民"
+      "gloss": "我的民"
     },
     {
       "surface": "ידו",
-      "english": "cast"
+      "gloss": "cast"
     },
     {
       "surface": "גורל",
-      "english": "גּוֹרָל (lot)"
+      "gloss": "גּוֹרָל (lot)"
     },
     {
       "surface": "ויתנו",
-      "english": "他们给"
+      "gloss": "他们给"
     },
     {
       "surface": "הילד",
-      "english": "男孩"
+      "gloss": "男孩"
     },
     {
       "surface": "בזונה",
-      "english": "换 זוֹנָה (zoná)"
+      "gloss": "换 זוֹנָה (zoná)"
     },
     {
       "surface": "והילדה",
-      "english": "女孩"
+      "gloss": "女孩"
     },
     {
       "surface": "מכרו",
-      "english": "他们卖了"
+      "gloss": "他们卖了"
     },
     {
       "surface": "ביין",
-      "english": "换酒"
+      "gloss": "换酒"
     },
     {
       "surface": "וישתו",
-      "english": "并且他们喝了"
+      "gloss": "并且他们喝了"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:57.856461077Z",
-  "model": "glm-5.2"
+  ]
 }

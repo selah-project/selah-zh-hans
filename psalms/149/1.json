@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 149:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64586,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65062
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:17.338608893Z",
   "translation": "הללו־雅!你们要向雅威唱新歌，愿他的赞美在敬虔者的会众之中。",
   "tokens": [
     {
       "surface": "הללו",
-      "english": "你们要赞美"
+      "gloss": "你们要赞美"
     },
     {
       "surface": "יה",
-      "english": "雅"
+      "gloss": "雅"
     },
     {
       "surface": "שירו",
-      "english": "你们要向……唱"
+      "gloss": "你们要向……唱"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שיר",
-      "english": "歌"
+      "gloss": "歌"
     },
     {
       "surface": "חדש",
-      "english": "新的"
+      "gloss": "新的"
     },
     {
       "surface": "תהלתו",
-      "english": "他的赞美"
+      "gloss": "他的赞美"
     },
     {
       "surface": "בקהל",
-      "english": "在会众中"
+      "gloss": "在会众中"
     },
     {
       "surface": "חסידים",
-      "english": "敬虔者"
+      "gloss": "敬虔者"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:17.338608893Z",
-  "model": "glm-5.2"
+  ]
 }

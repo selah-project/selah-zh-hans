@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 8:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60013,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60405
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:18:22.764216853Z",
   "translation": "他建造了⟨את⟩塔德莫尔在旷野中,以及⟨את⟩所有储货城,就是他在哈玛建造的。",
   "tokens": [
     {
       "surface": "ויבן",
-      "english": "他建造了"
+      "gloss": "他建造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "塔德莫尔"
     },
     {
       "surface": "תדמר",
-      "english": "塔德莫尔"
+      "gloss": "塔德莫尔"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野中"
+      "gloss": "在旷野中"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "所有储货城"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "ערי",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "המסכנות",
-      "english": "储货"
+      "gloss": "储货"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "בנה",
-      "english": "他建造的"
+      "gloss": "他建造的"
     },
     {
       "surface": "בחמת",
-      "english": "在哈玛"
+      "gloss": "在哈玛"
     }
-  ],
-  "timestamp": "2026-07-18T02:18:22.764216853Z",
-  "model": "glm-5.2"
+  ]
 }

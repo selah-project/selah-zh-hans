@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 55:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 526,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64751,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65277
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:55.557860004Z",
   "translation": "因仇敌的声音,因恶人的欺压 —— 因为他们将邪恶倾倒在我身上,在愤怒中他们恨恶我。",
   "tokens": [
     {
       "surface": "מקול",
-      "english": "因……的声音"
+      "gloss": "因……的声音"
     },
     {
       "surface": "אויב",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "מפני",
-      "english": "因……的面"
+      "gloss": "因……的面"
     },
     {
       "surface": "עקת",
-      "english": "欺压"
+      "gloss": "欺压"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ימיטו",
-      "english": "他们倾倒\/使摇摇欲坠"
+      "gloss": "他们倾倒\/使摇摇欲坠"
     },
     {
       "surface": "עלי",
-      "english": "在我身上"
+      "gloss": "在我身上"
     },
     {
       "surface": "און",
-      "english": "邪恶"
+      "gloss": "邪恶"
     },
     {
       "surface": "ובאף",
-      "english": "在愤怒中"
+      "gloss": "在愤怒中"
     },
     {
       "surface": "ישטמוני",
-      "english": "他们恨恶我"
+      "gloss": "他们恨恶我"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:55.557860004Z",
-  "model": "glm-5.2"
+  ]
 }

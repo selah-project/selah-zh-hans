@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-kings 8:3",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 274,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64004,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64278
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:00.769221673Z",
   "translation": "以色列的所有长老来到，祭司们抬起⟨את⟩约柜。",
   "tokens": [
     {
       "surface": "ויבאו",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "זקני",
-      "english": "长老"
+      "gloss": "长老"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "וישאו",
-      "english": "他们抬起"
+      "gloss": "他们抬起"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "约柜"
     },
     {
       "surface": "הארון",
-      "english": "约柜"
+      "gloss": "约柜"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:00.769221673Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 148:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 210,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64339,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64549
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:03.143885544Z",
   "translation": "少年人,以及处女;老人,与孩童。",
   "tokens": [
     {
       "surface": "בחורים",
-      "english": "少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "וגם",
-      "english": "以及"
+      "gloss": "以及"
     },
     {
       "surface": "בתולות",
-      "english": "处女"
+      "gloss": "处女"
     },
     {
       "surface": "זקנים",
-      "english": "老人"
+      "gloss": "老人"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "נערים",
-      "english": "孩童"
+      "gloss": "孩童"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:03.143885544Z",
-  "model": "glm-5.2"
+  ]
 }

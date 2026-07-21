@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "hosea 11:11",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21466,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 22076
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:16:02.722350972Z",
   "translation": "他们必如飞鸟从埃及战兢而来，如鸽子从亚述地⟨战兢而来⟩；我必使他们安居在他们的房屋中——这是雅威的宣告。",
   "tokens": [
     {
       "surface": "יֶחֶרְד֤וּ",
-      "english": "他们必战兢而来"
+      "gloss": "他们必战兢而来"
     },
     {
       "surface": "כְ\/צִפּוֹר֙",
-      "english": "如飞鸟"
+      "gloss": "如飞鸟"
     },
     {
       "surface": "מִ\/מִּצְרַ֔יִם",
-      "english": "从埃及"
+      "gloss": "从埃及"
     },
     {
       "surface": "וּ\/כְ\/יוֹנָ֖ה",
-      "english": "也如鸽子"
+      "gloss": "也如鸽子"
     },
     {
       "surface": "מֵ\/אֶ֣רֶץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "אַשּׁ֑וּר",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "וְ\/הוֹשַׁבְתִּ֥י\/ם",
-      "english": "我必使他们安居"
+      "gloss": "我必使他们安居"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "בָּתֵּי\/הֶ֖ם",
-      "english": "他们的房屋"
+      "gloss": "他们的房屋"
     },
     {
       "surface": "נְאֻם",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "יְהוָֽה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T23:16:02.722350972Z",
-  "model": "glm-5.2"
+  ]
 }

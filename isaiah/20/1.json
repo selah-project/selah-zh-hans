@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "isaiah 20:1",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21167,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21798
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:36.473200753Z",
   "translation": "在塔坦来到亚实突的年间——在撒珥根（亚述王）差遣⟨他⟩⟨את⟩去攻打亚实突并攻取它的时候——",
   "tokens": [
     {
       "surface": "בשנת",
-      "english": "在……的年间"
+      "gloss": "在……的年间"
     },
     {
       "surface": "בא",
-      "english": "来到"
+      "gloss": "来到"
     },
     {
       "surface": "תרתן",
-      "english": "塔坦"
+      "gloss": "塔坦"
     },
     {
       "surface": "אשדודה",
-      "english": "亚实突"
+      "gloss": "亚实突"
     },
     {
       "surface": "בשלח",
-      "english": "在……差遣……的时候"
+      "gloss": "在……差遣……的时候"
     },
     {
       "surface": "אתו",
-      "english": "⟨他⟩⟨את⟩",
+      "gloss": "⟨他⟩⟨את⟩",
       "marks": "撒珥根"
     },
     {
       "surface": "סרגון",
-      "english": "撒珥根"
+      "gloss": "撒珥根"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "וילחם",
-      "english": "去攻打"
+      "gloss": "去攻打"
     },
     {
       "surface": "באשדוד",
-      "english": "亚实突"
+      "gloss": "亚实突"
     },
     {
       "surface": "וילכדה",
-      "english": "并攻取它"
+      "gloss": "并攻取它"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:36.473200753Z",
-  "model": "glm-5.2"
+  ]
 }

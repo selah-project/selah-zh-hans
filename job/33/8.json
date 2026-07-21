@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 33:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21453,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21819
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:23.926774530Z",
   "translation": "诚然你曾在⟨我的⟩耳中说，我也听见言语的声音：",
   "tokens": [
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "אמרת",
-      "english": "你曾说"
+      "gloss": "你曾说"
     },
     {
       "surface": "באזני",
-      "english": "在⟨我的⟩耳中说"
+      "gloss": "在⟨我的⟩耳中说"
     },
     {
       "surface": "וקול",
-      "english": "我也听见……的声音"
+      "gloss": "我也听见……的声音"
     },
     {
       "surface": "מלין",
-      "english": "言语"
+      "gloss": "言语"
     },
     {
       "surface": "אשמע",
-      "english": "我听见"
+      "gloss": "我听见"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:23.926774530Z",
-  "model": "glm-5.2"
+  ]
 }

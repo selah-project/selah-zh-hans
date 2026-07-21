@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "2-kings 3:12",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19185,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19662
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:18:33.461573408Z",
   "translation": "约沙法说：⟨他那里⟩有⟨את⟩*davar* 雅威。于是以色列王、约沙法和以东王下到他那里。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "יש",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "אותו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "*davar* 雅威"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "וירדו",
-      "english": "于是……下到"
+      "gloss": "于是……下到"
     },
     {
       "surface": "אליו",
-      "english": "他那里"
+      "gloss": "他那里"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויהושפט",
-      "english": "和约沙法"
+      "gloss": "和约沙法"
     },
     {
       "surface": "ומלך",
-      "english": "和……王"
+      "gloss": "和……王"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     }
-  ],
-  "timestamp": "2026-07-17T21:18:33.461573408Z",
-  "model": "glm-5.2"
+  ]
 }

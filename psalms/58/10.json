@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 58:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64670,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65176
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:05.816990426Z",
   "translation": "在他们以先⟨能⟩明白之前——你们的荆棘锅⟨像⟩活物一样⟨、⟩⟨像⟩燃烧的怒气一样卷过我们。",
   "tokens": [
     {
       "surface": "בטרם",
-      "english": "在……以先"
+      "gloss": "在……以先"
     },
     {
       "surface": "יבינו",
-      "english": "他们明白"
+      "gloss": "他们明白"
     },
     {
       "surface": "סירתיכם",
-      "english": "你们的锅（如荆棘）"
+      "gloss": "你们的锅（如荆棘）"
     },
     {
       "surface": "אטד",
-      "english": "荆棘"
+      "gloss": "荆棘"
     },
     {
       "surface": "כמו",
-      "english": "像……一样"
+      "gloss": "像……一样"
     },
     {
       "surface": "חי",
-      "english": "活物"
+      "gloss": "活物"
     },
     {
       "surface": "כמו",
-      "english": "像……一样"
+      "gloss": "像……一样"
     },
     {
       "surface": "חרון",
-      "english": "燃烧的怒气"
+      "gloss": "燃烧的怒气"
     },
     {
       "surface": "ישערנו",
-      "english": "它卷过我们"
+      "gloss": "它卷过我们"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:05.816990426Z",
-  "model": "glm-5.2"
+  ]
 }

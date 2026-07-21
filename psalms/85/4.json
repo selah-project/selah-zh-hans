@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 85:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64405,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64855
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:38.203543709Z",
   "translation": "你收回了你一切的怒气,你转回 ⟨מִן⟩ 你烈怒的 Vapor。",
   "tokens": [
     {
       "surface": "אספת",
-      "english": "你收回了"
+      "gloss": "你收回了"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "עברתך",
-      "english": "你的怒气"
+      "gloss": "你的怒气"
     },
     {
       "surface": "השיבות",
-      "english": "你转回"
+      "gloss": "你转回"
     },
     {
       "surface": "מחרון",
-      "english": "⟨מִן⟩ 你烈怒的"
+      "gloss": "⟨מִן⟩ 你烈怒的"
     },
     {
       "surface": "אפך",
-      "english": "你的 Vapor"
+      "gloss": "你的 Vapor"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:38.203543709Z",
-  "model": "glm-5.2"
+  ]
 }

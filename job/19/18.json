@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 19:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21519,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21927
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:22.499867377Z",
   "translation": "连婴孩也藐视我;我若起来,他们就说话攻击我。",
   "tokens": [
     {
       "surface": "גַּם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "עֲ֭וִילִים",
-      "english": "婴孩"
+      "gloss": "婴孩"
     },
     {
       "surface": "מָ֣אֲסוּ",
-      "english": "藐视"
+      "gloss": "藐视"
     },
     {
       "surface": "בִ֑י",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אָ֝ק֗וּמָה",
-      "english": "我若起来"
+      "gloss": "我若起来"
     },
     {
       "surface": "וַ\/יְדַבְּרוּ",
-      "english": "他们就说话"
+      "gloss": "他们就说话"
     },
     {
       "surface": "בִֽי",
-      "english": "攻击我"
+      "gloss": "攻击我"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:22.499867377Z",
-  "model": "glm-5.2"
+  ]
 }

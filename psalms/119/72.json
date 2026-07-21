@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 72,
   "ref": "psalms 119:72",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64361,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64710
-  },
+  "verse": 72,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:35.254186761Z",
   "translation": "你口中的妥拉对我而言为好，胜过成千上万的黄金与白银。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "为好"
+      "gloss": "为好"
     },
     {
       "surface": "לי",
-      "english": "对我而言"
+      "gloss": "对我而言"
     },
     {
       "surface": "תורת",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "פיך",
-      "english": "你口中的"
+      "gloss": "你口中的"
     },
     {
       "surface": "מאלפי",
-      "english": "胜过成千上万"
+      "gloss": "胜过成千上万"
     },
     {
       "surface": "זהב",
-      "english": "黄金"
+      "gloss": "黄金"
     },
     {
       "surface": "וכסף",
-      "english": "与白银"
+      "gloss": "与白银"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:35.254186761Z",
-  "model": "glm-5.2"
+  ]
 }

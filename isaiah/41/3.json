@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 41:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20580,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20852
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:53:45.716238820Z",
   "translation": "他追赶他们，安然穿越；⟨这⟩是他双脚未曾走过的 ⟨את⟩ 路。",
   "tokens": [
     {
       "surface": "יִרְדְּפֵ\/ם",
-      "english": "他追赶他们"
+      "gloss": "他追赶他们"
     },
     {
       "surface": "יַעֲבֹר",
-      "english": "⟨他⟩穿越"
+      "gloss": "⟨他⟩穿越"
     },
     {
       "surface": "שָׁלוֹם",
-      "english": "安然"
+      "gloss": "安然"
     },
     {
       "surface": "אֹרַח",
-      "english": "路"
+      "gloss": "路"
     },
     {
       "surface": "בְּ\/רַגְלָ֖י\/ו",
-      "english": "用他的双脚"
+      "gloss": "用他的双脚"
     },
     {
       "surface": "לֹא",
-      "english": "未曾"
+      "gloss": "未曾"
     },
     {
       "surface": "יָבֹא",
-      "english": "⟨他⟩走过"
+      "gloss": "⟨他⟩走过"
     }
-  ],
-  "timestamp": "2026-07-17T21:53:45.716238820Z",
-  "model": "glm-5.2"
+  ]
 }

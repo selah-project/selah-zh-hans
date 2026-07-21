@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "nehemiah 12:13",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50743,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51026
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:49:45.291047357Z",
   "translation": "属以斯拉的:米书兰;属אמריה (Amariah)的:约哈难;",
   "tokens": [
     {
       "surface": "לעזרא",
-      "english": "属以斯拉 (Ezra) 的"
+      "gloss": "属以斯拉 (Ezra) 的"
     },
     {
       "surface": "משלם",
-      "english": "米书兰"
+      "gloss": "米书兰"
     },
     {
       "surface": "לאמריה",
-      "english": "属"
+      "gloss": "属"
     },
     {
       "surface": "יהוחנן",
-      "english": "约哈难"
+      "gloss": "约哈难"
     }
-  ],
-  "timestamp": "2026-07-18T01:49:45.291047357Z",
-  "model": "glm-5.2"
+  ]
 }

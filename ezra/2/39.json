@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
   "ref": "ezra 2:39",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 208,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46130,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46338
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:27.155958129Z",
   "translation": "哈琳的子孙，一千零⟨一⟩十七⟨人⟩。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "חרם",
-      "english": "哈琳"
+      "gloss": "哈琳"
     },
     {
       "surface": "אלף",
-      "english": "一千"
+      "gloss": "一千"
     },
     {
       "surface": "ושבעה",
-      "english": "零⟨一⟩七"
+      "gloss": "零⟨一⟩七"
     },
     {
       "surface": "עשר",
-      "english": "十七⟨人⟩"
+      "gloss": "十七⟨人⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:27.155958129Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 40:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64517,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64883
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:53.857920913Z",
   "translation": "那时我说：看哪，我来了——卷轴书卷上写着关于⟨我⟩的事。",
   "tokens": [
     {
       "surface": "אז",
-      "english": "那时"
+      "gloss": "那时"
     },
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "באתי",
-      "english": "我来了"
+      "gloss": "我来了"
     },
     {
       "surface": "במגלת",
-      "english": "在卷轴"
+      "gloss": "在卷轴"
     },
     {
       "surface": "ספר",
-      "english": "书卷"
+      "gloss": "书卷"
     },
     {
       "surface": "כתוב",
-      "english": "写着"
+      "gloss": "写着"
     },
     {
       "surface": "עלי",
-      "english": "关于我"
+      "gloss": "关于我"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:53.857920913Z",
-  "model": "glm-5.2"
+  ]
 }

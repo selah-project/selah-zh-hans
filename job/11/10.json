@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 11:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21541,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21979
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:16:00.042728577Z",
   "translation": "他若经过⟨并⟩关押，⟨并⟩召集⟨审判⟩，谁能使他转回呢？",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יחלף",
-      "english": "他经过"
+      "gloss": "他经过"
     },
     {
       "surface": "וסגיר",
-      "english": "⟨并⟩关押"
+      "gloss": "⟨并⟩关押"
     },
     {
       "surface": "ויקהיל",
-      "english": "⟨并⟩召集⟨审判⟩"
+      "gloss": "⟨并⟩召集⟨审判⟩"
     },
     {
       "surface": "ומי",
-      "english": "⟨那么⟩谁能"
+      "gloss": "⟨那么⟩谁能"
     },
     {
       "surface": "ישיבנו",
-      "english": "使他转回呢"
+      "gloss": "使他转回呢"
     }
-  ],
-  "timestamp": "2026-07-18T03:16:00.042728577Z",
-  "model": "glm-5.2"
+  ]
 }

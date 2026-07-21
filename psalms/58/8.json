@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 58:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 515,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64739,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65254
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:00.088666487Z",
   "translation": "愿他们如水被弃绝，自行流去；愿他拉弓时，箭如 ⟨被⟩ 磨钝。",
   "tokens": [
     {
       "surface": "ימאסו",
-      "english": "愿他们被弃绝"
+      "gloss": "愿他们被弃绝"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "יתהלכו",
-      "english": "自行流去"
+      "gloss": "自行流去"
     },
     {
       "surface": "למו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "ידרך",
-      "english": "愿他拉 ⟨弓⟩"
+      "gloss": "愿他拉 ⟨弓⟩"
     },
     {
       "surface": "חצו",
-      "english": "他的箭"
+      "gloss": "他的箭"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "יתמללו",
-      "english": "被磨钝"
+      "gloss": "被磨钝"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:00.088666487Z",
-  "model": "glm-5.2"
+  ]
 }

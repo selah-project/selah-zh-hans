@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 14:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59931,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60351
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:21:38.171775909Z",
   "translation": "他吩咐犹大寻求雅威——他们列祖的以罗欣，并遵行妥拉和诫命。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他吩咐"
+      "gloss": "他吩咐"
     },
     {
       "surface": "ליהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "לדרוש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "……的以罗欣"
+      "gloss": "……的以罗欣"
     },
     {
       "surface": "אבותיהם",
-      "english": "他们列祖"
+      "gloss": "他们列祖"
     },
     {
       "surface": "ולעשות",
-      "english": "并遵行"
+      "gloss": "并遵行"
     },
     {
       "surface": "התורה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "והמצוה",
-      "english": "和诫命"
+      "gloss": "和诫命"
     }
-  ],
-  "timestamp": "2026-07-18T02:21:38.171775909Z",
-  "model": "glm-5.2"
+  ]
 }

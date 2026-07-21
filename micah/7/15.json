@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "micah 7:15",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17262,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17645
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:27:01.301224485Z",
   "translation": "如你出埃及地之日，我要向他显奇妙之事。",
   "tokens": [
     {
       "surface": "כימי",
-      "english": "如……之日"
+      "gloss": "如……之日"
     },
     {
       "surface": "צאתך",
-      "english": "你出"
+      "gloss": "你出"
     },
     {
       "surface": "מארץ",
-      "english": "从地"
+      "gloss": "从地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "אראנו",
-      "english": "我要向他显"
+      "gloss": "我要向他显"
     },
     {
       "surface": "נפלאות",
-      "english": "奇妙之事"
+      "gloss": "奇妙之事"
     }
-  ],
-  "timestamp": "2026-07-17T23:27:01.301224485Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "exodus 8:28",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18849,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19301
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:14:35.830300535Z",
   "translation": "法老又使⟨את⟩他的心沉重,⟨即使在⟩这一次;他也没有释放⟨את⟩⟨那⟩百姓。",
   "tokens": [
     {
       "surface": "ויכבד",
-      "english": "又使……沉重"
+      "gloss": "又使……沉重"
     },
     {
       "surface": "פרעה",
-      "english": "法老"
+      "gloss": "法老"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的心"
     },
     {
       "surface": "לבו",
-      "english": "他的心"
+      "gloss": "他的心"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "בפעם",
-      "english": "在这一次"
+      "gloss": "在这一次"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ולא",
-      "english": "而没有"
+      "gloss": "而没有"
     },
     {
       "surface": "שלח",
-      "english": "释放"
+      "gloss": "释放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那百姓"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     }
-  ],
-  "timestamp": "2026-07-17T18:14:35.830300535Z",
-  "model": "glm-5.2"
+  ]
 }

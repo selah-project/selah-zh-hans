@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "job 14:20",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21629,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22021
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:04.679232504Z",
   "translation": "你永远胜过他,⟨他⟩就离去;你改变⟨他的⟩面貌,就打发他走。",
   "tokens": [
     {
       "surface": "תתקפהו",
-      "english": "你胜过他"
+      "gloss": "你胜过他"
     },
     {
       "surface": "לנצח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "ויהלך",
-      "english": "⟨他⟩就离去"
+      "gloss": "⟨他⟩就离去"
     },
     {
       "surface": "משנה",
-      "english": "你改变"
+      "gloss": "你改变"
     },
     {
       "surface": "פניו",
-      "english": "⟨他的⟩面貌"
+      "gloss": "⟨他的⟩面貌"
     },
     {
       "surface": "ותשלחהו",
-      "english": "就打发他走"
+      "gloss": "就打发他走"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:04.679232504Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 11:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 678,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65067,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65745
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:36.605345363Z",
   "translation": "因为看哪，恶人弯弓，他们预备了⟨他们的⟩箭在弦上，要在黑暗中射那心中正直的人。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "הרשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ידרכון",
-      "english": "弯"
+      "gloss": "弯"
     },
     {
       "surface": "קשת",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "כוננו",
-      "english": "他们预备了"
+      "gloss": "他们预备了"
     },
     {
       "surface": "חצם",
-      "english": "他们的箭"
+      "gloss": "他们的箭"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "יתר",
-      "english": "弦"
+      "gloss": "弦"
     },
     {
       "surface": "לירות",
-      "english": "要射"
+      "gloss": "要射"
     },
     {
       "surface": "במו",
-      "english": "在……中"
+      "gloss": "在……中"
     },
     {
       "surface": "אפל",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "לישרי",
-      "english": "……的人"
+      "gloss": "……的人"
     },
     {
       "surface": "לב",
-      "english": "心中正直"
+      "gloss": "心中正直"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:36.605345363Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 9,
   "ref": "psalms 71:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 332,
-    "prompt_tokens": 64541,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64873
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:21:41.304919837Z",
   "translation": "在你老迈之年,不要抛弃我;当我的力量衰竭时,不要离弃我。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשליכני",
-      "english": "抛弃我"
+      "gloss": "抛弃我"
     },
     {
       "surface": "לעת",
-      "english": "在...之年"
+      "gloss": "在...之年"
     },
     {
       "surface": "זקנה",
-      "english": "老迈"
+      "gloss": "老迈"
     },
     {
       "surface": "ככלות",
-      "english": "当...衰竭时"
+      "gloss": "当...衰竭时"
     },
     {
       "surface": "כחי",
-      "english": "我的力量"
+      "gloss": "我的力量"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעזבני",
-      "english": "离弃我"
+      "gloss": "离弃我"
     }
-  ],
-  "timestamp": "2026-07-21T13:21:41.304919837Z",
-  "model": "glm-4.5"
+  ]
 }

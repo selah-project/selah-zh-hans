@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 57:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 424,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20592,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21016
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:01:41.653114627Z",
   "translation": "平安⟨将临到⟩；他们必安息在他们的床榻上，⟨就是⟩按正直前行的人。",
   "tokens": [
     {
       "surface": "יבוא",
-      "english": "⟨将临到⟩"
+      "gloss": "⟨将临到⟩"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "ינוחו",
-      "english": "他们必安息"
+      "gloss": "他们必安息"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "משכבותם",
-      "english": "他们的床榻"
+      "gloss": "他们的床榻"
     },
     {
       "surface": "הלך",
-      "english": "前行"
+      "gloss": "前行"
     },
     {
       "surface": "נכחו",
-      "english": "按正直"
+      "gloss": "按正直"
     }
-  ],
-  "timestamp": "2026-07-17T22:01:41.653114627Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 30:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64323,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64599
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:44.636924730Z",
   "translation": "至于我，我在我的安逸中说过：『我必永不动摇。』",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "אמרתי",
-      "english": "我说过"
+      "gloss": "我说过"
     },
     {
       "surface": "בשלוי",
-      "english": "在我的安逸中"
+      "gloss": "在我的安逸中"
     },
     {
       "surface": "בל",
-      "english": "绝不"
+      "gloss": "绝不"
     },
     {
       "surface": "אמוט",
-      "english": "动摇"
+      "gloss": "动摇"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:44.636924730Z",
-  "model": "glm-5.2"
+  ]
 }

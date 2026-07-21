@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "hosea 6:5",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21351,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21893
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:14:00.961648576Z",
   "translation": "因此我在众先知身上凿刻,我用我口的话语杀死他们;⟨而⟩你的审判 ⟨如⟩ 光 ⟨一样⟩ 出去。",
   "tokens": [
     {
       "surface": "על",
-      "english": "因此"
+      "gloss": "因此"
     },
     {
       "surface": "כן",
-      "english": "因(此)"
+      "gloss": "因(此)"
     },
     {
       "surface": "חצבתי",
-      "english": "我凿刻"
+      "gloss": "我凿刻"
     },
     {
       "surface": "בנביאים",
-      "english": "在众先知身上"
+      "gloss": "在众先知身上"
     },
     {
       "surface": "הרגתים",
-      "english": "我杀死他们"
+      "gloss": "我杀死他们"
     },
     {
       "surface": "באמרי",
-      "english": "借着……的话语"
+      "gloss": "借着……的话语"
     },
     {
       "surface": "פי",
-      "english": "我口"
+      "gloss": "我口"
     },
     {
       "surface": "ומשפטיך",
-      "english": "⟨而⟩你的审判"
+      "gloss": "⟨而⟩你的审判"
     },
     {
       "surface": "אור",
-      "english": "⟨如⟩ 光"
+      "gloss": "⟨如⟩ 光"
     },
     {
       "surface": "יצא",
-      "english": "出去"
+      "gloss": "出去"
     }
-  ],
-  "timestamp": "2026-07-17T23:14:00.961648576Z",
-  "model": "glm-5.2"
+  ]
 }

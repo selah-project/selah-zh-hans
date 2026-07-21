@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 60:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 60,
-  "usage": {
-    "completion_tokens": 519,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64652,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65171
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:42.654068690Z",
   "translation": "基列⟨是⟩属我的，玛拿西⟨也⟩属我的；以法莲⟨是⟩我头上的保障；犹大⟨是⟩我的立法者。",
   "tokens": [
     {
       "surface": "לִ֤י",
-      "english": "属我的"
+      "gloss": "属我的"
     },
     {
       "surface": "גִלְעָ֨ד",
-      "english": "基列"
+      "gloss": "基列"
     },
     {
       "surface": "וְ\/לִ֬\/י",
-      "english": "⟨也⟩属我的"
+      "gloss": "⟨也⟩属我的"
     },
     {
       "surface": "מְנַשֶּׁ֗ה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "וְ\/אֶפְרַיִם",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "מָע֣וֹז",
-      "english": "保障"
+      "gloss": "保障"
     },
     {
       "surface": "רֹאשִׁ֑\/י",
-      "english": "我头上的"
+      "gloss": "我头上的"
     },
     {
       "surface": "יְהוּדָ֗ה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "מְחֹֽקְקִ\/י",
-      "english": "我的立法者"
+      "gloss": "我的立法者"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:42.654068690Z",
-  "model": "glm-5.2"
+  ]
 }

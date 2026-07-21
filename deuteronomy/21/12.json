@@ -1,66 +1,55 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "deuteronomy 21:12",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19617,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20179
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:40:45.842726847Z",
   "translation": "你⟨要⟩把她带进你的房屋中间，她⟨要⟩剃去 ⟨את⟩ 她的头，她⟨要⟩修剪 ⟨את⟩ 她的指甲。",
   "tokens": [
     {
       "surface": "והבאתה",
-      "english": "你⟨要⟩带"
+      "gloss": "你⟨要⟩带"
     },
     {
       "surface": "אל",
-      "english": "进……到"
+      "gloss": "进……到"
     },
     {
       "surface": "תוך",
-      "english": "中间"
+      "gloss": "中间"
     },
     {
       "surface": "ביתך",
-      "english": "你的房屋"
+      "gloss": "你的房屋"
     },
     {
       "surface": "וגלחה",
-      "english": "她⟨要⟩剃去"
+      "gloss": "她⟨要⟩剃去"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的头"
     },
     {
       "surface": "ראשה",
-      "english": "她的头"
+      "gloss": "她的头"
     },
     {
       "surface": "ועשתה",
-      "english": "她⟨要⟩修剪"
+      "gloss": "她⟨要⟩修剪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的指甲"
     },
     {
       "surface": "צפרניה",
-      "english": "她的指甲"
+      "gloss": "她的指甲"
     }
-  ],
-  "timestamp": "2026-07-17T19:40:45.842726847Z",
-  "model": "glm-5.2"
+  ]
 }

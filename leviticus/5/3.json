@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "leviticus 5:3",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19771,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20354
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:42:24.186257035Z",
   "translation": "或当他触碰人的不洁——他的任何不洁，⟨他⟩借以成为不洁的——那事从他隐藏了，而他后来知道了，他就有罪。",
   "tokens": [
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "יגע",
-      "english": "他触碰"
+      "gloss": "他触碰"
     },
     {
       "surface": "בטמאת",
-      "english": "⟨于⟩不洁"
+      "gloss": "⟨于⟩不洁"
     },
     {
       "surface": "אדם",
-      "english": "人的"
+      "gloss": "人的"
     },
     {
       "surface": "לכל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "טמאתו",
-      "english": "他的不洁"
+      "gloss": "他的不洁"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "יטמא",
-      "english": "⟨他⟩借以成为不洁的"
+      "gloss": "⟨他⟩借以成为不洁的"
     },
     {
       "surface": "בה",
-      "english": "⟨于它⟩"
+      "gloss": "⟨于它⟩"
     },
     {
       "surface": "ונעלם",
-      "english": "那事隐藏了"
+      "gloss": "那事隐藏了"
     },
     {
       "surface": "ממנו",
-      "english": "从他"
+      "gloss": "从他"
     },
     {
       "surface": "והוא",
-      "english": "而他"
+      "gloss": "而他"
     },
     {
       "surface": "ידע",
-      "english": "知道了"
+      "gloss": "知道了"
     },
     {
       "surface": "ואשם",
-      "english": "⟨他⟩有罪"
+      "gloss": "⟨他⟩有罪"
     }
-  ],
-  "timestamp": "2026-07-17T18:42:24.186257035Z",
-  "model": "glm-5.2"
+  ]
 }

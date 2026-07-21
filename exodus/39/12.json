@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "exodus 39:12",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18159,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18515
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:34.398896344Z",
   "translation": "第三排：⟨有⟩לֶשֶׁם（腊什姆）、שְׁבוּ（谢布）和אַחְלָמָה（阿赫拉玛）。",
   "tokens": [
     {
       "surface": "והטור",
-      "english": "和⟨这⟩排"
+      "gloss": "和⟨这⟩排"
     },
     {
       "surface": "השלישי",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "לשם",
-      "english": "לֶשֶׁם（腊什姆）"
+      "gloss": "לֶשֶׁם（腊什姆）"
     },
     {
       "surface": "שבו",
-      "english": "שְׁבוּ（谢布）"
+      "gloss": "שְׁבוּ（谢布）"
     },
     {
       "surface": "ואחלמה",
-      "english": "和אַחְלָמָה（阿赫拉玛）"
+      "gloss": "和אַחְלָמָה（阿赫拉玛）"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:34.398896344Z",
-  "model": "glm-5.2"
+  ]
 }

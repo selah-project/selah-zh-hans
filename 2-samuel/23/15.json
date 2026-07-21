@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "2-samuel 23:15",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19102,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19598
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:55:05.925528773Z",
   "translation": "大卫渴望，⟨并⟩说：「谁给我水喝，从⟨那⟩在城门口的伯利恒井里？」",
   "tokens": [
     {
       "surface": "ויתאוה",
-      "english": "渴望"
+      "gloss": "渴望"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨并⟩说"
+      "gloss": "⟨并⟩说"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "ישקני",
-      "english": "给我喝"
+      "gloss": "给我喝"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "מבאר",
-      "english": "从……井"
+      "gloss": "从……井"
     },
     {
       "surface": "בית",
-      "english": "伯"
+      "gloss": "伯"
     },
     {
       "surface": "לחם",
-      "english": "利恒"
+      "gloss": "利恒"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "בשער",
-      "english": "在城门口"
+      "gloss": "在城门口"
     }
-  ],
-  "timestamp": "2026-07-17T20:55:05.925528773Z",
-  "model": "glm-5.2"
+  ]
 }

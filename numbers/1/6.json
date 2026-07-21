@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "numbers 1:6",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19240,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19496
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:00:08.534323834Z",
   "translation": "属西缅⟨的⟩,示路蔑,苏押的儿子。",
   "tokens": [
     {
       "surface": "לְ\/שִׁמְעֹון",
-      "english": "属西缅⟨的⟩"
+      "gloss": "属西缅⟨的⟩"
     },
     {
       "surface": "שְׁלֻמִיאֵל",
-      "english": "示路蔑"
+      "gloss": "示路蔑"
     },
     {
       "surface": "בֶּן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "צוּרִישַׁדָּי",
-      "english": "苏押"
+      "gloss": "苏押"
     }
-  ],
-  "timestamp": "2026-07-17T19:00:08.534323834Z",
-  "model": "glm-5.2"
+  ]
 }

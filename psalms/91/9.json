@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 91:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 91,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64490,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64794
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:58.246865391Z",
   "translation": "因为你——雅威，⟨是⟩我的避难所；你已将至高者立为你的居所。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מחסי",
-      "english": "我的避难所"
+      "gloss": "我的避难所"
     },
     {
       "surface": "עליון",
-      "english": "至高者"
+      "gloss": "至高者"
     },
     {
       "surface": "שמת",
-      "english": "你已立"
+      "gloss": "你已立"
     },
     {
       "surface": "מעונך",
-      "english": "你的居所"
+      "gloss": "你的居所"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:58.246865391Z",
-  "model": "glm-5.2"
+  ]
 }

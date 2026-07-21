@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 140:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 207,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64096,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64303
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:26.947240802Z",
   "translation": "给⟨那位得胜的指挥者⟩的诗篇，属于大卫。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给⟨那位得胜的指挥者⟩"
+      "gloss": "给⟨那位得胜的指挥者⟩"
     },
     {
       "surface": "מזמור",
-      "english": "诗篇"
+      "gloss": "诗篇"
     },
     {
       "surface": "לדוד",
-      "english": "属于大卫"
+      "gloss": "属于大卫"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:26.947240802Z",
-  "model": "glm-5.2"
+  ]
 }

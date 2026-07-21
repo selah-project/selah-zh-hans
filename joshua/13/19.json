@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "joshua 13:19",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 504,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17719,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18223
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:39.312235907Z",
   "translation": "以及基列亭、希实本、和沙拉沙耳⟨的⟩צֶ֥רֶת、在山谷⟨的⟩山上",
   "tokens": [
     {
       "surface": "וְ\/קִרְיָתַ֣יִם",
-      "english": "以及基列亭"
+      "gloss": "以及基列亭"
     },
     {
       "surface": "וְ\/שִׂבְמָ֔ה",
-      "english": "希实本"
+      "gloss": "希实本"
     },
     {
       "surface": "וְ\/צֶ֥רֶת",
-      "english": "和沙拉沙耳⟨的⟩צֶ֥רֶת"
+      "gloss": "和沙拉沙耳⟨的⟩צֶ֥רֶת"
     },
     {
       "surface": "הַשַּׁ֖חַר",
-      "english": "（与前一词构成地名沙拉沙耳）"
+      "gloss": "（与前一词构成地名沙拉沙耳）"
     },
     {
       "surface": "בְּ\/הַ֥ר",
-      "english": "在山上"
+      "gloss": "在山上"
     },
     {
       "surface": "הָ\/עֵֽמֶק",
-      "english": "山谷⟨的⟩"
+      "gloss": "山谷⟨的⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:39.312235907Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "numbers 35:30",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20232,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20774
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:26:19.319202092Z",
   "translation": "凡击打נפש（生命）的,要凭证人(的口)将⟨הרצח⟩那杀人者处死；但一个证人不可针对נפש（生命）作证⟨以致⟩处死。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "מכה",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "נפש",
-      "english": "נפש（生命）"
+      "gloss": "נפש（生命）"
     },
     {
       "surface": "לפי",
-      "english": "凭……(的口)"
+      "gloss": "凭……(的口)"
     },
     {
       "surface": "עדים",
-      "english": "证人"
+      "gloss": "证人"
     },
     {
       "surface": "ירצח",
-      "english": "将……处死"
+      "gloss": "将……处死"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "הרצח（那杀人者）"
     },
     {
       "surface": "הרצח",
-      "english": "那杀人者"
+      "gloss": "那杀人者"
     },
     {
       "surface": "ועד",
-      "english": "但一个证人"
+      "gloss": "但一个证人"
     },
     {
       "surface": "אחד",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יענה",
-      "english": "作证"
+      "gloss": "作证"
     },
     {
       "surface": "בנפש",
-      "english": "针对נפש（生命）"
+      "gloss": "针对נפש（生命）"
     },
     {
       "surface": "למות",
-      "english": "⟨以致⟩处死"
+      "gloss": "⟨以致⟩处死"
     }
-  ],
-  "timestamp": "2026-07-17T19:26:19.319202092Z",
-  "model": "glm-5.2"
+  ]
 }

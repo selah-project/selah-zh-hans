@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ezekiel 16:2",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19031,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19418
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:47:46.720929283Z",
   "translation": "人子啊,你要使耶路撒冷认识 ⟨את⟩ 她的可憎之事,",
   "tokens": [
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "הודע",
-      "english": "你要使……认识"
+      "gloss": "你要使……认识"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶路撒冷"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的可憎之事"
     },
     {
       "surface": "תועבתיה",
-      "english": "她的可憎之事"
+      "gloss": "她的可憎之事"
     }
-  ],
-  "timestamp": "2026-07-17T22:47:46.720929283Z",
-  "model": "glm-5.2"
+  ]
 }

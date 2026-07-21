@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 30:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21927,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22334
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:39.883224720Z",
   "translation": "在我右边 ⟨一窝⟩子嗣起来，他们推开了我的脚，⟨并⟩向我堆筑了他们灾祸的道路。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ימין",
-      "english": "我的右边"
+      "gloss": "我的右边"
     },
     {
       "surface": "פרחח",
-      "english": "⟨一窝⟩子嗣"
+      "gloss": "⟨一窝⟩子嗣"
     },
     {
       "surface": "יקומו",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "רגלי",
-      "english": "我的脚"
+      "gloss": "我的脚"
     },
     {
       "surface": "שלחו",
-      "english": "他们推开了"
+      "gloss": "他们推开了"
     },
     {
       "surface": "ויסלו",
-      "english": "⟨并⟩他们堆筑了"
+      "gloss": "⟨并⟩他们堆筑了"
     },
     {
       "surface": "עלי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "ארחות",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "אידם",
-      "english": "他们的灾祸"
+      "gloss": "他们的灾祸"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:39.883224720Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 146:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64701,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65019
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:17.807817757Z",
   "translation": "为受欺压者行公义，赐食物给饥饿的人——雅威释放 ⟨被囚的⟩；",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "משפט",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "לעשוקים",
-      "english": "为受欺压者"
+      "gloss": "为受欺压者"
     },
     {
       "surface": "נתן",
-      "english": "赐"
+      "gloss": "赐"
     },
     {
       "surface": "לחם",
-      "english": "食物"
+      "gloss": "食物"
     },
     {
       "surface": "לרעבים",
-      "english": "给饥饿的人"
+      "gloss": "给饥饿的人"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מתיר",
-      "english": "释放"
+      "gloss": "释放"
     },
     {
       "surface": "אסורים",
-      "english": "⟨被囚的⟩"
+      "gloss": "⟨被囚的⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:17.807817757Z",
-  "model": "glm-5.2"
+  ]
 }

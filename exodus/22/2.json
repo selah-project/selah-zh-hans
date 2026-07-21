@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 22:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 641,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18907,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19548
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:25:17.600983142Z",
   "translation": "如果太阳在他之上升起，⟨⟨有⟩⟩流血归于他——他必须完全赔偿；如果他什么也没有，他就要为他的偷窃被卖为奴。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "זרחה",
-      "english": "升起"
+      "gloss": "升起"
     },
     {
       "surface": "השמש",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "עליו",
-      "english": "在他之上"
+      "gloss": "在他之上"
     },
     {
       "surface": "דמים",
-      "english": "流血"
+      "gloss": "流血"
     },
     {
       "surface": "לו",
-      "english": "归于他"
+      "gloss": "归于他"
     },
     {
       "surface": "שלם",
-      "english": "⟨他必须⟩完全赔偿"
+      "gloss": "⟨他必须⟩完全赔偿"
     },
     {
       "surface": "ישלם",
-      "english": "赔偿"
+      "gloss": "赔偿"
     },
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "אין",
-      "english": "什么也没有"
+      "gloss": "什么也没有"
     },
     {
       "surface": "לו",
-      "english": "他有"
+      "gloss": "他有"
     },
     {
       "surface": "ונמכר",
-      "english": "他就要被卖为奴"
+      "gloss": "他就要被卖为奴"
     },
     {
       "surface": "בגנבתו",
-      "english": "为他的偷窃"
+      "gloss": "为他的偷窃"
     }
-  ],
-  "timestamp": "2026-07-17T18:25:17.600983142Z",
-  "model": "glm-5.2"
+  ]
 }

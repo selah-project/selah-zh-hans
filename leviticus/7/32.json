@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "leviticus 7:32",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19149,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19590
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:02.018659127Z",
   "translation": "而 ⟨את⟩ 右腿，你们要作为举祭给祭司，来自 ⟨你们⟩ 平安献礼的祭物。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "而 ⟨את⟩",
+      "gloss": "而 ⟨את⟩",
       "marks": "右腿"
     },
     {
       "surface": "שוק",
-      "english": "腿"
+      "gloss": "腿"
     },
     {
       "surface": "הימין",
-      "english": "右"
+      "gloss": "右"
     },
     {
       "surface": "תתנו",
-      "english": "你们要给"
+      "gloss": "你们要给"
     },
     {
       "surface": "תרומה",
-      "english": "举祭"
+      "gloss": "举祭"
     },
     {
       "surface": "לכהן",
-      "english": "给祭司"
+      "gloss": "给祭司"
     },
     {
       "surface": "מזבחי",
-      "english": "来自……的祭物"
+      "gloss": "来自……的祭物"
     },
     {
       "surface": "שלמיכם",
-      "english": "你们的平安献礼"
+      "gloss": "你们的平安献礼"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:02.018659127Z",
-  "model": "glm-5.2"
+  ]
 }

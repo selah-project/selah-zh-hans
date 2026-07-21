@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 21:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23195,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23556
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:10.145218515Z",
   "translation": "皮袋里的水用尽了,她就把⟨את⟩那孩子丢在一棵灌木底下。",
   "tokens": [
     {
       "surface": "ויכלו",
-      "english": "用尽了"
+      "gloss": "用尽了"
     },
     {
       "surface": "המים",
-      "english": "皮袋里的水"
+      "gloss": "皮袋里的水"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "החמת",
-      "english": "皮袋"
+      "gloss": "皮袋"
     },
     {
       "surface": "ותשלך",
-      "english": "她就丢下"
+      "gloss": "她就丢下"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那孩子"
     },
     {
       "surface": "הילד",
-      "english": "那孩子"
+      "gloss": "那孩子"
     },
     {
       "surface": "תחת",
-      "english": "在……底下"
+      "gloss": "在……底下"
     },
     {
       "surface": "אחד",
-      "english": "一棵"
+      "gloss": "一棵"
     },
     {
       "surface": "השיחם",
-      "english": "灌木"
+      "gloss": "灌木"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:10.145218515Z",
-  "model": "glm-5.2"
+  ]
 }

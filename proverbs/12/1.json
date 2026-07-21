@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 12:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54340,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54658
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:16.423210161Z",
   "translation": "喜爱管教的，喜爱知识；但恨恶责备的，⟨是⟩愚顽。",
   "tokens": [
     {
       "surface": "אהב",
-      "english": "喜爱"
+      "gloss": "喜爱"
     },
     {
       "surface": "מוסר",
-      "english": "管教的"
+      "gloss": "管教的"
     },
     {
       "surface": "אהב",
-      "english": "喜爱"
+      "gloss": "喜爱"
     },
     {
       "surface": "דעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "ושנא",
-      "english": "但恨恶"
+      "gloss": "但恨恶"
     },
     {
       "surface": "תוכחת",
-      "english": "责备的"
+      "gloss": "责备的"
     },
     {
       "surface": "בער",
-      "english": "愚顽"
+      "gloss": "愚顽"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:16.423210161Z",
-  "model": "glm-5.2"
+  ]
 }

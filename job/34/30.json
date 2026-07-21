@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "job 34:30",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21399,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21783
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:01.002488072Z",
   "translation": "免得虚妄之人作王，⟨免得⟩百姓落入网罗。",
   "tokens": [
     {
       "surface": "ממלך",
-      "english": "免得……作王"
+      "gloss": "免得……作王"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "חנף",
-      "english": "虚妄的"
+      "gloss": "虚妄的"
     },
     {
       "surface": "ממקשי",
-      "english": "⟨免得⟩落入网罗"
+      "gloss": "⟨免得⟩落入网罗"
     },
     {
       "surface": "עם",
-      "english": "百姓"
+      "gloss": "百姓"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:01.002488072Z",
-  "model": "glm-5.2"
+  ]
 }

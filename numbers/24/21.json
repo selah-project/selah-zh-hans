@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 24:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 562,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20052,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20614
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:17:52.560596631Z",
   "translation": "⟨他⟩看见⟨את⟩基尼人,便提起他的寓言,说:坚固⟨是⟩你的居所,你⟨将⟩你的巢安放在磐石中。",
   "tokens": [
     {
       "surface": "וירא",
-      "english": "⟨他⟩看见"
+      "gloss": "⟨他⟩看见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "基尼人"
     },
     {
       "surface": "הקיני",
-      "english": "基尼人"
+      "gloss": "基尼人"
     },
     {
       "surface": "וישא",
-      "english": "便提起"
+      "gloss": "便提起"
     },
     {
       "surface": "משלו",
-      "english": "他的寓言"
+      "gloss": "他的寓言"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "איתן",
-      "english": "坚固"
+      "gloss": "坚固"
     },
     {
       "surface": "מושבך",
-      "english": "你的居所"
+      "gloss": "你的居所"
     },
     {
       "surface": "ושים",
-      "english": "你⟨将⟩安放"
+      "gloss": "你⟨将⟩安放"
     },
     {
       "surface": "בסלע",
-      "english": "在磐石中"
+      "gloss": "在磐石中"
     },
     {
       "surface": "קנך",
-      "english": "你的巢"
+      "gloss": "你的巢"
     }
-  ],
-  "timestamp": "2026-07-17T19:17:52.560596631Z",
-  "model": "glm-5.2"
+  ]
 }

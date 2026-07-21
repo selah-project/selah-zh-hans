@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 22:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54411,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54793
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:59.800849966Z",
   "translation": "谦卑的脚跟⟨是⟩对雅威的敬畏：财富、尊荣和生命。",
   "tokens": [
     {
       "surface": "עקב",
-      "english": "脚跟"
+      "gloss": "脚跟"
     },
     {
       "surface": "ענוה",
-      "english": "谦卑"
+      "gloss": "谦卑"
     },
     {
       "surface": "יראת",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עשר",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "וכבוד",
-      "english": "和尊荣"
+      "gloss": "和尊荣"
     },
     {
       "surface": "וחיים",
-      "english": "和生命"
+      "gloss": "和生命"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:59.800849966Z",
-  "model": "glm-5.2"
+  ]
 }

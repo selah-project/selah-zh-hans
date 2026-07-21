@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jeremiah 18:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19117,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19536
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:17:11.521287855Z",
   "translation": "起来,下到那陶匠的家里去,在那里我要使你听见我的⟨את⟩*davar*——我的话。",
   "tokens": [
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "וירדת",
-      "english": "你下到"
+      "gloss": "你下到"
     },
     {
       "surface": "בית",
-      "english": "……的家"
+      "gloss": "……的家"
     },
     {
       "surface": "היוצר",
-      "english": "那陶匠"
+      "gloss": "那陶匠"
     },
     {
       "surface": "ושמה",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "אשמיעך",
-      "english": "我要使你听见"
+      "gloss": "我要使你听见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的话"
     },
     {
       "surface": "דברי",
-      "english": "我的*davar*——我的话"
+      "gloss": "我的*davar*——我的话"
     }
-  ],
-  "timestamp": "2026-07-17T22:17:11.521287855Z",
-  "model": "glm-5.2"
+  ]
 }

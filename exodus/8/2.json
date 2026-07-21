@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 8:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19055,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19532
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:14:18.069919722Z",
   "translation": "亚伦伸出⟨את⟩他的手,在埃及的水之上;青蛙上来,遮满了⟨את⟩埃及地。",
   "tokens": [
     {
       "surface": "ויט",
-      "english": "伸出"
+      "gloss": "伸出"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的手"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "מימי",
-      "english": "……的水"
+      "gloss": "……的水"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "ותעל",
-      "english": "上来"
+      "gloss": "上来"
     },
     {
       "surface": "הצפרדע",
-      "english": "青蛙"
+      "gloss": "青蛙"
     },
     {
       "surface": "ותכס",
-      "english": "遮满"
+      "gloss": "遮满"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "埃及地"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-17T18:14:18.069919722Z",
-  "model": "glm-5.2"
+  ]
 }

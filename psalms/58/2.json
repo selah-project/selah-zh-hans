@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 58:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 58,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64610,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65100
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:08.610802092Z",
   "translation": "真的 ⟨ם⟩，你们这沉默的公义 ⟨ם⟩ 说话吗？你们正直地审判⟨人类⟩（人子们）吗？",
   "tokens": [
     {
       "surface": "האמנם",
-      "english": "真的"
+      "gloss": "真的"
     },
     {
       "surface": "אלם",
-      "english": "沉默的"
+      "gloss": "沉默的"
     },
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "תדברון",
-      "english": "⟨ם⟩ 说话"
+      "gloss": "⟨ם⟩ 说话"
     },
     {
       "surface": "מישרים",
-      "english": "正直地"
+      "gloss": "正直地"
     },
     {
       "surface": "תשפטו",
-      "english": "审判"
+      "gloss": "审判"
     },
     {
       "surface": "בני",
-      "english": "⟨人类⟩"
+      "gloss": "⟨人类⟩"
     },
     {
       "surface": "אדם",
-      "english": "（人子们）"
+      "gloss": "（人子们）"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:08.610802092Z",
-  "model": "glm-5.2"
+  ]
 }

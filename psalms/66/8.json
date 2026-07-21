@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 66:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64373,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64711
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:26.508021797Z",
   "translation": "众民啊，你们要颂赞我们的以罗欣，⟨并⟩使⟨那⟩赞美⟨的⟩声音被听见。",
   "tokens": [
     {
       "surface": "ברכו",
-      "english": "你们要颂赞"
+      "gloss": "你们要颂赞"
     },
     {
       "surface": "עמים",
-      "english": "众民啊"
+      "gloss": "众民啊"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "והשמיעו",
-      "english": "⟨并⟩使……被听见"
+      "gloss": "⟨并⟩使……被听见"
     },
     {
       "surface": "קול",
-      "english": "⟨那⟩声音"
+      "gloss": "⟨那⟩声音"
     },
     {
       "surface": "תהלתו",
-      "english": "⟨的⟩赞美"
+      "gloss": "⟨的⟩赞美"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:26.508021797Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "joel 1:8",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17783,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18253
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:26.741366544Z",
   "translation": "哀号吧 ⟨,⟩ 如同童女腰束粗布 ⟨,⟩ 为她年少时的丈夫 ⟨⟩。",
   "tokens": [
     {
       "surface": "אלי",
-      "english": "哀号吧"
+      "gloss": "哀号吧"
     },
     {
       "surface": "כבתולה",
-      "english": "如同童女"
+      "gloss": "如同童女"
     },
     {
       "surface": "חגרת",
-      "english": "腰束"
+      "gloss": "腰束"
     },
     {
       "surface": "שק",
-      "english": "粗布"
+      "gloss": "粗布"
     },
     {
       "surface": "על",
-      "english": "为"
+      "gloss": "为"
     },
     {
       "surface": "בעל",
-      "english": "丈夫"
+      "gloss": "丈夫"
     },
     {
       "surface": "נעוריה",
-      "english": "她年少时的"
+      "gloss": "她年少时的"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:26.741366544Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "psalms 105:43",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 266,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64405,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64671
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:03.463494934Z",
   "translation": "他带领他的百姓出来,带着欢欣,⟨את⟩他的蒙拣选者带着欢呼。",
   "tokens": [
     {
       "surface": "ויוצא",
-      "english": "他带领……出来"
+      "gloss": "他带领……出来"
     },
     {
       "surface": "עמו",
-      "english": "他的百姓"
+      "gloss": "他的百姓"
     },
     {
       "surface": "בששון",
-      "english": "带着欢欣"
+      "gloss": "带着欢欣"
     },
     {
       "surface": "ברנה",
-      "english": "带着欢呼"
+      "gloss": "带着欢呼"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的蒙拣选者"
     },
     {
       "surface": "בחיריו",
-      "english": "他的蒙拣选者"
+      "gloss": "他的蒙拣选者"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:03.463494934Z",
-  "model": "glm-5.2"
+  ]
 }

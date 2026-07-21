@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 5:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22890,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23264
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:45.690426086Z",
   "translation": "该南 活了七十岁,生了 ⟨את⟩ 玛哈拉勒。",
   "tokens": [
     {
       "surface": "וַֽ\/יְחִ֥י",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "קֵינָ֖ן",
-      "english": "该南"
+      "gloss": "该南"
     },
     {
       "surface": "שִׁבְעִ֣ים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "שָׁנָ֑ה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "וַ\/יּ֖וֹלֶד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "מַהֲלַלְאֵל"
     },
     {
       "surface": "מַֽהֲלַלְאֵֽל",
-      "english": "玛哈拉勒"
+      "gloss": "玛哈拉勒"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:45.690426086Z",
-  "model": "glm-5.2"
+  ]
 }

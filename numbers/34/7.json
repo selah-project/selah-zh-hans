@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 34:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19851,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20367
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:25:25.338922742Z",
   "translation": "这将是⟨你们的⟩北方边界：从大海⟨那⟩大的起，⟨你们⟩要为⟨你们⟩划定何珥山⟨那⟩山。",
   "tokens": [
     {
       "surface": "וזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "יהיה",
-      "english": "将是"
+      "gloss": "将是"
     },
     {
       "surface": "לכם",
-      "english": "⟨你们的⟩"
+      "gloss": "⟨你们的⟩"
     },
     {
       "surface": "גבול",
-      "english": "边界"
+      "gloss": "边界"
     },
     {
       "surface": "צפון",
-      "english": "北方"
+      "gloss": "北方"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הים",
-      "english": "大海"
+      "gloss": "大海"
     },
     {
       "surface": "הגדל",
-      "english": "⟨那⟩大的"
+      "gloss": "⟨那⟩大的"
     },
     {
       "surface": "תתאו",
-      "english": "⟨你们⟩要划定"
+      "gloss": "⟨你们⟩要划定"
     },
     {
       "surface": "לכם",
-      "english": "为⟨你们⟩"
+      "gloss": "为⟨你们⟩"
     },
     {
       "surface": "הר",
-      "english": "何珥山"
+      "gloss": "何珥山"
     },
     {
       "surface": "ההר",
-      "english": "⟨那⟩山"
+      "gloss": "⟨那⟩山"
     }
-  ],
-  "timestamp": "2026-07-17T19:25:25.338922742Z",
-  "model": "glm-5.2"
+  ]
 }

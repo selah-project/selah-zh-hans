@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ecclesiastes 3:4",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18944,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19337
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:19:31.457385799Z",
   "translation": "哭泣有时，欢笑有时；哀恸有时，跳舞有时。",
   "tokens": [
     {
       "surface": "עֵת",
-      "english": "有时"
+      "gloss": "有时"
     },
     {
       "surface": "לִ\/בְכּוֹת",
-      "english": "哭"
+      "gloss": "哭"
     },
     {
       "surface": "וְ\/עֵת",
-      "english": "和……有时"
+      "gloss": "和……有时"
     },
     {
       "surface": "לִ\/שְׂחוֹק",
-      "english": "笑"
+      "gloss": "笑"
     },
     {
       "surface": "עֵת",
-      "english": "有时"
+      "gloss": "有时"
     },
     {
       "surface": "סְפֹוד",
-      "english": "哀恸"
+      "gloss": "哀恸"
     },
     {
       "surface": "וְ\/עֵת",
-      "english": "和……有时"
+      "gloss": "和……有时"
     },
     {
       "surface": "רְקֹוד",
-      "english": "跳舞"
+      "gloss": "跳舞"
     }
-  ],
-  "timestamp": "2026-07-18T01:19:31.457385799Z",
-  "model": "glm-5.2"
+  ]
 }

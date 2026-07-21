@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 72:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 631,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64767,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65398
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:03.555517971Z",
   "translation": "他施的和海岛的王必献上贡物；示巴的和西巴的王必呈上礼物。",
   "tokens": [
     {
       "surface": "מַלְכֵ֬י",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "תַרְשִׁ֣ישׁ",
-      "english": "他施"
+      "gloss": "他施"
     },
     {
       "surface": "וְ֭\/אִיִּים",
-      "english": "和海岛"
+      "gloss": "和海岛"
     },
     {
       "surface": "מִנְחָ֣ה",
-      "english": "贡物"
+      "gloss": "贡物"
     },
     {
       "surface": "יָשִׁ֑יבוּ",
-      "english": "必献上"
+      "gloss": "必献上"
     },
     {
       "surface": "מַלְכֵ֥י",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "שְׁבָ֥א",
-      "english": "示巴"
+      "gloss": "示巴"
     },
     {
       "surface": "וּ֝\/סְבָ֗א",
-      "english": "和西巴"
+      "gloss": "和西巴"
     },
     {
       "surface": "אֶשְׁכָּ֥ר",
-      "english": "礼物"
+      "gloss": "礼物"
     },
     {
       "surface": "יַקְרִֽיבוּ",
-      "english": "必呈上"
+      "gloss": "必呈上"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:03.555517971Z",
-  "model": "glm-5.2"
+  ]
 }

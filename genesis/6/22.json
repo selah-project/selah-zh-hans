@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 6:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23020,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23394
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:36:32.851737230Z",
   "translation": "挪亚就做了；照着以罗欣吩咐他⟨את⟩的一切，如此他做了。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "就做了"
+      "gloss": "就做了"
     },
     {
       "surface": "נח",
-      "english": "挪亚"
+      "gloss": "挪亚"
     },
     {
       "surface": "ככל",
-      "english": "照着……的一切"
+      "gloss": "照着……的一切"
     },
     {
       "surface": "אשר",
-      "english": "（关系词）"
+      "gloss": "（关系词）"
     },
     {
       "surface": "צוה",
-      "english": "吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "כן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "עשה",
-      "english": "做了"
+      "gloss": "做了"
     }
-  ],
-  "timestamp": "2026-07-17T17:36:32.851737230Z",
-  "model": "glm-5.2"
+  ]
 }

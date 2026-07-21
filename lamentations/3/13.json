@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "lamentations 3:13",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 250,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33307,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33557
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:30.758682071Z",
   "translation": "他使箭袋之子进入我的脏腑。",
   "tokens": [
     {
       "surface": "הביא",
-      "english": "他使……进入"
+      "gloss": "他使……进入"
     },
     {
       "surface": "בכליותי",
-      "english": "我的脏腑"
+      "gloss": "我的脏腑"
     },
     {
       "surface": "בני",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "אשפתו",
-      "english": "箭袋"
+      "gloss": "箭袋"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:30.758682071Z",
-  "model": "glm-5.2"
+  ]
 }

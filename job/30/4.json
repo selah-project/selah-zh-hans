@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 30:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21592,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21994
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:20.937889325Z",
   "translation": "那些在灌木丛上采摘马齿苋的,以金雀花的根为他们的食物。",
   "tokens": [
     {
       "surface": "הקטפים",
-      "english": "那些采摘者"
+      "gloss": "那些采摘者"
     },
     {
       "surface": "מלוח",
-      "english": "马齿苋"
+      "gloss": "马齿苋"
     },
     {
       "surface": "עלי",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "שיח",
-      "english": "灌木丛"
+      "gloss": "灌木丛"
     },
     {
       "surface": "ושרש",
-      "english": "而根"
+      "gloss": "而根"
     },
     {
       "surface": "רתמים",
-      "english": "金雀花"
+      "gloss": "金雀花"
     },
     {
       "surface": "לחמם",
-      "english": "他们的食物"
+      "gloss": "他们的食物"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:20.937889325Z",
-  "model": "glm-5.2"
+  ]
 }

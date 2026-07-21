@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "leviticus 7:23",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19338,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19749
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:52.137891564Z",
   "translation": "你要对以色列子孙说话,说:一切公牛、绵羊和山羊的脂油,你们都不可吃。",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "你要……说话"
+      "gloss": "你要……说话"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "חלב",
-      "english": "脂油"
+      "gloss": "脂油"
     },
     {
       "surface": "שור",
-      "english": "公牛"
+      "gloss": "公牛"
     },
     {
       "surface": "וכשב",
-      "english": "和绵羊"
+      "gloss": "和绵羊"
     },
     {
       "surface": "ועז",
-      "english": "和山羊"
+      "gloss": "和山羊"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכלו",
-      "english": "你们吃"
+      "gloss": "你们吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:52.137891564Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "2-samuel 12:26",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18951,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19358
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:45:57.102842736Z",
   "translation": "约押攻打亚扪 ⟨子⟩ 的拉巴,攻取了 ⟨את⟩ 王城。",
   "tokens": [
     {
       "surface": "וילחם",
-      "english": "攻打"
+      "gloss": "攻打"
     },
     {
       "surface": "יואב",
-      "english": "约押"
+      "gloss": "约押"
     },
     {
       "surface": "ברבת",
-      "english": "拉巴"
+      "gloss": "拉巴"
     },
     {
       "surface": "בני",
-      "english": "⟨子⟩"
+      "gloss": "⟨子⟩"
     },
     {
       "surface": "עמון",
-      "english": "亚扪"
+      "gloss": "亚扪"
     },
     {
       "surface": "וילכד",
-      "english": "攻取了"
+      "gloss": "攻取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "王城"
     },
     {
       "surface": "עיר",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "המלוכה",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-17T20:45:57.102842736Z",
-  "model": "glm-5.2"
+  ]
 }

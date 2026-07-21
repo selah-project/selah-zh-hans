@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 145:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 145,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64424,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64891
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:55.065967231Z",
   "translation": "雅威有恩惠、有怜悯,不轻易发怒,大有慈爱。",
   "tokens": [
     {
       "surface": "חַנּ֣וּן",
-      "english": "有恩惠的"
+      "gloss": "有恩惠的"
     },
     {
       "surface": "וְ\/רַח֣וּם",
-      "english": "与有怜悯的"
+      "gloss": "与有怜悯的"
     },
     {
       "surface": "יְהוָ֑ה",
-      "english": "是雅威"
+      "gloss": "是雅威"
     },
     {
       "surface": "אֶ֥רֶךְ",
-      "english": "长久"
+      "gloss": "长久"
     },
     {
       "surface": "אַ֝פַּ֗יִם",
-      "english": "鼻息 (愤怒)"
+      "gloss": "鼻息 (愤怒)"
     },
     {
       "surface": "וּ\/גְדָל",
-      "english": "与大"
+      "gloss": "与大"
     },
     {
       "surface": "חָֽסֶד",
-      "english": "慈爱"
+      "gloss": "慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:55.065967231Z",
-  "model": "glm-5.2"
+  ]
 }

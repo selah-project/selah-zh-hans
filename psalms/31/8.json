@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 31:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 368,
-    "prompt_tokens": 64937,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65305
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:34.519442379Z",
   "translation": "我要欢呼,因你的恩典而快乐,因你看见了我的苦难;你在患难中知道我的生命。",
   "tokens": [
     {
       "surface": "אגילה",
-      "english": "我要欢呼"
+      "gloss": "我要欢呼"
     },
     {
       "surface": "ואשמחה",
-      "english": "因你的恩典而快乐"
+      "gloss": "因你的恩典而快乐"
     },
     {
       "surface": "בחסדך",
-      "english": "因你的恩典"
+      "gloss": "因你的恩典"
     },
     {
       "surface": "אשר",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "ראית",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的苦难"
     },
     {
       "surface": "עניי",
-      "english": "我的苦难"
+      "gloss": "我的苦难"
     },
     {
       "surface": "ידעת",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "בצרות",
-      "english": "在患难中"
+      "gloss": "在患难中"
     },
     {
       "surface": "נפשי",
-      "english": "我的生命"
+      "gloss": "我的生命"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:34.519442379Z",
-  "model": "glm-4.5"
+  ]
 }

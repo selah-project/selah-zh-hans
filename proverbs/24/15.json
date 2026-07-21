@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 24:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54489,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54821
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:45:08.900284Z",
   "translation": "恶人啊，不要埋伏⟨在⟩义人的居所旁；不要毁坏他的安息之处。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תארב",
-      "english": "埋伏"
+      "gloss": "埋伏"
     },
     {
       "surface": "רשע",
-      "english": "恶人啊"
+      "gloss": "恶人啊"
     },
     {
       "surface": "לנוה",
-      "english": "⟨在⟩……的居所旁"
+      "gloss": "⟨在⟩……的居所旁"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשדד",
-      "english": "毁坏"
+      "gloss": "毁坏"
     },
     {
       "surface": "רבצו",
-      "english": "他的安息之处"
+      "gloss": "他的安息之处"
     }
-  ],
-  "timestamp": "2026-07-18T00:45:08.900284Z",
-  "model": "glm-5.2"
+  ]
 }

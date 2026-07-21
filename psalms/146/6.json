@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 146:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 146,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64948,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65295
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:19.076896807Z",
   "translation": "造天地、造海和其中一切的那一位，那永远守护真理的，",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "造"
+      "gloss": "造"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "וארץ",
-      "english": "和地"
+      "gloss": "和地"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "海"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "其中一切"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אשר",
-      "english": "其中的"
+      "gloss": "其中的"
     },
     {
       "surface": "בם",
-      "english": "在其中"
+      "gloss": "在其中"
     },
     {
       "surface": "השמר",
-      "english": "那守护的"
+      "gloss": "那守护的"
     },
     {
       "surface": "אמת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:19.076896807Z",
-  "model": "glm-5.2"
+  ]
 }

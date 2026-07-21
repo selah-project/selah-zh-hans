@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "nehemiah 7:8",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 231,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 50927,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51158
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:45:51.817613194Z",
   "translation": "帕录什的子孙，二千一百七十二。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "פרעש",
-      "english": "帕录什"
+      "gloss": "帕录什"
     },
     {
       "surface": "אלפים",
-      "english": "二千"
+      "gloss": "二千"
     },
     {
       "surface": "מאה",
-      "english": "一百"
+      "gloss": "一百"
     },
     {
       "surface": "ושבעים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "ושנים",
-      "english": "二"
+      "gloss": "二"
     }
-  ],
-  "timestamp": "2026-07-18T01:45:51.817613194Z",
-  "model": "glm-5.2"
+  ]
 }

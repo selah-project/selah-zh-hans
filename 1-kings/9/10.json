@@ -1,91 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 9:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 445,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64823,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65268
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:04:39.603740079Z",
   "translation": "到了二十年末,就是所罗门建造两座殿的时候——⟨את⟩ 雅威的殿和⟨את⟩ 王的宫——",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "到了"
+      "gloss": "到了"
     },
     {
       "surface": "מקצה",
-      "english": "末"
+      "gloss": "末"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "בנה",
-      "english": "建造"
+      "gloss": "建造"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "两座殿"
     },
     {
       "surface": "שני",
-      "english": "两座"
+      "gloss": "两座"
     },
     {
       "surface": "הבתים",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的殿"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "王的宫"
     },
     {
       "surface": "בית",
-      "english": "宫"
+      "gloss": "宫"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-17T21:04:39.603740079Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 3:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 498,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20720,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21218
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:45.284205827Z",
   "translation": "五十人的长官、 ⟨被抬举面容之人⟩、谋士、巧匠中的智慧人，以及精通低语者。",
   "tokens": [
     {
       "surface": "שַׂר",
-      "english": "长官"
+      "gloss": "长官"
     },
     {
       "surface": "חֲמִשִּׁ֖ים",
-      "english": "五十(人)的"
+      "gloss": "五十(人)的"
     },
     {
       "surface": "וּ\/נְשׂ֣וּא",
-      "english": "和 ⟨被抬举⟩"
+      "gloss": "和 ⟨被抬举⟩"
     },
     {
       "surface": "פָנִ֑ים",
-      "english": "面容"
+      "gloss": "面容"
     },
     {
       "surface": "וְ\/יוֹעֵ֛ץ",
-      "english": "谋士"
+      "gloss": "谋士"
     },
     {
       "surface": "וַ\/חֲכַ֥ם",
-      "english": "智慧人"
+      "gloss": "智慧人"
     },
     {
       "surface": "חֲרָשִׁ֖ים",
-      "english": "巧匠"
+      "gloss": "巧匠"
     },
     {
       "surface": "וּ\/נְב֥וֹן",
-      "english": "精通"
+      "gloss": "精通"
     },
     {
       "surface": "לָֽחַשׁ",
-      "english": "低语(者)"
+      "gloss": "低语(者)"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:45.284205827Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 44,
   "ref": "leviticus 23:44",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19061,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19392
-  },
+  "verse": 44,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:56:24.665011574Z",
   "translation": "摩西向以色列人宣告了⟨את⟩雅威的定期节期。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "宣告了"
+      "gloss": "宣告了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "定期节期"
     },
     {
       "surface": "מעדי",
-      "english": "定期节期"
+      "gloss": "定期节期"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "בני",
-      "english": "……的儿子们"
+      "gloss": "……的儿子们"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T18:56:24.665011574Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 100:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 100,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64529,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64855
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:25.769069481Z",
   "translation": "要事奉⟨את⟩雅威,带着欢喜;要进入他临在之前,伴随着欢呼!",
   "tokens": [
     {
       "surface": "עבדו",
-      "english": "要事奉"
+      "gloss": "要事奉"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בשמחה",
-      "english": "带着欢喜"
+      "gloss": "带着欢喜"
     },
     {
       "surface": "באו",
-      "english": "要进入"
+      "gloss": "要进入"
     },
     {
       "surface": "לפניו",
-      "english": "他临在之前"
+      "gloss": "他临在之前"
     },
     {
       "surface": "ברננה",
-      "english": "伴随着欢呼"
+      "gloss": "伴随着欢呼"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:25.769069481Z",
-  "model": "glm-5.2"
+  ]
 }

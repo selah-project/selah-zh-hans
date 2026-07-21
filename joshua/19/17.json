@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "joshua 19:17",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17849,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18275
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T07:01:43.348609193Z",
   "translation": "对以萨迦,签拈出了⟨那⟩第四签;对以萨迦的众子,按他们的宗族。",
   "tokens": [
     {
       "surface": "לְ\/יִ֨שָּׂשכָ֔ר",
-      "english": "对以萨迦"
+      "gloss": "对以萨迦"
     },
     {
       "surface": "יָצָ֖א",
-      "english": "拈出了"
+      "gloss": "拈出了"
     },
     {
       "surface": "הַ\/גּוֹרָ֣ל",
-      "english": "⟨那⟩签"
+      "gloss": "⟨那⟩签"
     },
     {
       "surface": "הָֽ\/רְבִיעִ֑י",
-      "english": "第四"
+      "gloss": "第四"
     },
     {
       "surface": "לִ\/בְנֵ֥י",
-      "english": "对……的众子"
+      "gloss": "对……的众子"
     },
     {
       "surface": "יִשָּׂשכָ֖ר",
-      "english": "以萨迦"
+      "gloss": "以萨迦"
     },
     {
       "surface": "לְ\/מִשְׁפְּחוֹתָֽ\/ם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     }
-  ],
-  "timestamp": "2026-07-20T07:01:43.348609193Z",
-  "model": "glm-5.2"
+  ]
 }

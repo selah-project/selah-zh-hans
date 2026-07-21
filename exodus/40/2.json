@@ -1,62 +1,54 @@
 {
-  "tier": "bulk",
-  "verse": 2,
   "ref": "exodus 40:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 497,
-    "prompt_tokens": 18689,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19186
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:23:43.590865098Z",
   "translation": "在正月 ⟨the⟩ 初一,你 ⟨要⟩ 竖起 ⟨את⟩ 会幕, ⟨即⟩ 会众 ⟨的⟩ 帐幕。",
   "tokens": [
     {
       "surface": "ביום",
-      "english": "在...日"
+      "gloss": "在...日"
     },
     {
       "surface": "החדש",
-      "english": "⟨the⟩ 月"
+      "gloss": "⟨the⟩ 月"
     },
     {
       "surface": "הראשון",
-      "english": "初一"
+      "gloss": "初一"
     },
     {
       "surface": "באחד",
-      "english": "在...初一"
+      "gloss": "在...初一"
     },
     {
       "surface": "לחדש",
-      "english": "⟨of the⟩ 月"
+      "gloss": "⟨of the⟩ 月"
     },
     {
       "surface": "תקים",
-      "english": "你 ⟨要⟩ 竖起"
+      "gloss": "你 ⟨要⟩ 竖起"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "会幕"
     },
     {
       "surface": "משכן",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "אהל",
-      "english": "帐幕"
+      "gloss": "帐幕"
     },
     {
       "surface": "מועד",
-      "english": "会众"
+      "gloss": "会众"
     }
-  ],
-  "timestamp": "2026-07-21T13:23:43.590865098Z",
-  "model": "glm-4.5"
+  ]
 }

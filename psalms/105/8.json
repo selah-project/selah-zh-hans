@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 105:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64793
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:28.560710861Z",
   "translation": "他记念⟨他的⟩布瑞特直到永远；他*命令*的话语，⟨要守⟩直到一千代。",
   "tokens": [
     {
       "surface": "זכר",
-      "english": "他记念"
+      "gloss": "他记念"
     },
     {
       "surface": "לעולם",
-      "english": "直到永远"
+      "gloss": "直到永远"
     },
     {
       "surface": "בריתו",
-      "english": "⟨他的⟩布瑞特"
+      "gloss": "⟨他的⟩布瑞特"
     },
     {
       "surface": "דבר",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "צוה",
-      "english": "他*命令*"
+      "gloss": "他*命令*"
     },
     {
       "surface": "לאלף",
-      "english": "直到一千"
+      "gloss": "直到一千"
     },
     {
       "surface": "דור",
-      "english": "代"
+      "gloss": "代"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:28.560710861Z",
-  "model": "glm-5.2"
+  ]
 }

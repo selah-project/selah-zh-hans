@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "2-kings 10:27",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 561,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18871,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19432
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:23:47.718346192Z",
   "translation": "他们拆毁了⟨את⟩巴力的柱像,拆毁了⟨את⟩巴力的庙,将它们设为茅厕,直到今日。",
   "tokens": [
     {
       "surface": "ויתצו",
-      "english": "他们拆毁了"
+      "gloss": "他们拆毁了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "巴力的柱像"
     },
     {
       "surface": "מצבת",
-      "english": "柱像"
+      "gloss": "柱像"
     },
     {
       "surface": "הבעל",
-      "english": "巴力的"
+      "gloss": "巴力的"
     },
     {
       "surface": "ויתצו",
-      "english": "拆毁了"
+      "gloss": "拆毁了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "巴力的庙"
     },
     {
       "surface": "בית",
-      "english": "庙"
+      "gloss": "庙"
     },
     {
       "surface": "הבעל",
-      "english": "巴力的"
+      "gloss": "巴力的"
     },
     {
       "surface": "וישמהו",
-      "english": "将它们设为"
+      "gloss": "将它们设为"
     },
     {
       "surface": "למחראות",
-      "english": "茅厕"
+      "gloss": "茅厕"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "היום",
-      "english": "今日"
+      "gloss": "今日"
     }
-  ],
-  "timestamp": "2026-07-17T21:23:47.718346192Z",
-  "model": "glm-5.2"
+  ]
 }

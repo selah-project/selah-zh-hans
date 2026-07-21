@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 135:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64601,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:54.504974795Z",
   "translation": "⟨和⟩西宏,亚摩利人的王,⟨和⟩巴珊王噩,⟨和⟩迦南一切的国度;",
   "tokens": [
     {
       "surface": "לסיחון",
-      "english": "⟨和⟩西宏"
+      "gloss": "⟨和⟩西宏"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "האמרי",
-      "english": "亚摩利人的"
+      "gloss": "亚摩利人的"
     },
     {
       "surface": "ולעוג",
-      "english": "⟨和⟩巴珊王噩"
+      "gloss": "⟨和⟩巴珊王噩"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הבשן",
-      "english": "巴珊"
+      "gloss": "巴珊"
     },
     {
       "surface": "ולכל",
-      "english": "⟨和⟩……一切的"
+      "gloss": "⟨和⟩……一切的"
     },
     {
       "surface": "ממלכות",
-      "english": "国度"
+      "gloss": "国度"
     },
     {
       "surface": "כנען",
-      "english": "迦南"
+      "gloss": "迦南"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:54.504974795Z",
-  "model": "glm-5.2"
+  ]
 }

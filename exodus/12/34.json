@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 34,
   "ref": "exodus 12:34",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 467,
-    "prompt_tokens": 18955,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19422
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:24:07.041013070Z",
   "translation": "百姓就把他们的面团的⟨את⟩在它变酸之前,他们的揉面盆包在衣服里,在他们的肩头上",
   "tokens": [
     {
       "surface": "וישא",
-      "english": "百姓就把"
+      "gloss": "百姓就把"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "面团"
     },
     {
       "surface": "בצקו",
-      "english": "他们的面团"
+      "gloss": "他们的面团"
     },
     {
       "surface": "טרם",
-      "english": "在...之前"
+      "gloss": "在...之前"
     },
     {
       "surface": "יחמץ",
-      "english": "它变酸"
+      "gloss": "它变酸"
     },
     {
       "surface": "משארתם",
-      "english": "他们的揉面盆"
+      "gloss": "他们的揉面盆"
     },
     {
       "surface": "צררת",
-      "english": "包"
+      "gloss": "包"
     },
     {
       "surface": "בשמלתם",
-      "english": "在衣服里"
+      "gloss": "在衣服里"
     },
     {
       "surface": "על",
-      "english": "在...上"
+      "gloss": "在...上"
     },
     {
       "surface": "שכמם",
-      "english": "他们的肩头"
+      "gloss": "他们的肩头"
     }
-  ],
-  "timestamp": "2026-07-21T13:24:07.041013070Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "lamentations 5:2",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 306,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33442,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33748
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:04.531889920Z",
   "translation": "我们的产业⟨被⟩翻转给了外人，我们的房屋给了陌生人。",
   "tokens": [
     {
       "surface": "נחלתנו",
-      "english": "我们的产业"
+      "gloss": "我们的产业"
     },
     {
       "surface": "נהפכה",
-      "english": "翻转"
+      "gloss": "翻转"
     },
     {
       "surface": "לזרים",
-      "english": "给了外人"
+      "gloss": "给了外人"
     },
     {
       "surface": "בתינו",
-      "english": "我们的房屋"
+      "gloss": "我们的房屋"
     },
     {
       "surface": "לנכרים",
-      "english": "给了陌生人"
+      "gloss": "给了陌生人"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:04.531889920Z",
-  "model": "glm-5.2"
+  ]
 }

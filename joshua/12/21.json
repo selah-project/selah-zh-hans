@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "joshua 12:21",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 254,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17681,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17935
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:47:29.448129612Z",
   "translation": "他纳 的王，一名；米吉多 的王，一名。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "תענך",
-      "english": "他纳"
+      "gloss": "他纳"
     },
     {
       "surface": "אחד",
-      "english": "一名"
+      "gloss": "一名"
     },
     {
       "surface": "מלך",
-      "english": "……的王"
+      "gloss": "……的王"
     },
     {
       "surface": "מגדו",
-      "english": "米吉多"
+      "gloss": "米吉多"
     },
     {
       "surface": "אחד",
-      "english": "一名"
+      "gloss": "一名"
     }
-  ],
-  "timestamp": "2026-07-18T02:47:29.448129612Z",
-  "model": "glm-5.2"
+  ]
 }

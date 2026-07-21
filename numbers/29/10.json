@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 29:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19386,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19776
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:21:10.517119881Z",
   "translation": "十分之一份,十分之一份,为这一只羔羊,为那七只羔羊⟨的每一只⟩;",
   "tokens": [
     {
       "surface": "עִשָּרוֹן",
-      "english": "十分之一份"
+      "gloss": "十分之一份"
     },
     {
       "surface": "עִשָּרוֹן",
-      "english": "十分之一份"
+      "gloss": "十分之一份"
     },
     {
       "surface": "לַ\/כֶּבֶשׂ",
-      "english": "为这一只羔羊"
+      "gloss": "为这一只羔羊"
     },
     {
       "surface": "הָ\/אֶחָד",
-      "english": "这一只"
+      "gloss": "这一只"
     },
     {
       "surface": "לְ\/שִׁבְעַת",
-      "english": "为那七只羔羊⟨的每一只⟩"
+      "gloss": "为那七只羔羊⟨的每一只⟩"
     },
     {
       "surface": "הַ\/כְּבָשִׂים",
-      "english": "那七只羔羊"
+      "gloss": "那七只羔羊"
     }
-  ],
-  "timestamp": "2026-07-17T19:21:10.517119881Z",
-  "model": "glm-5.2"
+  ]
 }

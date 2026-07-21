@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 41:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21538,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22019
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:50.491307124Z",
   "translation": "从他的口中⟨有⟩火把发出；火星如烈火⟨般⟩飞迸。",
   "tokens": [
     {
       "surface": "מפיו",
-      "english": "从他的口中"
+      "gloss": "从他的口中"
     },
     {
       "surface": "לפידים",
-      "english": "火把"
+      "gloss": "火把"
     },
     {
       "surface": "יהלכו",
-      "english": "发出"
+      "gloss": "发出"
     },
     {
       "surface": "כידודי",
-      "english": "火星"
+      "gloss": "火星"
     },
     {
       "surface": "אש",
-      "english": "烈火"
+      "gloss": "烈火"
     },
     {
       "surface": "יתמלטו",
-      "english": "飞迸"
+      "gloss": "飞迸"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:50.491307124Z",
-  "model": "glm-5.2"
+  ]
 }

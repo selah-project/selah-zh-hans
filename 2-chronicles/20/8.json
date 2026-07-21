@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "2-chronicles 20:8",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59555,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59952
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:25:14.890228374Z",
   "translation": "他们⟨在其中⟩居住，并为你⟨在其中⟩建造了圣所，为了你的名，说：",
   "tokens": [
     {
       "surface": "וישבו",
-      "english": "他们居住"
+      "gloss": "他们居住"
     },
     {
       "surface": "בה",
-      "english": "⟨在其中⟩"
+      "gloss": "⟨在其中⟩"
     },
     {
       "surface": "ויבנו",
-      "english": "并他们建造了"
+      "gloss": "并他们建造了"
     },
     {
       "surface": "לך",
-      "english": "为你"
+      "gloss": "为你"
     },
     {
       "surface": "בה",
-      "english": "⟨在其中⟩"
+      "gloss": "⟨在其中⟩"
     },
     {
       "surface": "מקדש",
-      "english": "圣所"
+      "gloss": "圣所"
     },
     {
       "surface": "לשמך",
-      "english": "为了你的名"
+      "gloss": "为了你的名"
     },
     {
       "surface": "לאמר",
-      "english": "说："
+      "gloss": "说："
     }
-  ],
-  "timestamp": "2026-07-18T02:25:14.890228374Z",
-  "model": "glm-5.2"
+  ]
 }

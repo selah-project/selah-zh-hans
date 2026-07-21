@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 21:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63914,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64323
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:15:37.969724317Z",
   "translation": "他们宣告了禁食,并将纳波特安置在⟨那⟩百姓的⟨头⟩首座上。",
   "tokens": [
     {
       "surface": "קראו",
-      "english": "他们宣告了"
+      "gloss": "他们宣告了"
     },
     {
       "surface": "צום",
-      "english": "禁食"
+      "gloss": "禁食"
     },
     {
       "surface": "והשיבו",
-      "english": "并将……安置"
+      "gloss": "并将……安置"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "纳波特"
     },
     {
       "surface": "נבות",
-      "english": "纳波特"
+      "gloss": "纳波特"
     },
     {
       "surface": "בראש",
-      "english": "在……的⟨头⟩"
+      "gloss": "在……的⟨头⟩"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     }
-  ],
-  "timestamp": "2026-07-17T21:15:37.969724317Z",
-  "model": "glm-5.2"
+  ]
 }

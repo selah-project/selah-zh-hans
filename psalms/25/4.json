@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 25:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64351,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64743
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:47:11.817712645Z",
   "translation": "雅威啊,求你使我认识你的道路;求你指教我你的路径。",
   "tokens": [
     {
       "surface": "דְּרָכֶ֣י\/ךָ",
-      "english": "你的道路"
+      "gloss": "你的道路"
     },
     {
       "surface": "יְ֭הוָה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "הוֹדִיעֵ֑\/נִי",
-      "english": "求你使我认识"
+      "gloss": "求你使我认识"
     },
     {
       "surface": "אֹ֖רְחוֹתֶ֣י\/ךָ",
-      "english": "你的路径"
+      "gloss": "你的路径"
     },
     {
       "surface": "לַמְּדֵֽ\/נִי",
-      "english": "求你指教我"
+      "gloss": "求你指教我"
     }
-  ],
-  "timestamp": "2026-07-17T23:47:11.817712645Z",
-  "model": "glm-5.2"
+  ]
 }

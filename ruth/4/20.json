@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "ruth 4:20",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 371,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22694,
-    "prompt_tokens_details": {
-      "cached_tokens": 21440
-    },
-    "total_tokens": 23065
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:14:51.326767102Z",
   "translation": "עמינדב生了⟨את⟩拿順，拿順生了⟨את⟩撒門；",
   "tokens": [
     {
       "surface": "וְעַמִּינָדָב",
-      "english": "保"
+      "gloss": "保"
     },
     {
       "surface": "הוֹלִיד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿顺"
     },
     {
       "surface": "נַחְשׁוֹן",
-      "english": "拿顺"
+      "gloss": "拿顺"
     },
     {
       "surface": "וְנַחְשׁוֹן",
-      "english": "拿顺"
+      "gloss": "拿顺"
     },
     {
       "surface": "הוֹלִיד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒门"
     },
     {
       "surface": "שַׂלְמָה",
-      "english": "撒门"
+      "gloss": "撒门"
     }
-  ],
-  "timestamp": "2026-07-18T01:14:51.326767102Z",
-  "model": "glm-5.2"
+  ]
 }

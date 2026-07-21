@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 57,
   "ref": "genesis 24:57",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22833,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23234
-  },
+  "verse": 57,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:47:39.319908472Z",
   "translation": "他们说：让⟨我们⟩呼召⟨那⟩少女，⟨让我们⟩询问 ⟨את⟩ 她口中的话。",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "נקרא",
-      "english": "让⟨我们⟩呼召"
+      "gloss": "让⟨我们⟩呼召"
     },
     {
       "surface": "לנער",
-      "english": "⟨那⟩少女"
+      "gloss": "⟨那⟩少女"
     },
     {
       "surface": "ונשאלה",
-      "english": "⟨让我们⟩询问"
+      "gloss": "⟨让我们⟩询问"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她口中的话 (她的意愿)"
     },
     {
       "surface": "פיה",
-      "english": "她口中的话"
+      "gloss": "她口中的话"
     }
-  ],
-  "timestamp": "2026-07-17T17:47:39.319908472Z",
-  "model": "glm-5.2"
+  ]
 }

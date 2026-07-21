@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "1-chronicles 23:20",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58443,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58804
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:15.050711412Z",
   "translation": "乌薛的儿子：米迦⟨是⟩那首位的，伊示雅⟨是⟩第二位。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "עזיאל",
-      "english": "乌薛"
+      "gloss": "乌薛"
     },
     {
       "surface": "מיכה",
-      "english": "米迦"
+      "gloss": "米迦"
     },
     {
       "surface": "הראש",
-      "english": "那首位的"
+      "gloss": "那首位的"
     },
     {
       "surface": "וישיה",
-      "english": "和伊示雅"
+      "gloss": "和伊示雅"
     },
     {
       "surface": "השני",
-      "english": "第二位"
+      "gloss": "第二位"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:15.050711412Z",
-  "model": "glm-5.2"
+  ]
 }

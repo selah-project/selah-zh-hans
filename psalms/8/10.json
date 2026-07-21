@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 8:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64239,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64501
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:21.587704657Z",
   "translation": "雅威,我们的阿多奈,你的名在全地何其伟大!",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אדנינו",
-      "english": "我们的阿多奈"
+      "gloss": "我们的阿多奈"
     },
     {
       "surface": "מה",
-      "english": "何其"
+      "gloss": "何其"
     },
     {
       "surface": "אדיר",
-      "english": "伟大"
+      "gloss": "伟大"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "בכל",
-      "english": "在全"
+      "gloss": "在全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:21.587704657Z",
-  "model": "glm-5.2"
+  ]
 }

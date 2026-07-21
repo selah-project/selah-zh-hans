@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 12:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54408,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54896
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:36.823207870Z",
   "translation": "吐出信实的人⟨את⟩公义宣告;虚假的见证,⟨是⟩欺诈。",
   "tokens": [
     {
       "surface": "יפיח",
-      "english": "吐出信实的人"
+      "gloss": "吐出信实的人"
     },
     {
       "surface": "אמונה",
-      "english": "信实"
+      "gloss": "信实"
     },
     {
       "surface": "יגיד",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "צדק",
-      "english": "⟨את⟩公义"
+      "gloss": "⟨את⟩公义"
     },
     {
       "surface": "ועד",
-      "english": "而……的见证"
+      "gloss": "而……的见证"
     },
     {
       "surface": "שקרים",
-      "english": "虚假"
+      "gloss": "虚假"
     },
     {
       "surface": "מרמה",
-      "english": "欺诈"
+      "gloss": "欺诈"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:36.823207870Z",
-  "model": "glm-5.2"
+  ]
 }

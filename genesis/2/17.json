@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 2:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 595,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23355,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23950
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:34:06.601689752Z",
   "translation": "至于知识之树——⟨就是⟩善与恶⟨的树⟩,不可从它吃;因为在你吃它的日子——⟨从其中⟩吃⟨它⟩的日子——死,你必死。\"",
   "tokens": [
     {
       "surface": "ומעץ",
-      "english": "至于……之树"
+      "gloss": "至于……之树"
     },
     {
       "surface": "הדעת",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "טוב",
-      "english": "善"
+      "gloss": "善"
     },
     {
       "surface": "ורע",
-      "english": "与恶"
+      "gloss": "与恶"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תאכל",
-      "english": "你吃"
+      "gloss": "你吃"
     },
     {
       "surface": "ממנו",
-      "english": "从它"
+      "gloss": "从它"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "אכלך",
-      "english": "你吃"
+      "gloss": "你吃"
     },
     {
       "surface": "ממנו",
-      "english": "从它"
+      "gloss": "从它"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "תמות",
-      "english": "你必死"
+      "gloss": "你必死"
     }
-  ],
-  "timestamp": "2026-07-17T17:34:06.601689752Z",
-  "model": "glm-5.2"
+  ]
 }

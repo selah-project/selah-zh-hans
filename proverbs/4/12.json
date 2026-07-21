@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "proverbs 4:12",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54513,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54859
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:25.403106076Z",
   "translation": "你行走的时候,你的脚步必不⟨受困窄⟩;你若奔跑,也不致绊跌。",
   "tokens": [
     {
       "surface": "בלכתך",
-      "english": "你行走的时候"
+      "gloss": "你行走的时候"
     },
     {
       "surface": "לא",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "יצר",
-      "english": "⟨受困窄⟩"
+      "gloss": "⟨受困窄⟩"
     },
     {
       "surface": "צעדך",
-      "english": "你的脚步"
+      "gloss": "你的脚步"
     },
     {
       "surface": "ואם",
-      "english": "你若"
+      "gloss": "你若"
     },
     {
       "surface": "תרוץ",
-      "english": "奔跑"
+      "gloss": "奔跑"
     },
     {
       "surface": "לא",
-      "english": "也不致"
+      "gloss": "也不致"
     },
     {
       "surface": "תכשל",
-      "english": "绊跌"
+      "gloss": "绊跌"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:25.403106076Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 9:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64610,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65064
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:41:43.019655927Z",
   "translation": "求你恩待⟨我⟩，雅威；看见我的困苦⟨是⟩来自恨我的人——那从死亡的门将⟨我⟩高举的⟨那一位⟩。",
   "tokens": [
     {
       "surface": "חננני",
-      "english": "求你恩待⟨我⟩"
+      "gloss": "求你恩待⟨我⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ראה",
-      "english": "看见"
+      "gloss": "看见"
     },
     {
       "surface": "עניי",
-      "english": "我的困苦"
+      "gloss": "我的困苦"
     },
     {
       "surface": "משנאי",
-      "english": "来自恨我的人"
+      "gloss": "来自恨我的人"
     },
     {
       "surface": "מרוממי",
-      "english": "那将⟨我⟩高举的"
+      "gloss": "那将⟨我⟩高举的"
     },
     {
       "surface": "משערי",
-      "english": "从……的门"
+      "gloss": "从……的门"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     }
-  ],
-  "timestamp": "2026-07-17T23:41:43.019655927Z",
-  "model": "glm-5.2"
+  ]
 }

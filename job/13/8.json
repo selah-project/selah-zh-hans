@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 13:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 203,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21357,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21560
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:24.819957717Z",
   "translation": "你们要举起⟨他的⟩面吗？还是你们要为以罗欣争辩？",
   "tokens": [
     {
       "surface": "הפניו",
-      "english": "⟨他的⟩面"
+      "gloss": "⟨他的⟩面"
     },
     {
       "surface": "תשאון",
-      "english": "你们要举起吗"
+      "gloss": "你们要举起吗"
     },
     {
       "surface": "אם",
-      "english": "还是"
+      "gloss": "还是"
     },
     {
       "surface": "לאל",
-      "english": "为以罗欣"
+      "gloss": "为以罗欣"
     },
     {
       "surface": "תריבון",
-      "english": "你们要争辩"
+      "gloss": "你们要争辩"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:24.819957717Z",
-  "model": "glm-5.2"
+  ]
 }

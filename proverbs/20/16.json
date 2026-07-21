@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 20:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54485,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54937
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:06.510899743Z",
   "translation": "拿他的衣服,⟨因为⟩他为外人作了保;对外人⟨也要⟩从他那וְ取当头。",
   "tokens": [
     {
       "surface": "לקח",
-      "english": "拿"
+      "gloss": "拿"
     },
     {
       "surface": "בגדו",
-      "english": "他的衣服"
+      "gloss": "他的衣服"
     },
     {
       "surface": "כי",
-      "english": "⟨因为⟩"
+      "gloss": "⟨因为⟩"
     },
     {
       "surface": "ערב",
-      "english": "作了保"
+      "gloss": "作了保"
     },
     {
       "surface": "זר",
-      "english": "外人"
+      "gloss": "外人"
     },
     {
       "surface": "ובעד",
-      "english": "对外人⟨也要⟩"
+      "gloss": "对外人⟨也要⟩"
     },
     {
       "surface": "נכרים",
-      "english": "外人"
+      "gloss": "外人"
     },
     {
       "surface": "חבלהו",
-      "english": "从他那וְ取当头"
+      "gloss": "从他那וְ取当头"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:06.510899743Z",
-  "model": "glm-5.2"
+  ]
 }

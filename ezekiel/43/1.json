@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "ezekiel 43:1",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 293,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18848,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19141
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:07:39.003592960Z",
   "translation": "⟨他⟩带我到门,就是面向东方的路 ⟨那⟩门。",
   "tokens": [
     {
       "surface": "ויולכני",
-      "english": "⟨他⟩带我"
+      "gloss": "⟨他⟩带我"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "השער",
-      "english": "⟨那⟩门"
+      "gloss": "⟨那⟩门"
     },
     {
       "surface": "שער",
-      "english": "门"
+      "gloss": "门"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "פנה",
-      "english": "面向"
+      "gloss": "面向"
     },
     {
       "surface": "דרך",
-      "english": "路"
+      "gloss": "路"
     },
     {
       "surface": "הקדים",
-      "english": "东方"
+      "gloss": "东方"
     }
-  ],
-  "timestamp": "2026-07-17T23:07:39.003592960Z",
-  "model": "glm-5.2"
+  ]
 }

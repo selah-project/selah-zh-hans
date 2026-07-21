@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "lamentations 3:37",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33527,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33872
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:59.492103501Z",
   "translation": "谁 ⟨זֶה⟩ 说了，⟨而⟩ 它就成了？阿多奈没有命令 ⟨它⟩！",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "זה",
-      "english": "⟨זֶה⟩"
+      "gloss": "⟨זֶה⟩"
     },
     {
       "surface": "אמר",
-      "english": "说了"
+      "gloss": "说了"
     },
     {
       "surface": "ותהי",
-      "english": "⟨而⟩ 它就成了？"
+      "gloss": "⟨而⟩ 它就成了？"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "צוה",
-      "english": "命令 ⟨它⟩"
+      "gloss": "命令 ⟨它⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:59.492103501Z",
-  "model": "glm-5.2"
+  ]
 }

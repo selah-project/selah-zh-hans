@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 18:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64483,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64846
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:36.735347044Z",
   "translation": "因为我的一切判词都在我面前，他的律例我⟨也⟩不从我身上转离。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "כל",
-      "english": "所有\/一切"
+      "gloss": "所有\/一切"
     },
     {
       "surface": "משפטיו",
-      "english": "他的判词"
+      "gloss": "他的判词"
     },
     {
       "surface": "לנגדי",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "וחקתיו",
-      "english": "而他的律例"
+      "gloss": "而他的律例"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אסיר",
-      "english": "我转离"
+      "gloss": "我转离"
     },
     {
       "surface": "מני",
-      "english": "从我身上"
+      "gloss": "从我身上"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:36.735347044Z",
-  "model": "glm-5.2"
+  ]
 }

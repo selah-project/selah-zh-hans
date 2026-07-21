@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 21:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 291,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18169,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18460
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:24:20.838637560Z",
   "translation": "诅咒他父亲和他母亲的,⟨必⟩被治死。",
   "tokens": [
     {
       "surface": "ומקלל",
-      "english": "诅咒"
+      "gloss": "诅咒"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "ואמו",
-      "english": "和他母亲的"
+      "gloss": "和他母亲的"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "יומת",
-      "english": "⟨必⟩被治死"
+      "gloss": "⟨必⟩被治死"
     }
-  ],
-  "timestamp": "2026-07-17T18:24:20.838637560Z",
-  "model": "glm-5.2"
+  ]
 }

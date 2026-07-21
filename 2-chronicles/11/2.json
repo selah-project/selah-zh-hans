@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "2-chronicles 11:2",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 289,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59596,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 59885
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:20:04.702450938Z",
   "translation": "雅威的*davar*临到示玛雅——以罗欣的人——⟨说⟩:⟨如下⟩",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生⟩了"
+      "gloss": "⟨发生⟩了"
     },
     {
       "surface": "דבר",
-      "english": "*davar*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威的"
+      "gloss": "雅威的"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "שמעיהו",
-      "english": "示玛雅"
+      "gloss": "示玛雅"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "לאמר",
-      "english": "⟨说⟩"
+      "gloss": "⟨说⟩"
     }
-  ],
-  "timestamp": "2026-07-18T02:20:04.702450938Z",
-  "model": "glm-5.2"
+  ]
 }

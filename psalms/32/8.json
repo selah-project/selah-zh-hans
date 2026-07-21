@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 32:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 638,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64622,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65260
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:35.840863111Z",
   "translation": "我要使你有洞察力,并以光照亮你,在你当行的道路上;我要劝诫你,我的眼目⟨定睛⟩在你身上。",
   "tokens": [
     {
       "surface": "אשכילך",
-      "english": "我要使你有洞察力"
+      "gloss": "我要使你有洞察力"
     },
     {
       "surface": "ואורך",
-      "english": "并以光照亮你"
+      "gloss": "并以光照亮你"
     },
     {
       "surface": "בדרך",
-      "english": "在道路上"
+      "gloss": "在道路上"
     },
     {
       "surface": "זו",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "תלך",
-      "english": "你当行的"
+      "gloss": "你当行的"
     },
     {
       "surface": "איעצה",
-      "english": "我要劝诫"
+      "gloss": "我要劝诫"
     },
     {
       "surface": "עליך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עיני",
-      "english": "我的眼目"
+      "gloss": "我的眼目"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:35.840863111Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "song-of-songs 5:12",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22257,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22663
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:57.161376891Z",
   "translation": "他的眼睛如同鸽子在水道旁,用奶洗净,安居于满溢之处。",
   "tokens": [
     {
       "surface": "עיניו",
-      "english": "他的眼睛"
+      "gloss": "他的眼睛"
     },
     {
       "surface": "כיונים",
-      "english": "如同鸽子"
+      "gloss": "如同鸽子"
     },
     {
       "surface": "על",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "אפיקי",
-      "english": "水道"
+      "gloss": "水道"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "רחצות",
-      "english": "洗净"
+      "gloss": "洗净"
     },
     {
       "surface": "בחלב",
-      "english": "用奶"
+      "gloss": "用奶"
     },
     {
       "surface": "ישבות",
-      "english": "安居"
+      "gloss": "安居"
     },
     {
       "surface": "על",
-      "english": "于……之上"
+      "gloss": "于……之上"
     },
     {
       "surface": "מלאת",
-      "english": "满溢之处"
+      "gloss": "满溢之处"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:57.161376891Z",
-  "model": "glm-5.2"
+  ]
 }

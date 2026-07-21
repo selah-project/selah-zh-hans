@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "joel 2:6",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17822,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18261
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:17:50.669652229Z",
   "translation": "从他面前,众民⟨都⟩痛苦扭曲;所有的脸面⟨都⟩聚起赤红。",
   "tokens": [
     {
       "surface": "מפניו",
-      "english": "从他面前"
+      "gloss": "从他面前"
     },
     {
       "surface": "יחילו",
-      "english": "⟨都⟩痛苦扭曲"
+      "gloss": "⟨都⟩痛苦扭曲"
     },
     {
       "surface": "עמים",
-      "english": "众民"
+      "gloss": "众民"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "פנים",
-      "english": "脸面"
+      "gloss": "脸面"
     },
     {
       "surface": "קבצו",
-      "english": "⟨都⟩聚起"
+      "gloss": "⟨都⟩聚起"
     },
     {
       "surface": "פארור",
-      "english": "赤红"
+      "gloss": "赤红"
     }
-  ],
-  "timestamp": "2026-07-17T23:17:50.669652229Z",
-  "model": "glm-5.2"
+  ]
 }

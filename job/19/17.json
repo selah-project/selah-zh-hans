@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "job 19:17",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 501,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21499,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22000
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:21.337295091Z",
   "translation": "我的鲁阿对我妻子变得陌生，我恳求⟨那些⟩我自己腹⟨所生⟩之子。",
   "tokens": [
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "זרה",
-      "english": "变得陌生"
+      "gloss": "变得陌生"
     },
     {
       "surface": "לאשתי",
-      "english": "对我妻子"
+      "gloss": "对我妻子"
     },
     {
       "surface": "וחנתי",
-      "english": "我恳求"
+      "gloss": "我恳求"
     },
     {
       "surface": "לבני",
-      "english": "⟨那些⟩……之子"
+      "gloss": "⟨那些⟩……之子"
     },
     {
       "surface": "בטני",
-      "english": "我自己腹"
+      "gloss": "我自己腹"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:21.337295091Z",
-  "model": "glm-5.2"
+  ]
 }

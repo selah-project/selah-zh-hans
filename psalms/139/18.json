@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 139:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 139,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64898
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:08.308905855Z",
   "translation": "我若数算它们,它们比沙子更多;我醒來,⟨我⟩⟨还⟩与⟨את⟩你同在。",
   "tokens": [
     {
       "surface": "אספרם",
-      "english": "我若数算它们"
+      "gloss": "我若数算它们"
     },
     {
       "surface": "מחול",
-      "english": "比沙子"
+      "gloss": "比沙子"
     },
     {
       "surface": "ירבון",
-      "english": "它们更多"
+      "gloss": "它们更多"
     },
     {
       "surface": "הקיצתי",
-      "english": "我醒來"
+      "gloss": "我醒來"
     },
     {
       "surface": "ועודי",
-      "english": "⟨我⟩⟨还⟩"
+      "gloss": "⟨我⟩⟨还⟩"
     },
     {
       "surface": "עמך",
-      "english": "与⟨את⟩你同在"
+      "gloss": "与⟨את⟩你同在"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:08.308905855Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,82 +1,74 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "genesis 44:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 574,
-    "prompt_tokens": 23595,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 24169
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:08.153580980Z",
   "translation": "他说,现在也 ⟨正如⟩ 你们的话,它 ⟨是这样⟩:在 ⟨他那里⟩ 被发现 ⟨的⟩,要作我的仆人,你们 ⟨要被⟩ 算为无辜。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "עתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "כדבריכם",
-      "english": "⟨正如⟩ 你们的话"
+      "gloss": "⟨正如⟩ 你们的话"
     },
     {
       "surface": "כן",
-      "english": "它 ⟨是这样⟩"
+      "gloss": "它 ⟨是这样⟩"
     },
     {
       "surface": "הוא",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אשר",
-      "english": "⟨的⟩"
+      "gloss": "⟨的⟩"
     },
     {
       "surface": "ימצא",
-      "english": "被发现"
+      "gloss": "被发现"
     },
     {
       "surface": "אתו",
-      "english": "⟨在⟩ 他 ⟨那里⟩",
+      "gloss": "⟨在⟩ 他 ⟨那里⟩",
       "marks": "在他那里"
     },
     {
       "surface": "יהיה",
-      "english": "要作"
+      "gloss": "要作"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "עבד",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "ואתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "תהיו",
-      "english": "⟨要被⟩ 算为"
+      "gloss": "⟨要被⟩ 算为"
     },
     {
       "surface": "נקים",
-      "english": "无辜"
+      "gloss": "无辜"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:08.153580980Z",
-  "model": "glm-4.5"
+  ]
 }

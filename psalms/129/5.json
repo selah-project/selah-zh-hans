@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 129:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64307,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64634
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:33.203636854Z",
   "translation": "愿他们蒙羞，退后，一切恨恶锡安的人。",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "愿他们蒙羞"
+      "gloss": "愿他们蒙羞"
     },
     {
       "surface": "ויסגו",
-      "english": "退后"
+      "gloss": "退后"
     },
     {
       "surface": "אחור",
-      "english": "向后"
+      "gloss": "向后"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "שנאי",
-      "english": "恨恶"
+      "gloss": "恨恶"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:33.203636854Z",
-  "model": "glm-5.2"
+  ]
 }

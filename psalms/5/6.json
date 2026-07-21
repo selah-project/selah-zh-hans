@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 5:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64655,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65039
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:30.041925890Z",
   "translation": "狂妄人不能在你眼前站定；你恨恶所有行事虚妄的人。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יתיצבו",
-      "english": "他们能站定"
+      "gloss": "他们能站定"
     },
     {
       "surface": "הוללים",
-      "english": "狂妄人"
+      "gloss": "狂妄人"
     },
     {
       "surface": "לנגד",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "עיניך",
-      "english": "你眼前"
+      "gloss": "你眼前"
     },
     {
       "surface": "שנאת",
-      "english": "你恨恶"
+      "gloss": "你恨恶"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "פעלי",
-      "english": "行事……的人"
+      "gloss": "行事……的人"
     },
     {
       "surface": "און",
-      "english": "虚妄"
+      "gloss": "虚妄"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:30.041925890Z",
-  "model": "glm-5.2"
+  ]
 }

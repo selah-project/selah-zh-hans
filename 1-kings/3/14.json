@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "1-kings 3:14",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64550,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64990
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:18.269984225Z",
   "translation": "如果你行在我的道路上,遵守我的律例和我的诫命,正如大卫你父亲所行的,我⟨将⟩使你的日子长久⟨את⟩。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "תלך",
-      "english": "你行"
+      "gloss": "你行"
     },
     {
       "surface": "בדרכי",
-      "english": "在我的道路上"
+      "gloss": "在我的道路上"
     },
     {
       "surface": "לשמר",
-      "english": "遵守"
+      "gloss": "遵守"
     },
     {
       "surface": "חקי",
-      "english": "我的律例"
+      "gloss": "我的律例"
     },
     {
       "surface": "ומצותי",
-      "english": "和我的诫命"
+      "gloss": "和我的诫命"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "הלך",
-      "english": "所行的"
+      "gloss": "所行的"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביך",
-      "english": "你父亲"
+      "gloss": "你父亲"
     },
     {
       "surface": "והארכתי",
-      "english": "我⟨将⟩使……长久"
+      "gloss": "我⟨将⟩使……长久"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的日子"
     },
     {
       "surface": "ימיך",
-      "english": "你的日子"
+      "gloss": "你的日子"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:18.269984225Z",
-  "model": "glm-5.2"
+  ]
 }

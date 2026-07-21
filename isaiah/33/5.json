@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 33:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 373,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20782,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21155
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:41.669495261Z",
   "translation": "雅威被高举，因为他居住在高处；他用公平和公义充满锡安。",
   "tokens": [
     {
       "surface": "נִשְׂגָּ֣ב",
-      "english": "被高举"
+      "gloss": "被高举"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כִּ֥י",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שֹׁכֵ֖ן",
-      "english": "居住"
+      "gloss": "居住"
     },
     {
       "surface": "מָר֑וֹם",
-      "english": "高处"
+      "gloss": "高处"
     },
     {
       "surface": "מִלֵּ֣א",
-      "english": "他充满"
+      "gloss": "他充满"
     },
     {
       "surface": "צִיּ֔וֹן",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "מִשְׁפָּ֖ט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "וּ\/צְדָקָֽה",
-      "english": "和公义"
+      "gloss": "和公义"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:41.669495261Z",
-  "model": "glm-5.2"
+  ]
 }

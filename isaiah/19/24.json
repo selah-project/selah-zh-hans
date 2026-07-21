@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 19:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20851,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21459
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:12.584255259Z",
   "translation": "在那日,以色列将成为第三方,⟨归属⟩埃及与亚述,⟨成为⟩大地之中的祝福。",
   "tokens": [
     {
       "surface": "בַּ\/יּ֣וֹם",
-      "english": "在那日"
+      "gloss": "在那日"
     },
     {
       "surface": "הַ\/ה֗וּא",
-      "english": "那 (同一的)"
+      "gloss": "那 (同一的)"
     },
     {
       "surface": "יִהְיֶ֤ה",
-      "english": "将成为"
+      "gloss": "将成为"
     },
     {
       "surface": "יִשְׂרָאֵל֙",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "שְׁלִ֣ישִׁיָּ֔ה",
-      "english": "第三方 (阴性形式)"
+      "gloss": "第三方 (阴性形式)"
     },
     {
       "surface": "לְ\/מִצְרַ֖יִם",
-      "english": "⟨归属⟩埃及"
+      "gloss": "⟨归属⟩埃及"
     },
     {
       "surface": "וּ\/לְ\/אַשּׁ֑וּר",
-      "english": "与亚述"
+      "gloss": "与亚述"
     },
     {
       "surface": "בְּרָכָ֖ה",
-      "english": "祝福"
+      "gloss": "祝福"
     },
     {
       "surface": "בְּ\/קֶ֥רֶב",
-      "english": "在……之中"
+      "gloss": "在……之中"
     },
     {
       "surface": "הָ\/אָֽרֶץ",
-      "english": "大地"
+      "gloss": "大地"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:12.584255259Z",
-  "model": "glm-5.2"
+  ]
 }

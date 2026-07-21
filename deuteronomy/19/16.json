@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "deuteronomy 19:16",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 496,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19114,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19610
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:39:37.275060175Z",
   "translation": "若有一个暴力的见证人起来攻击一个人,要作证⟨攻击⟩⟨他⟩背逆之事,",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יָק֥וּם",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "עֵד",
-      "english": "一个见证人"
+      "gloss": "一个见证人"
     },
     {
       "surface": "חָמָ֖ס",
-      "english": "暴力的"
+      "gloss": "暴力的"
     },
     {
       "surface": "בְּ\/אִ֑ישׁ",
-      "english": "攻击一个人"
+      "gloss": "攻击一个人"
     },
     {
       "surface": "לַ\/עֲנ֥וֹת",
-      "english": "要作证"
+      "gloss": "要作证"
     },
     {
       "surface": "בּ֖\/וֹ",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "סָרָֽה",
-      "english": "背逆之事"
+      "gloss": "背逆之事"
     }
-  ],
-  "timestamp": "2026-07-17T19:39:37.275060175Z",
-  "model": "glm-5.2"
+  ]
 }

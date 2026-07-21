@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-samuel 14:5",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18196,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18677
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:28:22.001772790Z",
   "translation": "那⟨一⟩齿（峭岩）之一如同柱子般立于北边，面朝密抹；另一⟨个⟩则在南边，面朝迦巴。",
   "tokens": [
     {
       "surface": "השן",
-      "english": "那齿（峭岩）"
+      "gloss": "那齿（峭岩）"
     },
     {
       "surface": "האחד",
-      "english": "之一"
+      "gloss": "之一"
     },
     {
       "surface": "מצוק",
-      "english": "如同柱子般立着"
+      "gloss": "如同柱子般立着"
     },
     {
       "surface": "מצפון",
-      "english": "从北边"
+      "gloss": "从北边"
     },
     {
       "surface": "מול",
-      "english": "面朝"
+      "gloss": "面朝"
     },
     {
       "surface": "מכמש",
-      "english": "密抹"
+      "gloss": "密抹"
     },
     {
       "surface": "והאחד",
-      "english": "而另一⟨个⟩"
+      "gloss": "而另一⟨个⟩"
     },
     {
       "surface": "מנגב",
-      "english": "从南边"
+      "gloss": "从南边"
     },
     {
       "surface": "מול",
-      "english": "面朝"
+      "gloss": "面朝"
     },
     {
       "surface": "גבע",
-      "english": "迦巴"
+      "gloss": "迦巴"
     }
-  ],
-  "timestamp": "2026-07-17T20:28:22.001772790Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "numbers 33:21",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19168,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19467
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:29.476181289Z",
   "translation": "他们从利博纳起行,在利撒安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们起行"
+      "gloss": "他们起行"
     },
     {
       "surface": "מלבנה",
-      "english": "从利博纳"
+      "gloss": "从利博纳"
     },
     {
       "surface": "ויחנו",
-      "english": "他们安营"
+      "gloss": "他们安营"
     },
     {
       "surface": "ברסה",
-      "english": "在利撒"
+      "gloss": "在利撒"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:29.476181289Z",
-  "model": "glm-5.2"
+  ]
 }

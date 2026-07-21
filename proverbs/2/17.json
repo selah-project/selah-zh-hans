@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 2:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54515,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54910
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:25.079302304Z",
   "translation": "她离弃了她青春的密友，⟨את⟩她以罗欣的布瑞特，她忘记了。",
   "tokens": [
     {
       "surface": "העזבת",
-      "english": "她离弃了"
+      "gloss": "她离弃了"
     },
     {
       "surface": "אלוף",
-      "english": "密友"
+      "gloss": "密友"
     },
     {
       "surface": "נעוריה",
-      "english": "她青春的"
+      "gloss": "她青春的"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的以罗欣的布瑞特"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "אלהיה",
-      "english": "她的以罗欣的"
+      "gloss": "她的以罗欣的"
     },
     {
       "surface": "שכחה",
-      "english": "她忘记了"
+      "gloss": "她忘记了"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:25.079302304Z",
-  "model": "glm-5.2"
+  ]
 }

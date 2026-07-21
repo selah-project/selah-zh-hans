@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "leviticus 6:22",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19212,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19598
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:01.187699179Z",
   "translation": "凡祭司中的男性都要吃它；⟨它⟩⟨是⟩至圣的。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "זכר",
-      "english": "男性"
+      "gloss": "男性"
     },
     {
       "surface": "בכהנים",
-      "english": "在祭司中"
+      "gloss": "在祭司中"
     },
     {
       "surface": "יאכל",
-      "english": "都要吃"
+      "gloss": "都要吃"
     },
     {
       "surface": "אתה",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它（献祭物）"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "קדשים",
-      "english": "至圣（圣中之圣）"
+      "gloss": "至圣（圣中之圣）"
     },
     {
       "surface": "הוא",
-      "english": "⟨它⟩⟨是⟩"
+      "gloss": "⟨它⟩⟨是⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:01.187699179Z",
-  "model": "glm-5.2"
+  ]
 }

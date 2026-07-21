@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "joshua 21:31",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18349,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18685
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:03:13.918267833Z",
   "translation": "⟨את⟩ 赫勒加特和⟨את⟩ 它的郊野,和⟨את⟩ 勒霍布和⟨את⟩ 它的郊野,四座城。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "赫勒加特"
     },
     {
       "surface": "חלקת",
-      "english": "赫勒加特"
+      "gloss": "赫勒加特"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的郊野"
     },
     {
       "surface": "מגרשה",
-      "english": "它的郊野"
+      "gloss": "它的郊野"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "勒霍布"
     },
     {
       "surface": "רחב",
-      "english": "勒霍布"
+      "gloss": "勒霍布"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的郊野"
     },
     {
       "surface": "מגרשה",
-      "english": "它的郊野"
+      "gloss": "它的郊野"
     },
     {
       "surface": "ערים",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     }
-  ],
-  "timestamp": "2026-07-17T20:03:13.918267833Z",
-  "model": "glm-5.2"
+  ]
 }

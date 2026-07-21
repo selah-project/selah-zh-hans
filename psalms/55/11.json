@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 55:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64537,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64877
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:09.890342746Z",
   "translation": "白昼与黑夜 ⟨他们⟩ 环绕它，在它的城墙之上；奸恶与劳苦 ⟨在⟩ 它中间。",
   "tokens": [
     {
       "surface": "יומם",
-      "english": "白昼"
+      "gloss": "白昼"
     },
     {
       "surface": "ולילה",
-      "english": "与黑夜"
+      "gloss": "与黑夜"
     },
     {
       "surface": "יסובבה",
-      "english": "⟨他们⟩ 环绕它"
+      "gloss": "⟨他们⟩ 环绕它"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "חומתיה",
-      "english": "它的城墙"
+      "gloss": "它的城墙"
     },
     {
       "surface": "ואון",
-      "english": "奸恶"
+      "gloss": "奸恶"
     },
     {
       "surface": "ועמל",
-      "english": "劳苦"
+      "gloss": "劳苦"
     },
     {
       "surface": "בקרבה",
-      "english": "在它中间"
+      "gloss": "在它中间"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:09.890342746Z",
-  "model": "glm-5.2"
+  ]
 }

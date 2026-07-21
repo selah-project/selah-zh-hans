@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 3:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 340,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21521,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21861
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:04.635304744Z",
   "translation": "愿那些咒诅日子的人咒诅它，那些预备好了唤醒里维雅坦的人。",
   "tokens": [
     {
       "surface": "יִקְּבֻהוּ",
-      "english": "愿他们咒诅它"
+      "gloss": "愿他们咒诅它"
     },
     {
       "surface": "אֹרְרֵי",
-      "english": "那些咒诅……的人"
+      "gloss": "那些咒诅……的人"
     },
     {
       "surface": "יוֹם",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "הָעֲתִידִים",
-      "english": "那些预备好了的"
+      "gloss": "那些预备好了的"
     },
     {
       "surface": "עֹרֵר",
-      "english": "唤醒"
+      "gloss": "唤醒"
     },
     {
       "surface": "לִוְיָתָן",
-      "english": "里维雅坦"
+      "gloss": "里维雅坦"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:04.635304744Z",
-  "model": "glm-5.2"
+  ]
 }

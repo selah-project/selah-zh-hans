@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "psalms 31:23",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64898,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65491
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:23.282177673Z",
   "translation": "而我曾说,在我的惊惶中:⟨我⟩被剪除,离开你眼前!然而你听见了⟨我⟩恳求的声音,在我向你呼求⟨之时⟩。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "אמרתי",
-      "english": "曾说"
+      "gloss": "曾说"
     },
     {
       "surface": "בחפזי",
-      "english": "在我的惊惶中"
+      "gloss": "在我的惊惶中"
     },
     {
       "surface": "נגרזתי",
-      "english": "⟨我⟩被剪除"
+      "gloss": "⟨我⟩被剪除"
     },
     {
       "surface": "מנגד",
-      "english": "离开"
+      "gloss": "离开"
     },
     {
       "surface": "עיניך",
-      "english": "你眼前"
+      "gloss": "你眼前"
     },
     {
       "surface": "אכן",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "שמעת",
-      "english": "你听见了"
+      "gloss": "你听见了"
     },
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "תחנוני",
-      "english": "⟨我⟩恳求的"
+      "gloss": "⟨我⟩恳求的"
     },
     {
       "surface": "בשועי",
-      "english": "在我呼求"
+      "gloss": "在我呼求"
     },
     {
       "surface": "אליך",
-      "english": "向你⟨之时⟩"
+      "gloss": "向你⟨之时⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:23.282177673Z",
-  "model": "glm-5.2"
+  ]
 }

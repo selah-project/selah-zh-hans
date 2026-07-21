@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "exodus 39:23",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 510,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18703,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19213
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:38:42.167113518Z",
   "translation": "袍子的领口在⟨它⟩中间，如同铠甲的领口；⟨有⟩边围绕⟨它⟩的领口，⟨为要⟩不撕裂。",
   "tokens": [
     {
       "surface": "ופי",
-      "english": "⟨和⟩……的领口"
+      "gloss": "⟨和⟩……的领口"
     },
     {
       "surface": "המעיל",
-      "english": "袍子"
+      "gloss": "袍子"
     },
     {
       "surface": "בתוכו",
-      "english": "在⟨它⟩中间"
+      "gloss": "在⟨它⟩中间"
     },
     {
       "surface": "כפי",
-      "english": "如同……的领口"
+      "gloss": "如同……的领口"
     },
     {
       "surface": "תחרא",
-      "english": "铠甲"
+      "gloss": "铠甲"
     },
     {
       "surface": "שפה",
-      "english": "边"
+      "gloss": "边"
     },
     {
       "surface": "לפיו",
-      "english": "围绕⟨它⟩的领口"
+      "gloss": "围绕⟨它⟩的领口"
     },
     {
       "surface": "סביב",
-      "english": "周围"
+      "gloss": "周围"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יקרע",
-      "english": "撕裂"
+      "gloss": "撕裂"
     }
-  ],
-  "timestamp": "2026-07-17T18:38:42.167113518Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "song-of-songs 3:5",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 611,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23061,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 23672
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:27.190707540Z",
   "translation": "我令你们起誓——耶路撒冷的女子们啊，凭⟨צבאות⟩或田野的⟨אילות⟩：不要唤醒，也不要惊动⟨את⟩האהבה，直到它自愿。",
   "tokens": [
     {
       "surface": "השבעתי",
-      "english": "我令你们起誓"
+      "gloss": "我令你们起誓"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "בנות (女儿们)"
     },
     {
       "surface": "בנות",
-      "english": "女儿们"
+      "gloss": "女儿们"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "בצבאות",
-      "english": "凭צבאות"
+      "gloss": "凭צבאות"
     },
     {
       "surface": "או",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "באילות",
-      "english": "凭אילות"
+      "gloss": "凭אילות"
     },
     {
       "surface": "השדה",
-      "english": "田野的"
+      "gloss": "田野的"
     },
     {
       "surface": "אם",
-      "english": "你们不要"
+      "gloss": "你们不要"
     },
     {
       "surface": "תעירו",
-      "english": "唤醒"
+      "gloss": "唤醒"
     },
     {
       "surface": "ואם",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "תעוררו",
-      "english": "惊动"
+      "gloss": "惊动"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "האהבה (爱)"
     },
     {
       "surface": "האהבה",
-      "english": "爱"
+      "gloss": "爱"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "שתחפץ",
-      "english": "它自愿"
+      "gloss": "它自愿"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:27.190707540Z",
-  "model": "glm-5.2"
+  ]
 }

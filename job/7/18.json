@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 7:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21358,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21685
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:50.380912649Z",
   "translation": "你每早晨探访⟨我们⟩，每时刻察验⟨我们⟩？",
   "tokens": [
     {
       "surface": "ותפקדנו",
-      "english": "你探访我们"
+      "gloss": "你探访我们"
     },
     {
       "surface": "לבקרים",
-      "english": "每早晨"
+      "gloss": "每早晨"
     },
     {
       "surface": "לרגעים",
-      "english": "每时刻"
+      "gloss": "每时刻"
     },
     {
       "surface": "תבחננו",
-      "english": "你察验我们"
+      "gloss": "你察验我们"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:50.380912649Z",
-  "model": "glm-5.2"
+  ]
 }

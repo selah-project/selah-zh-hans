@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 38:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21512,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21860
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:43.358898079Z",
   "translation": "求你束上你的腰如勇士;我要问你,你⟨要⟩使我知道。",
   "tokens": [
     {
       "surface": "אזר",
-      "english": "束上"
+      "gloss": "束上"
     },
     {
       "surface": "נא",
-      "english": "求你"
+      "gloss": "求你"
     },
     {
       "surface": "כגבר",
-      "english": "如勇士"
+      "gloss": "如勇士"
     },
     {
       "surface": "חלציך",
-      "english": "你的腰"
+      "gloss": "你的腰"
     },
     {
       "surface": "ואשאלך",
-      "english": "我要问你"
+      "gloss": "我要问你"
     },
     {
       "surface": "והודיעני",
-      "english": "你⟨要⟩使我知道"
+      "gloss": "你⟨要⟩使我知道"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:43.358898079Z",
-  "model": "glm-5.2"
+  ]
 }

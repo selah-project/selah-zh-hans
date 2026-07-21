@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezekiel 13:4",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18655,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19017
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:46:19.934071593Z",
   "translation": "你的先知,以色列啊,如同废墟中的狐狸;他们一直如此。",
   "tokens": [
     {
       "surface": "כְּ\/שֻׁעָלִ֖ים",
-      "english": "如同狐狸"
+      "gloss": "如同狐狸"
     },
     {
       "surface": "בָּ\/חֳרָב֑וֹת",
-      "english": "在废墟中"
+      "gloss": "在废墟中"
     },
     {
       "surface": "נְבִיאֶ֥י\/ךָ",
-      "english": "你的先知"
+      "gloss": "你的先知"
     },
     {
       "surface": "יִשְׂרָאֵ֖ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "הָיֽוּ",
-      "english": "他们一直如此"
+      "gloss": "他们一直如此"
     }
-  ],
-  "timestamp": "2026-07-17T22:46:19.934071593Z",
-  "model": "glm-5.2"
+  ]
 }

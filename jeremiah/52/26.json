@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "jeremiah 52:26",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19532,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20044
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:39:44.049090868Z",
   "translation": "尼布撒拉旦,侍衛長,帶走⟨את⟩他們,並帶領⟨את⟩他們到巴比倫王那裡,在利比拉。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "帶走"
+      "gloss": "帶走"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
       "surface": "נבוזראדן",
-      "english": "尼布撒拉旦"
+      "gloss": "尼布撒拉旦"
     },
     {
       "surface": "רב",
-      "english": "長"
+      "gloss": "長"
     },
     {
       "surface": "טבחים",
-      "english": "侍衛"
+      "gloss": "侍衛"
     },
     {
       "surface": "וילך",
-      "english": "並帶領"
+      "gloss": "並帶領"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他們"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בבל",
-      "english": "巴比倫"
+      "gloss": "巴比倫"
     },
     {
       "surface": "רבלתה",
-      "english": "在利比拉"
+      "gloss": "在利比拉"
     }
-  ],
-  "timestamp": "2026-07-17T22:39:44.049090868Z",
-  "model": "glm-5.2"
+  ]
 }

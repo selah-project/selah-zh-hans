@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 141:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64584,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64993
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:47.534336142Z",
   "translation": "如同〈有人〉劈开又裂开在地里,我们的骨头被撒散在阴间的口旁,",
   "tokens": [
     {
       "surface": "כמו",
-      "english": "如同"
+      "gloss": "如同"
     },
     {
       "surface": "פלח",
-      "english": "〈有人〉劈开"
+      "gloss": "〈有人〉劈开"
     },
     {
       "surface": "ובקע",
-      "english": "又裂开"
+      "gloss": "又裂开"
     },
     {
       "surface": "בארץ",
-      "english": "在地里"
+      "gloss": "在地里"
     },
     {
       "surface": "נפזרו",
-      "english": "被撒散"
+      "gloss": "被撒散"
     },
     {
       "surface": "עצמינו",
-      "english": "我们的骨头"
+      "gloss": "我们的骨头"
     },
     {
       "surface": "לפי",
-      "english": "在……的口旁"
+      "gloss": "在……的口旁"
     },
     {
       "surface": "שאול",
-      "english": "阴间的"
+      "gloss": "阴间的"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:47.534336142Z",
-  "model": "glm-5.2"
+  ]
 }

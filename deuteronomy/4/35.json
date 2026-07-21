@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "deuteronomy 4:35",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19396,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19839
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:30:25.345833527Z",
   "translation": "你⟨被⟩指示，为要知道：雅威 ⟨他⟩ ⟨是⟩ 以罗欣，除他以外再无别⟨神⟩。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "הראת",
-      "english": "⟨被⟩指示"
+      "gloss": "⟨被⟩指示"
     },
     {
       "surface": "לדעת",
-      "english": "为要知道"
+      "gloss": "为要知道"
     },
     {
       "surface": "כי",
-      "english": "："
+      "gloss": "："
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "האלהים",
-      "english": "⟨是⟩ 以罗欣"
+      "gloss": "⟨是⟩ 以罗欣"
     },
     {
       "surface": "אין",
-      "english": "无"
+      "gloss": "无"
     },
     {
       "surface": "עוד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "מלבדו",
-      "english": "别⟨神⟩ 除他以外"
+      "gloss": "别⟨神⟩ 除他以外"
     }
-  ],
-  "timestamp": "2026-07-17T19:30:25.345833527Z",
-  "model": "glm-5.2"
+  ]
 }

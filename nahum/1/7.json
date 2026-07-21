@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "nahum 1:7",
   "book": "nahum",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17944,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18416
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:02:27.587390783Z",
   "translation": "雅威是好的,⟨作⟩避难所⟨给⟩患难之日;而他认识⟨那些⟩投靠他的人。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "好的"
+      "gloss": "好的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "למעוז",
-      "english": "⟨作⟩避难所⟨给⟩"
+      "gloss": "⟨作⟩避难所⟨给⟩"
     },
     {
       "surface": "ביום",
-      "english": "……之日"
+      "gloss": "……之日"
     },
     {
       "surface": "צרה",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "וידע",
-      "english": "而他认识"
+      "gloss": "而他认识"
     },
     {
       "surface": "חסי",
-      "english": "投靠"
+      "gloss": "投靠"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-18T03:02:27.587390783Z",
-  "model": "glm-5.2"
+  ]
 }

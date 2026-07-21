@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "proverbs 1:17",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54418,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54830
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:38.480098837Z",
   "translation": "因为网在凡有翅膀者的眼前⟨被⟩扬散，是徒然的。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חנם",
-      "english": "是徒然的"
+      "gloss": "是徒然的"
     },
     {
       "surface": "מזרה",
-      "english": "扬散"
+      "gloss": "扬散"
     },
     {
       "surface": "הרשת",
-      "english": "网"
+      "gloss": "网"
     },
     {
       "surface": "בעיני",
-      "english": "在……眼前"
+      "gloss": "在……眼前"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "בעל",
-      "english": "拥有者"
+      "gloss": "拥有者"
     },
     {
       "surface": "כנף",
-      "english": "翅膀"
+      "gloss": "翅膀"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:38.480098837Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 101,
   "ref": "psalms 119:101",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 378,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64499,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64877
-  },
+  "verse": 101,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:44.802179762Z",
   "translation": "我从一切恶道 restrain 了⟨我的⟩脚，为要守你的*话语*。",
   "tokens": [
     {
       "surface": "מכל",
-      "english": "我从一切"
+      "gloss": "我从一切"
     },
     {
       "surface": "ארח",
-      "english": "道"
+      "gloss": "道"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "כלאתי",
-      "english": "restrain 了"
+      "gloss": "restrain 了"
     },
     {
       "surface": "רגלי",
-      "english": "⟨我的⟩脚"
+      "gloss": "⟨我的⟩脚"
     },
     {
       "surface": "למען",
-      "english": "为要"
+      "gloss": "为要"
     },
     {
       "surface": "אשמר",
-      "english": "守"
+      "gloss": "守"
     },
     {
       "surface": "דברך",
-      "english": "你的*话语*"
+      "gloss": "你的*话语*"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:44.802179762Z",
-  "model": "glm-5.2"
+  ]
 }

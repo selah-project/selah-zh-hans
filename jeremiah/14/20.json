@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "jeremiah 14:20",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19090,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19402
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:15:02.426371499Z",
   "translation": "雅威啊,我们承认我们的恶行,和我们祖先的罪孽;因为我们向你犯了罪。",
   "tokens": [
     {
       "surface": "ידענו",
-      "english": "我们承认"
+      "gloss": "我们承认"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "רשענו",
-      "english": "我们的恶行"
+      "gloss": "我们的恶行"
     },
     {
       "surface": "עון",
-      "english": "和"
+      "gloss": "和"
     },
     {
       "surface": "אבותינו",
-      "english": "我们祖先的罪孽"
+      "gloss": "我们祖先的罪孽"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חטאנו",
-      "english": "我们犯了罪"
+      "gloss": "我们犯了罪"
     },
     {
       "surface": "לך",
-      "english": "向你"
+      "gloss": "向你"
     }
-  ],
-  "timestamp": "2026-07-17T22:15:02.426371499Z",
-  "model": "glm-5.2"
+  ]
 }

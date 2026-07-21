@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-kings 25:3",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 582,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18537,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19119
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:33:58.217041352Z",
   "translation": "到⟨那⟩第九⟨日⟩，属⟨那⟩月，饥荒在⟨那⟩城中变强了，⟨於是⟩那地之民没有饼。",
   "tokens": [
     {
       "surface": "בְּ\/תִשְׁעָ֣ה",
-      "english": "在⟨那⟩第九⟨日⟩"
+      "gloss": "在⟨那⟩第九⟨日⟩"
     },
     {
       "surface": "לַ\/חֹ֔דֶשׁ",
-      "english": "属⟨那⟩月"
+      "gloss": "属⟨那⟩月"
     },
     {
       "surface": "וַ\/יֶּחֱזַ֥ק",
-      "english": "变强了"
+      "gloss": "变强了"
     },
     {
       "surface": "הָ\/רָעָ֖ב",
-      "english": "⟨那⟩饥荒"
+      "gloss": "⟨那⟩饥荒"
     },
     {
       "surface": "בָּ\/עִ֑יר",
-      "english": "在⟨那⟩城中"
+      "gloss": "在⟨那⟩城中"
     },
     {
       "surface": "וְ\/לֹא",
-      "english": "而没有"
+      "gloss": "而没有"
     },
     {
       "surface": "הָ֥יָה",
-      "english": "存在"
+      "gloss": "存在"
     },
     {
       "surface": "לֶ֖חֶם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "לְ\/עַ֥ם",
-      "english": "给⟨那⟩民"
+      "gloss": "给⟨那⟩民"
     },
     {
       "surface": "הָ\/אָֽרֶץ",
-      "english": "属⟨那⟩地"
+      "gloss": "属⟨那⟩地"
     }
-  ],
-  "timestamp": "2026-07-17T21:33:58.217041352Z",
-  "model": "glm-5.2"
+  ]
 }

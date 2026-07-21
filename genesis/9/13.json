@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "genesis 9:13",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23192,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23593
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:05.707589045Z",
   "translation": "⟨את⟩ 我的弓我已赐在云中,它就⟨要⟩作布瑞特 ⟨את⟩ 的记号,在我与地之间。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的弓"
     },
     {
       "surface": "קשתי",
-      "english": "我的弓"
+      "gloss": "我的弓"
     },
     {
       "surface": "נתתי",
-      "english": "我已赐"
+      "gloss": "我已赐"
     },
     {
       "surface": "בענן",
-      "english": "在云中"
+      "gloss": "在云中"
     },
     {
       "surface": "והיתה",
-      "english": "它就作"
+      "gloss": "它就作"
     },
     {
       "surface": "לאות",
-      "english": "作记号"
+      "gloss": "作记号"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "ביני",
-      "english": "在我……之间"
+      "gloss": "在我……之间"
     },
     {
       "surface": "ובין",
-      "english": "与……之间"
+      "gloss": "与……之间"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:05.707589045Z",
-  "model": "glm-5.2"
+  ]
 }

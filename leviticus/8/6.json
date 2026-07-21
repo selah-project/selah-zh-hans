@@ -1,63 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "leviticus 8:6",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19265,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19663
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:23.039856594Z",
   "translation": "摩西将近前来 ⟨את⟩ 亚伦和 ⟨את⟩ 他的众子,用水洗濯 ⟨את⟩ 他们。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "将近前来"
+      "gloss": "将近前来"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伦"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "他的众子"
     },
     {
       "surface": "בניו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "וירחץ",
-      "english": "洗濯"
+      "gloss": "洗濯"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩ 他们",
+      "gloss": "⟨את⟩ 他们",
       "marks": "他们"
     },
     {
       "surface": "במים",
-      "english": "用水"
+      "gloss": "用水"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:23.039856594Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "joshua 9:14",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 479,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17980,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18459
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:55:20.761130651Z",
   "translation": "那些人就取了⟨他们的⟩干粮,至于⟨את⟩雅威的口,他们没有求问。",
   "tokens": [
     {
       "surface": "ויקחו",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "האנשים",
-      "english": "那些人"
+      "gloss": "那些人"
     },
     {
       "surface": "מצידם",
-      "english": "⟨他们的⟩干粮"
+      "gloss": "⟨他们的⟩干粮"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的口"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "שאלו",
-      "english": "求问"
+      "gloss": "求问"
     }
-  ],
-  "timestamp": "2026-07-17T19:55:20.761130651Z",
-  "model": "glm-5.2"
+  ]
 }

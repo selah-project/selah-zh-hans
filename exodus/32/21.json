@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "exodus 32:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 570,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18897,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19467
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:12.374365059Z",
   "translation": "摩西对亚伦说:这百姓向⟨你⟩做了什么,你竟将大罪引到他们身上?",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "מה",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "עשה",
-      "english": "做了"
+      "gloss": "做了"
     },
     {
       "surface": "לך",
-      "english": "向⟨你⟩"
+      "gloss": "向⟨你⟩"
     },
     {
       "surface": "העם",
-      "english": "这百姓"
+      "gloss": "这百姓"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "כי",
-      "english": "竟"
+      "gloss": "竟"
     },
     {
       "surface": "הבאת",
-      "english": "你引了"
+      "gloss": "你引了"
     },
     {
       "surface": "עליו",
-      "english": "到他们身上"
+      "gloss": "到他们身上"
     },
     {
       "surface": "חטאה",
-      "english": "罪"
+      "gloss": "罪"
     },
     {
       "surface": "גדלה",
-      "english": "大"
+      "gloss": "大"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:12.374365059Z",
-  "model": "glm-5.2"
+  ]
 }

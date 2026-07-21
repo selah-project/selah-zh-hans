@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "deuteronomy 8:4",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19374,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19687
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:33:07.126622604Z",
   "translation": "你的衣服没有从你身上穿破,你的脚也没有肿胀,这四十年。",
   "tokens": [
     {
       "surface": "שמלתך",
-      "english": "你的衣服"
+      "gloss": "你的衣服"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בלתה",
-      "english": "穿破"
+      "gloss": "穿破"
     },
     {
       "surface": "מעליך",
-      "english": "从你身上"
+      "gloss": "从你身上"
     },
     {
       "surface": "ורגלך",
-      "english": "而你的脚"
+      "gloss": "而你的脚"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "בצקה",
-      "english": "肿胀"
+      "gloss": "肿胀"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     }
-  ],
-  "timestamp": "2026-07-17T19:33:07.126622604Z",
-  "model": "glm-5.2"
+  ]
 }

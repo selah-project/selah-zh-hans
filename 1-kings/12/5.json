@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "1-kings 12:5",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64088,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64419
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:07:13.409358963Z",
   "translation": "他对他们说：⟨你们⟩去，再三天，然后回到我这里。那百姓就去了。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他对他们说"
+      "gloss": "他对他们说"
     },
     {
       "surface": "אליהם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "לכו",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "עד",
-      "english": "再"
+      "gloss": "再"
     },
     {
       "surface": "שלשה",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "ושובו",
-      "english": "然后回"
+      "gloss": "然后回"
     },
     {
       "surface": "אלי",
-      "english": "到我这里"
+      "gloss": "到我这里"
     },
     {
       "surface": "וילכו",
-      "english": "就去了"
+      "gloss": "就去了"
     },
     {
       "surface": "העם",
-      "english": "那百姓"
+      "gloss": "那百姓"
     }
-  ],
-  "timestamp": "2026-07-17T21:07:13.409358963Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 5:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58565,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58873
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:54:24.527327941Z",
   "translation": "约珥 ⟨是⟩ 首领，沙番 ⟨是⟩ 第二，雅乃和沙法 ⟨在⟩ 巴珊。",
   "tokens": [
     {
       "surface": "יואל",
-      "english": "约珥"
+      "gloss": "约珥"
     },
     {
       "surface": "הראש",
-      "english": "首领"
+      "gloss": "首领"
     },
     {
       "surface": "ושפם",
-      "english": "和沙番"
+      "gloss": "和沙番"
     },
     {
       "surface": "המשנה",
-      "english": "第二"
+      "gloss": "第二"
     },
     {
       "surface": "ויעני",
-      "english": "和雅乃"
+      "gloss": "和雅乃"
     },
     {
       "surface": "ושפט",
-      "english": "和沙法"
+      "gloss": "和沙法"
     },
     {
       "surface": "בבשן",
-      "english": "在巴珊"
+      "gloss": "在巴珊"
     }
-  ],
-  "timestamp": "2026-07-18T01:54:24.527327941Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 65:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 481,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20951,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21432
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:05:20.684933844Z",
   "translation": "⟨那些⟩坐在坟墓里、⟨且⟩在被保留之处过夜的人，⟤את⟥猪肉⟨是他们⟩吃的，不洁之物的碎片⟨在⟩他们的器皿中。",
   "tokens": [
     {
       "surface": "הישבים",
-      "english": "⟨那些⟩坐在"
+      "gloss": "⟨那些⟩坐在"
     },
     {
       "surface": "בקברים",
-      "english": "在坟墓里"
+      "gloss": "在坟墓里"
     },
     {
       "surface": "ובנצורים",
-      "english": "⟨且⟩在被保留之处"
+      "gloss": "⟨且⟩在被保留之处"
     },
     {
       "surface": "ילינו",
-      "english": "过夜"
+      "gloss": "过夜"
     },
     {
       "surface": "האכלים",
-      "english": "⟨他们是⟩吃的"
+      "gloss": "⟨他们是⟩吃的"
     },
     {
       "surface": "בשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "החזיר",
-      "english": "猪"
+      "gloss": "猪"
     },
     {
       "surface": "ופרק",
-      "english": "⟤את⟥碎片"
+      "gloss": "⟤את⟥碎片"
     },
     {
       "surface": "פגלים",
-      "english": "不洁之物"
+      "gloss": "不洁之物"
     },
     {
       "surface": "כליהם",
-      "english": "他们的器皿"
+      "gloss": "他们的器皿"
     }
-  ],
-  "timestamp": "2026-07-17T22:05:20.684933844Z",
-  "model": "glm-5.2"
+  ]
 }

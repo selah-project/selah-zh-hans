@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 17:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 458,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60127,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60585
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:50:18.068894685Z",
   "translation": "雅威与约沙法同在,因为他行在他父亲大卫起初的道路中,没有寻求⟨那些⟩巴力。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨那时⟩"
+      "gloss": "⟨那时⟩"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עם",
-      "english": "与……同在"
+      "gloss": "与……同在"
     },
     {
       "surface": "יהושפט",
-      "english": "约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הלך",
-      "english": "他行"
+      "gloss": "他行"
     },
     {
       "surface": "בדרכי",
-      "english": "在……的道路中"
+      "gloss": "在……的道路中"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביו",
-      "english": "他父亲"
+      "gloss": "他父亲"
     },
     {
       "surface": "הראשנים",
-      "english": "起初的"
+      "gloss": "起初的"
     },
     {
       "surface": "ולא",
-      "english": "而没有"
+      "gloss": "而没有"
     },
     {
       "surface": "דרש",
-      "english": "寻求"
+      "gloss": "寻求"
     },
     {
       "surface": "לבעלים",
-      "english": "⟨那些⟩巴力"
+      "gloss": "⟨那些⟩巴力"
     }
-  ],
-  "timestamp": "2026-07-20T06:50:18.068894685Z",
-  "model": "glm-5.2"
+  ]
 }

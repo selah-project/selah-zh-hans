@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 16:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 629,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65259,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65888
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:48.381072847Z",
   "translation": "愿他们的偶像增多，⟨他们⟩匆忙跟随别⟨神⟩：他们的奠祭，⟨就是⟩血的奠祭，我绝不倒出；他们的名我也绝不带到我嘴唇上。",
   "tokens": [
     {
       "surface": "ירבו",
-      "english": "愿……增多"
+      "gloss": "愿……增多"
     },
     {
       "surface": "עצבותם",
-      "english": "他们的偶像"
+      "gloss": "他们的偶像"
     },
     {
       "surface": "אחר",
-      "english": "别"
+      "gloss": "别"
     },
     {
       "surface": "מהרו",
-      "english": "匆忙跟随"
+      "gloss": "匆忙跟随"
     },
     {
       "surface": "בל",
-      "english": "绝不"
+      "gloss": "绝不"
     },
     {
       "surface": "אסיך",
-      "english": "倒出"
+      "gloss": "倒出"
     },
     {
       "surface": "נסכיהם",
-      "english": "他们的奠祭"
+      "gloss": "他们的奠祭"
     },
     {
       "surface": "מדם",
-      "english": "血的"
+      "gloss": "血的"
     },
     {
       "surface": "ובל",
-      "english": "也绝不"
+      "gloss": "也绝不"
     },
     {
       "surface": "אשא",
-      "english": "我带到"
+      "gloss": "我带到"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的名"
     },
     {
       "surface": "שמותם",
-      "english": "他们的名"
+      "gloss": "他们的名"
     },
     {
       "surface": "על",
-      "english": "上"
+      "gloss": "上"
     },
     {
       "surface": "שפתי",
-      "english": "我嘴唇"
+      "gloss": "我嘴唇"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:48.381072847Z",
-  "model": "glm-5.2"
+  ]
 }

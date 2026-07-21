@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "zephaniah 3:3",
   "book": "zephaniah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 552,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17986,
-    "prompt_tokens_details": {
-      "cached_tokens": 16704
-    },
-    "total_tokens": 18538
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:31:08.014028569Z",
   "translation": "她的首领在她中间⟨是⟩吼叫的狮子；她的审判官⟨是⟩晚上的豺狼，他们到早晨⟨没有⟩留下一根骨头。",
   "tokens": [
     {
       "surface": "שריה",
-      "english": "她的首领"
+      "gloss": "她的首领"
     },
     {
       "surface": "בקרבה",
-      "english": "在她中间"
+      "gloss": "在她中间"
     },
     {
       "surface": "אריות",
-      "english": "狮子"
+      "gloss": "狮子"
     },
     {
       "surface": "שאגים",
-      "english": "吼叫的"
+      "gloss": "吼叫的"
     },
     {
       "surface": "שפטיה",
-      "english": "她的审判官"
+      "gloss": "她的审判官"
     },
     {
       "surface": "זאבי",
-      "english": "豺狼"
+      "gloss": "豺狼"
     },
     {
       "surface": "ערב",
-      "english": "晚上的"
+      "gloss": "晚上的"
     },
     {
       "surface": "לא",
-      "english": "⟨没有⟩"
+      "gloss": "⟨没有⟩"
     },
     {
       "surface": "גרמו",
-      "english": "留下一根骨头"
+      "gloss": "留下一根骨头"
     },
     {
       "surface": "לבקר",
-      "english": "到早晨"
+      "gloss": "到早晨"
     }
-  ],
-  "timestamp": "2026-07-17T23:31:08.014028569Z",
-  "model": "glm-5.2"
+  ]
 }

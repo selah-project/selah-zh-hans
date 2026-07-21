@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "judges 13:17",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 463,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18105,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18568
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:15:27.520307403Z",
   "translation": "玛挪亚对雅威的使者说:你名叫什么?——因为你的*话语*临到时,我们要敬重你。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "מנוח",
-      "english": "玛挪亚"
+      "gloss": "玛挪亚"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "מלאך",
-      "english": "使者"
+      "gloss": "使者"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מי",
-      "english": "什么"
+      "gloss": "什么"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יבא",
-      "english": "临到时"
+      "gloss": "临到时"
     },
     {
       "surface": "דבריך",
-      "english": "你的*davar*(话语)"
+      "gloss": "你的*davar*(话语)"
     },
     {
       "surface": "וכבדנוך",
-      "english": "我们要敬重你"
+      "gloss": "我们要敬重你"
     }
-  ],
-  "timestamp": "2026-07-17T20:15:27.520307403Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 105:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 337,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64415,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64752
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:41.182018762Z",
   "translation": "他不容任何人欺压他们,他为他们的缘故责备君王,",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "הניח",
-      "english": "他容许"
+      "gloss": "他容许"
     },
     {
       "surface": "אדם",
-      "english": "任何人"
+      "gloss": "任何人"
     },
     {
       "surface": "לעשקם",
-      "english": "欺压他们"
+      "gloss": "欺压他们"
     },
     {
       "surface": "ויוכח",
-      "english": "他责备了"
+      "gloss": "他责备了"
     },
     {
       "surface": "עליהם",
-      "english": "为他们的缘故"
+      "gloss": "为他们的缘故"
     },
     {
       "surface": "מלכים",
-      "english": "君王们"
+      "gloss": "君王们"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:41.182018762Z",
-  "model": "glm-5.2"
+  ]
 }

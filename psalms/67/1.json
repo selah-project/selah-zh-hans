@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 67:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 67,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64219,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64501
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:49.991402370Z",
   "translation": "给终曲指挥,用丝弦乐器。一篇* Mizmor *,一首* Shir *。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给终曲指挥"
+      "gloss": "给终曲指挥"
     },
     {
       "surface": "בנגינת",
-      "english": "用丝弦乐器"
+      "gloss": "用丝弦乐器"
     },
     {
       "surface": "מזמור",
-      "english": "一篇 *Mizmor*"
+      "gloss": "一篇 *Mizmor*"
     },
     {
       "surface": "שיר",
-      "english": "一首 *Shir*"
+      "gloss": "一首 *Shir*"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:49.991402370Z",
-  "model": "glm-5.2"
+  ]
 }

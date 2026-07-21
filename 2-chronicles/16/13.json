@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "2-chronicles 16:13",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59721,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60083
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:22:45.335273624Z",
   "translation": "亚撒与⟨他的⟩列祖同睡，死了，在他作王第四十一年。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "与……同睡"
+      "gloss": "与……同睡"
     },
     {
       "surface": "אסא",
-      "english": "亚撒"
+      "gloss": "亚撒"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "⟨他的⟩列祖"
+      "gloss": "⟨他的⟩列祖"
     },
     {
       "surface": "וימת",
-      "english": "死了"
+      "gloss": "死了"
     },
     {
       "surface": "בשנת",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "ארבעים",
-      "english": "四十"
+      "gloss": "四十"
     },
     {
       "surface": "ואחת",
-      "english": "和一"
+      "gloss": "和一"
     },
     {
       "surface": "למלכו",
-      "english": "他作王"
+      "gloss": "他作王"
     }
-  ],
-  "timestamp": "2026-07-18T02:22:45.335273624Z",
-  "model": "glm-5.2"
+  ]
 }

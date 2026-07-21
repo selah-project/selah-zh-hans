@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 31:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64586,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64861
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:15.779290495Z",
   "translation": "可称颂的雅威,因为他使他的慈爱为我变得奇妙,在被围困的城中。",
   "tokens": [
     {
       "surface": "ברוך",
-      "english": "可称颂的"
+      "gloss": "可称颂的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הפליא",
-      "english": "他使……变得奇妙"
+      "gloss": "他使……变得奇妙"
     },
     {
       "surface": "חסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "בעיר",
-      "english": "在城中"
+      "gloss": "在城中"
     },
     {
       "surface": "מצור",
-      "english": "被围困的"
+      "gloss": "被围困的"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:15.779290495Z",
-  "model": "glm-5.2"
+  ]
 }

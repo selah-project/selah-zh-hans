@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "isaiah 51:2",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 630,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21097,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21727
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:59:02.565516757Z",
   "translation": "你们要注视亚伯拉罕——你们的父,以及撒拉——⟨那⟩生⟨出⟩你们的;因为我召唤了他时,他只⟨是⟩一个,我赐福给他,也使他增多。",
   "tokens": [
     {
       "surface": "הביטו",
-      "english": "你们要注视"
+      "gloss": "你们要注视"
     },
     {
       "surface": "אל",
-      "english": "向着"
+      "gloss": "向着"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "אביכם",
-      "english": "你们的父"
+      "gloss": "你们的父"
     },
     {
       "surface": "ואל",
-      "english": "以及向着"
+      "gloss": "以及向着"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     },
     {
       "surface": "תחוללכם",
-      "english": "生(出)你们的"
+      "gloss": "生(出)你们的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "קראתיו",
-      "english": "我召唤了他时"
+      "gloss": "我召唤了他时"
     },
     {
       "surface": "ואברכהו",
-      "english": "我赐福给他"
+      "gloss": "我赐福给他"
     },
     {
       "surface": "וארבהו",
-      "english": "也使他增多"
+      "gloss": "也使他增多"
     }
-  ],
-  "timestamp": "2026-07-17T21:59:02.565516757Z",
-  "model": "glm-5.2"
+  ]
 }

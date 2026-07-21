@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 27:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64346,
-    "prompt_tokens_details": {
-      "cached_tokens": 37632
-    },
-    "total_tokens": 64803
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:04:45.942228438Z",
   "translation": "因为我的父亲和我的母亲离弃了我，雅威必收留我。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אבי",
-      "english": "我的父亲"
+      "gloss": "我的父亲"
     },
     {
       "surface": "ואמי",
-      "english": "和我的母亲"
+      "gloss": "和我的母亲"
     },
     {
       "surface": "עזבוני",
-      "english": "离弃了我"
+      "gloss": "离弃了我"
     },
     {
       "surface": "ויהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יאספני",
-      "english": "必收留我"
+      "gloss": "必收留我"
     }
-  ],
-  "timestamp": "2026-07-18T03:04:45.942228438Z",
-  "model": "glm-5.2"
+  ]
 }

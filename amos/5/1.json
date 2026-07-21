@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "amos 5:1",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18327,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18745
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:20:44.222649913Z",
   "translation": "以色列家啊,你们要听 ⟨את⟩ 这*话语*,就是我所举起 sobre 你们的哀歌。",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这话语"
     },
     {
       "surface": "הדבר",
-      "english": "这*话语*"
+      "gloss": "这*话语*"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "אנכי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "נשא",
-      "english": "所举起"
+      "gloss": "所举起"
     },
     {
       "surface": "עליכם",
-      "english": "sobre 你们的"
+      "gloss": "sobre 你们的"
     },
     {
       "surface": "קינה",
-      "english": "哀歌"
+      "gloss": "哀歌"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T23:20:44.222649913Z",
-  "model": "glm-5.2"
+  ]
 }

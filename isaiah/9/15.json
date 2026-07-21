@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "isaiah 9:15",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20563,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21034
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:40.792155953Z",
   "translation": "那些使这百姓走迷的人 ⟨将⟩ ⟨成为⟩ 头，那些被他们引导 ⟨的人⟩ ⟨将⟩ 被吞灭。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨将⟩ ⟨成为⟩"
+      "gloss": "⟨将⟩ ⟨成为⟩"
     },
     {
       "surface": "מאשרי",
-      "english": "那些使……走迷的人"
+      "gloss": "那些使……走迷的人"
     },
     {
       "surface": "העם",
-      "english": "这百姓"
+      "gloss": "这百姓"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "מתעים",
-      "english": "走迷（使役）"
+      "gloss": "走迷（使役）"
     },
     {
       "surface": "ומאשריו",
-      "english": "那些被他们引导 ⟨的人⟩"
+      "gloss": "那些被他们引导 ⟨的人⟩"
     },
     {
       "surface": "מבלעים",
-      "english": "被吞灭"
+      "gloss": "被吞灭"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:40.792155953Z",
-  "model": "glm-5.2"
+  ]
 }

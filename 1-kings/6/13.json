@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "1-kings 6:13",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 271,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64144,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64415
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:00:55.180975470Z",
   "translation": "我必住在以色列人中间,我必不撇弃我的子民以色列。",
   "tokens": [
     {
       "surface": "ושכנתי",
-      "english": "我必住在"
+      "gloss": "我必住在"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "בני",
-      "english": "בני 的"
+      "gloss": "בני 的"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ולא",
-      "english": "我必不"
+      "gloss": "我必不"
     },
     {
       "surface": "אעזב",
-      "english": "撇弃"
+      "gloss": "撇弃"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的子民"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:00:55.180975470Z",
-  "model": "glm-5.2"
+  ]
 }

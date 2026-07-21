@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 12:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 516,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21633,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22149
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:02.297061002Z",
   "translation": "或向地倾诉,它必指教你;海里的鱼也必向你述说。",
   "tokens": [
     {
       "surface": "אוֹ",
-      "english": "或"
+      "gloss": "或"
     },
     {
       "surface": "שִׂיחַ",
-      "english": "倾诉"
+      "gloss": "倾诉"
     },
     {
       "surface": "לָ\/אָרֶץ",
-      "english": "向地"
+      "gloss": "向地"
     },
     {
       "surface": "וְ\/תֹרֶךָּ",
-      "english": "它必指教你"
+      "gloss": "它必指教你"
     },
     {
       "surface": "וִ\/יסַפְּרוּ",
-      "english": "它们也必述说"
+      "gloss": "它们也必述说"
     },
     {
       "surface": "לְ\/ךָ",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "דְּגֵי",
-      "english": "……的鱼"
+      "gloss": "……的鱼"
     },
     {
       "surface": "הַ\/יָּם",
-      "english": "海"
+      "gloss": "海"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:02.297061002Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 116:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64392,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64734
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:08.984248490Z",
   "translation": "我要向雅威偿还我的愿；⟨我祈求⟩，就在他全体子民面前⟨偿还⟩。",
   "tokens": [
     {
       "surface": "נדרי",
-      "english": "我的愿"
+      "gloss": "我的愿"
     },
     {
       "surface": "ליהוה",
-      "english": "向雅威"
+      "gloss": "向雅威"
     },
     {
       "surface": "אשלם",
-      "english": "我要偿还"
+      "gloss": "我要偿还"
     },
     {
       "surface": "נגדה",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "נא",
-      "english": "⟨我祈求⟩"
+      "gloss": "⟨我祈求⟩"
     },
     {
       "surface": "לכל",
-      "english": "对全部"
+      "gloss": "对全部"
     },
     {
       "surface": "עמו",
-      "english": "他的子民"
+      "gloss": "他的子民"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:08.984248490Z",
-  "model": "glm-5.2"
+  ]
 }

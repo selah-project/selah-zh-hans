@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "daniel 7:3",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18811,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19258
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:32:57.364853690Z",
   "translation": "四只巨兽从海中上来，彼此各不相同，这一只不同于那一只。",
   "tokens": [
     {
       "surface": "וארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "חיון",
-      "english": "巨兽"
+      "gloss": "巨兽"
     },
     {
       "surface": "רברבן",
-      "english": "巨大的"
+      "gloss": "巨大的"
     },
     {
       "surface": "סלקן",
-      "english": "上来"
+      "gloss": "上来"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "ימא",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "שנין",
-      "english": "不同"
+      "gloss": "不同"
     },
     {
       "surface": "דא",
-      "english": "这一只"
+      "gloss": "这一只"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "דא",
-      "english": "那一只"
+      "gloss": "那一只"
     }
-  ],
-  "timestamp": "2026-07-18T01:32:57.364853690Z",
-  "model": "glm-5.2"
+  ]
 }

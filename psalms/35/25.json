@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 35:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 614,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64540,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65154
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:47.869313623Z",
   "translation": "愿他们不在心里说:哈哈!我们的נפש(生命气息)得满足了!愿他们不说:我们吞灭了他!",
   "tokens": [
     {
       "surface": "אל",
-      "english": "愿不"
+      "gloss": "愿不"
     },
     {
       "surface": "יֹאמְר֣וּ",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "בְ֭\/לִבָּ\/ם",
-      "english": "在心里"
+      "gloss": "在心里"
     },
     {
       "surface": "הֶאָ֣ח",
-      "english": "哈哈!"
+      "gloss": "哈哈!"
     },
     {
       "surface": "נַפְשֵׁ֑\/נוּ",
-      "english": "我们的(生命气息)"
+      "gloss": "我们的(生命气息)"
     },
     {
       "surface": "אל",
-      "english": "愿不"
+      "gloss": "愿不"
     },
     {
       "surface": "יֹאמְר֗וּ",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "בִּֽלַּעֲנֽוּ\/הוּ",
-      "english": "我们吞灭了他"
+      "gloss": "我们吞灭了他"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:47.869313623Z",
-  "model": "glm-5.2"
+  ]
 }

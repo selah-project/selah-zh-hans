@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 28:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64901,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65456
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:16.732003691Z",
   "translation": "雅威是我的力量、我的盾牌;我的心信靠了他,我就蒙了救助;为此我的心跳跃,我用我的歌称谢他。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עזי",
-      "english": "我的力量"
+      "gloss": "我的力量"
     },
     {
       "surface": "ומגני",
-      "english": "和我的盾牌"
+      "gloss": "和我的盾牌"
     },
     {
       "surface": "בו",
-      "english": "在他里面"
+      "gloss": "在他里面"
     },
     {
       "surface": "בטח",
-      "english": "信靠了"
+      "gloss": "信靠了"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "ונעזרתי",
-      "english": "我就蒙了救助"
+      "gloss": "我就蒙了救助"
     },
     {
       "surface": "ויעלז",
-      "english": "就跳跃"
+      "gloss": "就跳跃"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "ומשירי",
-      "english": "我用我的歌"
+      "gloss": "我用我的歌"
     },
     {
       "surface": "אהודנו",
-      "english": "称谢他"
+      "gloss": "称谢他"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:16.732003691Z",
-  "model": "glm-5.2"
+  ]
 }

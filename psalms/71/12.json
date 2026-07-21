@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 71:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 262,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64467,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64729
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:31.382727595Z",
   "translation": "以罗欣啊，不要远离我；我的以罗欣啊，快来帮助我。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תרחק",
-      "english": "远离"
+      "gloss": "远离"
     },
     {
       "surface": "ממני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אלהי",
-      "english": "我的以罗欣啊"
+      "gloss": "我的以罗欣啊"
     },
     {
       "surface": "לעזרתי",
-      "english": "来帮助我"
+      "gloss": "来帮助我"
     },
     {
       "surface": "חישה",
-      "english": "快"
+      "gloss": "快"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:31.382727595Z",
-  "model": "glm-5.2"
+  ]
 }

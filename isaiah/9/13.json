@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "isaiah 9:13",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20698,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21083
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:39.836262189Z",
   "translation": "雅威从以色列剪除 ⟨了⟩ 头与尾、棕榈叶与芦苇，在一日 ⟨之⟩ 内。",
   "tokens": [
     {
       "surface": "ויכרת",
-      "english": "剪除了"
+      "gloss": "剪除了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מישראל",
-      "english": "从以色列"
+      "gloss": "从以色列"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "וזנב",
-      "english": "与尾"
+      "gloss": "与尾"
     },
     {
       "surface": "כפה",
-      "english": "棕榈叶"
+      "gloss": "棕榈叶"
     },
     {
       "surface": "ואגמון",
-      "english": "与芦苇"
+      "gloss": "与芦苇"
     },
     {
       "surface": "יום",
-      "english": "一日"
+      "gloss": "一日"
     },
     {
       "surface": "אחד",
-      "english": "（之）一"
+      "gloss": "（之）一"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:39.836262189Z",
-  "model": "glm-5.2"
+  ]
 }

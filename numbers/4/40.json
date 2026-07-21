@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "numbers 4:40",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 314,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19750,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20064
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:03:24.522535673Z",
   "translation": "他们的被数点者,按他们的宗族,按他们的父家 ⟨是⟩ 二千六百三十。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "פקדיהם",
-      "english": "他们的被数点者"
+      "gloss": "他们的被数点者"
     },
     {
       "surface": "למשפחתם",
-      "english": "按他们的宗族"
+      "gloss": "按他们的宗族"
     },
     {
       "surface": "לבית",
-      "english": "按……家"
+      "gloss": "按……家"
     },
     {
       "surface": "אבתם",
-      "english": "他们的父"
+      "gloss": "他们的父"
     },
     {
       "surface": "אלפים",
-      "english": "二千"
+      "gloss": "二千"
     },
     {
       "surface": "ושש",
-      "english": "和六"
+      "gloss": "和六"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "ושלשים",
-      "english": "和三十"
+      "gloss": "和三十"
     }
-  ],
-  "timestamp": "2026-07-17T19:03:24.522535673Z",
-  "model": "glm-5.2"
+  ]
 }

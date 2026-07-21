@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 17:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23207,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23611
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:42:15.768823159Z",
   "translation": "你们要割去 ⟨את⟩ 你们的阳皮之肉,它就作 ⟨为⟩ 我与你们之间布瑞特的记号。",
   "tokens": [
     {
       "surface": "וּנְמַלְתֶּם",
-      "english": "你们要割去"
+      "gloss": "你们要割去"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的阳皮之肉"
     },
     {
       "surface": "בְּשַׂר",
-      "english": "……之肉"
+      "gloss": "……之肉"
     },
     {
       "surface": "עָרְלַתְכֶם",
-      "english": "你们的阳皮"
+      "gloss": "你们的阳皮"
     },
     {
       "surface": "וְהָיָה",
-      "english": "它就作"
+      "gloss": "它就作"
     },
     {
       "surface": "לְאוֹת",
-      "english": "⟨为⟩ 记号"
+      "gloss": "⟨为⟩ 记号"
     },
     {
       "surface": "בְּרִית",
-      "english": "布瑞特(盟约)的"
+      "gloss": "布瑞特(盟约)的"
     },
     {
       "surface": "בֵּינִי",
-      "english": "我……之间"
+      "gloss": "我……之间"
     },
     {
       "surface": "וּבֵינֵיכֶם",
-      "english": "与你们"
+      "gloss": "与你们"
     }
-  ],
-  "timestamp": "2026-07-17T17:42:15.768823159Z",
-  "model": "glm-5.2"
+  ]
 }

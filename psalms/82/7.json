@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 82:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64370,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64739
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:32.722586776Z",
   "translation": "然而，你们必如亚当 ⟨将要⟩ 死去，又如 ⟨那⟩ 众首领之一 ⟨将要⟩ 倾覆。”",
   "tokens": [
     {
       "surface": "אכן",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "כאדם",
-      "english": "如亚当"
+      "gloss": "如亚当"
     },
     {
       "surface": "תמותון",
-      "english": "你们 ⟨将要⟩ 死去"
+      "gloss": "你们 ⟨将要⟩ 死去"
     },
     {
       "surface": "וכאחד",
-      "english": "又如……之一"
+      "gloss": "又如……之一"
     },
     {
       "surface": "השרים",
-      "english": "众首领"
+      "gloss": "众首领"
     },
     {
       "surface": "תפלו",
-      "english": "你们 ⟨将要⟩ 倾覆"
+      "gloss": "你们 ⟨将要⟩ 倾覆"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:32.722586776Z",
-  "model": "glm-5.2"
+  ]
 }

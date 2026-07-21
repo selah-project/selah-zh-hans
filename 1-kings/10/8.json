@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-kings 10:8",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 694,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64370,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65064
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:05:26.669769698Z",
   "translation": "有福啊，⟨你的⟩这些人，有福啊，⟨你的⟩这些仆人们——这些站在你面前不断的，这些听见⟨את⟩你的智慧的人！",
   "tokens": [
     {
       "surface": "אַשְׁרֵ֣י",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "אֲנָשֶׁ֔י\/ךָ",
-      "english": "⟨你的⟩这些人"
+      "gloss": "⟨你的⟩这些人"
     },
     {
       "surface": "אַשְׁרֵ֖י",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "עֲבָדֶ֣י\/ךָ",
-      "english": "⟨你的⟩这些仆人们"
+      "gloss": "⟨你的⟩这些仆人们"
     },
     {
       "surface": "אֵ֑לֶּה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "הָֽ\/עֹמְדִ֤ים",
-      "english": "站在"
+      "gloss": "站在"
     },
     {
       "surface": "לְ\/פָנֶ֨י\/ךָ֙",
-      "english": "你面前"
+      "gloss": "你面前"
     },
     {
       "surface": "תָּמִ֔יד",
-      "english": "不断的"
+      "gloss": "不断的"
     },
     {
       "surface": "הַ\/שֹּׁמְעִ֖ים",
-      "english": "这些听见"
+      "gloss": "这些听见"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的智慧"
     },
     {
       "surface": "חָכְמָתֶֽ\/ךָ",
-      "english": "你的智慧的人"
+      "gloss": "你的智慧的人"
     }
-  ],
-  "timestamp": "2026-07-17T21:05:26.669769698Z",
-  "model": "glm-5.2"
+  ]
 }

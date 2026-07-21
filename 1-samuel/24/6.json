@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 24:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 539,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18712,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19251
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:35:41.564487817Z",
   "translation": "此后,大卫的心击打⟨他⟩,因为他割下了属于扫罗的衣袍的⟨את⟩衣角。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "אחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "כן",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ויך",
-      "english": "击打了"
+      "gloss": "击打了"
     },
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "על",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אשר",
-      "english": "关于那"
+      "gloss": "关于那"
     },
     {
       "surface": "כרת",
-      "english": "他割下了"
+      "gloss": "他割下了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "衣角"
     },
     {
       "surface": "כנף",
-      "english": "衣角"
+      "gloss": "衣角"
     },
     {
       "surface": "אשר",
-      "english": "属于"
+      "gloss": "属于"
     },
     {
       "surface": "לשאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     }
-  ],
-  "timestamp": "2026-07-17T20:35:41.564487817Z",
-  "model": "glm-5.2"
+  ]
 }

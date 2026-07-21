@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "genesis 4:11",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23528,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24099
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:35:07.086422845Z",
   "translation": "现在你⟨被⟩咒诅，⟨从⟩那地——她开了口，从你手中接收⟨את⟩你兄弟的血。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "ארור",
-      "english": "你⟨被⟩咒诅"
+      "gloss": "你⟨被⟩咒诅"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "מן",
-      "english": "⟨从⟩"
+      "gloss": "⟨从⟩"
     },
     {
       "surface": "האדמה",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "פצתה",
-      "english": "她开了"
+      "gloss": "她开了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的口"
     },
     {
       "surface": "פיה",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "לקחת",
-      "english": "去接收"
+      "gloss": "去接收"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你兄弟的血"
     },
     {
       "surface": "דמי",
-      "english": "……的血"
+      "gloss": "……的血"
     },
     {
       "surface": "אחיך",
-      "english": "你兄弟"
+      "gloss": "你兄弟"
     },
     {
       "surface": "מידך",
-      "english": "从你手中"
+      "gloss": "从你手中"
     }
-  ],
-  "timestamp": "2026-07-17T17:35:07.086422845Z",
-  "model": "glm-5.2"
+  ]
 }

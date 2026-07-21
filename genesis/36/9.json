@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "genesis 36:9",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22810,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23170
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:39.979721576Z",
   "translation": "而这些是⟨那⟩以扫的后代——⟨那⟩以东的父亲，在⟨那⟩西珥山。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "而这些是"
+      "gloss": "而这些是"
     },
     {
       "surface": "תלדות",
-      "english": "后代"
+      "gloss": "后代"
     },
     {
       "surface": "עשו",
-      "english": "以扫"
+      "gloss": "以扫"
     },
     {
       "surface": "אבי",
-      "english": "的父亲"
+      "gloss": "的父亲"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "בהר",
-      "english": "在⟨那⟩山"
+      "gloss": "在⟨那⟩山"
     },
     {
       "surface": "שעיר",
-      "english": "西珥"
+      "gloss": "西珥"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:39.979721576Z",
-  "model": "glm-5.2"
+  ]
 }

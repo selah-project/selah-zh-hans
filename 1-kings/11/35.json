@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 35,
   "ref": "1-kings 11:35",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64139,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64494
-  },
+  "verse": 35,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:05:02.369487794Z",
   "translation": "我必从他儿子手中夺取王权,并将它——⟨את⟩ 十个支派——赐给你。",
   "tokens": [
     {
       "surface": "ולקחתי",
-      "english": "我必夺取"
+      "gloss": "我必夺取"
     },
     {
       "surface": "המלוכה",
-      "english": "王权"
+      "gloss": "王权"
     },
     {
       "surface": "מיד",
-      "english": "从手中"
+      "gloss": "从手中"
     },
     {
       "surface": "בנו",
-      "english": "他儿子"
+      "gloss": "他儿子"
     },
     {
       "surface": "ונתתיה",
-      "english": "并将它赐给"
+      "gloss": "并将它赐给"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "十个支派"
     },
     {
       "surface": "עשרת",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "השבטים",
-      "english": "支派"
+      "gloss": "支派"
     }
-  ],
-  "timestamp": "2026-07-20T15:05:02.369487794Z",
-  "model": "glm-5.2"
+  ]
 }

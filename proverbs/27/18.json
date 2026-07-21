@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "proverbs 27:18",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54435,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54846
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:18.128102621Z",
   "translation": "看守无花果树的人必吃它的果实;同样,守护⟨אֲדֹנָיו⟩之人在尊荣中被看重。",
   "tokens": [
     {
       "surface": "נצר",
-      "english": "看守"
+      "gloss": "看守"
     },
     {
       "surface": "תאנה",
-      "english": "无花果树"
+      "gloss": "无花果树"
     },
     {
       "surface": "יאכל",
-      "english": "他必吃"
+      "gloss": "他必吃"
     },
     {
       "surface": "פריה",
-      "english": "它的果实"
+      "gloss": "它的果实"
     },
     {
       "surface": "ושמר",
-      "english": "同样,守护"
+      "gloss": "同样,守护"
     },
     {
       "surface": "אדניו",
-      "english": "他的主人"
+      "gloss": "他的主人"
     },
     {
       "surface": "יכבד",
-      "english": "在尊荣中被看重"
+      "gloss": "在尊荣中被看重"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:18.128102621Z",
-  "model": "glm-5.2"
+  ]
 }

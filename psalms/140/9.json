@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 140:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 140,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64748,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65272
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:36.165106500Z",
   "translation": "雅威啊，不要将恶人所愿的赐给他；不要使他的阴谋成功 ⟨⟩ —— ⟨愿⟩ 他们被高举 ⟨⟩。细拉。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתן",
-      "english": "赐给"
+      "gloss": "赐给"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "מאויי",
-      "english": "所愿的"
+      "gloss": "所愿的"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "זממו",
-      "english": "他的阴谋"
+      "gloss": "他的阴谋"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תפק",
-      "english": "使……成功"
+      "gloss": "使……成功"
     },
     {
       "surface": "ירומו",
-      "english": "他们被高举"
+      "gloss": "他们被高举"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:36.165106500Z",
-  "model": "glm-5.2"
+  ]
 }

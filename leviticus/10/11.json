@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "leviticus 10:11",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 472,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19610,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20082
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:59.097866851Z",
   "translation": "并要教导 ⟨את⟩ 以色列的子民 ⟨את⟩ 所有的律例，就是雅威借着摩西的手对他们说的那 *davar*。",
   "tokens": [
     {
       "surface": "ולהורת",
-      "english": "并要教导"
+      "gloss": "并要教导"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列的子民"
     },
     {
       "surface": "בני",
-      "english": "……的子民"
+      "gloss": "……的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有的律例"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "החקים",
-      "english": "律例"
+      "gloss": "律例"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "דבר",
-      "english": "说的那 *davar*"
+      "gloss": "说的那 *davar*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אליהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "ביד",
-      "english": "借着……的手"
+      "gloss": "借着……的手"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:59.097866851Z",
-  "model": "glm-5.2"
+  ]
 }

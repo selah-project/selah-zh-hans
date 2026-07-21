@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "genesis 21:10",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 532,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23760,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24292
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:03.842632504Z",
   "translation": "她对亚伯拉罕说：赶走这使女和⟨את⟩她的儿子，因为这使女的儿子不可与我的儿子——与以撒一同承受产业。",
   "tokens": [
     {
       "surface": "ותאמר",
-      "english": "她……说"
+      "gloss": "她……说"
     },
     {
       "surface": "לאברהם",
-      "english": "对亚伯拉罕"
+      "gloss": "对亚伯拉罕"
     },
     {
       "surface": "גרש",
-      "english": "赶走"
+      "gloss": "赶走"
     },
     {
       "surface": "האמה",
-      "english": "这使女"
+      "gloss": "这使女"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的儿子"
     },
     {
       "surface": "בנה",
-      "english": "她的儿子"
+      "gloss": "她的儿子"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יירש",
-      "english": "承受产业"
+      "gloss": "承受产业"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "האמה",
-      "english": "使女"
+      "gloss": "使女"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "עם",
-      "english": "与……一同"
+      "gloss": "与……一同"
     },
     {
       "surface": "בני",
-      "english": "我的儿子"
+      "gloss": "我的儿子"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:03.842632504Z",
-  "model": "glm-5.2"
+  ]
 }

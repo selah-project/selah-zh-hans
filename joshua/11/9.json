@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "joshua 11:9",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 585,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18628,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19213
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:34.596518260Z",
   "translation": "约书亚向他们行了雅威对他所说的一切:⟨את⟩他们的马,他砍断蹄筋;⟨את⟩他们的战车,他用火烧尽。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "⟨他⟩行了"
+      "gloss": "⟨他⟩行了"
     },
     {
       "surface": "להם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "אמר",
-      "english": "所说"
+      "gloss": "所说"
     },
     {
       "surface": "לו",
-      "english": "对他"
+      "gloss": "对他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的马"
     },
     {
       "surface": "סוסיהם",
-      "english": "他们的马"
+      "gloss": "他们的马"
     },
     {
       "surface": "עקר",
-      "english": "他砍断蹄筋"
+      "gloss": "他砍断蹄筋"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的战车"
     },
     {
       "surface": "מרכבתיהם",
-      "english": "他们的战车"
+      "gloss": "他们的战车"
     },
     {
       "surface": "שרף",
-      "english": "他用火烧尽"
+      "gloss": "他用火烧尽"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:34.596518260Z",
-  "model": "glm-5.2"
+  ]
 }

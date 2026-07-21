@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 8:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54393,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54714
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:13.751704816Z",
   "translation": "向你们, ⟨את⟩众人,我呼唤;我的声音向人子们。",
   "tokens": [
     {
       "surface": "אליכם",
-      "english": "向你们"
+      "gloss": "向你们"
     },
     {
       "surface": "אישים",
-      "english": "⟨את⟩众人"
+      "gloss": "⟨את⟩众人"
     },
     {
       "surface": "אקרא",
-      "english": "我呼唤"
+      "gloss": "我呼唤"
     },
     {
       "surface": "וקולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "בני",
-      "english": "子们"
+      "gloss": "子们"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:13.751704816Z",
-  "model": "glm-5.2"
+  ]
 }

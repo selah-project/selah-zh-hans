@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "1-chronicles 1:28",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 210,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58260,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58470
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:51:27.751363632Z",
   "translation": "亚伯拉罕的众子:以撒和以实玛利。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的众子"
+      "gloss": "……的众子"
     },
     {
       "surface": "אברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "יצחק",
-      "english": "以撒"
+      "gloss": "以撒"
     },
     {
       "surface": "וישמעאל",
-      "english": "和以实玛利"
+      "gloss": "和以实玛利"
     }
-  ],
-  "timestamp": "2026-07-18T01:51:27.751363632Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "1-chronicles 3:13",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 311,
-    "prompt_tokens": 58564,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58875
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:16.995381640Z",
   "translation": "亚哈斯 ⟨的⟩ 子，希西家 ⟨的⟩ 子，玛拿西 ⟨的⟩ 子",
   "tokens": [
     {
       "surface": "אחז",
-      "english": "亚哈斯"
+      "gloss": "亚哈斯"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     },
     {
       "surface": "חזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     },
     {
       "surface": "מנשה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:16.995381640Z",
-  "model": "glm-4.5"
+  ]
 }

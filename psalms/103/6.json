@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 103:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64358,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64762
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:22.254973429Z",
   "translation": "雅威行公义,⟨为⟩一切受欺压的人行判断。",
   "tokens": [
     {
       "surface": "עשה",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "צדקות",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ומשפטים",
-      "english": "⟨并⟩判断"
+      "gloss": "⟨并⟩判断"
     },
     {
       "surface": "לכל",
-      "english": "⟨为⟩一切"
+      "gloss": "⟨为⟩一切"
     },
     {
       "surface": "עשוקים",
-      "english": "受欺压的人"
+      "gloss": "受欺压的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:22.254973429Z",
-  "model": "glm-5.2"
+  ]
 }

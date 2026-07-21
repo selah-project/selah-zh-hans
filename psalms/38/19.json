@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "psalms 38:19",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 261,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64233,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64494
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:21.113862756Z",
   "translation": "因为我要宣告我的罪孽，我为我的罪过焦虑不安。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עוני",
-      "english": "我的罪孽"
+      "gloss": "我的罪孽"
     },
     {
       "surface": "אגיד",
-      "english": "我要宣告"
+      "gloss": "我要宣告"
     },
     {
       "surface": "אדאג",
-      "english": "我焦虑不安"
+      "gloss": "我焦虑不安"
     },
     {
       "surface": "מחטאתי",
-      "english": "为我的罪过"
+      "gloss": "为我的罪过"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:21.113862756Z",
-  "model": "glm-5.2"
+  ]
 }

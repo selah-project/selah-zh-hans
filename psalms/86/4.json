@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 86:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 86,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65104
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:48.600508855Z",
   "translation": "求你使你仆人的 נֶפֶשׁ 欢喜，因为阿多奈啊，向你 ⟨我举起⟩ 我的 נֶפֶשׁ。",
   "tokens": [
     {
       "surface": "שמח",
-      "english": "求你使……欢喜"
+      "gloss": "求你使……欢喜"
     },
     {
       "surface": "נפש",
-      "english": "נֶפֶשׁ"
+      "gloss": "נֶפֶשׁ"
     },
     {
       "surface": "עבדך",
-      "english": "你仆人的"
+      "gloss": "你仆人的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈啊"
+      "gloss": "阿多奈啊"
     },
     {
       "surface": "נפשי",
-      "english": "我的 נֶפֶשׁ"
+      "gloss": "我的 נֶפֶשׁ"
     },
     {
       "surface": "אשא",
-      "english": "我举起"
+      "gloss": "我举起"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:48.600508855Z",
-  "model": "glm-5.2"
+  ]
 }

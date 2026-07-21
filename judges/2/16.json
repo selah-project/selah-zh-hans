@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "judges 2:16",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17675,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18027
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:07:06.367981027Z",
   "translation": "雅威兴起了士师,他们从抢掠他们的人手中拯救了他们。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "兴起了"
+      "gloss": "兴起了"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "שפטים",
-      "english": "士师"
+      "gloss": "士师"
     },
     {
       "surface": "ויושיעום",
-      "english": "他们拯救了他们"
+      "gloss": "他们拯救了他们"
     },
     {
       "surface": "מיד",
-      "english": "从……的手中"
+      "gloss": "从……的手中"
     },
     {
       "surface": "שסיהם",
-      "english": "抢掠他们的人"
+      "gloss": "抢掠他们的人"
     }
-  ],
-  "timestamp": "2026-07-17T20:07:06.367981027Z",
-  "model": "glm-5.2"
+  ]
 }

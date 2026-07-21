@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "genesis 36:42",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 201,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22754,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22955
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:59.984208082Z",
   "translation": "族长基纳斯，族长提幔，族长米比萨。",
   "tokens": [
     {
       "surface": "אלוף",
-      "english": "族长"
+      "gloss": "族长"
     },
     {
       "surface": "קנז",
-      "english": "基纳斯"
+      "gloss": "基纳斯"
     },
     {
       "surface": "אלוף",
-      "english": "族长"
+      "gloss": "族长"
     },
     {
       "surface": "תימן",
-      "english": "提幔"
+      "gloss": "提幔"
     },
     {
       "surface": "אלוף",
-      "english": "族长"
+      "gloss": "族长"
     },
     {
       "surface": "מבצר",
-      "english": "米比萨"
+      "gloss": "米比萨"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:59.984208082Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "esther 3:11",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19524,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 19916
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:24:57.140376887Z",
   "translation": "王对哈曼说：银子 ⟨是⟩ 给你的，这百姓 ⟨也⟩ ⟨是⟩ 给你的，你可以照你眼中看为好的去对待他们。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "להמן",
-      "english": "对哈曼"
+      "gloss": "对哈曼"
     },
     {
       "surface": "הכסף",
-      "english": "银子"
+      "gloss": "银子"
     },
     {
       "surface": "נתון",
-      "english": "被给"
+      "gloss": "被给"
     },
     {
       "surface": "לך",
-      "english": "给你"
+      "gloss": "给你"
     },
     {
       "surface": "והעם",
-      "english": "而这百姓"
+      "gloss": "而这百姓"
     },
     {
       "surface": "לעשות",
-      "english": "去做"
+      "gloss": "去做"
     },
     {
       "surface": "בו",
-      "english": "对待他们"
+      "gloss": "对待他们"
     },
     {
       "surface": "כטוב",
-      "english": "如所看为好的"
+      "gloss": "如所看为好的"
     },
     {
       "surface": "בעיניך",
-      "english": "在你眼中"
+      "gloss": "在你眼中"
     }
-  ],
-  "timestamp": "2026-07-18T01:24:57.140376887Z",
-  "model": "glm-5.2"
+  ]
 }

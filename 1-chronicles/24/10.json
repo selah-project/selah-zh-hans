@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-chronicles 24:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 171,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58213,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58384
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:08:32.991976190Z",
   "translation": "第七 ⟨是给⟩ 哈歌斯，第八 ⟨是给⟩ 亚比雅。",
   "tokens": [
     {
       "surface": "להקוץ",
-      "english": "给哈歌斯"
+      "gloss": "给哈歌斯"
     },
     {
       "surface": "השבעי",
-      "english": "第七"
+      "gloss": "第七"
     },
     {
       "surface": "לאביה",
-      "english": "给亚比雅"
+      "gloss": "给亚比雅"
     },
     {
       "surface": "השמיני",
-      "english": "第八"
+      "gloss": "第八"
     }
-  ],
-  "timestamp": "2026-07-18T02:08:32.991976190Z",
-  "model": "glm-5.2"
+  ]
 }

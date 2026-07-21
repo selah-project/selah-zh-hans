@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-chronicles 21:9",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58482,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58946
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:06:37.355897897Z",
   "translation": "雅威的话临到迦得 —— 大卫的先见 —— *lemor* ⟨说⟩：",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "的话临到"
+      "gloss": "的话临到"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "⟨向⟩"
+      "gloss": "⟨向⟩"
     },
     {
       "surface": "גד",
-      "english": "迦得"
+      "gloss": "迦得"
     },
     {
       "surface": "חזה",
-      "english": "先见"
+      "gloss": "先见"
     },
     {
       "surface": "דויד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "לאמר",
-      "english": "*lemor* ⟨说⟩"
+      "gloss": "*lemor* ⟨说⟩"
     }
-  ],
-  "timestamp": "2026-07-18T02:06:37.355897897Z",
-  "model": "glm-5.2"
+  ]
 }

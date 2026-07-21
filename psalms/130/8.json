@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 130:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 130,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64375,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64743
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:49.299384182Z",
   "translation": "וְהוּא (他)将赎出⟨את⟩以色列，脱离他一切的罪孽。",
   "tokens": [
     {
       "surface": "והוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "יפדה",
-      "english": "将赎出"
+      "gloss": "将赎出"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מכל",
-      "english": "脱离他一切的"
+      "gloss": "脱离他一切的"
     },
     {
       "surface": "עונתיו",
-      "english": "罪孽"
+      "gloss": "罪孽"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:49.299384182Z",
-  "model": "glm-5.2"
+  ]
 }

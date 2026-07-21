@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 2:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64410,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64753
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:39:49.834777878Z",
   "translation": "至于我,我已经膏立了我的王,在锡安——我的圣山上。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "נסכתי",
-      "english": "我已经膏立了"
+      "gloss": "我已经膏立了"
     },
     {
       "surface": "מלכי",
-      "english": "我的王"
+      "gloss": "我的王"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "קדשי",
-      "english": "我的圣"
+      "gloss": "我的圣"
     }
-  ],
-  "timestamp": "2026-07-17T23:39:49.834777878Z",
-  "model": "glm-5.2"
+  ]
 }

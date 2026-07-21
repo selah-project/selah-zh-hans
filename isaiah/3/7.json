@@ -1,88 +1,77 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 3:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 521,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21335,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21856
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:45.592698348Z",
   "translation": "在那一日，⟨他⟩必抬起⟨声音⟩，说：我不是裹伤者，我的家里没有饼，也没有外袍；不要立我作这民的官长。",
   "tokens": [
     {
       "surface": "ישא",
-      "english": "必抬起⟨声音⟩"
+      "gloss": "必抬起⟨声音⟩"
     },
     {
       "surface": "ביום",
-      "english": "在……日"
+      "gloss": "在……日"
     },
     {
       "surface": "ההוא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "לאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אהיה",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "חבש",
-      "english": "裹伤者"
+      "gloss": "裹伤者"
     },
     {
       "surface": "ובביתי",
-      "english": "而我的家里"
+      "gloss": "而我的家里"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     },
     {
       "surface": "ואין",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "שמלה",
-      "english": "外袍"
+      "gloss": "外袍"
     },
     {
       "surface": "לא",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשימני",
-      "english": "立我"
+      "gloss": "立我"
     },
     {
       "surface": "קצין",
-      "english": "作官长"
+      "gloss": "作官长"
     },
     {
       "surface": "עם",
-      "english": "这民的"
+      "gloss": "这民的"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:45.592698348Z",
-  "model": "glm-5.2"
+  ]
 }

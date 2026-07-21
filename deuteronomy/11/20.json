@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "deuteronomy 11:20",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 362,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18953,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19315
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:35:08.958154096Z",
   "translation": "你们要将它们写在⟨你⟩房屋的门框上和⟨你的⟩城门上。",
   "tokens": [
     {
       "surface": "וכתבתם",
-      "english": "你们要写"
+      "gloss": "你们要写"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "מזוזות",
-      "english": "门框"
+      "gloss": "门框"
     },
     {
       "surface": "ביתך",
-      "english": "⟨你⟩房屋的"
+      "gloss": "⟨你⟩房屋的"
     },
     {
       "surface": "ובשעריך",
-      "english": "和⟨你的⟩城门上"
+      "gloss": "和⟨你的⟩城门上"
     }
-  ],
-  "timestamp": "2026-07-17T19:35:08.958154096Z",
-  "model": "glm-5.2"
+  ]
 }

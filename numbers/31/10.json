@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "numbers 31:10",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19829,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20198
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:22:31.088878157Z",
   "translation": "他们所有的城邑、连同他们的住处，以及⟨את⟩他们所有的营寨，他们都用火焚烧了。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "他们所有的营寨"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "עריהם",
-      "english": "他们的城邑"
+      "gloss": "他们的城邑"
     },
     {
       "surface": "במושבתם",
-      "english": "连同他们的住处"
+      "gloss": "连同他们的住处"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们所有的营寨"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "טירתם",
-      "english": "他们的营寨"
+      "gloss": "他们的营寨"
     },
     {
       "surface": "שרפו",
-      "english": "他们都焚烧了"
+      "gloss": "他们都焚烧了"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     }
-  ],
-  "timestamp": "2026-07-17T19:22:31.088878157Z",
-  "model": "glm-5.2"
+  ]
 }

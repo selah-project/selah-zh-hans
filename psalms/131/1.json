@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 131:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 131,
-  "usage": {
-    "completion_tokens": 482,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65172,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65654
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:58.161694193Z",
   "translation": "上行之歌,属于大卫。雅威啊,我的心不高傲,我的眼不高举;我也没有行在伟大之事中,和对我而言太奇妙的事中。",
   "tokens": [
     {
       "surface": "שיר",
-      "english": "之歌"
+      "gloss": "之歌"
     },
     {
       "surface": "המעלות",
-      "english": "上行"
+      "gloss": "上行"
     },
     {
       "surface": "לדוד",
-      "english": "属于大卫"
+      "gloss": "属于大卫"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "גבה",
-      "english": "高傲"
+      "gloss": "高傲"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "רמו",
-      "english": "高举"
+      "gloss": "高举"
     },
     {
       "surface": "עיני",
-      "english": "我的眼"
+      "gloss": "我的眼"
     },
     {
       "surface": "ולא",
-      "english": "也没有"
+      "gloss": "也没有"
     },
     {
       "surface": "הלכתי",
-      "english": "我行在"
+      "gloss": "我行在"
     },
     {
       "surface": "בגדלות",
-      "english": "伟大之事中"
+      "gloss": "伟大之事中"
     },
     {
       "surface": "ובנפלאות",
-      "english": "和……奇妙的事中"
+      "gloss": "和……奇妙的事中"
     },
     {
       "surface": "ממני",
-      "english": "对我而言"
+      "gloss": "对我而言"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:58.161694193Z",
-  "model": "glm-5.2"
+  ]
 }

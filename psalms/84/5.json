@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 84:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64389,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64777
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:11.644148763Z",
   "translation": "有福啊,住在你家中的人——עוֹד (仍将)赞美你!סֶלָה (細拉)。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福啊"
+      "gloss": "有福啊"
     },
     {
       "surface": "יושבי",
-      "english": "住……的人"
+      "gloss": "住……的人"
     },
     {
       "surface": "ביתך",
-      "english": "在你家中"
+      "gloss": "在你家中"
     },
     {
       "surface": "עוד",
-      "english": "仍将\/持续地"
+      "gloss": "仍将\/持续地"
     },
     {
       "surface": "יהללוך",
-      "english": "赞美你"
+      "gloss": "赞美你"
     },
     {
       "surface": "סלה",
-      "english": "סֶלָה (細拉)"
+      "gloss": "סֶלָה (細拉)"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:11.644148763Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 31:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64855,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65441
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:05.883049834Z",
   "translation": "求你向⟨我⟩侧⟨你的⟩耳,迅速地;救援⟨我⟩;⟨求你⟩作⟨我⟩的堡垒磐石,作拯救⟨我⟩的保障之堡。",
   "tokens": [
     {
       "surface": "הטה",
-      "english": "求你侧"
+      "gloss": "求你侧"
     },
     {
       "surface": "אלי",
-      "english": "向⟨我⟩"
+      "gloss": "向⟨我⟩"
     },
     {
       "surface": "אזנך",
-      "english": "⟨你的⟩耳"
+      "gloss": "⟨你的⟩耳"
     },
     {
       "surface": "מהרה",
-      "english": "迅速地"
+      "gloss": "迅速地"
     },
     {
       "surface": "הצילני",
-      "english": "救援⟨我⟩"
+      "gloss": "救援⟨我⟩"
     },
     {
       "surface": "היה",
-      "english": "⟨求你⟩作"
+      "gloss": "⟨求你⟩作"
     },
     {
       "surface": "לי",
-      "english": "⟨我⟩的"
+      "gloss": "⟨我⟩的"
     },
     {
       "surface": "לצור",
-      "english": "堡垒磐石"
+      "gloss": "堡垒磐石"
     },
     {
       "surface": "מעוז",
-      "english": "坚固保障"
+      "gloss": "坚固保障"
     },
     {
       "surface": "לבית",
-      "english": "作……之堡"
+      "gloss": "作……之堡"
     },
     {
       "surface": "מצודות",
-      "english": "防御堡垒"
+      "gloss": "防御堡垒"
     },
     {
       "surface": "להושיעני",
-      "english": "为拯救⟨我⟩"
+      "gloss": "为拯救⟨我⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:05.883049834Z",
-  "model": "glm-5.2"
+  ]
 }

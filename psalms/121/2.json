@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 121:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 121,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64301,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64571
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:12.647064522Z",
   "translation": "我的帮助〈来自〉雅威,造天与地〈的那一位〉。",
   "tokens": [
     {
       "surface": "עזרי",
-      "english": "我的帮助"
+      "gloss": "我的帮助"
     },
     {
       "surface": "מעם",
-      "english": "〈来自〉"
+      "gloss": "〈来自〉"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עשה",
-      "english": "造"
+      "gloss": "造"
     },
     {
       "surface": "שמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "וארץ",
-      "english": "与地"
+      "gloss": "与地"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:12.647064522Z",
-  "model": "glm-5.2"
+  ]
 }

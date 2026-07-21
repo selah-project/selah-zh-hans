@@ -1,80 +1,69 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "genesis 12:1",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 566,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23468,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24034
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:56.548056282Z",
   "translation": "雅威对亚伯兰说：为你自己走吧 —— 从你的地、从你的亲属、从你父亲的家 —— 往⟨那⟩地，⟨就是⟩我要让你看见⟨的⟩。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "לך",
-      "english": "走吧"
+      "gloss": "走吧"
     },
     {
       "surface": "לך",
-      "english": "为你自己"
+      "gloss": "为你自己"
     },
     {
       "surface": "מארצך",
-      "english": "从你的地"
+      "gloss": "从你的地"
     },
     {
       "surface": "וממולדתך",
-      "english": "和从你的亲属"
+      "gloss": "和从你的亲属"
     },
     {
       "surface": "ומבית",
-      "english": "和从家"
+      "gloss": "和从家"
     },
     {
       "surface": "אביך",
-      "english": "你父亲的"
+      "gloss": "你父亲的"
     },
     {
       "surface": "אל",
-      "english": "往"
+      "gloss": "往"
     },
     {
       "surface": "הארץ",
-      "english": "⟨那⟩地"
+      "gloss": "⟨那⟩地"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "אראך",
-      "english": "我要让你看见⟨的⟩"
+      "gloss": "我要让你看见⟨的⟩"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:56.548056282Z",
-  "model": "glm-5.2"
+  ]
 }

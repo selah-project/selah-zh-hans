@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 104:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 339,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64462,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64801
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:52.450042462Z",
   "translation": "深渊如衣裳覆盖它；水站在诸山之上。",
   "tokens": [
     {
       "surface": "תהום",
-      "english": "深渊"
+      "gloss": "深渊"
     },
     {
       "surface": "כלבוש",
-      "english": "如衣裳"
+      "gloss": "如衣裳"
     },
     {
       "surface": "כסיתו",
-      "english": "覆盖它"
+      "gloss": "覆盖它"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "הרים",
-      "english": "诸山"
+      "gloss": "诸山"
     },
     {
       "surface": "יעמדו",
-      "english": "⟨它们⟩站立"
+      "gloss": "⟨它们⟩站立"
     },
     {
       "surface": "מים",
-      "english": "众水"
+      "gloss": "众水"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:52.450042462Z",
-  "model": "glm-5.2"
+  ]
 }

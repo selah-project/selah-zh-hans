@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 16:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54381,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54737
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:46.970941478Z",
   "translation": "亚当的心筹算 ⟨他的⟩ 道路,但雅威确立 ⟨他的⟩ 步伐。",
   "tokens": [
     {
       "surface": "לב",
-      "english": "心"
+      "gloss": "心"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "יחשב",
-      "english": "筹算"
+      "gloss": "筹算"
     },
     {
       "surface": "דרכו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "ויהוה",
-      "english": "但雅威"
+      "gloss": "但雅威"
     },
     {
       "surface": "יכין",
-      "english": "确立"
+      "gloss": "确立"
     },
     {
       "surface": "צעדו",
-      "english": "他的步伐"
+      "gloss": "他的步伐"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:46.970941478Z",
-  "model": "glm-5.2"
+  ]
 }

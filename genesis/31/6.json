@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "genesis 31:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23007,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23418
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:53:36.628110834Z",
   "translation": "至于你们，你们知道：我用尽我一切的力量服事了⟨את⟩你们的父亲。",
   "tokens": [
     {
       "surface": "ואתנה",
-      "english": "至于你们（ feminine plural ）"
+      "gloss": "至于你们（ feminine plural ）"
     },
     {
       "surface": "ידעתן",
-      "english": "你们知道（ feminine plural ）"
+      "gloss": "你们知道（ feminine plural ）"
     },
     {
       "surface": "כי",
-      "english": "："
+      "gloss": "："
     },
     {
       "surface": "בכל",
-      "english": "用尽我一切……的"
+      "gloss": "用尽我一切……的"
     },
     {
       "surface": "כחי",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "עבדתי",
-      "english": "我服事了"
+      "gloss": "我服事了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们的父亲"
     },
     {
       "surface": "אביכן",
-      "english": "你们的父亲（ feminine plural address ）"
+      "gloss": "你们的父亲（ feminine plural address ）"
     }
-  ],
-  "timestamp": "2026-07-17T17:53:36.628110834Z",
-  "model": "glm-5.2"
+  ]
 }

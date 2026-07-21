@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 54:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 54,
-  "usage": {
-    "completion_tokens": 245,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64397,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64642
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:41.597196354Z",
   "translation": "以罗欣啊，求你听我的祈祷；求你侧耳听我口中的言语。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "שמע",
-      "english": "求你听"
+      "gloss": "求你听"
     },
     {
       "surface": "תפלתי",
-      "english": "我的祈祷"
+      "gloss": "我的祈祷"
     },
     {
       "surface": "האזינה",
-      "english": "求你侧耳听"
+      "gloss": "求你侧耳听"
     },
     {
       "surface": "לאמרי",
-      "english": "⟨对⟩……的言语"
+      "gloss": "⟨对⟩……的言语"
     },
     {
       "surface": "פי",
-      "english": "我口（中的言语）"
+      "gloss": "我口（中的言语）"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:41.597196354Z",
-  "model": "glm-5.2"
+  ]
 }

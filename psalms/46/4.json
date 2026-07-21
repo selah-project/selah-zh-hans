@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 46:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 46,
-  "usage": {
-    "completion_tokens": 439,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64521,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64960
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:06.020096272Z",
   "translation": "它的水咆哮、翻腾,群山在其狂傲中震动。细拉。",
   "tokens": [
     {
       "surface": "יהמו",
-      "english": "咆哮"
+      "gloss": "咆哮"
     },
     {
       "surface": "יחמרו",
-      "english": "翻腾"
+      "gloss": "翻腾"
     },
     {
       "surface": "מימיו",
-      "english": "它的水"
+      "gloss": "它的水"
     },
     {
       "surface": "ירעשו",
-      "english": "震动"
+      "gloss": "震动"
     },
     {
       "surface": "הרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "בגאותו",
-      "english": "在其狂傲中"
+      "gloss": "在其狂傲中"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:06.020096272Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,34 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "jeremiah 32:13",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 284,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18793,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19077
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:25:55.553100522Z",
   "translation": "我吩咐了⟨את⟩巴录,在他们眼前,说:",
   "tokens": [
     {
       "surface": "וָֽ\/אֲצַוֶּה֙",
-      "english": "我吩咐了"
+      "gloss": "我吩咐了"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "巴录"
     },
     {
       "surface": "בָּר֔וּךְ",
-      "english": "巴录"
+      "gloss": "巴录"
     },
     {
       "surface": "לְ\/עֵינֵי\/הֶ֖ם",
-      "english": "在他们眼前"
+      "gloss": "在他们眼前"
     },
     {
       "surface": "לֵ\/אמֹֽר",
-      "english": "说:"
+      "gloss": "说:"
     }
-  ],
-  "timestamp": "2026-07-17T22:25:55.553100522Z",
-  "model": "glm-5.2"
+  ]
 }

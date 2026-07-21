@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "numbers 26:22",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19758,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20091
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:10.302320611Z",
   "translation": "这些⟨是⟩犹大的家族，按他们被点算的：七万六千五百。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "משפחת",
-      "english": "家族"
+      "gloss": "家族"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "לפקדיהם",
-      "english": "按他们被点算的"
+      "gloss": "按他们被点算的"
     },
     {
       "surface": "ששה",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "ושבעים",
-      "english": "和七十"
+      "gloss": "和七十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     },
     {
       "surface": "וחמש",
-      "english": "和五"
+      "gloss": "和五"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:10.302320611Z",
-  "model": "glm-5.2"
+  ]
 }

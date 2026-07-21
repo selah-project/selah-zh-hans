@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 64,
   "ref": "psalms 119:64",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 286,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64362,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64648
-  },
+  "verse": 64,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:52.028652281Z",
   "translation": "雅威啊,大地满了你的慈爱;你的律例,求你教导我。",
   "tokens": [
     {
       "surface": "חסדך",
-      "english": "你的慈爱"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "מלאה",
-      "english": "满了"
+      "gloss": "满了"
     },
     {
       "surface": "הארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "חקיך",
-      "english": "你的律例"
+      "gloss": "你的律例"
     },
     {
       "surface": "למדני",
-      "english": "求你教导我"
+      "gloss": "求你教导我"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:52.028652281Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "psalms 107:30",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 469,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64427,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64896
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:08.846343486Z",
   "translation": "他们就欢喜,因为海浪平息了;他就引导他们到达他们所渴望的港口。",
   "tokens": [
     {
       "surface": "וישמחו",
-      "english": "他们就欢喜"
+      "gloss": "他们就欢喜"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "ישתקו",
-      "english": "平息了"
+      "gloss": "平息了"
     },
     {
       "surface": "ונחם",
-      "english": "他就引导他们"
+      "gloss": "他就引导他们"
     },
     {
       "surface": "אל",
-      "english": "到达"
+      "gloss": "到达"
     },
     {
       "surface": "מחוז",
-      "english": "港口"
+      "gloss": "港口"
     },
     {
       "surface": "חפצם",
-      "english": "他们所渴望的"
+      "gloss": "他们所渴望的"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:08.846343486Z",
-  "model": "glm-5.2"
+  ]
 }

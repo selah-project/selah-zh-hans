@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 11:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54377,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54715
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:45.076967797Z",
   "translation": "欺诈的秤是雅威所憎恶的,而完整的石⟨是⟩⟨祂的⟩喜悦。",
   "tokens": [
     {
       "surface": "מאזני",
-      "english": "欺诈的秤"
+      "gloss": "欺诈的秤"
     },
     {
       "surface": "מרמה",
-      "english": "欺诈"
+      "gloss": "欺诈"
     },
     {
       "surface": "תועבת",
-      "english": "所憎恶的"
+      "gloss": "所憎恶的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ואבן",
-      "english": "而完整的石"
+      "gloss": "而完整的石"
     },
     {
       "surface": "שלמה",
-      "english": "完整的"
+      "gloss": "完整的"
     },
     {
       "surface": "רצונו",
-      "english": "⟨祂的⟩喜悦"
+      "gloss": "⟨祂的⟩喜悦"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:45.076967797Z",
-  "model": "glm-5.2"
+  ]
 }

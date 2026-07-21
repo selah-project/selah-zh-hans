@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "genesis 35:25",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22723,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22972
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:08.681926698Z",
   "translation": "辟拉 (拉结 的使女) 的儿子们:⟨是⟩ 但 和 拿弗他利。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……的儿子们"
+      "gloss": "……的儿子们"
     },
     {
       "surface": "בלהה",
-      "english": "辟拉"
+      "gloss": "辟拉"
     },
     {
       "surface": "שפחת",
-      "english": "使女"
+      "gloss": "使女"
     },
     {
       "surface": "רחל",
-      "english": "拉结"
+      "gloss": "拉结"
     },
     {
       "surface": "דן",
-      "english": "但"
+      "gloss": "但"
     },
     {
       "surface": "ונפתלי",
-      "english": "和 拿弗他利"
+      "gloss": "和 拿弗他利"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:08.681926698Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "amos 5:10",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17867,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18342
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:20:46.761080250Z",
   "translation": "他们恨恶⟨在⟩城门口责备⟨人⟩的，说话完全的，他们憎恶。",
   "tokens": [
     {
       "surface": "שנאו",
-      "english": "他们恨恶"
+      "gloss": "他们恨恶"
     },
     {
       "surface": "בשער",
-      "english": "⟨在⟩城门口"
+      "gloss": "⟨在⟩城门口"
     },
     {
       "surface": "מוכיח",
-      "english": "责备⟨人⟩的"
+      "gloss": "责备⟨人⟩的"
     },
     {
       "surface": "ודבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "תמים",
-      "english": "完全的"
+      "gloss": "完全的"
     },
     {
       "surface": "יתעבו",
-      "english": "他们憎恶"
+      "gloss": "他们憎恶"
     }
-  ],
-  "timestamp": "2026-07-17T23:20:46.761080250Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "genesis 19:7",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 276,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22637,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 22913
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:43:43.060005310Z",
   "translation": "他说:我求你们,我的弟兄们,不要 ⟨如此⟩ 行恶。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "נא",
-      "english": "我求你们"
+      "gloss": "我求你们"
     },
     {
       "surface": "אחי",
-      "english": "我的弟兄们"
+      "gloss": "我的弟兄们"
     },
     {
       "surface": "תרעו",
-      "english": "行恶"
+      "gloss": "行恶"
     }
-  ],
-  "timestamp": "2026-07-17T17:43:43.060005310Z",
-  "model": "glm-5.2"
+  ]
 }

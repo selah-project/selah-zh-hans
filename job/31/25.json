@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 25,
   "ref": "job 31:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 317,
-    "prompt_tokens": 21733,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22050
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:01.880732659Z",
   "translation": "若我因 ⟨我的⟩ 财富 众多而欢喜，又因 ⟨我的⟩ 手 找着 重大 ⟨的收益⟩ 而欢喜，",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אשמח",
-      "english": "我因...而欢喜"
+      "gloss": "我因...而欢喜"
     },
     {
       "surface": "כי",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "רב",
-      "english": "众多"
+      "gloss": "众多"
     },
     {
       "surface": "חילי",
-      "english": "⟨我的⟩ 财富"
+      "gloss": "⟨我的⟩ 财富"
     },
     {
       "surface": "וכי",
-      "english": "又因"
+      "gloss": "又因"
     },
     {
       "surface": "כביר",
-      "english": "重大"
+      "gloss": "重大"
     },
     {
       "surface": "מצאה",
-      "english": "找着"
+      "gloss": "找着"
     },
     {
       "surface": "ידי",
-      "english": "⟨我的⟩ 手"
+      "gloss": "⟨我的⟩ 手"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:01.880732659Z",
-  "model": "glm-4.5"
+  ]
 }

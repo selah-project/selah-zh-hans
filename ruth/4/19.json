@@ -1,55 +1,47 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "ruth 4:19",
   "book": "ruth",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 397,
-    "prompt_tokens": 22731,
-    "prompt_tokens_details": {
-      "cached_tokens": 4864
-    },
-    "total_tokens": 23128
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:28:06.635580755Z",
   "translation": "和希斯仑生了 ⟨את⟩ 兰，和兰生了 ⟨את⟩ 亚米拿达",
   "tokens": [
     {
       "surface": "וחצרון",
-      "english": "和希斯仑"
+      "gloss": "和希斯仑"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "兰"
     },
     {
       "surface": "רם",
-      "english": "兰"
+      "gloss": "兰"
     },
     {
       "surface": "ורם",
-      "english": "和兰"
+      "gloss": "和兰"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚米拿达"
     },
     {
       "surface": "עמינדב",
-      "english": "亚米拿达"
+      "gloss": "亚米拿达"
     }
-  ],
-  "timestamp": "2026-07-21T13:28:06.635580755Z",
-  "model": "glm-4.5"
+  ]
 }

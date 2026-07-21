@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "exodus 8:19",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 835,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18708,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19543
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:41:40.817648211Z",
   "translation": "我必在⟨我的⟩子民與⟨你的⟩子民之間設定פְדֻת；明天必有這個את记号。",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "我必設定"
+      "gloss": "我必設定"
     },
     {
       "surface": "פדת",
-      "english": "區隔"
+      "gloss": "區隔"
     },
     {
       "surface": "בין",
-      "english": "在……之間"
+      "gloss": "在……之間"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "ובין",
-      "english": "與……之間"
+      "gloss": "與……之間"
     },
     {
       "surface": "עמך",
-      "english": "你的子民"
+      "gloss": "你的子民"
     },
     {
       "surface": "למחר",
-      "english": "明天"
+      "gloss": "明天"
     },
     {
       "surface": "יהיה",
-      "english": "必有"
+      "gloss": "必有"
     },
     {
       "surface": "האת",
-      "english": "這個⟨את⟩",
+      "gloss": "這個⟨את⟩",
       "marks": "记号"
     },
     {
       "surface": "הזה",
-      "english": "這個"
+      "gloss": "這個"
     }
-  ],
-  "timestamp": "2026-07-18T02:41:40.817648211Z",
-  "model": "glm-5.2"
+  ]
 }

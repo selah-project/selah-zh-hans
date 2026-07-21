@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "genesis 29:24",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23118,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 23443
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:34.440713272Z",
   "translation": "拉班给她 ⟨את⟩ 悉帕——⟨他的⟩ 女仆——给⟨他的⟩ 女儿利亚作女仆。",
   "tokens": [
     {
       "surface": "ויתן",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "לבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "לה",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "悉帕"
     },
     {
       "surface": "זלפה",
-      "english": "悉帕"
+      "gloss": "悉帕"
     },
     {
       "surface": "שפחתו",
-      "english": "他的女仆"
+      "gloss": "他的女仆"
     },
     {
       "surface": "ללאה",
-      "english": "利亚"
+      "gloss": "利亚"
     },
     {
       "surface": "בתו",
-      "english": "他的女儿"
+      "gloss": "他的女儿"
     },
     {
       "surface": "שפחה",
-      "english": "作女仆"
+      "gloss": "作女仆"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:34.440713272Z",
-  "model": "glm-5.2"
+  ]
 }

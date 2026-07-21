@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 8,
   "ref": "psalms 30:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 419,
-    "prompt_tokens": 64767,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65186
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:35:37.051736815Z",
   "translation": "雅威啊,你以美意坚固了我的大山;你遮蔽了你的脸,我就惊惶。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "ברצונך",
-      "english": "你以美意"
+      "gloss": "你以美意"
     },
     {
       "surface": "העמדתה",
-      "english": "坚固了"
+      "gloss": "坚固了"
     },
     {
       "surface": "להררי",
-      "english": "我的大山"
+      "gloss": "我的大山"
     },
     {
       "surface": "עז",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הסתרת",
-      "english": "你遮蔽了"
+      "gloss": "你遮蔽了"
     },
     {
       "surface": "פניך",
-      "english": "你的脸"
+      "gloss": "你的脸"
     },
     {
       "surface": "הייתי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "נבהל",
-      "english": "就惊惶"
+      "gloss": "就惊惶"
     }
-  ],
-  "timestamp": "2026-07-21T02:35:37.051736815Z",
-  "model": "glm-4.5"
+  ]
 }

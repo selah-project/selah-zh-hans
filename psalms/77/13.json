@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 77:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 420,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64315,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64735
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:58.874660520Z",
   "translation": "我要默念你的一切作为,对你的作为我要 ⟨默想⟩。",
   "tokens": [
     {
       "surface": "והגיתי",
-      "english": "我要默念"
+      "gloss": "我要默念"
     },
     {
       "surface": "בכל",
-      "english": "对你的一切"
+      "gloss": "对你的一切"
     },
     {
       "surface": "פעלך",
-      "english": "作为"
+      "gloss": "作为"
     },
     {
       "surface": "ובעלילותיך",
-      "english": "对你的作为"
+      "gloss": "对你的作为"
     },
     {
       "surface": "אשיחה",
-      "english": "⟨默想⟩"
+      "gloss": "⟨默想⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:58.874660520Z",
-  "model": "glm-5.2"
+  ]
 }

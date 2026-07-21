@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "2-kings 4:23",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18766,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19226
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:19:35.393624294Z",
   "translation": "他说:为什么⟨你⟩今日去⟨到他那里⟩?既不是新月,也不是安息日。她说:沙龙。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "מדוע",
-      "english": "为什么"
+      "gloss": "为什么"
     },
     {
       "surface": "אתי",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "הלכתי",
-      "english": "去"
+      "gloss": "去"
     },
     {
       "surface": "אליו",
-      "english": "⟨到他那里⟩"
+      "gloss": "⟨到他那里⟩"
     },
     {
       "surface": "היום",
-      "english": "今日"
+      "gloss": "今日"
     },
     {
       "surface": "לא",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "חדש",
-      "english": "新月"
+      "gloss": "新月"
     },
     {
       "surface": "ולא",
-      "english": "也不是"
+      "gloss": "也不是"
     },
     {
       "surface": "שבת",
-      "english": "安息日"
+      "gloss": "安息日"
     },
     {
       "surface": "ותאמר",
-      "english": "她说"
+      "gloss": "她说"
     },
     {
       "surface": "שלום",
-      "english": "沙龙"
+      "gloss": "沙龙"
     }
-  ],
-  "timestamp": "2026-07-17T21:19:35.393624294Z",
-  "model": "glm-5.2"
+  ]
 }

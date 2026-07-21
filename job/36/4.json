@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 36:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21646,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21968
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:40.973693115Z",
   "translation": "因为诚然谎言不⟨是⟩出于我的话,完全的知识与你⟨同在⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אמנם",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שקר",
-      "english": "谎言"
+      "gloss": "谎言"
     },
     {
       "surface": "מלי",
-      "english": "出于我的话"
+      "gloss": "出于我的话"
     },
     {
       "surface": "תמים",
-      "english": "完全的"
+      "gloss": "完全的"
     },
     {
       "surface": "דעות",
-      "english": "知识"
+      "gloss": "知识"
     },
     {
       "surface": "עמך",
-      "english": "与你同在"
+      "gloss": "与你同在"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:40.973693115Z",
-  "model": "glm-5.2"
+  ]
 }

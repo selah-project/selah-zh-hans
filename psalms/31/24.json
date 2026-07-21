@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 31:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65051,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65546
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:23.528696839Z",
   "translation": "爱慕雅威吧,⟨את⟩ 雅威,他所有的敬虔者!信实的人——雅威守护;他对行事狂傲的人超额偿还。",
   "tokens": [
     {
       "surface": "אהבו",
-      "english": "爱慕……吧"
+      "gloss": "爱慕……吧"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כל",
-      "english": "他所有的"
+      "gloss": "他所有的"
     },
     {
       "surface": "חסידיו",
-      "english": "敬虔者"
+      "gloss": "敬虔者"
     },
     {
       "surface": "אמונים",
-      "english": "信实的人"
+      "gloss": "信实的人"
     },
     {
       "surface": "נצר",
-      "english": "守护"
+      "gloss": "守护"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ומשלם",
-      "english": "他……偿还"
+      "gloss": "他……偿还"
     },
     {
       "surface": "על",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יתר",
-      "english": "超额"
+      "gloss": "超额"
     },
     {
       "surface": "עשה",
-      "english": "行事者"
+      "gloss": "行事者"
     },
     {
       "surface": "גאוה",
-      "english": "狂傲"
+      "gloss": "狂傲"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:23.528696839Z",
-  "model": "glm-5.2"
+  ]
 }

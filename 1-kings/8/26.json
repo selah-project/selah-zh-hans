@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "1-kings 8:26",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 467,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64781
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:03:26.078057553Z",
   "translation": "现在，以色列的以罗欣啊，求你确认你的*话语*（*davar*），就是你对你仆人大卫我父亲所说过的，",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣（的）"
+      "gloss": "以罗欣（的）"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "יאמן",
-      "english": "求你确认"
+      "gloss": "求你确认"
     },
     {
       "surface": "נא",
-      "english": "（祈求语气）"
+      "gloss": "（祈求语气）"
     },
     {
       "surface": "דבריך",
-      "english": "你的*davar*（话语）"
+      "gloss": "你的*davar*（话语）"
     },
     {
       "surface": "אשר",
-      "english": "（就是）"
+      "gloss": "（就是）"
     },
     {
       "surface": "דברת",
-      "english": "你说过"
+      "gloss": "你说过"
     },
     {
       "surface": "לעבדך",
-      "english": "对你仆人"
+      "gloss": "对你仆人"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אבי",
-      "english": "我父亲"
+      "gloss": "我父亲"
     }
-  ],
-  "timestamp": "2026-07-17T21:03:26.078057553Z",
-  "model": "glm-5.2"
+  ]
 }

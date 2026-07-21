@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 103:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64490,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64855
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:30.477243060Z",
   "translation": "正如父亲对众子的怜悯，雅威怜悯⟨那些⟩敬畏他的人。",
   "tokens": [
     {
       "surface": "כְּ\/רַחֵ֣ם",
-      "english": "正如……的怜悯"
+      "gloss": "正如……的怜悯"
     },
     {
       "surface": "אָ֭ב",
-      "english": "父亲"
+      "gloss": "父亲"
     },
     {
       "surface": "עַל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בָּנִ֑ים",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "רִחַ֥ם",
-      "english": "怜悯"
+      "gloss": "怜悯"
     },
     {
       "surface": "יְ֝הוָ֗ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עַל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יְרֵאָֽי\/ו",
-      "english": "敬畏他的人"
+      "gloss": "敬畏他的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:30.477243060Z",
-  "model": "glm-5.2"
+  ]
 }

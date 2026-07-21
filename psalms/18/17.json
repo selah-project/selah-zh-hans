@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 18:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64335,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64728
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:35.740339523Z",
   "translation": "他差遣自高处,他拉取了我,他把我拽离许多水。",
   "tokens": [
     {
       "surface": "ישלח",
-      "english": "他差遣"
+      "gloss": "他差遣"
     },
     {
       "surface": "ממרום",
-      "english": "自高处"
+      "gloss": "自高处"
     },
     {
       "surface": "יקחני",
-      "english": "他拉取了我"
+      "gloss": "他拉取了我"
     },
     {
       "surface": "ימשני",
-      "english": "他把我拽离"
+      "gloss": "他把我拽离"
     },
     {
       "surface": "ממים",
-      "english": "众水"
+      "gloss": "众水"
     },
     {
       "surface": "רבים",
-      "english": "许多"
+      "gloss": "许多"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:35.740339523Z",
-  "model": "glm-5.2"
+  ]
 }

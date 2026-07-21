@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 103:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64281,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64639
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:23.165476676Z",
   "translation": "不，⟨他⟩不永远争辩；也不永久怀怒。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "לנצח",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "יריב",
-      "english": "⟨他⟩争辩"
+      "gloss": "⟨他⟩争辩"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "לעולם",
-      "english": "永久"
+      "gloss": "永久"
     },
     {
       "surface": "יִטּֽוֹר",
-      "english": "怀怒"
+      "gloss": "怀怒"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:23.165476676Z",
-  "model": "glm-5.2"
+  ]
 }

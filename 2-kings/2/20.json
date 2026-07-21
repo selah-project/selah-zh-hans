@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 2:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 363,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18563,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18926
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:53:29.682985798Z",
   "translation": "他说:你们为我拿一个新的瓶子来,⟨把⟩盐放在那里;他们就拿到他那里。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "קחו",
-      "english": "你们拿"
+      "gloss": "你们拿"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "צלחית",
-      "english": "一个瓶子"
+      "gloss": "一个瓶子"
     },
     {
       "surface": "חדשה",
-      "english": "新的"
+      "gloss": "新的"
     },
     {
       "surface": "ושימו",
-      "english": "⟨并⟩放置"
+      "gloss": "⟨并⟩放置"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "מלח",
-      "english": "盐"
+      "gloss": "盐"
     },
     {
       "surface": "ויקחו",
-      "english": "他们就拿了"
+      "gloss": "他们就拿了"
     },
     {
       "surface": "אליו",
-      "english": "到他那里"
+      "gloss": "到他那里"
     }
-  ],
-  "timestamp": "2026-07-18T02:53:29.682985798Z",
-  "model": "glm-5.2"
+  ]
 }

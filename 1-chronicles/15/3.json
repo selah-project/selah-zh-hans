@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-chronicles 15:3",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59501,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 60006
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:02:56.867520175Z",
   "translation": "大卫召集了⟨את⟩全以色列到耶路撒冷,为要将 ⟨את⟩雅威的约柜抬上⟨到⟩它的地方,就是他⟨为它⟩所预备的。",
   "tokens": [
     {
       "surface": "ויקהל",
-      "english": "召集了"
+      "gloss": "召集了"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "全以色列"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     },
     {
       "surface": "להעלות",
-      "english": "为要抬上"
+      "gloss": "为要抬上"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威的约柜"
     },
     {
       "surface": "ארון",
-      "english": "约柜"
+      "gloss": "约柜"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מקומו",
-      "english": "它的地方"
+      "gloss": "它的地方"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "הכין",
-      "english": "他所预备的"
+      "gloss": "他所预备的"
     },
     {
       "surface": "לו",
-      "english": "为它"
+      "gloss": "为它"
     }
-  ],
-  "timestamp": "2026-07-18T02:02:56.867520175Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "exodus 1:13",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18389,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18697
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:09:41.805046314Z",
   "translation": "于是，埃及人使 ⟨את⟩ 以色列的子孙服劳役，带着残酷（בפרך）。",
   "tokens": [
     {
       "surface": "ויעבדו",
-      "english": "于是，使……服劳役"
+      "gloss": "于是，使……服劳役"
     },
     {
       "surface": "מצרים",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列的子孙"
     },
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "בפרך",
-      "english": "带着残酷（בפרך）"
+      "gloss": "带着残酷（בפרך）"
     }
-  ],
-  "timestamp": "2026-07-17T18:09:41.805046314Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "song-of-songs 3:9",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21873,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22296
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:19.032919380Z",
   "translation": "אַפִּרְיוֹן：所罗门王为自己造了它，用黎巴嫩的木材。",
   "tokens": [
     {
       "surface": "אפריון",
-      "english": "轿子"
+      "gloss": "轿子"
     },
     {
       "surface": "עשה",
-      "english": "造了"
+      "gloss": "造了"
     },
     {
       "surface": "לו",
-      "english": "为自己"
+      "gloss": "为自己"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "מעצי",
-      "english": "用……的木材"
+      "gloss": "用……的木材"
     },
     {
       "surface": "הלבנון",
-      "english": "黎巴嫩"
+      "gloss": "黎巴嫩"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:19.032919380Z",
-  "model": "glm-5.2"
+  ]
 }

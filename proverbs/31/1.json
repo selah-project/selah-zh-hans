@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 31:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 347,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54378,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54725
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:30.520709762Z",
   "translation": "勒慕艾勒王的话语,⟨את⟩他母亲管教他的重担。",
   "tokens": [
     {
       "surface": "דברי",
-      "english": "话语"
+      "gloss": "话语"
     },
     {
       "surface": "למואל",
-      "english": "勒慕艾勒"
+      "gloss": "勒慕艾勒"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "משא",
-      "english": "重担"
+      "gloss": "重担"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "יסרתו",
-      "english": "管教了他"
+      "gloss": "管教了他"
     },
     {
       "surface": "אמו",
-      "english": "他母亲"
+      "gloss": "他母亲"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:30.520709762Z",
-  "model": "glm-5.2"
+  ]
 }

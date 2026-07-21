@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 17:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54595,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55025
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:17.088229335Z",
   "translation": "一个精明的仆人将管辖⟨那⟩带来羞耻的儿子，并且在弟兄中间他将分得⟨一份⟩产业。",
   "tokens": [
     {
       "surface": "עבד",
-      "english": "一个仆人"
+      "gloss": "一个仆人"
     },
     {
       "surface": "משכיל",
-      "english": "精明的"
+      "gloss": "精明的"
     },
     {
       "surface": "ימשל",
-      "english": "将管辖"
+      "gloss": "将管辖"
     },
     {
       "surface": "בבן",
-      "english": "在儿子之上"
+      "gloss": "在儿子之上"
     },
     {
       "surface": "מביש",
-      "english": "带来羞耻的"
+      "gloss": "带来羞耻的"
     },
     {
       "surface": "ובתוך",
-      "english": "并且在……中间"
+      "gloss": "并且在……中间"
     },
     {
       "surface": "אחים",
-      "english": "弟兄"
+      "gloss": "弟兄"
     },
     {
       "surface": "יחלק",
-      "english": "他将分得"
+      "gloss": "他将分得"
     },
     {
       "surface": "נחלה",
-      "english": "产业"
+      "gloss": "产业"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:17.088229335Z",
-  "model": "glm-5.2"
+  ]
 }

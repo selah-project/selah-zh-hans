@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 141:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 698,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65181,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65879
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:57.883353457Z",
   "translation": "愿义人凭着חֶסֶד击打我，愿⟨他⟩责备我；那是头上的膏油，我的头不可拒绝它；因为在我的祷告尚存之际，⟨即使⟩在他们的恶行中，⟨它⟩仍是⟨我的祷告⟩。",
   "tokens": [
     {
       "surface": "יהלמני",
-      "english": "愿⟨他⟩击打我"
+      "gloss": "愿⟨他⟩击打我"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "חסד",
-      "english": "凭着חֶסֶד"
+      "gloss": "凭着חֶסֶד"
     },
     {
       "surface": "ויוכיחני",
-      "english": "愿⟨他⟩责备我"
+      "gloss": "愿⟨他⟩责备我"
     },
     {
       "surface": "שמן",
-      "english": "是膏油"
+      "gloss": "是膏油"
     },
     {
       "surface": "ראש",
-      "english": "头上的"
+      "gloss": "头上的"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "יני",
-      "english": "我的头拒绝它"
+      "gloss": "我的头拒绝它"
     },
     {
       "surface": "ראשי",
-      "english": "我的头"
+      "gloss": "我的头"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עוד",
-      "english": "尚存之际"
+      "gloss": "尚存之际"
     },
     {
       "surface": "ותפלתי",
-      "english": "我的祷告"
+      "gloss": "我的祷告"
     },
     {
       "surface": "ברעותיהם",
-      "english": "在他们的恶行中"
+      "gloss": "在他们的恶行中"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:57.883353457Z",
-  "model": "glm-5.2"
+  ]
 }

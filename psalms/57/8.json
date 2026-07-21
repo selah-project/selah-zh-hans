@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 57:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 475,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64486,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64961
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:44.353712124Z",
   "translation": "我的心⟨已⟩预备好，以罗欣啊，我的心⟨已⟩预备好；我要歌唱，我也要弹奏。”",
   "tokens": [
     {
       "surface": "נכון",
-      "english": "⟨已⟩预备好"
+      "gloss": "⟨已⟩预备好"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "נכון",
-      "english": "⟨已⟩预备好"
+      "gloss": "⟨已⟩预备好"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "אשירה",
-      "english": "我要歌唱"
+      "gloss": "我要歌唱"
     },
     {
       "surface": "ואזמרה",
-      "english": "我也要弹奏"
+      "gloss": "我也要弹奏"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:44.353712124Z",
-  "model": "glm-5.2"
+  ]
 }

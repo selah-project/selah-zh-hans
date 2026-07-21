@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 42:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20618,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20963
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:54:31.368492340Z",
   "translation": "看见了许多事，你却不守护；耳朵⟨被⟩打开，他却听不见。",
   "tokens": [
     {
       "surface": "ראית",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "רבות",
-      "english": "许多事"
+      "gloss": "许多事"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "תשמר",
-      "english": "守护"
+      "gloss": "守护"
     },
     {
       "surface": "פקוח",
-      "english": "打开"
+      "gloss": "打开"
     },
     {
       "surface": "אזנים",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "ישמע",
-      "english": "听"
+      "gloss": "听"
     }
-  ],
-  "timestamp": "2026-07-17T21:54:31.368492340Z",
-  "model": "glm-5.2"
+  ]
 }

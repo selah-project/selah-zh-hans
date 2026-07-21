@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 78,
   "ref": "psalms 119:78",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64535,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 78,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:26.783812430Z",
   "translation": "愿骄傲的人蒙羞，因为他们以虚谎扭曲了我；至于我，我要默想⟨你的⟩训令。",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "愿……蒙羞"
+      "gloss": "愿……蒙羞"
     },
     {
       "surface": "זדים",
-      "english": "骄傲的人"
+      "gloss": "骄傲的人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שקר",
-      "english": "以虚谎"
+      "gloss": "以虚谎"
     },
     {
       "surface": "עותוני",
-      "english": "他们扭曲了我"
+      "gloss": "他们扭曲了我"
     },
     {
       "surface": "אני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "אשיח",
-      "english": "我要默想"
+      "gloss": "我要默想"
     },
     {
       "surface": "בפקודיך",
-      "english": "于⟨你的⟩训令"
+      "gloss": "于⟨你的⟩训令"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:26.783812430Z",
-  "model": "glm-5.2"
+  ]
 }

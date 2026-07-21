@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 35:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21505,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21938
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:23.957494242Z",
   "translation": "你⟨将⟩这算为 ⟨לְ\/מִשְׁפָּט⟩公义吗？你说：⟨הֲ\/זֹאת⟩我的公义胜过以罗欣的。",
   "tokens": [
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "חשבת",
-      "english": "你算为"
+      "gloss": "你算为"
     },
     {
       "surface": "למשפט",
-      "english": "为 ⟨לְ\/מִשְׁפָּט⟩公义"
+      "gloss": "为 ⟨לְ\/מִשְׁפָּט⟩公义"
     },
     {
       "surface": "אמרת",
-      "english": "你说"
+      "gloss": "你说"
     },
     {
       "surface": "צדקי",
-      "english": "我的公义"
+      "gloss": "我的公义"
     },
     {
       "surface": "מאל",
-      "english": "胜过以罗欣"
+      "gloss": "胜过以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:23.957494242Z",
-  "model": "glm-5.2"
+  ]
 }

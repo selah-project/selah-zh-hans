@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "numbers 17:22",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 336,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19377,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19713
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:13:05.490334934Z",
   "translation": "摩西将 ⟨את⟩ 那些杖安放在雅威面前,在会幕 ⟨的⟩ 见证之处。",
   "tokens": [
     {
       "surface": "וינח",
-      "english": "安放了"
+      "gloss": "安放了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那些杖"
     },
     {
       "surface": "המטת",
-      "english": "那些杖"
+      "gloss": "那些杖"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "באהל",
-      "english": "在会幕里"
+      "gloss": "在会幕里"
     },
     {
       "surface": "העדת",
-      "english": "见证"
+      "gloss": "见证"
     }
-  ],
-  "timestamp": "2026-07-17T19:13:05.490334934Z",
-  "model": "glm-5.2"
+  ]
 }

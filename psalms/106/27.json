@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 106:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64287,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64744
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:37.889544266Z",
   "translation": "使他们的后裔倾覆在列国中，并在各 地将他们驱散。",
   "tokens": [
     {
       "surface": "וּ\/לְ\/הַ\/פִּיל",
-      "english": "使……倾覆"
+      "gloss": "使……倾覆"
     },
     {
       "surface": "זַ\/רְעָ\/ם",
-      "english": "他们的后裔"
+      "gloss": "他们的后裔"
     },
     {
       "surface": "בַּ\/גּוֹיִם",
-      "english": "在列国中"
+      "gloss": "在列国中"
     },
     {
       "surface": "וּ\/לְ\/זָרוֹתָ\/ם",
-      "english": "将他们驱散"
+      "gloss": "将他们驱散"
     },
     {
       "surface": "בָּ\/אֲרָצוֹת",
-      "english": "在各 ⟨地⟩"
+      "gloss": "在各 ⟨地⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:37.889544266Z",
-  "model": "glm-5.2"
+  ]
 }

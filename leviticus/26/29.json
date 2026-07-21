@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "leviticus 26:29",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 359,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18889,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19248
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:18.246132987Z",
   "translation": "你们要吃⟨⟩你们儿子的肉，也要吃⟨⟩你们女儿⟨的⟩肉。",
   "tokens": [
     {
       "surface": "ואכלתם",
-      "english": "你们要吃"
+      "gloss": "你们要吃"
     },
     {
       "surface": "בשר",
-      "english": "⟨⟩肉"
+      "gloss": "⟨⟩肉"
     },
     {
       "surface": "בניכם",
-      "english": "你们儿子的"
+      "gloss": "你们儿子的"
     },
     {
       "surface": "ובשר",
-      "english": "也要吃⟨⟩⟨⟩肉"
+      "gloss": "也要吃⟨⟩⟨⟩肉"
     },
     {
       "surface": "בנתיכם",
-      "english": "你们女儿的"
+      "gloss": "你们女儿的"
     },
     {
       "surface": "תאכלו",
-      "english": "你们要吃"
+      "gloss": "你们要吃"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:18.246132987Z",
-  "model": "glm-5.2"
+  ]
 }

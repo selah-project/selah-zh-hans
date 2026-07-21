@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 50,
   "ref": "leviticus 14:50",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19220,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19785
-  },
+  "verse": 50,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:49:58.740292341Z",
   "translation": "他⟨要⟩宰杀⟨את⟩那一只鸟⟨在⟩陶土器皿之上⟨在⟩活水之上。",
   "tokens": [
     {
       "surface": "ושחט",
-      "english": "他⟨要⟩宰杀"
+      "gloss": "他⟨要⟩宰杀"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那一只鸟"
     },
     {
       "surface": "הצפר",
-      "english": "那鸟"
+      "gloss": "那鸟"
     },
     {
       "surface": "האחת",
-      "english": "一只"
+      "gloss": "一只"
     },
     {
       "surface": "אל",
-      "english": "⟨在⟩……之上⟨进入⟩"
+      "gloss": "⟨在⟩……之上⟨进入⟩"
     },
     {
       "surface": "כלי",
-      "english": "器皿"
+      "gloss": "器皿"
     },
     {
       "surface": "חרש",
-      "english": "陶土"
+      "gloss": "陶土"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩……之上"
+      "gloss": "⟨在⟩……之上"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "חיים",
-      "english": "活"
+      "gloss": "活"
     }
-  ],
-  "timestamp": "2026-07-17T18:49:58.740292341Z",
-  "model": "glm-5.2"
+  ]
 }

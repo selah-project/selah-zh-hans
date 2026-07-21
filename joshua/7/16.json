@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 7:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18315,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18633
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:53:52.468873001Z",
   "translation": "约书亚清早起来,按⟨以色列⟩的支派将⟨את⟩以色列领近前来,犹大支派被取中了。",
   "tokens": [
     {
       "surface": "וישכם",
-      "english": "约书亚清早起来"
+      "gloss": "约书亚清早起来"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "בבקר",
-      "english": "在早晨"
+      "gloss": "在早晨"
     },
     {
       "surface": "ויקרב",
-      "english": "将领近前来"
+      "gloss": "将领近前来"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "לשבטיו",
-      "english": "按他的支派"
+      "gloss": "按他的支派"
     },
     {
       "surface": "וילכד",
-      "english": "被取中了"
+      "gloss": "被取中了"
     },
     {
       "surface": "שבט",
-      "english": "支派"
+      "gloss": "支派"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-17T19:53:52.468873001Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 10:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19850,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20301
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:07:38.775232317Z",
   "translation": "亚伦的儿子们,⟨就是⟩众祭司,要吹号筒;这⟨件事⟩要成为你们世代的永远的律例。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "亚伦的儿子们,"
+      "gloss": "亚伦的儿子们,"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "הכהנים",
-      "english": "众祭司"
+      "gloss": "众祭司"
     },
     {
       "surface": "יתקעו",
-      "english": "要吹"
+      "gloss": "要吹"
     },
     {
       "surface": "בחצצרות",
-      "english": "号筒;"
+      "gloss": "号筒;"
     },
     {
       "surface": "והיו",
-      "english": "这要成为"
+      "gloss": "这要成为"
     },
     {
       "surface": "לכם",
-      "english": "你们的"
+      "gloss": "你们的"
     },
     {
       "surface": "לחקת",
-      "english": "律例"
+      "gloss": "律例"
     },
     {
       "surface": "עולם",
-      "english": "永远的"
+      "gloss": "永远的"
     },
     {
       "surface": "לדרתיכם",
-      "english": "世代"
+      "gloss": "世代"
     }
-  ],
-  "timestamp": "2026-07-17T19:07:38.775232317Z",
-  "model": "glm-5.2"
+  ]
 }

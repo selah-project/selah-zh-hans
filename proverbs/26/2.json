@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 26:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54561,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54933
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:46.534537889Z",
   "translation": "如雀鸟的游荡，如燕子的飞行，同样，无端无故的咒诅⟨不⟩降临。",
   "tokens": [
     {
       "surface": "כצפור",
-      "english": "如雀鸟"
+      "gloss": "如雀鸟"
     },
     {
       "surface": "לנוד",
-      "english": "的游荡"
+      "gloss": "的游荡"
     },
     {
       "surface": "כדרור",
-      "english": "如燕子"
+      "gloss": "如燕子"
     },
     {
       "surface": "לעוף",
-      "english": "的飞行"
+      "gloss": "的飞行"
     },
     {
       "surface": "כן",
-      "english": "同样"
+      "gloss": "同样"
     },
     {
       "surface": "קללת",
-      "english": "咒诅"
+      "gloss": "咒诅"
     },
     {
       "surface": "חנם",
-      "english": "无端无故的"
+      "gloss": "无端无故的"
     },
     {
       "surface": "לא",
-      "english": "⟨不⟩"
+      "gloss": "⟨不⟩"
     },
     {
       "surface": "תבא",
-      "english": "降临"
+      "gloss": "降临"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:46.534537889Z",
-  "model": "glm-5.2"
+  ]
 }

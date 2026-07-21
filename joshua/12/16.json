@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "joshua 12:16",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 189,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17692,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17881
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:46.738700760Z",
   "translation": "玛基大王,一个;伯特利王,一个。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "מקדה",
-      "english": "玛基大"
+      "gloss": "玛基大"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בית",
-      "english": "伯特"
+      "gloss": "伯特"
     },
     {
       "surface": "אל",
-      "english": "利"
+      "gloss": "利"
     },
     {
       "surface": "אחד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:46.738700760Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 3:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 137,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21142,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21279
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:50:44.820925440Z",
   "translation": "约伯回应 ⟨说⟩:",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回应"
+      "gloss": "回应"
     },
     {
       "surface": "איוב",
-      "english": "约伯"
+      "gloss": "约伯"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨说⟩"
+      "gloss": "⟨说⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:50:44.820925440Z",
-  "model": "glm-5.2"
+  ]
 }

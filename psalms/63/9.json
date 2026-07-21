@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 63:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64400,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64928
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:33.814767876Z",
   "translation": "我的נפש紧贴着你，⟨你的⟩右手扶持我。",
   "tokens": [
     {
       "surface": "דָּבְקָ֣ה",
-      "english": "紧贴着"
+      "gloss": "紧贴着"
     },
     {
       "surface": "נַפְשִׁ֣י",
-      "english": "我的נפש"
+      "gloss": "我的נפש"
     },
     {
       "surface": "אַחֲרֶ֑י\/ךָ",
-      "english": "跟着你 \/ 追随你"
+      "gloss": "跟着你 \/ 追随你"
     },
     {
       "surface": "בִּ֝֗\/י",
-      "english": "⟨代之于⟩ ⟨我⟩"
+      "gloss": "⟨代之于⟩ ⟨我⟩"
     },
     {
       "surface": "תָּמְכָ֥ה",
-      "english": "扶持"
+      "gloss": "扶持"
     },
     {
       "surface": "יְמִינֶֽ\/ךָ",
-      "english": "你的右手"
+      "gloss": "你的右手"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:33.814767876Z",
-  "model": "glm-5.2"
+  ]
 }

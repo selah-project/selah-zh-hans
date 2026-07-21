@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "jeremiah 42:7",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19070,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19420
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:32:01.809312589Z",
   "translation": "十天的终结之后,雅威的*话语*临到耶利米。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨发生了⟩"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "מקץ",
-      "english": "之后"
+      "gloss": "之后"
     },
     {
       "surface": "עשרת",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "ימים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "ויהי",
-      "english": "⟨有了⟩"
+      "gloss": "⟨有了⟩"
     },
     {
       "surface": "דבר",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "临到"
+      "gloss": "临到"
     },
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     }
-  ],
-  "timestamp": "2026-07-17T22:32:01.809312589Z",
-  "model": "glm-5.2"
+  ]
 }

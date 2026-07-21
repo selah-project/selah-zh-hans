@@ -1,63 +1,52 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "numbers 32:37",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19922,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20302
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:02.461485656Z",
   "translation": "吕便之子建造了⟨את⟩希实本、⟨את⟩以利亚利和⟨את⟩基列亭。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "ראובן",
-      "english": "吕便"
+      "gloss": "吕便"
     },
     {
       "surface": "בנו",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "希实本"
     },
     {
       "surface": "חשבון",
-      "english": "希实本"
+      "gloss": "希实本"
     },
     {
       "surface": "ואת",
-      "english": "、⟨את⟩",
+      "gloss": "、⟨את⟩",
       "marks": "以利亚利"
     },
     {
       "surface": "אלעלא",
-      "english": "以利亚利"
+      "gloss": "以利亚利"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "基列亭"
     },
     {
       "surface": "קריתים",
-      "english": "基列亭"
+      "gloss": "基列亭"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:02.461485656Z",
-  "model": "glm-5.2"
+  ]
 }

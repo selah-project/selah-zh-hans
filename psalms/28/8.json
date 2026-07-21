@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 28:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64471,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64791
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:13.788339285Z",
   "translation": "雅威是⟨他⟩们的力量,他也是他的受膏者拯救的力量。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "למו",
-      "english": "给⟨他⟩们"
+      "gloss": "给⟨他⟩们"
     },
     {
       "surface": "ומעוז",
-      "english": "而⟨他⟩也是力量"
+      "gloss": "而⟨他⟩也是力量"
     },
     {
       "surface": "ישועות",
-      "english": "拯救的"
+      "gloss": "拯救的"
     },
     {
       "surface": "משיחו",
-      "english": "他的受膏者"
+      "gloss": "他的受膏者"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:13.788339285Z",
-  "model": "glm-5.2"
+  ]
 }

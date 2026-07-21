@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "proverbs 27:7",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54567,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55020
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:47:07.529574669Z",
   "translation": "饱足的 נֶפֶשׁ 践踏蜂蜜；饥饿的 נֶפֶשׁ ⟨将⟩一切苦的⟨尝⟩作甜。",
   "tokens": [
     {
       "surface": "נפש",
-      "english": "נֶפֶשׁ"
+      "gloss": "נֶפֶשׁ"
     },
     {
       "surface": "שבעה",
-      "english": "饱足的"
+      "gloss": "饱足的"
     },
     {
       "surface": "תבוס",
-      "english": "践踏"
+      "gloss": "践踏"
     },
     {
       "surface": "נפת",
-      "english": "蜂蜜"
+      "gloss": "蜂蜜"
     },
     {
       "surface": "ונפש",
-      "english": "而 נֶפֶשׁ"
+      "gloss": "而 נֶפֶשׁ"
     },
     {
       "surface": "רעבה",
-      "english": "饥饿的"
+      "gloss": "饥饿的"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "מר",
-      "english": "苦的"
+      "gloss": "苦的"
     },
     {
       "surface": "מתוק",
-      "english": "⟨尝⟩作甜"
+      "gloss": "⟨尝⟩作甜"
     }
-  ],
-  "timestamp": "2026-07-18T00:47:07.529574669Z",
-  "model": "glm-5.2"
+  ]
 }

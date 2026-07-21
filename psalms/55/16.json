@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 55:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64615,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65041
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:00.820710351Z",
   "translation": "愿荒凉临到他们！愿他们活生生地降入示阿ul；因为邪恶在他们之中，在他们中间。",
   "tokens": [
     {
       "surface": "ישימות",
-      "english": "愿荒凉"
+      "gloss": "愿荒凉"
     },
     {
       "surface": "עלימו",
-      "english": "临到他们"
+      "gloss": "临到他们"
     },
     {
       "surface": "ירדו",
-      "english": "愿他们降入"
+      "gloss": "愿他们降入"
     },
     {
       "surface": "שאול",
-      "english": "示阿ul"
+      "gloss": "示阿ul"
     },
     {
       "surface": "חיים",
-      "english": "活生生地"
+      "gloss": "活生生地"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רעות",
-      "english": "邪恶"
+      "gloss": "邪恶"
     },
     {
       "surface": "במגורם",
-      "english": "在他们之中"
+      "gloss": "在他们之中"
     },
     {
       "surface": "בקרבם",
-      "english": "在他们中间"
+      "gloss": "在他们中间"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:00.820710351Z",
-  "model": "glm-5.2"
+  ]
 }

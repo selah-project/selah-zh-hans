@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 11:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 345,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21593,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21938
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:44.584691932Z",
   "translation": "因为你必忘记劳苦，〈你〉必记得它如同流水过去；",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עמל",
-      "english": "劳苦"
+      "gloss": "劳苦"
     },
     {
       "surface": "תשכח",
-      "english": "必忘记"
+      "gloss": "必忘记"
     },
     {
       "surface": "כמים",
-      "english": "如同流水"
+      "gloss": "如同流水"
     },
     {
       "surface": "עברו",
-      "english": "过去"
+      "gloss": "过去"
     },
     {
       "surface": "תזכר",
-      "english": "必记得它"
+      "gloss": "必记得它"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:44.584691932Z",
-  "model": "glm-5.2"
+  ]
 }

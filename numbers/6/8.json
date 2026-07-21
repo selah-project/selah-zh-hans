@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "numbers 6:8",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 333,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19419,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19752
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:04:28.444482737Z",
   "translation": "他离俗的全部日子,他⟨是⟩圣的,归雅威。",
   "tokens": [
     {
       "surface": "כֹּ֖ל",
-      "english": "全部"
+      "gloss": "全部"
     },
     {
       "surface": "יְמֵ֣י",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "נִזְר֑\/וֹ",
-      "english": "他离俗"
+      "gloss": "他离俗"
     },
     {
       "surface": "קָדֹ֥שׁ",
-      "english": "圣的"
+      "gloss": "圣的"
     },
     {
       "surface": "ה֖וּא",
-      "english": "他⟨是⟩"
+      "gloss": "他⟨是⟩"
     },
     {
       "surface": "לַֽ\/יהוָֽה",
-      "english": "归雅威"
+      "gloss": "归雅威"
     }
-  ],
-  "timestamp": "2026-07-17T19:04:28.444482737Z",
-  "model": "glm-5.2"
+  ]
 }

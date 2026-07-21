@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "1-chronicles 1:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 353,
-    "prompt_tokens": 58855,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59208
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:01.052371573Z",
   "translation": "古实生了 ⟨את⟩ 宁录;他开始在地上成为强盛 ⟨者⟩。",
   "tokens": [
     {
       "surface": "וכוש",
-      "english": "古实"
+      "gloss": "古实"
     },
     {
       "surface": "ילד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "宁录"
     },
     {
       "surface": "נמרוד",
-      "english": "宁录"
+      "gloss": "宁录"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "החל",
-      "english": "开始"
+      "gloss": "开始"
     },
     {
       "surface": "להיות",
-      "english": "成为"
+      "gloss": "成为"
     },
     {
       "surface": "גבור",
-      "english": "强盛 ⟨者⟩"
+      "gloss": "强盛 ⟨者⟩"
     },
     {
       "surface": "בארץ",
-      "english": "在地上"
+      "gloss": "在地上"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:01.052371573Z",
-  "model": "glm-4.5"
+  ]
 }

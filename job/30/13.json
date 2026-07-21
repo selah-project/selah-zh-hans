@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 30:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21580,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22040
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:22.283743963Z",
   "translation": "他们拆毁了我的道路，⟨他们从⟩我的灾祸中得益，没有人帮助⟨他们⟩。",
   "tokens": [
     {
       "surface": "נָתְס֗וּ",
-      "english": "他们拆毁了"
+      "gloss": "他们拆毁了"
     },
     {
       "surface": "נְֽתִיבָ֫תִ֥\/י",
-      "english": "我的道路"
+      "gloss": "我的道路"
     },
     {
       "surface": "לְ\/הַוָּתִ֥\/י",
-      "english": "⟨他们从⟩我的灾祸中"
+      "gloss": "⟨他们从⟩我的灾祸中"
     },
     {
       "surface": "יֹעִ֑ילוּ",
-      "english": "得益"
+      "gloss": "得益"
     },
     {
       "surface": "לֹ֖א",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עֹזֵ֣ר",
-      "english": "帮助者"
+      "gloss": "帮助者"
     },
     {
       "surface": "לָֽ\/מוֹ",
-      "english": "⟨他们⟩"
+      "gloss": "⟨他们⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:22.283743963Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 45:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 780,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64792,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65572
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:42.483921613Z",
   "translation": "没药、沉香、肉桂——⟨你⟩一切的衣裳，从象牙宫之中，⟨就是那⟩使⟨你⟩喜乐的弦乐器。",
   "tokens": [
     {
       "surface": "מֹר",
-      "english": "没药"
+      "gloss": "没药"
     },
     {
       "surface": "וַ\/אֲהָל֣וֹת",
-      "english": "沉香"
+      "gloss": "沉香"
     },
     {
       "surface": "קְ֭צִיעוֹת",
-      "english": "肉桂"
+      "gloss": "肉桂"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "בִּגְדֹתֶ֑י\/ךָ",
-      "english": "⟨你⟩的衣裳"
+      "gloss": "⟨你⟩的衣裳"
     },
     {
       "surface": "מִֽן",
-      "english": "从……之中"
+      "gloss": "从……之中"
     },
     {
       "surface": "הֵ֥יכְלֵי",
-      "english": "宫"
+      "gloss": "宫"
     },
     {
       "surface": "שֵׁ֝֗ן",
-      "english": "象牙"
+      "gloss": "象牙"
     },
     {
       "surface": "מִנִּ֥י",
-      "english": "⟨就是那⟩"
+      "gloss": "⟨就是那⟩"
     },
     {
       "surface": "שִׂמְּחֽוּ\/ךָ",
-      "english": "使⟨你⟩喜乐的弦乐器"
+      "gloss": "使⟨你⟩喜乐的弦乐器"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:42.483921613Z",
-  "model": "glm-5.2"
+  ]
 }

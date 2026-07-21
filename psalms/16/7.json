@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 16:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64830,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65273
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:36.467575241Z",
   "translation": "我要称颂雅威,⟨他⟩赐给我训诲;是的,在夜间我的肾脏管教我。",
   "tokens": [
     {
       "surface": "אברך",
-      "english": "我要称颂"
+      "gloss": "我要称颂"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אשר",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "יעצני",
-      "english": "赐给我训诲"
+      "gloss": "赐给我训诲"
     },
     {
       "surface": "אף",
-      "english": "是的"
+      "gloss": "是的"
     },
     {
       "surface": "לילות",
-      "english": "在夜间"
+      "gloss": "在夜间"
     },
     {
       "surface": "יסרוני",
-      "english": "管教我"
+      "gloss": "管教我"
     },
     {
       "surface": "כליותי",
-      "english": "我的肾脏"
+      "gloss": "我的肾脏"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:36.467575241Z",
-  "model": "glm-5.2"
+  ]
 }

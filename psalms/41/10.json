@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 41:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 575,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64854,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65429
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:16.838913289Z",
   "translation": "连我平安的人,就是我所信赖的、吃我饼的 ⟨他⟩,也向我抬起脚跟。",
   "tokens": [
     {
       "surface": "גַּם",
-      "english": "连……也"
+      "gloss": "连……也"
     },
     {
       "surface": "אִ֤ישׁ",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "שְׁלוֹמִ֨\/י",
-      "english": "我平安的"
+      "gloss": "我平安的"
     },
     {
       "surface": "אֲשֶׁר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "בָּטַ֣חְתִּי",
-      "english": "我信赖"
+      "gloss": "我信赖"
     },
     {
       "surface": "ב֭\/וֹ",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "אוֹכֵ֣ל",
-      "english": "吃"
+      "gloss": "吃"
     },
     {
       "surface": "לַחְמִ֑\/י",
-      "english": "我饼的"
+      "gloss": "我饼的"
     },
     {
       "surface": "הִגְדִּ֖יל",
-      "english": "抬起了"
+      "gloss": "抬起了"
     },
     {
       "surface": "עָלַ֣\/י",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "עָקֵֽב",
-      "english": "脚跟"
+      "gloss": "脚跟"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:16.838913289Z",
-  "model": "glm-5.2"
+  ]
 }

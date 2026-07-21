@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "joshua 19:37",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 207,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17462,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17669
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:02:20.397262762Z",
   "translation": "还有基低斯、以得来和音·夏琐",
   "tokens": [
     {
       "surface": "וְ\/קֶ֥דֶשׁ",
-      "english": "还有基低斯"
+      "gloss": "还有基低斯"
     },
     {
       "surface": "וְ\/אֶדְרֶ֖עִי",
-      "english": "以得来"
+      "gloss": "以得来"
     },
     {
       "surface": "וְ\/עֵ֥ין",
-      "english": "和音"
+      "gloss": "和音"
     },
     {
       "surface": "חָצֽוֹר",
-      "english": "夏琐"
+      "gloss": "夏琐"
     }
-  ],
-  "timestamp": "2026-07-17T20:02:20.397262762Z",
-  "model": "glm-5.2"
+  ]
 }

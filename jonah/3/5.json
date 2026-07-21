@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "jonah 3:5",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 477,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21509,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21986
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:58.647979165Z",
   "translation": "尼尼微的人们信了 באלהים (以罗欣);他们宣告禁食,穿上了麻布 —— 从他们最大的到他们最小的。",
   "tokens": [
     {
       "surface": "ויאמינו",
-      "english": "信了"
+      "gloss": "信了"
     },
     {
       "surface": "אנשי",
-      "english": "的人们"
+      "gloss": "的人们"
     },
     {
       "surface": "נינוה",
-      "english": "尼尼微"
+      "gloss": "尼尼微"
     },
     {
       "surface": "באלהים",
-      "english": "באלהים (以罗欣)"
+      "gloss": "באלהים (以罗欣)"
     },
     {
       "surface": "ויקראו",
-      "english": "宣告了"
+      "gloss": "宣告了"
     },
     {
       "surface": "צום",
-      "english": "禁食"
+      "gloss": "禁食"
     },
     {
       "surface": "וילבשו",
-      "english": "穿上了"
+      "gloss": "穿上了"
     },
     {
       "surface": "שקים",
-      "english": "麻布"
+      "gloss": "麻布"
     },
     {
       "surface": "מגדולם",
-      "english": "从他们最大的"
+      "gloss": "从他们最大的"
     },
     {
       "surface": "ועד",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "קטנם",
-      "english": "他们最小的"
+      "gloss": "他们最小的"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:58.647979165Z",
-  "model": "glm-5.2"
+  ]
 }

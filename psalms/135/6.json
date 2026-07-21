@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 135:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 135,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64746,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65123
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:50.986799509Z",
   "translation": "凡雅威所喜悦的,他⟨都⟩做了 —— 在诸天和在⟨那⟩地、在海里和在一切的深渊中。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "חפץ",
-      "english": "喜悦的"
+      "gloss": "喜悦的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עשה",
-      "english": "做了"
+      "gloss": "做了"
     },
     {
       "surface": "בשמים",
-      "english": "在诸天"
+      "gloss": "在诸天"
     },
     {
       "surface": "ובארץ",
-      "english": "和在地"
+      "gloss": "和在地"
     },
     {
       "surface": "בימים",
-      "english": "在海里"
+      "gloss": "在海里"
     },
     {
       "surface": "וכל",
-      "english": "和在一切"
+      "gloss": "和在一切"
     },
     {
       "surface": "תהומות",
-      "english": "深渊中"
+      "gloss": "深渊中"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:50.986799509Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 97:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64593,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64941
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:47.747360331Z",
   "translation": "众山如蜡融化,在雅威面前,在全地之主面前。",
   "tokens": [
     {
       "surface": "הרים",
-      "english": "众山"
+      "gloss": "众山"
     },
     {
       "surface": "כדונג",
-      "english": "如蜡"
+      "gloss": "如蜡"
     },
     {
       "surface": "נמסו",
-      "english": "融化了"
+      "gloss": "融化了"
     },
     {
       "surface": "מלפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מלפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אדון",
-      "english": "主"
+      "gloss": "主"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:47.747360331Z",
-  "model": "glm-5.2"
+  ]
 }

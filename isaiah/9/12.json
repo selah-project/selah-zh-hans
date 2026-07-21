@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "isaiah 9:12",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20972,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21408
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:38:50.313823963Z",
   "translation": "而这百姓没有归回⟨归回⟩⟨归向⟩那击打他的,⟨את⟩万军之雅威他们没有寻求。",
   "tokens": [
     {
       "surface": "והעם",
-      "english": "而这百姓"
+      "gloss": "而这百姓"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "שב",
-      "english": "归回"
+      "gloss": "归回"
     },
     {
       "surface": "עד",
-      "english": "⟨归向⟩"
+      "gloss": "⟨归向⟩"
     },
     {
       "surface": "המכהו",
-      "english": "那击打他的"
+      "gloss": "那击打他的"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "万军之雅威"
+      "gloss": "万军之雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "דרשו",
-      "english": "寻求"
+      "gloss": "寻求"
     }
-  ],
-  "timestamp": "2026-07-17T21:38:50.313823963Z",
-  "model": "glm-5.2"
+  ]
 }

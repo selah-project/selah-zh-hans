@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "genesis 34:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 596,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23817,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24413
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:56:13.865791152Z",
   "translation": "雅各听见 ⟨他⟩ 玷污了 ⟨את⟩ 底拿他的女儿,而他的儿子们 ⟨正⟩ 与 ⟨את⟩ 他的牲畜在田野中,雅各就闭口不言,直到他们来到。",
   "tokens": [
     {
       "surface": "ויעקב",
-      "english": "而雅各"
+      "gloss": "而雅各"
     },
     {
       "surface": "שמע",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "כי",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "טמא",
-      "english": "玷污了"
+      "gloss": "玷污了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "底拿"
     },
     {
       "surface": "דינה",
-      "english": "底拿"
+      "gloss": "底拿"
     },
     {
       "surface": "בתו",
-      "english": "他的女儿"
+      "gloss": "他的女儿"
     },
     {
       "surface": "ובניו",
-      "english": "而他的儿子们"
+      "gloss": "而他的儿子们"
     },
     {
       "surface": "היו",
-      "english": "⟨正⟩"
+      "gloss": "⟨正⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的牲畜"
     },
     {
       "surface": "מקנהו",
-      "english": "他的牲畜"
+      "gloss": "他的牲畜"
     },
     {
       "surface": "בשדה",
-      "english": "在田野中"
+      "gloss": "在田野中"
     },
     {
       "surface": "והחרש",
-      "english": "就闭口不言"
+      "gloss": "就闭口不言"
     },
     {
       "surface": "יעקב",
-      "english": "雅各"
+      "gloss": "雅各"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "באם",
-      "english": "他们来到"
+      "gloss": "他们来到"
     }
-  ],
-  "timestamp": "2026-07-17T17:56:13.865791152Z",
-  "model": "glm-5.2"
+  ]
 }

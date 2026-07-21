@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 48:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23019,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23320
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:07:35.370482791Z",
   "translation": "约瑟将他们从他膝前带出,他便脸伏于地叩拜。",
   "tokens": [
     {
       "surface": "ויוצא",
-      "english": "带出"
+      "gloss": "带出"
     },
     {
       "surface": "יוסף",
-      "english": "约瑟"
+      "gloss": "约瑟"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "מעם",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "ברכיו",
-      "english": "他膝前"
+      "gloss": "他膝前"
     },
     {
       "surface": "וישתחו",
-      "english": "他便叩拜"
+      "gloss": "他便叩拜"
     },
     {
       "surface": "לאפיו",
-      "english": "脸伏于"
+      "gloss": "脸伏于"
     },
     {
       "surface": "ארצה",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T18:07:35.370482791Z",
-  "model": "glm-5.2"
+  ]
 }

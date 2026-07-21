@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 22:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20732,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21136
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:44:10.440430173Z",
   "translation": "事情就这样发生了：你谷地的精选之处⟨被⟩战车充满，骑兵们在城门处严阵以待。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情就这样发生了"
+      "gloss": "事情就这样发生了"
     },
     {
       "surface": "מבחר",
-      "english": "……的精选之处"
+      "gloss": "……的精选之处"
     },
     {
       "surface": "עמקיך",
-      "english": "你谷地"
+      "gloss": "你谷地"
     },
     {
       "surface": "מלאו",
-      "english": "充满"
+      "gloss": "充满"
     },
     {
       "surface": "רכב",
-      "english": "战车"
+      "gloss": "战车"
     },
     {
       "surface": "והפרשים",
-      "english": "骑兵们"
+      "gloss": "骑兵们"
     },
     {
       "surface": "שת",
-      "english": "（严阵以待）"
+      "gloss": "（严阵以待）"
     },
     {
       "surface": "שתו",
-      "english": "他们设置自己"
+      "gloss": "他们设置自己"
     },
     {
       "surface": "השערה",
-      "english": "在城门处"
+      "gloss": "在城门处"
     }
-  ],
-  "timestamp": "2026-07-17T21:44:10.440430173Z",
-  "model": "glm-5.2"
+  ]
 }

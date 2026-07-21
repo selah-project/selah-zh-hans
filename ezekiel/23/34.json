@@ -1,82 +1,71 @@
 {
-  "tier": "glm-5.2",
-  "verse": 34,
   "ref": "ezekiel 23:34",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 689,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19774,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20463
-  },
+  "verse": 34,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:54:08.923917640Z",
   "translation": "你必喝下它,吸干⟨את⟩它;⟨את⟩它的碎片你要啃尽,你的乳房你要撕掉,因为我——我已经说了,这是阿多奈雅威的神谕。",
   "tokens": [
     {
       "surface": "ושתית",
-      "english": "你必喝下"
+      "gloss": "你必喝下"
     },
     {
       "surface": "אותה",
-      "english": "⟨את⟩它",
+      "gloss": "⟨את⟩它",
       "marks": "所喝之物 (杯子)"
     },
     {
       "surface": "ומצית",
-      "english": "吸干"
+      "gloss": "吸干"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的碎片"
     },
     {
       "surface": "חרשיה",
-      "english": "它的碎片"
+      "gloss": "它的碎片"
     },
     {
       "surface": "תגרמי",
-      "english": "你要啃尽"
+      "gloss": "你要啃尽"
     },
     {
       "surface": "ושדיך",
-      "english": "你的乳房"
+      "gloss": "你的乳房"
     },
     {
       "surface": "תנתקי",
-      "english": "你要撕掉"
+      "gloss": "你要撕掉"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "דברתי",
-      "english": "我已经说了"
+      "gloss": "我已经说了"
     },
     {
       "surface": "נאם",
-      "english": "神谕"
+      "gloss": "神谕"
     },
     {
       "surface": "אדני",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-17T22:54:08.923917640Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-chronicles 25:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58459,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58824
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:09:28.972433444Z",
   "translation": "第九⟨位⟩属玛塔尼雅,他的儿子们和他的弟兄们,共十二人;",
   "tokens": [
     {
       "surface": "התשיעי",
-      "english": "第九⟨位⟩"
+      "gloss": "第九⟨位⟩"
     },
     {
       "surface": "מתניהו",
-      "english": "属玛塔尼雅"
+      "gloss": "属玛塔尼雅"
     },
     {
       "surface": "בניו",
-      "english": "他的儿子们"
+      "gloss": "他的儿子们"
     },
     {
       "surface": "ואחיו",
-      "english": "和他的弟兄们"
+      "gloss": "和他的弟兄们"
     },
     {
       "surface": "שנים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     }
-  ],
-  "timestamp": "2026-07-18T02:09:28.972433444Z",
-  "model": "glm-5.2"
+  ]
 }

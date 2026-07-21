@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "leviticus 21:9",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19522,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20067
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:55:06.787074047Z",
   "translation": "至于祭司的女儿,若她开始行淫乱,她⟨是⟩亵渎⟨了⟩她的父亲 —— ⟨את⟩她的父亲是她所亵渎的对象;她必被用火烧死。",
   "tokens": [
     {
       "surface": "ובת",
-      "english": "至于女儿"
+      "gloss": "至于女儿"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "כהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "כי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "תחל",
-      "english": "她开始"
+      "gloss": "她开始"
     },
     {
       "surface": "לזנות",
-      "english": "行淫乱"
+      "gloss": "行淫乱"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她的父亲"
     },
     {
       "surface": "אביה",
-      "english": "她的父亲"
+      "gloss": "她的父亲"
     },
     {
       "surface": "היא",
-      "english": "她"
+      "gloss": "她"
     },
     {
       "surface": "מחללת",
-      "english": "亵渎"
+      "gloss": "亵渎"
     },
     {
       "surface": "באש",
-      "english": "用火"
+      "gloss": "用火"
     },
     {
       "surface": "תשרף",
-      "english": "必被烧"
+      "gloss": "必被烧"
     }
-  ],
-  "timestamp": "2026-07-17T18:55:06.787074047Z",
-  "model": "glm-5.2"
+  ]
 }

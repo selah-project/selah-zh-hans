@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "leviticus 18:2",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19104,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19462
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:52:31.107188306Z",
   "translation": "你要对以色列人说话,对他们说:我是雅威,⟨我是⟩你们的以罗欣。",
   "tokens": [
     {
       "surface": "דבר",
-      "english": "你要……说话"
+      "gloss": "你要……说话"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בני",
-      "english": "以色列人 (字面:……的儿子们)"
+      "gloss": "以色列人 (字面:……的儿子们)"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ואמרת",
-      "english": "并你要说"
+      "gloss": "并你要说"
     },
     {
       "surface": "אלהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T18:52:31.107188306Z",
-  "model": "glm-5.2"
+  ]
 }

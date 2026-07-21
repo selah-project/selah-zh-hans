@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "job 5:24",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21728,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22154
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:47.146834511Z",
   "translation": "你就必知道你的帐棚 ⟨是⟩ 平安;你必察看你的居所,也不 ⟨会⟩ 缺失什么。",
   "tokens": [
     {
       "surface": "וידעת",
-      "english": "你就必知道"
+      "gloss": "你就必知道"
     },
     {
       "surface": "כי",
-      "english": "(连词)"
+      "gloss": "(连词)"
     },
     {
       "surface": "שלום",
-      "english": "平安"
+      "gloss": "平安"
     },
     {
       "surface": "אהלך",
-      "english": "你的帐棚"
+      "gloss": "你的帐棚"
     },
     {
       "surface": "ופקדת",
-      "english": "你必察看"
+      "gloss": "你必察看"
     },
     {
       "surface": "נוך",
-      "english": "你的居所"
+      "gloss": "你的居所"
     },
     {
       "surface": "ולא",
-      "english": "也不"
+      "gloss": "也不"
     },
     {
       "surface": "תחטא",
-      "english": "缺失(什么)"
+      "gloss": "缺失(什么)"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:47.146834511Z",
-  "model": "glm-5.2"
+  ]
 }

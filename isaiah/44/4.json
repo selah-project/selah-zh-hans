@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 44:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20489,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20906
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:55:32.565754516Z",
   "translation": "他们必在青草间⟨萌发⟩,如水道的溪流旁的柳树。",
   "tokens": [
     {
       "surface": "וְ\/צָמְח֖וּ",
-      "english": "他们必……⟨萌发⟩"
+      "gloss": "他们必……⟨萌发⟩"
     },
     {
       "surface": "בְּ\/בֵ֣ין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "חָצִ֑יר",
-      "english": "青草"
+      "gloss": "青草"
     },
     {
       "surface": "כַּ\/עֲרָבִ֖ים",
-      "english": "如柳树"
+      "gloss": "如柳树"
     },
     {
       "surface": "עַל",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "יִבְלֵי",
-      "english": "水道的"
+      "gloss": "水道的"
     },
     {
       "surface": "מָֽיִם",
-      "english": "水"
+      "gloss": "水"
     }
-  ],
-  "timestamp": "2026-07-17T21:55:32.565754516Z",
-  "model": "glm-5.2"
+  ]
 }

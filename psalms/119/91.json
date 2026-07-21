@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 91,
   "ref": "psalms 119:91",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64294,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64613
-  },
+  "verse": 91,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:16.817597654Z",
   "translation": "你的判语确立 ⟨到⟩ ⟨这⟩ 日，因为 ⟨万有⟩ 都是你的仆人。",
   "tokens": [
     {
       "surface": "למשפטיך",
-      "english": "你的判语"
+      "gloss": "你的判语"
     },
     {
       "surface": "עמדו",
-      "english": "确立"
+      "gloss": "确立"
     },
     {
       "surface": "היום",
-      "english": "这日"
+      "gloss": "这日"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הכל",
-      "english": "万有"
+      "gloss": "万有"
     },
     {
       "surface": "עבדיך",
-      "english": "是你的仆人"
+      "gloss": "是你的仆人"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:16.817597654Z",
-  "model": "glm-5.2"
+  ]
 }

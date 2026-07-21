@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 9:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21463,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21818
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:43.786555979Z",
   "translation": "他⟨那⟩撼动大地离其本位，其柱子⟨就⟩战栗颤抖的，",
   "tokens": [
     {
       "surface": "המרגיז",
-      "english": "⟨那⟩撼动的"
+      "gloss": "⟨那⟩撼动的"
     },
     {
       "surface": "ארץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "ממקומה",
-      "english": "离其本位"
+      "gloss": "离其本位"
     },
     {
       "surface": "ועמודיה",
-      "english": "其柱子⟨就⟩"
+      "gloss": "其柱子⟨就⟩"
     },
     {
       "surface": "יתפלצון",
-      "english": "战栗颤抖"
+      "gloss": "战栗颤抖"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:43.786555979Z",
-  "model": "glm-5.2"
+  ]
 }

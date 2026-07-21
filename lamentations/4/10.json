@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "lamentations 4:10",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 34005,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 34577
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:16:24.258041319Z",
   "translation": "慈悲⟨的⟩妇人之手煮了她们自己⟨的⟩孩子；在⟨我⟩民之女⟨的⟩碎裂中，他们成了她们的⟨食物⟩。",
   "tokens": [
     {
       "surface": "ידי",
-      "english": "之手"
+      "gloss": "之手"
     },
     {
       "surface": "נשים",
-      "english": "妇人"
+      "gloss": "妇人"
     },
     {
       "surface": "רחמניות",
-      "english": "慈悲⟨的⟩"
+      "gloss": "慈悲⟨的⟩"
     },
     {
       "surface": "בשלו",
-      "english": "煮了"
+      "gloss": "煮了"
     },
     {
       "surface": "ילדיהן",
-      "english": "她们自己⟨的⟩孩子"
+      "gloss": "她们自己⟨的⟩孩子"
     },
     {
       "surface": "היו",
-      "english": "成了"
+      "gloss": "成了"
     },
     {
       "surface": "לברות",
-      "english": "⟨食物⟩"
+      "gloss": "⟨食物⟩"
     },
     {
       "surface": "למו",
-      "english": "她们的"
+      "gloss": "她们的"
     },
     {
       "surface": "בשבר",
-      "english": "在⟨……⟩碎裂中"
+      "gloss": "在⟨……⟩碎裂中"
     },
     {
       "surface": "בת",
-      "english": "之女"
+      "gloss": "之女"
     },
     {
       "surface": "עמי",
-      "english": "⟨我⟩民"
+      "gloss": "⟨我⟩民"
     }
-  ],
-  "timestamp": "2026-07-18T03:16:24.258041319Z",
-  "model": "glm-5.2"
+  ]
 }

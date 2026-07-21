@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 1,
   "ref": "2-chronicles 33:1",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 411,
-    "prompt_tokens": 59967,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60378
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:29:58.035686687Z",
   "translation": "玛拿西 ⟨是⟩ 十二岁 ⟨时开始⟩ 作王,在耶路撒冷作王五十五年",
   "tokens": [
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "שתים",
-      "english": "十二"
+      "gloss": "十二"
     },
     {
       "surface": "עשרה",
-      "english": "岁"
+      "gloss": "岁"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "מנשה",
-      "english": "玛拿西"
+      "gloss": "玛拿西"
     },
     {
       "surface": "במלכו",
-      "english": "⟨时开始⟩ 作王"
+      "gloss": "⟨时开始⟩ 作王"
     },
     {
       "surface": "ו",
-      "english": "⟨and⟩"
+      "gloss": "⟨and⟩"
     },
     {
       "surface": "חמשים",
-      "english": "五十"
+      "gloss": "五十"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "מלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "בירושלם",
-      "english": "在耶路撒冷"
+      "gloss": "在耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-21T13:29:58.035686687Z",
-  "model": "glm-4.5"
+  ]
 }

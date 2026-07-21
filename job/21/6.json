@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "job 21:6",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21509,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21817
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:16.233263841Z",
   "translation": "即使我记念,我就惊惶,战栗就抓住我的肉身 —— 恐怖。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "即使"
+      "gloss": "即使"
     },
     {
       "surface": "זכרתי",
-      "english": "我记念"
+      "gloss": "我记念"
     },
     {
       "surface": "ונבהלתי",
-      "english": "我就惊惶"
+      "gloss": "我就惊惶"
     },
     {
       "surface": "ואחז",
-      "english": "就抓住"
+      "gloss": "就抓住"
     },
     {
       "surface": "בשרי",
-      "english": "我的肉身"
+      "gloss": "我的肉身"
     },
     {
       "surface": "פלצות",
-      "english": "恐怖"
+      "gloss": "恐怖"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:16.233263841Z",
-  "model": "glm-5.2"
+  ]
 }

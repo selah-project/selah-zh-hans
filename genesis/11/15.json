@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "genesis 11:15",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23456,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23859
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:24.078266137Z",
   "translation": "沙拉 在生下 ⟨את⟩ 以伯 之后又活了三百零三年，并生了儿子和女儿。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "又活了"
+      "gloss": "又活了"
     },
     {
       "surface": "שלח",
-      "english": "沙拉"
+      "gloss": "沙拉"
     },
     {
       "surface": "אחרי",
-      "english": "在……之后"
+      "gloss": "在……之后"
     },
     {
       "surface": "הולידו",
-      "english": "他生下"
+      "gloss": "他生下"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "עבר"
     },
     {
       "surface": "עבר",
-      "english": "以伯"
+      "gloss": "以伯"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "וארבע",
-      "english": "和四百"
+      "gloss": "和四百"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ויולד",
-      "english": "并生了"
+      "gloss": "并生了"
     },
     {
       "surface": "בנים",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "ובנות",
-      "english": "和女儿们"
+      "gloss": "和女儿们"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:24.078266137Z",
-  "model": "glm-5.2"
+  ]
 }

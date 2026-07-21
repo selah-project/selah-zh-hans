@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "leviticus 10:7",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 564,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19789,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20353
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:54.987696009Z",
   "translation": "你们不可从会幕的门口出去，免得你们死亡；因为雅威的膏立之油在你们身上。他们就照摩西的*davar*行了。",
   "tokens": [
     {
       "surface": "ומפתח",
-      "english": "你们不可从……门口"
+      "gloss": "你们不可从……门口"
     },
     {
       "surface": "אהל",
-      "english": "帐幕"
+      "gloss": "帐幕"
     },
     {
       "surface": "מועד",
-      "english": "会"
+      "gloss": "会"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "תצאו",
-      "english": "你们出去"
+      "gloss": "你们出去"
     },
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "תמתו",
-      "english": "你们死亡"
+      "gloss": "你们死亡"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "שמן",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "משחת",
-      "english": "膏立的"
+      "gloss": "膏立的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עליכם",
-      "english": "在你们身上"
+      "gloss": "在你们身上"
     },
     {
       "surface": "ויעשו",
-      "english": "他们就……行了"
+      "gloss": "他们就……行了"
     },
     {
       "surface": "כדבר",
-      "english": "照……*davar*（话语）"
+      "gloss": "照……*davar*（话语）"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:54.987696009Z",
-  "model": "glm-5.2"
+  ]
 }

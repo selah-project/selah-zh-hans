@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jonah 1:2",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 470,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21505,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21975
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:23.139553379Z",
   "translation": "起来,去吧,往尼尼微 ⟨这⟩ 大城去,向它呼求宣告,因为它们的恶已经上到 ⟨我⟩ 面前。",
   "tokens": [
     {
       "surface": "קום",
-      "english": "起来"
+      "gloss": "起来"
     },
     {
       "surface": "לך",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "אל",
-      "english": "往"
+      "gloss": "往"
     },
     {
       "surface": "נינוה",
-      "english": "尼尼微"
+      "gloss": "尼尼微"
     },
     {
       "surface": "העיר",
-      "english": "⟨这⟩ 城"
+      "gloss": "⟨这⟩ 城"
     },
     {
       "surface": "הגדולה",
-      "english": "大"
+      "gloss": "大"
     },
     {
       "surface": "וקרא",
-      "english": "向它呼求宣告"
+      "gloss": "向它呼求宣告"
     },
     {
       "surface": "עליה",
-      "english": "反对它"
+      "gloss": "反对它"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עלתה",
-      "english": "已经上到"
+      "gloss": "已经上到"
     },
     {
       "surface": "רעתם",
-      "english": "它们的恶"
+      "gloss": "它们的恶"
     },
     {
       "surface": "לפני",
-      "english": "⟨我⟩ 面前"
+      "gloss": "⟨我⟩ 面前"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:23.139553379Z",
-  "model": "glm-5.2"
+  ]
 }

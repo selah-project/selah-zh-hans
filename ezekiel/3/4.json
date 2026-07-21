@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezekiel 3:4",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19256,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19625
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:41:05.466196476Z",
   "translation": "他对我说：人子啊，你去，进以色列家去，用我的*话*对他们说。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אלי",
-      "english": "对我说"
+      "gloss": "对我说"
     },
     {
       "surface": "בן",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "לך",
-      "english": "你去"
+      "gloss": "你去"
     },
     {
       "surface": "בא",
-      "english": "进"
+      "gloss": "进"
     },
     {
       "surface": "אל",
-      "english": "⟨到⟩"
+      "gloss": "⟨到⟩"
     },
     {
       "surface": "בית",
-      "english": "家"
+      "gloss": "家"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ודברת",
-      "english": "你要说"
+      "gloss": "你要说"
     },
     {
       "surface": "בדברי",
-      "english": "用我的*davar*"
+      "gloss": "用我的*davar*"
     },
     {
       "surface": "אליהם",
-      "english": "对他们"
+      "gloss": "对他们"
     }
-  ],
-  "timestamp": "2026-07-17T22:41:05.466196476Z",
-  "model": "glm-5.2"
+  ]
 }

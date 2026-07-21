@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 12:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20661,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21089
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:40:22.995813780Z",
   "translation": "向雅威歌唱吧，因为他行了崇高的事；使这事在全地被知道。",
   "tokens": [
     {
       "surface": "זמרו",
-      "english": "向雅威歌唱吧"
+      "gloss": "向雅威歌唱吧"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "גאות",
-      "english": "崇高的事"
+      "gloss": "崇高的事"
     },
     {
       "surface": "עשה",
-      "english": "行了"
+      "gloss": "行了"
     },
     {
       "surface": "מידעת",
-      "english": "使被知道"
+      "gloss": "使被知道"
     },
     {
       "surface": "זאת",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "בכל",
-      "english": "在全"
+      "gloss": "在全"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     }
-  ],
-  "timestamp": "2026-07-17T21:40:22.995813780Z",
-  "model": "glm-5.2"
+  ]
 }

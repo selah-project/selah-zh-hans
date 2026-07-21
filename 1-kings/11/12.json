@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-kings 11:12",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 478,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64180,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64658
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:06:26.893533358Z",
   "translation": "然而在你 ⟨的⟩ 日子 ⟨里⟩ 我必不 ⟨行⟩ 这事，为了你父亲大卫 ⟨的缘故⟩；我必从你儿子手中将它撕裂。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "然而"
+      "gloss": "然而"
     },
     {
       "surface": "בימיך",
-      "english": "在你 ⟨的⟩ 日子 ⟨里⟩"
+      "gloss": "在你 ⟨的⟩ 日子 ⟨里⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "אעשנה",
-      "english": "我必不 ⟨行⟩ 这事"
+      "gloss": "我必不 ⟨行⟩ 这事"
     },
     {
       "surface": "למען",
-      "english": "为了…… ⟨的缘故⟩"
+      "gloss": "为了…… ⟨的缘故⟩"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "אביך",
-      "english": "你父亲"
+      "gloss": "你父亲"
     },
     {
       "surface": "מיד",
-      "english": "从……手中"
+      "gloss": "从……手中"
     },
     {
       "surface": "בנך",
-      "english": "你儿子"
+      "gloss": "你儿子"
     },
     {
       "surface": "אקרענה",
-      "english": "我必将它撕裂"
+      "gloss": "我必将它撕裂"
     }
-  ],
-  "timestamp": "2026-07-17T21:06:26.893533358Z",
-  "model": "glm-5.2"
+  ]
 }

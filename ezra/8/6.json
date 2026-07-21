@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "ezra 8:6",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 296,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46449,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46745
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:40:35.762041933Z",
   "translation": "从亚丁的子孙中,⟨有⟩仆人,约拿单的儿子,与他同行的有五十名男性;",
   "tokens": [
     {
       "surface": "ומבני",
-      "english": "从……的子孙中"
+      "gloss": "从……的子孙中"
     },
     {
       "surface": "עדין",
-      "english": "亚丁"
+      "gloss": "亚丁"
     },
     {
       "surface": "עבד",
-      "english": "仆人"
+      "gloss": "仆人"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "יונתן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "ועמו",
-      "english": "与他同行的有"
+      "gloss": "与他同行的有"
     },
     {
       "surface": "חמשים",
-      "english": "五十"
+      "gloss": "五十"
     },
     {
       "surface": "הזכרים",
-      "english": "男性"
+      "gloss": "男性"
     }
-  ],
-  "timestamp": "2026-07-18T01:40:35.762041933Z",
-  "model": "glm-5.2"
+  ]
 }

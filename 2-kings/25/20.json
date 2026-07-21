@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "2-kings 25:20",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18926,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19348
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:34:04.683756251Z",
   "translation": "尼布撒拉旦,侍卫长,带了⟨את⟩他们,并将⟨את⟩他们带到巴比伦王那里,在利比拉。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "带了"
+      "gloss": "带了"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "נבוזראדן",
-      "english": "尼布撒拉旦"
+      "gloss": "尼布撒拉旦"
     },
     {
       "surface": "רב",
-      "english": "长"
+      "gloss": "长"
     },
     {
       "surface": "טבחים",
-      "english": "侍卫"
+      "gloss": "侍卫"
     },
     {
       "surface": "וילך",
-      "english": "并将……带"
+      "gloss": "并将……带"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "על",
-      "english": "到……那里"
+      "gloss": "到……那里"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "בבל",
-      "english": "巴比伦"
+      "gloss": "巴比伦"
     },
     {
       "surface": "רבלתה",
-      "english": "在利比拉"
+      "gloss": "在利比拉"
     }
-  ],
-  "timestamp": "2026-07-17T21:34:04.683756251Z",
-  "model": "glm-5.2"
+  ]
 }

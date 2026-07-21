@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 13:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 586,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23806,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24392
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:40:21.963177654Z",
   "translation": "我必将⟨את⟩你的后裔设立为如地的尘土一般;若有人能数算⟨את⟩地的尘土,你的后裔也能被数算。",
   "tokens": [
     {
       "surface": "ושמתי",
-      "english": "我必将……设立"
+      "gloss": "我必将……设立"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的后裔"
     },
     {
       "surface": "זרעך",
-      "english": "你的后裔"
+      "gloss": "你的后裔"
     },
     {
       "surface": "כעפר",
-      "english": "如……的尘土"
+      "gloss": "如……的尘土"
     },
     {
       "surface": "הארץ",
-      "english": "地的"
+      "gloss": "地的"
     },
     {
       "surface": "אשר",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "אם",
-      "english": "（若）"
+      "gloss": "（若）"
     },
     {
       "surface": "יוכל",
-      "english": "能"
+      "gloss": "能"
     },
     {
       "surface": "איש",
-      "english": "有人"
+      "gloss": "有人"
     },
     {
       "surface": "למנות",
-      "english": "数算"
+      "gloss": "数算"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "地的尘土"
     },
     {
       "surface": "עפר",
-      "english": "尘土"
+      "gloss": "尘土"
     },
     {
       "surface": "הארץ",
-      "english": "地的"
+      "gloss": "地的"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "זרעך",
-      "english": "你的后裔"
+      "gloss": "你的后裔"
     },
     {
       "surface": "ימנה",
-      "english": "能被数算"
+      "gloss": "能被数算"
     }
-  ],
-  "timestamp": "2026-07-17T17:40:21.963177654Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 38:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20848,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21342
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:27.070320992Z",
   "translation": "我曾说:在我日子的中断中,我要前往阴间之门;我被剥夺了我余剩的年岁。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "אמרתי",
-      "english": "曾说"
+      "gloss": "曾说"
     },
     {
       "surface": "בדמי",
-      "english": "在我日子的中断中"
+      "gloss": "在我日子的中断中"
     },
     {
       "surface": "ימי",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "אלכה",
-      "english": "我要前往"
+      "gloss": "我要前往"
     },
     {
       "surface": "בשערי",
-      "english": "在……之门"
+      "gloss": "在……之门"
     },
     {
       "surface": "שאול",
-      "english": "阴间"
+      "gloss": "阴间"
     },
     {
       "surface": "פקדתי",
-      "english": "我被剥夺(数算)"
+      "gloss": "我被剥夺(数算)"
     },
     {
       "surface": "יתר",
-      "english": "余剩"
+      "gloss": "余剩"
     },
     {
       "surface": "שנותי",
-      "english": "我的年岁"
+      "gloss": "我的年岁"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:27.070320992Z",
-  "model": "glm-5.2"
+  ]
 }

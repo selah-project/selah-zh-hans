@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "2-chronicles 15:18",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59940,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60357
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:22:22.103572095Z",
   "translation": "他将他父亲的分别为圣之物和他自己的分别为圣之物带进以罗欣的殿——银、金和器具。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "他带入"
+      "gloss": "他带入"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他父亲的分别为圣之物"
     },
     {
       "surface": "קדשי",
-      "english": "分别为圣之物"
+      "gloss": "分别为圣之物"
     },
     {
       "surface": "אביו",
-      "english": "他父亲的"
+      "gloss": "他父亲的"
     },
     {
       "surface": "וקדשיו",
-      "english": "和他自己的分别为圣之物"
+      "gloss": "和他自己的分别为圣之物"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "כסף",
-      "english": "银"
+      "gloss": "银"
     },
     {
       "surface": "וזהב",
-      "english": "和金"
+      "gloss": "和金"
     },
     {
       "surface": "וכלים",
-      "english": "和器具"
+      "gloss": "和器具"
     }
-  ],
-  "timestamp": "2026-07-18T02:22:22.103572095Z",
-  "model": "glm-5.2"
+  ]
 }

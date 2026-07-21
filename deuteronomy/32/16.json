@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "deuteronomy 32:16",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 464,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18927,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19391
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:48:17.943783971Z",
   "translation": "他们用外邦的 ⟨אֵל⟩ 激起雅威的妒火，用可憎之物惹动他的怒气。",
   "tokens": [
     {
       "surface": "יקנאהו",
-      "english": "他们激起他的妒火"
+      "gloss": "他们激起他的妒火"
     },
     {
       "surface": "בזרים",
-      "english": "用外邦的"
+      "gloss": "用外邦的"
     },
     {
       "surface": "בתועבת",
-      "english": "用可憎之物"
+      "gloss": "用可憎之物"
     },
     {
       "surface": "יכעיסהו",
-      "english": "他们惹动他的怒气"
+      "gloss": "他们惹动他的怒气"
     }
-  ],
-  "timestamp": "2026-07-17T19:48:17.943783971Z",
-  "model": "glm-5.2"
+  ]
 }

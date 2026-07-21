@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "joshua 9:26",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18199,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18580
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:47:37.788577288Z",
   "translation": "他向他们这样行了,救了他们脱离以色列子民的手,他们就没有杀他们。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他……行了"
+      "gloss": "他……行了"
     },
     {
       "surface": "להם",
-      "english": "向他们"
+      "gloss": "向他们"
     },
     {
       "surface": "כן",
-      "english": "这样"
+      "gloss": "这样"
     },
     {
       "surface": "ויצל",
-      "english": "并救了"
+      "gloss": "并救了"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "מיד",
-      "english": "脱离……的手"
+      "gloss": "脱离……的手"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ולא",
-      "english": "就没有"
+      "gloss": "就没有"
     },
     {
       "surface": "הרגום",
-      "english": "杀他们"
+      "gloss": "杀他们"
     }
-  ],
-  "timestamp": "2026-07-18T02:47:37.788577288Z",
-  "model": "glm-5.2"
+  ]
 }

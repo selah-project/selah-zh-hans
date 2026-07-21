@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 10:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64259,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64656
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:17.957561017Z",
   "translation": "他击碎，⟨他⟩屈身蹲伏，穷困的弱者⟨们⟩就因他的大能坠倒。",
   "tokens": [
     {
       "surface": "ודכה",
-      "english": "他击碎"
+      "gloss": "他击碎"
     },
     {
       "surface": "ישח",
-      "english": "⟨他⟩屈身蹲伏"
+      "gloss": "⟨他⟩屈身蹲伏"
     },
     {
       "surface": "ונפל",
-      "english": "就坠倒"
+      "gloss": "就坠倒"
     },
     {
       "surface": "בעצומיו",
-      "english": "因他的大能"
+      "gloss": "因他的大能"
     },
     {
       "surface": "חלכאים",
-      "english": "穷困的弱者⟨们⟩"
+      "gloss": "穷困的弱者⟨们⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:17.957561017Z",
-  "model": "glm-5.2"
+  ]
 }

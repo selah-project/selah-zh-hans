@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 14:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21598,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21926
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:05.644121965Z",
   "translation": "若它的根在土中老去,它的干在尘土中死去,",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "יזקין",
-      "english": "老去"
+      "gloss": "老去"
     },
     {
       "surface": "בארץ",
-      "english": "在土中"
+      "gloss": "在土中"
     },
     {
       "surface": "שרשו",
-      "english": "它的根"
+      "gloss": "它的根"
     },
     {
       "surface": "ובעפר",
-      "english": "在尘土中"
+      "gloss": "在尘土中"
     },
     {
       "surface": "ימות",
-      "english": "死去"
+      "gloss": "死去"
     },
     {
       "surface": "גזעו",
-      "english": "它的干"
+      "gloss": "它的干"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:05.644121965Z",
-  "model": "glm-5.2"
+  ]
 }

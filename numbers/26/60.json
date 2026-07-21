@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 60,
   "ref": "numbers 26:60",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19965,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20412
-  },
+  "verse": 60,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:19:44.209225230Z",
   "translation": "给亚伦生了⟨את⟩拿答和⟨את⟩亚比户,⟨את⟩以利亚撒和⟨את⟩以他玛。",
   "tokens": [
     {
       "surface": "ויולד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "לאהרן",
-      "english": "给亚伦"
+      "gloss": "给亚伦"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "拿答"
     },
     {
       "surface": "נדב",
-      "english": "拿答"
+      "gloss": "拿答"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "亚比户"
     },
     {
       "surface": "אביהוא",
-      "english": "亚比户"
+      "gloss": "亚比户"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以利亚撒"
     },
     {
       "surface": "אלעזר",
-      "english": "以利亚撒"
+      "gloss": "以利亚撒"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "以他玛"
     },
     {
       "surface": "איתמר",
-      "english": "以他玛"
+      "gloss": "以他玛"
     }
-  ],
-  "timestamp": "2026-07-17T19:19:44.209225230Z",
-  "model": "glm-5.2"
+  ]
 }

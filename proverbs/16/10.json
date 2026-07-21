@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "proverbs 16:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 434,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54476,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54910
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:52.995709867Z",
   "translation": "占卜⟨是⟩在君王的嘴唇上;在审判中,他的口不可不忠。",
   "tokens": [
     {
       "surface": "קסם",
-      "english": "占卜"
+      "gloss": "占卜"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "שפתי",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "מלך",
-      "english": "君王"
+      "gloss": "君王"
     },
     {
       "surface": "במשפט",
-      "english": "在审判中"
+      "gloss": "在审判中"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ימעל",
-      "english": "行诡诈\/不忠"
+      "gloss": "行诡诈\/不忠"
     },
     {
       "surface": "פיו",
-      "english": "他的口"
+      "gloss": "他的口"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:52.995709867Z",
-  "model": "glm-5.2"
+  ]
 }

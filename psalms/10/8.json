@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 10:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64761,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65173
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:20.329244866Z",
   "translation": "他坐在庭院的埋伏处；在隐密处他杀害无辜的人；他的眼⟨目⟩紧盯无助的人——他们暗中窥探。",
   "tokens": [
     {
       "surface": "ישב",
-      "english": "他坐在"
+      "gloss": "他坐在"
     },
     {
       "surface": "במארב",
-      "english": "庭院的埋伏处"
+      "gloss": "庭院的埋伏处"
     },
     {
       "surface": "חצרים",
-      "english": "（村庄）"
+      "gloss": "（村庄）"
     },
     {
       "surface": "במסתרים",
-      "english": "在隐密处"
+      "gloss": "在隐密处"
     },
     {
       "surface": "יהרג",
-      "english": "他杀害"
+      "gloss": "他杀害"
     },
     {
       "surface": "נקי",
-      "english": "无辜的人"
+      "gloss": "无辜的人"
     },
     {
       "surface": "עיניו",
-      "english": "他的眼"
+      "gloss": "他的眼"
     },
     {
       "surface": "לחלכה",
-      "english": "紧盯无助的人"
+      "gloss": "紧盯无助的人"
     },
     {
       "surface": "יצפנו",
-      "english": "他们暗中窥探"
+      "gloss": "他们暗中窥探"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:20.329244866Z",
-  "model": "glm-5.2"
+  ]
 }

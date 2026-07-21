@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "exodus 19:4",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 697,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19169,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19866
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:23:01.205429899Z",
   "translation": "你们看见了⟨那⟩我所行于埃及的，而我背负⟨את⟩你们在鹰的翅膀上，我领⟨את⟩你们归我自己。”",
   "tokens": [
     {
       "surface": "אַתֶּ֣ם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "רְאִיתֶ֔ם",
-      "english": "看见了"
+      "gloss": "看见了"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "עָשִׂ֖יתִי",
-      "english": "我所行"
+      "gloss": "我所行"
     },
     {
       "surface": "לְ\/מִצְרָ֑יִם",
-      "english": "于埃及的"
+      "gloss": "于埃及的"
     },
     {
       "surface": "וָ\/אֶשָּׂ֤א",
-      "english": "而我背负"
+      "gloss": "而我背负"
     },
     {
       "surface": "אֶתְ\/כֶם֙",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כַּנְפֵ֣י",
-      "english": "翅膀"
+      "gloss": "翅膀"
     },
     {
       "surface": "נְשָׁרִ֔ים",
-      "english": "鹰的"
+      "gloss": "鹰的"
     },
     {
       "surface": "וָ\/אָבִ֥א",
-      "english": "我领"
+      "gloss": "我领"
     },
     {
       "surface": "אֶתְ\/כֶ֖ם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "אֵלָֽ\/י",
-      "english": "归我自己"
+      "gloss": "归我自己"
     }
-  ],
-  "timestamp": "2026-07-17T18:23:01.205429899Z",
-  "model": "glm-5.2"
+  ]
 }

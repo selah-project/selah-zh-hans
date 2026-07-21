@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 47:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 47,
-  "usage": {
-    "completion_tokens": 635,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21138,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21773
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:55:48.789048568Z",
   "translation": "你说：⟨我⟩将永远⟨是⟩女主人，⟨以致⟩你没有把这些事放在心上，你也没有记念它的结局。",
   "tokens": [
     {
       "surface": "ותאמרי",
-      "english": "你说"
+      "gloss": "你说"
     },
     {
       "surface": "לעולם",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "אהיה",
-      "english": "⟨我⟩将⟨是⟩"
+      "gloss": "⟨我⟩将⟨是⟩"
     },
     {
       "surface": "גברת",
-      "english": "女主人"
+      "gloss": "女主人"
     },
     {
       "surface": "עד",
-      "english": "⟨以致⟩"
+      "gloss": "⟨以致⟩"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "שמת",
-      "english": "你放"
+      "gloss": "你放"
     },
     {
       "surface": "אלה",
-      "english": "这些事"
+      "gloss": "这些事"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "זכרת",
-      "english": "你记念"
+      "gloss": "你记念"
     },
     {
       "surface": "אחריתה",
-      "english": "它的结局"
+      "gloss": "它的结局"
     }
-  ],
-  "timestamp": "2026-07-18T02:55:48.789048568Z",
-  "model": "glm-5.2"
+  ]
 }

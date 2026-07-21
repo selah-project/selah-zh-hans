@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 109:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64381,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:21.922834063Z",
   "translation": "他受审时,愿恶人出去;愿他的祈祷⟨变为⟩罪。",
   "tokens": [
     {
       "surface": "בְּהִשָּׁפְטוֹ",
-      "english": "他受审时"
+      "gloss": "他受审时"
     },
     {
       "surface": "יֵצֵא",
-      "english": "愿……出去"
+      "gloss": "愿……出去"
     },
     {
       "surface": "רָשָׁע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "וּתְפִלָּתוֹ",
-      "english": "愿他的祈祷"
+      "gloss": "愿他的祈祷"
     },
     {
       "surface": "תִּהְיֶה",
-      "english": "⟨变为⟩"
+      "gloss": "⟨变为⟩"
     },
     {
       "surface": "לַחֲטָאָה",
-      "english": "罪"
+      "gloss": "罪"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:21.922834063Z",
-  "model": "glm-5.2"
+  ]
 }

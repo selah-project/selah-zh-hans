@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "numbers 7:7",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19982,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20357
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:05:17.253859360Z",
   "translation": "⟨את⟩ 两辆牛车和 ⟨את⟩ 四头牛，他给了革顺的子，照他们服侍的份量。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "两辆牛车"
     },
     {
       "surface": "שתי",
-      "english": "两辆"
+      "gloss": "两辆"
     },
     {
       "surface": "העגלת",
-      "english": "牛车"
+      "gloss": "牛车"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "四头牛"
     },
     {
       "surface": "ארבעת",
-      "english": "四头"
+      "gloss": "四头"
     },
     {
       "surface": "הבקר",
-      "english": "牛"
+      "gloss": "牛"
     },
     {
       "surface": "נתן",
-      "english": "他给了"
+      "gloss": "他给了"
     },
     {
       "surface": "לבני",
-      "english": "给……的子"
+      "gloss": "给……的子"
     },
     {
       "surface": "גרשון",
-      "english": "革顺"
+      "gloss": "革顺"
     },
     {
       "surface": "כפי",
-      "english": "照……的份量"
+      "gloss": "照……的份量"
     },
     {
       "surface": "עבדתם",
-      "english": "他们服侍"
+      "gloss": "他们服侍"
     }
-  ],
-  "timestamp": "2026-07-17T19:05:17.253859360Z",
-  "model": "glm-5.2"
+  ]
 }

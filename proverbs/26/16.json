@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 26:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54328,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54863
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:54.555746477Z",
   "translation": "懒散人⟨是⟩在自己眼中比七个人——能回转⟨出⟩判断的——更有智慧。",
   "tokens": [
     {
       "surface": "חכם",
-      "english": "更有智慧"
+      "gloss": "更有智慧"
     },
     {
       "surface": "עצל",
-      "english": "懒散人"
+      "gloss": "懒散人"
     },
     {
       "surface": "בעיניו",
-      "english": "在自己眼中"
+      "gloss": "在自己眼中"
     },
     {
       "surface": "משבעה",
-      "english": "比七个人"
+      "gloss": "比七个人"
     },
     {
       "surface": "משיבי",
-      "english": "能回转"
+      "gloss": "能回转"
     },
     {
       "surface": "טעם",
-      "english": "判断"
+      "gloss": "判断"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:54.555746477Z",
-  "model": "glm-5.2"
+  ]
 }

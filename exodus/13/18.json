@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 13:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19212,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19757
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:03:22.373033746Z",
   "translation": "以罗欣使 ⟨את⟩ ⟨那⟩百姓绕行,走旷野的路,⟨往⟩芦苇海;以色列的子民以五重阵型从埃及地上去。",
   "tokens": [
     {
       "surface": "ויסב",
-      "english": "使……绕行"
+      "gloss": "使……绕行"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩百姓"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "דרך",
-      "english": "走……的路"
+      "gloss": "走……的路"
     },
     {
       "surface": "המדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     },
     {
       "surface": "ים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוף",
-      "english": "芦苇"
+      "gloss": "芦苇"
     },
     {
       "surface": "וחמשים",
-      "english": "以五重阵型"
+      "gloss": "以五重阵型"
     },
     {
       "surface": "עלו",
-      "english": "上去"
+      "gloss": "上去"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     }
-  ],
-  "timestamp": "2026-07-20T15:03:22.373033746Z",
-  "model": "glm-5.2"
+  ]
 }

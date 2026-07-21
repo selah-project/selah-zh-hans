@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 69:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 408,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64595,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65003
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:58.104854759Z",
   "translation": "因为他们追逐⟨你⟩所击打的人，向⟨你⟩所刺透之人的伤痛添言加害。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אתה",
-      "english": "⟨你⟩"
+      "gloss": "⟨你⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨所⟩"
+      "gloss": "⟨所⟩"
     },
     {
       "surface": "הכית",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "רדפו",
-      "english": "他们追逐"
+      "gloss": "他们追逐"
     },
     {
       "surface": "ואל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "מכאוב",
-      "english": "伤痛"
+      "gloss": "伤痛"
     },
     {
       "surface": "חלליך",
-      "english": "你所刺透之人"
+      "gloss": "你所刺透之人"
     },
     {
       "surface": "יספרו",
-      "english": "他们添言加害"
+      "gloss": "他们添言加害"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:58.104854759Z",
-  "model": "glm-5.2"
+  ]
 }

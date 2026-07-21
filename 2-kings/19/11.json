@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "2-kings 19:11",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 559,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18981,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19540
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:54:20.224626654Z",
   "translation": "看哪，你已听见了亚述诸王对各国所行之事，⟨את⟩ ⟨那⟩ 他们所尽行毁灭的；而你，⟨你⟩ 将被救出吗？",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "שמעת",
-      "english": "已听见了"
+      "gloss": "已听见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那 (指代后文所引之事)"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "עשו",
-      "english": "所行之"
+      "gloss": "所行之"
     },
     {
       "surface": "מלכי",
-      "english": "诸王"
+      "gloss": "诸王"
     },
     {
       "surface": "אשור",
-      "english": "亚述"
+      "gloss": "亚述"
     },
     {
       "surface": "לכל",
-      "english": "对各国"
+      "gloss": "对各国"
     },
     {
       "surface": "הארצות",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "להחרימם",
-      "english": "尽行毁灭"
+      "gloss": "尽行毁灭"
     },
     {
       "surface": "ואתה",
-      "english": "而你"
+      "gloss": "而你"
     },
     {
       "surface": "תנצל",
-      "english": "将被救出"
+      "gloss": "将被救出"
     }
-  ],
-  "timestamp": "2026-07-18T02:54:20.224626654Z",
-  "model": "glm-5.2"
+  ]
 }

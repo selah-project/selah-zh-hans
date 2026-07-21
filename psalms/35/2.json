@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 35:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 459,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64288,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64747
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:45.635803084Z",
   "translation": "紧紧握住盾牌与大盾,⟨并⟩为帮助我而起来!",
   "tokens": [
     {
       "surface": "החזק",
-      "english": "紧紧握住"
+      "gloss": "紧紧握住"
     },
     {
       "surface": "מגן",
-      "english": "盾牌"
+      "gloss": "盾牌"
     },
     {
       "surface": "וצנה",
-      "english": "⟨并⟩大盾"
+      "gloss": "⟨并⟩大盾"
     },
     {
       "surface": "וקומה",
-      "english": "⟨并⟩起来"
+      "gloss": "⟨并⟩起来"
     },
     {
       "surface": "בעזרתי",
-      "english": "为帮助我"
+      "gloss": "为帮助我"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:45.635803084Z",
-  "model": "glm-5.2"
+  ]
 }

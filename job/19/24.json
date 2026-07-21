@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "job 19:24",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 257,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21482,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21739
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:19.950808808Z",
   "translation": "用铁笔和铅,永远⟨被⟩刻在磐石上!",
   "tokens": [
     {
       "surface": "בעט",
-      "english": "用……笔"
+      "gloss": "用……笔"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "ועפרת",
-      "english": "和铅"
+      "gloss": "和铅"
     },
     {
       "surface": "לעד",
-      "english": "永远"
+      "gloss": "永远"
     },
     {
       "surface": "בצור",
-      "english": "在磐石上"
+      "gloss": "在磐石上"
     },
     {
       "surface": "יחצבון",
-      "english": "⟨被⟩刻"
+      "gloss": "⟨被⟩刻"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:19.950808808Z",
-  "model": "glm-5.2"
+  ]
 }

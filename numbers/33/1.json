@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "numbers 33:1",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19997,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20486
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:25.046803312Z",
   "translation": "这些是以色列的子民⟨的⟩行程,他们按各自的队列从埃及地出来,在摩西和亚伦⟨的⟩手下。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "מסעי",
-      "english": "⟨的⟩行程"
+      "gloss": "⟨的⟩行程"
     },
     {
       "surface": "בני",
-      "english": "的子民"
+      "gloss": "的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "יצאו",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "מארץ",
-      "english": "从……地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "לצבאתם",
-      "english": "按各自的队列"
+      "gloss": "按各自的队列"
     },
     {
       "surface": "ביד",
-      "english": "在……手下"
+      "gloss": "在……手下"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "ואהרן",
-      "english": "和亚伦"
+      "gloss": "和亚伦"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:25.046803312Z",
-  "model": "glm-5.2"
+  ]
 }

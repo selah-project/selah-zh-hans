@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "lamentations 5:11",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 320,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33501,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33821
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:16.238287013Z",
   "translation": "妇女在锡安被蹂躏，⟨甚至⟩处女在犹大诸城⟨也被蹂躏⟩。",
   "tokens": [
     {
       "surface": "נשים",
-      "english": "妇女"
+      "gloss": "妇女"
     },
     {
       "surface": "בציון",
-      "english": "在锡安"
+      "gloss": "在锡安"
     },
     {
       "surface": "ענו",
-      "english": "被蹂躏"
+      "gloss": "被蹂躏"
     },
     {
       "surface": "בתלת",
-      "english": "处女"
+      "gloss": "处女"
     },
     {
       "surface": "בערי",
-      "english": "在……诸城"
+      "gloss": "在……诸城"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:16.238287013Z",
-  "model": "glm-5.2"
+  ]
 }

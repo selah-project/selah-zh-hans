@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 33:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64492,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64779
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:50:01.865702412Z",
   "translation": "雅威使列国的谋算⟨归于⟩虚空；他 thwart ⟨了⟩众民⟨的⟩思念。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הפיר",
-      "english": "使……归于虚空"
+      "gloss": "使……归于虚空"
     },
     {
       "surface": "עצת",
-      "english": "谋算"
+      "gloss": "谋算"
     },
     {
       "surface": "גוים",
-      "english": "列国的"
+      "gloss": "列国的"
     },
     {
       "surface": "הניא",
-      "english": "thwart"
+      "gloss": "thwart"
     },
     {
       "surface": "מחשבות",
-      "english": "思念"
+      "gloss": "思念"
     },
     {
       "surface": "עמים",
-      "english": "众民"
+      "gloss": "众民"
     }
-  ],
-  "timestamp": "2026-07-17T23:50:01.865702412Z",
-  "model": "glm-5.2"
+  ]
 }

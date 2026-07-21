@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 79,
   "ref": "psalms 119:79",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64186,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64517
-  },
+  "verse": 79,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:33.582706668Z",
   "translation": "愿敬畏你的人归向我，就是那认识你法度的人。",
   "tokens": [
     {
       "surface": "ישובו",
-      "english": "愿……归向"
+      "gloss": "愿……归向"
     },
     {
       "surface": "לי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יראיך",
-      "english": "敬畏你的人"
+      "gloss": "敬畏你的人"
     },
     {
       "surface": "וידעו",
-      "english": "就是那认识"
+      "gloss": "就是那认识"
     },
     {
       "surface": "עדתיך",
-      "english": "你法度的人"
+      "gloss": "你法度的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:33.582706668Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 39:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 299,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20678,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20977
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:52:50.279579794Z",
   "translation": "以赛亚对希西家说:你要听万军之雅威的*话*:",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "ישעיהו",
-      "english": "以赛亚"
+      "gloss": "以赛亚"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "חזקיהו",
-      "english": "希西家"
+      "gloss": "希西家"
     },
     {
       "surface": "שמע",
-      "english": "你要听"
+      "gloss": "你要听"
     },
     {
       "surface": "דבר",
-      "english": "*话*"
+      "gloss": "*话*"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军之"
+      "gloss": "万军之"
     }
-  ],
-  "timestamp": "2026-07-17T21:52:50.279579794Z",
-  "model": "glm-5.2"
+  ]
 }

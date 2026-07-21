@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 52:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 232,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64194,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64426
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:10.445059098Z",
   "translation": "给那指挥者,一首训诲诗,属于大卫。",
   "tokens": [
     {
       "surface": "לַ\/מְנַצֵּ֗חַ",
-      "english": "给那指挥者"
+      "gloss": "给那指挥者"
     },
     {
       "surface": "מַשְׂכִּ֥יל",
-      "english": "一首训诲诗"
+      "gloss": "一首训诲诗"
     },
     {
       "surface": "לְ\/דָוִֽד",
-      "english": "属于大卫"
+      "gloss": "属于大卫"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:10.445059098Z",
-  "model": "glm-5.2"
+  ]
 }

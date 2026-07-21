@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "psalms 105:18",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 328,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64341,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64669
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:34.868732812Z",
   "translation": "他们用脚镣压伤了他的脚；铁进入了他的生命气息。",
   "tokens": [
     {
       "surface": "ענו",
-      "english": "压伤了"
+      "gloss": "压伤了"
     },
     {
       "surface": "בכבל",
-      "english": "用脚镣"
+      "gloss": "用脚镣"
     },
     {
       "surface": "רגליו",
-      "english": "他的脚"
+      "gloss": "他的脚"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "באה",
-      "english": "进入了"
+      "gloss": "进入了"
     },
     {
       "surface": "נפשו",
-      "english": "他的生命气息"
+      "gloss": "他的生命气息"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:34.868732812Z",
-  "model": "glm-5.2"
+  ]
 }

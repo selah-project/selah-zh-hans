@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 16:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54276,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54644
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:32.582260151Z",
   "translation": "属于人的，⟨是⟩心里的筹算；而出于雅威的，⟨是⟩舌头的答复。",
   "tokens": [
     {
       "surface": "לאדם",
-      "english": "属于人的"
+      "gloss": "属于人的"
     },
     {
       "surface": "מערכי",
-      "english": "筹算"
+      "gloss": "筹算"
     },
     {
       "surface": "לב",
-      "english": "心里的"
+      "gloss": "心里的"
     },
     {
       "surface": "ומיהוה",
-      "english": "而出于雅威的"
+      "gloss": "而出于雅威的"
     },
     {
       "surface": "מענה",
-      "english": "答复"
+      "gloss": "答复"
     },
     {
       "surface": "לשון",
-      "english": "舌头的"
+      "gloss": "舌头的"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:32.582260151Z",
-  "model": "glm-5.2"
+  ]
 }

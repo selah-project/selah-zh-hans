@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 167,
   "ref": "psalms 119:167",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 364,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64219,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64583
-  },
+  "verse": 167,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:24:46.900136577Z",
   "translation": "我的נֶפֶשׁ遵守了你的见证,我极其爱它们。",
   "tokens": [
     {
       "surface": "שמרה",
-      "english": "遵守了"
+      "gloss": "遵守了"
     },
     {
       "surface": "נפשי",
-      "english": "我的נֶפֶשׁ"
+      "gloss": "我的נֶפֶשׁ"
     },
     {
       "surface": "עדתיך",
-      "english": "你的见证"
+      "gloss": "你的见证"
     },
     {
       "surface": "ואהבם",
-      "english": "我……爱它们"
+      "gloss": "我……爱它们"
     },
     {
       "surface": "מאד",
-      "english": "极其"
+      "gloss": "极其"
     }
-  ],
-  "timestamp": "2026-07-18T00:24:46.900136577Z",
-  "model": "glm-5.2"
+  ]
 }

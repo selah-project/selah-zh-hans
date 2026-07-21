@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 10:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64513,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64951
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:42:10.953370814Z",
   "translation": "他心里说：⟨我⟩必不摇动；世世代代⟨我⟩不⟨陷⟩在灾难中。",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "בלבו",
-      "english": "他心里"
+      "gloss": "他心里"
     },
     {
       "surface": "בל",
-      "english": "必不"
+      "gloss": "必不"
     },
     {
       "surface": "אמוט",
-      "english": "摇动"
+      "gloss": "摇动"
     },
     {
       "surface": "לדר",
-      "english": "世代"
+      "gloss": "世代"
     },
     {
       "surface": "ודר",
-      "english": "和世代"
+      "gloss": "和世代"
     },
     {
       "surface": "אשר",
-      "english": "⟨关系词⟩"
+      "gloss": "⟨关系词⟩"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ברע",
-      "english": "在灾难中"
+      "gloss": "在灾难中"
     }
-  ],
-  "timestamp": "2026-07-17T23:42:10.953370814Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "1-kings 18:33",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64195,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64580
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:12:53.169714533Z",
   "translation": "他摆好⟨את⟩木头，将⟨את⟩那公牛切成块，放在木头之上。",
   "tokens": [
     {
       "surface": "ויערך",
-      "english": "他摆好"
+      "gloss": "他摆好"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "木头"
     },
     {
       "surface": "העצים",
-      "english": "木头"
+      "gloss": "木头"
     },
     {
       "surface": "וינתח",
-      "english": "他将……切成块"
+      "gloss": "他将……切成块"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那公牛"
     },
     {
       "surface": "הפר",
-      "english": "那公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "וישם",
-      "english": "他放在……之上"
+      "gloss": "他放在……之上"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "העצים",
-      "english": "木头"
+      "gloss": "木头"
     }
-  ],
-  "timestamp": "2026-07-17T21:12:53.169714533Z",
-  "model": "glm-5.2"
+  ]
 }

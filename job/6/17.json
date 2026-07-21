@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "job 6:17",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 367,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21559,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21926
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:15.952335869Z",
   "translation": "⟨在⟩发热之时它们就流尽，被切断；⟨在⟩炎热中，它们从自己的地方熄灭。",
   "tokens": [
     {
       "surface": "בעת",
-      "english": "⟨在⟩……之时"
+      "gloss": "⟨在⟩……之时"
     },
     {
       "surface": "יזרבו",
-      "english": "它们就流尽"
+      "gloss": "它们就流尽"
     },
     {
       "surface": "נצמתו",
-      "english": "被切断"
+      "gloss": "被切断"
     },
     {
       "surface": "בחמו",
-      "english": "⟨在⟩炎热中"
+      "gloss": "⟨在⟩炎热中"
     },
     {
       "surface": "נדעכו",
-      "english": "它们……熄灭"
+      "gloss": "它们……熄灭"
     },
     {
       "surface": "ממקומם",
-      "english": "从自己的地方"
+      "gloss": "从自己的地方"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:15.952335869Z",
-  "model": "glm-5.2"
+  ]
 }

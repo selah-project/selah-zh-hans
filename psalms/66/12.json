@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 66:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 66,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64546,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64968
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:32.656234966Z",
   "translation": "你使人骑在我们的头上,我们进入了火与水中,你将我们带出来,⟨进入⟩饱足之地。",
   "tokens": [
     {
       "surface": "הרכבת",
-      "english": "你使……骑"
+      "gloss": "你使……骑"
     },
     {
       "surface": "אנוש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "לראשנו",
-      "english": "在我们的头上"
+      "gloss": "在我们的头上"
     },
     {
       "surface": "באנו",
-      "english": "我们进入了"
+      "gloss": "我们进入了"
     },
     {
       "surface": "באש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "ובמים",
-      "english": "与水中"
+      "gloss": "与水中"
     },
     {
       "surface": "ותוציאנו",
-      "english": "你将我们带出来"
+      "gloss": "你将我们带出来"
     },
     {
       "surface": "לרויה",
-      "english": "⟨进入⟩饱足之地"
+      "gloss": "⟨进入⟩饱足之地"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:32.656234966Z",
-  "model": "glm-5.2"
+  ]
 }

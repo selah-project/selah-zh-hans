@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 85:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64387,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64836
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:38.702045999Z",
   "translation": "חֶסֶד（忠诚的慈爱）与 אֱמֶת（真理）彼此相遇，צֶדֶק（公义）与 שָׁלוֹם（平安）彼此相亲。",
   "tokens": [
     {
       "surface": "חֶֽסֶד",
-      "english": "חֶסֶד（忠诚的慈爱）"
+      "gloss": "חֶסֶד（忠诚的慈爱）"
     },
     {
       "surface": "וֶ\/אֱמֶ֥ת",
-      "english": "与 אֱמֶת（真理）"
+      "gloss": "与 אֱמֶת（真理）"
     },
     {
       "surface": "נִפְגָּ֑שׁוּ",
-      "english": "彼此相遇"
+      "gloss": "彼此相遇"
     },
     {
       "surface": "צֶ֖דֶק",
-      "english": "צֶדֶק（公义）"
+      "gloss": "צֶדֶק（公义）"
     },
     {
       "surface": "וְ\/שָׁל֣וֹם",
-      "english": "与 שָׁלוֹם（平安）"
+      "gloss": "与 שָׁלוֹם（平安）"
     },
     {
       "surface": "נָשָֽׁקוּ",
-      "english": "彼此相亲"
+      "gloss": "彼此相亲"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:38.702045999Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 25:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 414,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23755,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24169
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:48:32.684942811Z",
   "translation": "她为他生了⟨את⟩心兰、⟨את⟩约珊、⟨את⟩米但、⟨את⟩米甸、⟨את⟩伊施巴和⟨את⟩书亚。",
   "tokens": [
     {
       "surface": "ותלד",
-      "english": "她生了"
+      "gloss": "她生了"
     },
     {
       "surface": "לו",
-      "english": "为他"
+      "gloss": "为他"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "心兰"
     },
     {
       "surface": "זמרן",
-      "english": "心兰"
+      "gloss": "心兰"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "约珊"
     },
     {
       "surface": "יקשן",
-      "english": "约珊"
+      "gloss": "约珊"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "米但"
     },
     {
       "surface": "מדן",
-      "english": "米但"
+      "gloss": "米但"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "米甸"
     },
     {
       "surface": "מדין",
-      "english": "米甸"
+      "gloss": "米甸"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "伊施巴"
     },
     {
       "surface": "ישבק",
-      "english": "伊施巴"
+      "gloss": "伊施巴"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "书亚"
     },
     {
       "surface": "שוח",
-      "english": "书亚"
+      "gloss": "书亚"
     }
-  ],
-  "timestamp": "2026-07-17T17:48:32.684942811Z",
-  "model": "glm-5.2"
+  ]
 }

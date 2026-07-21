@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 10:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22858,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23363
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:38:53.542116635Z",
   "translation": "这些⟨是⟩闪的子孙，按⟨他们⟩的家族、按⟨他们⟩的语言，在⟨他们⟩的地土、按⟨他们⟩的邦国。",
   "tokens": [
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "english": "⟨是⟩……的子孙"
+      "gloss": "⟨是⟩……的子孙"
     },
     {
       "surface": "שם",
-      "english": "闪"
+      "gloss": "闪"
     },
     {
       "surface": "למשפחתם",
-      "english": "按⟨他们⟩的家族"
+      "gloss": "按⟨他们⟩的家族"
     },
     {
       "surface": "ללשנתם",
-      "english": "按⟨他们⟩的语言"
+      "gloss": "按⟨他们⟩的语言"
     },
     {
       "surface": "בארצתם",
-      "english": "在⟨他们⟩的地土"
+      "gloss": "在⟨他们⟩的地土"
     },
     {
       "surface": "לגויהם",
-      "english": "按⟨他们⟩的邦国"
+      "gloss": "按⟨他们⟩的邦国"
     }
-  ],
-  "timestamp": "2026-07-17T17:38:53.542116635Z",
-  "model": "glm-5.2"
+  ]
 }

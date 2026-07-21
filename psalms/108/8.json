@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 108:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64746,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65165
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:02.078105605Z",
   "translation": "以罗欣在他的圣所中说话:我要欢跃,我要分配示剑,我要丈量苏割谷。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "דבר",
-      "english": "说话"
+      "gloss": "说话"
     },
     {
       "surface": "בקדשו",
-      "english": "在他的圣所中"
+      "gloss": "在他的圣所中"
     },
     {
       "surface": "אעלזה",
-      "english": "我要欢跃"
+      "gloss": "我要欢跃"
     },
     {
       "surface": "אחלקה",
-      "english": "我要分配"
+      "gloss": "我要分配"
     },
     {
       "surface": "שכם",
-      "english": "示剑"
+      "gloss": "示剑"
     },
     {
       "surface": "ועמק",
-      "english": "和⟨⋯⟩谷"
+      "gloss": "和⟨⋯⟩谷"
     },
     {
       "surface": "סכות",
-      "english": "苏割"
+      "gloss": "苏割"
     },
     {
       "surface": "אמדד",
-      "english": "我要丈量"
+      "gloss": "我要丈量"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:02.078105605Z",
-  "model": "glm-5.2"
+  ]
 }

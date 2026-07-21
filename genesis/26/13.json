@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 13,
   "ref": "genesis 26:13",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 377,
-    "prompt_tokens": 22952,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23329
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:44.787126748Z",
   "translation": "那人 ⟨就⟩ 成为 大 ⟨的⟩, ⟨且⟩ 往前 去, 越发 增加, 直到 他 ⟨成为⟩ 极其 大 ⟨的⟩",
   "tokens": [
     {
       "surface": "ויגדל",
-      "english": "⟨就⟩ 成为 大 ⟨的⟩"
+      "gloss": "⟨就⟩ 成为 大 ⟨的⟩"
     },
     {
       "surface": "האיש",
-      "english": "那人"
+      "gloss": "那人"
     },
     {
       "surface": "וילך",
-      "english": "⟨且⟩ 往前 去"
+      "gloss": "⟨且⟩ 往前 去"
     },
     {
       "surface": "הלוך",
-      "english": "越发 增加"
+      "gloss": "越发 增加"
     },
     {
       "surface": "וגדל",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "עד",
-      "english": "他 ⟨成为⟩ 极其 大 ⟨的⟩"
+      "gloss": "他 ⟨成为⟩ 极其 大 ⟨的⟩"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "גדל",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מאד",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:12:44.787126748Z",
-  "model": "glm-4.5"
+  ]
 }

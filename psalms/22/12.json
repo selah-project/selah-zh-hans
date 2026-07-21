@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 22:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 456,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64539,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64995
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:12.001047194Z",
   "translation": "求你不要远离我，因为患难已经近了，因为没有 ⟨那⟩ 帮助者。",
   "tokens": [
     {
       "surface": "אל",
-      "english": "求你不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תרחק",
-      "english": "远离"
+      "gloss": "远离"
     },
     {
       "surface": "ממני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "צרה",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "קרובה",
-      "english": "已经近了"
+      "gloss": "已经近了"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "עוזר",
-      "english": "⟨那⟩ 帮助者"
+      "gloss": "⟨那⟩ 帮助者"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:12.001047194Z",
-  "model": "glm-5.2"
+  ]
 }

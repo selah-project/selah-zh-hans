@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 100,
   "ref": "psalms 119:100",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 279,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64277,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64556
-  },
+  "verse": 100,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:51.869612041Z",
   "translation": "我比长老们更明白,因为我遵守了你的法度。",
   "tokens": [
     {
       "surface": "מזקנים",
-      "english": "比长老们"
+      "gloss": "比长老们"
     },
     {
       "surface": "אתבונן",
-      "english": "我更明白"
+      "gloss": "我更明白"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "פקודיך",
-      "english": "你的法度"
+      "gloss": "你的法度"
     },
     {
       "surface": "נצרתי",
-      "english": "我遵守了"
+      "gloss": "我遵守了"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:51.869612041Z",
-  "model": "glm-5.2"
+  ]
 }

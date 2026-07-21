@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 17:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65011,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65494
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:00.427370945Z",
   "translation": "大卫的祈祷。雅威啊，求你听 ⟨那⟩ 公义，留心我的呼求！侧耳听我的祈祷——⟨这祈祷⟩ 不出于欺骗的嘴唇。",
   "tokens": [
     {
       "surface": "תפלה",
-      "english": "祈祷"
+      "gloss": "祈祷"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "שמעה",
-      "english": "求你听"
+      "gloss": "求你听"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "צדק",
-      "english": "⟨那⟩ 公义"
+      "gloss": "⟨那⟩ 公义"
     },
     {
       "surface": "הקשיבה",
-      "english": "留心"
+      "gloss": "留心"
     },
     {
       "surface": "רנתי",
-      "english": "我的呼求"
+      "gloss": "我的呼求"
     },
     {
       "surface": "האזינה",
-      "english": "侧耳听"
+      "gloss": "侧耳听"
     },
     {
       "surface": "תפלתי",
-      "english": "我的祈祷"
+      "gloss": "我的祈祷"
     },
     {
       "surface": "בלא",
-      "english": "不出于"
+      "gloss": "不出于"
     },
     {
       "surface": "שפתי",
-      "english": "嘴唇"
+      "gloss": "嘴唇"
     },
     {
       "surface": "מרמה",
-      "english": "欺骗"
+      "gloss": "欺骗"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:00.427370945Z",
-  "model": "glm-5.2"
+  ]
 }

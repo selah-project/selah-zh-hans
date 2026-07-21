@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 4:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21517,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21899
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:15.239369739Z",
   "translation": "从以罗欣的气息他们灭亡,从他鼻息的鲁阿他们⟨被⟩吞灭。",
   "tokens": [
     {
       "surface": "מנשמת",
-      "english": "从……气息"
+      "gloss": "从……气息"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣的"
+      "gloss": "以罗欣的"
     },
     {
       "surface": "יאבדו",
-      "english": "他们灭亡"
+      "gloss": "他们灭亡"
     },
     {
       "surface": "ומרוח",
-      "english": "从……鲁阿"
+      "gloss": "从……鲁阿"
     },
     {
       "surface": "אפו",
-      "english": "他鼻息的"
+      "gloss": "他鼻息的"
     },
     {
       "surface": "יכלו",
-      "english": "他们⟨被⟩吞灭"
+      "gloss": "他们⟨被⟩吞灭"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:15.239369739Z",
-  "model": "glm-5.2"
+  ]
 }

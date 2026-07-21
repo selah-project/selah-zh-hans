@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "psalms 107:17",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 107,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64288,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64749
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:30.949903830Z",
   "translation": "愚妄人 ⟨因⟩ 他們的叛逆之路受苦，又因他們的罪孽使自己受折磨。",
   "tokens": [
     {
       "surface": "אולים",
-      "english": "愚妄人"
+      "gloss": "愚妄人"
     },
     {
       "surface": "מדרך",
-      "english": "因……之路"
+      "gloss": "因……之路"
     },
     {
       "surface": "פשעם",
-      "english": "他們的叛逆"
+      "gloss": "他們的叛逆"
     },
     {
       "surface": "ומעונתיהם",
-      "english": "又因他們的罪孽"
+      "gloss": "又因他們的罪孽"
     },
     {
       "surface": "יתענו",
-      "english": "使自己受折磨"
+      "gloss": "使自己受折磨"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:30.949903830Z",
-  "model": "glm-5.2"
+  ]
 }

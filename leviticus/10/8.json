@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 10:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18672,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 18973
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:50.901715023Z",
   "translation": "雅威对亚伦说，⟨说⟩：",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "לאמר",
-      "english": "⟨说⟩"
+      "gloss": "⟨说⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:50.901715023Z",
-  "model": "glm-5.2"
+  ]
 }

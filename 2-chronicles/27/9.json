@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "2-chronicles 27:9",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60112,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60530
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:29:56.087322772Z",
   "translation": "约坦与他的列祖同睡,他们将他葬在大卫城里;他的儿子亚哈斯⟨在他之下⟩继位作王。",
   "tokens": [
     {
       "surface": "וישכב",
-      "english": "与……同睡"
+      "gloss": "与……同睡"
     },
     {
       "surface": "יותם",
-      "english": "约坦"
+      "gloss": "约坦"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "אבתיו",
-      "english": "他的列祖"
+      "gloss": "他的列祖"
     },
     {
       "surface": "ויקברו",
-      "english": "他们葬了"
+      "gloss": "他们葬了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "בעיר",
-      "english": "在城里"
+      "gloss": "在城里"
     },
     {
       "surface": "דויד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "וימלך",
-      "english": "作王"
+      "gloss": "作王"
     },
     {
       "surface": "אחז",
-      "english": "亚哈斯"
+      "gloss": "亚哈斯"
     },
     {
       "surface": "בנו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "תחתיו",
-      "english": "⟨在他之下⟩"
+      "gloss": "⟨在他之下⟩"
     }
-  ],
-  "timestamp": "2026-07-18T02:29:56.087322772Z",
-  "model": "glm-5.2"
+  ]
 }

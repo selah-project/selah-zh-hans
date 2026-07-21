@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 75:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 312,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64341,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64653
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:31.998059242Z",
   "translation": "恶人的一切角，我必砍断；义人的角必被高举。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "而一切"
+      "gloss": "而一切"
     },
     {
       "surface": "קרני",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "אגדע",
-      "english": "我必砍断"
+      "gloss": "我必砍断"
     },
     {
       "surface": "תרוממנה",
-      "english": "必被高举"
+      "gloss": "必被高举"
     },
     {
       "surface": "קרנות",
-      "english": "（那些）角"
+      "gloss": "（那些）角"
     },
     {
       "surface": "צדיק",
-      "english": "义人"
+      "gloss": "义人"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:31.998059242Z",
-  "model": "glm-5.2"
+  ]
 }

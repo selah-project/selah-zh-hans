@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 23:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58639,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59020
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:48:03.970430562Z",
   "translation": "哥辖的子孙：暗兰、伊茨哈尔、希伯仑，乌薛，共四⟨位⟩。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "קהת",
-      "english": "哥辖"
+      "gloss": "哥辖"
     },
     {
       "surface": "עמרם",
-      "english": "暗兰"
+      "gloss": "暗兰"
     },
     {
       "surface": "יצהר",
-      "english": "伊茨哈尔"
+      "gloss": "伊茨哈尔"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "ועזיאל",
-      "english": "乌薛"
+      "gloss": "乌薛"
     },
     {
       "surface": "ארבעה",
-      "english": "四"
+      "gloss": "四"
     }
-  ],
-  "timestamp": "2026-07-20T06:48:03.970430562Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 26:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 326,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19062,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19388
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:58:36.801925339Z",
   "translation": "我必在你们中间行走,我必作你们的以罗欣,你们也必作我的子民。",
   "tokens": [
     {
       "surface": "והתהלכתי",
-      "english": "我必行走"
+      "gloss": "我必行走"
     },
     {
       "surface": "בתוככם",
-      "english": "在你们中间"
+      "gloss": "在你们中间"
     },
     {
       "surface": "והייתי",
-      "english": "我必作"
+      "gloss": "我必作"
     },
     {
       "surface": "לכם",
-      "english": "你们的"
+      "gloss": "你们的"
     },
     {
       "surface": "לאלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ואתם",
-      "english": "你们"
+      "gloss": "你们"
     },
     {
       "surface": "תהיו",
-      "english": "也必作"
+      "gloss": "也必作"
     },
     {
       "surface": "לי",
-      "english": "我的"
+      "gloss": "我的"
     },
     {
       "surface": "לעם",
-      "english": "子民"
+      "gloss": "子民"
     }
-  ],
-  "timestamp": "2026-07-17T18:58:36.801925339Z",
-  "model": "glm-5.2"
+  ]
 }

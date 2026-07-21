@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "amos 1:2",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18618,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19117
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:12.576466597Z",
   "translation": "他说：雅威必从锡安吼叫，从耶路撒冷发出⟨他⟩的声音；牧人的草场必哀悼，迦密的山顶必枯干。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מציון",
-      "english": "从锡安"
+      "gloss": "从锡安"
     },
     {
       "surface": "ישאג",
-      "english": "必吼叫"
+      "gloss": "必吼叫"
     },
     {
       "surface": "ומירושלם",
-      "english": "从耶路撒冷"
+      "gloss": "从耶路撒冷"
     },
     {
       "surface": "יתן",
-      "english": "必发出"
+      "gloss": "必发出"
     },
     {
       "surface": "קולו",
-      "english": "他的声音"
+      "gloss": "他的声音"
     },
     {
       "surface": "ואבלו",
-      "english": "必哀悼"
+      "gloss": "必哀悼"
     },
     {
       "surface": "נאות",
-      "english": "草场"
+      "gloss": "草场"
     },
     {
       "surface": "הרעים",
-      "english": "牧人的"
+      "gloss": "牧人的"
     },
     {
       "surface": "ויבש",
-      "english": "必枯干"
+      "gloss": "必枯干"
     },
     {
       "surface": "ראש",
-      "english": "山顶"
+      "gloss": "山顶"
     },
     {
       "surface": "הכרמל",
-      "english": "迦密的"
+      "gloss": "迦密的"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:12.576466597Z",
-  "model": "glm-5.2"
+  ]
 }

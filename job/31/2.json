@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 31:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 386,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21533,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21919
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:56.732649565Z",
   "translation": "从高处而来,以罗欣的分⟨是⟩什么呢?从至高之处而来,沙代的产业⟨又⟩是什么呢?",
   "tokens": [
     {
       "surface": "ומה",
-      "english": "那么什么"
+      "gloss": "那么什么"
     },
     {
       "surface": "חלק",
-      "english": "分"
+      "gloss": "分"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ממעל",
-      "english": "从高处而来"
+      "gloss": "从高处而来"
     },
     {
       "surface": "ונחלת",
-      "english": "那么产业"
+      "gloss": "那么产业"
     },
     {
       "surface": "שדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "ממרמים",
-      "english": "从至高之处而来"
+      "gloss": "从至高之处而来"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:56.732649565Z",
-  "model": "glm-5.2"
+  ]
 }

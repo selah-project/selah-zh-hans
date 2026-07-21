@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "leviticus 27:25",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19141,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19515
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:31.984980841Z",
   "translation": "你一切的估值都要按圣所的舍客勒来算；二十季拉⟨是⟩一舍客勒。",
   "tokens": [
     {
       "surface": "וכל",
-      "english": "你一切的"
+      "gloss": "你一切的"
     },
     {
       "surface": "ערכך",
-      "english": "估值"
+      "gloss": "估值"
     },
     {
       "surface": "יהיה",
-      "english": "都要……来算"
+      "gloss": "都要……来算"
     },
     {
       "surface": "בשקל",
-      "english": "按舍客勒"
+      "gloss": "按舍客勒"
     },
     {
       "surface": "הקדש",
-      "english": "圣所的"
+      "gloss": "圣所的"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "גרה",
-      "english": "季拉"
+      "gloss": "季拉"
     },
     {
       "surface": "יהיה",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "השקל",
-      "english": "一舍客勒"
+      "gloss": "一舍客勒"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:31.984980841Z",
-  "model": "glm-5.2"
+  ]
 }

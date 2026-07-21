@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 96:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64299,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64656
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:31.012486102Z",
   "translation": "尊威与华美在⟨他⟩面前，力量与荣耀在⟨他⟩的圣所中。",
   "tokens": [
     {
       "surface": "הוד",
-      "english": "尊威"
+      "gloss": "尊威"
     },
     {
       "surface": "והדר",
-      "english": "与华美"
+      "gloss": "与华美"
     },
     {
       "surface": "לפניו",
-      "english": "在⟨他⟩面前"
+      "gloss": "在⟨他⟩面前"
     },
     {
       "surface": "עז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "ותפארת",
-      "english": "与荣耀"
+      "gloss": "与荣耀"
     },
     {
       "surface": "במקדשו",
-      "english": "在⟨他⟩的圣所中"
+      "gloss": "在⟨他⟩的圣所中"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:31.012486102Z",
-  "model": "glm-5.2"
+  ]
 }

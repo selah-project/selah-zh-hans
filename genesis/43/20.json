@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "genesis 43:20",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 462,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22892,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23354
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:18.462017033Z",
   "translation": "他们说：请，⟨我主⟩啊，我们起初步确⟨是⟩下来买粮食的；",
   "tokens": [
     {
       "surface": "ויאמרו",
-      "english": "他们说"
+      "gloss": "他们说"
     },
     {
       "surface": "בי",
-      "english": "请"
+      "gloss": "请"
     },
     {
       "surface": "אדני",
-      "english": "⟨我主⟩啊"
+      "gloss": "⟨我主⟩啊"
     },
     {
       "surface": "ירד",
-      "english": "下来"
+      "gloss": "下来"
     },
     {
       "surface": "ירדנו",
-      "english": "我们……下来"
+      "gloss": "我们……下来"
     },
     {
       "surface": "בתחלה",
-      "english": "起初步"
+      "gloss": "起初步"
     },
     {
       "surface": "לשבר",
-      "english": "买"
+      "gloss": "买"
     },
     {
       "surface": "אכל",
-      "english": "粮食"
+      "gloss": "粮食"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:18.462017033Z",
-  "model": "glm-5.2"
+  ]
 }

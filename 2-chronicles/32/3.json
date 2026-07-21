@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "2-chronicles 32:3",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 544,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60156,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60700
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:33:37.177236037Z",
   "translation": "他与⟨他的⟩官员们和他的勇士们商议,要堵住城外那些泉源⟨את⟩的水,他们就帮助了他。",
   "tokens": [
     {
       "surface": "ויועץ",
-      "english": "他与……商议"
+      "gloss": "他与……商议"
     },
     {
       "surface": "עם",
-      "english": "与"
+      "gloss": "与"
     },
     {
       "surface": "שריו",
-      "english": "他的官员们"
+      "gloss": "他的官员们"
     },
     {
       "surface": "וגבריו",
-      "english": "和他的勇士们"
+      "gloss": "和他的勇士们"
     },
     {
       "surface": "לסתום",
-      "english": "要堵住"
+      "gloss": "要堵住"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "水"
     },
     {
       "surface": "מימי",
-      "english": "的水"
+      "gloss": "的水"
     },
     {
       "surface": "העינות",
-      "english": "那些泉源"
+      "gloss": "那些泉源"
     },
     {
       "surface": "אשר",
-      "english": "那些"
+      "gloss": "那些"
     },
     {
       "surface": "מחוץ",
-      "english": "在……外"
+      "gloss": "在……外"
     },
     {
       "surface": "לעיר",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "ויעזרוהו",
-      "english": "他们就帮助了他"
+      "gloss": "他们就帮助了他"
     }
-  ],
-  "timestamp": "2026-07-18T02:33:37.177236037Z",
-  "model": "glm-5.2"
+  ]
 }

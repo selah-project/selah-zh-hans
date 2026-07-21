@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "deuteronomy 28:23",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 423,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19436,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19859
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:44:55.460391054Z",
   "translation": "你头上的诸天 ⟨要成为⟩ 铜,你脚下的地 ⟨要成为⟩ 铁。",
   "tokens": [
     {
       "surface": "והיו",
-      "english": "⟨要成为⟩"
+      "gloss": "⟨要成为⟩"
     },
     {
       "surface": "שמיך",
-      "english": "你的诸天"
+      "gloss": "你的诸天"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "ראשך",
-      "english": "你的头"
+      "gloss": "你的头"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     },
     {
       "surface": "והארץ",
-      "english": "而那地"
+      "gloss": "而那地"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "תחתיך",
-      "english": "在你脚下"
+      "gloss": "在你脚下"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     }
-  ],
-  "timestamp": "2026-07-17T19:44:55.460391054Z",
-  "model": "glm-5.2"
+  ]
 }

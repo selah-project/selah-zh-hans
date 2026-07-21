@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 24:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19385,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19879
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:42:35.453806Z",
   "translation": "当你借给你的邻舍⟨任何⟩抵押物、⟨任何⟩东西时，不可进他的家去取他的抵押。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "当"
+      "gloss": "当"
     },
     {
       "surface": "תשה",
-      "english": "你借给"
+      "gloss": "你借给"
     },
     {
       "surface": "ברעך",
-      "english": "你的邻舍"
+      "gloss": "你的邻舍"
     },
     {
       "surface": "משאת",
-      "english": "⟨任何⟩抵押物"
+      "gloss": "⟨任何⟩抵押物"
     },
     {
       "surface": "מאומה",
-      "english": "⟨任何⟩东西"
+      "gloss": "⟨任何⟩东西"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תבא",
-      "english": "进"
+      "gloss": "进"
     },
     {
       "surface": "אל",
-      "english": "去⟨进入⟩"
+      "gloss": "去⟨进入⟩"
     },
     {
       "surface": "ביתו",
-      "english": "他的家"
+      "gloss": "他的家"
     },
     {
       "surface": "לעבט",
-      "english": "去取"
+      "gloss": "去取"
     },
     {
       "surface": "עבטו",
-      "english": "他的抵押"
+      "gloss": "他的抵押"
     }
-  ],
-  "timestamp": "2026-07-17T19:42:35.453806Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "genesis 43:31",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22910,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23263
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:03:31.747020837Z",
   "translation": "他洗了脸，出来，克制住自己，就说：“摆上饼。”",
   "tokens": [
     {
       "surface": "וירחץ",
-      "english": "他洗了"
+      "gloss": "他洗了"
     },
     {
       "surface": "פניו",
-      "english": "他的脸"
+      "gloss": "他的脸"
     },
     {
       "surface": "ויצא",
-      "english": "出来"
+      "gloss": "出来"
     },
     {
       "surface": "ויתאפק",
-      "english": "克制住自己"
+      "gloss": "克制住自己"
     },
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "שימו",
-      "english": "摆上"
+      "gloss": "摆上"
     },
     {
       "surface": "לחם",
-      "english": "饼"
+      "gloss": "饼"
     }
-  ],
-  "timestamp": "2026-07-17T18:03:31.747020837Z",
-  "model": "glm-5.2"
+  ]
 }

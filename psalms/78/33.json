@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 33,
   "ref": "psalms 78:33",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 78,
-  "usage": {
-    "completion_tokens": 366,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64210,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64576
-  },
+  "verse": 33,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:50.112858249Z",
   "translation": "因此他使他们的日子在虚空中耗尽，他们的年岁在惊恐中⟨突然⟩消逝。",
   "tokens": [
     {
       "surface": "ויכל",
-      "english": "因此他……耗尽"
+      "gloss": "因此他……耗尽"
     },
     {
       "surface": "בהבל",
-      "english": "在虚空中"
+      "gloss": "在虚空中"
     },
     {
       "surface": "ימיהם",
-      "english": "他们的日子"
+      "gloss": "他们的日子"
     },
     {
       "surface": "ושנותם",
-      "english": "他们的年岁"
+      "gloss": "他们的年岁"
     },
     {
       "surface": "בבהלה",
-      "english": "在惊恐中⟨突然⟩"
+      "gloss": "在惊恐中⟨突然⟩"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:50.112858249Z",
-  "model": "glm-5.2"
+  ]
 }

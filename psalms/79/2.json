@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 79:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 79,
-  "usage": {
-    "completion_tokens": 438,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64989,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65427
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:30.045971566Z",
   "translation": "他们将⟨את⟩你仆人的尸首给天空的飞鸟作食物，将你忠信者的肉给地上的野兽。",
   "tokens": [
     {
       "surface": "נתנו",
-      "english": "他们将"
+      "gloss": "他们将"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你仆人的尸首"
     },
     {
       "surface": "נבלת",
-      "english": "尸首"
+      "gloss": "尸首"
     },
     {
       "surface": "עבדיך",
-      "english": "你仆人的"
+      "gloss": "你仆人的"
     },
     {
       "surface": "מאכל",
-      "english": "作食物"
+      "gloss": "作食物"
     },
     {
       "surface": "לעוף",
-      "english": "给飞鸟"
+      "gloss": "给飞鸟"
     },
     {
       "surface": "השמים",
-      "english": "天空的"
+      "gloss": "天空的"
     },
     {
       "surface": "בשר",
-      "english": "肉"
+      "gloss": "肉"
     },
     {
       "surface": "חסידיך",
-      "english": "你忠信者的"
+      "gloss": "你忠信者的"
     },
     {
       "surface": "לחיתו",
-      "english": "给野兽"
+      "gloss": "给野兽"
     },
     {
       "surface": "ארץ",
-      "english": "地上的"
+      "gloss": "地上的"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:30.045971566Z",
-  "model": "glm-5.2"
+  ]
 }

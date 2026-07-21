@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 123:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 123,
-  "usage": {
-    "completion_tokens": 523,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64493,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65016
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:34.764750809Z",
   "translation": "我们的*nefesh*饱受了安逸之人的嘲笑，饱受了骄傲之人的藐视。",
   "tokens": [
     {
       "surface": "רבת",
-      "english": "饱受了"
+      "gloss": "饱受了"
     },
     {
       "surface": "שבעה",
-      "english": "饱受"
+      "gloss": "饱受"
     },
     {
       "surface": "לה",
-      "english": "⟨了⟩"
+      "gloss": "⟨了⟩"
     },
     {
       "surface": "נפשנו",
-      "english": "我们的*nefesh*"
+      "gloss": "我们的*nefesh*"
     },
     {
       "surface": "הלעג",
-      "english": "安逸之人的嘲笑"
+      "gloss": "安逸之人的嘲笑"
     },
     {
       "surface": "השאננים",
-      "english": "安逸之人"
+      "gloss": "安逸之人"
     },
     {
       "surface": "הבוז",
-      "english": "骄傲之人的藐视"
+      "gloss": "骄傲之人的藐视"
     },
     {
       "surface": "לגאיונים",
-      "english": "骄傲之人"
+      "gloss": "骄傲之人"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:34.764750809Z",
-  "model": "glm-5.2"
+  ]
 }

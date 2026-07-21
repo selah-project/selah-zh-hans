@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-chronicles 2:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 664,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59158,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59822
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:52:12.126030512Z",
   "translation": "兰 生了 ⟨את⟩ 亚米拿达；亚米拿达 生了 ⟨את⟩ 拿顺，נְשִׂיא 的 בְּנֵי 犹大。",
   "tokens": [
     {
       "surface": "וְ\/רָ֖ם",
-      "english": "兰"
+      "gloss": "兰"
     },
     {
       "surface": "הוֹלִ֣יד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "עַמִּינָדָב"
     },
     {
       "surface": "עַמִּינָדָ֑ב",
-      "english": "亚米拿达"
+      "gloss": "亚米拿达"
     },
     {
       "surface": "וְ\/עַמִּינָדָב֙",
-      "english": "亚米拿达"
+      "gloss": "亚米拿达"
     },
     {
       "surface": "הוֹלִ֣יד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "נַחְשׁוֹן"
     },
     {
       "surface": "נַחְשׁ֔וֹן",
-      "english": "拿顺"
+      "gloss": "拿顺"
     },
     {
       "surface": "נְשִׂ֖יא",
-      "english": "נְשִׂיא"
+      "gloss": "נְשִׂיא"
     },
     {
       "surface": "בְּנֵ֥י",
-      "english": "בְּנֵי"
+      "gloss": "בְּנֵי"
     },
     {
       "surface": "יְהוּדָֽה",
-      "english": "犹大"
+      "gloss": "犹大"
     }
-  ],
-  "timestamp": "2026-07-18T01:52:12.126030512Z",
-  "model": "glm-5.2"
+  ]
 }

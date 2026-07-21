@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "leviticus 8:20",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19554,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20019
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:50.269021001Z",
   "translation": "⟨他⟩将⟨את⟩公羊切成块子；摩西烧了⟨את⟩头和⟨את⟩块子并⟨את⟩脂肪。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "公羊"
     },
     {
       "surface": "האיל",
-      "english": "公羊"
+      "gloss": "公羊"
     },
     {
       "surface": "נתח",
-      "english": "切成块子"
+      "gloss": "切成块子"
     },
     {
       "surface": "לנתחיו",
-      "english": "按其块子"
+      "gloss": "按其块子"
     },
     {
       "surface": "ויקטר",
-      "english": "烧了"
+      "gloss": "烧了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "头"
     },
     {
       "surface": "הראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "块子"
     },
     {
       "surface": "הנתחים",
-      "english": "块子"
+      "gloss": "块子"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "脂肪"
     },
     {
       "surface": "הפדר",
-      "english": "脂肪"
+      "gloss": "脂肪"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:50.269021001Z",
-  "model": "glm-5.2"
+  ]
 }

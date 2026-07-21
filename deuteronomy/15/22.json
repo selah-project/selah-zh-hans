@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "deuteronomy 15:22",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19189,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19470
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:37:21.158388218Z",
   "translation": "在你的城门内你们可以吃它⟨——⟩不洁净的和洁净的可以一同吃,如羚羊和鹿。",
   "tokens": [
     {
       "surface": "בשעריך",
-      "english": "在你的城门内"
+      "gloss": "在你的城门内"
     },
     {
       "surface": "תאכלנו",
-      "english": "你们可以吃它"
+      "gloss": "你们可以吃它"
     },
     {
       "surface": "הטמא",
-      "english": "不洁净的"
+      "gloss": "不洁净的"
     },
     {
       "surface": "והטהור",
-      "english": "和洁净的"
+      "gloss": "和洁净的"
     },
     {
       "surface": "יחדו",
-      "english": "可以一同"
+      "gloss": "可以一同"
     },
     {
       "surface": "כצבי",
-      "english": "如羚羊"
+      "gloss": "如羚羊"
     },
     {
       "surface": "וכאיל",
-      "english": "和鹿"
+      "gloss": "和鹿"
     }
-  ],
-  "timestamp": "2026-07-17T19:37:21.158388218Z",
-  "model": "glm-5.2"
+  ]
 }

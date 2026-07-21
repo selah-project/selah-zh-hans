@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 31:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 492,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64923,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65415
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:23.340671926Z",
   "translation": "你的良善何等丰盛，你为敬畏你的人所珍藏的，你为投靠你的人所成就的，⟨都摆在⟩世人面前！",
   "tokens": [
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "רב",
-      "english": "丰盛"
+      "gloss": "丰盛"
     },
     {
       "surface": "טובך",
-      "english": "你的良善"
+      "gloss": "你的良善"
     },
     {
       "surface": "אשר",
-      "english": "⟨就是⟩那"
+      "gloss": "⟨就是⟩那"
     },
     {
       "surface": "צפנת",
-      "english": "你珍藏了"
+      "gloss": "你珍藏了"
     },
     {
       "surface": "ליראיך",
-      "english": "为敬畏你的人"
+      "gloss": "为敬畏你的人"
     },
     {
       "surface": "פעלת",
-      "english": "你成就了"
+      "gloss": "你成就了"
     },
     {
       "surface": "לחסים",
-      "english": "为投靠你的人"
+      "gloss": "为投靠你的人"
     },
     {
       "surface": "בך",
-      "english": "在你里面"
+      "gloss": "在你里面"
     },
     {
       "surface": "נגד",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "בני",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "אדם",
-      "english": "亚当（世人）"
+      "gloss": "亚当（世人）"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:23.340671926Z",
-  "model": "glm-5.2"
+  ]
 }

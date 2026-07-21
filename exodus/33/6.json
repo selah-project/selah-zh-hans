@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "exodus 33:6",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18548,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19032
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:58.180787389Z",
   "translation": "于是以色列的子民从何烈山⟨起⟩脱去⟨את⟩他们的妆饰。",
   "tokens": [
     {
       "surface": "ויתנצלו",
-      "english": "于是……脱去"
+      "gloss": "于是……脱去"
     },
     {
       "surface": "בני",
-      "english": "……的子民"
+      "gloss": "……的子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的妆饰"
     },
     {
       "surface": "עדים",
-      "english": "他们的妆饰"
+      "gloss": "他们的妆饰"
     },
     {
       "surface": "מהר",
-      "english": "从何烈山⟨起⟩"
+      "gloss": "从何烈山⟨起⟩"
     },
     {
       "surface": "חורב",
-      "english": "何烈"
+      "gloss": "何烈"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:58.180787389Z",
-  "model": "glm-5.2"
+  ]
 }

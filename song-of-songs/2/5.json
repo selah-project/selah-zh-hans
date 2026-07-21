@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "song-of-songs 2:5",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22072,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22621
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:06.732964564Z",
   "translation": "用葡萄糕托住我，用苹果铺陈⟨我⟩；因为我因爱而病了——我。",
   "tokens": [
     {
       "surface": "סמכוני",
-      "english": "托住我"
+      "gloss": "托住我"
     },
     {
       "surface": "באשישות",
-      "english": "用葡萄糕"
+      "gloss": "用葡萄糕"
     },
     {
       "surface": "רפדוני",
-      "english": "铺陈⟨我⟩"
+      "gloss": "铺陈⟨我⟩"
     },
     {
       "surface": "בתפוחים",
-      "english": "用苹果"
+      "gloss": "用苹果"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חולת",
-      "english": "病了"
+      "gloss": "病了"
     },
     {
       "surface": "אהבה",
-      "english": "因爱"
+      "gloss": "因爱"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:06.732964564Z",
-  "model": "glm-5.2"
+  ]
 }

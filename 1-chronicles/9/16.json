@@ -1,81 +1,73 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 9:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 671,
-    "prompt_tokens": 59642,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 60313
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:08.305028917Z",
   "translation": "俄巴底亚,是示玛雅的儿子,迦拉的儿子,耶杜顿的儿子;比利家,是亚撒的儿子,以利加拿的儿子,就是住在尼托法特村庄的。",
   "tokens": [
     {
       "surface": "ועבדיה",
-      "english": "俄巴底亚"
+      "gloss": "俄巴底亚"
     },
     {
       "surface": "בן",
-      "english": "是...的儿子"
+      "gloss": "是...的儿子"
     },
     {
       "surface": "שמעיה",
-      "english": "示玛雅"
+      "gloss": "示玛雅"
     },
     {
       "surface": "בן",
-      "english": "...的儿子"
+      "gloss": "...的儿子"
     },
     {
       "surface": "גלל",
-      "english": "迦拉"
+      "gloss": "迦拉"
     },
     {
       "surface": "בן",
-      "english": "...的儿子"
+      "gloss": "...的儿子"
     },
     {
       "surface": "ידותון",
-      "english": "耶杜顿"
+      "gloss": "耶杜顿"
     },
     {
       "surface": "וברכיה",
-      "english": "比利家"
+      "gloss": "比利家"
     },
     {
       "surface": "בן",
-      "english": "是...的儿子"
+      "gloss": "是...的儿子"
     },
     {
       "surface": "אסא",
-      "english": "亚撒"
+      "gloss": "亚撒"
     },
     {
       "surface": "בן",
-      "english": "...的儿子"
+      "gloss": "...的儿子"
     },
     {
       "surface": "אלקנה",
-      "english": "以利加拿"
+      "gloss": "以利加拿"
     },
     {
       "surface": "היושב",
-      "english": "就是...住的"
+      "gloss": "就是...住的"
     },
     {
       "surface": "בחצרי",
-      "english": "在...村庄"
+      "gloss": "在...村庄"
     },
     {
       "surface": "נטופתי",
-      "english": "尼托法特"
+      "gloss": "尼托法特"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:08.305028917Z",
-  "model": "glm-4.5"
+  ]
 }

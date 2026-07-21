@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 36:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64452,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64901
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:20.444815667Z",
   "translation": "因为他在自己眼中 ⟨被⟩ 谄媚 ⟨他⟩，为要寻得 ⟨他的⟩ 罪孽，去恨恶⟨它⟩。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "החליק",
-      "english": "他谄媚"
+      "gloss": "他谄媚"
     },
     {
       "surface": "אליו",
-      "english": "⟨在他身上 \/ 关于他自己⟩"
+      "gloss": "⟨在他身上 \/ 关于他自己⟩"
     },
     {
       "surface": "בעיניו",
-      "english": "在他眼中"
+      "gloss": "在他眼中"
     },
     {
       "surface": "למצא",
-      "english": "为要寻得"
+      "gloss": "为要寻得"
     },
     {
       "surface": "עונו",
-      "english": "他的罪孽"
+      "gloss": "他的罪孽"
     },
     {
       "surface": "לשנא",
-      "english": "去恨恶"
+      "gloss": "去恨恶"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:20.444815667Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "1-kings 13:13",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64151,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64511
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:08:23.006042363Z",
   "translation": "他对他的众子说：⟨你们⟩为我备驴。他们就为他备了驴，他骑上它。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他⟨对⟩……说"
+      "gloss": "他⟨对⟩……说"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "בניו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "חבשו",
-      "english": "⟨你们⟩备"
+      "gloss": "⟨你们⟩备"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "החמור",
-      "english": "驴"
+      "gloss": "驴"
     },
     {
       "surface": "ויחבשו",
-      "english": "他们就备了"
+      "gloss": "他们就备了"
     },
     {
       "surface": "לו",
-      "english": "为他"
+      "gloss": "为他"
     },
     {
       "surface": "החמור",
-      "english": "驴"
+      "gloss": "驴"
     },
     {
       "surface": "וירכב",
-      "english": "他骑上"
+      "gloss": "他骑上"
     },
     {
       "surface": "עליו",
-      "english": "它"
+      "gloss": "它"
     }
-  ],
-  "timestamp": "2026-07-17T21:08:23.006042363Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 6,
   "ref": "genesis 5:6",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 240,
-    "prompt_tokens": 23027,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23267
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:11:34.426237380Z",
   "translation": "塞特活了一百零五年,并且生养了 ⟨את⟩ 以挪士。",
   "tokens": [
     {
       "surface": "ויחי",
-      "english": "并且……活"
+      "gloss": "并且……活"
     },
     {
       "surface": "שת",
-      "english": "塞特"
+      "gloss": "塞特"
     },
     {
       "surface": "חמש",
-      "english": "一百零五"
+      "gloss": "一百零五"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ומאת",
-      "english": "一百零五"
+      "gloss": "一百零五"
     },
     {
       "surface": "שנה",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "ויולד",
-      "english": "并且生养了"
+      "gloss": "并且生养了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以挪士"
     },
     {
       "surface": "אנוש",
-      "english": "以挪士"
+      "gloss": "以挪士"
     }
-  ],
-  "timestamp": "2026-07-21T13:11:34.426237380Z",
-  "model": "glm-4.5"
+  ]
 }

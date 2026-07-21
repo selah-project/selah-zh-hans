@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "psalms 105:32",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 256,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64570
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:33.960270145Z",
   "translation": "他降下他们的阵雨 ⟨为⟩ 冰雹,火,火焰,在他们 ⟨的⟩ 地中。",
   "tokens": [
     {
       "surface": "נתן",
-      "english": "他降下"
+      "gloss": "他降下"
     },
     {
       "surface": "גשמיהם",
-      "english": "他们的阵雨"
+      "gloss": "他们的阵雨"
     },
     {
       "surface": "ברד",
-      "english": "冰雹"
+      "gloss": "冰雹"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "להבות",
-      "english": "火焰"
+      "gloss": "火焰"
     },
     {
       "surface": "בארצם",
-      "english": "在他们⟨的⟩地中"
+      "gloss": "在他们⟨的⟩地中"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:33.960270145Z",
-  "model": "glm-5.2"
+  ]
 }

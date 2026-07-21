@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 132:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 132,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64566,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64959
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:27:11.478481221Z",
   "translation": "我若进入我帐棚的家中，我若登上我床榻的铺榻——",
   "tokens": [
     {
       "surface": "אם",
-      "english": "我若"
+      "gloss": "我若"
     },
     {
       "surface": "אבא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "באהל",
-      "english": "帐棚"
+      "gloss": "帐棚"
     },
     {
       "surface": "ביתי",
-      "english": "我的家"
+      "gloss": "我的家"
     },
     {
       "surface": "אם",
-      "english": "我若"
+      "gloss": "我若"
     },
     {
       "surface": "אעלה",
-      "english": "登上"
+      "gloss": "登上"
     },
     {
       "surface": "על",
-      "english": "上"
+      "gloss": "上"
     },
     {
       "surface": "ערש",
-      "english": "床榻"
+      "gloss": "床榻"
     },
     {
       "surface": "יצועי",
-      "english": "我的铺榻"
+      "gloss": "我的铺榻"
     }
-  ],
-  "timestamp": "2026-07-18T00:27:11.478481221Z",
-  "model": "glm-5.2"
+  ]
 }

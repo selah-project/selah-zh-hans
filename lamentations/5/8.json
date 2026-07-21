@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "lamentations 5:8",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 287,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33424,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33711
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:05.099029075Z",
   "translation": "奴仆管辖了我们，拉走⟨的⟩，无人⟨能从⟩他们的手中⟨救出我们⟩。",
   "tokens": [
     {
       "surface": "עבדים",
-      "english": "奴仆"
+      "gloss": "奴仆"
     },
     {
       "surface": "משלו",
-      "english": "管辖了"
+      "gloss": "管辖了"
     },
     {
       "surface": "בנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "פרק",
-      "english": "拉走"
+      "gloss": "拉走"
     },
     {
       "surface": "אין",
-      "english": "无人"
+      "gloss": "无人"
     },
     {
       "surface": "מידם",
-      "english": "他们的手中"
+      "gloss": "他们的手中"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:05.099029075Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,78 +1,67 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "joshua 6:2",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18520,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19098
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:52:59.284368131Z",
   "translation": "雅威对约书亚说:你看,我已经将⟨את⟩耶利哥和⟨את⟩它的王交在你手中——⟨是⟩大能的勇士。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "ראה",
-      "english": "你看"
+      "gloss": "你看"
     },
     {
       "surface": "נתתי",
-      "english": "我已经交了"
+      "gloss": "我已经交了"
     },
     {
       "surface": "בידך",
-      "english": "在你手中"
+      "gloss": "在你手中"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶利哥"
     },
     {
       "surface": "יריחו",
-      "english": "耶利哥"
+      "gloss": "耶利哥"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "它的王"
     },
     {
       "surface": "מלכה",
-      "english": "它的王"
+      "gloss": "它的王"
     },
     {
       "surface": "גבורי",
-      "english": "大能的勇士"
+      "gloss": "大能的勇士"
     },
     {
       "surface": "החיל",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T19:52:59.284368131Z",
-  "model": "glm-5.2"
+  ]
 }

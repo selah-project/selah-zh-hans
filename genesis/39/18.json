@@ -1,57 +1,49 @@
 {
-  "tier": "bulk",
-  "verse": 18,
   "ref": "genesis 39:18",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 481,
-    "prompt_tokens": 23009,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23490
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:05.895574226Z",
   "translation": "这事发生,当我举起我的声音并呼喊,他就把他的衣服留在我旁边,逃到外面去。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "这事发生"
+      "gloss": "这事发生"
     },
     {
       "surface": "כהרימי",
-      "english": "当我举起"
+      "gloss": "当我举起"
     },
     {
       "surface": "קולי",
-      "english": "我的声音"
+      "gloss": "我的声音"
     },
     {
       "surface": "ואקרא",
-      "english": "并呼喊"
+      "gloss": "并呼喊"
     },
     {
       "surface": "ויעזב",
-      "english": "他就把"
+      "gloss": "他就把"
     },
     {
       "surface": "בגדו",
-      "english": "他的衣服"
+      "gloss": "他的衣服"
     },
     {
       "surface": "אצלי",
-      "english": "留在我旁边"
+      "gloss": "留在我旁边"
     },
     {
       "surface": "וינס",
-      "english": "逃"
+      "gloss": "逃"
     },
     {
       "surface": "החוצה",
-      "english": "到外面去"
+      "gloss": "到外面去"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:05.895574226Z",
-  "model": "glm-4.5"
+  ]
 }

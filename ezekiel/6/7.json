@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "ezekiel 6:7",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 381,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18849,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 19230
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:03:49.584676076Z",
   "translation": "被杀的人要在你们中间仆倒,你们就知道 ⟨我是⟩ 雅威。",
   "tokens": [
     {
       "surface": "ונפל",
-      "english": "……仆倒"
+      "gloss": "……仆倒"
     },
     {
       "surface": "חלל",
-      "english": "被杀的人"
+      "gloss": "被杀的人"
     },
     {
       "surface": "בתוככם",
-      "english": "在你们中间"
+      "gloss": "在你们中间"
     },
     {
       "surface": "וידעתם",
-      "english": "你们就知道"
+      "gloss": "你们就知道"
     },
     {
       "surface": "כי",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-20T15:03:49.584676076Z",
-  "model": "glm-5.2"
+  ]
 }

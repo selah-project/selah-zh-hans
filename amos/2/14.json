@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "amos 2:14",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 489,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18274,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18763
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:35.380912079Z",
   "translation": "逃亡必从快脚者前消失,强壮的不能使⟨他的⟩力量坚挺,勇士不能救⟨他的⟩生命。*",
   "tokens": [
     {
       "surface": "ואבד",
-      "english": "必消失"
+      "gloss": "必消失"
     },
     {
       "surface": "מנוס",
-      "english": "逃亡"
+      "gloss": "逃亡"
     },
     {
       "surface": "מקל",
-      "english": "从快脚者前"
+      "gloss": "从快脚者前"
     },
     {
       "surface": "וחזק",
-      "english": "强壮的"
+      "gloss": "强壮的"
     },
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "יאמץ",
-      "english": "使……坚挺"
+      "gloss": "使……坚挺"
     },
     {
       "surface": "כחו",
-      "english": "⟨他的⟩力量"
+      "gloss": "⟨他的⟩力量"
     },
     {
       "surface": "וגבור",
-      "english": "勇士"
+      "gloss": "勇士"
     },
     {
       "surface": "לא",
-      "english": "不能"
+      "gloss": "不能"
     },
     {
       "surface": "ימלט",
-      "english": "救"
+      "gloss": "救"
     },
     {
       "surface": "נפשו",
-      "english": "⟨他的⟩生命"
+      "gloss": "⟨他的⟩生命"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:35.380912079Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
   "ref": "1-kings 11:39",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 412,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64144,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64556
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:06:52.223271832Z",
   "translation": "我必因这事的缘故管教⟨את⟩大卫的后裔,但不是所有的日子⟨都如此⟩。",
   "tokens": [
     {
       "surface": "ואענה",
-      "english": "我必……管教"
+      "gloss": "我必……管教"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "大卫的后裔"
     },
     {
       "surface": "זרע",
-      "english": "后裔"
+      "gloss": "后裔"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "למען",
-      "english": "因……的缘故"
+      "gloss": "因……的缘故"
     },
     {
       "surface": "זאת",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "אך",
-      "english": "但"
+      "gloss": "但"
     },
     {
       "surface": "לא",
-      "english": "不是"
+      "gloss": "不是"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "הימים",
-      "english": "日子"
+      "gloss": "日子"
     }
-  ],
-  "timestamp": "2026-07-17T21:06:52.223271832Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "psalms 118:7",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64339,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64704
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:39.555873999Z",
   "translation": "雅威 ⟨为⟩ 我 ⟨在⟩ 我的帮助者之中；而我，我将观看 ⟨在⟩ 我的恨恶者之中。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לי",
-      "english": "⟨为⟩ 我"
+      "gloss": "⟨为⟩ 我"
     },
     {
       "surface": "בעזרי",
-      "english": "⟨在⟩ 我的帮助者之中"
+      "gloss": "⟨在⟩ 我的帮助者之中"
     },
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "אראה",
-      "english": "我将观看"
+      "gloss": "我将观看"
     },
     {
       "surface": "בשנאי",
-      "english": "⟨在⟩ 我的恨恶者之中"
+      "gloss": "⟨在⟩ 我的恨恶者之中"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:39.555873999Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 3:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 502,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54385,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54887
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:35.494683851Z",
   "translation": "我儿,不要忘记我的妥拉,我的心愿⟨את⟩你要让你的心持守;",
   "tokens": [
     {
       "surface": "בני",
-      "english": "我儿"
+      "gloss": "我儿"
     },
     {
       "surface": "תורתי",
-      "english": "我的妥拉"
+      "gloss": "我的妥拉"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תשכח",
-      "english": "忘记"
+      "gloss": "忘记"
     },
     {
       "surface": "ומצותי",
-      "english": "而我的心愿⟨את⟩"
+      "gloss": "而我的心愿⟨את⟩"
     },
     {
       "surface": "יצר",
-      "english": "你要让……持守"
+      "gloss": "你要让……持守"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:35.494683851Z",
-  "model": "glm-5.2"
+  ]
 }

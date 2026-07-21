@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "lamentations 5:7",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33546,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 34003
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:06.423516560Z",
   "translation": "我们的父辈犯罪了,他们已不在了;我们却背负了他们的罪孽。",
   "tokens": [
     {
       "surface": "אבתינו",
-      "english": "我们的父辈"
+      "gloss": "我们的父辈"
     },
     {
       "surface": "חטאו",
-      "english": "犯罪了"
+      "gloss": "犯罪了"
     },
     {
       "surface": "אינם",
-      "english": "他们已不在了"
+      "gloss": "他们已不在了"
     },
     {
       "surface": "אנחנו",
-      "english": "我们"
+      "gloss": "我们"
     },
     {
       "surface": "עונתיהם",
-      "english": "他们的罪孽"
+      "gloss": "他们的罪孽"
     },
     {
       "surface": "סבלנו",
-      "english": "却背负了"
+      "gloss": "却背负了"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:06.423516560Z",
-  "model": "glm-5.2"
+  ]
 }

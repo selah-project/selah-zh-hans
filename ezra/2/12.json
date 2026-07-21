@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "ezra 2:12",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 234,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46234,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46468
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:08.666903765Z",
   "translation": "亚斯迦得的子孙:一千二百二十二名。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "עזגד",
-      "english": "亚斯迦得"
+      "gloss": "亚斯迦得"
     },
     {
       "surface": "אלף",
-      "english": "一千"
+      "gloss": "一千"
     },
     {
       "surface": "מאתים",
-      "english": "二百"
+      "gloss": "二百"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "ושנים",
-      "english": "和二"
+      "gloss": "和二"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:08.666903765Z",
-  "model": "glm-5.2"
+  ]
 }

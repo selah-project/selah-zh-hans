@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 106:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64145,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64417
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:16.119330349Z",
   "translation": "他们便信了他的*话语*，唱⟨出⟩他的赞美。",
   "tokens": [
     {
       "surface": "ויאמינו",
-      "english": "他们便信了"
+      "gloss": "他们便信了"
     },
     {
       "surface": "בדבריו",
-      "english": "他的*话语*"
+      "gloss": "他的*话语*"
     },
     {
       "surface": "ישירו",
-      "english": "唱⟨出⟩"
+      "gloss": "唱⟨出⟩"
     },
     {
       "surface": "תהלתו",
-      "english": "他的赞美"
+      "gloss": "他的赞美"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:16.119330349Z",
-  "model": "glm-5.2"
+  ]
 }

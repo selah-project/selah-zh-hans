@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "1-samuel 17:3",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18418,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18862
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:31:13.519498298Z",
   "translation": "非利士人站在⟨这⟩边的山上，以色列站在⟨那⟩边的山上，⟨而⟩山谷在他们之间。",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "עמדים",
-      "english": "站⟨着⟩"
+      "gloss": "站⟨着⟩"
     },
     {
       "surface": "אל",
-      "english": "朝⟨向⟩"
+      "gloss": "朝⟨向⟩"
     },
     {
       "surface": "ההר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "מזה",
-      "english": "这边"
+      "gloss": "这边"
     },
     {
       "surface": "וישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "עמדים",
-      "english": "站⟨着⟩"
+      "gloss": "站⟨着⟩"
     },
     {
       "surface": "אל",
-      "english": "朝⟨向⟩"
+      "gloss": "朝⟨向⟩"
     },
     {
       "surface": "ההר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "מזה",
-      "english": "那边"
+      "gloss": "那边"
     },
     {
       "surface": "והגיא",
-      "english": "⟨而⟩山谷"
+      "gloss": "⟨而⟩山谷"
     },
     {
       "surface": "ביניהם",
-      "english": "在他们之间"
+      "gloss": "在他们之间"
     }
-  ],
-  "timestamp": "2026-07-17T20:31:13.519498298Z",
-  "model": "glm-5.2"
+  ]
 }

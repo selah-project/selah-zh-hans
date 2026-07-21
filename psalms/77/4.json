@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 77:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64521,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65015
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:00.426249984Z",
   "translation": "我记念以罗欣,就⟨呻吟⟩;我默想,我的鲁阿就⟨昏厥⟩。细拉。",
   "tokens": [
     {
       "surface": "אזכרה",
-      "english": "我记念"
+      "gloss": "我记念"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ואהמיה",
-      "english": "就⟨呻吟⟩"
+      "gloss": "就⟨呻吟⟩"
     },
     {
       "surface": "אשיחה",
-      "english": "我默想"
+      "gloss": "我默想"
     },
     {
       "surface": "ותתעטף",
-      "english": "就⟨昏厥⟩"
+      "gloss": "就⟨昏厥⟩"
     },
     {
       "surface": "רוחי",
-      "english": "我的鲁阿"
+      "gloss": "我的鲁阿"
     },
     {
       "surface": "סלה",
-      "english": "细拉"
+      "gloss": "细拉"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:00.426249984Z",
-  "model": "glm-5.2"
+  ]
 }

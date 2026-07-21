@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 38:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 484,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18973,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19457
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:54.071539468Z",
   "translation": "他造了它的角，在它的四角上；它的角从它而出，他用铜覆盖⟨את⟩它。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "קרנתיו",
-      "english": "它的角"
+      "gloss": "它的角"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ארבע",
-      "english": "四"
+      "gloss": "四"
     },
     {
       "surface": "פנתיו",
-      "english": "它的角（角落）"
+      "gloss": "它的角（角落）"
     },
     {
       "surface": "ממנו",
-      "english": "从它而出"
+      "gloss": "从它而出"
     },
     {
       "surface": "היו",
-      "english": "它们是"
+      "gloss": "它们是"
     },
     {
       "surface": "קרנתיו",
-      "english": "它的角"
+      "gloss": "它的角"
     },
     {
       "surface": "ויצף",
-      "english": "他覆盖了"
+      "gloss": "他覆盖了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它（铜）"
     },
     {
       "surface": "נחשת",
-      "english": "铜"
+      "gloss": "铜"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:54.071539468Z",
-  "model": "glm-5.2"
+  ]
 }

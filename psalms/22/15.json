@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 22:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64908,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65351
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:22.057410239Z",
   "translation": "如水我被倾倒，我所有的骨头都散了架；我的心如同蜡，在我腹中被融化。",
   "tokens": [
     {
       "surface": "כמים",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "נשפכתי",
-      "english": "我被倾倒"
+      "gloss": "我被倾倒"
     },
     {
       "surface": "והתפרדו",
-      "english": "⟨它们⟩散了架"
+      "gloss": "⟨它们⟩散了架"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "עצמותי",
-      "english": "我的骨头"
+      "gloss": "我的骨头"
     },
     {
       "surface": "היה",
-      "english": "⟨成了⟩"
+      "gloss": "⟨成了⟩"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "כדונג",
-      "english": "如同蜡"
+      "gloss": "如同蜡"
     },
     {
       "surface": "נמס",
-      "english": "被融化"
+      "gloss": "被融化"
     },
     {
       "surface": "בתוך",
-      "english": "在……中"
+      "gloss": "在……中"
     },
     {
       "surface": "מעי",
-      "english": "我的腹"
+      "gloss": "我的腹"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:22.057410239Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "daniel 10:10",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 435,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18796,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 19231
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:34:56.344887039Z",
   "translation": "看哪,一只手触碰了我,⟨它⟩使我颤抖,在⟨我的⟩双膝上,和⟨我的⟩双手的手掌上。",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "יד",
-      "english": "一只手"
+      "gloss": "一只手"
     },
     {
       "surface": "נגעה",
-      "english": "触碰了"
+      "gloss": "触碰了"
     },
     {
       "surface": "בי",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ותניעני",
-      "english": "⟨它⟩使我颤抖"
+      "gloss": "⟨它⟩使我颤抖"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ברכי",
-      "english": "⟨我的⟩双膝"
+      "gloss": "⟨我的⟩双膝"
     },
     {
       "surface": "וכפות",
-      "english": "和⟨我的⟩双手的手掌"
+      "gloss": "和⟨我的⟩双手的手掌"
     },
     {
       "surface": "ידי",
-      "english": "⟨我的⟩双手"
+      "gloss": "⟨我的⟩双手"
     }
-  ],
-  "timestamp": "2026-07-18T01:34:56.344887039Z",
-  "model": "glm-5.2"
+  ]
 }

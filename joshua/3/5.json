@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "joshua 3:5",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18253,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18759
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:51:27.081236685Z",
   "translation": "约书亚对⟨这⟩百姓说：你们要自洁，因为明天雅威要在你们中间行奇事。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "于是约书亚说"
+      "gloss": "于是约书亚说"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "העם",
-      "english": "⟨这⟩百姓"
+      "gloss": "⟨这⟩百姓"
     },
     {
       "surface": "התקדשו",
-      "english": "你们要自洁"
+      "gloss": "你们要自洁"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מחר",
-      "english": "明天"
+      "gloss": "明天"
     },
     {
       "surface": "יעשה",
-      "english": "将行"
+      "gloss": "将行"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בקרבכם",
-      "english": "在你们中间"
+      "gloss": "在你们中间"
     },
     {
       "surface": "נפלאות",
-      "english": "奇事"
+      "gloss": "奇事"
     }
-  ],
-  "timestamp": "2026-07-17T19:51:27.081236685Z",
-  "model": "glm-5.2"
+  ]
 }

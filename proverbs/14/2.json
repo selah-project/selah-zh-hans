@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "proverbs 14:2",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 416,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54454,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54870
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:16.778619562Z",
   "translation": "行走在他的正直中的,⟨是⟩敬畏雅威的人;而他的道路邪僻的,藐视他。",
   "tokens": [
     {
       "surface": "הולך",
-      "english": "行走"
+      "gloss": "行走"
     },
     {
       "surface": "בישרו",
-      "english": "在他的正直中"
+      "gloss": "在他的正直中"
     },
     {
       "surface": "ירא",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ונלוז",
-      "english": "而邪僻的"
+      "gloss": "而邪僻的"
     },
     {
       "surface": "דרכיו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "בוזהו",
-      "english": "藐视他"
+      "gloss": "藐视他"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:16.778619562Z",
-  "model": "glm-5.2"
+  ]
 }

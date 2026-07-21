@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 23,
   "ref": "1-chronicles 24:23",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 433,
-    "prompt_tokens": 58852,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59285
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:52.358821020Z",
   "translation": "耶利雅的众子: 亚玛利雅是第二, 雅哈悉是第三, 耶加面是第四",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "耶利雅的众子:"
+      "gloss": "耶利雅的众子:"
     },
     {
       "surface": "יריהו",
-      "english": "耶利雅"
+      "gloss": "耶利雅"
     },
     {
       "surface": "אמריהו",
-      "english": "亚玛利雅"
+      "gloss": "亚玛利雅"
     },
     {
       "surface": "השני",
-      "english": "是第二"
+      "gloss": "是第二"
     },
     {
       "surface": "יחזיאל",
-      "english": "雅哈悉"
+      "gloss": "雅哈悉"
     },
     {
       "surface": "השלישי",
-      "english": "是第三"
+      "gloss": "是第三"
     },
     {
       "surface": "יקמעם",
-      "english": "耶加面"
+      "gloss": "耶加面"
     },
     {
       "surface": "הרביעי",
-      "english": "是第四"
+      "gloss": "是第四"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:52.358821020Z",
-  "model": "glm-4.5"
+  ]
 }

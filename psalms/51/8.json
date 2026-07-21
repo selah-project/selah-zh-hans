@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 51:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 51,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64482,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64910
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:02.182863905Z",
   "translation": "看哪，你喜悦真理在⟨最深的⟩隐秘处；在⟨被⟩隐藏的⟨内在⟩，你要使我知道智慧。",
   "tokens": [
     {
       "surface": "הֵן",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אֱ֭מֶת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "חָפַ֣צְתָּ",
-      "english": "你喜悦"
+      "gloss": "你喜悦"
     },
     {
       "surface": "בַ\/טֻּח֑וֹת",
-      "english": "在⟨最深的⟩隐秘处"
+      "gloss": "在⟨最深的⟩隐秘处"
     },
     {
       "surface": "וּ֝\/בְ\/סָתֻ֗ם",
-      "english": "并在⟨被⟩隐藏的⟨内在⟩"
+      "gloss": "并在⟨被⟩隐藏的⟨内在⟩"
     },
     {
       "surface": "חָכְמָ֥ה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "תוֹדִיעֵֽ\/נִי",
-      "english": "你要使我知道"
+      "gloss": "你要使我知道"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:02.182863905Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 83:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 83,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64324,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64893
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:56.527969003Z",
   "translation": "如此,愿你的暴风追赶他们;用你的风暴使他们惊惶失措。",
   "tokens": [
     {
       "surface": "כֵּן",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "תִּרְדְּפֵם",
-      "english": "愿⟨你⟩追赶他们"
+      "gloss": "愿⟨你⟩追赶他们"
     },
     {
       "surface": "בְּסַעֲרֶךָ",
-      "english": "用你的暴风"
+      "gloss": "用你的暴风"
     },
     {
       "surface": "וּבְסוּפָתְךָ",
-      "english": "以及用你的风暴"
+      "gloss": "以及用你的风暴"
     },
     {
       "surface": "תְבַהֲלֵם",
-      "english": "使⟨他们⟩惊惶失措"
+      "gloss": "使⟨他们⟩惊惶失措"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:56.527969003Z",
-  "model": "glm-5.2"
+  ]
 }

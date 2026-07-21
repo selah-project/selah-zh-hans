@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 50:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64770,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65176
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:21.124170735Z",
   "translation": "愿我们的以罗欣来,且不要沉默;在⟨他⟩面前有火吞灭,在⟨他⟩周围暴风猛烈发作。",
   "tokens": [
     {
       "surface": "יבא",
-      "english": "愿……来"
+      "gloss": "愿……来"
     },
     {
       "surface": "אלהינו",
-      "english": "我们的以罗欣"
+      "gloss": "我们的以罗欣"
     },
     {
       "surface": "ואל",
-      "english": "且不要"
+      "gloss": "且不要"
     },
     {
       "surface": "יחרש",
-      "english": "沉默"
+      "gloss": "沉默"
     },
     {
       "surface": "אש",
-      "english": "火"
+      "gloss": "火"
     },
     {
       "surface": "לפניו",
-      "english": "在⟨他⟩面前"
+      "gloss": "在⟨他⟩面前"
     },
     {
       "surface": "תאכל",
-      "english": "吞灭"
+      "gloss": "吞灭"
     },
     {
       "surface": "וסביביו",
-      "english": "在⟨他⟩周围"
+      "gloss": "在⟨他⟩周围"
     },
     {
       "surface": "נשערה",
-      "english": "暴风发作"
+      "gloss": "暴风发作"
     },
     {
       "surface": "מאד",
-      "english": "猛烈"
+      "gloss": "猛烈"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:21.124170735Z",
-  "model": "glm-5.2"
+  ]
 }

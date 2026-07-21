@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "ezra 2:4",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 233,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46216,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 46449
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:37:01.621159624Z",
   "translation": "示法提雅的子孙:三百七十二⟨人⟩。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "……的子孙"
+      "gloss": "……的子孙"
     },
     {
       "surface": "שפטיה",
-      "english": "示法提雅"
+      "gloss": "示法提雅"
     },
     {
       "surface": "שלש",
-      "english": "三"
+      "gloss": "三"
     },
     {
       "surface": "מאות",
-      "english": "百"
+      "gloss": "百"
     },
     {
       "surface": "שבעים",
-      "english": "七十"
+      "gloss": "七十"
     },
     {
       "surface": "ושנים",
-      "english": "和二"
+      "gloss": "和二"
     }
-  ],
-  "timestamp": "2026-07-18T01:37:01.621159624Z",
-  "model": "glm-5.2"
+  ]
 }

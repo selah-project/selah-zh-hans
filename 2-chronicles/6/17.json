@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "2-chronicles 6:17",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59955,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60365
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:16:49.260597712Z",
   "translation": "现在呢,雅威,以色列的以罗欣,愿⟨人⟩证实你的⟨דבר⟩(话语),就是你对你仆人־大卫所说⟨的⟩。",
   "tokens": [
     {
       "surface": "ועתה",
-      "english": "现在呢"
+      "gloss": "现在呢"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣 (…的)"
+      "gloss": "以罗欣 (…的)"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "יאמן",
-      "english": "愿⟨人⟩证实"
+      "gloss": "愿⟨人⟩证实"
     },
     {
       "surface": "דברך",
-      "english": "你的⟨דבר⟩(话语)"
+      "gloss": "你的⟨דבר⟩(话语)"
     },
     {
       "surface": "אשר",
-      "english": "(就是)…⟨的⟩"
+      "gloss": "(就是)…⟨的⟩"
     },
     {
       "surface": "דברת",
-      "english": "你…说"
+      "gloss": "你…说"
     },
     {
       "surface": "לעבדך",
-      "english": "对你仆人"
+      "gloss": "对你仆人"
     },
     {
       "surface": "לדויד",
-      "english": "大卫"
+      "gloss": "大卫"
     }
-  ],
-  "timestamp": "2026-07-18T02:16:49.260597712Z",
-  "model": "glm-5.2"
+  ]
 }

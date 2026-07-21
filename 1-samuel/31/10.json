@@ -1,70 +1,59 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-samuel 31:10",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 590,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18503,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 19093
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:39:30.215251021Z",
   "translation": "他们将⟨את⟩他的兵器放在亚斯他录的庙中，又⟨את⟩将他的尸体钉在伯珊的墙上。",
   "tokens": [
     {
       "surface": "וישמו",
-      "english": "他们将……放"
+      "gloss": "他们将……放"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的兵器"
     },
     {
       "surface": "כליו",
-      "english": "他的兵器"
+      "gloss": "他的兵器"
     },
     {
       "surface": "בית",
-      "english": "庙中"
+      "gloss": "庙中"
     },
     {
       "surface": "עשתרות",
-      "english": "亚斯他录"
+      "gloss": "亚斯他录"
     },
     {
       "surface": "ואת",
-      "english": "又⟨את⟩",
+      "gloss": "又⟨את⟩",
       "marks": "他的尸体"
     },
     {
       "surface": "גויתו",
-      "english": "他的尸体"
+      "gloss": "他的尸体"
     },
     {
       "surface": "תקעו",
-      "english": "钉了"
+      "gloss": "钉了"
     },
     {
       "surface": "בחומת",
-      "english": "在墙上"
+      "gloss": "在墙上"
     },
     {
       "surface": "בית",
-      "english": "伯"
+      "gloss": "伯"
     },
     {
       "surface": "שן",
-      "english": "珊"
+      "gloss": "珊"
     }
-  ],
-  "timestamp": "2026-07-17T20:39:30.215251021Z",
-  "model": "glm-5.2"
+  ]
 }

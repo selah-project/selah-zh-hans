@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 28:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 374,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21681,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22055
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:02:32.779356468Z",
   "translation": "以罗欣明白了⟨它的⟩道路,他⟨也⟩知道⟨את⟩它的地方。",
   "tokens": [
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "הבין",
-      "english": "明白了"
+      "gloss": "明白了"
     },
     {
       "surface": "דרכה",
-      "english": "⟨它的⟩道路"
+      "gloss": "⟨它的⟩道路"
     },
     {
       "surface": "והוא",
-      "english": "他⟨也⟩"
+      "gloss": "他⟨也⟩"
     },
     {
       "surface": "ידע",
-      "english": "知道"
+      "gloss": "知道"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的地方"
     },
     {
       "surface": "מקומה",
-      "english": "它的地方"
+      "gloss": "它的地方"
     }
-  ],
-  "timestamp": "2026-07-18T01:02:32.779356468Z",
-  "model": "glm-5.2"
+  ]
 }

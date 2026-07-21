@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 89:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64706,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65088
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:10:58.836553744Z",
   "translation": "万军之雅威,以罗欣啊,谁能与你相似?大有能力的雅,你的信实环绕着你。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "万军之雅威,"
+      "gloss": "万军之雅威,"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣啊,"
+      "gloss": "以罗欣啊,"
     },
     {
       "surface": "צבאות",
-      "english": "万军"
+      "gloss": "万军"
     },
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "כמוך",
-      "english": "能与你相似?"
+      "gloss": "能与你相似?"
     },
     {
       "surface": "חסין",
-      "english": "大有能力的"
+      "gloss": "大有能力的"
     },
     {
       "surface": "יה",
-      "english": "雅,"
+      "gloss": "雅,"
     },
     {
       "surface": "ואמונתך",
-      "english": "你的信实"
+      "gloss": "你的信实"
     },
     {
       "surface": "סביבותיך",
-      "english": "环绕着你。"
+      "gloss": "环绕着你。"
     }
-  ],
-  "timestamp": "2026-07-18T00:10:58.836553744Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "proverbs 8:19",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54409,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54727
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:40.306476421Z",
   "translation": "我的果实 ⟨比⟩ 纯金更好,我的出产 ⟨比⟩ 拣选的银子 ⟨更好⟩。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好"
+      "gloss": "更好"
     },
     {
       "surface": "פריי",
-      "english": "我的果实"
+      "gloss": "我的果实"
     },
     {
       "surface": "מחרוץ",
-      "english": "⟨比⟩ 纯金"
+      "gloss": "⟨比⟩ 纯金"
     },
     {
       "surface": "ומפז",
-      "english": "甚至 ⟨比⟩ 精金"
+      "gloss": "甚至 ⟨比⟩ 精金"
     },
     {
       "surface": "ותבואתי",
-      "english": "我的出产"
+      "gloss": "我的出产"
     },
     {
       "surface": "מכסף",
-      "english": "⟨比⟩ 银子"
+      "gloss": "⟨比⟩ 银子"
     },
     {
       "surface": "נבחר",
-      "english": "拣选的"
+      "gloss": "拣选的"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:40.306476421Z",
-  "model": "glm-5.2"
+  ]
 }

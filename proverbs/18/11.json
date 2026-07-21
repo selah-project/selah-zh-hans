@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 18:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54419,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54773
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:41:46.103322122Z",
   "translation": "富足人的财物⟨是⟩他力量的城，又如⟨一⟩高墙在他想象的之中。",
   "tokens": [
     {
       "surface": "הון",
-      "english": "财物"
+      "gloss": "财物"
     },
     {
       "surface": "עשיר",
-      "english": "富足人的"
+      "gloss": "富足人的"
     },
     {
       "surface": "קרית",
-      "english": "……的城"
+      "gloss": "……的城"
     },
     {
       "surface": "עזו",
-      "english": "他力量的"
+      "gloss": "他力量的"
     },
     {
       "surface": "וכחומה",
-      "english": "又如⟨一⟩墙"
+      "gloss": "又如⟨一⟩墙"
     },
     {
       "surface": "נשגבה",
-      "english": "高的"
+      "gloss": "高的"
     },
     {
       "surface": "במשכיתו",
-      "english": "在他想象的之中"
+      "gloss": "在他想象的之中"
     }
-  ],
-  "timestamp": "2026-07-18T00:41:46.103322122Z",
-  "model": "glm-5.2"
+  ]
 }

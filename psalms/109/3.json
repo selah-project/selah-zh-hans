@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 109:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 109,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64301,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64623
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:22.350920430Z",
   "translation": "仇恨的*话语*围绕着我,他们无故与我争战。",
   "tokens": [
     {
       "surface": "ודברי",
-      "english": "和*话语*"
+      "gloss": "和*话语*"
     },
     {
       "surface": "שנאה",
-      "english": "仇恨的"
+      "gloss": "仇恨的"
     },
     {
       "surface": "סבבוני",
-      "english": "围绕着我"
+      "gloss": "围绕着我"
     },
     {
       "surface": "וילחמוני",
-      "english": "他们与我争战"
+      "gloss": "他们与我争战"
     },
     {
       "surface": "חנם",
-      "english": "无故"
+      "gloss": "无故"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:22.350920430Z",
-  "model": "glm-5.2"
+  ]
 }

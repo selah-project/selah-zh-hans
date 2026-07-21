@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 39,
   "ref": "psalms 89:39",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64364,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64672
-  },
+  "verse": 39,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:17.123390091Z",
   "translation": "而 ⟨你⟩ 摈弃了 ⟨他⟩,弃绝了;你向你的受膏者 ⟨发作了⟩ 怒气。",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "而 ⟨你⟩"
+      "gloss": "而 ⟨你⟩"
     },
     {
       "surface": "זנחת",
-      "english": "摈弃了 ⟨他⟩"
+      "gloss": "摈弃了 ⟨他⟩"
     },
     {
       "surface": "ותמאס",
-      "english": "弃绝了"
+      "gloss": "弃绝了"
     },
     {
       "surface": "התעברת",
-      "english": "你 ⟨发作了⟩ 怒气"
+      "gloss": "你 ⟨发作了⟩ 怒气"
     },
     {
       "surface": "עם",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "משיחך",
-      "english": "你的受膏者"
+      "gloss": "你的受膏者"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:17.123390091Z",
-  "model": "glm-5.2"
+  ]
 }

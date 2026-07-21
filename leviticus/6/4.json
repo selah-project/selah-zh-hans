@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "leviticus 6:4",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19872,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20425
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:43:20.699962098Z",
   "translation": "他⟨要⟩脱下⟨את⟩他的衣服，穿上别的衣服，并把⟨את⟩⟨那⟩灰拿到营外，到一个洁净的地方。",
   "tokens": [
     {
       "surface": "ופשט",
-      "english": "他⟨要⟩脱下"
+      "gloss": "他⟨要⟩脱下"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的衣服"
     },
     {
       "surface": "בגדיו",
-      "english": "他的衣服"
+      "gloss": "他的衣服"
     },
     {
       "surface": "ולבש",
-      "english": "穿上"
+      "gloss": "穿上"
     },
     {
       "surface": "בגדים",
-      "english": "衣服"
+      "gloss": "衣服"
     },
     {
       "surface": "אחרים",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "והוציא",
-      "english": "并把……拿出去"
+      "gloss": "并把……拿出去"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "⟨那⟩灰"
     },
     {
       "surface": "הדשן",
-      "english": "⟨那⟩灰"
+      "gloss": "⟨那⟩灰"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מחוץ",
-      "english": "外面"
+      "gloss": "外面"
     },
     {
       "surface": "למחנה",
-      "english": "营"
+      "gloss": "营"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מקום",
-      "english": "一个地方"
+      "gloss": "一个地方"
     },
     {
       "surface": "טהור",
-      "english": "洁净的"
+      "gloss": "洁净的"
     }
-  ],
-  "timestamp": "2026-07-17T18:43:20.699962098Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "leviticus 27:17",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 275,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18988,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19263
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:59:42.567833470Z",
   "translation": "若他从禧年起将他的田地分别为圣，就按你的估定它⟨被确立⟩。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "משנת",
-      "english": "从……起"
+      "gloss": "从……起"
     },
     {
       "surface": "היבל",
-      "english": "禧年"
+      "gloss": "禧年"
     },
     {
       "surface": "יקדיש",
-      "english": "他将……分别为圣"
+      "gloss": "他将……分别为圣"
     },
     {
       "surface": "שדהו",
-      "english": "他的田地"
+      "gloss": "他的田地"
     },
     {
       "surface": "כערכך",
-      "english": "按你的估定"
+      "gloss": "按你的估定"
     },
     {
       "surface": "יקום",
-      "english": "它被确立"
+      "gloss": "它被确立"
     }
-  ],
-  "timestamp": "2026-07-17T18:59:42.567833470Z",
-  "model": "glm-5.2"
+  ]
 }

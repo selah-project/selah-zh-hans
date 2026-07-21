@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "song-of-songs 7:12",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22034,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22339
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:38.250103946Z",
   "translation": "来,我的良人,让我们出去到田野,让我们在村庄过夜。",
   "tokens": [
     {
       "surface": "לכה",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "דודי",
-      "english": "我的良人"
+      "gloss": "我的良人"
     },
     {
       "surface": "נצא",
-      "english": "让我们出去"
+      "gloss": "让我们出去"
     },
     {
       "surface": "השדה",
-      "english": "到田野"
+      "gloss": "到田野"
     },
     {
       "surface": "נלינה",
-      "english": "让我们过夜"
+      "gloss": "让我们过夜"
     },
     {
       "surface": "בכפרים",
-      "english": "在村庄"
+      "gloss": "在村庄"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:38.250103946Z",
-  "model": "glm-5.2"
+  ]
 }

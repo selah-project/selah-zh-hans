@@ -1,53 +1,45 @@
 {
-  "tier": "bulk",
-  "verse": 15,
   "ref": "psalms 45:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 45,
-  "usage": {
-    "completion_tokens": 358,
-    "prompt_tokens": 64567,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 64925
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T02:36:01.795160952Z",
   "translation": "在绣花衣裳中,她被领去见王;在她后面的童女,她的伴侣,被带到你那里。",
   "tokens": [
     {
       "surface": "לרקמות",
-      "english": "在绣花衣裳中"
+      "gloss": "在绣花衣裳中"
     },
     {
       "surface": "תובל",
-      "english": "她被领去"
+      "gloss": "她被领去"
     },
     {
       "surface": "למלך",
-      "english": "见王"
+      "gloss": "见王"
     },
     {
       "surface": "בתולות",
-      "english": "童女"
+      "gloss": "童女"
     },
     {
       "surface": "אחריה",
-      "english": "在她后面的"
+      "gloss": "在她后面的"
     },
     {
       "surface": "רעותיה",
-      "english": "她的伴侣"
+      "gloss": "她的伴侣"
     },
     {
       "surface": "מובאות",
-      "english": "被带到"
+      "gloss": "被带到"
     },
     {
       "surface": "לך",
-      "english": "你那里"
+      "gloss": "你那里"
     }
-  ],
-  "timestamp": "2026-07-21T02:36:01.795160952Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "job 36:17",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 365,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21536,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21901
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:50.685514382Z",
   "translation": "但你满了恶人的判决,判决与公正⟨将⟩支撑你。",
   "tokens": [
     {
       "surface": "ודין",
-      "english": "但⟨……的⟩判决"
+      "gloss": "但⟨……的⟩判决"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "מלאת",
-      "english": "你满了"
+      "gloss": "你满了"
     },
     {
       "surface": "דין",
-      "english": "判决"
+      "gloss": "判决"
     },
     {
       "surface": "ומשפט",
-      "english": "与公正"
+      "gloss": "与公正"
     },
     {
       "surface": "יתמכו",
-      "english": "⟨将⟩支撑你"
+      "gloss": "⟨将⟩支撑你"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:50.685514382Z",
-  "model": "glm-5.2"
+  ]
 }

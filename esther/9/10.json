@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "esther 9:10",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 541,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19778,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20319
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:27:34.114500783Z",
   "translation": "哈曼——米大他的儿子、犹太人的仇敌——的十个儿子,他们杀了;但至于掠物,他们没有伸出 ⟨את⟩ 他们的手。",
   "tokens": [
     {
       "surface": "עשרת",
-      "english": "十个"
+      "gloss": "十个"
     },
     {
       "surface": "בני",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "המן",
-      "english": "哈曼"
+      "gloss": "哈曼"
     },
     {
       "surface": "בן",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "המדתא",
-      "english": "米大他"
+      "gloss": "米大他"
     },
     {
       "surface": "צרר",
-      "english": "仇敌"
+      "gloss": "仇敌"
     },
     {
       "surface": "היהודים",
-      "english": "犹太人的"
+      "gloss": "犹太人的"
     },
     {
       "surface": "הרגו",
-      "english": "他们杀了"
+      "gloss": "他们杀了"
     },
     {
       "surface": "ובבזה",
-      "english": "但至于掠物"
+      "gloss": "但至于掠物"
     },
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "שלחו",
-      "english": "他们伸出"
+      "gloss": "他们伸出"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的手"
     },
     {
       "surface": "ידם",
-      "english": "他们的手"
+      "gloss": "他们的手"
     }
-  ],
-  "timestamp": "2026-07-18T01:27:34.114500783Z",
-  "model": "glm-5.2"
+  ]
 }

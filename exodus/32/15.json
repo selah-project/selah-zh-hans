@@ -1,92 +1,81 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 32:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 547,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19234,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19781
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:33:22.936228682Z",
   "translation": "摩西转身下山，手中拿着两块见证的法版；法版两面都有文字，从这边和从那边，它们⟨都⟩刻着字。",
   "tokens": [
     {
       "surface": "ויפן",
-      "english": "转身"
+      "gloss": "转身"
     },
     {
       "surface": "וירד",
-      "english": "下"
+      "gloss": "下"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "ההר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "ושני",
-      "english": "和两块"
+      "gloss": "和两块"
     },
     {
       "surface": "לחת",
-      "english": "法版"
+      "gloss": "法版"
     },
     {
       "surface": "העדת",
-      "english": "见证的"
+      "gloss": "见证的"
     },
     {
       "surface": "בידו",
-      "english": "在他手中"
+      "gloss": "在他手中"
     },
     {
       "surface": "לחת",
-      "english": "法版"
+      "gloss": "法版"
     },
     {
       "surface": "כתבים",
-      "english": "写有文字"
+      "gloss": "写有文字"
     },
     {
       "surface": "משני",
-      "english": "从两面"
+      "gloss": "从两面"
     },
     {
       "surface": "עבריהם",
-      "english": "它们的侧"
+      "gloss": "它们的侧"
     },
     {
       "surface": "מזה",
-      "english": "从这边"
+      "gloss": "从这边"
     },
     {
       "surface": "ומזה",
-      "english": "和从那边"
+      "gloss": "和从那边"
     },
     {
       "surface": "הם",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "כתבים",
-      "english": "刻着字"
+      "gloss": "刻着字"
     }
-  ],
-  "timestamp": "2026-07-17T18:33:22.936228682Z",
-  "model": "glm-5.2"
+  ]
 }

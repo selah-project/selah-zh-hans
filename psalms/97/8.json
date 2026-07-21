@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 97:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 97,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64744,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65149
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:48.616495223Z",
   "translation": "锡安听见就欢喜，犹大的众女子快乐，因着你的典章，雅威啊。",
   "tokens": [
     {
       "surface": "שמעה",
-      "english": "听见"
+      "gloss": "听见"
     },
     {
       "surface": "ותשמח",
-      "english": "就欢喜"
+      "gloss": "就欢喜"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "ותגלנה",
-      "english": "快乐"
+      "gloss": "快乐"
     },
     {
       "surface": "בנות",
-      "english": "众女子"
+      "gloss": "众女子"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "למען",
-      "english": "因着"
+      "gloss": "因着"
     },
     {
       "surface": "משפטיך",
-      "english": "你的典章"
+      "gloss": "你的典章"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:48.616495223Z",
-  "model": "glm-5.2"
+  ]
 }

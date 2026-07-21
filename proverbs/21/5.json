@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 21:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54470,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54900
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:43:36.433516748Z",
   "translation": "筹谋者的思念⟨必引⟨את⟩增益⟩；而凡急躁的人⟨必致缺乏⟩。",
   "tokens": [
     {
       "surface": "מחשבות",
-      "english": "思念"
+      "gloss": "思念"
     },
     {
       "surface": "חרוץ",
-      "english": "筹谋者的"
+      "gloss": "筹谋者的"
     },
     {
       "surface": "אך",
-      "english": "必"
+      "gloss": "必"
     },
     {
       "surface": "למותר",
-      "english": "⟨引向⟩增益"
+      "gloss": "⟨引向⟩增益"
     },
     {
       "surface": "וכל",
-      "english": "而凡"
+      "gloss": "而凡"
     },
     {
       "surface": "אץ",
-      "english": "急躁的人"
+      "gloss": "急躁的人"
     },
     {
       "surface": "אך",
-      "english": "必"
+      "gloss": "必"
     },
     {
       "surface": "למחסור",
-      "english": "⟨致⟩缺乏"
+      "gloss": "⟨致⟩缺乏"
     }
-  ],
-  "timestamp": "2026-07-18T00:43:36.433516748Z",
-  "model": "glm-5.2"
+  ]
 }

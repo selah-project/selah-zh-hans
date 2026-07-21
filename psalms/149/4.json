@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 149:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 149,
-  "usage": {
-    "completion_tokens": 511,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64458,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64969
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:32:18.443306144Z",
   "translation": "因为雅威喜悦⟨他的⟩百姓；他用*ישועה*（拯救）装饰谦卑人。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "רוצה",
-      "english": "喜悦"
+      "gloss": "喜悦"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "בעמו",
-      "english": "⟨他的⟩百姓"
+      "gloss": "⟨他的⟩百姓"
     },
     {
       "surface": "יפאר",
-      "english": "他装饰"
+      "gloss": "他装饰"
     },
     {
       "surface": "ענוים",
-      "english": "谦卑人"
+      "gloss": "谦卑人"
     },
     {
       "surface": "בישועה",
-      "english": "用*ישועה*（拯救）"
+      "gloss": "用*ישועה*（拯救）"
     }
-  ],
-  "timestamp": "2026-07-18T00:32:18.443306144Z",
-  "model": "glm-5.2"
+  ]
 }

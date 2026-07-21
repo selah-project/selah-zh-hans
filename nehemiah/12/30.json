@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "nehemiah 12:30",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51496,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51885
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:49:54.559922998Z",
   "translation": "祭司们和利未人洁净了自己，他们又洁净了⟨את⟩百姓、⟨את⟩城门和⟨את⟩城墙。",
   "tokens": [
     {
       "surface": "ויטהרו",
-      "english": "洁净了自己"
+      "gloss": "洁净了自己"
     },
     {
       "surface": "הכהנים",
-      "english": "祭司们"
+      "gloss": "祭司们"
     },
     {
       "surface": "והלוים",
-      "english": "和利未人"
+      "gloss": "和利未人"
     },
     {
       "surface": "ויטהרו",
-      "english": "他们又洁净了"
+      "gloss": "他们又洁净了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "百姓"
     },
     {
       "surface": "העם",
-      "english": "百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "城门"
     },
     {
       "surface": "השערים",
-      "english": "城门"
+      "gloss": "城门"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "城墙"
     },
     {
       "surface": "החומה",
-      "english": "城墙"
+      "gloss": "城墙"
     }
-  ],
-  "timestamp": "2026-07-18T01:49:54.559922998Z",
-  "model": "glm-5.2"
+  ]
 }

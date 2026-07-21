@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 85:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64359,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64720
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:30.299308067Z",
   "translation": "真理从地生出,公义从诸天俯瞰。",
   "tokens": [
     {
       "surface": "אמת",
-      "english": "真理"
+      "gloss": "真理"
     },
     {
       "surface": "מארץ",
-      "english": "从地"
+      "gloss": "从地"
     },
     {
       "surface": "תצמח",
-      "english": "生出"
+      "gloss": "生出"
     },
     {
       "surface": "וצדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "משמים",
-      "english": "从诸天"
+      "gloss": "从诸天"
     },
     {
       "surface": "נשקף",
-      "english": "俯瞰"
+      "gloss": "俯瞰"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:30.299308067Z",
-  "model": "glm-5.2"
+  ]
 }

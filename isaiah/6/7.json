@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 6:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 495,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21139,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21634
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:37:10.312958256Z",
   "translation": "他触碰了我的口,就说:看哪,这触碰了你的嘴唇;你的罪孽⟨已被⟩移除,你的罪⟨已被⟩遮盖。",
   "tokens": [
     {
       "surface": "ויגע",
-      "english": "他触碰了"
+      "gloss": "他触碰了"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "ויאמר",
-      "english": "就说"
+      "gloss": "就说"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "נגע",
-      "english": "这触碰了"
+      "gloss": "这触碰了"
     },
     {
       "surface": "זה",
-      "english": "这个"
+      "gloss": "这个"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "שפתיך",
-      "english": "你的嘴唇"
+      "gloss": "你的嘴唇"
     },
     {
       "surface": "וסר",
-      "english": "⟨已被⟩移除"
+      "gloss": "⟨已被⟩移除"
     },
     {
       "surface": "עונך",
-      "english": "你的罪孽"
+      "gloss": "你的罪孽"
     },
     {
       "surface": "וחטאתך",
-      "english": "你的罪"
+      "gloss": "你的罪"
     },
     {
       "surface": "תכפר",
-      "english": "⟨已被⟩遮盖"
+      "gloss": "⟨已被⟩遮盖"
     }
-  ],
-  "timestamp": "2026-07-17T21:37:10.312958256Z",
-  "model": "glm-5.2"
+  ]
 }

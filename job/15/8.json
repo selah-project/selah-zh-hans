@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 15:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 514,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21467,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21981
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:56:49.124023824Z",
   "translation": "你⟨是否⟩在以罗欣的*סוד*（秘密议会）中聆听？智慧向你收拢⟨仅归于你⟩吗？",
   "tokens": [
     {
       "surface": "הבסוד",
-      "english": "在*סוד*（秘密议会）中"
+      "gloss": "在*סוד*（秘密议会）中"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "תשמע",
-      "english": "你聆听"
+      "gloss": "你聆听"
     },
     {
       "surface": "ותגרע",
-      "english": "你收拢"
+      "gloss": "你收拢"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     }
-  ],
-  "timestamp": "2026-07-18T00:56:49.124023824Z",
-  "model": "glm-5.2"
+  ]
 }

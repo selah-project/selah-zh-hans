@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "2-chronicles 35:23",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60044,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60599
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:36:06.736303639Z",
   "translation": "弓箭手向约西亚王射箭；王对他的仆人们说：⟨你们⟩把我带⟨走⟩，因为我病得极其严重。",
   "tokens": [
     {
       "surface": "וירו",
-      "english": "弓箭手射箭"
+      "gloss": "弓箭手射箭"
     },
     {
       "surface": "הירים",
-      "english": "（向）"
+      "gloss": "（向）"
     },
     {
       "surface": "למלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יאשיהו",
-      "english": "约西亚"
+      "gloss": "约西亚"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨王⟩说"
+      "gloss": "⟨王⟩说"
     },
     {
       "surface": "המלך",
-      "english": "⟨王⟩"
+      "gloss": "⟨王⟩"
     },
     {
       "surface": "לעבדיו",
-      "english": "对他的仆人们"
+      "gloss": "对他的仆人们"
     },
     {
       "surface": "העבירוני",
-      "english": "把我带⟨走⟩"
+      "gloss": "把我带⟨走⟩"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "החליתי",
-      "english": "我病得极其严重"
+      "gloss": "我病得极其严重"
     },
     {
       "surface": "מאד",
-      "english": "（极其）"
+      "gloss": "（极其）"
     }
-  ],
-  "timestamp": "2026-07-18T02:36:06.736303639Z",
-  "model": "glm-5.2"
+  ]
 }

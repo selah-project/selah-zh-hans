@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "leviticus 4:5",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19225,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19676
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:34.294911453Z",
   "translation": "⟨那⟩受膏者祭司要取⟨那⟩公牛的血，把它带⟨את⟩到会幕。",
   "tokens": [
     {
       "surface": "ולקח",
-      "english": "要取"
+      "gloss": "要取"
     },
     {
       "surface": "הכהן",
-      "english": "⟨那⟩祭司"
+      "gloss": "⟨那⟩祭司"
     },
     {
       "surface": "המשיח",
-      "english": "⟨那⟩受膏者"
+      "gloss": "⟨那⟩受膏者"
     },
     {
       "surface": "מדם",
-      "english": "从血"
+      "gloss": "从血"
     },
     {
       "surface": "הפר",
-      "english": "⟨那⟩公牛的"
+      "gloss": "⟨那⟩公牛的"
     },
     {
       "surface": "והביא",
-      "english": "并带"
+      "gloss": "并带"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩它",
+      "gloss": "⟨את⟩它",
       "marks": "到 (אל)"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אהל",
-      "english": "会幕"
+      "gloss": "会幕"
     },
     {
       "surface": "מועד",
-      "english": "会幕"
+      "gloss": "会幕"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:34.294911453Z",
-  "model": "glm-5.2"
+  ]
 }

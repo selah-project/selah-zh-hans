@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 65:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64518,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64961
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:01:18.641980384Z",
   "translation": "草场披上羊群，山谷也裹满谷物；它们发出欢呼，甚至歌唱。",
   "tokens": [
     {
       "surface": "לבשו",
-      "english": "披上"
+      "gloss": "披上"
     },
     {
       "surface": "כרים",
-      "english": "草场"
+      "gloss": "草场"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ועמקים",
-      "english": "山谷也"
+      "gloss": "山谷也"
     },
     {
       "surface": "יעטפו",
-      "english": "裹满"
+      "gloss": "裹满"
     },
     {
       "surface": "בר",
-      "english": "谷物"
+      "gloss": "谷物"
     },
     {
       "surface": "יתרועעו",
-      "english": "它们发出欢呼"
+      "gloss": "它们发出欢呼"
     },
     {
       "surface": "אף",
-      "english": "甚至"
+      "gloss": "甚至"
     },
     {
       "surface": "ישירו",
-      "english": "歌唱"
+      "gloss": "歌唱"
     }
-  ],
-  "timestamp": "2026-07-18T00:01:18.641980384Z",
-  "model": "glm-5.2"
+  ]
 }

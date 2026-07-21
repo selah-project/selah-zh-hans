@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "job 32:7",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 32,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21591,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22044
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:04:45.200486280Z",
   "translation": "我说：日子⟨应当⟩说话，⟨而⟩多年的岁月⟨应当⟩使人认识智慧。",
   "tokens": [
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "ימים",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "ידברו",
-      "english": "⟨应当⟩说话"
+      "gloss": "⟨应当⟩说话"
     },
     {
       "surface": "ורב",
-      "english": "⟨而⟩多"
+      "gloss": "⟨而⟩多"
     },
     {
       "surface": "שנים",
-      "english": "年的岁月"
+      "gloss": "年的岁月"
     },
     {
       "surface": "ידיעו",
-      "english": "⟨应当⟩使人认识"
+      "gloss": "⟨应当⟩使人认识"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     }
-  ],
-  "timestamp": "2026-07-18T01:04:45.200486280Z",
-  "model": "glm-5.2"
+  ]
 }

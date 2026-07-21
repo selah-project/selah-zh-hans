@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 26:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54373,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54771
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:46.599884509Z",
   "translation": "如同狗回到⟨它的⟩呕吐物，愚昧人重复⟨他的⟩愚妄。",
   "tokens": [
     {
       "surface": "ככלב",
-      "english": "如同狗"
+      "gloss": "如同狗"
     },
     {
       "surface": "שב",
-      "english": "回到"
+      "gloss": "回到"
     },
     {
       "surface": "על",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "קאו",
-      "english": "呕吐物"
+      "gloss": "呕吐物"
     },
     {
       "surface": "כסיל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "שונה",
-      "english": "重复"
+      "gloss": "重复"
     },
     {
       "surface": "באולתו",
-      "english": "⟨他的⟩愚妄"
+      "gloss": "⟨他的⟩愚妄"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:46.599884509Z",
-  "model": "glm-5.2"
+  ]
 }

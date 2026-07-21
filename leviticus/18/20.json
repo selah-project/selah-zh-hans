@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "leviticus 18:20",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 449,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19071,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19520
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:52:44.779394262Z",
   "translation": "不可将你的同伴随伴之妻 ⟨⟨给⟩⟩ 你的交合之种，⟨以此⟩ 与她一同陷入不洁。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "至于"
+      "gloss": "至于"
     },
     {
       "surface": "אשת",
-      "english": "……之妻"
+      "gloss": "……之妻"
     },
     {
       "surface": "עמיתך",
-      "english": "你的同伴"
+      "gloss": "你的同伴"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תתן",
-      "english": "⟨给⟩"
+      "gloss": "⟨给⟩"
     },
     {
       "surface": "שכבתך",
-      "english": "你的交合"
+      "gloss": "你的交合"
     },
     {
       "surface": "לזרע",
-      "english": "之种"
+      "gloss": "之种"
     },
     {
       "surface": "לטמאה",
-      "english": "陷入不洁"
+      "gloss": "陷入不洁"
     },
     {
       "surface": "בה",
-      "english": "与她"
+      "gloss": "与她"
     }
-  ],
-  "timestamp": "2026-07-17T18:52:44.779394262Z",
-  "model": "glm-5.2"
+  ]
 }

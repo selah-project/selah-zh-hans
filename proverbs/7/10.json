@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "proverbs 7:10",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 414,
-    "prompt_tokens": 54360,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54774
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:13:58.026069581Z",
   "translation": "看哪,有一个妇女出来迎向他,装扮得像妓女,且心中藏匿 ⟨计谋⟩",
   "tokens": [
     {
       "surface": "והנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "אשה",
-      "english": "有一个妇女"
+      "gloss": "有一个妇女"
     },
     {
       "surface": "לקראתו",
-      "english": "出来迎向他"
+      "gloss": "出来迎向他"
     },
     {
       "surface": "שית",
-      "english": "装扮得像妓女"
+      "gloss": "装扮得像妓女"
     },
     {
       "surface": "זונה",
-      "english": "妓女"
+      "gloss": "妓女"
     },
     {
       "surface": "ונצרת",
-      "english": "且心中藏匿"
+      "gloss": "且心中藏匿"
     },
     {
       "surface": "לב",
-      "english": "计谋"
+      "gloss": "计谋"
     }
-  ],
-  "timestamp": "2026-07-21T13:13:58.026069581Z",
-  "model": "glm-4.5"
+  ]
 }

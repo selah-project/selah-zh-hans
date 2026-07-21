@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "1-kings 10:1",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 584,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64296,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64880
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:05:24.181082814Z",
   "translation": "示巴女王听见了关于所罗门——关乎雅威之名——的 ⟨את⟩ 名声报导；她来要用谜语试验他。",
   "tokens": [
     {
       "surface": "ומלכת",
-      "english": "女王"
+      "gloss": "女王"
     },
     {
       "surface": "שבא",
-      "english": "示巴"
+      "gloss": "示巴"
     },
     {
       "surface": "שמעת",
-      "english": "她听见了"
+      "gloss": "她听见了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "名声报导"
     },
     {
       "surface": "שמע",
-      "english": "名声报导"
+      "gloss": "名声报导"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "לשם",
-      "english": "关乎……之名"
+      "gloss": "关乎……之名"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ותבא",
-      "english": "她来"
+      "gloss": "她来"
     },
     {
       "surface": "לנסתו",
-      "english": "要试验他"
+      "gloss": "要试验他"
     },
     {
       "surface": "בחידות",
-      "english": "用谜语"
+      "gloss": "用谜语"
     }
-  ],
-  "timestamp": "2026-07-17T21:05:24.181082814Z",
-  "model": "glm-5.2"
+  ]
 }

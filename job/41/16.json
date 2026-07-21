@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 41:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 454,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21561,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22015
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:09:50.191139952Z",
   "translation": "他的心⟨被⟩倾注如石，⟨並且⟩被倾注如下方的磨石。",
   "tokens": [
     {
       "surface": "לבו",
-      "english": "他的心"
+      "gloss": "他的心"
     },
     {
       "surface": "יצוק",
-      "english": "⟨被⟩倾注"
+      "gloss": "⟨被⟩倾注"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "אבן",
-      "english": "石"
+      "gloss": "石"
     },
     {
       "surface": "ויצוק",
-      "english": "⟨並且⟩被倾注"
+      "gloss": "⟨並且⟩被倾注"
     },
     {
       "surface": "כפלח",
-      "english": "如磨石"
+      "gloss": "如磨石"
     },
     {
       "surface": "תחתית",
-      "english": "下方的"
+      "gloss": "下方的"
     }
-  ],
-  "timestamp": "2026-07-18T01:09:50.191139952Z",
-  "model": "glm-5.2"
+  ]
 }

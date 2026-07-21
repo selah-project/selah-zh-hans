@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 65:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 65,
-  "usage": {
-    "completion_tokens": 654,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21034,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21688
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:05:20.336987783Z",
   "translation": "⟨那⟩百姓,⟨那些⟩惹我发怒的,⟨את⟩-我,⟨在我⟩脸⟨前⟩ continually 地,在园子⟨里⟩献祭,又在砖头⟨上⟩烧香;",
   "tokens": [
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "המכעיסים",
-      "english": "⟨那些⟩惹我发怒的"
+      "gloss": "⟨那些⟩惹我发怒的"
     },
     {
       "surface": "אותי",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我"
     },
     {
       "surface": "על",
-      "english": "⟨在……上⟩"
+      "gloss": "⟨在……上⟩"
     },
     {
       "surface": "פני",
-      "english": "脸"
+      "gloss": "脸"
     },
     {
       "surface": "תמיד",
-      "english": "continually 地"
+      "gloss": "continually 地"
     },
     {
       "surface": "זבחים",
-      "english": "献祭"
+      "gloss": "献祭"
     },
     {
       "surface": "בגנות",
-      "english": "在园子⟨里⟩"
+      "gloss": "在园子⟨里⟩"
     },
     {
       "surface": "ומקטרים",
-      "english": "又烧香"
+      "gloss": "又烧香"
     },
     {
       "surface": "על",
-      "english": "⟨在……上⟩"
+      "gloss": "⟨在……上⟩"
     },
     {
       "surface": "הלבנים",
-      "english": "砖头"
+      "gloss": "砖头"
     }
-  ],
-  "timestamp": "2026-07-17T22:05:20.336987783Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 29,
   "ref": "psalms 118:29",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 118,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64404,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64719
-  },
+  "verse": 29,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:54.147979103Z",
   "translation": "你们要称谢雅威,因为他 ⟨是⟩ 善的,因为他 ⟨的⟩ 坚爱 ⟨存⟩ 到永远。",
   "tokens": [
     {
       "surface": "הודו",
-      "english": "你们要称谢"
+      "gloss": "你们要称谢"
     },
     {
       "surface": "ליהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "טוב",
-      "english": "善的"
+      "gloss": "善的"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "חסדו",
-      "english": "他的坚爱"
+      "gloss": "他的坚爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:54.147979103Z",
-  "model": "glm-5.2"
+  ]
 }

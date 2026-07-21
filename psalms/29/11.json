@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "psalms 29:11",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 376,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64676,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65052
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:35.020645819Z",
   "translation": "雅威将力量赐给⟨他的⟩百姓,雅威必赐福⟨他的⟩百姓⟨את⟩,以平安。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "עז",
-      "english": "力量"
+      "gloss": "力量"
     },
     {
       "surface": "לעמו",
-      "english": "赐给⟨他的⟩百姓"
+      "gloss": "赐给⟨他的⟩百姓"
     },
     {
       "surface": "יתן",
-      "english": "将……赐给"
+      "gloss": "将……赐给"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "יברך",
-      "english": "必赐福"
+      "gloss": "必赐福"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的百姓"
     },
     {
       "surface": "עמו",
-      "english": "⟨他的⟩百姓"
+      "gloss": "⟨他的⟩百姓"
     },
     {
       "surface": "בשלום",
-      "english": "以平安"
+      "gloss": "以平安"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:35.020645819Z",
-  "model": "glm-5.2"
+  ]
 }

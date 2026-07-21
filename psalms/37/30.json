@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "psalms 37:30",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64398,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64824
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:43.173226994Z",
   "translation": "义人的口默念智慧，他的舌头讲述公平。",
   "tokens": [
     {
       "surface": "פִּֽי",
-      "english": "……的口"
+      "gloss": "……的口"
     },
     {
       "surface": "צַ֭דִּיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "יֶהְגֶּ֣ה",
-      "english": "默念"
+      "gloss": "默念"
     },
     {
       "surface": "חָכְמָ֑ה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "וּ֝\/לְשׁוֹנ֗\/וֹ",
-      "english": "他的舌头"
+      "gloss": "他的舌头"
     },
     {
       "surface": "תְּדַבֵּ֥ר",
-      "english": "讲述"
+      "gloss": "讲述"
     },
     {
       "surface": "מִשְׁפָּֽט",
-      "english": "公平"
+      "gloss": "公平"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:43.173226994Z",
-  "model": "glm-5.2"
+  ]
 }

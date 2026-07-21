@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "daniel 11:9",
   "book": "daniel",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 356,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18564,
-    "prompt_tokens_details": {
-      "cached_tokens": 17600
-    },
-    "total_tokens": 18920
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:35:31.536957255Z",
   "translation": "他进入了南方王（מֶלֶךְ הַ\/נֶּגֶב）的国度，返回了自己的地土。",
   "tokens": [
     {
       "surface": "וּ\/בָ֗א",
-      "english": "他进入了"
+      "gloss": "他进入了"
     },
     {
       "surface": "בְּ\/מַלְכוּת֙",
-      "english": "国度"
+      "gloss": "国度"
     },
     {
       "surface": "מֶ֣לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "הַ\/נֶּ֔גֶב",
-      "english": "南方"
+      "gloss": "南方"
     },
     {
       "surface": "וְ\/שָׁ֖ב",
-      "english": "返回了"
+      "gloss": "返回了"
     },
     {
       "surface": "אֶל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אַדְמָתֽ\/וֹ",
-      "english": "他的地土"
+      "gloss": "他的地土"
     }
-  ],
-  "timestamp": "2026-07-18T01:35:31.536957255Z",
-  "model": "glm-5.2"
+  ]
 }

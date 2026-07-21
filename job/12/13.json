@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "job 12:13",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 418,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21431,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21849
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:54:59.880754338Z",
   "translation": "与他⟨同在⟩的是智慧和能力,属他的是谋略和洞察力。",
   "tokens": [
     {
       "surface": "עִ֭מּ\/וֹ",
-      "english": "与他……⟨同在⟩的是"
+      "gloss": "与他……⟨同在⟩的是"
     },
     {
       "surface": "חָכְמָ֣ה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "וּ\/גְבוּרָ֑ה",
-      "english": "和能力"
+      "gloss": "和能力"
     },
     {
       "surface": "ל֝֗\/וֹ",
-      "english": "属他的是"
+      "gloss": "属他的是"
     },
     {
       "surface": "עֵצָ֥ה",
-      "english": "谋略"
+      "gloss": "谋略"
     },
     {
       "surface": "וּ\/תְבוּנָֽה",
-      "english": "和洞察力"
+      "gloss": "和洞察力"
     }
-  ],
-  "timestamp": "2026-07-18T00:54:59.880754338Z",
-  "model": "glm-5.2"
+  ]
 }

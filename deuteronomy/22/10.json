@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 22:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18864,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19186
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:41:20.523670149Z",
   "translation": "不可用牛和驴一起耕地。",
   "tokens": [
     {
       "surface": "לֹֽא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תַחֲרֹ֥שׁ",
-      "english": "耕地"
+      "gloss": "耕地"
     },
     {
       "surface": "בְּ\/שׁוֹר",
-      "english": "用牛"
+      "gloss": "用牛"
     },
     {
       "surface": "וּ\/בַ\/חֲמֹ֖ר",
-      "english": "和驴"
+      "gloss": "和驴"
     },
     {
       "surface": "יַחְדָּֽו",
-      "english": "一起"
+      "gloss": "一起"
     }
-  ],
-  "timestamp": "2026-07-17T19:41:20.523670149Z",
-  "model": "glm-5.2"
+  ]
 }

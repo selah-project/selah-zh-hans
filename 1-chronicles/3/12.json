@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "1-chronicles 3:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 220,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58485,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58705
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:53:24.315279189Z",
   "translation": "亚玛谢 ⟨的⟩ 子，亚撒利雅 ⟨的⟩ 子，约坦 ⟨的⟩ 子。",
   "tokens": [
     {
       "surface": "אמציהו",
-      "english": "亚玛谢"
+      "gloss": "亚玛谢"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     },
     {
       "surface": "עזריה",
-      "english": "亚撒利雅"
+      "gloss": "亚撒利雅"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     },
     {
       "surface": "יותם",
-      "english": "约坦"
+      "gloss": "约坦"
     },
     {
       "surface": "בנו",
-      "english": "⟨的⟩ 子"
+      "gloss": "⟨的⟩ 子"
     }
-  ],
-  "timestamp": "2026-07-18T01:53:24.315279189Z",
-  "model": "glm-5.2"
+  ]
 }

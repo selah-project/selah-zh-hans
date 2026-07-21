@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "judges 5:10",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 565,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18005,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18570
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:48:46.935722646Z",
   "translation": "骑白色母驴的、坐在⟨הַ⟩毡毯上的、和在道路上行走的人哪,你们⟨要⟩述说!",
   "tokens": [
     {
       "surface": "רֹכְבֵי֩",
-      "english": "骑……的人"
+      "gloss": "骑……的人"
     },
     {
       "surface": "אֲתֹנ֨וֹת",
-      "english": "母驴"
+      "gloss": "母驴"
     },
     {
       "surface": "צְחֹר֜וֹת",
-      "english": "白色的"
+      "gloss": "白色的"
     },
     {
       "surface": "יֹשְׁבֵ֧י",
-      "english": "坐在……上的人"
+      "gloss": "坐在……上的人"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "מִדִּ֛ין",
-      "english": "毡毯"
+      "gloss": "毡毯"
     },
     {
       "surface": "וְ\/הֹלְכֵ֥י",
-      "english": "和行走的人"
+      "gloss": "和行走的人"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "דֶּ֖רֶךְ",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "שִֽׂיחוּ",
-      "english": "你们述说!"
+      "gloss": "你们述说!"
     }
-  ],
-  "timestamp": "2026-07-18T02:48:46.935722646Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "job 13:12",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 554,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21561,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22115
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:55:38.532036698Z",
   "translation": "你们的纪念物 ⟨是⟩ 灰烬的箴言，至于你们的背 ⟨是⟩ 泥土的背。",
   "tokens": [
     {
       "surface": "זִֽ֭כְרֹנֵי\/כֶם",
-      "english": "你们的纪念物"
+      "gloss": "你们的纪念物"
     },
     {
       "surface": "מִשְׁלֵי",
-      "english": "灰烬的箴言"
+      "gloss": "灰烬的箴言"
     },
     {
       "surface": "אֵ֑פֶר",
-      "english": "灰烬"
+      "gloss": "灰烬"
     },
     {
       "surface": "לְ\/גַבֵּי",
-      "english": "至于你们的背"
+      "gloss": "至于你们的背"
     },
     {
       "surface": "חֹ֝מֶר",
-      "english": "泥土"
+      "gloss": "泥土"
     },
     {
       "surface": "גַּבֵּי\/כֶֽם",
-      "english": "背"
+      "gloss": "背"
     }
-  ],
-  "timestamp": "2026-07-18T00:55:38.532036698Z",
-  "model": "glm-5.2"
+  ]
 }

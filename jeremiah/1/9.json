@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "jeremiah 1:9",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 506,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19647,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20153
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:06:44.813402072Z",
   "translation": "雅威伸出手,⟨את⟩他的手触及我的口;雅威对我说:看哪,我已将我的*话*放在你口中。",
   "tokens": [
     {
       "surface": "וישלח",
-      "english": "伸出手"
+      "gloss": "伸出手"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的手"
     },
     {
       "surface": "ידו",
-      "english": "他的手"
+      "gloss": "他的手"
     },
     {
       "surface": "ויגע",
-      "english": "触及"
+      "gloss": "触及"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "פי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "נתתי",
-      "english": "我已将……放"
+      "gloss": "我已将……放"
     },
     {
       "surface": "דברי",
-      "english": "我的*话*"
+      "gloss": "我的*话*"
     },
     {
       "surface": "בפיך",
-      "english": "在你口中"
+      "gloss": "在你口中"
     }
-  ],
-  "timestamp": "2026-07-17T22:06:44.813402072Z",
-  "model": "glm-5.2"
+  ]
 }

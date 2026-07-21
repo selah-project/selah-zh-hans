@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 94:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 465,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64414,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64879
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:46.597157308Z",
   "translation": "赐他 ⟨与⟩ 从灾难 ⟨的⟩ 日子 ⟨得⟩ 安息，直到 ⟨为⟩ 恶人挖妥了坑。",
   "tokens": [
     {
       "surface": "לְ\/הַשְׁקִ֣יט",
-      "english": "赐他 ⟨与⟩…… ⟨得⟩ 安息"
+      "gloss": "赐他 ⟨与⟩…… ⟨得⟩ 安息"
     },
     {
       "surface": "ל֭\/וֹ",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "מִ֣\/ימֵי",
-      "english": "从…… ⟨的⟩ 日子"
+      "gloss": "从…… ⟨的⟩ 日子"
     },
     {
       "surface": "רָ֑ע",
-      "english": "灾难"
+      "gloss": "灾难"
     },
     {
       "surface": "עַ֤ד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "יִכָּרֶ֖ה",
-      "english": "挖妥了"
+      "gloss": "挖妥了"
     },
     {
       "surface": "לָ\/רָשָׁ֣ע",
-      "english": "⟨为⟩ 恶人"
+      "gloss": "⟨为⟩ 恶人"
     },
     {
       "surface": "שָֽׁחַת",
-      "english": "坑"
+      "gloss": "坑"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:46.597157308Z",
-  "model": "glm-5.2"
+  ]
 }

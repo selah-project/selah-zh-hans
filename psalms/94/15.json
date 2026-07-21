@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 94:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 94,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64574,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64981
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:55.412391115Z",
   "translation": "因为审判将回归公义，在它之后 ⟨是⟩ 凡心里正直的人。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "עַד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "צֶ֭דֶק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "יָשׁ֣וּב",
-      "english": "将回归"
+      "gloss": "将回归"
     },
     {
       "surface": "מִשְׁפָּ֑ט",
-      "english": "审判"
+      "gloss": "审判"
     },
     {
       "surface": "וְ֝\/אַחֲרָ֗י\/ו",
-      "english": "而在它之后"
+      "gloss": "而在它之后"
     },
     {
       "surface": "כָּל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "יִשְׁרֵי",
-      "english": "正直的"
+      "gloss": "正直的"
     },
     {
       "surface": "לֵֽב",
-      "english": "心里"
+      "gloss": "心里"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:55.412391115Z",
-  "model": "glm-5.2"
+  ]
 }

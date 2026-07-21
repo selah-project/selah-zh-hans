@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "exodus 33:21",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18446,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18836
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:15.955718179Z",
   "translation": "雅威说:看哪,⟨有⟩一处地方在我旁边,你要站在那磐石上。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "מקום",
-      "english": "一处地方"
+      "gloss": "一处地方"
     },
     {
       "surface": "אתי",
-      "english": "在我旁边"
+      "gloss": "在我旁边"
     },
     {
       "surface": "ונצבת",
-      "english": "你要站"
+      "gloss": "你要站"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "הצור",
-      "english": "那磐石"
+      "gloss": "那磐石"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:15.955718179Z",
-  "model": "glm-5.2"
+  ]
 }

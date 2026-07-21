@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "hosea 5:10",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21239,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21784
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:40.028498216Z",
   "translation": "犹大的首领⟨们⟩变得像移界⟨者⟩一样；⟨我⟩必将⟨我的⟩愤怒如水倾倒在他们身上。",
   "tokens": [
     {
       "surface": "היו",
-      "english": "变得"
+      "gloss": "变得"
     },
     {
       "surface": "שרי",
-      "english": "首领⟨们⟩"
+      "gloss": "首领⟨们⟩"
     },
     {
       "surface": "יהודה",
-      "english": "犹大的"
+      "gloss": "犹大的"
     },
     {
       "surface": "כמסיגי",
-      "english": "像移界⟨者⟩"
+      "gloss": "像移界⟨者⟩"
     },
     {
       "surface": "גבול",
-      "english": "边界"
+      "gloss": "边界"
     },
     {
       "surface": "עליהם",
-      "english": "在他们身上"
+      "gloss": "在他们身上"
     },
     {
       "surface": "אשפוך",
-      "english": "⟨我⟩必将……倾倒"
+      "gloss": "⟨我⟩必将……倾倒"
     },
     {
       "surface": "כמים",
-      "english": "如水"
+      "gloss": "如水"
     },
     {
       "surface": "עברתי",
-      "english": "⟨我的⟩愤怒"
+      "gloss": "⟨我的⟩愤怒"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:40.028498216Z",
-  "model": "glm-5.2"
+  ]
 }

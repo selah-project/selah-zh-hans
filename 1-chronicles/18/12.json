@@ -1,66 +1,58 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 18:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 464,
-    "prompt_tokens": 59147,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59611
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:31.351173132Z",
   "translation": "亚比筛,洗鲁雅的儿子,在盐谷击打⟨了⟩以东,一万八千。",
   "tokens": [
     {
       "surface": "ואבשי",
-      "english": "亚比筛"
+      "gloss": "亚比筛"
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "צרויה",
-      "english": "洗鲁雅"
+      "gloss": "洗鲁雅"
     },
     {
       "surface": "הכה",
-      "english": "击打"
+      "gloss": "击打"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以东"
     },
     {
       "surface": "אדום",
-      "english": "以东"
+      "gloss": "以东"
     },
     {
       "surface": "בגיא",
-      "english": "在盐谷"
+      "gloss": "在盐谷"
     },
     {
       "surface": "המלח",
-      "english": "盐"
+      "gloss": "盐"
     },
     {
       "surface": "שמונה",
-      "english": "一万八"
+      "gloss": "一万八"
     },
     {
       "surface": "עשר",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "אלף",
-      "english": "千"
+      "gloss": "千"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:31.351173132Z",
-  "model": "glm-4.5"
+  ]
 }

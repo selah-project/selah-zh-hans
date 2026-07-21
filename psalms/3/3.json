@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 3:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 499,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64510,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65009
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:40:11.426052237Z",
   "translation": "许多人正对我的נפש说：在以罗欣里面，⟨对他⟩没有拯救。细拉。",
   "tokens": [
     {
       "surface": "רבים",
-      "english": "许多人"
+      "gloss": "许多人"
     },
     {
       "surface": "אמרים",
-      "english": "正说"
+      "gloss": "正说"
     },
     {
       "surface": "לנפשי",
-      "english": "对我的נפש"
+      "gloss": "对我的נפש"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "ישועתה",
-      "english": "拯救"
+      "gloss": "拯救"
     },
     {
       "surface": "לו",
-      "english": "⟨对他⟩"
+      "gloss": "⟨对他⟩"
     },
     {
       "surface": "באלהים",
-      "english": "在以罗欣里面"
+      "gloss": "在以罗欣里面"
     },
     {
       "surface": "סלה",
-      "english": "细拉"
+      "gloss": "细拉"
     }
-  ],
-  "timestamp": "2026-07-17T23:40:11.426052237Z",
-  "model": "glm-5.2"
+  ]
 }

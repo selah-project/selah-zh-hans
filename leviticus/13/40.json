@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "leviticus 13:40",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 392,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19019,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19411
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:48:28.876876647Z",
   "translation": "至于一个人,若⟨他的⟩头⟨被⟩磨秃,⟨他⟩就是秃头的;⟨他⟩是洁净的,⟨他⟩是。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "至于一个人"
+      "gloss": "至于一个人"
     },
     {
       "surface": "כי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "ימרט",
-      "english": "⟨被⟩磨秃"
+      "gloss": "⟨被⟩磨秃"
     },
     {
       "surface": "ראשו",
-      "english": "⟨他的⟩头"
+      "gloss": "⟨他的⟩头"
     },
     {
       "surface": "קרח",
-      "english": "秃头的"
+      "gloss": "秃头的"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩就是"
+      "gloss": "⟨他⟩就是"
     },
     {
       "surface": "טהור",
-      "english": "洁净的"
+      "gloss": "洁净的"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩是"
+      "gloss": "⟨他⟩是"
     }
-  ],
-  "timestamp": "2026-07-17T18:48:28.876876647Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "proverbs 9:9",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 360,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54513,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54873
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:36:53.626125787Z",
   "translation": "给智慧人，⟨他⟩就更有智慧；使义人知晓，⟨他⟩就增加领受。",
   "tokens": [
     {
       "surface": "תן",
-      "english": "给"
+      "gloss": "给"
     },
     {
       "surface": "לחכם",
-      "english": "给智慧人"
+      "gloss": "给智慧人"
     },
     {
       "surface": "ויחכם",
-      "english": "⟨他⟩就更有智慧"
+      "gloss": "⟨他⟩就更有智慧"
     },
     {
       "surface": "עוד",
-      "english": "更"
+      "gloss": "更"
     },
     {
       "surface": "הודע",
-      "english": "使……知晓"
+      "gloss": "使……知晓"
     },
     {
       "surface": "לצדיק",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "ויוסף",
-      "english": "⟨他⟩就增加"
+      "gloss": "⟨他⟩就增加"
     },
     {
       "surface": "לקח",
-      "english": "领受"
+      "gloss": "领受"
     }
-  ],
-  "timestamp": "2026-07-18T00:36:53.626125787Z",
-  "model": "glm-5.2"
+  ]
 }

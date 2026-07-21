@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "genesis 11:12",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 316,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22953,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23269
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:15.567829385Z",
   "translation": "阿尔法克斯德活了三十五岁⟨年⟩，生了⟨את⟩沙拉。",
   "tokens": [
     {
       "surface": "וארפכשד",
-      "english": "阿尔法克斯德"
+      "gloss": "阿尔法克斯德"
     },
     {
       "surface": "חי",
-      "english": "活了"
+      "gloss": "活了"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "ושלשים",
-      "english": "和三十"
+      "gloss": "和三十"
     },
     {
       "surface": "שנה",
-      "english": "岁⟨年⟩"
+      "gloss": "岁⟨年⟩"
     },
     {
       "surface": "ויולד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "שלח（沙拉）"
     },
     {
       "surface": "שלח",
-      "english": "沙拉"
+      "gloss": "沙拉"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:15.567829385Z",
-  "model": "glm-5.2"
+  ]
 }

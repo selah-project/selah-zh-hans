@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "2-samuel 22:14",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18680,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19035
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:53:52.800810716Z",
   "translation": "雅威从诸天 ⟨打雷⟩,至高者发出 ⟨他的⟩ 声音。",
   "tokens": [
     {
       "surface": "ירעם",
-      "english": "⟨打雷⟩"
+      "gloss": "⟨打雷⟩"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "שמים",
-      "english": "诸天"
+      "gloss": "诸天"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ועליון",
-      "english": "至高者"
+      "gloss": "至高者"
     },
     {
       "surface": "יתן",
-      "english": "发出"
+      "gloss": "发出"
     },
     {
       "surface": "קולו",
-      "english": "⟨他的⟩ 声音"
+      "gloss": "⟨他的⟩ 声音"
     }
-  ],
-  "timestamp": "2026-07-17T20:53:52.800810716Z",
-  "model": "glm-5.2"
+  ]
 }

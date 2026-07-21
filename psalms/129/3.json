@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 129:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 129,
-  "usage": {
-    "completion_tokens": 313,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64375,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64688
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:26:33.125767414Z",
   "translation": "在我的背上，耕地的人耕犁；他们拉长了他们的犁沟。",
   "tokens": [
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "גבי",
-      "english": "我的背上"
+      "gloss": "我的背上"
     },
     {
       "surface": "חרשו",
-      "english": "他们耕犁了"
+      "gloss": "他们耕犁了"
     },
     {
       "surface": "חרשים",
-      "english": "耕地的人"
+      "gloss": "耕地的人"
     },
     {
       "surface": "האריכו",
-      "english": "他们拉长了"
+      "gloss": "他们拉长了"
     },
     {
       "surface": "למענותם",
-      "english": "他们的犁沟"
+      "gloss": "他们的犁沟"
     }
-  ],
-  "timestamp": "2026-07-18T00:26:33.125767414Z",
-  "model": "glm-5.2"
+  ]
 }

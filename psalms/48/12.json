@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 48:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 301,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64607,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64908
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:55:43.945893835Z",
   "translation": "愿锡安山快乐,愿犹大的女子们欢跃,因你的典章。",
   "tokens": [
     {
       "surface": "ישמח",
-      "english": "愿……快乐"
+      "gloss": "愿……快乐"
     },
     {
       "surface": "הר",
-      "english": "山"
+      "gloss": "山"
     },
     {
       "surface": "ציון",
-      "english": "锡安"
+      "gloss": "锡安"
     },
     {
       "surface": "תגלנה",
-      "english": "愿她们欢跃"
+      "gloss": "愿她们欢跃"
     },
     {
       "surface": "בנות",
-      "english": "……的女子们"
+      "gloss": "……的女子们"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "למען",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "משפטיך",
-      "english": "你的典章"
+      "gloss": "你的典章"
     }
-  ],
-  "timestamp": "2026-07-17T23:55:43.945893835Z",
-  "model": "glm-5.2"
+  ]
 }

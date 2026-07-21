@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "proverbs 2:8",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54331,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54626
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:33:08.649125177Z",
   "translation": "为要守护公平的路径，并保护他虔敬者的道路。",
   "tokens": [
     {
       "surface": "לנצר",
-      "english": "为要守护"
+      "gloss": "为要守护"
     },
     {
       "surface": "ארחות",
-      "english": "的路径"
+      "gloss": "的路径"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "ודרך",
-      "english": "并……的道路"
+      "gloss": "并……的道路"
     },
     {
       "surface": "חסידו",
-      "english": "他虔敬者"
+      "gloss": "他虔敬者"
     },
     {
       "surface": "ישמר",
-      "english": "保护"
+      "gloss": "保护"
     }
-  ],
-  "timestamp": "2026-07-18T00:33:08.649125177Z",
-  "model": "glm-5.2"
+  ]
 }

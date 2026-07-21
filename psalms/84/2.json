@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 84:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 84,
-  "usage": {
-    "completion_tokens": 370,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64399,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64769
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:11.519683108Z",
   "translation": "你的居所何等可悦，万军之雅威啊！",
   "tokens": [
     {
       "surface": "מה",
-      "english": "何等"
+      "gloss": "何等"
     },
     {
       "surface": "ידידות",
-      "english": "可悦"
+      "gloss": "可悦"
     },
     {
       "surface": "משכנותיך",
-      "english": "你的居所"
+      "gloss": "你的居所"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צבאות",
-      "english": "万军"
+      "gloss": "万军"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:11.519683108Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "isaiah 3:18",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 597,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20871,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21468
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:36:03.309169774Z",
   "translation": "在那一日，阿多奈必将除去 ⟨את⟩ 脚链的华美饰物，以及头巾和月牙坠饰。",
   "tokens": [
     {
       "surface": "בַּ\/יּ֨וֹם",
-      "english": "在……之日"
+      "gloss": "在……之日"
     },
     {
       "surface": "הַ\/ה֜וּא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "יָסִ֣יר",
-      "english": "他必将除去"
+      "gloss": "他必将除去"
     },
     {
       "surface": "אֲדֹנָ֗\/י",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "אֵ֣ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "脚链的华美饰物"
     },
     {
       "surface": "תִּפְאֶ֧רֶת",
-      "english": "华美饰物"
+      "gloss": "华美饰物"
     },
     {
       "surface": "הָ\/עֲכָסִ֛ים",
-      "english": "脚链的"
+      "gloss": "脚链的"
     },
     {
       "surface": "וְ\/הַ\/שְּׁבִיסִ֖ים",
-      "english": "以及头巾"
+      "gloss": "以及头巾"
     },
     {
       "surface": "וְ\/הַ\/שַּׂהֲרֹנִֽים",
-      "english": "和月牙坠饰"
+      "gloss": "和月牙坠饰"
     }
-  ],
-  "timestamp": "2026-07-17T21:36:03.309169774Z",
-  "model": "glm-5.2"
+  ]
 }

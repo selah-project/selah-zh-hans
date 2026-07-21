@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "exodus 28:18",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18205,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18590
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:29:44.241048605Z",
   "translation": "第二排 ⟨是⟩ 红玛瑙、蓝宝石和钻石。",
   "tokens": [
     {
       "surface": "והטור",
-      "english": "第二排 ⟨是⟩"
+      "gloss": "第二排 ⟨是⟩"
     },
     {
       "surface": "השני",
-      "english": "（含于上一词）"
+      "gloss": "（含于上一词）"
     },
     {
       "surface": "נפך",
-      "english": "红玛瑙"
+      "gloss": "红玛瑙"
     },
     {
       "surface": "ספיר",
-      "english": "蓝宝石"
+      "gloss": "蓝宝石"
     },
     {
       "surface": "ויהלם",
-      "english": "和钻石"
+      "gloss": "和钻石"
     }
-  ],
-  "timestamp": "2026-07-17T18:29:44.241048605Z",
-  "model": "glm-5.2"
+  ]
 }

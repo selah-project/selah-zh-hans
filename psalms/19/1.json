@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 19:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 242,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64081,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64323
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:45:20.141309169Z",
   "translation": "给⟨那⟩指挥者,大卫的מִזְמוֹר。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给⟨那⟩指挥者"
+      "gloss": "给⟨那⟩指挥者"
     },
     {
       "surface": "מזמור",
-      "english": "מִזְמוֹר (配乐的诗歌)"
+      "gloss": "מִזְמוֹר (配乐的诗歌)"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-17T23:45:20.141309169Z",
-  "model": "glm-5.2"
+  ]
 }

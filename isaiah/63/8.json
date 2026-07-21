@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "isaiah 63:8",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 63,
-  "usage": {
-    "completion_tokens": 389,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20812,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 21201
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:58:03.249832060Z",
   "translation": "他说：诚然我的子民⟨是⟩他们，⟨是⟩不行欺骗的子；他作他们的拯救者。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אך",
-      "english": "诚然"
+      "gloss": "诚然"
     },
     {
       "surface": "עמי",
-      "english": "我的子民"
+      "gloss": "我的子民"
     },
     {
       "surface": "המה",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "בנים",
-      "english": "子"
+      "gloss": "子"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישקרו",
-      "english": "行欺骗"
+      "gloss": "行欺骗"
     },
     {
       "surface": "ויהי",
-      "english": "他成为"
+      "gloss": "他成为"
     },
     {
       "surface": "להם",
-      "english": "他们的"
+      "gloss": "他们的"
     },
     {
       "surface": "למושיע",
-      "english": "拯救者"
+      "gloss": "拯救者"
     }
-  ],
-  "timestamp": "2026-07-20T06:58:03.249832060Z",
-  "model": "glm-5.2"
+  ]
 }

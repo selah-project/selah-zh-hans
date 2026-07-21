@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "leviticus 27:15",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 27,
-  "usage": {
-    "completion_tokens": 436,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19559,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19995
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:43:24.265049879Z",
   "translation": "若⟨那⟩奉献者要赎回⟨את⟩他的房屋,就要在你估值之外加上银价的五分之一,⟨它⟩就归他。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "המקדיש",
-      "english": "⟨那⟩奉献者"
+      "gloss": "⟨那⟩奉献者"
     },
     {
       "surface": "יגאל",
-      "english": "要赎回"
+      "gloss": "要赎回"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的房屋"
     },
     {
       "surface": "ביתו",
-      "english": "他的房屋"
+      "gloss": "他的房屋"
     },
     {
       "surface": "ויסף",
-      "english": "就要加"
+      "gloss": "就要加"
     },
     {
       "surface": "חמישית",
-      "english": "五分之一"
+      "gloss": "五分之一"
     },
     {
       "surface": "כסף",
-      "english": "银价"
+      "gloss": "银价"
     },
     {
       "surface": "ערכך",
-      "english": "你估值"
+      "gloss": "你估值"
     },
     {
       "surface": "עליו",
-      "english": "之外"
+      "gloss": "之外"
     },
     {
       "surface": "והיה",
-      "english": "⟨它⟩就"
+      "gloss": "⟨它⟩就"
     },
     {
       "surface": "לו",
-      "english": "归他"
+      "gloss": "归他"
     }
-  ],
-  "timestamp": "2026-07-18T02:43:24.265049879Z",
-  "model": "glm-5.2"
+  ]
 }

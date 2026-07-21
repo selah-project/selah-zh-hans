@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 43:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 517,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20672,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21189
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:55:14.088472730Z",
   "translation": "雅威如此说——⟨他⟩在海中给出道路，在强盛的水中⟨给出⟩路径的那一位：",
   "tokens": [
     {
       "surface": "כֹּ֚ה",
-      "english": "如此"
+      "gloss": "如此"
     },
     {
       "surface": "אָמַ֣ר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "הַ\/נּוֹתֵ֥ן",
-      "english": "⟨他⟩……给出……的那一位"
+      "gloss": "⟨他⟩……给出……的那一位"
     },
     {
       "surface": "בַּ\/יָּ֖ם",
-      "english": "在海中"
+      "gloss": "在海中"
     },
     {
       "surface": "דָּ֑רֶךְ",
-      "english": "道路"
+      "gloss": "道路"
     },
     {
       "surface": "וּ\/בְ\/מַ֥יִם",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "עַזִּ֖ים",
-      "english": "强盛的"
+      "gloss": "强盛的"
     },
     {
       "surface": "נְתִיבָֽה",
-      "english": "路径"
+      "gloss": "路径"
     }
-  ],
-  "timestamp": "2026-07-17T21:55:14.088472730Z",
-  "model": "glm-5.2"
+  ]
 }

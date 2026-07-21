@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "isaiah 33:24",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 349,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20631,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20980
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:49:44.041866105Z",
   "translation": "在其中居住的居民不再说：'我病了'； ⟨那⟩住在 ⟨她⟩里面的 ⟨那⟩百姓 ⟨的⟩罪孽 ⟨被⟩赦免。",
   "tokens": [
     {
       "surface": "ובל",
-      "english": "不再"
+      "gloss": "不再"
     },
     {
       "surface": "יאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שכן",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "חליתי",
-      "english": "我病了"
+      "gloss": "我病了"
     },
     {
       "surface": "העם",
-      "english": "⟨那⟩百姓"
+      "gloss": "⟨那⟩百姓"
     },
     {
       "surface": "הישב",
-      "english": "住在"
+      "gloss": "住在"
     },
     {
       "surface": "בה",
-      "english": "⟨她⟩里面"
+      "gloss": "⟨她⟩里面"
     },
     {
       "surface": "נשא",
-      "english": "⟨被⟩赦免"
+      "gloss": "⟨被⟩赦免"
     },
     {
       "surface": "עון",
-      "english": "罪孽"
+      "gloss": "罪孽"
     }
-  ],
-  "timestamp": "2026-07-17T21:49:44.041866105Z",
-  "model": "glm-5.2"
+  ]
 }

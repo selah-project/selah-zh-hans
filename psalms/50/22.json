@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "psalms 50:22",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 50,
-  "usage": {
-    "completion_tokens": 355,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64609,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64964
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:56:28.711379857Z",
   "translation": "你们现在要明白⟨这⟩，你们这些忘记以罗欣的，免得我撕碎，又没有拯救者。}",
   "tokens": [
     {
       "surface": "בינו",
-      "english": "你们要明白"
+      "gloss": "你们要明白"
     },
     {
       "surface": "נא",
-      "english": "现在"
+      "gloss": "现在"
     },
     {
       "surface": "זאת",
-      "english": "⟨这⟩"
+      "gloss": "⟨这⟩"
     },
     {
       "surface": "שכחי",
-      "english": "你们这些忘记"
+      "gloss": "你们这些忘记"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "פן",
-      "english": "免得"
+      "gloss": "免得"
     },
     {
       "surface": "אטרף",
-      "english": "我撕碎"
+      "gloss": "我撕碎"
     },
     {
       "surface": "ואין",
-      "english": "又没有"
+      "gloss": "又没有"
     },
     {
       "surface": "מציל",
-      "english": "拯救者"
+      "gloss": "拯救者"
     }
-  ],
-  "timestamp": "2026-07-17T23:56:28.711379857Z",
-  "model": "glm-5.2"
+  ]
 }

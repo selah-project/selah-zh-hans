@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "psalms 105:28",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 105,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64529,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65012
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:51.440158134Z",
   "translation": "他差遣黑暗，⟨就⟩使之黑暗；他们没有违背 ⟨את⟩ 他的*davar*。",
   "tokens": [
     {
       "surface": "שָׁ֣לַֽח",
-      "english": "他差遣"
+      "gloss": "他差遣"
     },
     {
       "surface": "חֹ֭שֶׁךְ",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "וַ\/יַּחְשִׁ֑ךְ",
-      "english": "⟨就⟩使之黑暗"
+      "gloss": "⟨就⟩使之黑暗"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "english": "而他们没有"
+      "gloss": "而他们没有"
     },
     {
       "surface": "מָ֝ר֗וּ",
-      "english": "违背"
+      "gloss": "违背"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的话 (דברוו)"
     },
     {
       "surface": "דברו\/ו",
-      "english": "他的*davar*"
+      "gloss": "他的*davar*"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:51.440158134Z",
-  "model": "glm-5.2"
+  ]
 }

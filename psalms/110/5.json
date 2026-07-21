@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 110:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 528,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64423,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64951
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:48.363426383Z",
   "translation": "阿多奈在你右边；他在他发怒的日子击碎君王。",
   "tokens": [
     {
       "surface": "אֲדֹנָ֥\/י",
-      "english": "阿多奈"
+      "gloss": "阿多奈"
     },
     {
       "surface": "עַל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "יְמִֽינְ\/ךָ֑",
-      "english": "你的右边"
+      "gloss": "你的右边"
     },
     {
       "surface": "מָחַ֖ץ",
-      "english": "他击碎"
+      "gloss": "他击碎"
     },
     {
       "surface": "בְּ\/יוֹם",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "אַפּ֣\/וֹ",
-      "english": "他的发怒"
+      "gloss": "他的发怒"
     },
     {
       "surface": "מְלָכִֽים",
-      "english": "君王"
+      "gloss": "君王"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:48.363426383Z",
-  "model": "glm-5.2"
+  ]
 }

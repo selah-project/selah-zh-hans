@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "amos 5:27",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 474,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18243,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18717
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:21:08.104784068Z",
   "translation": "我必将你们⟨את⟩从哈拉赫掳到大马士革以外——这是雅威、万军之以其罗欣所说的话；他的名如此。",
   "tokens": [
     {
       "surface": "והגליתי",
-      "english": "我必将……掳走"
+      "gloss": "我必将……掳走"
     },
     {
       "surface": "אתכם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你们"
     },
     {
       "surface": "מהלאה",
-      "english": "从哈拉赫"
+      "gloss": "从哈拉赫"
     },
     {
       "surface": "לדמשק",
-      "english": "到大马士革"
+      "gloss": "到大马士革"
     },
     {
       "surface": "אמר",
-      "english": "所说的话"
+      "gloss": "所说的话"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "万军之以罗欣"
+      "gloss": "万军之以罗欣"
     },
     {
       "surface": "צבאות",
-      "english": "万军"
+      "gloss": "万军"
     },
     {
       "surface": "שמו",
-      "english": "他的名"
+      "gloss": "他的名"
     }
-  ],
-  "timestamp": "2026-07-17T23:21:08.104784068Z",
-  "model": "glm-5.2"
+  ]
 }

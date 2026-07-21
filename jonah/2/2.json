@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jonah 2:2",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21076,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 21469
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:43.500325100Z",
   "translation": "约拿向雅威他的以罗欣祈祷,从大鱼的腹中。",
   "tokens": [
     {
       "surface": "ויתפלל",
-      "english": "祈祷"
+      "gloss": "祈祷"
     },
     {
       "surface": "יונה",
-      "english": "约拿"
+      "gloss": "约拿"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיו",
-      "english": "他的以罗欣"
+      "gloss": "他的以罗欣"
     },
     {
       "surface": "ממעי",
-      "english": "从腹中"
+      "gloss": "从腹中"
     },
     {
       "surface": "הדגה",
-      "english": "那大鱼"
+      "gloss": "那大鱼"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:43.500325100Z",
-  "model": "glm-5.2"
+  ]
 }

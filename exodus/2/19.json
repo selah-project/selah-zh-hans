@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "exodus 2:19",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 563,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19032,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19595
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:10:28.103932962Z",
   "translation": "她们说：⟨一个⟩埃及人从牧羊人手中救了我们，而且他为我们打了许多水，又给⟨את⟩羊群喝了。",
   "tokens": [
     {
       "surface": "ותאמרן",
-      "english": "她们说"
+      "gloss": "她们说"
     },
     {
       "surface": "איש",
-      "english": "⟨一个⟩人"
+      "gloss": "⟨一个⟩人"
     },
     {
       "surface": "מצרי",
-      "english": "埃及人"
+      "gloss": "埃及人"
     },
     {
       "surface": "הצילנו",
-      "english": "救了我们"
+      "gloss": "救了我们"
     },
     {
       "surface": "מיד",
-      "english": "从……手中"
+      "gloss": "从……手中"
     },
     {
       "surface": "הרעים",
-      "english": "牧羊人"
+      "gloss": "牧羊人"
     },
     {
       "surface": "וגם",
-      "english": "而且"
+      "gloss": "而且"
     },
     {
       "surface": "דלה",
-      "english": "打水"
+      "gloss": "打水"
     },
     {
       "surface": "דלה",
-      "english": "(多多地)"
+      "gloss": "(多多地)"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "וישק",
-      "english": "又给……喝了"
+      "gloss": "又给……喝了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "羊群"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     }
-  ],
-  "timestamp": "2026-07-17T18:10:28.103932962Z",
-  "model": "glm-5.2"
+  ]
 }

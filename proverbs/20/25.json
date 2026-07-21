@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 20:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54395,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54800
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:42:56.409424865Z",
   "translation": "人的陷阱 ⟨是⟩ 轻率吞下圣物,许愿之后才去查问。",
   "tokens": [
     {
       "surface": "מוקש",
-      "english": "陷阱"
+      "gloss": "陷阱"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "ילע",
-      "english": "轻率吞下"
+      "gloss": "轻率吞下"
     },
     {
       "surface": "קדש",
-      "english": "圣物"
+      "gloss": "圣物"
     },
     {
       "surface": "ואחר",
-      "english": "之后"
+      "gloss": "之后"
     },
     {
       "surface": "נדרים",
-      "english": "许愿"
+      "gloss": "许愿"
     },
     {
       "surface": "לבקר",
-      "english": "才去查问"
+      "gloss": "才去查问"
     }
-  ],
-  "timestamp": "2026-07-18T00:42:56.409424865Z",
-  "model": "glm-5.2"
+  ]
 }

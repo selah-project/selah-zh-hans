@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "song-of-songs 8:12",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22333,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22726
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:13:00.674901191Z",
   "translation": "我的葡萄园归我自己、在我面前;那一千归你,所罗门;两百归看守的人,他们看守⟨את⟩它的果子。",
   "tokens": [
     {
       "surface": "כרמי",
-      "english": "我的葡萄园"
+      "gloss": "我的葡萄园"
     },
     {
       "surface": "שלי",
-      "english": "归我自己"
+      "gloss": "归我自己"
     },
     {
       "surface": "לפני",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "האלף",
-      "english": "那一千"
+      "gloss": "那一千"
     },
     {
       "surface": "לך",
-      "english": "归你"
+      "gloss": "归你"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     },
     {
       "surface": "ומאתים",
-      "english": "两百"
+      "gloss": "两百"
     },
     {
       "surface": "לנטרים",
-      "english": "归看守的人"
+      "gloss": "归看守的人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的果子"
     },
     {
       "surface": "פריו",
-      "english": "它的果子"
+      "gloss": "它的果子"
     }
-  ],
-  "timestamp": "2026-07-18T01:13:00.674901191Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "1-samuel 3:16",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18198,
-    "prompt_tokens_details": {
-      "cached_tokens": 10496
-    },
-    "total_tokens": 18548
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:20:15.270431829Z",
   "translation": "以利就呼叫⟨את⟩撒母耳,说:撒母耳,我的子。⟨他⟩就说:Hinení —— 我在这里。",
   "tokens": [
     {
       "surface": "ויקרא",
-      "english": "就呼叫"
+      "gloss": "就呼叫"
     },
     {
       "surface": "עלי",
-      "english": "以利"
+      "gloss": "以利"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒母耳"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "שמואל",
-      "english": "撒母耳"
+      "gloss": "撒母耳"
     },
     {
       "surface": "בני",
-      "english": "我的子"
+      "gloss": "我的子"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩就说"
+      "gloss": "⟨他⟩就说"
     },
     {
       "surface": "הנני",
-      "english": "Hinení —— 我在这里"
+      "gloss": "Hinení —— 我在这里"
     }
-  ],
-  "timestamp": "2026-07-18T03:20:15.270431829Z",
-  "model": "glm-5.2"
+  ]
 }

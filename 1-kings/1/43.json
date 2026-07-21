@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 43,
   "ref": "1-kings 1:43",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64311,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64761
-  },
+  "verse": 43,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:57:13.660292351Z",
   "translation": "约拿单回答,对亚多尼雅说：不！我们的阿多奈大卫王已经立了⟨את⟩所罗门为王。",
   "tokens": [
     {
       "surface": "ויען",
-      "english": "回答"
+      "gloss": "回答"
     },
     {
       "surface": "יונתן",
-      "english": "约拿单"
+      "gloss": "约拿单"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "לאדניהו",
-      "english": "对亚多尼雅"
+      "gloss": "对亚多尼雅"
     },
     {
       "surface": "אבל",
-      "english": "不！"
+      "gloss": "不！"
     },
     {
       "surface": "אדנינו",
-      "english": "我们的阿多奈"
+      "gloss": "我们的阿多奈"
     },
     {
       "surface": "המלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "דוד",
-      "english": "大卫"
+      "gloss": "大卫"
     },
     {
       "surface": "המליך",
-      "english": "立了……为王"
+      "gloss": "立了……为王"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所罗门"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门"
+      "gloss": "所罗门"
     }
-  ],
-  "timestamp": "2026-07-17T20:57:13.660292351Z",
-  "model": "glm-5.2"
+  ]
 }

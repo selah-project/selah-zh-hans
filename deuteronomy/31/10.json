@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "deuteronomy 31:10",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19644,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20112
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:47:37.681132623Z",
   "translation": "摩西吩咐⟨את⟩他们,说:到七年尽头的时候,在豁免年的节期,在棚节期间——",
   "tokens": [
     {
       "surface": "ויצו",
-      "english": "摩西吩咐"
+      "gloss": "摩西吩咐"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אותם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "לאמר",
-      "english": "说:"
+      "gloss": "说:"
     },
     {
       "surface": "מקץ",
-      "english": "到……尽头的时候"
+      "gloss": "到……尽头的时候"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "שנים",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "במעד",
-      "english": "在节期"
+      "gloss": "在节期"
     },
     {
       "surface": "שנת",
-      "english": "年"
+      "gloss": "年"
     },
     {
       "surface": "השמטה",
-      "english": "豁免"
+      "gloss": "豁免"
     },
     {
       "surface": "בחג",
-      "english": "在节期间"
+      "gloss": "在节期间"
     },
     {
       "surface": "הסכות",
-      "english": "棚"
+      "gloss": "棚"
     }
-  ],
-  "timestamp": "2026-07-17T19:47:37.681132623Z",
-  "model": "glm-5.2"
+  ]
 }

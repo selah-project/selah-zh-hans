@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "1-kings 4:15",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 342,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64184,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64526
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:52:48.059881958Z",
   "translation": "亚希玛斯在拿弗他利;他也娶了⟨את⟩巴实抹,所罗门的女儿,为妻。",
   "tokens": [
     {
       "surface": "אחימעץ",
-      "english": "亚希玛斯"
+      "gloss": "亚希玛斯"
     },
     {
       "surface": "בנפתלי",
-      "english": "在拿弗他利"
+      "gloss": "在拿弗他利"
     },
     {
       "surface": "גם",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "לקח",
-      "english": "娶了"
+      "gloss": "娶了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "巴实抹"
     },
     {
       "surface": "בשמת",
-      "english": "巴实抹"
+      "gloss": "巴实抹"
     },
     {
       "surface": "בת",
-      "english": "女儿"
+      "gloss": "女儿"
     },
     {
       "surface": "שלמה",
-      "english": "所罗门的"
+      "gloss": "所罗门的"
     },
     {
       "surface": "לאשה",
-      "english": "为妻"
+      "gloss": "为妻"
     }
-  ],
-  "timestamp": "2026-07-18T02:52:48.059881958Z",
-  "model": "glm-5.2"
+  ]
 }

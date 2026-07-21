@@ -1,86 +1,75 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "leviticus 20:10",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 613,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19854,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20467
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:20.175856781Z",
   "translation": "与⟨אִישׁ⟩⟨他⟩的⟨אֵשֶׁת⟩行淫的⟨男人⟩（⟨他⟩与⟨他⟩的同伴的⟨אֵשֶׁת⟩行淫）——⟨行淫者⟩与⟨那⟩行淫的⟨女人⟩，⟨必被⟩处死。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "与……的⟨男人⟩"
+      "gloss": "与……的⟨男人⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ינאף",
-      "english": "行淫"
+      "gloss": "行淫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אֵשֶׁת"
     },
     {
       "surface": "אשת",
-      "english": "⟨אֵשֶׁת⟩"
+      "gloss": "⟨אֵשֶׁת⟩"
     },
     {
       "surface": "איש",
-      "english": "⟨אִישׁ⟩"
+      "gloss": "⟨אִישׁ⟩"
     },
     {
       "surface": "אשר",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "ינאף",
-      "english": "行淫"
+      "gloss": "行淫"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "אֵשֶׁת"
     },
     {
       "surface": "אשת",
-      "english": "⟨אֵשֶׁת⟩"
+      "gloss": "⟨אֵשֶׁת⟩"
     },
     {
       "surface": "רעהו",
-      "english": "⟨他⟩的同伴的"
+      "gloss": "⟨他⟩的同伴的"
     },
     {
       "surface": "מות",
-      "english": "⟨必被⟩处死"
+      "gloss": "⟨必被⟩处死"
     },
     {
       "surface": "יומת",
-      "english": "（处死的加强语气）"
+      "gloss": "（处死的加强语气）"
     },
     {
       "surface": "הנאף",
-      "english": "⟨行淫者⟩"
+      "gloss": "⟨行淫者⟩"
     },
     {
       "surface": "והנאפת",
-      "english": "与⟨那⟩行淫的⟨女人⟩"
+      "gloss": "与⟨那⟩行淫的⟨女人⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:20.175856781Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "proverbs 26:1",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54533,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54848
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:46:35.324595291Z",
   "translation": "如夏天里的雪,又如收割时的雨水,荣耀照样不适合愚顽人。",
   "tokens": [
     {
       "surface": "כשלג",
-      "english": "如……的雪"
+      "gloss": "如……的雪"
     },
     {
       "surface": "בקיץ",
-      "english": "在夏天"
+      "gloss": "在夏天"
     },
     {
       "surface": "וכמטר",
-      "english": "又如……的雨水"
+      "gloss": "又如……的雨水"
     },
     {
       "surface": "בקציר",
-      "english": "在收割时"
+      "gloss": "在收割时"
     },
     {
       "surface": "כן",
-      "english": "照样"
+      "gloss": "照样"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נאוה",
-      "english": "适合"
+      "gloss": "适合"
     },
     {
       "surface": "לכסיל",
-      "english": "给愚顽人"
+      "gloss": "给愚顽人"
     },
     {
       "surface": "כבוד",
-      "english": "荣耀"
+      "gloss": "荣耀"
     }
-  ],
-  "timestamp": "2026-07-18T00:46:35.324595291Z",
-  "model": "glm-5.2"
+  ]
 }

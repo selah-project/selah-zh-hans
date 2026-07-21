@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "isaiah 24:9",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 295,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20461,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20756
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:11.781856232Z",
   "translation": "伴着歌，他们不喝葡萄酒；烈酒对喝它的人来说变苦了。",
   "tokens": [
     {
       "surface": "בשיר",
-      "english": "伴着歌"
+      "gloss": "伴着歌"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישתו",
-      "english": "他们喝"
+      "gloss": "他们喝"
     },
     {
       "surface": "יין",
-      "english": "葡萄酒"
+      "gloss": "葡萄酒"
     },
     {
       "surface": "ימר",
-      "english": "变苦"
+      "gloss": "变苦"
     },
     {
       "surface": "שכר",
-      "english": "烈酒"
+      "gloss": "烈酒"
     },
     {
       "surface": "לשתיו",
-      "english": "对喝它的（人）"
+      "gloss": "对喝它的（人）"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:11.781856232Z",
-  "model": "glm-5.2"
+  ]
 }

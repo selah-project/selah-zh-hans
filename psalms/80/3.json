@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 80:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 80,
-  "usage": {
-    "completion_tokens": 471,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64831,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65302
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:07:57.602616587Z",
   "translation": "在以法莲、便雅悯和玛拿西面前,唤醒⟨את⟩你的大能,来,为了我们的拯救!",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "אפרים",
-      "english": "以法莲"
+      "gloss": "以法莲"
     },
     {
       "surface": "ובנימן",
-      "english": "和便雅悯"
+      "gloss": "和便雅悯"
     },
     {
       "surface": "ומנשה",
-      "english": "和玛拿西"
+      "gloss": "和玛拿西"
     },
     {
       "surface": "עוררה",
-      "english": "唤醒"
+      "gloss": "唤醒"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的大能"
     },
     {
       "surface": "גבורתך",
-      "english": "你的大能"
+      "gloss": "你的大能"
     },
     {
       "surface": "ולכה",
-      "english": "来"
+      "gloss": "来"
     },
     {
       "surface": "לישעתה",
-      "english": "为了拯救"
+      "gloss": "为了拯救"
     },
     {
       "surface": "לנו",
-      "english": "我们的"
+      "gloss": "我们的"
     }
-  ],
-  "timestamp": "2026-07-18T00:07:57.602616587Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 96:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 96,
-  "usage": {
-    "completion_tokens": 567,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64916,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65483
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:13:40.458095067Z",
   "translation": "在雅威面前,因为他来了,因为他来了,要审判 ⟨הָאָרֶץ⟩ 地;他要按公义审判 תֵבֵל (世界),按他的信实 ⟨审判⟩ 众民。",
   "tokens": [
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בא",
-      "english": "他来了"
+      "gloss": "他来了"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "בא",
-      "english": "他来了"
+      "gloss": "他来了"
     },
     {
       "surface": "לשפט",
-      "english": "要审判"
+      "gloss": "要审判"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ישפט",
-      "english": "他要审判"
+      "gloss": "他要审判"
     },
     {
       "surface": "תבל",
-      "english": "世界 (תֵבֵל)"
+      "gloss": "世界 (תֵבֵל)"
     },
     {
       "surface": "בצדק",
-      "english": "按公义"
+      "gloss": "按公义"
     },
     {
       "surface": "ועמים",
-      "english": "和众民"
+      "gloss": "和众民"
     },
     {
       "surface": "באמונתו",
-      "english": "按他的信实"
+      "gloss": "按他的信实"
     }
-  ],
-  "timestamp": "2026-07-18T00:13:40.458095067Z",
-  "model": "glm-5.2"
+  ]
 }

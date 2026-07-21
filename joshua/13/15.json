@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joshua 13:15",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 319,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17720,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18039
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:58:12.989001210Z",
   "translation": "摩西把 ⟨产业⟩ 赐给吕便子孙的支派,按他们的家族:",
   "tokens": [
     {
       "surface": "וַ\/יִּתֵּן",
-      "english": "赐给"
+      "gloss": "赐给"
     },
     {
       "surface": "מֹשֶׁה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "לְ\/מַטֵּה",
-      "english": "……的支派"
+      "gloss": "……的支派"
     },
     {
       "surface": "בְנֵי",
-      "english": "子孙"
+      "gloss": "子孙"
     },
     {
       "surface": "רְאוּבֵן",
-      "english": "吕便"
+      "gloss": "吕便"
     },
     {
       "surface": "לְ\/מִשְׁפְּחֹתָם",
-      "english": "按他们的家族"
+      "gloss": "按他们的家族"
     }
-  ],
-  "timestamp": "2026-07-17T19:58:12.989001210Z",
-  "model": "glm-5.2"
+  ]
 }

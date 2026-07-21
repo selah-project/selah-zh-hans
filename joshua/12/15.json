@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "joshua 12:15",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 308,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17649,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 17957
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:49.398894392Z",
   "translation": "立拿⟨的⟩王，一个；亚杜兰⟨的⟩王，一个。",
   "tokens": [
     {
       "surface": "מֶ֤לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "לִבְנָה֙",
-      "english": "立拿"
+      "gloss": "立拿"
     },
     {
       "surface": "אֶחָ֔ד",
-      "english": "一个"
+      "gloss": "一个"
     },
     {
       "surface": "מֶ֥לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "עֲדֻלָּ֖ם",
-      "english": "亚杜兰"
+      "gloss": "亚杜兰"
     },
     {
       "surface": "אֶחָֽד",
-      "english": "一个"
+      "gloss": "一个"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:49.398894392Z",
-  "model": "glm-5.2"
+  ]
 }

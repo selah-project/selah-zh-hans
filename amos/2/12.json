@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "amos 2:12",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18305,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18829
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:35.992238662Z",
   "translation": "你们却拿酒给离俗人喝, ⟨את⟩ ⟨那⟩离俗人;又吩咐众先知, ⟨说⟩:『不可说预言。』",
   "tokens": [
     {
       "surface": "ותשקו",
-      "english": "你们却给……喝"
+      "gloss": "你们却给……喝"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "离俗人"
     },
     {
       "surface": "הנזרים",
-      "english": "⟨那⟩离俗人"
+      "gloss": "⟨那⟩离俗人"
     },
     {
       "surface": "יין",
-      "english": "酒"
+      "gloss": "酒"
     },
     {
       "surface": "ועל",
-      "english": "又对着"
+      "gloss": "又对着"
     },
     {
       "surface": "הנביאים",
-      "english": "⟨那些⟩先知"
+      "gloss": "⟨那些⟩先知"
     },
     {
       "surface": "צויתם",
-      "english": "你们吩咐"
+      "gloss": "你们吩咐"
     },
     {
       "surface": "לאמר",
-      "english": "⟨说⟩"
+      "gloss": "⟨说⟩"
     },
     {
       "surface": "לא",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תנבאו",
-      "english": "说预言"
+      "gloss": "说预言"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:35.992238662Z",
-  "model": "glm-5.2"
+  ]
 }

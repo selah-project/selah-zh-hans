@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 21,
   "ref": "job 8:21",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 410,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21510,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21920
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:18.738995832Z",
   "translation": "直到他使你的口充满欢笑，你的嘴唇充满欢呼。",
   "tokens": [
     {
       "surface": "עַד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "יְמַלֵּ֣ה",
-      "english": "他充满"
+      "gloss": "他充满"
     },
     {
       "surface": "שְׂח֣וֹק",
-      "english": "欢笑"
+      "gloss": "欢笑"
     },
     {
       "surface": "פִּ֑י\/ךָ",
-      "english": "你的口"
+      "gloss": "你的口"
     },
     {
       "surface": "וּ\/שְׂפָתֶ֥י\/ךָ",
-      "english": "你的嘴唇"
+      "gloss": "你的嘴唇"
     },
     {
       "surface": "תְרוּעָֽה",
-      "english": "欢呼"
+      "gloss": "欢呼"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:18.738995832Z",
-  "model": "glm-5.2"
+  ]
 }

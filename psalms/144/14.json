@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 144:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 144,
-  "usage": {
-    "completion_tokens": 446,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64722,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65168
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:46.390371815Z",
   "translation": "⟨我们的⟩牛负载沉重；没有缺口，没有外出，在我们的广场上没有尖叫声。",
   "tokens": [
     {
       "surface": "אלופינו",
-      "english": "⟨我们的⟩牛"
+      "gloss": "⟨我们的⟩牛"
     },
     {
       "surface": "מסבלים",
-      "english": "负载沉重"
+      "gloss": "负载沉重"
     },
     {
       "surface": "אין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "פרץ",
-      "english": "缺口"
+      "gloss": "缺口"
     },
     {
       "surface": "ואין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "יוצאת",
-      "english": "外出"
+      "gloss": "外出"
     },
     {
       "surface": "ואין",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "צוחה",
-      "english": "尖叫声"
+      "gloss": "尖叫声"
     },
     {
       "surface": "ברחבתינו",
-      "english": "在我们的广场上"
+      "gloss": "在我们的广场上"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:46.390371815Z",
-  "model": "glm-5.2"
+  ]
 }

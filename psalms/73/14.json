@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 73:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 73,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64330,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64611
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:35.438775013Z",
   "translation": "而我终日受击打,我的责备临到每个早晨。",
   "tokens": [
     {
       "surface": "ואהי",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "נגוע",
-      "english": "受击打"
+      "gloss": "受击打"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "היום",
-      "english": "日"
+      "gloss": "日"
     },
     {
       "surface": "ותוכחתי",
-      "english": "我的责备"
+      "gloss": "我的责备"
     },
     {
       "surface": "לבקרים",
-      "english": "临到每个早晨"
+      "gloss": "临到每个早晨"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:35.438775013Z",
-  "model": "glm-5.2"
+  ]
 }

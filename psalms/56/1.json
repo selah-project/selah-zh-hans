@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 56:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 56,
-  "usage": {
-    "completion_tokens": 488,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65059,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65547
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:23.221698680Z",
   "translation": "给伶长。关于远方沉默之鸽。大卫的miktám。⟨当⟩非利士人在迦特抓住⟨את⟩他。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给伶长"
+      "gloss": "给伶长"
     },
     {
       "surface": "על",
-      "english": "关于"
+      "gloss": "关于"
     },
     {
       "surface": "יונת",
-      "english": "鸽"
+      "gloss": "鸽"
     },
     {
       "surface": "אלם",
-      "english": "沉默"
+      "gloss": "沉默"
     },
     {
       "surface": "רחקים",
-      "english": "远方的"
+      "gloss": "远方的"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "מכתם",
-      "english": "miktám（金诗）"
+      "gloss": "miktám（金诗）"
     },
     {
       "surface": "באחז",
-      "english": "⟨当⟩……抓住"
+      "gloss": "⟨当⟩……抓住"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "פלשתים",
-      "english": "非利士人"
+      "gloss": "非利士人"
     },
     {
       "surface": "בגת",
-      "english": "在迦特"
+      "gloss": "在迦特"
     }
-  ],
-  "timestamp": "2026-07-17T23:58:23.221698680Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 17:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 17,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64379,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64700
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:44:00.053341708Z",
   "translation": "维持我的步履在⟨你的⟩路径中，我的脚步⟨将⟩不致滑跌。",
   "tokens": [
     {
       "surface": "תמך",
-      "english": "维持"
+      "gloss": "维持"
     },
     {
       "surface": "אשרי",
-      "english": "我的步履"
+      "gloss": "我的步履"
     },
     {
       "surface": "במעגלותיך",
-      "english": "在⟨你的⟩路径中"
+      "gloss": "在⟨你的⟩路径中"
     },
     {
       "surface": "בל",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נמוטו",
-      "english": "滑跌"
+      "gloss": "滑跌"
     },
     {
       "surface": "פעמי",
-      "english": "我的脚步"
+      "gloss": "我的脚步"
     }
-  ],
-  "timestamp": "2026-07-17T23:44:00.053341708Z",
-  "model": "glm-5.2"
+  ]
 }

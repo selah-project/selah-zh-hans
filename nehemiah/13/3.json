@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "nehemiah 13:3",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 352,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51214,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51566
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:50:28.107772860Z",
   "translation": "他们一听见⟨את⟩妥拉，就从以色列中分别出一切混杂的人。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "⟨事情发生⟩"
+      "gloss": "⟨事情发生⟩"
     },
     {
       "surface": "כשמעם",
-      "english": "当他们一听见"
+      "gloss": "当他们一听见"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "妥拉"
     },
     {
       "surface": "התורה",
-      "english": "妥拉"
+      "gloss": "妥拉"
     },
     {
       "surface": "ויבדילו",
-      "english": "他们就分别出"
+      "gloss": "他们就分别出"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "ערב",
-      "english": "混杂的人"
+      "gloss": "混杂的人"
     },
     {
       "surface": "מישראל",
-      "english": "从以色列"
+      "gloss": "从以色列"
     }
-  ],
-  "timestamp": "2026-07-18T01:50:28.107772860Z",
-  "model": "glm-5.2"
+  ]
 }

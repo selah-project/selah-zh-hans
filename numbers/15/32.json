@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 32,
   "ref": "numbers 15:32",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19797,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20148
-  },
+  "verse": 32,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:46.974933455Z",
   "translation": "雅威的子民以色列的后裔在旷野中的时候,他们发现了一个男人在安息日〈那〉日子捡拾木柴。",
   "tokens": [
     {
       "surface": "ויהיו",
-      "english": "发生了 \/ 在……的时候"
+      "gloss": "发生了 \/ 在……的时候"
     },
     {
       "surface": "בני",
-      "english": "后裔"
+      "gloss": "后裔"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野中"
+      "gloss": "在旷野中"
     },
     {
       "surface": "וימצאו",
-      "english": "他们发现"
+      "gloss": "他们发现"
     },
     {
       "surface": "איש",
-      "english": "一个男人"
+      "gloss": "一个男人"
     },
     {
       "surface": "מקשש",
-      "english": "捡拾"
+      "gloss": "捡拾"
     },
     {
       "surface": "עצים",
-      "english": "木柴"
+      "gloss": "木柴"
     },
     {
       "surface": "ביום",
-      "english": "在……的日子"
+      "gloss": "在……的日子"
     },
     {
       "surface": "השבת",
-      "english": "那安息日"
+      "gloss": "那安息日"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:46.974933455Z",
-  "model": "glm-5.2"
+  ]
 }

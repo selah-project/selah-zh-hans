@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "numbers 35:16",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 35,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19820,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20227
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:26:04.139490065Z",
   "translation": "若⟨人⟩用铁器击打他，他便死了，⟨他⟩便是杀人者；杀人者必被治死。",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "בכלי",
-      "english": "用……器皿"
+      "gloss": "用……器皿"
     },
     {
       "surface": "ברזל",
-      "english": "铁"
+      "gloss": "铁"
     },
     {
       "surface": "הכהו",
-      "english": "击打他"
+      "gloss": "击打他"
     },
     {
       "surface": "וימת",
-      "english": "他便死了"
+      "gloss": "他便死了"
     },
     {
       "surface": "רצח",
-      "english": "杀人者"
+      "gloss": "杀人者"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩便是"
+      "gloss": "⟨他⟩便是"
     },
     {
       "surface": "מות",
-      "english": "死"
+      "gloss": "死"
     },
     {
       "surface": "יומת",
-      "english": "必被治死"
+      "gloss": "必被治死"
     },
     {
       "surface": "הרצח",
-      "english": "⟨那⟩杀人者"
+      "gloss": "⟨那⟩杀人者"
     }
-  ],
-  "timestamp": "2026-07-17T19:26:04.139490065Z",
-  "model": "glm-5.2"
+  ]
 }

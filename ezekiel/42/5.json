@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ezekiel 42:5",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 441,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19265,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19706
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:07:33.140065348Z",
   "translation": "至于最高的厢房,它们被截短了,因为⟨露台⟩从它们吞吃,⟨吞吃⟩⟨多于⟩从底层的和从中层的建筑⟨空间⟩。",
   "tokens": [
     {
       "surface": "והלשכות",
-      "english": "至于最高的厢房"
+      "gloss": "至于最高的厢房"
     },
     {
       "surface": "העליונת",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "קצרות",
-      "english": "它们被截短了"
+      "gloss": "它们被截短了"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יוכלו",
-      "english": "⟨露台⟩吞吃"
+      "gloss": "⟨露台⟩吞吃"
     },
     {
       "surface": "אתיקים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מהנה",
-      "english": "从它们"
+      "gloss": "从它们"
     },
     {
       "surface": "מהתחתנות",
-      "english": "⟨多于⟩从底层的"
+      "gloss": "⟨多于⟩从底层的"
     },
     {
       "surface": "ומהתכנות",
-      "english": "和从中层的"
+      "gloss": "和从中层的"
     },
     {
       "surface": "בנין",
-      "english": "建筑⟨空间⟩"
+      "gloss": "建筑⟨空间⟩"
     }
-  ],
-  "timestamp": "2026-07-17T23:07:33.140065348Z",
-  "model": "glm-5.2"
+  ]
 }

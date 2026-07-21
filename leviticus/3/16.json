@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "leviticus 3:16",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19269,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19749
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:41:12.478611420Z",
   "translation": "祭司要⟨把⟩它⟨们⟩烧在祭坛上 —— ⟨那是⟩火祭的食物，作为舒缓的香气；所有的脂油⟨都⟩属雅威。",
   "tokens": [
     {
       "surface": "והקטירם",
-      "english": "要烧它⟨们⟩"
+      "gloss": "要烧它⟨们⟩"
     },
     {
       "surface": "הכהן",
-      "english": "祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "המזבחה",
-      "english": "在祭坛上"
+      "gloss": "在祭坛上"
     },
     {
       "surface": "לחם",
-      "english": "食物"
+      "gloss": "食物"
     },
     {
       "surface": "אשה",
-      "english": "火祭"
+      "gloss": "火祭"
     },
     {
       "surface": "לריח",
-      "english": "作为香气"
+      "gloss": "作为香气"
     },
     {
       "surface": "ניחח",
-      "english": "舒缓的"
+      "gloss": "舒缓的"
     },
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "חלב",
-      "english": "脂油"
+      "gloss": "脂油"
     },
     {
       "surface": "ליהוה",
-      "english": "属雅威"
+      "gloss": "属雅威"
     }
-  ],
-  "timestamp": "2026-07-17T18:41:12.478611420Z",
-  "model": "glm-5.2"
+  ]
 }

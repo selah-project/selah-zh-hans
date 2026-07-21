@@ -1,69 +1,61 @@
 {
-  "tier": "bulk",
-  "verse": 10,
   "ref": "psalms 62:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 62,
-  "usage": {
-    "completion_tokens": 503,
-    "prompt_tokens": 64880,
-    "prompt_tokens_details": {
-      "cached_tokens": 63360
-    },
-    "total_tokens": 65383
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:22:33.314256550Z",
   "translation": "只是亚当的子民尽是虚空,伟人的儿子尽是谎言;若放在天平上,他们必上升;合起来都比虚空更轻。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "只是"
+      "gloss": "只是"
     },
     {
       "surface": "הבל",
-      "english": "虚空"
+      "gloss": "虚空"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "אדם",
-      "english": "亚当"
+      "gloss": "亚当"
     },
     {
       "surface": "כזב",
-      "english": "谎言"
+      "gloss": "谎言"
     },
     {
       "surface": "בני",
-      "english": "儿子"
+      "gloss": "儿子"
     },
     {
       "surface": "איש",
-      "english": "伟人"
+      "gloss": "伟人"
     },
     {
       "surface": "במאזנים",
-      "english": "若放在天平上"
+      "gloss": "若放在天平上"
     },
     {
       "surface": "לעלות",
-      "english": "他们必上升"
+      "gloss": "他们必上升"
     },
     {
       "surface": "המה",
-      "english": "合起来"
+      "gloss": "合起来"
     },
     {
       "surface": "מהבל",
-      "english": "比虚空"
+      "gloss": "比虚空"
     },
     {
       "surface": "יחד",
-      "english": "更轻"
+      "gloss": "更轻"
     }
-  ],
-  "timestamp": "2026-07-21T13:22:33.314256550Z",
-  "model": "glm-4.5"
+  ]
 }

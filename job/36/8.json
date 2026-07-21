@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 36:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 331,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21511,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21842
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:06:49.572737186Z",
   "translation": "而如果他們被鎖在鐐銬中,⟨他們⟩就被困苦的繩索捕獲——",
   "tokens": [
     {
       "surface": "ואם",
-      "english": "而如果"
+      "gloss": "而如果"
     },
     {
       "surface": "אסורים",
-      "english": "他們被鎖"
+      "gloss": "他們被鎖"
     },
     {
       "surface": "בזקים",
-      "english": "在鐐銬中"
+      "gloss": "在鐐銬中"
     },
     {
       "surface": "ילכדון",
-      "english": "⟨他們⟩就被捕獲"
+      "gloss": "⟨他們⟩就被捕獲"
     },
     {
       "surface": "בחבלי",
-      "english": "在……的繩索中"
+      "gloss": "在……的繩索中"
     },
     {
       "surface": "עני",
-      "english": "困苦"
+      "gloss": "困苦"
     }
-  ],
-  "timestamp": "2026-07-18T01:06:49.572737186Z",
-  "model": "glm-5.2"
+  ]
 }

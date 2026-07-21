@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 31:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54331,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54740
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:49:36.078130379Z",
   "translation": "她制作了סָדִין (细麻内衣) 并卖掉,又将腰带给了כְּנַעֲנִי (商人)。",
   "tokens": [
     {
       "surface": "סדין",
-      "english": "סָדִין (细麻内衣)"
+      "gloss": "סָדִין (细麻内衣)"
     },
     {
       "surface": "עשתה",
-      "english": "她制作了"
+      "gloss": "她制作了"
     },
     {
       "surface": "ותמכר",
-      "english": "并卖掉"
+      "gloss": "并卖掉"
     },
     {
       "surface": "וחגור",
-      "english": "又将腰带"
+      "gloss": "又将腰带"
     },
     {
       "surface": "נתנה",
-      "english": "给了"
+      "gloss": "给了"
     },
     {
       "surface": "לכנעני",
-      "english": "给כְּנַעֲנִי (商人)"
+      "gloss": "给כְּנַעֲנִי (商人)"
     }
-  ],
-  "timestamp": "2026-07-18T00:49:36.078130379Z",
-  "model": "glm-5.2"
+  ]
 }

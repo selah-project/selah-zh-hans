@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "genesis 20:14",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 483,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23516,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23999
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:44:39.153291368Z",
   "translation": "亚比米勒取了羊群、牛群、男仆和女仆,赐给亚伯拉罕;⟨他⟩归还⟨给他⟩⟨את⟩撒拉⟨他的⟩妻子。",
   "tokens": [
     {
       "surface": "ויקח",
-      "english": "取了"
+      "gloss": "取了"
     },
     {
       "surface": "אבימלך",
-      "english": "亚比米勒"
+      "gloss": "亚比米勒"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ובקר",
-      "english": "牛群"
+      "gloss": "牛群"
     },
     {
       "surface": "ועבדים",
-      "english": "男仆"
+      "gloss": "男仆"
     },
     {
       "surface": "ושפחת",
-      "english": "女仆"
+      "gloss": "女仆"
     },
     {
       "surface": "ויתן",
-      "english": "赐给"
+      "gloss": "赐给"
     },
     {
       "surface": "לאברהם",
-      "english": "亚伯拉罕"
+      "gloss": "亚伯拉罕"
     },
     {
       "surface": "וישב",
-      "english": "归还"
+      "gloss": "归还"
     },
     {
       "surface": "לו",
-      "english": "⟨给他⟩"
+      "gloss": "⟨给他⟩"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "撒拉"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     },
     {
       "surface": "אשתו",
-      "english": "⟨他的⟩妻子"
+      "gloss": "⟨他的⟩妻子"
     }
-  ],
-  "timestamp": "2026-07-17T17:44:39.153291368Z",
-  "model": "glm-5.2"
+  ]
 }

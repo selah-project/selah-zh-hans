@@ -1,71 +1,60 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "exodus 37:15",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 318,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18888,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19206
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:33.800893660Z",
   "translation": "他造了⟨את⟩横杠，用皂荚木做成的，用金子包裹它们，好抬⟨את⟩桌子。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "横杠"
     },
     {
       "surface": "הבדים",
-      "english": "横杠"
+      "gloss": "横杠"
     },
     {
       "surface": "עצי",
-      "english": "……的木头"
+      "gloss": "……的木头"
     },
     {
       "surface": "שטים",
-      "english": "皂荚"
+      "gloss": "皂荚"
     },
     {
       "surface": "ויצף",
-      "english": "他包裹了"
+      "gloss": "他包裹了"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩它们",
+      "gloss": "⟨את⟩它们",
       "marks": "金子（受词）"
     },
     {
       "surface": "זהב",
-      "english": "用金子"
+      "gloss": "用金子"
     },
     {
       "surface": "לשאת",
-      "english": "好抬"
+      "gloss": "好抬"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "桌子"
     },
     {
       "surface": "השלחן",
-      "english": "桌子"
+      "gloss": "桌子"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:33.800893660Z",
-  "model": "glm-5.2"
+  ]
 }

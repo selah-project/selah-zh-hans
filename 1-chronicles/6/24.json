@@ -1,61 +1,53 @@
 {
-  "tier": "bulk",
-  "verse": 24,
   "ref": "1-chronicles 6:24",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 367,
-    "prompt_tokens": 58909,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59276
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:22.350295256Z",
   "translation": "和他的兄弟亚萨,⟨他⟩站在他右边——亚萨是比勒基雅的儿子,示玛的儿子",
   "tokens": [
     {
       "surface": "ואחיו",
-      "english": "和他的兄弟"
+      "gloss": "和他的兄弟"
     },
     {
       "surface": "אסף",
-      "english": "亚萨"
+      "gloss": "亚萨"
     },
     {
       "surface": "העמד",
-      "english": "⟨他⟩站在"
+      "gloss": "⟨他⟩站在"
     },
     {
       "surface": "על",
-      "english": "在"
+      "gloss": "在"
     },
     {
       "surface": "ימינו",
-      "english": "他右边"
+      "gloss": "他右边"
     },
     {
       "surface": "אסף",
-      "english": "——亚萨"
+      "gloss": "——亚萨"
     },
     {
       "surface": "בן",
-      "english": "是……的儿子"
+      "gloss": "是……的儿子"
     },
     {
       "surface": "ברכיהו",
-      "english": "比勒基雅"
+      "gloss": "比勒基雅"
     },
     {
       "surface": "בן",
-      "english": "……的儿子"
+      "gloss": "……的儿子"
     },
     {
       "surface": "שמעא",
-      "english": "示玛"
+      "gloss": "示玛"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:22.350295256Z",
-  "model": "glm-4.5"
+  ]
 }

@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 40:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 40,
-  "usage": {
-    "completion_tokens": 572,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19212,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19784
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:31.165072152Z",
   "translation": "你要膏 ⟨את⟩ 燔祭的坛和 ⟨את⟩ 它的一切器具,你要分别 ⟨את⟩ 这坛为圣;这坛就⟨是⟩至圣。",
   "tokens": [
     {
       "surface": "ומשחת",
-      "english": "你要膏"
+      "gloss": "你要膏"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭的坛"
     },
     {
       "surface": "מזבח",
-      "english": "坛"
+      "gloss": "坛"
     },
     {
       "surface": "העלה",
-      "english": "燔祭的"
+      "gloss": "燔祭的"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "它的一切器具"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "כליו",
-      "english": "它的器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "וקדשת",
-      "english": "你要分别为圣"
+      "gloss": "你要分别为圣"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这坛"
     },
     {
       "surface": "המזבח",
-      "english": "这坛"
+      "gloss": "这坛"
     },
     {
       "surface": "והיה",
-      "english": "就⟨是⟩"
+      "gloss": "就⟨是⟩"
     },
     {
       "surface": "המזבח",
-      "english": "这坛"
+      "gloss": "这坛"
     },
     {
       "surface": "קדש",
-      "english": "圣"
+      "gloss": "圣"
     },
     {
       "surface": "קדשים",
-      "english": "至"
+      "gloss": "至"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:31.165072152Z",
-  "model": "glm-5.2"
+  ]
 }

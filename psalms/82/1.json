@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 82:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 82,
-  "usage": {
-    "completion_tokens": 610,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64588,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65198
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:08:35.168047115Z",
   "translation": "亚萨的诗篇。以罗欣站立在以罗的会众中，在以罗欣中间⟨他⟩施行审判。",
   "tokens": [
     {
       "surface": "מִזְמוֹר",
-      "english": "诗篇"
+      "gloss": "诗篇"
     },
     {
       "surface": "לְ\/אָ֫סָף",
-      "english": "亚萨的"
+      "gloss": "亚萨的"
     },
     {
       "surface": "אֱֽלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "נִצָּב",
-      "english": "站立"
+      "gloss": "站立"
     },
     {
       "surface": "בַּ\/עֲדַת",
-      "english": "在……的会众中"
+      "gloss": "在……的会众中"
     },
     {
       "surface": "אֵל",
-      "english": "以罗"
+      "gloss": "以罗"
     },
     {
       "surface": "בְּ\/קֶרֶב",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "אֱלֹהִים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "יִשְׁפֹּט",
-      "english": "⟨他⟩施行审判"
+      "gloss": "⟨他⟩施行审判"
     }
-  ],
-  "timestamp": "2026-07-18T00:08:35.168047115Z",
-  "model": "glm-5.2"
+  ]
 }

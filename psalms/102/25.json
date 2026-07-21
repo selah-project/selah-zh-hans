@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 102:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 102,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64590,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64975
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:07.350557641Z",
   "translation": "我说：我的以罗欣啊，不要在⟨我⟩ ⟨的⟩ 日子的一半将我带走；在⟨的⟩ 世代又世代 ⟨是⟩ ⟨你的⟩ 年岁。",
   "tokens": [
     {
       "surface": "אמר",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אלי",
-      "english": "我的以罗欣啊"
+      "gloss": "我的以罗欣啊"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תעלני",
-      "english": "将我带走"
+      "gloss": "将我带走"
     },
     {
       "surface": "בחצי",
-      "english": "在……的一半"
+      "gloss": "在……的一半"
     },
     {
       "surface": "ימי",
-      "english": "我的日子"
+      "gloss": "我的日子"
     },
     {
       "surface": "בדור",
-      "english": "在⟨的⟩ 世代"
+      "gloss": "在⟨的⟩ 世代"
     },
     {
       "surface": "דורים",
-      "english": "又世代"
+      "gloss": "又世代"
     },
     {
       "surface": "שנותיך",
-      "english": "你的年岁"
+      "gloss": "你的年岁"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:07.350557641Z",
-  "model": "glm-5.2"
+  ]
 }

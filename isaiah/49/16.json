@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "isaiah 49:16",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 49,
-  "usage": {
-    "completion_tokens": 380,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20613,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20993
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:58:12.286991139Z",
   "translation": "看！在手掌上我雕刻了你；你的城墙不断在我面前。",
   "tokens": [
     {
       "surface": "הן",
-      "english": "看！"
+      "gloss": "看！"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "כפים",
-      "english": "手掌"
+      "gloss": "手掌"
     },
     {
       "surface": "חקתיך",
-      "english": "我雕刻了你"
+      "gloss": "我雕刻了你"
     },
     {
       "surface": "חומתיך",
-      "english": "你的城墙"
+      "gloss": "你的城墙"
     },
     {
       "surface": "נגדי",
-      "english": "在我面前"
+      "gloss": "在我面前"
     },
     {
       "surface": "תמיד",
-      "english": "不断"
+      "gloss": "不断"
     }
-  ],
-  "timestamp": "2026-07-17T21:58:12.286991139Z",
-  "model": "glm-5.2"
+  ]
 }

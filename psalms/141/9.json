@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 141:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 141,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64503,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64872
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:29:46.606011033Z",
   "translation": "求你保守我脱离捕鸟器的手——他们为我设下诱饵——以及行恶者的网罗。",
   "tokens": [
     {
       "surface": "שמרני",
-      "english": "求你保守我"
+      "gloss": "求你保守我"
     },
     {
       "surface": "מידי",
-      "english": "脱离……的手"
+      "gloss": "脱离……的手"
     },
     {
       "surface": "פח",
-      "english": "捕鸟器"
+      "gloss": "捕鸟器"
     },
     {
       "surface": "יקשו",
-      "english": "他们设下诱饵"
+      "gloss": "他们设下诱饵"
     },
     {
       "surface": "לי",
-      "english": "为我"
+      "gloss": "为我"
     },
     {
       "surface": "ומקשות",
-      "english": "以及……的网罗"
+      "gloss": "以及……的网罗"
     },
     {
       "surface": "פעלי",
-      "english": "行……者的"
+      "gloss": "行……者的"
     },
     {
       "surface": "און",
-      "english": "恶"
+      "gloss": "恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:29:46.606011033Z",
-  "model": "glm-5.2"
+  ]
 }

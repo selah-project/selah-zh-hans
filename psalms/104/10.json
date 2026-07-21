@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 104:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 341,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64337,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64678
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:16:03.182021958Z",
   "translation": "⟨他⟩差遣泉源进入谷中，它们穿行在群山之间；",
   "tokens": [
     {
       "surface": "המשלח",
-      "english": "⟨他⟩差遣"
+      "gloss": "⟨他⟩差遣"
     },
     {
       "surface": "מעינים",
-      "english": "泉源"
+      "gloss": "泉源"
     },
     {
       "surface": "בנחלים",
-      "english": "进入谷中"
+      "gloss": "进入谷中"
     },
     {
       "surface": "בין",
-      "english": "在……之间"
+      "gloss": "在……之间"
     },
     {
       "surface": "הרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "יהלכון",
-      "english": "它们穿行"
+      "gloss": "它们穿行"
     }
-  ],
-  "timestamp": "2026-07-18T00:16:03.182021958Z",
-  "model": "glm-5.2"
+  ]
 }

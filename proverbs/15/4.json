@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "proverbs 15:4",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54474,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54856
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:54.635290712Z",
   "translation": "舌头的医治是生命之树；其中的扭曲是鲁阿中的断裂。",
   "tokens": [
     {
       "surface": "מרפא",
-      "english": "医治"
+      "gloss": "医治"
     },
     {
       "surface": "לשון",
-      "english": "舌头的"
+      "gloss": "舌头的"
     },
     {
       "surface": "עץ",
-      "english": "树"
+      "gloss": "树"
     },
     {
       "surface": "חיים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "וסלף",
-      "english": "而其中的扭曲"
+      "gloss": "而其中的扭曲"
     },
     {
       "surface": "בה",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "שבר",
-      "english": "是断裂"
+      "gloss": "是断裂"
     },
     {
       "surface": "ברוח",
-      "english": "在鲁阿中"
+      "gloss": "在鲁阿中"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:54.635290712Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "leviticus 21:3",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 522,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19170,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19692
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:47.730735059Z",
   "translation": "以及他的处女妹妹，⟨那⟩近亲⟨的⟩，未曾归属男人⟨的⟩——为她他可以沾染不洁。",
   "tokens": [
     {
       "surface": "ולאחתו",
-      "english": "以及他的妹妹"
+      "gloss": "以及他的妹妹"
     },
     {
       "surface": "הבתולה",
-      "english": "处女"
+      "gloss": "处女"
     },
     {
       "surface": "הקרובה",
-      "english": "⟨那⟩近亲⟨的⟩"
+      "gloss": "⟨那⟩近亲⟨的⟩"
     },
     {
       "surface": "אליו",
-      "english": "⟨对⟩他"
+      "gloss": "⟨对⟩他"
     },
     {
       "surface": "אשר",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "לא",
-      "english": "未"
+      "gloss": "未"
     },
     {
       "surface": "היתה",
-      "english": "曾是"
+      "gloss": "曾是"
     },
     {
       "surface": "לאיש",
-      "english": "归属男人"
+      "gloss": "归属男人"
     },
     {
       "surface": "לה",
-      "english": "为她"
+      "gloss": "为她"
     },
     {
       "surface": "יטמא",
-      "english": "他可以沾染不洁"
+      "gloss": "他可以沾染不洁"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:47.730735059Z",
-  "model": "glm-5.2"
+  ]
 }

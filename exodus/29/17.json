@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "exodus 29:17",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18963,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19335
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:30:56.617345815Z",
   "translation": "你要将 ⟨את⟩ 那只公羊切成块,洗净它的内脏和它的腿,放在它的块子上和它的头上。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "那只公羊"
     },
     {
       "surface": "האיל",
-      "english": "那只公羊"
+      "gloss": "那只公羊"
     },
     {
       "surface": "תנתח",
-      "english": "你要切成块"
+      "gloss": "你要切成块"
     },
     {
       "surface": "לנתחיו",
-      "english": "成它的块"
+      "gloss": "成它的块"
     },
     {
       "surface": "ורחצת",
-      "english": "你要洗净"
+      "gloss": "你要洗净"
     },
     {
       "surface": "קרבו",
-      "english": "它的内脏"
+      "gloss": "它的内脏"
     },
     {
       "surface": "וכרעיו",
-      "english": "和它的腿"
+      "gloss": "和它的腿"
     },
     {
       "surface": "ונתת",
-      "english": "你要放"
+      "gloss": "你要放"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "נתחיו",
-      "english": "它的块子"
+      "gloss": "它的块子"
     },
     {
       "surface": "ועל",
-      "english": "和在……上"
+      "gloss": "和在……上"
     },
     {
       "surface": "ראשו",
-      "english": "它的头"
+      "gloss": "它的头"
     }
-  ],
-  "timestamp": "2026-07-17T18:30:56.617345815Z",
-  "model": "glm-5.2"
+  ]
 }

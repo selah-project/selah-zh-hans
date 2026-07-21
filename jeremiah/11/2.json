@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "jeremiah 11:2",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 448,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19482,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19930
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:13:16.672484150Z",
   "translation": "你们要听这布瑞特的话 ⟨את⟩,你们要对犹大的人讲,对耶路撒冷的居民讲;",
   "tokens": [
     {
       "surface": "שמעו",
-      "english": "你们要听"
+      "gloss": "你们要听"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这布瑞特的话"
     },
     {
       "surface": "דברי",
-      "english": "话"
+      "gloss": "话"
     },
     {
       "surface": "הברית",
-      "english": "这布瑞特"
+      "gloss": "这布瑞特"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ודברתם",
-      "english": "你们要讲"
+      "gloss": "你们要讲"
     },
     {
       "surface": "אל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "איש",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ועל",
-      "english": "对"
+      "gloss": "对"
     },
     {
       "surface": "ישבי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T22:13:16.672484150Z",
-  "model": "glm-5.2"
+  ]
 }

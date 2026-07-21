@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "psalms 71:13",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 71,
-  "usage": {
-    "completion_tokens": 527,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64753,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65280
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:42.912943286Z",
   "translation": "愿他们蒙羞、愿他们灭亡，⟨就是⟩那控诉我生命的人；愿寻求我灾祸的人披上辱骂 ⟨和⟩ 羞愧。",
   "tokens": [
     {
       "surface": "יבשו",
-      "english": "愿他们蒙羞"
+      "gloss": "愿他们蒙羞"
     },
     {
       "surface": "יכלו",
-      "english": "愿他们灭亡"
+      "gloss": "愿他们灭亡"
     },
     {
       "surface": "שטני",
-      "english": "那控诉……的人"
+      "gloss": "那控诉……的人"
     },
     {
       "surface": "נפשי",
-      "english": "我生命"
+      "gloss": "我生命"
     },
     {
       "surface": "יעטו",
-      "english": "愿……披上"
+      "gloss": "愿……披上"
     },
     {
       "surface": "חרפה",
-      "english": "辱骂"
+      "gloss": "辱骂"
     },
     {
       "surface": "וכלמה",
-      "english": "和羞愧"
+      "gloss": "和羞愧"
     },
     {
       "surface": "מבקשי",
-      "english": "寻求……的人"
+      "gloss": "寻求……的人"
     },
     {
       "surface": "רעתי",
-      "english": "我灾祸"
+      "gloss": "我灾祸"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:42.912943286Z",
-  "model": "glm-5.2"
+  ]
 }

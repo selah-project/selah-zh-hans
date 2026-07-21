@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 26,
   "ref": "psalms 68:26",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64508,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64851
-  },
+  "verse": 26,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:19.745389414Z",
   "translation": "歌唱者走在前面,弹奏者随在后,在击鼓的年轻女子中间。",
   "tokens": [
     {
       "surface": "קדמו",
-      "english": "走在前面"
+      "gloss": "走在前面"
     },
     {
       "surface": "שרים",
-      "english": "歌唱者"
+      "gloss": "歌唱者"
     },
     {
       "surface": "אחר",
-      "english": "在后"
+      "gloss": "在后"
     },
     {
       "surface": "נגנים",
-      "english": "弹奏者"
+      "gloss": "弹奏者"
     },
     {
       "surface": "בתוך",
-      "english": "在……中间"
+      "gloss": "在……中间"
     },
     {
       "surface": "עלמות",
-      "english": "年轻女子"
+      "gloss": "年轻女子"
     },
     {
       "surface": "תופפות",
-      "english": "击鼓"
+      "gloss": "击鼓"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:19.745389414Z",
-  "model": "glm-5.2"
+  ]
 }

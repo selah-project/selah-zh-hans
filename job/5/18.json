@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "job 5:18",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21623,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22018
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:58.023185498Z",
   "translation": "因为 ⟨他⟩ 使人疼痛，又包扎；他击碎，⟨而⟩ 他的手使他们痊愈。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "הוא",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "יכאיב",
-      "english": "使人疼痛"
+      "gloss": "使人疼痛"
     },
     {
       "surface": "ושיחבש",
-      "english": "又包扎"
+      "gloss": "又包扎"
     },
     {
       "surface": "ימחץ",
-      "english": "击碎"
+      "gloss": "击碎"
     },
     {
       "surface": "וידו",
-      "english": "⟨而⟩ 他的手"
+      "gloss": "⟨而⟩ 他的手"
     },
     {
       "surface": "תרפינה",
-      "english": "使他们痊愈"
+      "gloss": "使他们痊愈"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:58.023185498Z",
-  "model": "glm-5.2"
+  ]
 }

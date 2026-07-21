@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "hosea 5:15",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 699,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21507,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 22206
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:51.123457183Z",
   "translation": "我要走,我要回到我的地方,直到他们⟨变⟩有罪,并且寻求我的面;在他们的困迫中,他们必殷切地寻求我。",
   "tokens": [
     {
       "surface": "אלך",
-      "english": "我要走"
+      "gloss": "我要走"
     },
     {
       "surface": "אשובה",
-      "english": "我要返回"
+      "gloss": "我要返回"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "מקומי",
-      "english": "我的地方"
+      "gloss": "我的地方"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אשר",
-      "english": "⟨那时候⟩"
+      "gloss": "⟨那时候⟩"
     },
     {
       "surface": "יאשמו",
-      "english": "他们变有罪"
+      "gloss": "他们变有罪"
     },
     {
       "surface": "ובקשו",
-      "english": "并且寻求"
+      "gloss": "并且寻求"
     },
     {
       "surface": "פני",
-      "english": "我的面"
+      "gloss": "我的面"
     },
     {
       "surface": "בצר",
-      "english": "在他们的困迫中"
+      "gloss": "在他们的困迫中"
     },
     {
       "surface": "להם",
-      "english": "对他们而言"
+      "gloss": "对他们而言"
     },
     {
       "surface": "ישחרנני",
-      "english": "他们必殷切寻求我"
+      "gloss": "他们必殷切寻求我"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:51.123457183Z",
-  "model": "glm-5.2"
+  ]
 }

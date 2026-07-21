@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 75:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64579,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64990
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:26.611246936Z",
   "translation": "我们称谢你，以罗欣啊，我们称谢；你的名是⟨靠近的⟩，他们述说你的奇妙作为。",
   "tokens": [
     {
       "surface": "הודינו",
-      "english": "我们称谢"
+      "gloss": "我们称谢"
     },
     {
       "surface": "לך",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "הודינו",
-      "english": "我们称谢"
+      "gloss": "我们称谢"
     },
     {
       "surface": "וקרוב",
-      "english": "和⟨靠近的⟩是"
+      "gloss": "和⟨靠近的⟩是"
     },
     {
       "surface": "שמך",
-      "english": "你的名"
+      "gloss": "你的名"
     },
     {
       "surface": "ספרו",
-      "english": "他们述说"
+      "gloss": "他们述说"
     },
     {
       "surface": "נפלאותיך",
-      "english": "你的奇妙作为"
+      "gloss": "你的奇妙作为"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:26.611246936Z",
-  "model": "glm-5.2"
+  ]
 }

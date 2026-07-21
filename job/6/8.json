@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 6:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 220,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21584,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21804
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:24.938732860Z",
   "translation": "谁愿意赐下——愿我的祈求来到，愿以罗欣赐下我所仰望的！",
   "tokens": [
     {
       "surface": "מי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "יתן",
-      "english": "愿意赐下"
+      "gloss": "愿意赐下"
     },
     {
       "surface": "תבוא",
-      "english": "愿……来到"
+      "gloss": "愿……来到"
     },
     {
       "surface": "שאלתי",
-      "english": "我的祈求"
+      "gloss": "我的祈求"
     },
     {
       "surface": "ותקותי",
-      "english": "和我所仰望的"
+      "gloss": "和我所仰望的"
     },
     {
       "surface": "יתן",
-      "english": "愿赐下"
+      "gloss": "愿赐下"
     },
     {
       "surface": "אלוה",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:24.938732860Z",
-  "model": "glm-5.2"
+  ]
 }

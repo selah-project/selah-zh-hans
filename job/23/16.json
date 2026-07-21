@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "job 23:16",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21392,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21749
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:44.772398841Z",
   "translation": "因为以罗欣使我 ⟨לִבִּי⟩ 软弱，沙代使我惊惶失措。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "因为以罗欣"
+      "gloss": "因为以罗欣"
     },
     {
       "surface": "הרך",
-      "english": "使……软弱"
+      "gloss": "使……软弱"
     },
     {
       "surface": "לבי",
-      "english": "我的 ⟨לִבִּי⟩"
+      "gloss": "我的 ⟨לִבִּי⟩"
     },
     {
       "surface": "ושדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "הבהילני",
-      "english": "使我惊惶失措"
+      "gloss": "使我惊惶失措"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:44.772398841Z",
-  "model": "glm-5.2"
+  ]
 }

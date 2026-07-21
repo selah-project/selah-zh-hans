@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "proverbs 10:24",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54419,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54788
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:33.252084455Z",
   "translation": "恶人所恐惧的,它必临到他;而义人所渴望的,⟨他⟩必赐予。",
   "tokens": [
     {
       "surface": "מגורת",
-      "english": "所恐惧的"
+      "gloss": "所恐惧的"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "היא",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "תבואנו",
-      "english": "必临到他"
+      "gloss": "必临到他"
     },
     {
       "surface": "ותאות",
-      "english": "而……所渴望的"
+      "gloss": "而……所渴望的"
     },
     {
       "surface": "צדיקים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "יתן",
-      "english": "⟨他⟩必赐予"
+      "gloss": "⟨他⟩必赐予"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:33.252084455Z",
-  "model": "glm-5.2"
+  ]
 }

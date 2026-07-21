@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "lamentations 5:14",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 357,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33409,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33766
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:18:05.295686791Z",
   "translation": "长老们从城门停息了，年轻人从他们的音乐停息了。",
   "tokens": [
     {
       "surface": "זקנים",
-      "english": "长老们"
+      "gloss": "长老们"
     },
     {
       "surface": "משער",
-      "english": "从城门"
+      "gloss": "从城门"
     },
     {
       "surface": "שבתו",
-      "english": "停息了"
+      "gloss": "停息了"
     },
     {
       "surface": "בחורים",
-      "english": "年轻人"
+      "gloss": "年轻人"
     },
     {
       "surface": "מנגינתם",
-      "english": "从他们的音乐"
+      "gloss": "从他们的音乐"
     }
-  ],
-  "timestamp": "2026-07-18T01:18:05.295686791Z",
-  "model": "glm-5.2"
+  ]
 }

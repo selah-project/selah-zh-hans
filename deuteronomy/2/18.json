@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "deuteronomy 2:18",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 358,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19220,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19578
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:28:33.415005828Z",
   "translation": "你今天正经过⟨את⟩摩押的边界，⟨就是⟩⟨את⟩亚珥，",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "עבר",
-      "english": "正经过"
+      "gloss": "正经过"
     },
     {
       "surface": "היום",
-      "english": "今天"
+      "gloss": "今天"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "摩押的边界"
     },
     {
       "surface": "גבול",
-      "english": "边界"
+      "gloss": "边界"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚珥"
     },
     {
       "surface": "ער",
-      "english": "亚珥"
+      "gloss": "亚珥"
     }
-  ],
-  "timestamp": "2026-07-17T19:28:33.415005828Z",
-  "model": "glm-5.2"
+  ]
 }

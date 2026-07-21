@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "1-chronicles 4:11",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 259,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58856,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59115
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:53:43.529998357Z",
   "translation": "基路伯 ⟨是⟩ 舒哈的兄弟;他生了 ⟨את⟩ 麦希尔;他⟨是⟩ 以实顿的父亲。",
   "tokens": [
     {
       "surface": "וכלוב",
-      "english": "基路伯"
+      "gloss": "基路伯"
     },
     {
       "surface": "אחי",
-      "english": "的兄弟"
+      "gloss": "的兄弟"
     },
     {
       "surface": "שוחה",
-      "english": "舒哈"
+      "gloss": "舒哈"
     },
     {
       "surface": "הוליד",
-      "english": "他生了"
+      "gloss": "他生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "麦希尔"
     },
     {
       "surface": "מחיר",
-      "english": "麦希尔"
+      "gloss": "麦希尔"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "אבי",
-      "english": "的父亲"
+      "gloss": "的父亲"
     },
     {
       "surface": "אשתון",
-      "english": "以实顿"
+      "gloss": "以实顿"
     }
-  ],
-  "timestamp": "2026-07-18T01:53:43.529998357Z",
-  "model": "glm-5.2"
+  ]
 }

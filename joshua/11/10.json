@@ -1,102 +1,91 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "joshua 11:10",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 608,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19020,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 19628
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:57:10.866142764Z",
   "translation": "约书亚在那⟨时⟩转回,攻取了⟨את⟩夏琐,用刀击杀了⟨את⟩它的王,因为夏琐从前⟨是⟩这一切国度的头。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "转回"
+      "gloss": "转回"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "בעת",
-      "english": "在那⟨时⟩"
+      "gloss": "在那⟨时⟩"
     },
     {
       "surface": "ההיא",
-      "english": "那"
+      "gloss": "那"
     },
     {
       "surface": "וילכד",
-      "english": "攻取了"
+      "gloss": "攻取了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "夏琐"
     },
     {
       "surface": "חצור",
-      "english": "夏琐"
+      "gloss": "夏琐"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "它的王"
     },
     {
       "surface": "מלכה",
-      "english": "它的王"
+      "gloss": "它的王"
     },
     {
       "surface": "הכה",
-      "english": "击杀了"
+      "gloss": "击杀了"
     },
     {
       "surface": "בחרב",
-      "english": "用刀"
+      "gloss": "用刀"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חצור",
-      "english": "夏琐"
+      "gloss": "夏琐"
     },
     {
       "surface": "לפנים",
-      "english": "从前"
+      "gloss": "从前"
     },
     {
       "surface": "היא",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "כל",
-      "english": "这一切"
+      "gloss": "这一切"
     },
     {
       "surface": "הממלכות",
-      "english": "国度的"
+      "gloss": "国度的"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     }
-  ],
-  "timestamp": "2026-07-17T19:57:10.866142764Z",
-  "model": "glm-5.2"
+  ]
 }

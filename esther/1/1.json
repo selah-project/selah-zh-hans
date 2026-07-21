@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "esther 1:1",
   "book": "esther",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 473,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19771,
-    "prompt_tokens_details": {
-      "cached_tokens": 18112
-    },
-    "total_tokens": 20244
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:23:53.596371480Z",
   "translation": "事情发生在亚哈随鲁的日子——⟨就是⟩亚哈随鲁,那从印度直到古实作王 ⟨统治⟩ 一百二十七省的 ⟨那位⟩,",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "事情发生在"
+      "gloss": "事情发生在"
     },
     {
       "surface": "בימי",
-      "english": "……的日子"
+      "gloss": "……的日子"
     },
     {
       "surface": "אחשורוש",
-      "english": "亚哈随鲁"
+      "gloss": "亚哈随鲁"
     },
     {
       "surface": "הוא",
-      "english": "⟨就是⟩"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "אחשורוש",
-      "english": "亚哈随鲁"
+      "gloss": "亚哈随鲁"
     },
     {
       "surface": "המלך",
-      "english": "作王 ⟨统治⟩"
+      "gloss": "作王 ⟨统治⟩"
     },
     {
       "surface": "מהדו",
-      "english": "从印度"
+      "gloss": "从印度"
     },
     {
       "surface": "ועד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "כוש",
-      "english": "古实"
+      "gloss": "古实"
     },
     {
       "surface": "שבע",
-      "english": "七"
+      "gloss": "七"
     },
     {
       "surface": "ועשרים",
-      "english": "和二十"
+      "gloss": "和二十"
     },
     {
       "surface": "ומאה",
-      "english": "和一百"
+      "gloss": "和一百"
     },
     {
       "surface": "מדינה",
-      "english": "省"
+      "gloss": "省"
     }
-  ],
-  "timestamp": "2026-07-18T01:23:53.596371480Z",
-  "model": "glm-5.2"
+  ]
 }

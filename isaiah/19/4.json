@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 19:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21266,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21917
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:02.512599274Z",
   "translation": "我必将 ⟨את⟩ 埃及交在严酷的主人们手中,一位强暴的王必辖管 ⟨他们⟩ —— 这是主人雅威、万军之雅威的宣告。",
   "tokens": [
     {
       "surface": "וְ\/סִכַּרְתִּי֙",
-      "english": "我必将……交在"
+      "gloss": "我必将……交在"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "埃及"
     },
     {
       "surface": "מִצְרַ֔יִם",
-      "english": "埃及"
+      "gloss": "埃及"
     },
     {
       "surface": "בְּ\/יַ֖ד",
-      "english": "在……手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "אֲדֹנִ֣ים",
-      "english": "主人们"
+      "gloss": "主人们"
     },
     {
       "surface": "קָשֶׁ֑ה",
-      "english": "严酷的"
+      "gloss": "严酷的"
     },
     {
       "surface": "וּ\/מֶ֤לֶךְ",
-      "english": "一位王"
+      "gloss": "一位王"
     },
     {
       "surface": "עַז֙",
-      "english": "强暴的"
+      "gloss": "强暴的"
     },
     {
       "surface": "יִמְשָׁל",
-      "english": "必辖管"
+      "gloss": "必辖管"
     },
     {
       "surface": "בָּ֔\/ם",
-      "english": "⟨他们⟩"
+      "gloss": "⟨他们⟩"
     },
     {
       "surface": "נְאֻ֥ם",
-      "english": "宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "הָ\/אָד֖וֹן",
-      "english": "主人"
+      "gloss": "主人"
     },
     {
       "surface": "יְהוָ֥ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "צְבָאֽוֹת",
-      "english": "万军"
+      "gloss": "万军"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:02.512599274Z",
-  "model": "glm-5.2"
+  ]
 }

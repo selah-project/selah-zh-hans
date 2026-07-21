@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "job 22:8",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 368,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21618,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21986
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:00:01.871693309Z",
   "translation": "而有臂力的人,地⟨是⟩属他的;而抬起脸面⟨即⟩受尊敬的人居住在其中。",
   "tokens": [
     {
       "surface": "ואיש",
-      "english": "而有……的人"
+      "gloss": "而有……的人"
     },
     {
       "surface": "זרוע",
-      "english": "臂力"
+      "gloss": "臂力"
     },
     {
       "surface": "לו",
-      "english": "属他的"
+      "gloss": "属他的"
     },
     {
       "surface": "הארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "ונשוא",
-      "english": "而抬起"
+      "gloss": "而抬起"
     },
     {
       "surface": "פנים",
-      "english": "脸面"
+      "gloss": "脸面"
     },
     {
       "surface": "ישב",
-      "english": "居住"
+      "gloss": "居住"
     },
     {
       "surface": "בה",
-      "english": "在其中"
+      "gloss": "在其中"
     }
-  ],
-  "timestamp": "2026-07-18T01:00:01.871693309Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "job 36:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21490,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21836
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:05.428491150Z",
   "translation": "全人类都看见了它；必死之人从远处⟨观望⟩。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "אדם",
-      "english": "人类 (adam)"
+      "gloss": "人类 (adam)"
     },
     {
       "surface": "חזו",
-      "english": "都看见了"
+      "gloss": "都看见了"
     },
     {
       "surface": "בו",
-      "english": "它"
+      "gloss": "它"
     },
     {
       "surface": "אנוש",
-      "english": "必死之人 (enosh)"
+      "gloss": "必死之人 (enosh)"
     },
     {
       "surface": "יביט",
-      "english": "⟨观望⟩"
+      "gloss": "⟨观望⟩"
     },
     {
       "surface": "מרחוק",
-      "english": "从远处"
+      "gloss": "从远处"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:05.428491150Z",
-  "model": "glm-5.2"
+  ]
 }

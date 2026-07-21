@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 30:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 208,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64385,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64593
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:43.534273178Z",
   "translation": "雅威我的以罗欣,我曾向你呼求,你医治了我。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "שועתי",
-      "english": "我曾呼求"
+      "gloss": "我曾呼求"
     },
     {
       "surface": "אליך",
-      "english": "向你"
+      "gloss": "向你"
     },
     {
       "surface": "ותרפאני",
-      "english": "你医治了我"
+      "gloss": "你医治了我"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:43.534273178Z",
-  "model": "glm-5.2"
+  ]
 }

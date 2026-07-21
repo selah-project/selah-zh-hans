@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "isaiah 57:18",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 536,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20747,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21283
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:01:51.831020323Z",
   "translation": "我看见了他的道路,我要医治他;我要引导他,我要将安慰赐给他和⟨他的⟩哀悼者。",
   "tokens": [
     {
       "surface": "דְּרָכָ֥יו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "רָאִ֖יתִי",
-      "english": "我看见了"
+      "gloss": "我看见了"
     },
     {
       "surface": "וְאֶרְפָּאֵ֑הוּ",
-      "english": "我要医治他"
+      "gloss": "我要医治他"
     },
     {
       "surface": "וְאַנְחֵ֕הוּ",
-      "english": "我要引导他"
+      "gloss": "我要引导他"
     },
     {
       "surface": "וַאֲשַׁלֵּ֧ם",
-      "english": "我要赐给"
+      "gloss": "我要赐给"
     },
     {
       "surface": "נִֽחֻמִ֛ים",
-      "english": "安慰"
+      "gloss": "安慰"
     },
     {
       "surface": "ל֖\/וֹ",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "וְ\/לַ\/אֲבֵלָֽיו",
-      "english": "和他的哀悼者"
+      "gloss": "和他的哀悼者"
     }
-  ],
-  "timestamp": "2026-07-17T22:01:51.831020323Z",
-  "model": "glm-5.2"
+  ]
 }

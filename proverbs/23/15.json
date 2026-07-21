@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 23:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 23,
-  "usage": {
-    "completion_tokens": 437,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54427,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54864
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:44:20.906963354Z",
   "translation": "我的子，如果你的心 ⟨是⟩ 智慧的，我的心也必欢喜——连我 ⟨自己⟩ 也是。",
   "tokens": [
     {
       "surface": "בני",
-      "english": "我的子"
+      "gloss": "我的子"
     },
     {
       "surface": "אם",
-      "english": "如果"
+      "gloss": "如果"
     },
     {
       "surface": "חכם",
-      "english": "智慧的"
+      "gloss": "智慧的"
     },
     {
       "surface": "לבך",
-      "english": "你的心"
+      "gloss": "你的心"
     },
     {
       "surface": "ישמח",
-      "english": "也必欢喜"
+      "gloss": "也必欢喜"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "גם",
-      "english": "连"
+      "gloss": "连"
     },
     {
       "surface": "אני",
-      "english": "我（自己）也是"
+      "gloss": "我（自己）也是"
     }
-  ],
-  "timestamp": "2026-07-18T00:44:20.906963354Z",
-  "model": "glm-5.2"
+  ]
 }

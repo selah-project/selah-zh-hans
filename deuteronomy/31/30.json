@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "deuteronomy 31:30",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 540,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19629,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 20169
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:47:35.099472108Z",
   "translation": "摩西在以色列全会众耳中讲了⟨את⟩这歌的*话语*，直到⟨完全讲完⟩。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "讲了"
+      "gloss": "讲了"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "באזני",
-      "english": "在……耳中"
+      "gloss": "在……耳中"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "קהל",
-      "english": "会众"
+      "gloss": "会众"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这歌的*话语*"
     },
     {
       "surface": "דברי",
-      "english": "*话语*"
+      "gloss": "*话语*"
     },
     {
       "surface": "השירה",
-      "english": "这歌"
+      "gloss": "这歌"
     },
     {
       "surface": "הזאת",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "תמם",
-      "english": "⟨完全讲完⟩"
+      "gloss": "⟨完全讲完⟩"
     }
-  ],
-  "timestamp": "2026-07-17T19:47:35.099472108Z",
-  "model": "glm-5.2"
+  ]
 }

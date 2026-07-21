@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 33:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 476,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64548,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65024
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:49:51.904355752Z",
   "translation": "有福的 ⟨是⟩ ⟨הַ\/גּוֹי⟩ אֲשֶׁר 雅威 ⟨是⟩ 他的以罗欣 —— ⟨הָ\/עָם⟩ 他为自己拣选作为产业的。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "有福的"
+      "gloss": "有福的"
     },
     {
       "surface": "הגוי",
-      "english": "⟨הַ\/גּוֹי⟩"
+      "gloss": "⟨הַ\/גּוֹי⟩"
     },
     {
       "surface": "אשר",
-      "english": "אֲשֶׁר"
+      "gloss": "אֲשֶׁר"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיו",
-      "english": "他的以罗欣"
+      "gloss": "他的以罗欣"
     },
     {
       "surface": "העם",
-      "english": "⟨הָ\/עָם⟩"
+      "gloss": "⟨הָ\/עָם⟩"
     },
     {
       "surface": "בחר",
-      "english": "拣选"
+      "gloss": "拣选"
     },
     {
       "surface": "לנחלה",
-      "english": "作为产业"
+      "gloss": "作为产业"
     },
     {
       "surface": "לו",
-      "english": "为他自己"
+      "gloss": "为他自己"
     }
-  ],
-  "timestamp": "2026-07-17T23:49:51.904355752Z",
-  "model": "glm-5.2"
+  ]
 }

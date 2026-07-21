@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "exodus 13:20",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 321,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18295,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18616
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:18:36.559670762Z",
   "translation": "他们从苏割起行,在以坦扎营,在旷野的边缘。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们……起行"
+      "gloss": "他们……起行"
     },
     {
       "surface": "מסכת",
-      "english": "从苏割"
+      "gloss": "从苏割"
     },
     {
       "surface": "ויחנו",
-      "english": "他们……扎营"
+      "gloss": "他们……扎营"
     },
     {
       "surface": "באתם",
-      "english": "在以坦"
+      "gloss": "在以坦"
     },
     {
       "surface": "בקצה",
-      "english": "在……边缘"
+      "gloss": "在……边缘"
     },
     {
       "surface": "המדבר",
-      "english": "旷野"
+      "gloss": "旷野"
     }
-  ],
-  "timestamp": "2026-07-17T18:18:36.559670762Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "job 18:10",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21485,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21942
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:57:58.653976734Z",
   "translation": "他的绳索隐藏在地里，他的捕机⟨在⟩小径上。",
   "tokens": [
     {
       "surface": "טָמ֣וּן",
-      "english": "隐藏"
+      "gloss": "隐藏"
     },
     {
       "surface": "בָּ\/אָ֣רֶץ",
-      "english": "在地里"
+      "gloss": "在地里"
     },
     {
       "surface": "חַבְל֑\/וֹ",
-      "english": "他的绳索"
+      "gloss": "他的绳索"
     },
     {
       "surface": "וּ֝\/מַלְכֻּדְתּ֗\/וֹ",
-      "english": "而他的捕机"
+      "gloss": "而他的捕机"
     },
     {
       "surface": "עֲלֵ֣י",
-      "english": "⟨在⟩……上"
+      "gloss": "⟨在⟩……上"
     },
     {
       "surface": "נָתִֽיב",
-      "english": "小径"
+      "gloss": "小径"
     }
-  ],
-  "timestamp": "2026-07-18T00:57:58.653976734Z",
-  "model": "glm-5.2"
+  ]
 }

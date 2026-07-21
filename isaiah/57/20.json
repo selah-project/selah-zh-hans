@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "isaiah 57:20",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 57,
-  "usage": {
-    "completion_tokens": 553,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20922,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21475
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:02:02.796672200Z",
   "translation": "至于恶人，他们像海被驱赶，因为 ⟨它⟩ 无法静息，它的水翻涌出泥泞与淤泥。",
   "tokens": [
     {
       "surface": "והרשעים",
-      "english": "至于恶人，他们"
+      "gloss": "至于恶人，他们"
     },
     {
       "surface": "כים",
-      "english": "像海"
+      "gloss": "像海"
     },
     {
       "surface": "נגרש",
-      "english": "被驱赶"
+      "gloss": "被驱赶"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "השקט",
-      "english": "静息"
+      "gloss": "静息"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יוכל",
-      "english": "⟨它⟩ 能够"
+      "gloss": "⟨它⟩ 能够"
     },
     {
       "surface": "ויגרשו",
-      "english": "它的水翻涌出"
+      "gloss": "它的水翻涌出"
     },
     {
       "surface": "מימיו",
-      "english": "它的水"
+      "gloss": "它的水"
     },
     {
       "surface": "רפש",
-      "english": "泥泞"
+      "gloss": "泥泞"
     },
     {
       "surface": "וטיט",
-      "english": "与淤泥"
+      "gloss": "与淤泥"
     }
-  ],
-  "timestamp": "2026-07-17T22:02:02.796672200Z",
-  "model": "glm-5.2"
+  ]
 }

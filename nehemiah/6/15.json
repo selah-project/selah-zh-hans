@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "nehemiah 6:15",
   "book": "nehemiah",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 425,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 51158,
-    "prompt_tokens_details": {
-      "cached_tokens": 49984
-    },
-    "total_tokens": 51583
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:45:27.141257652Z",
   "translation": "城墙在以禄月二十五日完工——历时五十二天。",
   "tokens": [
     {
       "surface": "ותשלם",
-      "english": "⟨被⟩完工了"
+      "gloss": "⟨被⟩完工了"
     },
     {
       "surface": "החומה",
-      "english": "城墙"
+      "gloss": "城墙"
     },
     {
       "surface": "בעשרים",
-      "english": "在二十⟨日⟩"
+      "gloss": "在二十⟨日⟩"
     },
     {
       "surface": "וחמשה",
-      "english": "和五"
+      "gloss": "和五"
     },
     {
       "surface": "לאלול",
-      "english": "以禄月"
+      "gloss": "以禄月"
     },
     {
       "surface": "לחמשים",
-      "english": "在五十"
+      "gloss": "在五十"
     },
     {
       "surface": "ושנים",
-      "english": "和二"
+      "gloss": "和二"
     },
     {
       "surface": "יום",
-      "english": "天"
+      "gloss": "天"
     }
-  ],
-  "timestamp": "2026-07-18T01:45:27.141257652Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "leviticus 20:16",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 20,
-  "usage": {
-    "completion_tokens": 651,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20028,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20679
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:15.018370021Z",
   "translation": "至于女人，她若接近任何牲畜要与牠交合，⟨你⟩要杀死⟨את⟩这女人和⟨את⟩⟨那⟩牲畜；他们必被处死，他们的血在他们身上。",
   "tokens": [
     {
       "surface": "ואשה",
-      "english": "至于女人"
+      "gloss": "至于女人"
     },
     {
       "surface": "אשר",
-      "english": "她若"
+      "gloss": "她若"
     },
     {
       "surface": "תקרב",
-      "english": "接近"
+      "gloss": "接近"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "כל",
-      "english": "任何"
+      "gloss": "任何"
     },
     {
       "surface": "בהמה",
-      "english": "牲畜"
+      "gloss": "牲畜"
     },
     {
       "surface": "לרבעה",
-      "english": "要与牠交合"
+      "gloss": "要与牠交合"
     },
     {
       "surface": "אתה",
-      "english": "⟨她⟩"
+      "gloss": "⟨她⟩"
     },
     {
       "surface": "והרגת",
-      "english": "⟨你⟩要杀死"
+      "gloss": "⟨你⟩要杀死"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这女人"
     },
     {
       "surface": "האשה",
-      "english": "这女人"
+      "gloss": "这女人"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "הבהמה",
-      "english": "⟨那⟩牲畜"
+      "gloss": "⟨那⟩牲畜"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "יומתו",
-      "english": "他们必被处死"
+      "gloss": "他们必被处死"
     },
     {
       "surface": "דמיהם",
-      "english": "他们的血"
+      "gloss": "他们的血"
     },
     {
       "surface": "בם",
-      "english": "在他们身上"
+      "gloss": "在他们身上"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:15.018370021Z",
-  "model": "glm-5.2"
+  ]
 }

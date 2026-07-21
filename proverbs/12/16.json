@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "proverbs 12:16",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 405,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54364,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54769
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:39.653968339Z",
   "translation": "愚妄人在当日就显露他的恼怒,但遮盖羞辱的,⟨是⟩精明人。",
   "tokens": [
     {
       "surface": "אויל",
-      "english": "愚妄人"
+      "gloss": "愚妄人"
     },
     {
       "surface": "ביום",
-      "english": "在当日"
+      "gloss": "在当日"
     },
     {
       "surface": "יודע",
-      "english": "就显露"
+      "gloss": "就显露"
     },
     {
       "surface": "כעסו",
-      "english": "他的恼怒"
+      "gloss": "他的恼怒"
     },
     {
       "surface": "וככסה",
-      "english": "但遮盖"
+      "gloss": "但遮盖"
     },
     {
       "surface": "קלון",
-      "english": "羞辱"
+      "gloss": "羞辱"
     },
     {
       "surface": "ערום",
-      "english": "精明人"
+      "gloss": "精明人"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:39.653968339Z",
-  "model": "glm-5.2"
+  ]
 }

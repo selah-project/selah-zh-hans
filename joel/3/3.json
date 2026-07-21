@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "joel 3:3",
   "book": "joel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 429,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18004,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18433
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:18:24.102017351Z",
   "translation": "⟨我⟩必将奇事赐在诸天中和在地上:血与火,以及烟柱。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "⟨我⟩必将……赐"
+      "gloss": "⟨我⟩必将……赐"
     },
     {
       "surface": "מופתים",
-      "english": "奇事"
+      "gloss": "奇事"
     },
     {
       "surface": "בשמים",
-      "english": "在诸天中"
+      "gloss": "在诸天中"
     },
     {
       "surface": "ובארץ",
-      "english": "以及在地上"
+      "gloss": "以及在地上"
     },
     {
       "surface": "דם",
-      "english": "血"
+      "gloss": "血"
     },
     {
       "surface": "ואש",
-      "english": "与火"
+      "gloss": "与火"
     },
     {
       "surface": "ותימרות",
-      "english": "以及……柱"
+      "gloss": "以及……柱"
     },
     {
       "surface": "עשן",
-      "english": "烟"
+      "gloss": "烟"
     }
-  ],
-  "timestamp": "2026-07-17T23:18:24.102017351Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 14:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54434,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54819
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:39:16.077271544Z",
   "translation": "在愚昧人的口中 ⟨是⟩ 骄傲的杖,而智慧人的嘴唇必保护他们。",
   "tokens": [
     {
       "surface": "בפי",
-      "english": "在……口中"
+      "gloss": "在……口中"
     },
     {
       "surface": "אויל",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "חטר",
-      "english": "杖"
+      "gloss": "杖"
     },
     {
       "surface": "גאוה",
-      "english": "骄傲的"
+      "gloss": "骄傲的"
     },
     {
       "surface": "ושפתי",
-      "english": "而……嘴唇"
+      "gloss": "而……嘴唇"
     },
     {
       "surface": "חכמים",
-      "english": "智慧人"
+      "gloss": "智慧人"
     },
     {
       "surface": "תשמורם",
-      "english": "必保护他们"
+      "gloss": "必保护他们"
     }
-  ],
-  "timestamp": "2026-07-18T00:39:16.077271544Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "numbers 15:40",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 426,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19884,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20310
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:11:57.783688780Z",
   "translation": "好使你们记得并遵行我一切的 *mitzvot*（训诲），并且你们⟨要⟩成为圣的，归于你们的以罗欣。",
   "tokens": [
     {
       "surface": "למען",
-      "english": "好使"
+      "gloss": "好使"
     },
     {
       "surface": "תזכרו",
-      "english": "你们记得"
+      "gloss": "你们记得"
     },
     {
       "surface": "ועשיתם",
-      "english": "并遵行"
+      "gloss": "并遵行"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我一切的训诲"
     },
     {
       "surface": "כל",
-      "english": "一切的"
+      "gloss": "一切的"
     },
     {
       "surface": "מצותי",
-      "english": "我的 *mitzvot*（训诲）"
+      "gloss": "我的 *mitzvot*（训诲）"
     },
     {
       "surface": "והייתם",
-      "english": "并且你们⟨要⟩成为"
+      "gloss": "并且你们⟨要⟩成为"
     },
     {
       "surface": "קדשים",
-      "english": "圣的"
+      "gloss": "圣的"
     },
     {
       "surface": "לאלהיכם",
-      "english": "归于你们的以罗欣"
+      "gloss": "归于你们的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:11:57.783688780Z",
-  "model": "glm-5.2"
+  ]
 }

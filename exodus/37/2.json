@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "exodus 37:2",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18625,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19069
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:37:17.752257771Z",
   "translation": "他用纯金包裹⟨它⟩，从里面和从外面；他⟨为它⟩造了一个金冠冕⟨环绕⟩。",
   "tokens": [
     {
       "surface": "ויצפהו",
-      "english": "他包裹⟨它⟩"
+      "gloss": "他包裹⟨它⟩"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "טהור",
-      "english": "纯"
+      "gloss": "纯"
     },
     {
       "surface": "מבית",
-      "english": "从里面"
+      "gloss": "从里面"
     },
     {
       "surface": "ומחוץ",
-      "english": "和从外面"
+      "gloss": "和从外面"
     },
     {
       "surface": "ויעש",
-      "english": "他造了"
+      "gloss": "他造了"
     },
     {
       "surface": "לו",
-      "english": "⟨为它⟩"
+      "gloss": "⟨为它⟩"
     },
     {
       "surface": "זר",
-      "english": "一个冠冕"
+      "gloss": "一个冠冕"
     },
     {
       "surface": "זהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "סביב",
-      "english": "⟨环绕⟩"
+      "gloss": "⟨环绕⟩"
     }
-  ],
-  "timestamp": "2026-07-17T18:37:17.752257771Z",
-  "model": "glm-5.2"
+  ]
 }

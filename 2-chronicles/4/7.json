@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "2-chronicles 4:7",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 460,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60145,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60605
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:10:31.644999923Z",
   "translation": "他⟨又⟩造了⟨את⟩金灯台十座，按它们的规例，⟨又⟩放进殿内，右边五座，左边五座。",
   "tokens": [
     {
       "surface": "ויעש",
-      "english": "他⟨又⟩造了"
+      "gloss": "他⟨又⟩造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "金灯台"
     },
     {
       "surface": "מנרות",
-      "english": "灯台"
+      "gloss": "灯台"
     },
     {
       "surface": "הזהב",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "עשר",
-      "english": "十座"
+      "gloss": "十座"
     },
     {
       "surface": "כמשפטם",
-      "english": "按它们的规例"
+      "gloss": "按它们的规例"
     },
     {
       "surface": "ויתן",
-      "english": "⟨又⟩放进"
+      "gloss": "⟨又⟩放进"
     },
     {
       "surface": "בהיכל",
-      "english": "殿内"
+      "gloss": "殿内"
     },
     {
       "surface": "חמש",
-      "english": "五座"
+      "gloss": "五座"
     },
     {
       "surface": "מימין",
-      "english": "在右边"
+      "gloss": "在右边"
     },
     {
       "surface": "וחמש",
-      "english": "和五座"
+      "gloss": "和五座"
     },
     {
       "surface": "משמאול",
-      "english": "在左边"
+      "gloss": "在左边"
     }
-  ],
-  "timestamp": "2026-07-18T03:10:31.644999923Z",
-  "model": "glm-5.2"
+  ]
 }

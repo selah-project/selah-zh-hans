@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "psalms 100:5",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 100,
-  "usage": {
-    "completion_tokens": 395,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64594,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64989
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:14:26.259602184Z",
   "translation": "因为雅威⟨是⟩善的,他的חֶסֶד存到永远,他的信实⟨存留⟩到世世代代。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "טוב",
-      "english": "善的"
+      "gloss": "善的"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לעולם",
-      "english": "到永远"
+      "gloss": "到永远"
     },
     {
       "surface": "חסדו",
-      "english": "他的חֶסֶד"
+      "gloss": "他的חֶסֶד"
     },
     {
       "surface": "ועד",
-      "english": "和直到"
+      "gloss": "和直到"
     },
     {
       "surface": "דר",
-      "english": "一代"
+      "gloss": "一代"
     },
     {
       "surface": "ודר",
-      "english": "又一代"
+      "gloss": "又一代"
     },
     {
       "surface": "אמונתו",
-      "english": "他的信实"
+      "gloss": "他的信实"
     }
-  ],
-  "timestamp": "2026-07-18T00:14:26.259602184Z",
-  "model": "glm-5.2"
+  ]
 }

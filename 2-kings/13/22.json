@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "2-kings 13:22",
   "book": "2-kings",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18677,
-    "prompt_tokens_details": {
-      "cached_tokens": 17280
-    },
-    "total_tokens": 19120
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:25:55.241222129Z",
   "translation": "哈薛、亚兰王、压迫了 ⟨את⟩ 以色列，尽约哈斯所有的日子。",
   "tokens": [
     {
       "surface": "וַֽ\/חֲזָאֵל",
-      "english": "哈薛"
+      "gloss": "哈薛"
     },
     {
       "surface": "מֶ֣לֶךְ",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "אֲרָ֔ם",
-      "english": "亚兰"
+      "gloss": "亚兰"
     },
     {
       "surface": "לָחַ֖ץ",
-      "english": "压迫了"
+      "gloss": "压迫了"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "יִשְׂרָאֵ֑ל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "כֹּ֖ל",
-      "english": "尽……所有的"
+      "gloss": "尽……所有的"
     },
     {
       "surface": "יְמֵ֥י",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "יְהוֹאָחָֽז",
-      "english": "约哈斯"
+      "gloss": "约哈斯"
     }
-  ],
-  "timestamp": "2026-07-17T21:25:55.241222129Z",
-  "model": "glm-5.2"
+  ]
 }

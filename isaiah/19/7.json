@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "isaiah 19:7",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21049,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21607
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:43:01.865196444Z",
   "translation": "尼罗河旁的裸露地、在尼罗河⟨的⟩口旁，以及尼罗河旁一切播种的田地，都必干透，被吹散，且⟨它们⟩不复存在。",
   "tokens": [
     {
       "surface": "ערות",
-      "english": "裸露的⟨地⟩"
+      "gloss": "裸露的⟨地⟩"
     },
     {
       "surface": "על",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "יאור",
-      "english": "尼罗河"
+      "gloss": "尼罗河"
     },
     {
       "surface": "על",
-      "english": "在……旁"
+      "gloss": "在……旁"
     },
     {
       "surface": "פי",
-      "english": "口"
+      "gloss": "口"
     },
     {
       "surface": "יאור",
-      "english": "尼罗河"
+      "gloss": "尼罗河"
     },
     {
       "surface": "וכל",
-      "english": "以及一切"
+      "gloss": "以及一切"
     },
     {
       "surface": "מזרע",
-      "english": "播种的田地"
+      "gloss": "播种的田地"
     },
     {
       "surface": "יאור",
-      "english": "尼罗河"
+      "gloss": "尼罗河"
     },
     {
       "surface": "ייבש",
-      "english": "必干透"
+      "gloss": "必干透"
     },
     {
       "surface": "נדף",
-      "english": "被吹散"
+      "gloss": "被吹散"
     },
     {
       "surface": "ואיננו",
-      "english": "且不复存在"
+      "gloss": "且不复存在"
     }
-  ],
-  "timestamp": "2026-07-17T21:43:01.865196444Z",
-  "model": "glm-5.2"
+  ]
 }

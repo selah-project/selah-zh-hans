@@ -1,41 +1,33 @@
 {
-  "tier": "bulk",
-  "verse": 14,
   "ref": "1-chronicles 12:14",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 232,
-    "prompt_tokens": 58596,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58828
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:26:20.854881845Z",
   "translation": "耶利米是第十个,玛克班那人,第十一个,",
   "tokens": [
     {
       "surface": "ירמיהו",
-      "english": "耶利米"
+      "gloss": "耶利米"
     },
     {
       "surface": "העשירי",
-      "english": "是第十个"
+      "gloss": "是第十个"
     },
     {
       "surface": "מכבני",
-      "english": "玛克班那人"
+      "gloss": "玛克班那人"
     },
     {
       "surface": "עשתי",
-      "english": "第十一个"
+      "gloss": "第十一个"
     },
     {
       "surface": "עשר",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-21T13:26:20.854881845Z",
-  "model": "glm-4.5"
+  ]
 }

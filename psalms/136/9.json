@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 136:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 136,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64615,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64965
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:28:15.740226040Z",
   "translation": "⟨את⟩ 月亮和星宿,为管理黑夜;因他的慈爱存到永远。",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "月亮"
     },
     {
       "surface": "הירח",
-      "english": "月亮"
+      "gloss": "月亮"
     },
     {
       "surface": "וכוכבים",
-      "english": "和星宿"
+      "gloss": "和星宿"
     },
     {
       "surface": "לממשלות",
-      "english": "为管理"
+      "gloss": "为管理"
     },
     {
       "surface": "בלילה",
-      "english": "黑夜"
+      "gloss": "黑夜"
     },
     {
       "surface": "כי",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "לעולם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "חסדו",
-      "english": "他的慈爱"
+      "gloss": "他的慈爱"
     }
-  ],
-  "timestamp": "2026-07-18T00:28:15.740226040Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,54 +1,43 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ezekiel 3:2",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 353,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18952,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19305
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:41:04.797556357Z",
   "translation": "我便张开 ⟨את⟩ 我的口，他就使我吃 ⟨את⟩ 这书卷。",
   "tokens": [
     {
       "surface": "וָאֶפְתַּח",
-      "english": "我便张开"
+      "gloss": "我便张开"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我的口"
     },
     {
       "surface": "פִּי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "וַיַּאֲכִלֵנִי",
-      "english": "他就使我吃"
+      "gloss": "他就使我吃"
     },
     {
       "surface": "אֵת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这书卷"
     },
     {
       "surface": "הַמְּגִלָּה",
-      "english": "书卷"
+      "gloss": "书卷"
     },
     {
       "surface": "הַזֹּאת",
-      "english": "这"
+      "gloss": "这"
     }
-  ],
-  "timestamp": "2026-07-17T22:41:04.797556357Z",
-  "model": "glm-5.2"
+  ]
 }

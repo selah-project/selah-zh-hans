@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "psalms 147:16",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 147,
-  "usage": {
-    "completion_tokens": 272,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64324,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64596
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:40.546769560Z",
   "translation": "赐下雪如羊毛，将כפור（冰霜）如灰烬撒落。",
   "tokens": [
     {
       "surface": "הנתן",
-      "english": "赐下"
+      "gloss": "赐下"
     },
     {
       "surface": "שלג",
-      "english": "雪"
+      "gloss": "雪"
     },
     {
       "surface": "כצמר",
-      "english": "如羊毛"
+      "gloss": "如羊毛"
     },
     {
       "surface": "כפור",
-      "english": "כפור（冰霜）"
+      "gloss": "כפור（冰霜）"
     },
     {
       "surface": "כאפר",
-      "english": "如灰烬"
+      "gloss": "如灰烬"
     },
     {
       "surface": "יפזר",
-      "english": "撒落"
+      "gloss": "撒落"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:40.546769560Z",
-  "model": "glm-5.2"
+  ]
 }

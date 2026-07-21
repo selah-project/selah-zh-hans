@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 53,
   "ref": "lamentations 3:53",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33407,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33847
-  },
+  "verse": 53,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:17:20.035233164Z",
   "translation": "他们在坑中剪除了我的生命，向⟨我⟩扔石头。",
   "tokens": [
     {
       "surface": "צָֽמְת֤וּ",
-      "english": "剪除了"
+      "gloss": "剪除了"
     },
     {
       "surface": "בַ\/בֹּר֙",
-      "english": "在坑中"
+      "gloss": "在坑中"
     },
     {
       "surface": "חַיָּ֔\/י",
-      "english": "我的生命"
+      "gloss": "我的生命"
     },
     {
       "surface": "וַ\/יַּדּוּ",
-      "english": "向⟨我⟩扔"
+      "gloss": "向⟨我⟩扔"
     },
     {
       "surface": "אֶ֖בֶן",
-      "english": "石头"
+      "gloss": "石头"
     },
     {
       "surface": "בִּֽ\/י",
-      "english": "⟨我⟩"
+      "gloss": "⟨我⟩"
     }
-  ],
-  "timestamp": "2026-07-18T01:17:20.035233164Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 68:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 68,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64368,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64893
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:11.330472529Z",
   "translation": "沙代 ⟨的⟩ 山中,诸王 ⟨在其中⟩ 交战,צַלְמוֹן (Zalmon) 的山岭将白如雪。",
   "tokens": [
     {
       "surface": "בפרש",
-      "english": "山中"
+      "gloss": "山中"
     },
     {
       "surface": "שדי",
-      "english": "沙代"
+      "gloss": "沙代"
     },
     {
       "surface": "מלכים",
-      "english": "诸王"
+      "gloss": "诸王"
     },
     {
       "surface": "בה",
-      "english": "⟨在其中⟩"
+      "gloss": "⟨在其中⟩"
     },
     {
       "surface": "תשלג",
-      "english": "将白如雪"
+      "gloss": "将白如雪"
     },
     {
       "surface": "בצלמון",
-      "english": "在"
+      "gloss": "在"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:11.330472529Z",
-  "model": "glm-5.2"
+  ]
 }

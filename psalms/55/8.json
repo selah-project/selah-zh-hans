@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 55:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64319,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64704
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:54.888340533Z",
   "translation": "看哪，我会远远逃离，游荡而去；我会在旷野中寄宿。细拉。",
   "tokens": [
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "ארחיק",
-      "english": "我会远远逃离"
+      "gloss": "我会远远逃离"
     },
     {
       "surface": "נדד",
-      "english": "游荡而去"
+      "gloss": "游荡而去"
     },
     {
       "surface": "אלין",
-      "english": "我会寄宿"
+      "gloss": "我会寄宿"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野中"
+      "gloss": "在旷野中"
     },
     {
       "surface": "סלה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:54.888340533Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,94 +1,83 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "exodus 34:11",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 34,
-  "usage": {
-    "completion_tokens": 922,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19607,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 20529
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:34:38.534239456Z",
   "translation": "你要为自己谨守 ⟨את⟩ 我今日所吩咐你的⟨那事⟩;看哪,我正将⟨את⟩那亚摩利人、那迦南人、那赫替人、那比利洗人、那希未人和那耶布斯人从你面前赶出。",
   "tokens": [
     {
       "surface": "שְׁמָ֨ר",
-      "english": "你要谨守"
+      "gloss": "你要谨守"
     },
     {
       "surface": "לְ\/ךָ֔",
-      "english": "为你自己"
+      "gloss": "为你自己"
     },
     {
       "surface": "אֵ֛ת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "我今日所吩咐你的那事"
     },
     {
       "surface": "אֲשֶׁ֥ר",
-      "english": "⟨那事⟩"
+      "gloss": "⟨那事⟩"
     },
     {
       "surface": "אָנֹכִ֖י",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "מְצַוְּ\/ךָ֣",
-      "english": "正吩咐你"
+      "gloss": "正吩咐你"
     },
     {
       "surface": "הַ\/יּ֑וֹם",
-      "english": "今日"
+      "gloss": "今日"
     },
     {
       "surface": "הִנְ\/נִ֧י",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "גֹרֵ֣שׁ",
-      "english": "正赶出"
+      "gloss": "正赶出"
     },
     {
       "surface": "מִ\/פָּנֶ֗י\/ךָ",
-      "english": "从你面前"
+      "gloss": "从你面前"
     },
     {
       "surface": "אֶת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那亚摩利人、那迦南人、那赫替人、那比利洗人、那希未人和那耶布斯人"
     },
     {
       "surface": "הָ\/אֱמֹרִי֙",
-      "english": "那亚摩利人"
+      "gloss": "那亚摩利人"
     },
     {
       "surface": "וְ\/הַֽ\/כְּנַעֲנִ֔י",
-      "english": "和那迦南人"
+      "gloss": "和那迦南人"
     },
     {
       "surface": "וְ\/הַ\/חִתִּי֙",
-      "english": "和那赫替人"
+      "gloss": "和那赫替人"
     },
     {
       "surface": "וְ\/הַ\/פְּרִזִּ֔י",
-      "english": "和那比利洗人"
+      "gloss": "和那比利洗人"
     },
     {
       "surface": "וְ\/הַ\/חִוִּ֖י",
-      "english": "和那希未人"
+      "gloss": "和那希未人"
     },
     {
       "surface": "וְ\/הַ\/יְבוּסִֽי",
-      "english": "和那耶布斯人"
+      "gloss": "和那耶布斯人"
     }
-  ],
-  "timestamp": "2026-07-17T18:34:38.534239456Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "jeremiah 48:4",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 48,
-  "usage": {
-    "completion_tokens": 382,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18750,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19132
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:35:17.298970243Z",
   "translation": "摩押 ⟨已被⟩ 打碎； ⟨要⟩ 使 ⟨她⟩ 的小孩子们的哀号 ⟨被人⟩ 听见。",
   "tokens": [
     {
       "surface": "נשברה",
-      "english": "⟨已被⟩ 打碎"
+      "gloss": "⟨已被⟩ 打碎"
     },
     {
       "surface": "מואב",
-      "english": "摩押"
+      "gloss": "摩押"
     },
     {
       "surface": "השמיעו",
-      "english": "⟨要⟩ 使……⟨被人⟩ 听见"
+      "gloss": "⟨要⟩ 使……⟨被人⟩ 听见"
     },
     {
       "surface": "זעקה",
-      "english": "哀号"
+      "gloss": "哀号"
     },
     {
       "surface": "צעוריה",
-      "english": "⟨她⟩ 的小孩子们"
+      "gloss": "⟨她⟩ 的小孩子们"
     }
-  ],
-  "timestamp": "2026-07-17T22:35:17.298970243Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 72:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 72,
-  "usage": {
-    "completion_tokens": 578,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64529,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65107
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:04:03.521638644Z",
   "translation": "关于所罗门的。以罗欣啊，将⟨你的⟩审判赐给王，将⟨你的⟩公义赐给王的儿子。",
   "tokens": [
     {
       "surface": "לִ\/שְׁלֹמֹ֨ה",
-      "english": "关于所罗门的"
+      "gloss": "关于所罗门的"
     },
     {
       "surface": "אֱֽלֹהִ֗ים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "מִ֭שְׁפָּטֶי\/ךָ",
-      "english": "将⟨你的⟩审判"
+      "gloss": "将⟨你的⟩审判"
     },
     {
       "surface": "לְ\/מֶ֣לֶךְ",
-      "english": "赐给王"
+      "gloss": "赐给王"
     },
     {
       "surface": "תֵּ֑ן",
-      "english": "（赐给）"
+      "gloss": "（赐给）"
     },
     {
       "surface": "וְ\/צִדְקָתְ\/ךָ֥",
-      "english": "将⟨你的⟩公义"
+      "gloss": "将⟨你的⟩公义"
     },
     {
       "surface": "לְ\/בֶן",
-      "english": "赐给……的儿子"
+      "gloss": "赐给……的儿子"
     },
     {
       "surface": "מֶֽלֶךְ",
-      "english": "王"
+      "gloss": "王"
     }
-  ],
-  "timestamp": "2026-07-18T00:04:03.521638644Z",
-  "model": "glm-5.2"
+  ]
 }

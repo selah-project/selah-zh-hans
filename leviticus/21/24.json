@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "leviticus 21:24",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 377,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19108,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19485
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:54:54.883347710Z",
   "translation": "摩西就向亚伦、向他的众子、并向以色列众子说话。",
   "tokens": [
     {
       "surface": "וידבר",
-      "english": "就说话"
+      "gloss": "就说话"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦"
+      "gloss": "亚伦"
     },
     {
       "surface": "ואל",
-      "english": "并向"
+      "gloss": "并向"
     },
     {
       "surface": "בניו",
-      "english": "他的众子"
+      "gloss": "他的众子"
     },
     {
       "surface": "ואל",
-      "english": "并向"
+      "gloss": "并向"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "בני",
-      "english": "众子"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T18:54:54.883347710Z",
-  "model": "glm-5.2"
+  ]
 }

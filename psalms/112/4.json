@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 112:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 310,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64422,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64732
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:11.639983226Z",
   "translation": "光在黑暗中为正直人升起：⟨他是⟩恩待人、充满怜悯、且为义人。",
   "tokens": [
     {
       "surface": "זרח",
-      "english": "升起"
+      "gloss": "升起"
     },
     {
       "surface": "בחשך",
-      "english": "在黑暗中"
+      "gloss": "在黑暗中"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "לישרים",
-      "english": "为正直人"
+      "gloss": "为正直人"
     },
     {
       "surface": "חנון",
-      "english": "恩待人"
+      "gloss": "恩待人"
     },
     {
       "surface": "ורחום",
-      "english": "充满怜悯"
+      "gloss": "充满怜悯"
     },
     {
       "surface": "וצדיק",
-      "english": "且为义人"
+      "gloss": "且为义人"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:11.639983226Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,45 +1,34 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "leviticus 9:16",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 242,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18807,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19049
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:45:39.227189335Z",
   "translation": "他献上⟨את⟩燔祭，并按典章献上它。",
   "tokens": [
     {
       "surface": "ויקרב",
-      "english": "他献上"
+      "gloss": "他献上"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "燔祭"
     },
     {
       "surface": "העלה",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "ויעשה",
-      "english": "并献上它"
+      "gloss": "并献上它"
     },
     {
       "surface": "כמשפט",
-      "english": "按典章"
+      "gloss": "按典章"
     }
-  ],
-  "timestamp": "2026-07-17T18:45:39.227189335Z",
-  "model": "glm-5.2"
+  ]
 }

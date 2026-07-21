@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "proverbs 16:25",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 411,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54505,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54916
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:42.046421497Z",
   "translation": "有一条*道路*，在一个人面前看⟨为⟩笔直，但它的结局⟨是⟩死亡的道路。",
   "tokens": [
     {
       "surface": "יש",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "דרך",
-      "english": "一条*道路*"
+      "gloss": "一条*道路*"
     },
     {
       "surface": "ישר",
-      "english": "笔直"
+      "gloss": "笔直"
     },
     {
       "surface": "לפני",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "איש",
-      "english": "一个人"
+      "gloss": "一个人"
     },
     {
       "surface": "ואחריתה",
-      "english": "但它的结局"
+      "gloss": "但它的结局"
     },
     {
       "surface": "דרכי",
-      "english": "……的道路"
+      "gloss": "……的道路"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:42.046421497Z",
-  "model": "glm-5.2"
+  ]
 }

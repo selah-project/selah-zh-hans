@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "ezekiel 41:20",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19020,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19460
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:06:40.183051608Z",
   "translation": "从地直到门口以上,⟨有⟩基路伯和棕树制成,⟨如此⟩在殿的墙上。",
   "tokens": [
     {
       "surface": "מהארץ",
-      "english": "从地"
+      "gloss": "从地"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "מעל",
-      "english": "以上"
+      "gloss": "以上"
     },
     {
       "surface": "הפתח",
-      "english": "门口"
+      "gloss": "门口"
     },
     {
       "surface": "הכרובים",
-      "english": "基路伯"
+      "gloss": "基路伯"
     },
     {
       "surface": "והתמרים",
-      "english": "和棕树"
+      "gloss": "和棕树"
     },
     {
       "surface": "עשוים",
-      "english": "制成"
+      "gloss": "制成"
     },
     {
       "surface": "וקיר",
-      "english": "⟨如此⟩在墙上"
+      "gloss": "⟨如此⟩在墙上"
     },
     {
       "surface": "ההיכל",
-      "english": "殿"
+      "gloss": "殿"
     }
-  ],
-  "timestamp": "2026-07-17T23:06:40.183051608Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 73,
   "ref": "psalms 119:73",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64424,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64830
-  },
+  "verse": 73,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:23:26.203845479Z",
   "translation": "你的手造了我,又预备了我;求你使我有分辨力,我就学习你的诫命。",
   "tokens": [
     {
       "surface": "יָדֶ֣י\/ךָ",
-      "english": "你的手"
+      "gloss": "你的手"
     },
     {
       "surface": "עָ֭שׂוּ\/נִי",
-      "english": "造了我"
+      "gloss": "造了我"
     },
     {
       "surface": "וַֽ\/יְכוֹנְנ֑וּ\/נִי",
-      "english": "又预备了我"
+      "gloss": "又预备了我"
     },
     {
       "surface": "הֲ֝בִינֵ֗\/נִי",
-      "english": "求你使我有分辨力"
+      "gloss": "求你使我有分辨力"
     },
     {
       "surface": "וְ\/אֶלְמְדָ֥ה",
-      "english": "我就学习"
+      "gloss": "我就学习"
     },
     {
       "surface": "מִצְוֺתֶֽי\/ךָ",
-      "english": "你的诫命"
+      "gloss": "你的诫命"
     }
-  ],
-  "timestamp": "2026-07-18T00:23:26.203845479Z",
-  "model": "glm-5.2"
+  ]
 }

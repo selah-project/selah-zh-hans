@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 42:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 42,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23518,
-    "prompt_tokens_details": {
-      "cached_tokens": 0
-    },
-    "total_tokens": 24122
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T15:02:47.384593413Z",
   "translation": "他说：看哪，我听见在埃及有粮。你们下到那里去，从那里为我们买⟨粮⟩，我们就可以存活，⟨而⟩不死。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "שמעתי",
-      "english": "我听见"
+      "gloss": "我听见"
     },
     {
       "surface": "כי",
-      "english": "⟨⟩"
+      "gloss": "⟨⟩"
     },
     {
       "surface": "יש",
-      "english": "有"
+      "gloss": "有"
     },
     {
       "surface": "שבר",
-      "english": "粮"
+      "gloss": "粮"
     },
     {
       "surface": "במצרים",
-      "english": "在埃及"
+      "gloss": "在埃及"
     },
     {
       "surface": "רדו",
-      "english": "你们下"
+      "gloss": "你们下"
     },
     {
       "surface": "שמה",
-      "english": "到那里去"
+      "gloss": "到那里去"
     },
     {
       "surface": "ושברו",
-      "english": "买"
+      "gloss": "买"
     },
     {
       "surface": "לנו",
-      "english": "为我们"
+      "gloss": "为我们"
     },
     {
       "surface": "משם",
-      "english": "从那里"
+      "gloss": "从那里"
     },
     {
       "surface": "ונחיה",
-      "english": "我们就可以存活"
+      "gloss": "我们就可以存活"
     },
     {
       "surface": "ולא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נמות",
-      "english": "死"
+      "gloss": "死"
     }
-  ],
-  "timestamp": "2026-07-20T15:02:47.384593413Z",
-  "model": "glm-5.2"
+  ]
 }

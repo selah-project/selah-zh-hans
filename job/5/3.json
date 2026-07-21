@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "job 5:3",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 432,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21568,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22000
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:51:38.571379210Z",
   "translation": "我见过愚妄人 ⟨被⟩ 扎根，便突然 ⟨咒诅⟩ 他的居所。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ראיתי",
-      "english": "见过"
+      "gloss": "见过"
     },
     {
       "surface": "אויל",
-      "english": "愚妄人"
+      "gloss": "愚妄人"
     },
     {
       "surface": "משריש",
-      "english": "扎根"
+      "gloss": "扎根"
     },
     {
       "surface": "ואקוב",
-      "english": "便 ⟨咒诅⟩"
+      "gloss": "便 ⟨咒诅⟩"
     },
     {
       "surface": "נוהו",
-      "english": "他的居所"
+      "gloss": "他的居所"
     },
     {
       "surface": "פתאם",
-      "english": "突然"
+      "gloss": "突然"
     }
-  ],
-  "timestamp": "2026-07-18T00:51:38.571379210Z",
-  "model": "glm-5.2"
+  ]
 }

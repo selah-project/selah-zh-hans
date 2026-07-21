@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "job 38:24",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 480,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21688,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22168
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:08:01.083893384Z",
   "translation": "哪一条是⟨那⟩道路，光⟨被⟩分配，东风⟨被⟩驱散在⟨那⟩地上？",
   "tokens": [
     {
       "surface": "אי",
-      "english": "哪"
+      "gloss": "哪"
     },
     {
       "surface": "זה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "הדרך",
-      "english": "⟨那⟩道路"
+      "gloss": "⟨那⟩道路"
     },
     {
       "surface": "יחלק",
-      "english": "⟨被⟩分配"
+      "gloss": "⟨被⟩分配"
     },
     {
       "surface": "אור",
-      "english": "光"
+      "gloss": "光"
     },
     {
       "surface": "יפץ",
-      "english": "⟨被⟩驱散"
+      "gloss": "⟨被⟩驱散"
     },
     {
       "surface": "קדים",
-      "english": "东风"
+      "gloss": "东风"
     },
     {
       "surface": "עלי",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ארץ",
-      "english": "⟨那⟩地上"
+      "gloss": "⟨那⟩地上"
     }
-  ],
-  "timestamp": "2026-07-18T01:08:01.083893384Z",
-  "model": "glm-5.2"
+  ]
 }

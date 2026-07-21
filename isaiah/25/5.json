@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "isaiah 25:5",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 829,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21021,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21850
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:45:41.914566946Z",
   "translation": "如在干旱之地的炎热，你制伏了外邦人的喧嚷；如云彩之荫下的炎热，暴虐者的歌声⟨被⟩压低。",
   "tokens": [
     {
       "surface": "כְּ\/חֹ֣רֶב",
-      "english": "如……的炎热"
+      "gloss": "如……的炎热"
     },
     {
       "surface": "בְּ\/צָי֔וֹן",
-      "english": "在干旱之地"
+      "gloss": "在干旱之地"
     },
     {
       "surface": "שְׁא֥וֹן",
-      "english": "……的喧嚷"
+      "gloss": "……的喧嚷"
     },
     {
       "surface": "זָרִ֖ים",
-      "english": "外邦人的"
+      "gloss": "外邦人的"
     },
     {
       "surface": "תַּכְנִ֑יעַ",
-      "english": "你制伏了"
+      "gloss": "你制伏了"
     },
     {
       "surface": "חֹ֚רֶב",
-      "english": "炎热"
+      "gloss": "炎热"
     },
     {
       "surface": "בְּ\/צֵ֣ל",
-      "english": "在……之荫下"
+      "gloss": "在……之荫下"
     },
     {
       "surface": "עָ֔ב",
-      "english": "云彩"
+      "gloss": "云彩"
     },
     {
       "surface": "זְמִ֥יר",
-      "english": "……的歌声"
+      "gloss": "……的歌声"
     },
     {
       "surface": "עָֽרִיצִ֖ים",
-      "english": "暴虐者的"
+      "gloss": "暴虐者的"
     },
     {
       "surface": "יֲ֢נֶֽה",
-      "english": "⟨被⟩压低"
+      "gloss": "⟨被⟩压低"
     }
-  ],
-  "timestamp": "2026-07-17T21:45:41.914566946Z",
-  "model": "glm-5.2"
+  ]
 }

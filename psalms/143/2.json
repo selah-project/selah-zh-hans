@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 143:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 143,
-  "usage": {
-    "completion_tokens": 461,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64886,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65347
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:30:16.588894503Z",
   "translation": "也不要与⟨את⟩你的仆人一同进入审判,因为在你面前,凡活着的人都不能称义。",
   "tokens": [
     {
       "surface": "ואל",
-      "english": "也不要"
+      "gloss": "也不要"
     },
     {
       "surface": "תבוא",
-      "english": "进入"
+      "gloss": "进入"
     },
     {
       "surface": "במשפט",
-      "english": "与……一同进入审判"
+      "gloss": "与……一同进入审判"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "你的仆人"
     },
     {
       "surface": "עבדך",
-      "english": "你的仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "יצדק",
-      "english": "能称义"
+      "gloss": "能称义"
     },
     {
       "surface": "לפניך",
-      "english": "在你面前"
+      "gloss": "在你面前"
     },
     {
       "surface": "כל",
-      "english": "凡"
+      "gloss": "凡"
     },
     {
       "surface": "חי",
-      "english": "活着的人"
+      "gloss": "活着的人"
     }
-  ],
-  "timestamp": "2026-07-18T00:30:16.588894503Z",
-  "model": "glm-5.2"
+  ]
 }

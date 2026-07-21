@@ -1,93 +1,82 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "2-chronicles 3:17",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 545,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 60583,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 61128
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:15:21.838549499Z",
   "translation": "他将⟨את⟩柱子立在殿前,一根在右边,一根在左边;他将右边那根的名字称为雅斤,将左边那根的名字称为波阿斯。",
   "tokens": [
     {
       "surface": "ויקם",
-      "english": "他将……立起"
+      "gloss": "他将……立起"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "柱子"
     },
     {
       "surface": "העמודים",
-      "english": "柱子"
+      "gloss": "柱子"
     },
     {
       "surface": "על",
-      "english": "在……之前"
+      "gloss": "在……之前"
     },
     {
       "surface": "פני",
-      "english": "……的面"
+      "gloss": "……的面"
     },
     {
       "surface": "ההיכל",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "אחד",
-      "english": "一根"
+      "gloss": "一根"
     },
     {
       "surface": "מימין",
-      "english": "在右边"
+      "gloss": "在右边"
     },
     {
       "surface": "ואחד",
-      "english": "和一根"
+      "gloss": "和一根"
     },
     {
       "surface": "מהשמאול",
-      "english": "在左边"
+      "gloss": "在左边"
     },
     {
       "surface": "ויקרא",
-      "english": "他将……称为"
+      "gloss": "他将……称为"
     },
     {
       "surface": "שם",
-      "english": "名字"
+      "gloss": "名字"
     },
     {
       "surface": "הימיני",
-      "english": "右边那根的"
+      "gloss": "右边那根的"
     },
     {
       "surface": "יכין",
-      "english": "雅斤"
+      "gloss": "雅斤"
     },
     {
       "surface": "ושם",
-      "english": "和……的名字"
+      "gloss": "和……的名字"
     },
     {
       "surface": "השמאלי",
-      "english": "左边那根的"
+      "gloss": "左边那根的"
     },
     {
       "surface": "בעז",
-      "english": "波阿斯"
+      "gloss": "波阿斯"
     }
-  ],
-  "timestamp": "2026-07-18T02:15:21.838549499Z",
-  "model": "glm-5.2"
+  ]
 }

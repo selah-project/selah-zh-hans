@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 5,
   "ref": "genesis 13:5",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 13,
-  "usage": {
-    "completion_tokens": 399,
-    "prompt_tokens": 23112,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23511
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:13:28.137578390Z",
   "translation": "与亚伯兰同行的罗得 ⟨也有⟩ 羊群、牛群和帐棚,",
   "tokens": [
     {
       "surface": "וגם",
-      "english": "与...也"
+      "gloss": "与...也"
     },
     {
       "surface": "ללוט",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "ההלך",
-      "english": "同行的"
+      "gloss": "同行的"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚伯兰"
     },
     {
       "surface": "אברם",
-      "english": "亚伯兰"
+      "gloss": "亚伯兰"
     },
     {
       "surface": "היה",
-      "english": "⟨也有⟩"
+      "gloss": "⟨也有⟩"
     },
     {
       "surface": "צאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ובקר",
-      "english": "、牛群"
+      "gloss": "、牛群"
     },
     {
       "surface": "ואהלים",
-      "english": "和帐棚"
+      "gloss": "和帐棚"
     }
-  ],
-  "timestamp": "2026-07-21T13:13:28.137578390Z",
-  "model": "glm-4.5"
+  ]
 }

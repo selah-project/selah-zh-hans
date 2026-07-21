@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "psalms 106:25",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 255,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64342,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64597
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:15.841656235Z",
   "translation": "他们在他们的帐篷里抱怨,不听雅威的声音。",
   "tokens": [
     {
       "surface": "וירגנו",
-      "english": "抱怨"
+      "gloss": "抱怨"
     },
     {
       "surface": "באהליהם",
-      "english": "在他们的帐篷里"
+      "gloss": "在他们的帐篷里"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "שמעו",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "בקול",
-      "english": "⟨对⟩……的声音"
+      "gloss": "⟨对⟩……的声音"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:15.841656235Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "amos 3:3",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17789,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18127
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:19:58.679542085Z",
   "translation": "二人若未约定,岂能同行呢?",
   "tokens": [
     {
       "surface": "הילכו",
-      "english": "岂能同行"
+      "gloss": "岂能同行"
     },
     {
       "surface": "שנים",
-      "english": "二人"
+      "gloss": "二人"
     },
     {
       "surface": "יחדו",
-      "english": "一起"
+      "gloss": "一起"
     },
     {
       "surface": "בלתי",
-      "english": "若非"
+      "gloss": "若非"
     },
     {
       "surface": "אם",
-      "english": "若未"
+      "gloss": "若未"
     },
     {
       "surface": "נועדו",
-      "english": "约定"
+      "gloss": "约定"
     }
-  ],
-  "timestamp": "2026-07-17T23:19:58.679542085Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "psalms 104:28",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64537,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64898
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:46.275828012Z",
   "translation": "你赐给⟨他们⟩，他们就捡拾；你张开⟨你的⟩手，他们就饱享美物。",
   "tokens": [
     {
       "surface": "תתן",
-      "english": "你赐给"
+      "gloss": "你赐给"
     },
     {
       "surface": "להם",
-      "english": "⟨他们⟩"
+      "gloss": "⟨他们⟩"
     },
     {
       "surface": "ילקטון",
-      "english": "他们就捡拾"
+      "gloss": "他们就捡拾"
     },
     {
       "surface": "תפתח",
-      "english": "你张开"
+      "gloss": "你张开"
     },
     {
       "surface": "ידך",
-      "english": "⟨你的⟩手"
+      "gloss": "⟨你的⟩手"
     },
     {
       "surface": "ישבעון",
-      "english": "他们就饱享"
+      "gloss": "他们就饱享"
     },
     {
       "surface": "טוב",
-      "english": "美物"
+      "gloss": "美物"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:46.275828012Z",
-  "model": "glm-5.2"
+  ]
 }

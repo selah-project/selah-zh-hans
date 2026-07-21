@@ -1,26 +1,17 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "deuteronomy 14:17",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 497,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19040,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19537
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:36:49.445866557Z",
   "translation": "以及תן-pelican, ואת-the-cormorant, ואת-the-gier-eagle",
   "tokens": [
     {
       "surface": "וְ\/הַ\/קָּאָ֥ת",
-      "english": "以及תן-pelican",
+      "gloss": "以及תן-pelican",
       "notes": [
         {
           "kind": "hapax",
@@ -31,11 +22,11 @@
     },
     {
       "surface": "וְ\/אֶֽת",
-      "english": "ו"
+      "gloss": "ו"
     },
     {
       "surface": "הָ\/רָחָ֖מָ\/ה",
-      "english": "the-cormorant",
+      "gloss": "the-cormorant",
       "notes": [
         {
           "kind": "crux",
@@ -46,11 +37,11 @@
     },
     {
       "surface": "וְ\/אֶֽת",
-      "english": "ו"
+      "gloss": "ו"
     },
     {
       "surface": "הַ\/שָּׁלָֽךְ",
-      "english": "the-gier-eagle",
+      "gloss": "the-gier-eagle",
       "notes": [
         {
           "kind": "crux",
@@ -59,7 +50,5 @@
         }
       ]
     }
-  ],
-  "timestamp": "2026-07-17T19:36:49.445866557Z",
-  "model": "glm-5.2"
+  ]
 }

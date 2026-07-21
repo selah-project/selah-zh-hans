@@ -1,58 +1,47 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-chronicles 5:30",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 5,
-  "usage": {
-    "completion_tokens": 329,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58618,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58947
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:54:45.135069907Z",
   "translation": "以利亚撒生了⟨את⟩非尼哈；非尼哈生了⟨את⟩亚比书亚。",
   "tokens": [
     {
       "surface": "אלעזר",
-      "english": "以利亚撒"
+      "gloss": "以利亚撒"
     },
     {
       "surface": "הוליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "非尼哈"
     },
     {
       "surface": "פינחס",
-      "english": "非尼哈"
+      "gloss": "非尼哈"
     },
     {
       "surface": "פינחס",
-      "english": "非尼哈"
+      "gloss": "非尼哈"
     },
     {
       "surface": "הליד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "亚比书亚"
     },
     {
       "surface": "אבישוע",
-      "english": "亚比书亚"
+      "gloss": "亚比书亚"
     }
-  ],
-  "timestamp": "2026-07-18T01:54:45.135069907Z",
-  "model": "glm-5.2"
+  ]
 }

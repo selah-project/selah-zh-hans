@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "hosea 2:24",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 593,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21539,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 22132
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:12:32.560126646Z",
   "translation": "那地必回应⟨את⟩五谷和⟨את⟩新酒和⟨את⟩油，它们必回应⟨את⟩耶斯列。",
   "tokens": [
     {
       "surface": "והארץ",
-      "english": "那地"
+      "gloss": "那地"
     },
     {
       "surface": "תענה",
-      "english": "必回应"
+      "gloss": "必回应"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "五谷"
     },
     {
       "surface": "הדגן",
-      "english": "五谷"
+      "gloss": "五谷"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "新酒"
     },
     {
       "surface": "התירוש",
-      "english": "新酒"
+      "gloss": "新酒"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "油"
     },
     {
       "surface": "היצהר",
-      "english": "油"
+      "gloss": "油"
     },
     {
       "surface": "והם",
-      "english": "它们"
+      "gloss": "它们"
     },
     {
       "surface": "יענו",
-      "english": "必回应"
+      "gloss": "必回应"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶斯列"
     },
     {
       "surface": "יזרעאל",
-      "english": "耶斯列"
+      "gloss": "耶斯列"
     }
-  ],
-  "timestamp": "2026-07-17T23:12:32.560126646Z",
-  "model": "glm-5.2"
+  ]
 }

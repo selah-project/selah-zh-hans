@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "isaiah 59:10",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 662,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21113,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21775
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:02:43.003308780Z",
   "translation": "我们如盲人摸墙,如无眼之人摸索;⟨我们⟩在正午绊跌,如在黄昏;⟨我们⟩在肥壮者之中,如死者。",
   "tokens": [
     {
       "surface": "נְגַֽשְׁשָׁ֤ה",
-      "english": "我们摸索"
+      "gloss": "我们摸索"
     },
     {
       "surface": "כַֽ\/עִוְרִים֙",
-      "english": "如盲人"
+      "gloss": "如盲人"
     },
     {
       "surface": "קִ֔יר",
-      "english": "墙"
+      "gloss": "墙"
     },
     {
       "surface": "וּ\/כְ\/אֵ֥ין",
-      "english": "如无"
+      "gloss": "如无"
     },
     {
       "surface": "עֵינַ֖יִם",
-      "english": "眼"
+      "gloss": "眼"
     },
     {
       "surface": "נְגַשֵּׁ֑שָׁה",
-      "english": "我们摸索"
+      "gloss": "我们摸索"
     },
     {
       "surface": "כָּשַׁ֤לְנוּ",
-      "english": "我们绊跌"
+      "gloss": "我们绊跌"
     },
     {
       "surface": "בַֽ\/צָּהֳרַ֨יִם֙",
-      "english": "在正午"
+      "gloss": "在正午"
     },
     {
       "surface": "כַּ\/נֶּ֔שֶׁף",
-      "english": "如黄昏"
+      "gloss": "如黄昏"
     },
     {
       "surface": "בָּ\/אַשְׁמַנִּ֖ים",
-      "english": "在肥壮者之中"
+      "gloss": "在肥壮者之中"
     },
     {
       "surface": "כַּ\/מֵּתִֽים",
-      "english": "如死者"
+      "gloss": "如死者"
     }
-  ],
-  "timestamp": "2026-07-17T22:02:43.003308780Z",
-  "model": "glm-5.2"
+  ]
 }

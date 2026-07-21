@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 76:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 76,
-  "usage": {
-    "completion_tokens": 238,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64251,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64489
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:38.412013689Z",
   "translation": "致⟨指挥者⟩,用丝弦乐器;一首诗,属亚萨;一首歌。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "致⟨指挥者⟩"
+      "gloss": "致⟨指挥者⟩"
     },
     {
       "surface": "בנגינת",
-      "english": "用丝弦乐器"
+      "gloss": "用丝弦乐器"
     },
     {
       "surface": "מזמור",
-      "english": "一首诗"
+      "gloss": "一首诗"
     },
     {
       "surface": "לאסף",
-      "english": "属亚萨"
+      "gloss": "属亚萨"
     },
     {
       "surface": "שיר",
-      "english": "一首歌"
+      "gloss": "一首歌"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:38.412013689Z",
-  "model": "glm-5.2"
+  ]
 }

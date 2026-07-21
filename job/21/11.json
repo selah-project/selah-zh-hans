@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 21:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21464,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21849
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:59:34.302174790Z",
   "translation": "他们差遣⟨他们的⟩羊群出去，他们的幼儿跳跃，⟨他们的⟩孩童跳舞。",
   "tokens": [
     {
       "surface": "יְשַׁלְּח֣וּ",
-      "english": "他们差遣……出去"
+      "gloss": "他们差遣……出去"
     },
     {
       "surface": "כַ֭\/צֹּאן",
-      "english": "如羊群"
+      "gloss": "如羊群"
     },
     {
       "surface": "עֲוִילֵי\/הֶ֑ם",
-      "english": "他们的幼儿"
+      "gloss": "他们的幼儿"
     },
     {
       "surface": "וְ֝\/יַלְדֵי\/הֶ֗ם",
-      "english": "他们的孩童"
+      "gloss": "他们的孩童"
     },
     {
       "surface": "יְרַקֵּדֽוּ\/ן",
-      "english": "跳舞"
+      "gloss": "跳舞"
     }
-  ],
-  "timestamp": "2026-07-18T00:59:34.302174790Z",
-  "model": "glm-5.2"
+  ]
 }

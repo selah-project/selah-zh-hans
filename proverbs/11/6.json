@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "proverbs 11:6",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 315,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54434,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54749
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:45.090076377Z",
   "translation": "正直人的公义必搭救⟨他们⟩；但背信者⟨必⟩被自己的贪欲所困住。",
   "tokens": [
     {
       "surface": "צדקת",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "ישרים",
-      "english": "正直人的"
+      "gloss": "正直人的"
     },
     {
       "surface": "תצילם",
-      "english": "必搭救⟨他们⟩"
+      "gloss": "必搭救⟨他们⟩"
     },
     {
       "surface": "ובהות",
-      "english": "但……的贪欲"
+      "gloss": "但……的贪欲"
     },
     {
       "surface": "בגדים",
-      "english": "背信者"
+      "gloss": "背信者"
     },
     {
       "surface": "ילכדו",
-      "english": "⟨必⟩被所困住"
+      "gloss": "⟨必⟩被所困住"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:45.090076377Z",
-  "model": "glm-5.2"
+  ]
 }

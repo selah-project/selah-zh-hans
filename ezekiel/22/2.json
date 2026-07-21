@@ -1,74 +1,63 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "ezekiel 22:2",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 601,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19458,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20059
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:52:46.921640286Z",
   "translation": "你,人子啊,要审判吗?要审判 ⟨את⟩ 这流⟨的⟩血之城吗?你要使她知道 ⟨את⟩ 她一切可憎之事。",
   "tokens": [
     {
       "surface": "ואתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "בן",
-      "english": "……之子"
+      "gloss": "……之子"
     },
     {
       "surface": "אדם",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "התשפט",
-      "english": "要审判吗?"
+      "gloss": "要审判吗?"
     },
     {
       "surface": "התשפט",
-      "english": "要审判"
+      "gloss": "要审判"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "流⟨的⟩血之城"
     },
     {
       "surface": "עיר",
-      "english": "城"
+      "gloss": "城"
     },
     {
       "surface": "הדמים",
-      "english": "流⟨的⟩血的"
+      "gloss": "流⟨的⟩血的"
     },
     {
       "surface": "והודעתה",
-      "english": "你要使她知道"
+      "gloss": "你要使她知道"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "她一切可憎之事"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תועבותיה",
-      "english": "她的可憎之事"
+      "gloss": "她的可憎之事"
     }
-  ],
-  "timestamp": "2026-07-17T22:52:46.921640286Z",
-  "model": "glm-5.2"
+  ]
 }

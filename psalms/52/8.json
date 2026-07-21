@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 52:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 52,
-  "usage": {
-    "completion_tokens": 417,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64308,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64725
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:57:11.665872054Z",
   "translation": "义人⟨要⟩看见并敬畏,⟨也⟩要向他嘲笑:",
   "tokens": [
     {
       "surface": "וְ\/יִרְא֖וּ",
-      "english": "并⟨要⟩看见"
+      "gloss": "并⟨要⟩看见"
     },
     {
       "surface": "צַדִּיקִ֥ים",
-      "english": "义人"
+      "gloss": "义人"
     },
     {
       "surface": "וְ\/יִירָ֗אוּ",
-      "english": "并敬畏"
+      "gloss": "并敬畏"
     },
     {
       "surface": "וְ\/עָלָ֥י\/ו",
-      "english": "⟨也⟩向他"
+      "gloss": "⟨也⟩向他"
     },
     {
       "surface": "יִשְׂחָֽקוּ",
-      "english": "嘲笑"
+      "gloss": "嘲笑"
     }
-  ],
-  "timestamp": "2026-07-17T23:57:11.665872054Z",
-  "model": "glm-5.2"
+  ]
 }

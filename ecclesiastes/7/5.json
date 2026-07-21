@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "ecclesiastes 7:5",
   "book": "ecclesiastes",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 332,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18971,
-    "prompt_tokens_details": {
-      "cached_tokens": 17856
-    },
-    "total_tokens": 19303
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:21:15.568285536Z",
   "translation": "听取智慧人的责备，胜过 ⟨一人⟩ 听愚昧人的 ⟨歌⟩。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好 \/ 胜过"
+      "gloss": "更好 \/ 胜过"
     },
     {
       "surface": "לשמע",
-      "english": "去听"
+      "gloss": "去听"
     },
     {
       "surface": "גערת",
-      "english": "责备"
+      "gloss": "责备"
     },
     {
       "surface": "חכם",
-      "english": "智慧人"
+      "gloss": "智慧人"
     },
     {
       "surface": "מאיש",
-      "english": "⟨比一人⟩"
+      "gloss": "⟨比一人⟩"
     },
     {
       "surface": "שמע",
-      "english": "听"
+      "gloss": "听"
     },
     {
       "surface": "שיר",
-      "english": "歌"
+      "gloss": "歌"
     },
     {
       "surface": "כסילים",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     }
-  ],
-  "timestamp": "2026-07-18T01:21:15.568285536Z",
-  "model": "glm-5.2"
+  ]
 }

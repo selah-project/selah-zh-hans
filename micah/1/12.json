@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "micah 1:12",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 600,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17735,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 18335
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:24:51.167058417Z",
   "translation": "因为玛罗特的居民痛苦期待美好，因为灾祸从雅威那里降下，到了耶路撒冷的城门。",
   "tokens": [
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "חָ֥לָֽה",
-      "english": "⟨她⟩痛苦"
+      "gloss": "⟨她⟩痛苦"
     },
     {
       "surface": "לְ\/ט֖וֹב",
-      "english": "⟨为了⟩美好"
+      "gloss": "⟨为了⟩美好"
     },
     {
       "surface": "יוֹשֶׁ֣בֶת",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "מָר֑וֹת",
-      "english": "玛罗特"
+      "gloss": "玛罗特"
     },
     {
       "surface": "כִּֽי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "יָ֤רַד",
-      "english": "降下"
+      "gloss": "降下"
     },
     {
       "surface": "רָע֙",
-      "english": "灾祸"
+      "gloss": "灾祸"
     },
     {
       "surface": "מֵ\/אֵ֣ת",
-      "english": "从⟨את⟩",
+      "gloss": "从⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יְהוָ֔ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לְ\/שַׁ֖עַר",
-      "english": "到⟨…的⟩城门"
+      "gloss": "到⟨…的⟩城门"
     },
     {
       "surface": "יְרוּשָׁלִָֽם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T23:24:51.167058417Z",
-  "model": "glm-5.2"
+  ]
 }

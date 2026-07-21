@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "genesis 29:22",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22989,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23333
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:51:49.858629984Z",
   "translation": "拉班召集了⟨那⟩地方的所有人和⟨את⟩所有男丁，并设了宴席。",
   "tokens": [
     {
       "surface": "ויאסף",
-      "english": "召集了"
+      "gloss": "召集了"
     },
     {
       "surface": "לבן",
-      "english": "拉班"
+      "gloss": "拉班"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "所有男丁"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "אנשי",
-      "english": "男丁"
+      "gloss": "男丁"
     },
     {
       "surface": "המקום",
-      "english": "⟨那⟩地方"
+      "gloss": "⟨那⟩地方"
     },
     {
       "surface": "ויעש",
-      "english": "并设了"
+      "gloss": "并设了"
     },
     {
       "surface": "משתה",
-      "english": "宴席"
+      "gloss": "宴席"
     }
-  ],
-  "timestamp": "2026-07-17T17:51:49.858629984Z",
-  "model": "glm-5.2"
+  ]
 }

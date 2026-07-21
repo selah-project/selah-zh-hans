@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "hosea 6:7",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 430,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20918,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21348
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:13:59.637016418Z",
   "translation": "而他们如亚当⟨一样⟩违背了布瑞特;在那里他们对我行了背信。",
   "tokens": [
     {
       "surface": "והמה",
-      "english": "而他们"
+      "gloss": "而他们"
     },
     {
       "surface": "כאדם",
-      "english": "如亚当⟨一样⟩"
+      "gloss": "如亚当⟨一样⟩"
     },
     {
       "surface": "עברו",
-      "english": "违背了"
+      "gloss": "违背了"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "שם",
-      "english": "在那里"
+      "gloss": "在那里"
     },
     {
       "surface": "בגדו",
-      "english": "他们行了背信"
+      "gloss": "他们行了背信"
     },
     {
       "surface": "בי",
-      "english": "对我"
+      "gloss": "对我"
     }
-  ],
-  "timestamp": "2026-07-17T23:13:59.637016418Z",
-  "model": "glm-5.2"
+  ]
 }

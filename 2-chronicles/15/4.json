@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "2-chronicles 15:4",
   "book": "2-chronicles",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 409,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 59816,
-    "prompt_tokens_details": {
-      "cached_tokens": 58496
-    },
-    "total_tokens": 60225
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:22:13.570267726Z",
   "translation": "而在急难中⟨他⟩转向雅威——以色列的以罗欣；他们寻求他，他就被他们寻见。",
   "tokens": [
     {
       "surface": "וישב",
-      "english": "而⟨他⟩转向"
+      "gloss": "而⟨他⟩转向"
     },
     {
       "surface": "בצר",
-      "english": "在急难中"
+      "gloss": "在急难中"
     },
     {
       "surface": "לו",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "על",
-      "english": "转向"
+      "gloss": "转向"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "……的以罗欣"
+      "gloss": "……的以罗欣"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "ויבקשהו",
-      "english": "他们寻求他"
+      "gloss": "他们寻求他"
     },
     {
       "surface": "וימצא",
-      "english": "他就被寻见"
+      "gloss": "他就被寻见"
     },
     {
       "surface": "להם",
-      "english": "被他们"
+      "gloss": "被他们"
     }
-  ],
-  "timestamp": "2026-07-18T02:22:13.570267726Z",
-  "model": "glm-5.2"
+  ]
 }

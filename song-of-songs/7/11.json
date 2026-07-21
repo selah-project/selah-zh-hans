@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "song-of-songs 7:11",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 281,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21657,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 21938
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:12:38.684543754Z",
   "translation": "我属于我的良人,他⟨的⟩渴望转向我。",
   "tokens": [
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "לדודי",
-      "english": "属于我的良人"
+      "gloss": "属于我的良人"
     },
     {
       "surface": "ועלי",
-      "english": "转向我"
+      "gloss": "转向我"
     },
     {
       "surface": "תשוקתו",
-      "english": "他⟨的⟩渴望"
+      "gloss": "他⟨的⟩渴望"
     }
-  ],
-  "timestamp": "2026-07-18T01:12:38.684543754Z",
-  "model": "glm-5.2"
+  ]
 }

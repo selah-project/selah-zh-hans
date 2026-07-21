@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 28,
   "ref": "genesis 11:28",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23150,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23548
-  },
+  "verse": 28,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:39:38.977381678Z",
   "translation": "哈兰在他父亲他拉面前死去，在他出生之地，在迦勒底的吾珥。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨于是⟩死了"
+      "gloss": "⟨于是⟩死了"
     },
     {
       "surface": "הרן",
-      "english": "哈兰"
+      "gloss": "哈兰"
     },
     {
       "surface": "על",
-      "english": "在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "פני",
-      "english": "面"
+      "gloss": "面"
     },
     {
       "surface": "תרח",
-      "english": "他拉"
+      "gloss": "他拉"
     },
     {
       "surface": "אביו",
-      "english": "他的父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "בארץ",
-      "english": "在⟨那⟩地"
+      "gloss": "在⟨那⟩地"
     },
     {
       "surface": "מולדתו",
-      "english": "他的出生地"
+      "gloss": "他的出生地"
     },
     {
       "surface": "באור",
-      "english": "在吾珥"
+      "gloss": "在吾珥"
     },
     {
       "surface": "כשדים",
-      "english": "迦勒底人"
+      "gloss": "迦勒底人"
     }
-  ],
-  "timestamp": "2026-07-17T17:39:38.977381678Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 5,
   "ref": "proverbs 12:5",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 12,
-  "usage": {
-    "completion_tokens": 248,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54407,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54655
-  },
+  "verse": 5,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:38:31.821007050Z",
   "translation": "义人的筹算⟨是⟩公平；恶人的计谋⟨是⟩诡诈。",
   "tokens": [
     {
       "surface": "מחשבות",
-      "english": "筹算"
+      "gloss": "筹算"
     },
     {
       "surface": "צדיקים",
-      "english": "义人的"
+      "gloss": "义人的"
     },
     {
       "surface": "משפט",
-      "english": "公平"
+      "gloss": "公平"
     },
     {
       "surface": "תחבלות",
-      "english": "计谋"
+      "gloss": "计谋"
     },
     {
       "surface": "רשעים",
-      "english": "恶人的"
+      "gloss": "恶人的"
     },
     {
       "surface": "מרמה",
-      "english": "诡诈"
+      "gloss": "诡诈"
     }
-  ],
-  "timestamp": "2026-07-18T00:38:31.821007050Z",
-  "model": "glm-5.2"
+  ]
 }

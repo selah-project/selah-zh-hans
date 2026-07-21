@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 16,
   "ref": "genesis 8:16",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 512,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23005,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23517
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:37:36.967930054Z",
   "translation": "从方舟里出来吧,你、你的妻子、你的儿子们和你儿子们的妻子们,与你一起⟨,⟩",
   "tokens": [
     {
       "surface": "צֵ֖א",
-      "english": "出来吧"
+      "gloss": "出来吧"
     },
     {
       "surface": "מִן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הַ\/תֵּבָ֑ה",
-      "english": "方舟"
+      "gloss": "方舟"
     },
     {
       "surface": "אַתָּ֕ה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "וְ\/אִשְׁתְּ\/ךָ֛",
-      "english": "和你的妻子"
+      "gloss": "和你的妻子"
     },
     {
       "surface": "וּ\/בָנֶ֥י\/ךָ",
-      "english": "和你的儿子们"
+      "gloss": "和你的儿子们"
     },
     {
       "surface": "וּ\/נְשֵֽׁי",
-      "english": "和……的妻子们"
+      "gloss": "和……的妻子们"
     },
     {
       "surface": "בָנֶ֖י\/ךָ",
-      "english": "你的儿子们"
+      "gloss": "你的儿子们"
     },
     {
       "surface": "אִתָּֽ\/ךְ",
-      "english": "与你一起"
+      "gloss": "与你一起"
     }
-  ],
-  "timestamp": "2026-07-17T17:37:36.967930054Z",
-  "model": "glm-5.2"
+  ]
 }

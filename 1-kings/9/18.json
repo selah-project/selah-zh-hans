@@ -1,50 +1,39 @@
 {
-  "tier": "glm-5.2",
-  "verse": 18,
   "ref": "1-kings 9:18",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 311,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63818,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64129
-  },
+  "verse": 18,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:04:39.227283061Z",
   "translation": "以及 ⟨את⟩ 巴阿拉、和 ⟨את⟩ 塔玛，在旷野中，在那地。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩",
+      "gloss": "以及 ⟨את⟩",
       "marks": "巴阿拉"
     },
     {
       "surface": "בעלת",
-      "english": "巴阿拉"
+      "gloss": "巴阿拉"
     },
     {
       "surface": "ואת",
-      "english": "和 ⟨את⟩",
+      "gloss": "和 ⟨את⟩",
       "marks": "塔玛"
     },
     {
       "surface": "תמר",
-      "english": "塔玛"
+      "gloss": "塔玛"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野中"
+      "gloss": "在旷野中"
     },
     {
       "surface": "בארץ",
-      "english": "在那地"
+      "gloss": "在那地"
     }
-  ],
-  "timestamp": "2026-07-17T21:04:39.227283061Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "psalms 77:10",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 77,
-  "usage": {
-    "completion_tokens": 549,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64496,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65045
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:06:00.976129209Z",
   "translation": "חַנּוֹת 的恩惠难道被遗忘了吗？以罗欣⟨会⟩关闭⟨他的⟩怜悯，⟨即便⟩在怒气中？细拉。",
   "tokens": [
     {
       "surface": "הֲ\/שָׁכַ֣ח",
-      "english": "难道被遗忘了吗"
+      "gloss": "难道被遗忘了吗"
     },
     {
       "surface": "חַנּ֣וֹת",
-      "english": "חַנּוֹת 的恩惠"
+      "gloss": "חַנּוֹת 的恩惠"
     },
     {
       "surface": "אֵ֑ל",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אִם",
-      "english": "⟨即便⟩"
+      "gloss": "⟨即便⟩"
     },
     {
       "surface": "קָפַ֥ץ",
-      "english": "⟨会⟩关闭"
+      "gloss": "⟨会⟩关闭"
     },
     {
       "surface": "בְּ֝\/אַ֗ף",
-      "english": "在怒气中"
+      "gloss": "在怒气中"
     },
     {
       "surface": "רַחֲמָ֥י\/ו",
-      "english": "⟨他的⟩怜悯"
+      "gloss": "⟨他的⟩怜悯"
     },
     {
       "surface": "סֶֽלָה",
-      "english": "细拉。"
+      "gloss": "细拉。"
     }
-  ],
-  "timestamp": "2026-07-18T00:06:00.976129209Z",
-  "model": "glm-5.2"
+  ]
 }

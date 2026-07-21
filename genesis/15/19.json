@@ -1,48 +1,40 @@
 {
-  "tier": "bulk",
-  "verse": 19,
   "ref": "genesis 15:19",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 276,
-    "prompt_tokens": 22928,
-    "prompt_tokens_details": {
-      "cached_tokens": 21760
-    },
-    "total_tokens": 23204
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:12:22.879162888Z",
   "translation": "⟨את⟩ 基尼人,和 ⟨את⟩ 基尼洗人,和 ⟨את⟩ 卡德摩尼人",
   "tokens": [
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "基尼人"
     },
     {
       "surface": "הקיני",
-      "english": "基尼人"
+      "gloss": "基尼人"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "基尼洗人"
     },
     {
       "surface": "הקנזי",
-      "english": "基尼洗人"
+      "gloss": "基尼洗人"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "卡德摩尼人"
     },
     {
       "surface": "הקדמני",
-      "english": "卡德摩尼人"
+      "gloss": "卡德摩尼人"
     }
-  ],
-  "timestamp": "2026-07-21T13:12:22.879162888Z",
-  "model": "glm-4.5"
+  ]
 }

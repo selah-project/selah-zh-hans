@@ -1,83 +1,72 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "ezekiel 43:10",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 43,
-  "usage": {
-    "completion_tokens": 583,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19788,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 20371
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:08:00.595619657Z",
   "translation": "你,人子啊,你要将⟨את⟩殿指示给以色列家 ⟨——⟩ ⟨את⟩这殿,他们必因自己的罪孽而抱愧;他们要量 ⟨את⟩这设计图。",
   "tokens": [
     {
       "surface": "אתה",
-      "english": "你"
+      "gloss": "你"
     },
     {
       "surface": "בן",
-      "english": "人子 (ben adam)"
+      "gloss": "人子 (ben adam)"
     },
     {
       "surface": "אדם",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "הגד",
-      "english": "你要指示"
+      "gloss": "你要指示"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "殿 (בית)"
     },
     {
       "surface": "בית",
-      "english": "殿"
+      "gloss": "殿"
     },
     {
       "surface": "ישראל",
-      "english": "给以色列家"
+      "gloss": "给以色列家"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "这殿 (הבית)"
     },
     {
       "surface": "הבית",
-      "english": "这殿"
+      "gloss": "这殿"
     },
     {
       "surface": "ויכלמו",
-      "english": "他们必抱愧"
+      "gloss": "他们必抱愧"
     },
     {
       "surface": "מעונותיהם",
-      "english": "因自己的罪孽"
+      "gloss": "因自己的罪孽"
     },
     {
       "surface": "ומדדו",
-      "english": "他们要量"
+      "gloss": "他们要量"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "设计图 (תכנית)"
     },
     {
       "surface": "תכנית",
-      "english": "设计图"
+      "gloss": "设计图"
     }
-  ],
-  "timestamp": "2026-07-17T23:08:00.595619657Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "lamentations 3:3",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 428,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33510,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33938
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:39.717961294Z",
   "translation": "实在是 ⟨向我⟩ 他转回,他翻转 ⟨他的⟩ 手,终日 ⟨如此⟩。",
   "tokens": [
     {
       "surface": "אך",
-      "english": "实在是"
+      "gloss": "实在是"
     },
     {
       "surface": "בי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "ישב",
-      "english": "他转回"
+      "gloss": "他转回"
     },
     {
       "surface": "יהפך",
-      "english": "他翻转"
+      "gloss": "他翻转"
     },
     {
       "surface": "ידו",
-      "english": "⟨他的⟩ 手"
+      "gloss": "⟨他的⟩ 手"
     },
     {
       "surface": "כל",
-      "english": "全"
+      "gloss": "全"
     },
     {
       "surface": "היום",
-      "english": "那日"
+      "gloss": "那日"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:39.717961294Z",
-  "model": "glm-5.2"
+  ]
 }

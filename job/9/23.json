@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 23,
   "ref": "job 9:23",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 9,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21563,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21907
-  },
+  "verse": 23,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:53:48.675498992Z",
   "translation": "他若用鞭子突然击杀,他必嗤笑无辜者的灾难。",
   "tokens": [
     {
       "surface": "אם",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "שוט",
-      "english": "鞭子"
+      "gloss": "鞭子"
     },
     {
       "surface": "ימית",
-      "english": "击杀"
+      "gloss": "击杀"
     },
     {
       "surface": "פתאם",
-      "english": "突然"
+      "gloss": "突然"
     },
     {
       "surface": "למסת",
-      "english": "灾难"
+      "gloss": "灾难"
     },
     {
       "surface": "נקים",
-      "english": "无辜者的"
+      "gloss": "无辜者的"
     },
     {
       "surface": "ילעג",
-      "english": "他必嗤笑"
+      "gloss": "他必嗤笑"
     }
-  ],
-  "timestamp": "2026-07-18T00:53:48.675498992Z",
-  "model": "glm-5.2"
+  ]
 }

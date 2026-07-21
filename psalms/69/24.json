@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "psalms 69:24",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 69,
-  "usage": {
-    "completion_tokens": 398,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64378,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64776
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:02:49.830048744Z",
   "translation": "愿他们的眼睛 ⟨תחשכנה⟩ 变暗，看不见；愿他们的腰持续摇动。",
   "tokens": [
     {
       "surface": "תחשכנה",
-      "english": "愿……变暗"
+      "gloss": "愿……变暗"
     },
     {
       "surface": "עיניהם",
-      "english": "他们的眼睛"
+      "gloss": "他们的眼睛"
     },
     {
       "surface": "מראות",
-      "english": "看不见"
+      "gloss": "看不见"
     },
     {
       "surface": "ומתניהם",
-      "english": "他们的腰"
+      "gloss": "他们的腰"
     },
     {
       "surface": "תמיד",
-      "english": "持续地"
+      "gloss": "持续地"
     },
     {
       "surface": "המעד",
-      "english": "摇动"
+      "gloss": "摇动"
     }
-  ],
-  "timestamp": "2026-07-18T00:02:49.830048744Z",
-  "model": "glm-5.2"
+  ]
 }

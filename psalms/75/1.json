@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 75:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 75,
-  "usage": {
-    "completion_tokens": 327,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64385,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64712
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:05:26.115129986Z",
   "translation": "给唱诗班长，⟨照⟩「不可毁坏」⟨的曲调⟩；阿萨弗的歌，一首诗歌。",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "给唱诗班长"
+      "gloss": "给唱诗班长"
     },
     {
       "surface": "אל",
-      "english": "不可"
+      "gloss": "不可"
     },
     {
       "surface": "תשחת",
-      "english": "毁坏"
+      "gloss": "毁坏"
     },
     {
       "surface": "מזמור",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "לאסף",
-      "english": "给阿萨弗"
+      "gloss": "给阿萨弗"
     },
     {
       "surface": "שיר",
-      "english": "一首歌"
+      "gloss": "一首歌"
     }
-  ],
-  "timestamp": "2026-07-18T00:05:26.115129986Z",
-  "model": "glm-5.2"
+  ]
 }

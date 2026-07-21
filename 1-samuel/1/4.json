@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "1-samuel 1:4",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18313,
-    "prompt_tokens_details": {
-      "cached_tokens": 4928
-    },
-    "total_tokens": 18685
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:21:08.095121802Z",
   "translation": "到了⟨那⟩日子,以利加拿献祭,他给了比尼拿⟨他⟩的妻子,也给⟨她⟩所有的儿子们和女儿们各份。",
   "tokens": [
     {
       "surface": "ויהי",
-      "english": "到了"
+      "gloss": "到了"
     },
     {
       "surface": "היום",
-      "english": "⟨那⟩日子"
+      "gloss": "⟨那⟩日子"
     },
     {
       "surface": "ויזבח",
-      "english": "以利加拿献祭"
+      "gloss": "以利加拿献祭"
     },
     {
       "surface": "אלקנה",
-      "english": "以利加拿"
+      "gloss": "以利加拿"
     },
     {
       "surface": "ונתן",
-      "english": "他给了"
+      "gloss": "他给了"
     },
     {
       "surface": "לפננה",
-      "english": "给比尼拿"
+      "gloss": "给比尼拿"
     },
     {
       "surface": "אשתו",
-      "english": "⟨他⟩的妻子"
+      "gloss": "⟨他⟩的妻子"
     },
     {
       "surface": "ולכל",
-      "english": "也给⟨她⟩所有的"
+      "gloss": "也给⟨她⟩所有的"
     },
     {
       "surface": "בניה",
-      "english": "儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "ובנותיה",
-      "english": "和女儿们"
+      "gloss": "和女儿们"
     },
     {
       "surface": "מנות",
-      "english": "各份"
+      "gloss": "各份"
     }
-  ],
-  "timestamp": "2026-07-17T20:21:08.095121802Z",
-  "model": "glm-5.2"
+  ]
 }

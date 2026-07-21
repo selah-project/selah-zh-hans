@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 22,
   "ref": "proverbs 16:22",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 394,
-    "prompt_tokens": 54406,
-    "prompt_tokens_details": {
-      "cached_tokens": 54400
-    },
-    "total_tokens": 54800
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:17:44.077797305Z",
   "translation": "理解是生命之源⟨对⟩拥有它的人,而愚昧人的管教是愚妄。",
   "tokens": [
     {
       "surface": "מקור",
-      "english": "生命之源"
+      "gloss": "生命之源"
     },
     {
       "surface": "חיים",
-      "english": "生命"
+      "gloss": "生命"
     },
     {
       "surface": "שכל",
-      "english": "理解"
+      "gloss": "理解"
     },
     {
       "surface": "בעליו",
-      "english": "拥有它的人"
+      "gloss": "拥有它的人"
     },
     {
       "surface": "ומוסר",
-      "english": "管教"
+      "gloss": "管教"
     },
     {
       "surface": "אולים",
-      "english": "愚昧人"
+      "gloss": "愚昧人"
     },
     {
       "surface": "אולת",
-      "english": "愚妄"
+      "gloss": "愚妄"
     }
-  ],
-  "timestamp": "2026-07-21T13:17:44.077797305Z",
-  "model": "glm-4.5"
+  ]
 }

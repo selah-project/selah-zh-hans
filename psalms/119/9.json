@@ -1,53 +1,42 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 119:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 119,
-  "usage": {
-    "completion_tokens": 513,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64495,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65008
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:22:33.035977447Z",
   "translation": "少年人用什么使他的道路洁净呢？⟨את⟩ 借着按你的*davar*（话语）警醒守护。",
   "tokens": [
     {
       "surface": "במה",
-      "english": "用什么"
+      "gloss": "用什么"
     },
     {
       "surface": "יזכה",
-      "english": "使……洁净"
+      "gloss": "使……洁净"
     },
     {
       "surface": "נער",
-      "english": "少年人"
+      "gloss": "少年人"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他的道路"
     },
     {
       "surface": "ארחו",
-      "english": "他的道路"
+      "gloss": "他的道路"
     },
     {
       "surface": "לשמר",
-      "english": "借着警醒守护"
+      "gloss": "借着警醒守护"
     },
     {
       "surface": "כדברך",
-      "english": "按你的*davar*（话语）"
+      "gloss": "按你的*davar*（话语）"
     }
-  ],
-  "timestamp": "2026-07-18T00:22:33.035977447Z",
-  "model": "glm-5.2"
+  ]
 }

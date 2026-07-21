@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "jeremiah 11:9",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19167,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19555
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:13:35.739075223Z",
   "translation": "雅威对我说:在犹大人中,在耶路撒冷的居民中,⟨被⟩发现⟨有⟩阴谋。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "נמצא",
-      "english": "⟨被⟩发现"
+      "gloss": "⟨被⟩发现"
     },
     {
       "surface": "קשר",
-      "english": "阴谋"
+      "gloss": "阴谋"
     },
     {
       "surface": "באיש",
-      "english": "在……人中"
+      "gloss": "在……人中"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ובישבי",
-      "english": "和在……的居民中"
+      "gloss": "和在……的居民中"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-17T22:13:35.739075223Z",
-  "model": "glm-5.2"
+  ]
 }

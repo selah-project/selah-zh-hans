@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 112:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 112,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64286,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64537
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:10.865660266Z",
   "translation": "财富与富足在他⟨的⟩家中，而他的公义站立到永远。",
   "tokens": [
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "ועשר",
-      "english": "与富足"
+      "gloss": "与富足"
     },
     {
       "surface": "בביתו",
-      "english": "在他家中"
+      "gloss": "在他家中"
     },
     {
       "surface": "וצדקתו",
-      "english": "而他的公义"
+      "gloss": "而他的公义"
     },
     {
       "surface": "עמדת",
-      "english": "站立"
+      "gloss": "站立"
     },
     {
       "surface": "לעד",
-      "english": "到永远"
+      "gloss": "到永远"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:10.865660266Z",
-  "model": "glm-5.2"
+  ]
 }

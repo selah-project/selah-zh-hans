@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "habakkuk 3:12",
   "book": "habakkuk",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 401,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22805,
-    "prompt_tokens_details": {
-      "cached_tokens": 21888
-    },
-    "total_tokens": 23206
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:29:43.739959573Z",
   "translation": "在愤怒中你践踏 ⟨הָאָרֶץ⟩ 大地，在烈怒中你踹透列国。",
   "tokens": [
     {
       "surface": "בְּ\/זַ֖עַם",
-      "english": "在愤怒中"
+      "gloss": "在愤怒中"
     },
     {
       "surface": "תִּצְעַד",
-      "english": "你践踏"
+      "gloss": "你践踏"
     },
     {
       "surface": "אָ֑רֶץ",
-      "english": "大地"
+      "gloss": "大地"
     },
     {
       "surface": "בְּ\/אַ֖ף",
-      "english": "在烈怒中"
+      "gloss": "在烈怒中"
     },
     {
       "surface": "תָּד֥וּשׁ",
-      "english": "你踹透"
+      "gloss": "你踹透"
     },
     {
       "surface": "גּוֹיִֽם",
-      "english": "列国"
+      "gloss": "列国"
     }
-  ],
-  "timestamp": "2026-07-17T23:29:43.739959573Z",
-  "model": "glm-5.2"
+  ]
 }

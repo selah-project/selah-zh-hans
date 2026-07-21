@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "proverbs 30:3",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 450,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54311,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54761
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:48:40.760930633Z",
   "translation": "我也未曾学习智慧,⟨而⟩圣洁之事的知识——我⟨將⟩知道。",
   "tokens": [
     {
       "surface": "ולא",
-      "english": "我也未曾"
+      "gloss": "我也未曾"
     },
     {
       "surface": "למדתי",
-      "english": "学习"
+      "gloss": "学习"
     },
     {
       "surface": "חכמה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "ודעת",
-      "english": "⟨而⟩知识"
+      "gloss": "⟨而⟩知识"
     },
     {
       "surface": "קדשים",
-      "english": "圣洁之事的"
+      "gloss": "圣洁之事的"
     },
     {
       "surface": "אדע",
-      "english": "我⟨將⟩知道"
+      "gloss": "我⟨將⟩知道"
     }
-  ],
-  "timestamp": "2026-07-18T00:48:40.760930633Z",
-  "model": "glm-5.2"
+  ]
 }

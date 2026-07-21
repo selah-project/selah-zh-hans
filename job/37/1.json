@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "job 37:1",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 298,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21413,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21711
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:15.554997070Z",
   "translation": "为此我的心也战栗,⟨它⟩从⟨它的⟩位置跳离。",
   "tokens": [
     {
       "surface": "אף",
-      "english": "也"
+      "gloss": "也"
     },
     {
       "surface": "לזאת",
-      "english": "为此"
+      "gloss": "为此"
     },
     {
       "surface": "יחרד",
-      "english": "战栗"
+      "gloss": "战栗"
     },
     {
       "surface": "לבי",
-      "english": "我的心"
+      "gloss": "我的心"
     },
     {
       "surface": "ויתר",
-      "english": "跳离"
+      "gloss": "跳离"
     },
     {
       "surface": "ממקומו",
-      "english": "从⟨它的⟩位置"
+      "gloss": "从⟨它的⟩位置"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:15.554997070Z",
-  "model": "glm-5.2"
+  ]
 }

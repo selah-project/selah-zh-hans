@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 29:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64553,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65084
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:48:30.155521168Z",
   "translation": "⟨他⟩使它们跳跃如牛犊，黎巴嫩和西连如⟨独角⟩野牛之子。",
   "tokens": [
     {
       "surface": "וירקידם",
-      "english": "⟨他⟩使它们跳跃"
+      "gloss": "⟨他⟩使它们跳跃"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "עגל",
-      "english": "牛犊"
+      "gloss": "牛犊"
     },
     {
       "surface": "לבנון",
-      "english": "黎巴嫩"
+      "gloss": "黎巴嫩"
     },
     {
       "surface": "ושרין",
-      "english": "和西连"
+      "gloss": "和西连"
     },
     {
       "surface": "כמו",
-      "english": "如"
+      "gloss": "如"
     },
     {
       "surface": "בן",
-      "english": "之子"
+      "gloss": "之子"
     },
     {
       "surface": "ראמים",
-      "english": "⟨独角⟩野牛"
+      "gloss": "⟨独角⟩野牛"
     }
-  ],
-  "timestamp": "2026-07-17T23:48:30.155521168Z",
-  "model": "glm-5.2"
+  ]
 }

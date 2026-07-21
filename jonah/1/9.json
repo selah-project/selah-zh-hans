@@ -1,91 +1,80 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "jonah 1:9",
   "book": "jonah",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 690,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22037,
-    "prompt_tokens_details": {
-      "cached_tokens": 20032
-    },
-    "total_tokens": 22727
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:23:25.237774098Z",
   "translation": "他对他们说：我是希伯来人；⟨את⟩ 雅威 —— 天的以罗欣 —— 我敬畏；他造了 ⟨את⟩ 海与 ⟨את⟩ 旱地。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "english": "他说"
+      "gloss": "他说"
     },
     {
       "surface": "אליהם",
-      "english": "对他们"
+      "gloss": "对他们"
     },
     {
       "surface": "עברי",
-      "english": "希伯来人"
+      "gloss": "希伯来人"
     },
     {
       "surface": "אנכי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以罗欣（……的）"
+      "gloss": "以罗欣（……的）"
     },
     {
       "surface": "השמים",
-      "english": "天"
+      "gloss": "天"
     },
     {
       "surface": "אני",
-      "english": "我"
+      "gloss": "我"
     },
     {
       "surface": "ירא",
-      "english": "敬畏"
+      "gloss": "敬畏"
     },
     {
       "surface": "אשר",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "עשה",
-      "english": "造了"
+      "gloss": "造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "海"
     },
     {
       "surface": "הים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "旱地"
     },
     {
       "surface": "היבשה",
-      "english": "旱地"
+      "gloss": "旱地"
     }
-  ],
-  "timestamp": "2026-07-17T23:23:25.237774098Z",
-  "model": "glm-5.2"
+  ]
 }

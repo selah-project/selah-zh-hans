@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-samuel 28:6",
   "book": "1-samuel",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 569,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18400,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18969
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:38:04.941071624Z",
   "translation": "扫罗求问雅威,雅威没有回答他——无论是借梦、借乌陵,还是借先知。",
   "tokens": [
     {
       "surface": "וישאל",
-      "english": "求问"
+      "gloss": "求问"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "ביהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ולא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "ענהו",
-      "english": "回答他"
+      "gloss": "回答他"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "גם",
-      "english": "无论"
+      "gloss": "无论"
     },
     {
       "surface": "בחלמות",
-      "english": "借梦"
+      "gloss": "借梦"
     },
     {
       "surface": "גם",
-      "english": "还是"
+      "gloss": "还是"
     },
     {
       "surface": "באורים",
-      "english": "借乌陵"
+      "gloss": "借乌陵"
     },
     {
       "surface": "גם",
-      "english": "还是"
+      "gloss": "还是"
     },
     {
       "surface": "בנביאם",
-      "english": "借先知"
+      "gloss": "借先知"
     }
-  ],
-  "timestamp": "2026-07-17T20:38:04.941071624Z",
-  "model": "glm-5.2"
+  ]
 }

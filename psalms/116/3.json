@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 116:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 116,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64663,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65218
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:21:18.318048679Z",
   "translation": "死亡的绳索环绕我，阴间的困境找到我；我找到⟨了⟩患难与愁烦。",
   "tokens": [
     {
       "surface": "אפפוני",
-      "english": "环绕我"
+      "gloss": "环绕我"
     },
     {
       "surface": "חבלי",
-      "english": "死亡的绳索"
+      "gloss": "死亡的绳索"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "ומצרי",
-      "english": "和……的困境"
+      "gloss": "和……的困境"
     },
     {
       "surface": "שאול",
-      "english": "阴间"
+      "gloss": "阴间"
     },
     {
       "surface": "מצאוני",
-      "english": "找到我"
+      "gloss": "找到我"
     },
     {
       "surface": "צרה",
-      "english": "患难"
+      "gloss": "患难"
     },
     {
       "surface": "ויגון",
-      "english": "与愁烦"
+      "gloss": "与愁烦"
     },
     {
       "surface": "אמצא",
-      "english": "我找到"
+      "gloss": "我找到"
     }
-  ],
-  "timestamp": "2026-07-18T00:21:18.318048679Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 15:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 525,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20970,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21495
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:41:43.779326407Z",
   "translation": "在它的街道上他们束上麻布；在它的屋顶上和在它的广场上，全都在哀号，下到哭泣之中。",
   "tokens": [
     {
       "surface": "בְּ\/חוּצֹתָ֖י\/ו",
-      "english": "在它的街道上"
+      "gloss": "在它的街道上"
     },
     {
       "surface": "חָ֣גְרוּ",
-      "english": "他们束上"
+      "gloss": "他们束上"
     },
     {
       "surface": "שָׂ֑ק",
-      "english": "麻布"
+      "gloss": "麻布"
     },
     {
       "surface": "עַ֣ל",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "גַּגּוֹתֶ֧י\/הָ",
-      "english": "它的屋顶"
+      "gloss": "它的屋顶"
     },
     {
       "surface": "וּ\/בִ\/רְחֹבֹתֶ֛י\/הָ",
-      "english": "和在它的广场上"
+      "gloss": "和在它的广场上"
     },
     {
       "surface": "כֻּלֹּ֥\/ה",
-      "english": "全都"
+      "gloss": "全都"
     },
     {
       "surface": "יְיֵלִ֖יל",
-      "english": "哀号"
+      "gloss": "哀号"
     },
     {
       "surface": "יֹרֵ֥ד",
-      "english": "下到"
+      "gloss": "下到"
     },
     {
       "surface": "בַּ\/בֶּֽכִי",
-      "english": "哭泣之中"
+      "gloss": "哭泣之中"
     }
-  ],
-  "timestamp": "2026-07-17T21:41:43.779326407Z",
-  "model": "glm-5.2"
+  ]
 }

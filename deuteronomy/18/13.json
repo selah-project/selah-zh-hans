@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "deuteronomy 18:13",
   "book": "deuteronomy",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18916,
-    "prompt_tokens_details": {
-      "cached_tokens": 18048
-    },
-    "total_tokens": 19291
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:39:05.531461969Z",
   "translation": "你与雅威你的以罗欣同在,⟨要⟩是完整的。",
   "tokens": [
     {
       "surface": "תמים",
-      "english": "完整的"
+      "gloss": "完整的"
     },
     {
       "surface": "תהיה",
-      "english": "⟨你⟩⟨要⟩是"
+      "gloss": "⟨你⟩⟨要⟩是"
     },
     {
       "surface": "עם",
-      "english": "与……同在"
+      "gloss": "与……同在"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיך",
-      "english": "你的以罗欣"
+      "gloss": "你的以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T19:39:05.531461969Z",
-  "model": "glm-5.2"
+  ]
 }

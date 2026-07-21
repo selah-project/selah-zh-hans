@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "isaiah 3:4",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 369,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 20426,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 20795
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:35:44.419325728Z",
   "translation": "我必立孩童作他们的首领,⟨而⟩反复无常之人必管辖他们。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "english": "我必立"
+      "gloss": "我必立"
     },
     {
       "surface": "נערים",
-      "english": "孩童"
+      "gloss": "孩童"
     },
     {
       "surface": "שריהם",
-      "english": "作他们的首领"
+      "gloss": "作他们的首领"
     },
     {
       "surface": "ותעלולים",
-      "english": "⟨而⟩反复无常之人"
+      "gloss": "⟨而⟩反复无常之人"
     },
     {
       "surface": "ימשלו",
-      "english": "必管辖"
+      "gloss": "必管辖"
     },
     {
       "surface": "בם",
-      "english": "他们"
+      "gloss": "他们"
     }
-  ],
-  "timestamp": "2026-07-17T21:35:44.419325728Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 24,
   "ref": "leviticus 25:24",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 348,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18864,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19212
-  },
+  "verse": 24,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:57:27.329303405Z",
   "translation": "在你们地业的全部土地上,你们要给地 ⟨את⟩ 赎回的权利。",
   "tokens": [
     {
       "surface": "ובכל",
-      "english": "在……的全部(上)"
+      "gloss": "在……的全部(上)"
     },
     {
       "surface": "ארץ",
-      "english": "土地"
+      "gloss": "土地"
     },
     {
       "surface": "אחזתכם",
-      "english": "你们的产业"
+      "gloss": "你们的产业"
     },
     {
       "surface": "גאלה",
-      "english": "赎回(的权利)"
+      "gloss": "赎回(的权利)"
     },
     {
       "surface": "תתנו",
-      "english": "你们要给"
+      "gloss": "你们要给"
     },
     {
       "surface": "לארץ",
-      "english": "给地"
+      "gloss": "给地"
     }
-  ],
-  "timestamp": "2026-07-17T18:57:27.329303405Z",
-  "model": "glm-5.2"
+  ]
 }

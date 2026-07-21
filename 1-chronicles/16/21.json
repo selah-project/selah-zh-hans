@@ -1,49 +1,41 @@
 {
-  "tier": "bulk",
-  "verse": 21,
   "ref": "1-chronicles 16:21",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 346,
-    "prompt_tokens": 58509,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58855
-  },
+  "verse": 21,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:03.858948038Z",
   "translation": "没有 ⟨人⟩ 去 ⟨这⟩ 亏负 ⟨他们⟩, ⟨雅威⟩ 指责 ⟨诸王⟩ 为了 ⟨他们⟩",
   "tokens": [
     {
       "surface": "לא",
-      "english": "没有"
+      "gloss": "没有"
     },
     {
       "surface": "הניח",
-      "english": "去 ⟨这⟩"
+      "gloss": "去 ⟨这⟩"
     },
     {
       "surface": "לאיש",
-      "english": "⟨人⟩"
+      "gloss": "⟨人⟩"
     },
     {
       "surface": "לעשקם",
-      "english": "亏负 ⟨他们⟩"
+      "gloss": "亏负 ⟨他们⟩"
     },
     {
       "surface": "ויוכח",
-      "english": "⟨雅威⟩ 指责"
+      "gloss": "⟨雅威⟩ 指责"
     },
     {
       "surface": "עליהם",
-      "english": "为了 ⟨他们⟩"
+      "gloss": "为了 ⟨他们⟩"
     },
     {
       "surface": "מלכים",
-      "english": "⟨诸王⟩"
+      "gloss": "⟨诸王⟩"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:03.858948038Z",
-  "model": "glm-4.5"
+  ]
 }

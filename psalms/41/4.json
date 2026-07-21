@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "psalms 41:4",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 41,
-  "usage": {
-    "completion_tokens": 509,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64680,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65189
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:53:24.174026344Z",
   "translation": "雅威啊，求⟨你⟩扶持我们，在病榻之上；⟨你⟩翻转了他整个病卧之床。",
   "tokens": [
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "יסעדנו",
-      "english": "求⟨你⟩扶持我们"
+      "gloss": "求⟨你⟩扶持我们"
     },
     {
       "surface": "על",
-      "english": "在……之上"
+      "gloss": "在……之上"
     },
     {
       "surface": "ערש",
-      "english": "榻"
+      "gloss": "榻"
     },
     {
       "surface": "דוי",
-      "english": "病"
+      "gloss": "病"
     },
     {
       "surface": "כל",
-      "english": "他整个"
+      "gloss": "他整个"
     },
     {
       "surface": "משכבו",
-      "english": "病卧之床"
+      "gloss": "病卧之床"
     },
     {
       "surface": "הפכת",
-      "english": "⟨你⟩翻转了"
+      "gloss": "⟨你⟩翻转了"
     },
     {
       "surface": "בחליו",
-      "english": "在他的病患中"
+      "gloss": "在他的病患中"
     }
-  ],
-  "timestamp": "2026-07-17T23:53:24.174026344Z",
-  "model": "glm-5.2"
+  ]
 }

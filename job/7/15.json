@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "job 7:15",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 443,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21420,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21863
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:52:53.447176675Z",
   "translation": "⟨因此⟩我的נֶפֶשׁ选择了窒息,死亡胜过我自身的骨头。",
   "tokens": [
     {
       "surface": "ותבחר",
-      "english": "⟨因此⟩……选择了"
+      "gloss": "⟨因此⟩……选择了"
     },
     {
       "surface": "מחנק",
-      "english": "窒息"
+      "gloss": "窒息"
     },
     {
       "surface": "נפשי",
-      "english": "我的נֶפֶשׁ"
+      "gloss": "我的נֶפֶשׁ"
     },
     {
       "surface": "מות",
-      "english": "死亡"
+      "gloss": "死亡"
     },
     {
       "surface": "מעצמותי",
-      "english": "我自身的骨头"
+      "gloss": "我自身的骨头"
     }
-  ],
-  "timestamp": "2026-07-18T00:52:53.447176675Z",
-  "model": "glm-5.2"
+  ]
 }

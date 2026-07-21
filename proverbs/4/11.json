@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "proverbs 4:11",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 453,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54365,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54818
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:34:13.850010592Z",
   "translation": "在智慧的道路上，我指引了你；在正直的路径中，我引导了你行走。",
   "tokens": [
     {
       "surface": "בְּ\/דֶ֣רֶךְ",
-      "english": "在……的道路上"
+      "gloss": "在……的道路上"
     },
     {
       "surface": "חָ֭כְמָה",
-      "english": "智慧"
+      "gloss": "智慧"
     },
     {
       "surface": "הֹרֵתִ֑י\/ךָ",
-      "english": "我指引了你"
+      "gloss": "我指引了你"
     },
     {
       "surface": "הִ֝דְרַכְתִּ֗י\/ךָ",
-      "english": "我引导了你行走"
+      "gloss": "我引导了你行走"
     },
     {
       "surface": "בְּ\/מַעְגְּלֵי",
-      "english": "在……的路径中"
+      "gloss": "在……的路径中"
     },
     {
       "surface": "יֹֽשֶׁר",
-      "english": "正直"
+      "gloss": "正直"
     }
-  ],
-  "timestamp": "2026-07-18T00:34:13.850010592Z",
-  "model": "glm-5.2"
+  ]
 }

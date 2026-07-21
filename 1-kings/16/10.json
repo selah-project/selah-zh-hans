@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 16:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 452,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64426,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64878
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:11:02.971486891Z",
   "translation": "齐姆利进去击打他,把他处死,在亚撒王⟨统治⟩犹大第二十七年;他便代替他作王。",
   "tokens": [
     {
       "surface": "ויבא",
-      "english": "便进去"
+      "gloss": "便进去"
     },
     {
       "surface": "זמרי",
-      "english": "齐姆利"
+      "gloss": "齐姆利"
     },
     {
       "surface": "ויכהו",
-      "english": "击打他"
+      "gloss": "击打他"
     },
     {
       "surface": "ומיתהו",
-      "english": "把他处死"
+      "gloss": "把他处死"
     },
     {
       "surface": "בשנת",
-      "english": "在……年"
+      "gloss": "在……年"
     },
     {
       "surface": "עשרים",
-      "english": "二十"
+      "gloss": "二十"
     },
     {
       "surface": "ושבע",
-      "english": "和七"
+      "gloss": "和七"
     },
     {
       "surface": "לאסא",
-      "english": "属于亚撒"
+      "gloss": "属于亚撒"
     },
     {
       "surface": "מלך",
-      "english": "王"
+      "gloss": "王"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "וימלך",
-      "english": "他便作王"
+      "gloss": "他便作王"
     },
     {
       "surface": "תחתיו",
-      "english": "代替他"
+      "gloss": "代替他"
     }
-  ],
-  "timestamp": "2026-07-17T21:11:02.971486891Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "jeremiah 22:9",
   "book": "jeremiah",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 485,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19542,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 20027
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:19:06.415015206Z",
   "translation": "他们必说:因为他们离弃了雅威他们以罗欣的布瑞特 ⟨את⟩,向别神下拜并事奉它们。",
   "tokens": [
     {
       "surface": "ואמרו",
-      "english": "他们必说"
+      "gloss": "他们必说"
     },
     {
       "surface": "על",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "אשר",
-      "english": "——"
+      "gloss": "——"
     },
     {
       "surface": "עזבו",
-      "english": "他们离弃了"
+      "gloss": "他们离弃了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "布瑞特"
     },
     {
       "surface": "ברית",
-      "english": "布瑞特"
+      "gloss": "布瑞特"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיהם",
-      "english": "他们以罗欣的"
+      "gloss": "他们以罗欣的"
     },
     {
       "surface": "וישתחוו",
-      "english": "向……下拜"
+      "gloss": "向……下拜"
     },
     {
       "surface": "לאלהים",
-      "english": "别神"
+      "gloss": "别神"
     },
     {
       "surface": "אחרים",
-      "english": "别的"
+      "gloss": "别的"
     },
     {
       "surface": "ויעבדום",
-      "english": "并事奉它们"
+      "gloss": "并事奉它们"
     }
-  ],
-  "timestamp": "2026-07-17T22:19:06.415015206Z",
-  "model": "glm-5.2"
+  ]
 }

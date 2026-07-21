@@ -1,76 +1,65 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 15:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 555,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64938,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65493
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:43:23.982235112Z",
   "translation": "不以舌头踢人,不对同伴作恶,不举起羞辱⟨加⟩在近邻身上。",
   "tokens": [
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "רגל",
-      "english": "踢 \/ 恶意中伤"
+      "gloss": "踢 \/ 恶意中伤"
     },
     {
       "surface": "על",
-      "english": "用"
+      "gloss": "用"
     },
     {
       "surface": "לשנו",
-      "english": "他的舌头"
+      "gloss": "他的舌头"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עשה",
-      "english": "作"
+      "gloss": "作"
     },
     {
       "surface": "לרעהו",
-      "english": "对 ⟨他的⟩ 同伴"
+      "gloss": "对 ⟨他的⟩ 同伴"
     },
     {
       "surface": "רעה",
-      "english": "恶"
+      "gloss": "恶"
     },
     {
       "surface": "וחרפה",
-      "english": "与 羞辱"
+      "gloss": "与 羞辱"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "נשא",
-      "english": "举起 \/ 担当"
+      "gloss": "举起 \/ 担当"
     },
     {
       "surface": "על",
-      "english": "在……⟨上⟩"
+      "gloss": "在……⟨上⟩"
     },
     {
       "surface": "קרבו",
-      "english": "他的近邻"
+      "gloss": "他的近邻"
     }
-  ],
-  "timestamp": "2026-07-17T23:43:23.982235112Z",
-  "model": "glm-5.2"
+  ]
 }

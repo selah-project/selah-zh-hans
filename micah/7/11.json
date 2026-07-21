@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "micah 7:11",
   "book": "micah",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 383,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17295,
-    "prompt_tokens_details": {
-      "cached_tokens": 16256
-    },
-    "total_tokens": 17678
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:26:54.036429787Z",
   "translation": "日子 ⟨临到⟩,为要建造你的围墙;那一日,界限必被移远。",
   "tokens": [
     {
       "surface": "יום",
-      "english": "日子"
+      "gloss": "日子"
     },
     {
       "surface": "לבנות",
-      "english": "为要建造"
+      "gloss": "为要建造"
     },
     {
       "surface": "גדריך",
-      "english": "你的围墙"
+      "gloss": "你的围墙"
     },
     {
       "surface": "יום",
-      "english": "那一日"
+      "gloss": "那一日"
     },
     {
       "surface": "ההוא",
-      "english": "⟨那⟩"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "ירחק",
-      "english": "必被移远"
+      "gloss": "必被移远"
     },
     {
       "surface": "חק",
-      "english": "界限"
+      "gloss": "界限"
     }
-  ],
-  "timestamp": "2026-07-17T23:26:54.036429787Z",
-  "model": "glm-5.2"
+  ]
 }

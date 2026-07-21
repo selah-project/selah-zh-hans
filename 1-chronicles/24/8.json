@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "1-chronicles 24:8",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 162,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58217,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58379
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:08:24.301399126Z",
   "translation": "第三 ⟨归⟩哈琳，第四 ⟨归⟩西奥林。",
   "tokens": [
     {
       "surface": "לחרם",
-      "english": "⟨归⟩哈琳"
+      "gloss": "⟨归⟩哈琳"
     },
     {
       "surface": "השלישי",
-      "english": "第三"
+      "gloss": "第三"
     },
     {
       "surface": "לשערים",
-      "english": "⟨归⟩西奥林"
+      "gloss": "⟨归⟩西奥林"
     },
     {
       "surface": "הרבעי",
-      "english": "第四"
+      "gloss": "第四"
     }
-  ],
-  "timestamp": "2026-07-18T02:08:24.301399126Z",
-  "model": "glm-5.2"
+  ]
 }

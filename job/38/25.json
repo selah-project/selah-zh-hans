@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "job 38:25",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 38,
-  "usage": {
-    "completion_tokens": 490,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21544,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22034
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:07:58.463507693Z",
   "translation": "谁为漫流劈开⟨了⟩水道，又为雷声的闪电开辟⟨了⟩道路？",
   "tokens": [
     {
       "surface": "מִֽי",
-      "english": "谁"
+      "gloss": "谁"
     },
     {
       "surface": "פִלַּ֣ג",
-      "english": "劈开"
+      "gloss": "劈开"
     },
     {
       "surface": "לַ\/שֶּׁ֣טֶף",
-      "english": "为漫流"
+      "gloss": "为漫流"
     },
     {
       "surface": "תְּעָלָ֑ה",
-      "english": "水道"
+      "gloss": "水道"
     },
     {
       "surface": "וְ֝\/דֶ֗רֶךְ",
-      "english": "和道路"
+      "gloss": "和道路"
     },
     {
       "surface": "לַ\/חֲזִ֥יז",
-      "english": "为闪电"
+      "gloss": "为闪电"
     },
     {
       "surface": "קֹלֽוֹת",
-      "english": "雷声"
+      "gloss": "雷声"
     }
-  ],
-  "timestamp": "2026-07-18T01:07:58.463507693Z",
-  "model": "glm-5.2"
+  ]
 }

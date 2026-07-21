@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "psalms 37:8",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 37,
-  "usage": {
-    "completion_tokens": 403,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64483,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64886
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:51:51.567695605Z",
   "translation": "止息怒气,离弃烈怒;不要发怒,⟨免得⟩只能⟨导致⟩作恶。",
   "tokens": [
     {
       "surface": "הרף",
-      "english": "止息"
+      "gloss": "止息"
     },
     {
       "surface": "מאף",
-      "english": "⟨从⟩怒气"
+      "gloss": "⟨从⟩怒气"
     },
     {
       "surface": "ועזב",
-      "english": "并离弃"
+      "gloss": "并离弃"
     },
     {
       "surface": "חמה",
-      "english": "烈怒"
+      "gloss": "烈怒"
     },
     {
       "surface": "אל",
-      "english": "不要"
+      "gloss": "不要"
     },
     {
       "surface": "תתחר",
-      "english": "发怒"
+      "gloss": "发怒"
     },
     {
       "surface": "אך",
-      "english": "⟨⟨只能⟨⟨"
+      "gloss": "⟨⟨只能⟨⟨"
     },
     {
       "surface": "להרע",
-      "english": "⟨导致⟩作恶"
+      "gloss": "⟨导致⟩作恶"
     }
-  ],
-  "timestamp": "2026-07-17T23:51:51.567695605Z",
-  "model": "glm-5.2"
+  ]
 }

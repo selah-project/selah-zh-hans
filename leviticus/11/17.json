@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "leviticus 11:17",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18972,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19322
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:11:48.195150881Z",
   "translation": "以及 ⟨את⟩ 小鸮，以及 ⟨את⟩ 鸬鹚，以及 ⟨את⟩ 大鸮。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "הכוס",
-      "english": "小鸮"
+      "gloss": "小鸮"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "השלך",
-      "english": "鸬鹚"
+      "gloss": "鸬鹚"
     },
     {
       "surface": "ואת",
-      "english": "以及 ⟨את⟩"
+      "gloss": "以及 ⟨את⟩"
     },
     {
       "surface": "הינשוף",
-      "english": "大鸮"
+      "gloss": "大鸮"
     }
-  ],
-  "timestamp": "2026-07-18T03:11:48.195150881Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 59:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 59,
-  "usage": {
-    "completion_tokens": 433,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64472,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64905
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:59:17.878131382Z",
   "translation": "把我从作孽之人的手中抢出来，从流血之人手中拯救我！",
   "tokens": [
     {
       "surface": "הצילני",
-      "english": "把我……抢出来"
+      "gloss": "把我……抢出来"
     },
     {
       "surface": "מפעלי",
-      "english": "从……行（作）者"
+      "gloss": "从……行（作）者"
     },
     {
       "surface": "און",
-      "english": "孽"
+      "gloss": "孽"
     },
     {
       "surface": "ומאנשי",
-      "english": "并从……之人"
+      "gloss": "并从……之人"
     },
     {
       "surface": "דמים",
-      "english": "流血"
+      "gloss": "流血"
     },
     {
       "surface": "הושיעני",
-      "english": "拯救我"
+      "gloss": "拯救我"
     }
-  ],
-  "timestamp": "2026-07-17T23:59:17.878131382Z",
-  "model": "glm-5.2"
+  ]
 }

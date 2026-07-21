@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 22,
   "ref": "exodus 26:22",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 322,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18292,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 18614
-  },
+  "verse": 22,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:28:07.837895267Z",
   "translation": "至于会幕后面的部分,即西面,你要做六块板。",
   "tokens": [
     {
       "surface": "וּֽ\/לְ\/יַרְכְּתֵ֥י",
-      "english": "至于……后面部分"
+      "gloss": "至于……后面部分"
     },
     {
       "surface": "הַ\/מִּשְׁכָּ֖ן",
-      "english": "会幕的"
+      "gloss": "会幕的"
     },
     {
       "surface": "יָ֑מָּ\/ה",
-      "english": "即海(西)面"
+      "gloss": "即海(西)面"
     },
     {
       "surface": "תַּעֲשֶׂ֖ה",
-      "english": "你要做"
+      "gloss": "你要做"
     },
     {
       "surface": "שִׁשָּׁ֥ה",
-      "english": "六"
+      "gloss": "六"
     },
     {
       "surface": "קְרָשִֽׁים",
-      "english": "块板"
+      "gloss": "块板"
     }
-  ],
-  "timestamp": "2026-07-17T18:28:07.837895267Z",
-  "model": "glm-5.2"
+  ]
 }

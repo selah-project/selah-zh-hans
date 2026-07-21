@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 27,
   "ref": "psalms 89:27",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 278,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64406,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64684
-  },
+  "verse": 27,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:03.090792728Z",
   "translation": "他必呼求我：⟨你是⟩我的父，我的以罗欣，我拯救的磐石。",
   "tokens": [
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "יקראני",
-      "english": "必呼求我"
+      "gloss": "必呼求我"
     },
     {
       "surface": "אבי",
-      "english": "我的父"
+      "gloss": "我的父"
     },
     {
       "surface": "אתה",
-      "english": "⟨你是⟩"
+      "gloss": "⟨你是⟩"
     },
     {
       "surface": "אלי",
-      "english": "我的以罗欣"
+      "gloss": "我的以罗欣"
     },
     {
       "surface": "וצור",
-      "english": "与磐石"
+      "gloss": "与磐石"
     },
     {
       "surface": "ישועתי",
-      "english": "我拯救的"
+      "gloss": "我拯救的"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:03.090792728Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "hosea 7:15",
   "book": "hosea",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 531,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21074,
-    "prompt_tokens_details": {
-      "cached_tokens": 19968
-    },
-    "total_tokens": 21605
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:14:28.972580027Z",
   "translation": "而我管教了他们，我坚固了他们的臂膀，他们却向我图谋恶。",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "而我"
+      "gloss": "而我"
     },
     {
       "surface": "יסרתי",
-      "english": "我管教了"
+      "gloss": "我管教了"
     },
     {
       "surface": "חזקתי",
-      "english": "我坚固了"
+      "gloss": "我坚固了"
     },
     {
       "surface": "זרועתם",
-      "english": "他们的臂膀"
+      "gloss": "他们的臂膀"
     },
     {
       "surface": "ואלי",
-      "english": "向我"
+      "gloss": "向我"
     },
     {
       "surface": "יחשבו",
-      "english": "他们图谋"
+      "gloss": "他们图谋"
     },
     {
       "surface": "רע",
-      "english": "恶"
+      "gloss": "恶"
     }
-  ],
-  "timestamp": "2026-07-17T23:14:28.972580027Z",
-  "model": "glm-5.2"
+  ]
 }

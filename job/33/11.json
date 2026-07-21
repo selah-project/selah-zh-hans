@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "job 33:11",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 343,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21501,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21844
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:05:29.036698858Z",
   "translation": "他 ⟨把⟩ 我的脚放在木枷中,他看守我的一切道路。",
   "tokens": [
     {
       "surface": "יָשֵׂם",
-      "english": "他放"
+      "gloss": "他放"
     },
     {
       "surface": "בַּ\/סַּד",
-      "english": "在木枷中"
+      "gloss": "在木枷中"
     },
     {
       "surface": "רַגְלָ֑\/י",
-      "english": "我的脚"
+      "gloss": "我的脚"
     },
     {
       "surface": "יִ֝שְׁמֹ֗ר",
-      "english": "他看守"
+      "gloss": "他看守"
     },
     {
       "surface": "כָּל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "אָרְחֹתָֽ\/י",
-      "english": "我的道路"
+      "gloss": "我的道路"
     }
-  ],
-  "timestamp": "2026-07-18T01:05:29.036698858Z",
-  "model": "glm-5.2"
+  ]
 }

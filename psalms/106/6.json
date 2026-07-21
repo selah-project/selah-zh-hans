@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 106:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 106,
-  "usage": {
-    "completion_tokens": 361,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64348,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64709
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:17:26.333939844Z",
   "translation": "我们与我们的列祖一同犯了罪,我们行了弯曲,我们行了恶。",
   "tokens": [
     {
       "surface": "חטאנו",
-      "english": "我们犯了罪"
+      "gloss": "我们犯了罪"
     },
     {
       "surface": "עם",
-      "english": "与……一同"
+      "gloss": "与……一同"
     },
     {
       "surface": "אבותינו",
-      "english": "我们的列祖"
+      "gloss": "我们的列祖"
     },
     {
       "surface": "העוינו",
-      "english": "我们行了弯曲"
+      "gloss": "我们行了弯曲"
     },
     {
       "surface": "הרשענו",
-      "english": "我们行了恶"
+      "gloss": "我们行了恶"
     }
-  ],
-  "timestamp": "2026-07-18T00:17:26.333939844Z",
-  "model": "glm-5.2"
+  ]
 }

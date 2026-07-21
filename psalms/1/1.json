@@ -1,84 +1,73 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 1:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 535,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65187,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65722
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-20T06:45:01.689339225Z",
   "translation": "何等快乐 ⟨是⟩那人，他不按恶人的计谋而行，不在罪人的道路上站立，不在讥诮者的座位上居住。",
   "tokens": [
     {
       "surface": "אשרי",
-      "english": "何等快乐"
+      "gloss": "何等快乐"
     },
     {
       "surface": "האיש",
-      "english": "那人"
+      "gloss": "那人"
     },
     {
       "surface": "אשר",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "הלך",
-      "english": "而行"
+      "gloss": "而行"
     },
     {
       "surface": "בעצת",
-      "english": "按……的计谋"
+      "gloss": "按……的计谋"
     },
     {
       "surface": "רשעים",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "ובדרך",
-      "english": "不在……的道路上"
+      "gloss": "不在……的道路上"
     },
     {
       "surface": "חטאים",
-      "english": "罪人"
+      "gloss": "罪人"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "עמד",
-      "english": "站立"
+      "gloss": "站立"
     },
     {
       "surface": "ובמושב",
-      "english": "不在……的座位上"
+      "gloss": "不在……的座位上"
     },
     {
       "surface": "לצים",
-      "english": "讥诮者"
+      "gloss": "讥诮者"
     },
     {
       "surface": "לא",
-      "english": "不"
+      "gloss": "不"
     },
     {
       "surface": "ישב",
-      "english": "居住"
+      "gloss": "居住"
     }
-  ],
-  "timestamp": "2026-07-20T06:45:01.689339225Z",
-  "model": "glm-5.2"
+  ]
 }

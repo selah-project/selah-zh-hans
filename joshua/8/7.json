@@ -1,65 +1,54 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "joshua 8:7",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 388,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18278,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18666
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:54:47.671299420Z",
   "translation": "你们要从埋伏中起来,占领⟨那⟩城;雅威你们的以罗欣必将它交在你们手中。",
   "tokens": [
     {
       "surface": "ואתם",
-      "english": "而你们"
+      "gloss": "而你们"
     },
     {
       "surface": "תקמו",
-      "english": "要起来"
+      "gloss": "要起来"
     },
     {
       "surface": "מהאורב",
-      "english": "从埋伏中"
+      "gloss": "从埋伏中"
     },
     {
       "surface": "והורשתם",
-      "english": "并占领"
+      "gloss": "并占领"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "那城"
     },
     {
       "surface": "העיר",
-      "english": "⟨那⟩城"
+      "gloss": "⟨那⟩城"
     },
     {
       "surface": "ונתנה",
-      "english": "而必将它交"
+      "gloss": "而必将它交"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהיכם",
-      "english": "你们的以罗欣"
+      "gloss": "你们的以罗欣"
     },
     {
       "surface": "בידכם",
-      "english": "在你们手中"
+      "gloss": "在你们手中"
     }
-  ],
-  "timestamp": "2026-07-17T19:54:47.671299420Z",
-  "model": "glm-5.2"
+  ]
 }

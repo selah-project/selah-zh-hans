@@ -1,36 +1,25 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 64:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 64,
-  "usage": {
-    "completion_tokens": 206,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64091,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64297
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:00:49.775421650Z",
   "translation": "致指挥者,一首大卫的诗歌",
   "tokens": [
     {
       "surface": "למנצח",
-      "english": "致指挥者"
+      "gloss": "致指挥者"
     },
     {
       "surface": "מזמור",
-      "english": "诗歌"
+      "gloss": "诗歌"
     },
     {
       "surface": "לדוד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     }
-  ],
-  "timestamp": "2026-07-18T00:00:49.775421650Z",
-  "model": "glm-5.2"
+  ]
 }

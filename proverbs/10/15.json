@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "proverbs 10:15",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 419,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54405,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 54824
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:37:24.309694571Z",
   "translation": "财富 ⟨是⟩ 富人的坚固城；穷乏人的恐惧 ⟨是⟩ 他们的贫穷。",
   "tokens": [
     {
       "surface": "הון",
-      "english": "财富"
+      "gloss": "财富"
     },
     {
       "surface": "עשיר",
-      "english": "富人"
+      "gloss": "富人"
     },
     {
       "surface": "קרית",
-      "english": "坚固城"
+      "gloss": "坚固城"
     },
     {
       "surface": "עזו",
-      "english": "他的力量"
+      "gloss": "他的力量"
     },
     {
       "surface": "מחתת",
-      "english": "恐惧"
+      "gloss": "恐惧"
     },
     {
       "surface": "דלים",
-      "english": "穷乏人的"
+      "gloss": "穷乏人的"
     },
     {
       "surface": "רישם",
-      "english": "他们的贫穷"
+      "gloss": "他们的贫穷"
     }
-  ],
-  "timestamp": "2026-07-18T00:37:24.309694571Z",
-  "model": "glm-5.2"
+  ]
 }

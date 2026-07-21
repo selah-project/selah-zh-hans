@@ -1,45 +1,37 @@
 {
-  "tier": "bulk",
-  "verse": 16,
   "ref": "1-chronicles 4:16",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 288,
-    "prompt_tokens": 58629,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 58917
-  },
+  "verse": 16,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:24.042675058Z",
   "translation": "耶哈利勒 ⟨的⟩ 儿子 ⟨是⟩ 西弗、西弗、提利亚、和 亚萨列。",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "耶哈利勒 ⟨的⟩ 儿子"
+      "gloss": "耶哈利勒 ⟨的⟩ 儿子"
     },
     {
       "surface": "יהללאל",
-      "english": "耶哈利勒"
+      "gloss": "耶哈利勒"
     },
     {
       "surface": "זיף",
-      "english": "西弗"
+      "gloss": "西弗"
     },
     {
       "surface": "וזיפה",
-      "english": "西弗"
+      "gloss": "西弗"
     },
     {
       "surface": "תיריא",
-      "english": "提利亚"
+      "gloss": "提利亚"
     },
     {
       "surface": "ואשראל",
-      "english": "和 亚萨列"
+      "gloss": "和 亚萨列"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:24.042675058Z",
-  "model": "glm-4.5"
+  ]
 }

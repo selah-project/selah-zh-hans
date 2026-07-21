@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 37,
   "ref": "psalms 89:37",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 89,
-  "usage": {
-    "completion_tokens": 444,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64357,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64801
-  },
+  "verse": 37,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:11:17.979555681Z",
   "translation": "他的后裔将存到永远,⟨而⟩他的宝座如太阳⟨一般⟩在我面前。",
   "tokens": [
     {
       "surface": "זַ֭רְע\/וֹ",
-      "english": "他的后裔"
+      "gloss": "他的后裔"
     },
     {
       "surface": "לְ\/עוֹלָ֣ם",
-      "english": "存到永远"
+      "gloss": "存到永远"
     },
     {
       "surface": "יִהְיֶ֑ה",
-      "english": "将是"
+      "gloss": "将是"
     },
     {
       "surface": "וְ\/כִסְא֖\/וֹ",
-      "english": "⟨而⟩他的宝座"
+      "gloss": "⟨而⟩他的宝座"
     },
     {
       "surface": "כַ\/שֶּׁ֣מֶשׁ",
-      "english": "如太阳"
+      "gloss": "如太阳"
     },
     {
       "surface": "נֶגְדִּֽ\/י",
-      "english": "在我面前"
+      "gloss": "在我面前"
     }
-  ],
-  "timestamp": "2026-07-18T00:11:17.979555681Z",
-  "model": "glm-5.2"
+  ]
 }

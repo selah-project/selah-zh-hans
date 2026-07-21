@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 42,
   "ref": "numbers 31:42",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 31,
-  "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19700,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20072
-  },
+  "verse": 42,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:23:00.179983219Z",
   "translation": "又从以色列子民的半份中——就是摩西从打仗的人中间分出来的——",
   "tokens": [
     {
       "surface": "ו מ מחצית",
-      "english": "又从……的半份中"
+      "gloss": "又从……的半份中"
     },
     {
       "surface": "בני",
-      "english": "子民"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "חצה",
-      "english": "分出来"
+      "gloss": "分出来"
     },
     {
       "surface": "משה",
-      "english": "摩西"
+      "gloss": "摩西"
     },
     {
       "surface": "מן",
-      "english": "从……中间"
+      "gloss": "从……中间"
     },
     {
       "surface": "האנשים",
-      "english": "人"
+      "gloss": "人"
     },
     {
       "surface": "הצבאים",
-      "english": "打仗的"
+      "gloss": "打仗的"
     }
-  ],
-  "timestamp": "2026-07-17T19:23:00.179983219Z",
-  "model": "glm-5.2"
+  ]
 }

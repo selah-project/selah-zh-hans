@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 70:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 70,
-  "usage": {
-    "completion_tokens": 505,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64641,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65146
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:03:23.869674803Z",
   "translation": "至于我,我是困苦贫穷的;以罗欣啊,求你快快到我这里来!你是⟨我的⟩帮助、⟨我的⟩拯救者;雅威啊,求你不要迟延!",
   "tokens": [
     {
       "surface": "ואני",
-      "english": "至于我"
+      "gloss": "至于我"
     },
     {
       "surface": "עני",
-      "english": "我是困苦的"
+      "gloss": "我是困苦的"
     },
     {
       "surface": "ואביון",
-      "english": "和贫穷的"
+      "gloss": "和贫穷的"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣啊"
+      "gloss": "以罗欣啊"
     },
     {
       "surface": "חושה",
-      "english": "求你快快"
+      "gloss": "求你快快"
     },
     {
       "surface": "לי",
-      "english": "到我这里来"
+      "gloss": "到我这里来"
     },
     {
       "surface": "עזרי",
-      "english": "⟨我的⟩帮助"
+      "gloss": "⟨我的⟩帮助"
     },
     {
       "surface": "ומפלטי",
-      "english": "⟨我的⟩拯救者"
+      "gloss": "⟨我的⟩拯救者"
     },
     {
       "surface": "אתה",
-      "english": "你是"
+      "gloss": "你是"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "gloss": "雅威啊"
     },
     {
       "surface": "אל",
-      "english": "求你不要"
+      "gloss": "求你不要"
     },
     {
       "surface": "תאחר",
-      "english": "迟延"
+      "gloss": "迟延"
     }
-  ],
-  "timestamp": "2026-07-18T00:03:23.869674803Z",
-  "model": "glm-5.2"
+  ]
 }

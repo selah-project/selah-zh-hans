@@ -1,69 +1,58 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "genesis 21:2",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 447,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23279,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23726
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:45:03.073729094Z",
   "translation": "撒拉怀孕,为亚伯拉罕生了一个儿子,在他年老的时候,在以罗欣⟨את⟩他所指定的时间。",
   "tokens": [
     {
       "surface": "ותהר",
-      "english": "怀孕"
+      "gloss": "怀孕"
     },
     {
       "surface": "ותלד",
-      "english": "生了"
+      "gloss": "生了"
     },
     {
       "surface": "שרה",
-      "english": "撒拉"
+      "gloss": "撒拉"
     },
     {
       "surface": "לאברהם",
-      "english": "为亚伯拉罕"
+      "gloss": "为亚伯拉罕"
     },
     {
       "surface": "בן",
-      "english": "一个儿子"
+      "gloss": "一个儿子"
     },
     {
       "surface": "לזקניו",
-      "english": "在他年老的时候"
+      "gloss": "在他年老的时候"
     },
     {
       "surface": "למועד",
-      "english": "在指定的时间"
+      "gloss": "在指定的时间"
     },
     {
       "surface": "אשר",
-      "english": "所"
+      "gloss": "所"
     },
     {
       "surface": "דבר",
-      "english": "指定的"
+      "gloss": "指定的"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     }
-  ],
-  "timestamp": "2026-07-17T17:45:03.073729094Z",
-  "model": "glm-5.2"
+  ]
 }

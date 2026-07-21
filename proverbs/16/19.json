@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "proverbs 16:19",
   "book": "proverbs",
-  "lang": "zh-Hans",
   "chapter": 16,
-  "usage": {
-    "completion_tokens": 451,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 54662,
-    "prompt_tokens_details": {
-      "cached_tokens": 53376
-    },
-    "total_tokens": 55113
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:40:40.989284937Z",
   "translation": "灵里谦卑、与 ⟨את⟩ 贫穷人同在,比与 ⟨את⟩ 骄傲人分赃物更好。",
   "tokens": [
     {
       "surface": "טוב",
-      "english": "更好"
+      "gloss": "更好"
     },
     {
       "surface": "שפל",
-      "english": "谦卑"
+      "gloss": "谦卑"
     },
     {
       "surface": "רוח",
-      "english": "灵里"
+      "gloss": "灵里"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "贫穷人"
     },
     {
       "surface": "עניים",
-      "english": "贫穷人"
+      "gloss": "贫穷人"
     },
     {
       "surface": "מחלק",
-      "english": "分"
+      "gloss": "分"
     },
     {
       "surface": "שלל",
-      "english": "赃物"
+      "gloss": "赃物"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "骄傲人"
     },
     {
       "surface": "גאים",
-      "english": "骄傲人"
+      "gloss": "骄傲人"
     }
-  ],
-  "timestamp": "2026-07-18T00:40:40.989284937Z",
-  "model": "glm-5.2"
+  ]
 }

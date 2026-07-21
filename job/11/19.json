@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 19,
   "ref": "job 11:19",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 11,
-  "usage": {
-    "completion_tokens": 422,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21525,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21947
-  },
+  "verse": 19,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T03:06:10.745412802Z",
   "translation": "你必躺卧,无人惊吓,许多人会恳求⟨你的⟩面。",
   "tokens": [
     {
       "surface": "וְֽרָבַצְתָּ",
-      "english": "你必躺卧"
+      "gloss": "你必躺卧"
     },
     {
       "surface": "וְאֵין",
-      "english": "无人"
+      "gloss": "无人"
     },
     {
       "surface": "מַחֲרִיד",
-      "english": "惊吓"
+      "gloss": "惊吓"
     },
     {
       "surface": "וְחִלּוּ",
-      "english": "会恳求"
+      "gloss": "会恳求"
     },
     {
       "surface": "פָנֶיךָ",
-      "english": "⟨你的⟩面"
+      "gloss": "⟨你的⟩面"
     },
     {
       "surface": "רַבִּים",
-      "english": "许多"
+      "gloss": "许多"
     }
-  ],
-  "timestamp": "2026-07-18T03:06:10.745412802Z",
-  "model": "glm-5.2"
+  ]
 }

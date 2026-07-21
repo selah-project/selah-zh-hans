@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "1-chronicles 10:6",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 338,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58609,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58947
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:59:40.227363837Z",
   "translation": "扫罗死了,他的三个儿子,以及他的全家——他们一起死了。",
   "tokens": [
     {
       "surface": "וימת",
-      "english": "⟨于是⟩死了"
+      "gloss": "⟨于是⟩死了"
     },
     {
       "surface": "שאול",
-      "english": "扫罗"
+      "gloss": "扫罗"
     },
     {
       "surface": "ושלשת",
-      "english": "以及三个"
+      "gloss": "以及三个"
     },
     {
       "surface": "בניו",
-      "english": "他的儿子"
+      "gloss": "他的儿子"
     },
     {
       "surface": "וכל",
-      "english": "以及全"
+      "gloss": "以及全"
     },
     {
       "surface": "ביתו",
-      "english": "他的家"
+      "gloss": "他的家"
     },
     {
       "surface": "יחדו",
-      "english": "一起"
+      "gloss": "一起"
     },
     {
       "surface": "מתו",
-      "english": "他们死了"
+      "gloss": "他们死了"
     }
-  ],
-  "timestamp": "2026-07-18T01:59:40.227363837Z",
-  "model": "glm-5.2"
+  ]
 }

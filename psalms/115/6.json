@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 6,
   "ref": "psalms 115:6",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 115,
-  "usage": {
-    "completion_tokens": 346,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64455,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64801
-  },
+  "verse": 6,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:20:51.628120257Z",
   "translation": "它们有耳朵，却不听从；它们有鼻子，却不闻嗅：",
   "tokens": [
     {
       "surface": "אזנים",
-      "english": "耳朵"
+      "gloss": "耳朵"
     },
     {
       "surface": "להם",
-      "english": "它们有"
+      "gloss": "它们有"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "ישמעו",
-      "english": "听从"
+      "gloss": "听从"
     },
     {
       "surface": "אף",
-      "english": "鼻子"
+      "gloss": "鼻子"
     },
     {
       "surface": "להם",
-      "english": "它们有"
+      "gloss": "它们有"
     },
     {
       "surface": "ולא",
-      "english": "却不"
+      "gloss": "却不"
     },
     {
       "surface": "יריחון",
-      "english": "闻嗅"
+      "gloss": "闻嗅"
     }
-  ],
-  "timestamp": "2026-07-18T00:20:51.628120257Z",
-  "model": "glm-5.2"
+  ]
 }

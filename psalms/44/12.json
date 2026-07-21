@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 44:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 44,
-  "usage": {
-    "completion_tokens": 305,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64619
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:54:10.550998685Z",
   "translation": "你将我们交出如同可吃的羊群，并在列国中驱散了我们。",
   "tokens": [
     {
       "surface": "תתננו",
-      "english": "你将我们交出"
+      "gloss": "你将我们交出"
     },
     {
       "surface": "כצאן",
-      "english": "如同羊群"
+      "gloss": "如同羊群"
     },
     {
       "surface": "מאכל",
-      "english": "可吃的"
+      "gloss": "可吃的"
     },
     {
       "surface": "ובגוים",
-      "english": "并在列国中"
+      "gloss": "并在列国中"
     },
     {
       "surface": "זריתנו",
-      "english": "你驱散了我们"
+      "gloss": "你驱散了我们"
     }
-  ],
-  "timestamp": "2026-07-17T23:54:10.550998685Z",
-  "model": "glm-5.2"
+  ]
 }

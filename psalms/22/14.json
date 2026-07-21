@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 22:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 500,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64384,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64884
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:46:13.054027623Z",
   "translation": "他们向我张开 ⟨את⟩他们的口，一头撕裂 ⟨的⟩狮子，⟨在⟩咆哮。",
   "tokens": [
     {
       "surface": "פָּצ֣וּ",
-      "english": "他们张开"
+      "gloss": "他们张开"
     },
     {
       "surface": "עָלַ֣\/י",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "פִּי\/הֶ֑ם",
-      "english": "⟨את⟩他们的口",
+      "gloss": "⟨את⟩他们的口",
       "marks": "他们的口"
     },
     {
       "surface": "אַ֝רְיֵ֗ה",
-      "english": "一头狮子"
+      "gloss": "一头狮子"
     },
     {
       "surface": "טֹרֵ֥ף",
-      "english": "撕裂"
+      "gloss": "撕裂"
     },
     {
       "surface": "וְ\/שֹׁאֵֽג",
-      "english": "⟨在⟩咆哮"
+      "gloss": "⟨在⟩咆哮"
     }
-  ],
-  "timestamp": "2026-07-17T23:46:13.054027623Z",
-  "model": "glm-5.2"
+  ]
 }

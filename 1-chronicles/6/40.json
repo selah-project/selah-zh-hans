@@ -1,62 +1,51 @@
 {
-  "tier": "glm-5.2",
-  "verse": 40,
   "ref": "1-chronicles 6:40",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 6,
-  "usage": {
-    "completion_tokens": 375,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58960,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59335
-  },
+  "verse": 40,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:55:33.756557009Z",
   "translation": "他们给了他们⟨את⟩希伯仑，在犹大地，以及⟨את⟩它的草场和它周围的牧场。",
   "tokens": [
     {
       "surface": "ויתנו",
-      "english": "他们给了"
+      "gloss": "他们给了"
     },
     {
       "surface": "להם",
-      "english": "他们"
+      "gloss": "他们"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "希伯仑"
     },
     {
       "surface": "חברון",
-      "english": "希伯仑"
+      "gloss": "希伯仑"
     },
     {
       "surface": "בארץ",
-      "english": "在……地"
+      "gloss": "在……地"
     },
     {
       "surface": "יהודה",
-      "english": "犹大"
+      "gloss": "犹大"
     },
     {
       "surface": "ואת",
-      "english": "以及⟨את⟩",
+      "gloss": "以及⟨את⟩",
       "marks": "它的草场"
     },
     {
       "surface": "מגרשיה",
-      "english": "它的草场"
+      "gloss": "它的草场"
     },
     {
       "surface": "סביבתיה",
-      "english": "它周围的牧场"
+      "gloss": "它周围的牧场"
     }
-  ],
-  "timestamp": "2026-07-18T01:55:33.756557009Z",
-  "model": "glm-5.2"
+  ]
 }

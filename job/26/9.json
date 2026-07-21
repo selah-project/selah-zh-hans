@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "job 26:9",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 26,
-  "usage": {
-    "completion_tokens": 351,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21526,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21877
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:35.256030429Z",
   "translation": "他遮蔽宝座的 ⟨פני⟩,在其上铺展他的云。",
   "tokens": [
     {
       "surface": "מאחז",
-      "english": "他遮蔽"
+      "gloss": "他遮蔽"
     },
     {
       "surface": "פני",
-      "english": "⟨פני⟩"
+      "gloss": "⟨פני⟩"
     },
     {
       "surface": "כסה",
-      "english": "宝座"
+      "gloss": "宝座"
     },
     {
       "surface": "פרשז",
-      "english": "铺展"
+      "gloss": "铺展"
     },
     {
       "surface": "עליו",
-      "english": "在其上"
+      "gloss": "在其上"
     },
     {
       "surface": "עננו",
-      "english": "他的云"
+      "gloss": "他的云"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:35.256030429Z",
-  "model": "glm-5.2"
+  ]
 }

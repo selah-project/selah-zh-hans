@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "ezra 1:9",
   "book": "ezra",
-  "lang": "zh-Hans",
   "chapter": 1,
-  "usage": {
-    "completion_tokens": 393,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 46900,
-    "prompt_tokens_details": {
-      "cached_tokens": 45376
-    },
-    "total_tokens": 47293
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:36:52.147451953Z",
   "translation": "而这些是它们的数目：金盘三十、银盘一千、刀二十九。",
   "tokens": [
     {
       "surface": "ואלה",
-      "english": "而这些是"
+      "gloss": "而这些是"
     },
     {
       "surface": "מספרם",
-      "english": "它们的数目"
+      "gloss": "它们的数目"
     },
     {
       "surface": "אגרטלי",
-      "english": "金"
+      "gloss": "金"
     },
     {
       "surface": "זהב",
-      "english": "盘三十"
+      "gloss": "盘三十"
     },
     {
       "surface": "שלשים",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "אגרטלי",
-      "english": "银"
+      "gloss": "银"
     },
     {
       "surface": "כסף",
-      "english": "盘一千"
+      "gloss": "盘一千"
     },
     {
       "surface": "אלף",
-      "english": ""
+      "gloss": ""
     },
     {
       "surface": "מחלפים",
-      "english": "刀"
+      "gloss": "刀"
     },
     {
       "surface": "תשעה",
-      "english": "二十九"
+      "gloss": "二十九"
     },
     {
       "surface": "ועשרים",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-18T01:36:52.147451953Z",
-  "model": "glm-5.2"
+  ]
 }

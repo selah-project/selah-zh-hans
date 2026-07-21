@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "1-chronicles 14:9",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 14,
-  "usage": {
-    "completion_tokens": 243,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58420,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 58663
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:02:29.308095473Z",
   "translation": "非利士人来了，在拉法伊谷中展开（部署）。",
   "tokens": [
     {
       "surface": "ופלשתים",
-      "english": "而非利士人"
+      "gloss": "而非利士人"
     },
     {
       "surface": "באו",
-      "english": "来了"
+      "gloss": "来了"
     },
     {
       "surface": "ויפשטו",
-      "english": "并展开（部署）"
+      "gloss": "并展开（部署）"
     },
     {
       "surface": "בעמק",
-      "english": "在谷中"
+      "gloss": "在谷中"
     },
     {
       "surface": "רפאים",
-      "english": "拉法伊"
+      "gloss": "拉法伊"
     }
-  ],
-  "timestamp": "2026-07-18T02:02:29.308095473Z",
-  "model": "glm-5.2"
+  ]
 }

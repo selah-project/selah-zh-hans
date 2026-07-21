@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 31,
   "ref": "numbers 28:31",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 28,
-  "usage": {
-    "completion_tokens": 390,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19708,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 20098
-  },
+  "verse": 31,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:45:28.856958258Z",
   "translation": "在常献的燔祭和它的素祭之外,你们要献上它们;它们对你们应当是无瑕疵的,连同它们的奠祭。",
   "tokens": [
     {
       "surface": "מלבד",
-      "english": "在……之外"
+      "gloss": "在……之外"
     },
     {
       "surface": "עלת",
-      "english": "燔祭"
+      "gloss": "燔祭"
     },
     {
       "surface": "התמיד",
-      "english": "常献的"
+      "gloss": "常献的"
     },
     {
       "surface": "ומנחתו",
-      "english": "和它的素祭"
+      "gloss": "和它的素祭"
     },
     {
       "surface": "תעשו",
-      "english": "你们要献上"
+      "gloss": "你们要献上"
     },
     {
       "surface": "תמימם",
-      "english": "无瑕疵的"
+      "gloss": "无瑕疵的"
     },
     {
       "surface": "יהיו",
-      "english": "它们应当是"
+      "gloss": "它们应当是"
     },
     {
       "surface": "לכם",
-      "english": "对你们"
+      "gloss": "对你们"
     },
     {
       "surface": "ונסכיהם",
-      "english": "和它们的奠祭"
+      "gloss": "和它们的奠祭"
     }
-  ],
-  "timestamp": "2026-07-18T02:45:28.856958258Z",
-  "model": "glm-5.2"
+  ]
 }

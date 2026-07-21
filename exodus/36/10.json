@@ -1,77 +1,66 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "exodus 36:10",
   "book": "exodus",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 404,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18885,
-    "prompt_tokens_details": {
-      "cached_tokens": 17344
-    },
-    "total_tokens": 19289
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:36:34.019663718Z",
   "translation": "他将⟨את⟩五幅幔子一幅连接到一幅；又将五幅幔子连接，一幅到一幅。",
   "tokens": [
     {
       "surface": "ויחבר",
-      "english": "他将……连接"
+      "gloss": "他将……连接"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "五幅幔子"
     },
     {
       "surface": "חמש",
-      "english": "五"
+      "gloss": "五"
     },
     {
       "surface": "היריעת",
-      "english": "幅幔子"
+      "gloss": "幅幔子"
     },
     {
       "surface": "אחת",
-      "english": "一幅"
+      "gloss": "一幅"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אחת",
-      "english": "一幅"
+      "gloss": "一幅"
     },
     {
       "surface": "וחמש",
-      "english": "又将五幅"
+      "gloss": "又将五幅"
     },
     {
       "surface": "יריעת",
-      "english": "幔子"
+      "gloss": "幔子"
     },
     {
       "surface": "חבר",
-      "english": "连接了"
+      "gloss": "连接了"
     },
     {
       "surface": "אחת",
-      "english": "一幅"
+      "gloss": "一幅"
     },
     {
       "surface": "אל",
-      "english": "到"
+      "gloss": "到"
     },
     {
       "surface": "אחת",
-      "english": "一幅"
+      "gloss": "一幅"
     }
-  ],
-  "timestamp": "2026-07-17T18:36:34.019663718Z",
-  "model": "glm-5.2"
+  ]
 }

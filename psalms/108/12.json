@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "psalms 108:12",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 108,
-  "usage": {
-    "completion_tokens": 385,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64441,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64826
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:18:57.902360177Z",
   "translation": "难道不是⟨你⟩，以罗欣，弃绝了我们吗？而且以罗欣不与我们的军队一同出击吗？",
   "tokens": [
     {
       "surface": "הלא",
-      "english": "难道不"
+      "gloss": "难道不"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "זנחתנו",
-      "english": "⟨你⟩弃绝了我们"
+      "gloss": "⟨你⟩弃绝了我们"
     },
     {
       "surface": "ולא",
-      "english": "而且不"
+      "gloss": "而且不"
     },
     {
       "surface": "תצא",
-      "english": "⟨你⟩出击"
+      "gloss": "⟨你⟩出击"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "בצבאתינו",
-      "english": "与我们的军队"
+      "gloss": "与我们的军队"
     }
-  ],
-  "timestamp": "2026-07-18T00:18:57.902360177Z",
-  "model": "glm-5.2"
+  ]
 }

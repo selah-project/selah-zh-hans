@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "lamentations 3:12",
   "book": "lamentations",
-  "lang": "zh-Hans",
   "chapter": 3,
-  "usage": {
-    "completion_tokens": 249,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 33428,
-    "prompt_tokens_details": {
-      "cached_tokens": 32576
-    },
-    "total_tokens": 33677
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:16:30.882531777Z",
   "translation": "他张开了弓,将我设立 ⟨作⟩ 靶子, ⟨给⟩ 箭。",
   "tokens": [
     {
       "surface": "דרך",
-      "english": "他张开了"
+      "gloss": "他张开了"
     },
     {
       "surface": "קשתו",
-      "english": "弓"
+      "gloss": "弓"
     },
     {
       "surface": "ויציבני",
-      "english": "将我设立 ⟨作⟩"
+      "gloss": "将我设立 ⟨作⟩"
     },
     {
       "surface": "כמטרא",
-      "english": "靶子"
+      "gloss": "靶子"
     },
     {
       "surface": "לחץ",
-      "english": "⟨给⟩ 箭"
+      "gloss": "⟨给⟩ 箭"
     }
-  ],
-  "timestamp": "2026-07-18T01:16:30.882531777Z",
-  "model": "glm-5.2"
+  ]
 }

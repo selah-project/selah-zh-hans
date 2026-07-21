@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 11,
   "ref": "numbers 33:11",
   "book": "numbers",
-  "lang": "zh-Hans",
   "chapter": 33,
-  "usage": {
-    "completion_tokens": 251,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19320,
-    "prompt_tokens_details": {
-      "cached_tokens": 18496
-    },
-    "total_tokens": 19571
-  },
+  "verse": 11,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:24:40.382000456Z",
   "translation": "他们从芦苇海起行,在罪因旷野安营。",
   "tokens": [
     {
       "surface": "ויסעו",
-      "english": "他们起行"
+      "gloss": "他们起行"
     },
     {
       "surface": "מים",
-      "english": "海"
+      "gloss": "海"
     },
     {
       "surface": "סוף",
-      "english": "芦苇"
+      "gloss": "芦苇"
     },
     {
       "surface": "ויחנו",
-      "english": "他们安营"
+      "gloss": "他们安营"
     },
     {
       "surface": "במדבר",
-      "english": "在旷野"
+      "gloss": "在旷野"
     },
     {
       "surface": "סין",
-      "english": "罪因"
+      "gloss": "罪因"
     }
-  ],
-  "timestamp": "2026-07-17T19:24:40.382000456Z",
-  "model": "glm-5.2"
+  ]
 }

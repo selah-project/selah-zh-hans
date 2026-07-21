@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-kings 4:10",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 468,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 63868,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 64336
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:59:42.170581656Z",
   "translation": "本-赫塞德 ⟨在⟩ 亚鲁泊;לוֹ (属他) ⟨有⟩ 梭哥 וכל (和全) 赫弗 אֶרֶץ (之地)。",
   "tokens": [
     {
       "surface": "בן",
-      "english": "本-"
+      "gloss": "本-"
     },
     {
       "surface": "חסד",
-      "english": "赫塞德"
+      "gloss": "赫塞德"
     },
     {
       "surface": "בארבות",
-      "english": "⟨在⟩ 亚鲁泊"
+      "gloss": "⟨在⟩ 亚鲁泊"
     },
     {
       "surface": "לו",
-      "english": "לוֹ (属他)"
+      "gloss": "לוֹ (属他)"
     },
     {
       "surface": "שכה",
-      "english": "⟨有⟩ 梭哥"
+      "gloss": "⟨有⟩ 梭哥"
     },
     {
       "surface": "וכל",
-      "english": "וכל (和全)"
+      "gloss": "וכל (和全)"
     },
     {
       "surface": "ארץ",
-      "english": "אֶרֶץ (之地)"
+      "gloss": "אֶרֶץ (之地)"
     },
     {
       "surface": "חפר",
-      "english": "赫弗"
+      "gloss": "赫弗"
     }
-  ],
-  "timestamp": "2026-07-17T20:59:42.170581656Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "amos 7:15",
   "book": "amos",
-  "lang": "zh-Hans",
   "chapter": 7,
-  "usage": {
-    "completion_tokens": 354,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18413,
-    "prompt_tokens_details": {
-      "cached_tokens": 16896
-    },
-    "total_tokens": 18767
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:21:51.451064474Z",
   "translation": "雅威将我从羊群后带走;雅威对我说:去吧,向我民以色列说预言。",
   "tokens": [
     {
       "surface": "ויקחני",
-      "english": "将我……带走"
+      "gloss": "将我……带走"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "מאחרי",
-      "english": "从……之后"
+      "gloss": "从……之后"
     },
     {
       "surface": "הצאן",
-      "english": "羊群"
+      "gloss": "羊群"
     },
     {
       "surface": "ויאמר",
-      "english": "说"
+      "gloss": "说"
     },
     {
       "surface": "אלי",
-      "english": "对我"
+      "gloss": "对我"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לך",
-      "english": "去吧"
+      "gloss": "去吧"
     },
     {
       "surface": "הנבא",
-      "english": "说预言"
+      "gloss": "说预言"
     },
     {
       "surface": "אל",
-      "english": "向"
+      "gloss": "向"
     },
     {
       "surface": "עמי",
-      "english": "我民"
+      "gloss": "我民"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T23:21:51.451064474Z",
-  "model": "glm-5.2"
+  ]
 }

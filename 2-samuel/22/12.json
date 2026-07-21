@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "2-samuel 22:12",
   "book": "2-samuel",
-  "lang": "zh-Hans",
   "chapter": 22,
-  "usage": {
-    "completion_tokens": 558,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18843,
-    "prompt_tokens_details": {
-      "cached_tokens": 17664
-    },
-    "total_tokens": 19401
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:54:02.019890854Z",
   "translation": "他放置 ⟨את⟩ 黑暗 ⟨为⟩ 他的四围， ⟨为⟩ 棚帐，水之汇聚，厚云。",
   "tokens": [
     {
       "surface": "וישת",
-      "english": "他放置"
+      "gloss": "他放置"
     },
     {
       "surface": "חשך",
-      "english": "⟨את⟩ 黑暗"
+      "gloss": "⟨את⟩ 黑暗"
     },
     {
       "surface": "סביבתיו",
-      "english": "他的四围"
+      "gloss": "他的四围"
     },
     {
       "surface": "סכות",
-      "english": "棚帐"
+      "gloss": "棚帐"
     },
     {
       "surface": "חשרת",
-      "english": "汇聚"
+      "gloss": "汇聚"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "עבי",
-      "english": "厚"
+      "gloss": "厚"
     },
     {
       "surface": "שחקים",
-      "english": "云"
+      "gloss": "云"
     }
-  ],
-  "timestamp": "2026-07-17T20:54:02.019890854Z",
-  "model": "glm-5.2"
+  ]
 }

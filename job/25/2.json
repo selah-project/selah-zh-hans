@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "job 25:2",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 25,
-  "usage": {
-    "completion_tokens": 304,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21479,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21783
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:01:24.086295372Z",
   "translation": "权柄与可畏 ⟨与他同在⟩；⟨他⟩在高处制造和平。",
   "tokens": [
     {
       "surface": "המשל",
-      "english": "权柄"
+      "gloss": "权柄"
     },
     {
       "surface": "ופחד",
-      "english": "与可畏"
+      "gloss": "与可畏"
     },
     {
       "surface": "עמו",
-      "english": "⟨与他同在⟩"
+      "gloss": "⟨与他同在⟩"
     },
     {
       "surface": "עשה",
-      "english": "⟨他⟩制造"
+      "gloss": "⟨他⟩制造"
     },
     {
       "surface": "שלום",
-      "english": "和平"
+      "gloss": "和平"
     },
     {
       "surface": "במרומיו",
-      "english": "在高处"
+      "gloss": "在高处"
     }
-  ],
-  "timestamp": "2026-07-18T01:01:24.086295372Z",
-  "model": "glm-5.2"
+  ]
 }

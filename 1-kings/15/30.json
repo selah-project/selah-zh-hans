@@ -1,90 +1,79 @@
 {
-  "tier": "glm-5.2",
-  "verse": 30,
   "ref": "1-kings 15:30",
   "book": "1-kings",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 604,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 65035,
-    "prompt_tokens_details": {
-      "cached_tokens": 62784
-    },
-    "total_tokens": 65639
-  },
+  "verse": 30,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:09:56.205301323Z",
   "translation": "因耶罗波安所犯的罪——他犯了的罪，以及他使以色列所犯的罪——凭他惹怒⟨את⟩以色列的以罗欣雅威的激怒",
   "tokens": [
     {
       "surface": "על",
-      "english": "因"
+      "gloss": "因"
     },
     {
       "surface": "חטאות",
-      "english": "……的罪"
+      "gloss": "……的罪"
     },
     {
       "surface": "ירבעם",
-      "english": "耶罗波安"
+      "gloss": "耶罗波安"
     },
     {
       "surface": "אשר",
-      "english": "他所犯的"
+      "gloss": "他所犯的"
     },
     {
       "surface": "חטא",
-      "english": "他犯了的罪"
+      "gloss": "他犯了的罪"
     },
     {
       "surface": "ואשר",
-      "english": "以及"
+      "gloss": "以及"
     },
     {
       "surface": "החטיא",
-      "english": "他使……所犯的罪"
+      "gloss": "他使……所犯的罪"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     },
     {
       "surface": "בכעסו",
-      "english": "凭他的激怒"
+      "gloss": "凭他的激怒"
     },
     {
       "surface": "אשר",
-      "english": "他所惹的"
+      "gloss": "他所惹的"
     },
     {
       "surface": "הכעיס",
-      "english": "他惹怒了"
+      "gloss": "他惹怒了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "אלהי",
-      "english": "以色列的以罗欣"
+      "gloss": "以色列的以罗欣"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-17T21:09:56.205301323Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,67 +1,56 @@
 {
-  "tier": "glm-5.2",
-  "verse": 10,
   "ref": "1-chronicles 8:10",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 397,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 58977,
-    "prompt_tokens_details": {
-      "cached_tokens": 57536
-    },
-    "total_tokens": 59374
-  },
+  "verse": 10,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:57:39.637621165Z",
   "translation": "还有⟨את⟩耶乌斯、⟨את⟩沙基雅、⟨את⟩密玛。这些是他的儿子们，⟨是⟩父系的族长们。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "耶乌斯"
     },
     {
       "surface": "יעוץ",
-      "english": "耶乌斯"
+      "gloss": "耶乌斯"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "沙基雅"
     },
     {
       "surface": "שכיה",
-      "english": "沙基雅"
+      "gloss": "沙基雅"
     },
     {
       "surface": "ואת",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "密玛"
     },
     {
       "surface": "מרמה",
-      "english": "密玛"
+      "gloss": "密玛"
     },
     {
       "surface": "אלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "בניו",
-      "english": "是他的儿子们"
+      "gloss": "是他的儿子们"
     },
     {
       "surface": "ראשי",
-      "english": "族长们"
+      "gloss": "族长们"
     },
     {
       "surface": "אבות",
-      "english": "父系的"
+      "gloss": "父系的"
     }
-  ],
-  "timestamp": "2026-07-18T01:57:39.637621165Z",
-  "model": "glm-5.2"
+  ]
 }

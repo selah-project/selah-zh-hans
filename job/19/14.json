@@ -1,40 +1,29 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "job 19:14",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 282,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21355,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 21637
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:58:17.197037371Z",
   "translation": "我的近亲停止了⟨关怀⟩，我的密友忘记了我。",
   "tokens": [
     {
       "surface": "חדלו",
-      "english": "停止了"
+      "gloss": "停止了"
     },
     {
       "surface": "קרובי",
-      "english": "我的近亲"
+      "gloss": "我的近亲"
     },
     {
       "surface": "ומידעי",
-      "english": "我的密友"
+      "gloss": "我的密友"
     },
     {
       "surface": "שכחוני",
-      "english": "忘记了我"
+      "gloss": "忘记了我"
     }
-  ],
-  "timestamp": "2026-07-18T00:58:17.197037371Z",
-  "model": "glm-5.2"
+  ]
 }

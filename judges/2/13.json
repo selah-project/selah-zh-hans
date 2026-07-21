@@ -1,49 +1,38 @@
 {
-  "tier": "glm-5.2",
-  "verse": 13,
   "ref": "judges 2:13",
   "book": "judges",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 325,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17727,
-    "prompt_tokens_details": {
-      "cached_tokens": 16640
-    },
-    "total_tokens": 18052
-  },
+  "verse": 13,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:06:56.166045481Z",
   "translation": "他们就离弃了⟨את⟩雅威,事奉巴力⟨和⟩众阿施塔特。",
   "tokens": [
     {
       "surface": "ויעזבו",
-      "english": "他们就离弃了"
+      "gloss": "他们就离弃了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "雅威"
     },
     {
       "surface": "יהוה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "ויעבדו",
-      "english": "事奉"
+      "gloss": "事奉"
     },
     {
       "surface": "לבעל",
-      "english": "巴力"
+      "gloss": "巴力"
     },
     {
       "surface": "ולעשתרות",
-      "english": "⟨和⟩众阿施塔特"
+      "gloss": "⟨和⟩众阿施塔特"
     }
-  ],
-  "timestamp": "2026-07-17T20:06:56.166045481Z",
-  "model": "glm-5.2"
+  ]
 }

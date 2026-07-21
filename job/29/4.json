@@ -1,56 +1,45 @@
 {
-  "tier": "glm-5.2",
-  "verse": 4,
   "ref": "job 29:4",
   "book": "job",
-  "lang": "zh-Hans",
   "chapter": 29,
-  "usage": {
-    "completion_tokens": 520,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21638,
-    "prompt_tokens_details": {
-      "cached_tokens": 20608
-    },
-    "total_tokens": 22158
-  },
+  "verse": 4,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:03:01.794966498Z",
   "translation": "正如我在我⟨的⟩秋日⟨（壮年）⟩之时,当以罗哈(*Eloah*)的隐密议会(סוֹד)在我的帐棚之上⟨临到⟩:",
   "tokens": [
     {
       "surface": "כאשר",
-      "english": "正如"
+      "gloss": "正如"
     },
     {
       "surface": "הייתי",
-      "english": "我是"
+      "gloss": "我是"
     },
     {
       "surface": "בימי",
-      "english": "在我⟨的⟩……之日"
+      "gloss": "在我⟨的⟩……之日"
     },
     {
       "surface": "חרפי",
-      "english": "我的秋日⟨（壮年）⟩"
+      "gloss": "我的秋日⟨（壮年）⟩"
     },
     {
       "surface": "בסוד",
-      "english": "在……的隐密议会(סוֹד)中"
+      "gloss": "在……的隐密议会(סוֹד)中"
     },
     {
       "surface": "אלוה",
-      "english": "以罗哈(*Eloah*)"
+      "gloss": "以罗哈(*Eloah*)"
     },
     {
       "surface": "עלי",
-      "english": "在我……之上"
+      "gloss": "在我……之上"
     },
     {
       "surface": "אהלי",
-      "english": "我的帐棚"
+      "gloss": "我的帐棚"
     }
-  ],
-  "timestamp": "2026-07-18T01:03:01.794966498Z",
-  "model": "glm-5.2"
+  ]
 }

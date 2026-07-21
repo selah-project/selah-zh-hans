@@ -1,44 +1,33 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 122:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 122,
-  "usage": {
-    "completion_tokens": 283,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64335,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64618
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:25:22.258764132Z",
   "translation": "我们的脚站立着,在⟨你的⟩城门内,耶路撒冷!",
   "tokens": [
     {
       "surface": "עמדות",
-      "english": "站立着"
+      "gloss": "站立着"
     },
     {
       "surface": "היו",
-      "english": "⟨它们已是⟩"
+      "gloss": "⟨它们已是⟩"
     },
     {
       "surface": "רגלינו",
-      "english": "我们的脚"
+      "gloss": "我们的脚"
     },
     {
       "surface": "בשעריך",
-      "english": "在⟨你的⟩城门内"
+      "gloss": "在⟨你的⟩城门内"
     },
     {
       "surface": "ירושלם",
-      "english": "耶路撒冷"
+      "gloss": "耶路撒冷"
     }
-  ],
-  "timestamp": "2026-07-18T00:25:22.258764132Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "leviticus 15:8",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 15,
-  "usage": {
-    "completion_tokens": 457,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19306,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19763
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T02:42:55.015150555Z",
   "translation": "若患漏症者 spit 在洁净的人身上，他要洗自己的衣服，并在水中洗澡，不洁净直到晚上。",
   "tokens": [
     {
       "surface": "וכי",
-      "english": "若"
+      "gloss": "若"
     },
     {
       "surface": "ירק",
-      "english": "吐唾沫"
+      "gloss": "吐唾沫"
     },
     {
       "surface": "הזב",
-      "english": "患漏症者"
+      "gloss": "患漏症者"
     },
     {
       "surface": "בטהור",
-      "english": "在洁净的人身上"
+      "gloss": "在洁净的人身上"
     },
     {
       "surface": "וכבס",
-      "english": "他要洗"
+      "gloss": "他要洗"
     },
     {
       "surface": "בגדיו",
-      "english": "自己的衣服"
+      "gloss": "自己的衣服"
     },
     {
       "surface": "ורחץ",
-      "english": "并洗澡"
+      "gloss": "并洗澡"
     },
     {
       "surface": "במים",
-      "english": "在水中"
+      "gloss": "在水中"
     },
     {
       "surface": "וטמא",
-      "english": "不洁净"
+      "gloss": "不洁净"
     },
     {
       "surface": "עד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "הערב",
-      "english": "晚上"
+      "gloss": "晚上"
     }
-  ],
-  "timestamp": "2026-07-18T02:42:55.015150555Z",
-  "model": "glm-5.2"
+  ]
 }

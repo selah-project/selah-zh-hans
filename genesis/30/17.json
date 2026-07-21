@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 30:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 30,
-  "usage": {
-    "completion_tokens": 297,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22972,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23269
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:52:51.715512971Z",
   "translation": "以罗欣垂听了利亚,她就怀孕,给雅各生了⟨一个⟩第五个儿子。",
   "tokens": [
     {
       "surface": "וישמע",
-      "english": "垂听了"
+      "gloss": "垂听了"
     },
     {
       "surface": "אלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "אל",
-      "english": "⟨垂听⟩"
+      "gloss": "⟨垂听⟩"
     },
     {
       "surface": "לאה",
-      "english": "利亚"
+      "gloss": "利亚"
     },
     {
       "surface": "ותהר",
-      "english": "她就怀孕"
+      "gloss": "她就怀孕"
     },
     {
       "surface": "ותלד",
-      "english": "她生了"
+      "gloss": "她生了"
     },
     {
       "surface": "ליעקב",
-      "english": "给雅各"
+      "gloss": "给雅各"
     },
     {
       "surface": "בן",
-      "english": "⟨一个⟩儿子"
+      "gloss": "⟨一个⟩儿子"
     },
     {
       "surface": "חמישי",
-      "english": "第五个"
+      "gloss": "第五个"
     }
-  ],
-  "timestamp": "2026-07-17T17:52:51.715512971Z",
-  "model": "glm-5.2"
+  ]
 }

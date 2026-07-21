@@ -1,61 +1,50 @@
 {
-  "tier": "glm-5.2",
-  "verse": 12,
   "ref": "leviticus 8:12",
   "book": "leviticus",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 507,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19226,
-    "prompt_tokens_details": {
-      "cached_tokens": 17920
-    },
-    "total_tokens": 19733
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T18:44:41.165456347Z",
   "translation": "他倒了些受膏之油在亚伦的头上，膏了他，⟨את⟩他去分别他为圣。",
   "tokens": [
     {
       "surface": "ויצק",
-      "english": "他倒了"
+      "gloss": "他倒了"
     },
     {
       "surface": "משמן",
-      "english": "些油"
+      "gloss": "些油"
     },
     {
       "surface": "המשחה",
-      "english": "受膏之"
+      "gloss": "受膏之"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "gloss": "在……上"
     },
     {
       "surface": "ראש",
-      "english": "头"
+      "gloss": "头"
     },
     {
       "surface": "אהרן",
-      "english": "亚伦的"
+      "gloss": "亚伦的"
     },
     {
       "surface": "וימשח",
-      "english": "他膏了"
+      "gloss": "他膏了"
     },
     {
       "surface": "אתו",
-      "english": "⟨את⟩他",
+      "gloss": "⟨את⟩他",
       "marks": "去分别他为圣"
     },
     {
       "surface": "לקדשו",
-      "english": "去分别他为圣"
+      "gloss": "去分别他为圣"
     }
-  ],
-  "timestamp": "2026-07-17T18:44:41.165456347Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,57 +1,46 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "zechariah 10:9",
   "book": "zechariah",
-  "lang": "zh-Hans",
   "chapter": 10,
-  "usage": {
-    "completion_tokens": 524,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17947,
-    "prompt_tokens_details": {
-      "cached_tokens": 16576
-    },
-    "total_tokens": 18471
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:36:10.233729223Z",
   "translation": "我必将他们播撒在万民中,在遥远之地他们必记念我;他们必与他们的子⟨们⟩存活——⟨את⟩他们的子⟨们⟩,他们必归回。",
   "tokens": [
     {
       "surface": "ואזרעם",
-      "english": "我必将他们播撒"
+      "gloss": "我必将他们播撒"
     },
     {
       "surface": "בעמים",
-      "english": "在万民中"
+      "gloss": "在万民中"
     },
     {
       "surface": "ובמרחקים",
-      "english": "在遥远之地"
+      "gloss": "在遥远之地"
     },
     {
       "surface": "יזכרוני",
-      "english": "他们必记念我"
+      "gloss": "他们必记念我"
     },
     {
       "surface": "וחיו",
-      "english": "他们必存活"
+      "gloss": "他们必存活"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们的子们"
     },
     {
       "surface": "בניהם",
-      "english": "他们的子们"
+      "gloss": "他们的子们"
     },
     {
       "surface": "ושבו",
-      "english": "他们必归回"
+      "gloss": "他们必归回"
     }
-  ],
-  "timestamp": "2026-07-17T23:36:10.233729223Z",
-  "model": "glm-5.2"
+  ]
 }

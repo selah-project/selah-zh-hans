@@ -1,81 +1,70 @@
 {
-  "tier": "glm-5.2",
-  "verse": 7,
   "ref": "genesis 36:7",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 36,
-  "usage": {
-    "completion_tokens": 620,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23626,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 24246
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:57:55.009849707Z",
   "translation": "因为他们的财产太多，不能一起居住，他们寄居之地的地不能承载⟨את⟩他们，因为他们的牲畜太多。",
   "tokens": [
     {
       "surface": "כי",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "היה",
-      "english": "⟨是⟩"
+      "gloss": "⟨是⟩"
     },
     {
       "surface": "רכושם",
-      "english": "他们的财产"
+      "gloss": "他们的财产"
     },
     {
       "surface": "רב",
-      "english": "太多"
+      "gloss": "太多"
     },
     {
       "surface": "משבת",
-      "english": "不能居住"
+      "gloss": "不能居住"
     },
     {
       "surface": "יחדו",
-      "english": "一起"
+      "gloss": "一起"
     },
     {
       "surface": "ולא",
-      "english": "而……不"
+      "gloss": "而……不"
     },
     {
       "surface": "יכלה",
-      "english": "能"
+      "gloss": "能"
     },
     {
       "surface": "ארץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "מגוריהם",
-      "english": "他们寄居之（地）"
+      "gloss": "他们寄居之（地）"
     },
     {
       "surface": "לשאת",
-      "english": "承载"
+      "gloss": "承载"
     },
     {
       "surface": "אתם",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "他们"
     },
     {
       "surface": "מפני",
-      "english": "因为"
+      "gloss": "因为"
     },
     {
       "surface": "מקניהם",
-      "english": "他们的牲畜"
+      "gloss": "他们的牲畜"
     }
-  ],
-  "timestamp": "2026-07-17T17:57:55.009849707Z",
-  "model": "glm-5.2"
+  ]
 }

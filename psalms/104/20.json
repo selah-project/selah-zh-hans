@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "psalms 104:20",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 104,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64582,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65022
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:47.410389567Z",
   "translation": "你放置黑暗,就有了黑夜;在其〈中〉,森林〈的〉一切活物都爬行〈出来〉。",
   "tokens": [
     {
       "surface": "תשת",
-      "english": "你放置"
+      "gloss": "你放置"
     },
     {
       "surface": "חשך",
-      "english": "黑暗"
+      "gloss": "黑暗"
     },
     {
       "surface": "ויהי",
-      "english": "就有了"
+      "gloss": "就有了"
     },
     {
       "surface": "לילה",
-      "english": "黑夜"
+      "gloss": "黑夜"
     },
     {
       "surface": "בו",
-      "english": "在其〈中〉"
+      "gloss": "在其〈中〉"
     },
     {
       "surface": "תרמש",
-      "english": "爬行〈出来〉"
+      "gloss": "爬行〈出来〉"
     },
     {
       "surface": "כל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "חיתו",
-      "english": "森林〈的〉活物"
+      "gloss": "森林〈的〉活物"
     },
     {
       "surface": "יער",
-      "english": "森林"
+      "gloss": "森林"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:47.410389567Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 103:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 103,
-  "usage": {
-    "completion_tokens": 270,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64347,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64617
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:15:19.665915632Z",
   "translation": "那位赦免你一切罪孽的，那位医治你一切疾病的，",
   "tokens": [
     {
       "surface": "הסלח",
-      "english": "那位赦免的"
+      "gloss": "那位赦免的"
     },
     {
       "surface": "לכל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "עונכי",
-      "english": "你的罪孽"
+      "gloss": "你的罪孽"
     },
     {
       "surface": "הרפא",
-      "english": "那位医治的"
+      "gloss": "那位医治的"
     },
     {
       "surface": "לכל",
-      "english": "一切"
+      "gloss": "一切"
     },
     {
       "surface": "תחלאיכי",
-      "english": "你的疾病"
+      "gloss": "你的疾病"
     }
-  ],
-  "timestamp": "2026-07-18T00:15:19.665915632Z",
-  "model": "glm-5.2"
+  ]
 }

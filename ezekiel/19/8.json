@@ -1,64 +1,53 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "ezekiel 19:8",
   "book": "ezekiel",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 440,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 19235,
-    "prompt_tokens_details": {
-      "cached_tokens": 17792
-    },
-    "total_tokens": 19675
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T22:50:27.981802532Z",
   "translation": "于是周围的列国从各省份起来攻击他，他们向⟨他⟩张开他们的网；在他们的坑中⟨他⟩被抓住。",
   "tokens": [
     {
       "surface": "ויתנו",
-      "english": "于是……起来攻击"
+      "gloss": "于是……起来攻击"
     },
     {
       "surface": "עליו",
-      "english": "⟨他⟩"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "גוים",
-      "english": "列国"
+      "gloss": "列国"
     },
     {
       "surface": "סביב",
-      "english": "周围的"
+      "gloss": "周围的"
     },
     {
       "surface": "ממדינות",
-      "english": "从各省份"
+      "gloss": "从各省份"
     },
     {
       "surface": "ויפרשו",
-      "english": "他们张开"
+      "gloss": "他们张开"
     },
     {
       "surface": "עליו",
-      "english": "向⟨他⟩"
+      "gloss": "向⟨他⟩"
     },
     {
       "surface": "רשתם",
-      "english": "他们的网"
+      "gloss": "他们的网"
     },
     {
       "surface": "בשחתם",
-      "english": "在他们的坑中"
+      "gloss": "在他们的坑中"
     },
     {
       "surface": "נתפש",
-      "english": "被抓住"
+      "gloss": "被抓住"
     }
-  ],
-  "timestamp": "2026-07-17T22:50:27.981802532Z",
-  "model": "glm-5.2"
+  ]
 }

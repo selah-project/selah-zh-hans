@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 14,
   "ref": "psalms 85:14",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 85,
-  "usage": {
-    "completion_tokens": 218,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64217,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64435
-  },
+  "verse": 14,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:09:36.009742031Z",
   "translation": "公义行在他面前，为他⟨的⟩脚步铺路。",
   "tokens": [
     {
       "surface": "צדק",
-      "english": "公义"
+      "gloss": "公义"
     },
     {
       "surface": "לפניו",
-      "english": "行在他面前"
+      "gloss": "行在他面前"
     },
     {
       "surface": "יהלך",
-      "english": "行"
+      "gloss": "行"
     },
     {
       "surface": "וישם",
-      "english": "铺（路）"
+      "gloss": "铺（路）"
     },
     {
       "surface": "לדרך",
-      "english": "路"
+      "gloss": "路"
     },
     {
       "surface": "פעמיו",
-      "english": "他的脚步"
+      "gloss": "他的脚步"
     }
-  ],
-  "timestamp": "2026-07-18T00:09:36.009742031Z",
-  "model": "glm-5.2"
+  ]
 }

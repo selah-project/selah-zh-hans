@@ -1,58 +1,50 @@
 {
-  "tier": "bulk",
-  "verse": 7,
   "ref": "1-chronicles 21:7",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 21,
-  "usage": {
-    "completion_tokens": 324,
-    "prompt_tokens": 58828,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59152
-  },
+  "verse": 7,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:25:05.550416886Z",
   "translation": "这事在以罗欣眼中看为恶,祂就击打了⟨את⟩以色列",
   "tokens": [
     {
       "surface": "וירע",
-      "english": "看为恶"
+      "gloss": "看为恶"
     },
     {
       "surface": "בעיני",
-      "english": "在…眼中"
+      "gloss": "在…眼中"
     },
     {
       "surface": "האלהים",
-      "english": "以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "על",
-      "english": "关于"
+      "gloss": "关于"
     },
     {
       "surface": "הדבר",
-      "english": "这事"
+      "gloss": "这事"
     },
     {
       "surface": "הזה",
-      "english": "这"
+      "gloss": "这"
     },
     {
       "surface": "ויך",
-      "english": "祂就击打了"
+      "gloss": "祂就击打了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "以色列"
     },
     {
       "surface": "ישראל",
-      "english": "以色列"
+      "gloss": "以色列"
     }
-  ],
-  "timestamp": "2026-07-21T13:25:05.550416886Z",
-  "model": "glm-4.5"
+  ]
 }

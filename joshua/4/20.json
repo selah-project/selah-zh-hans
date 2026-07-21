@@ -1,73 +1,62 @@
 {
-  "tier": "glm-5.2",
-  "verse": 20,
   "ref": "joshua 4:20",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 4,
-  "usage": {
-    "completion_tokens": 387,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 18336,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18723
-  },
+  "verse": 20,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T19:52:06.548266859Z",
   "translation": "⟨而⟩⟨את⟩ 这十二块石头，就是他们从约旦河中取来的，约书亚在吉甲竖立了⟨它们⟩。",
   "tokens": [
     {
       "surface": "ואת",
-      "english": "⟨而⟩⟨את⟩",
+      "gloss": "⟨而⟩⟨את⟩",
       "marks": "这十二块石头"
     },
     {
       "surface": "שתים",
-      "english": "二"
+      "gloss": "二"
     },
     {
       "surface": "עשרה",
-      "english": "十"
+      "gloss": "十"
     },
     {
       "surface": "האבנים",
-      "english": "这些石头"
+      "gloss": "这些石头"
     },
     {
       "surface": "האלה",
-      "english": "这些"
+      "gloss": "这些"
     },
     {
       "surface": "אשר",
-      "english": "就是"
+      "gloss": "就是"
     },
     {
       "surface": "לקחו",
-      "english": "他们取来的"
+      "gloss": "他们取来的"
     },
     {
       "surface": "מן",
-      "english": "从"
+      "gloss": "从"
     },
     {
       "surface": "הירדן",
-      "english": "约旦河"
+      "gloss": "约旦河"
     },
     {
       "surface": "הקים",
-      "english": "竖立了"
+      "gloss": "竖立了"
     },
     {
       "surface": "יהושע",
-      "english": "约书亚"
+      "gloss": "约书亚"
     },
     {
       "surface": "בגלגל",
-      "english": "在吉甲"
+      "gloss": "在吉甲"
     }
-  ],
-  "timestamp": "2026-07-17T19:52:06.548266859Z",
-  "model": "glm-5.2"
+  ]
 }

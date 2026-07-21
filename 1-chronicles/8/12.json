@@ -1,71 +1,63 @@
 {
-  "tier": "bulk",
-  "verse": 12,
   "ref": "1-chronicles 8:12",
   "book": "1-chronicles",
-  "lang": "zh-Hans",
   "chapter": 8,
-  "usage": {
-    "completion_tokens": 769,
-    "prompt_tokens": 59182,
-    "prompt_tokens_details": {
-      "cached_tokens": 57472
-    },
-    "total_tokens": 59951
-  },
+  "verse": 12,
+  "lang": "zh-Hans",
+  "tier": "bulk",
+  "model": "glm-4.5",
+  "timestamp": "2026-07-21T13:27:02.278030756Z",
   "translation": "埃勒帕阿尔的儿子们:以伯,和米沙姆,和沙麦德;他建造了比音,和罗得,以及它的乡镇:",
   "tokens": [
     {
       "surface": "ובני",
-      "english": "埃勒帕阿尔的儿子们"
+      "gloss": "埃勒帕阿尔的儿子们"
     },
     {
       "surface": "אלפעל",
-      "english": "埃勒帕阿尔"
+      "gloss": "埃勒帕阿尔"
     },
     {
       "surface": "עבר",
-      "english": "以伯"
+      "gloss": "以伯"
     },
     {
       "surface": "ומשעם",
-      "english": "和米沙姆"
+      "gloss": "和米沙姆"
     },
     {
       "surface": "ושמד",
-      "english": "和沙麦德"
+      "gloss": "和沙麦德"
     },
     {
       "surface": "הוא",
-      "english": "他"
+      "gloss": "他"
     },
     {
       "surface": "בנה",
-      "english": "建造了"
+      "gloss": "建造了"
     },
     {
       "surface": "את",
-      "english": "⟨את⟩",
+      "gloss": "⟨את⟩",
       "marks": "比音"
     },
     {
       "surface": "אונו",
-      "english": "比音"
+      "gloss": "比音"
     },
     {
       "surface": "ואת",
-      "english": "和⟨את⟩",
+      "gloss": "和⟨את⟩",
       "marks": "罗得"
     },
     {
       "surface": "לד",
-      "english": "罗得"
+      "gloss": "罗得"
     },
     {
       "surface": "ובנתיה",
-      "english": "以及它的乡镇"
+      "gloss": "以及它的乡镇"
     }
-  ],
-  "timestamp": "2026-07-21T13:27:02.278030756Z",
-  "model": "glm-4.5"
+  ]
 }

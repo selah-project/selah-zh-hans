@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "isaiah 18:3",
   "book": "isaiah",
-  "lang": "zh-Hans",
   "chapter": 18,
-  "usage": {
-    "completion_tokens": 622,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 21152,
-    "prompt_tokens_details": {
-      "cached_tokens": 19520
-    },
-    "total_tokens": 21774
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T21:42:46.101509576Z",
   "translation": "世上所有的居民，和地的居民：当山上举起旗帜时，你们要看见；当吹响角时，你们要听见。",
   "tokens": [
     {
       "surface": "כל",
-      "english": "所有的"
+      "gloss": "所有的"
     },
     {
       "surface": "יֹשְׁבֵי",
-      "english": "居民"
+      "gloss": "居民"
     },
     {
       "surface": "תֵבֵל",
-      "english": "世界"
+      "gloss": "世界"
     },
     {
       "surface": "וְ\/שֹׁכְנֵי",
-      "english": "和……的居民"
+      "gloss": "和……的居民"
     },
     {
       "surface": "אָרֶץ",
-      "english": "地"
+      "gloss": "地"
     },
     {
       "surface": "כִּ\/נְשֹׂא",
-      "english": "当举起"
+      "gloss": "当举起"
     },
     {
       "surface": "נֵס",
-      "english": "旗帜"
+      "gloss": "旗帜"
     },
     {
       "surface": "הָרִים",
-      "english": "山上"
+      "gloss": "山上"
     },
     {
       "surface": "תִּרְאוּ",
-      "english": "你们要看见"
+      "gloss": "你们要看见"
     },
     {
       "surface": "וְ\/כִ\/תְקֹעַ",
-      "english": "当吹响"
+      "gloss": "当吹响"
     },
     {
       "surface": "שׁוֹפָר",
-      "english": "角"
+      "gloss": "角"
     },
     {
       "surface": "תִּשְׁמָעוּ",
-      "english": "你们要听见"
+      "gloss": "你们要听见"
     }
-  ],
-  "timestamp": "2026-07-17T21:42:46.101509576Z",
-  "model": "glm-5.2"
+  ]
 }

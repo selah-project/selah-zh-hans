@@ -1,60 +1,49 @@
 {
-  "tier": "glm-5.2",
-  "verse": 17,
   "ref": "genesis 24:17",
   "book": "genesis",
-  "lang": "zh-Hans",
   "chapter": 24,
-  "usage": {
-    "completion_tokens": 384,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 23028,
-    "prompt_tokens_details": {
-      "cached_tokens": 21824
-    },
-    "total_tokens": 23412
-  },
+  "verse": 17,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T17:47:10.844325366Z",
   "translation": "仆人跑向她去迎接⟨她⟩，说：请让我喝一点你器皿里的水。",
   "tokens": [
     {
       "surface": "וירץ",
-      "english": "⟨他⟩跑"
+      "gloss": "⟨他⟩跑"
     },
     {
       "surface": "העבד",
-      "english": "那仆人"
+      "gloss": "那仆人"
     },
     {
       "surface": "לקראתה",
-      "english": "向她去迎接⟨她⟩"
+      "gloss": "向她去迎接⟨她⟩"
     },
     {
       "surface": "ויאמר",
-      "english": "⟨他⟩说"
+      "gloss": "⟨他⟩说"
     },
     {
       "surface": "הגמיאיני",
-      "english": "请让我喝"
+      "gloss": "请让我喝"
     },
     {
       "surface": "נא",
-      "english": "请"
+      "gloss": "请"
     },
     {
       "surface": "מעט",
-      "english": "一点"
+      "gloss": "一点"
     },
     {
       "surface": "מים",
-      "english": "水"
+      "gloss": "水"
     },
     {
       "surface": "מכדך",
-      "english": "你器皿里的"
+      "gloss": "你器皿里的"
     }
-  ],
-  "timestamp": "2026-07-17T17:47:10.844325366Z",
-  "model": "glm-5.2"
+  ]
 }

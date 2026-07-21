@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 15,
   "ref": "psalms 92:15",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 92,
-  "usage": {
-    "completion_tokens": 406,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64366,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64772
-  },
+  "verse": 15,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:12:22.968029529Z",
   "translation": "他们仍要在白发之时结果实；⟨他们⟩必成为汁液丰盈且青翠繁茂的。",
   "tokens": [
     {
       "surface": "עוד",
-      "english": "仍要"
+      "gloss": "仍要"
     },
     {
       "surface": "ינובון",
-      "english": "结果实"
+      "gloss": "结果实"
     },
     {
       "surface": "בשיבה",
-      "english": "在白发之时"
+      "gloss": "在白发之时"
     },
     {
       "surface": "דשנים",
-      "english": "汁液丰盈的"
+      "gloss": "汁液丰盈的"
     },
     {
       "surface": "ורעננים",
-      "english": "且青翠繁茂的"
+      "gloss": "且青翠繁茂的"
     },
     {
       "surface": "יהיו",
-      "english": "⟨他们⟩必成为"
+      "gloss": "⟨他们⟩必成为"
     }
-  ],
-  "timestamp": "2026-07-18T00:12:22.968029529Z",
-  "model": "glm-5.2"
+  ]
 }

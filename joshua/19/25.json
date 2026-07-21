@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 25,
   "ref": "joshua 19:25",
   "book": "joshua",
-  "lang": "zh-Hans",
   "chapter": 19,
-  "usage": {
-    "completion_tokens": 350,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 17713,
-    "prompt_tokens_details": {
-      "cached_tokens": 16768
-    },
-    "total_tokens": 18063
-  },
+  "verse": 25,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T20:02:12.010872859Z",
   "translation": "他们的地界是赫尔卡特、哈利、贝滕和阿克沙弗。",
   "tokens": [
     {
       "surface": "וַ\/יְהִ֖י",
-      "english": "是"
+      "gloss": "是"
     },
     {
       "surface": "גְּבוּלָ֑\/ם",
-      "english": "他们的地界"
+      "gloss": "他们的地界"
     },
     {
       "surface": "חֶלְקַ֥ת",
-      "english": "赫尔卡特"
+      "gloss": "赫尔卡特"
     },
     {
       "surface": "וַ\/חֲלִ֖י",
-      "english": "哈利"
+      "gloss": "哈利"
     },
     {
       "surface": "וָ\/בֶ֥טֶן",
-      "english": "贝滕"
+      "gloss": "贝滕"
     },
     {
       "surface": "וְ\/אַכְשָֽׁף",
-      "english": "阿克沙弗"
+      "gloss": "阿克沙弗"
     }
-  ],
-  "timestamp": "2026-07-17T20:02:12.010872859Z",
-  "model": "glm-5.2"
+  ]
 }

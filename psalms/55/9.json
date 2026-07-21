@@ -1,48 +1,37 @@
 {
-  "tier": "glm-5.2",
-  "verse": 9,
   "ref": "psalms 55:9",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 55,
-  "usage": {
-    "completion_tokens": 407,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64303,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64710
-  },
+  "verse": 9,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:58:02.961998164Z",
   "translation": "我必急忙⟨为⟩我寻得逃生之所，脱离猛烈的风，脱离狂暴的סֹעָה（扫荡\/风暴）。",
   "tokens": [
     {
       "surface": "אחישה",
-      "english": "我必急忙"
+      "gloss": "我必急忙"
     },
     {
       "surface": "מפלט",
-      "english": "逃生之所"
+      "gloss": "逃生之所"
     },
     {
       "surface": "לי",
-      "english": "⟨为⟩我"
+      "gloss": "⟨为⟩我"
     },
     {
       "surface": "מרוח",
-      "english": "脱离猛烈的风"
+      "gloss": "脱离猛烈的风"
     },
     {
       "surface": "סעה",
-      "english": "脱离狂暴的סֹעָה（扫荡\/风暴）"
+      "gloss": "脱离狂暴的סֹעָה（扫荡\/风暴）"
     },
     {
       "surface": "מסער",
-      "english": ""
+      "gloss": ""
     }
-  ],
-  "timestamp": "2026-07-17T23:58:02.961998164Z",
-  "model": "glm-5.2"
+  ]
 }

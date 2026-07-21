@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 8,
   "ref": "song-of-songs 2:8",
   "book": "song-of-songs",
-  "lang": "zh-Hans",
   "chapter": 2,
-  "usage": {
-    "completion_tokens": 491,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 22268,
-    "prompt_tokens_details": {
-      "cached_tokens": 20928
-    },
-    "total_tokens": 22759
-  },
+  "verse": 8,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T01:11:03.434521367Z",
   "translation": "我良人的声音！看哪，⟨他⟩正⟨从⟩这里来——跃过群山，跳过诸岭。",
   "tokens": [
     {
       "surface": "קול",
-      "english": "声音"
+      "gloss": "声音"
     },
     {
       "surface": "דודי",
-      "english": "我良人的"
+      "gloss": "我良人的"
     },
     {
       "surface": "הנה",
-      "english": "看哪"
+      "gloss": "看哪"
     },
     {
       "surface": "זה",
-      "english": "⟨从⟩这里"
+      "gloss": "⟨从⟩这里"
     },
     {
       "surface": "בא",
-      "english": "⟨他⟩正来"
+      "gloss": "⟨他⟩正来"
     },
     {
       "surface": "מדלג",
-      "english": "跃过"
+      "gloss": "跃过"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩"
+      "gloss": "⟨在⟩"
     },
     {
       "surface": "ההרים",
-      "english": "群山"
+      "gloss": "群山"
     },
     {
       "surface": "מקפץ",
-      "english": "跳过"
+      "gloss": "跳过"
     },
     {
       "surface": "על",
-      "english": "⟨在⟩"
+      "gloss": "⟨在⟩"
     },
     {
       "surface": "הגבעות",
-      "english": "诸岭"
+      "gloss": "诸岭"
     }
-  ],
-  "timestamp": "2026-07-18T01:11:03.434521367Z",
-  "model": "glm-5.2"
+  ]
 }

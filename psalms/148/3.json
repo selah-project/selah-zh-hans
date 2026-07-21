@@ -1,52 +1,41 @@
 {
-  "tier": "glm-5.2",
-  "verse": 3,
   "ref": "psalms 148:3",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 148,
-  "usage": {
-    "completion_tokens": 344,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64454,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 64798
-  },
+  "verse": 3,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:31:56.995902835Z",
   "translation": "赞美⟨他⟩，太阳与月亮；赞美⟨他⟩，所有光明的星辰。",
   "tokens": [
     {
       "surface": "הללוהו",
-      "english": "赞美⟨他⟩"
+      "gloss": "赞美⟨他⟩"
     },
     {
       "surface": "שמש",
-      "english": "太阳"
+      "gloss": "太阳"
     },
     {
       "surface": "וירח",
-      "english": "与月亮"
+      "gloss": "与月亮"
     },
     {
       "surface": "הללוהו",
-      "english": "赞美⟨他⟩"
+      "gloss": "赞美⟨他⟩"
     },
     {
       "surface": "כל",
-      "english": "所有"
+      "gloss": "所有"
     },
     {
       "surface": "כוכבי",
-      "english": "星辰"
+      "gloss": "星辰"
     },
     {
       "surface": "אור",
-      "english": "光明的"
+      "gloss": "光明的"
     }
-  ],
-  "timestamp": "2026-07-18T00:31:56.995902835Z",
-  "model": "glm-5.2"
+  ]
 }

@@ -1,68 +1,57 @@
 {
-  "tier": "glm-5.2",
-  "verse": 2,
   "ref": "psalms 39:2",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 39,
-  "usage": {
-    "completion_tokens": 494,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64849,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65343
-  },
+  "verse": 2,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-17T23:52:38.476578410Z",
   "translation": "我说:我要谨守我的道路,免得⟨我⟩用舌头犯罪;我必用 muzzle 谨守我的口,⟨就在⟩恶人还在我面前的时候。",
   "tokens": [
     {
       "surface": "אמרתי",
-      "english": "我说"
+      "gloss": "我说"
     },
     {
       "surface": "אשמרה",
-      "english": "我要谨守"
+      "gloss": "我要谨守"
     },
     {
       "surface": "דרכי",
-      "english": "我的道路"
+      "gloss": "我的道路"
     },
     {
       "surface": "מחטוא",
-      "english": "免得⟨我⟩犯罪"
+      "gloss": "免得⟨我⟩犯罪"
     },
     {
       "surface": "בלשוני",
-      "english": "用我的舌头"
+      "gloss": "用我的舌头"
     },
     {
       "surface": "אשמרה",
-      "english": "我必谨守"
+      "gloss": "我必谨守"
     },
     {
       "surface": "לפי",
-      "english": "我的口"
+      "gloss": "我的口"
     },
     {
       "surface": "מחסום",
-      "english": "用 muzzle"
+      "gloss": "用 muzzle"
     },
     {
       "surface": "בעד",
-      "english": "⟨就在⟩……的时候"
+      "gloss": "⟨就在⟩……的时候"
     },
     {
       "surface": "רשע",
-      "english": "恶人"
+      "gloss": "恶人"
     },
     {
       "surface": "לנגדי",
-      "english": "在我面前"
+      "gloss": "在我面前"
     }
-  ],
-  "timestamp": "2026-07-17T23:52:38.476578410Z",
-  "model": "glm-5.2"
+  ]
 }

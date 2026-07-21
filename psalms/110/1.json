@@ -1,72 +1,61 @@
 {
-  "tier": "glm-5.2",
-  "verse": 1,
   "ref": "psalms 110:1",
   "book": "psalms",
-  "lang": "zh-Hans",
   "chapter": 110,
-  "usage": {
-    "completion_tokens": 616,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64858,
-    "prompt_tokens_details": {
-      "cached_tokens": 63424
-    },
-    "total_tokens": 65474
-  },
+  "verse": 1,
+  "lang": "zh-Hans",
+  "tier": "glm-5.2",
+  "model": "glm-5.2",
+  "timestamp": "2026-07-18T00:19:47.949706500Z",
   "translation": "大卫的*米兹莫尔*。*נְאֻם* 雅威对我主说：坐在我右边，直到我使你的仇敌作⟨你⟩脚的脚凳。",
   "tokens": [
     {
       "surface": "לְדָוִ֗ד",
-      "english": "大卫的"
+      "gloss": "大卫的"
     },
     {
       "surface": "מִ֫זְמ֥וֹר",
-      "english": "*米兹莫尔*"
+      "gloss": "*米兹莫尔*"
     },
     {
       "surface": "נְאֻ֤ם",
-      "english": "*נְאֻם*"
+      "gloss": "*נְאֻם*"
     },
     {
       "surface": "יְהוָ֨ה",
-      "english": "雅威"
+      "gloss": "雅威"
     },
     {
       "surface": "לַֽ\/אדֹנִ֗\/י",
-      "english": "对我主"
+      "gloss": "对我主"
     },
     {
       "surface": "שֵׁ֥ב",
-      "english": "坐"
+      "gloss": "坐"
     },
     {
       "surface": "לִֽ\/ימִינִ֑\/י",
-      "english": "在我右边"
+      "gloss": "在我右边"
     },
     {
       "surface": "עַד",
-      "english": "直到"
+      "gloss": "直到"
     },
     {
       "surface": "אָשִׁ֥ית",
-      "english": "我使"
+      "gloss": "我使"
     },
     {
       "surface": "אֹ֝יְבֶ֗י\/ךָ",
-      "english": "你的仇敌"
+      "gloss": "你的仇敌"
     },
     {
       "surface": "הֲדֹ֣ם",
-      "english": "脚凳"
+      "gloss": "脚凳"
     },
     {
       "surface": "לְ\/רַגְלֶֽי\/ךָ",
-      "english": "为你脚的"
+      "gloss": "为你脚的"
     }
-  ],
-  "timestamp": "2026-07-18T00:19:47.949706500Z",
-  "model": "glm-5.2"
+  ]
 }
