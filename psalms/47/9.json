@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 9,
   "ref": "psalms 47:9",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 47,
   "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64705,
+    "completion_tokens": 480,
+    "prompt_tokens": 64605,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65107
+    "total_tokens": 65085
   },
-  "translation": "以罗欣作王⟨统治⟩万国；以罗欣坐在他的圣宝座上。",
+  "translation": "以罗欣在列国中掌权;以罗欣安坐在祂圣洁的宝座上。",
   "tokens": [
     {
       "surface": "מלך",
-      "english": "作王"
+      "english": "在...掌权"
     },
     {
       "surface": "אלהים",
@@ -28,11 +25,11 @@
     },
     {
       "surface": "על",
-      "english": "⟨统治⟩"
+      "english": "在...中"
     },
     {
       "surface": "גוים",
-      "english": "万国"
+      "english": "列国"
     },
     {
       "surface": "אלהים",
@@ -40,11 +37,11 @@
     },
     {
       "surface": "ישב",
-      "english": "坐"
+      "english": "安坐在"
     },
     {
       "surface": "על",
-      "english": "在……上"
+      "english": "在...上"
     },
     {
       "surface": "כסא",
@@ -52,9 +49,9 @@
     },
     {
       "surface": "קדשו",
-      "english": "他的圣"
+      "english": "祂圣洁的"
     }
   ],
-  "timestamp": "2026-07-17T23:55:22.940011104Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:36:28.097422530Z",
+  "model": "glm-4.5"
 }

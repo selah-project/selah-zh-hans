@@ -1,34 +1,31 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 15,
   "ref": "psalms 45:15",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 45,
   "usage": {
-    "completion_tokens": 402,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64523,
+    "completion_tokens": 358,
+    "prompt_tokens": 64567,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
     "total_tokens": 64925
   },
-  "translation": "她们身穿刺绣锦衣被带到君王面前；随她之后的童女——她的同伴们——被引⟨来⟩归于你。",
+  "translation": "在绣花衣裳中,她被领去见王;在她后面的童女,她的伴侣,被带到你那里。",
   "tokens": [
     {
       "surface": "לרקמות",
-      "english": "身穿刺绣锦衣"
+      "english": "在绣花衣裳中"
     },
     {
       "surface": "תובל",
-      "english": "被带到"
+      "english": "她被领去"
     },
     {
       "surface": "למלך",
-      "english": "归于君王"
+      "english": "见王"
     },
     {
       "surface": "בתולות",
@@ -36,21 +33,21 @@
     },
     {
       "surface": "אחריה",
-      "english": "在她之后的"
+      "english": "在她后面的"
     },
     {
       "surface": "רעותיה",
-      "english": "她的同伴们"
+      "english": "她的伴侣"
     },
     {
       "surface": "מובאות",
-      "english": "被引⟨来⟩"
+      "english": "被带到"
     },
     {
       "surface": "לך",
-      "english": "归于你"
+      "english": "你那里"
     }
   ],
-  "timestamp": "2026-07-17T23:54:47.322997700Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:36:01.795160952Z",
+  "model": "glm-4.5"
 }

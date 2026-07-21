@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 3,
   "ref": "psalms 18:3",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 18,
   "usage": {
-    "completion_tokens": 571,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64987,
+    "completion_tokens": 650,
+    "prompt_tokens": 65097,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 63360
     },
-    "total_tokens": 65558
+    "total_tokens": 65747
   },
-  "translation": "雅威是我的磐石、我的堡垒,和我的拯救者;我的以罗欣、我的崖石,我投靠他;我的盾牌,和⟨⟩我拯救的角,我的高台。",
+  "translation": "雅威 ⟨是⟩ 我的岩石, ⟨且⟩ 我的堡垒, ⟨且⟩ 我的逃脱者; 我的以利 ⟨是⟩ 我的盘石, 我 ⟨要⟩ 投靠 ⟨在⟩ 其中; ⟨即⟩ 我的盾牌, ⟨和⟩ 我得救的角, ⟨和⟩ 我的避难所。",
   "tokens": [
     {
       "surface": "יהוה",
@@ -24,49 +21,49 @@
     },
     {
       "surface": "סלעי",
-      "english": "我的磐石"
+      "english": "我的岩石"
     },
     {
       "surface": "ומצודתי",
-      "english": "和我的堡垒"
+      "english": "⟨且⟩ 我的堡垒"
     },
     {
       "surface": "ומפלטי",
-      "english": "和我的拯救者"
+      "english": "⟨且⟩ 我的逃脱者"
     },
     {
       "surface": "אלי",
-      "english": "我的以罗欣"
+      "english": "我的以利"
     },
     {
       "surface": "צורי",
-      "english": "我的崖石"
+      "english": "我的盘石"
     },
     {
       "surface": "אחסה",
-      "english": "我投靠"
+      "english": "我 ⟨要⟩ 投靠"
     },
     {
       "surface": "בו",
-      "english": "他"
+      "english": "⟨在⟩ 其中"
     },
     {
       "surface": "מגני",
-      "english": "我的盾牌"
+      "english": "⟨即⟩ 我的盾牌"
     },
     {
       "surface": "וקרן",
-      "english": "和……的角"
+      "english": "⟨和⟩ 我得救的角"
     },
     {
       "surface": "ישעי",
-      "english": "我的拯救"
+      "english": "我得救的"
     },
     {
       "surface": "משגבי",
-      "english": "我的高台"
+      "english": "我的避难所"
     }
   ],
-  "timestamp": "2026-07-17T23:44:28.212843233Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:35:21.972423982Z",
+  "model": "glm-4.5"
 }

@@ -1,22 +1,19 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 7,
   "ref": "psalms 4:7",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 4,
   "usage": {
-    "completion_tokens": 542,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64746,
+    "completion_tokens": 517,
+    "prompt_tokens": 64763,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 53632
     },
-    "total_tokens": 65288
+    "total_tokens": 65280
   },
-  "translation": "许多人说：谁向我们指示好处？求你向我们举起你脸上的光，雅威啊！",
+  "translation": "许多人说,谁要让我们看见好呢? 雅威,求你使你脸上的光,照在我们身上。",
   "tokens": [
     {
       "surface": "רבים",
@@ -24,7 +21,7 @@
     },
     {
       "surface": "אמרים",
-      "english": "说："
+      "english": "说"
     },
     {
       "surface": "מי",
@@ -32,19 +29,19 @@
     },
     {
       "surface": "יראנו",
-      "english": "向我们指示"
+      "english": "要让我们看见"
     },
     {
       "surface": "טוב",
-      "english": "好处"
+      "english": "好"
     },
     {
       "surface": "נסה",
-      "english": "求你举起"
+      "english": "求你使……照"
     },
     {
       "surface": "עלינו",
-      "english": "在我们身上（⟨临到⟩我们）"
+      "english": "在我们身上"
     },
     {
       "surface": "אור",
@@ -52,13 +49,13 @@
     },
     {
       "surface": "פניך",
-      "english": "你脸上的"
+      "english": "你脸"
     },
     {
       "surface": "יהוה",
-      "english": "雅威啊"
+      "english": "雅威"
     }
   ],
-  "timestamp": "2026-07-17T23:40:21.367028248Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:34:59.508098442Z",
+  "model": "glm-4.5"
 }

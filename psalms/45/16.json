@@ -1,48 +1,45 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 16,
   "ref": "psalms 45:16",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 45,
   "usage": {
-    "completion_tokens": 766,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64314,
+    "completion_tokens": 355,
+    "prompt_tokens": 64312,
     "prompt_tokens_details": {
-      "cached_tokens": 63424
+      "cached_tokens": 64256
     },
-    "total_tokens": 65080
+    "total_tokens": 64667
   },
-  "translation": "她们必被欢快与רִנָּה (joy) 引入；她们必进入王〈的〉הֵיכָל。",
+  "translation": "她们要被带进,在喜乐与欢呼声中,她们要进入王宫。",
   "tokens": [
     {
-      "surface": "תּ֭וּבַלְנָה",
-      "english": "她们必被引入"
+      "surface": "תובלנה",
+      "english": "她们要被带进"
     },
     {
-      "surface": "בִּ\/שְׂמָחֹ֣ת",
-      "english": "伴随欢快"
+      "surface": "בשמחת",
+      "english": "在喜乐中"
     },
     {
-      "surface": "וָ\/גִ֑יל",
-      "english": "与רִנָּה (joyous cry)"
+      "surface": "וגיל",
+      "english": "与欢呼声"
     },
     {
-      "surface": "תְּ֝בֹאֶ֗ינָה",
-      "english": "她们必进入"
+      "surface": "תבאינה",
+      "english": "她们要进入"
     },
     {
-      "surface": "בְּ\/הֵ֣יכַל",
-      "english": "在הֵיכָל (palace\/temple) 中"
+      "surface": "בהיכל",
+      "english": "王宫"
     },
     {
-      "surface": "מֶֽלֶךְ",
-      "english": "王〈的〉"
+      "surface": "מלך",
+      "english": "王"
     }
   ],
-  "timestamp": "2026-07-17T23:54:55.344765872Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:40:18.492043726Z",
+  "model": "glm-4.5"
 }

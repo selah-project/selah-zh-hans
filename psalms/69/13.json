@@ -1,26 +1,23 @@
 {
-  "tier": "glm-5.2",
+  "tier": "bulk",
   "verse": 13,
   "ref": "psalms 69:13",
   "book": "psalms",
   "lang": "zh-Hans",
   "chapter": 69,
   "usage": {
-    "completion_tokens": 372,
-    "completion_tokens_details": {
-      "reasoning_tokens": 0
-    },
-    "prompt_tokens": 64501,
+    "completion_tokens": 406,
+    "prompt_tokens": 64403,
     "prompt_tokens_details": {
-      "cached_tokens": 43712
+      "cached_tokens": 63360
     },
-    "total_tokens": 64873
+    "total_tokens": 64809
   },
-  "translation": "坐在城门⟨的⟩人议论我⟨，⟩弹琴⟨的⟩酒徒⟨也⟩把我当作⟨他们的⟩歌曲。",
+  "translation": "坐在城门口的 ⟨那些⟩ 谈论我，喝浓酒的 ⟨那些⟩ 唱歌咏叹我。",
   "tokens": [
     {
       "surface": "ישיחו",
-      "english": "议论"
+      "english": "谈论我"
     },
     {
       "surface": "בי",
@@ -28,25 +25,25 @@
     },
     {
       "surface": "ישבי",
-      "english": "坐在……的人"
+      "english": "坐在城门口的 ⟨那些⟩"
     },
     {
       "surface": "שער",
-      "english": "城门"
+      "english": "城门口"
     },
     {
       "surface": "ונגינות",
-      "english": "弹琴"
+      "english": "唱歌咏叹我"
     },
     {
       "surface": "שותי",
-      "english": "酒徒"
+      "english": "喝浓酒的 ⟨那些⟩"
     },
     {
       "surface": "שכר",
-      "english": "酒"
+      "english": "浓酒"
     }
   ],
-  "timestamp": "2026-07-18T03:04:45.988246610Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-07-21T02:36:59.728397519Z",
+  "model": "glm-4.5"
 }
