@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "2-kings 3:12",
   "book": "2-kings",
-  "chapter": 3,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:18:33.461573408Z",
-  "translation": "约沙法说：⟨他那里⟩有⟨את⟩*davar* 雅威。于是以色列王、约沙法和以东王下到他那里。",
+  "chapter": 3,
+  "translation": "约沙法说:⟨有⟩雅威的⟨את⟩话在他那里。于是以色列王、约沙法和以东王下到他那里去。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,16 +17,16 @@
     },
     {
       "surface": "יש",
-      "gloss": "有"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "אותו",
       "gloss": "⟨את⟩",
-      "marks": "*davar* 雅威"
+      "marks": "话"
     },
     {
       "surface": "דבר",
-      "gloss": "*davar*"
+      "gloss": "话"
     },
     {
       "surface": "יהוה",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "וירדו",
-      "gloss": "于是……下到"
+      "gloss": "下到"
     },
     {
       "surface": "אליו",
@@ -52,15 +50,17 @@
     },
     {
       "surface": "ויהושפט",
-      "gloss": "和约沙法"
+      "gloss": "约沙法"
     },
     {
       "surface": "ומלך",
-      "gloss": "和……王"
+      "gloss": "和王"
     },
     {
       "surface": "אדום",
       "gloss": "以东"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:07:42.074808205Z",
+  "model": "glm-5.2"
 }

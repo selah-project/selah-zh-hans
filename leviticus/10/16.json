@@ -1,33 +1,32 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 10:16",
   "book": "leviticus",
-  "chapter": 10,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:46:07.488348049Z",
-  "translation": "至于⟨את⟩那公山羊，即赎罪祭的，摩西切实寻找，看哪，⟨它⟩已被烧了；他就向以利亚撒和向以他玛发怒 —— 亚伦 remaining 的儿子们 —— 说：",
+  "chapter": 10,
+  "translation": "至于⟨את⟩那赎罪祭的公山羊，摩西确实寻索了，看哪，它已被烧了；他就向以利亚撒和向以他玛发怒——亚伦的儿子，那被留下的——说：",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "至于⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "公山羊"
     },
     {
       "surface": "שעיר",
-      "gloss": "那公山羊"
+      "gloss": "公山羊"
     },
     {
       "surface": "החטאת",
-      "gloss": "即赎罪祭的"
+      "gloss": "赎罪祭"
     },
     {
       "surface": "דרש",
-      "gloss": "寻找"
+      "gloss": "寻索了"
     },
     {
       "surface": "דרש",
-      "gloss": "切实"
+      "gloss": "寻索"
     },
     {
       "surface": "משה",
@@ -39,7 +38,7 @@
     },
     {
       "surface": "שרף",
-      "gloss": "⟨它⟩已被烧了"
+      "gloss": "它已被烧了"
     },
     {
       "surface": "ויקצף",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "儿子们"
+      "gloss": "的儿子"
     },
     {
       "surface": "אהרן",
@@ -71,11 +70,13 @@
     },
     {
       "surface": "הנותרם",
-      "gloss": "remaining 的"
+      "gloss": "那被留下的"
     },
     {
       "surface": "לאמר",
       "gloss": "说"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:50:31.347377644Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 24:10",
   "book": "1-samuel",
-  "chapter": 24,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:35:57.448631077Z",
-  "translation": "大卫对扫罗说：你为何听人的话，⟨את⟩ *davar* 说：『看哪，大卫寻索⟨你的⟩祸患』？",
+  "chapter": 24,
+  "translation": "大卫对扫罗说：你为何听人的话，⟨את⟩ 那些*话*说：『看哪，大卫寻索你的恶』？",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -32,15 +30,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "话 (דברי)"
+      "marks": "那些话"
     },
     {
       "surface": "דברי",
-      "gloss": "*davar* (话)"
+      "gloss": "*话*"
     },
     {
       "surface": "אדם",
-      "gloss": "人"
+      "gloss": "人的"
     },
     {
       "surface": "לאמר",
@@ -60,7 +58,9 @@
     },
     {
       "surface": "רעתך",
-      "gloss": "你的祸患"
+      "gloss": "你的恶"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:57:36.982854918Z",
+  "model": "glm-5.2"
 }

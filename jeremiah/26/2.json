@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "jeremiah 26:2",
   "book": "jeremiah",
-  "chapter": 26,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:22:14.044916866Z",
-  "translation": "雅威如此说：你站在雅威的殿的院中,对犹大所有⟨的⟩城——那些来雅威的殿敬拜的——说⟨את⟩一切⟨的⟩*davar*,就是我吩咐你对他们说的;不可删减一个*davar*。",
+  "chapter": 26,
+  "translation": "雅威如此说：你站在雅威的殿院中,对犹大众城一切来敬拜雅威之殿的人说话,⟨את⟩一切我所吩咐你对他们说的话,一字不可删减;",
   "tokens": [
     {
       "surface": "כה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "בחצר",
-      "gloss": "在……的院中"
+      "gloss": "在……院中"
     },
     {
       "surface": "בית",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ודברת",
-      "gloss": "你要说"
+      "gloss": "你要说话"
     },
     {
       "surface": "על",
@@ -47,11 +45,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "一切"
     },
     {
       "surface": "ערי",
-      "gloss": "城"
+      "gloss": "……的城"
     },
     {
       "surface": "יהודה",
@@ -59,7 +57,7 @@
     },
     {
       "surface": "הבאים",
-      "gloss": "那些来"
+      "gloss": "来"
     },
     {
       "surface": "להשתחות",
@@ -76,7 +74,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切(的)davar"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -84,11 +82,11 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "*davar*"
+      "gloss": "话"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "（关系词）"
     },
     {
       "surface": "צויתיך",
@@ -112,7 +110,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "一个*davar*"
+      "gloss": "一字"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:26:50.771285573Z",
+  "model": "glm-5.2"
 }

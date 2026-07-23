@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "psalms 30:4",
   "book": "psalms",
-  "chapter": 30,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:48:46.074926885Z",
-  "translation": "雅威啊,你⟨曾⟩将我的נפש从中拉上来,你使我存活,脱离下⟨入⟩坑中的人。",
+  "chapter": 30,
+  "translation": "雅威啊，你将我的נפש（生命气息）从阴间拉上来；你使我存活，免于⟨下⟩到坑中。",
   "tokens": [
     {
       "surface": "יהוה",
-      "gloss": "雅威啊"
+      "gloss": "雅威"
     },
     {
       "surface": "העלית",
-      "gloss": "你⟨曾⟩将……拉上来"
+      "gloss": "你使……上来"
     },
     {
       "surface": "מן",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "שאול",
-      "gloss": "中"
+      "gloss": "阴间"
     },
     {
       "surface": "נפשי",
-      "gloss": "我的נפש"
+      "gloss": "我的נפש（生命气息）"
     },
     {
       "surface": "חייתני",
@@ -35,11 +33,13 @@
     },
     {
       "surface": "מיורדי",
-      "gloss": "脱离下⟨入⟩坑中的人"
+      "gloss": "免于下到"
     },
     {
       "surface": "בור",
       "gloss": "坑"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T16:45:57.181680480Z",
+  "model": "glm-5.2"
 }

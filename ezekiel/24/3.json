@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "ezekiel 24:3",
   "book": "ezekiel",
-  "chapter": 24,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:54:30.461889130Z",
-  "translation": "你要向叛逆之家讲一个*meshál*（比喻），对他们说：阿多奈雅威如此说：将锅放上，将它放上，也把水倒在⟨其中⟩。",
+  "chapter": 24,
+  "translation": "你要向叛逆之家讲一个מָשָׁל（比喻），对他们说：כֹּה（如此）说阿多奈雅威：把锅架上，把它架上，也往⟨其中⟩倒水。",
   "tokens": [
     {
       "surface": "ומשל",
-      "gloss": "你要讲"
+      "gloss": "你要讲一个比喻"
     },
     {
       "surface": "אל",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "משל",
-      "gloss": "一个*meshál*（比喻）"
+      "gloss": "一个比喻"
     },
     {
       "surface": "ואמרת",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "שפת",
-      "gloss": "将……放上"
+      "gloss": "把……架（上）"
     },
     {
       "surface": "הסיר",
@@ -63,7 +61,7 @@
     },
     {
       "surface": "שפת",
-      "gloss": "将它放上"
+      "gloss": "把……架（上）"
     },
     {
       "surface": "וגם",
@@ -75,11 +73,14 @@
     },
     {
       "surface": "בו",
-      "gloss": "在⟨其中⟩"
+      "gloss": "⟨את⟩",
+      "marks": "其中（锅）"
     },
     {
       "surface": "מים",
       "gloss": "水"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:04:52.045962894Z",
+  "model": "glm-5.2"
 }

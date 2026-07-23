@@ -1,17 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "jeremiah 16:20",
   "book": "jeremiah",
-  "chapter": 16,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:16:21.081337798Z",
-  "translation": "人岂要为自己造 אֱלֹהִים（以罗欣）呢？⟨而⟩它们并不是 אֱלֹהִים（以罗欣）？",
+  "chapter": 16,
+  "translation": "人岂可为自己制造 אֱלֹהִים（以罗欣）？⟨而⟩它们⟨却⟩不是 אֱלֹהִים！",
   "tokens": [
     {
-      "surface": "הֲ\/יַעֲשֶׂה",
-      "gloss": "岂要……造"
+      "surface": "הֲ",
+      "gloss": "岂可"
+    },
+    {
+      "surface": "יַעֲשֶׂה",
+      "gloss": "制造"
     },
     {
       "surface": "לּ֥\/וֹ",
@@ -23,7 +25,7 @@
     },
     {
       "surface": "אֱלֹהִ֑ים",
-      "gloss": "אֱלֹהִים（以罗欣）"
+      "gloss": "以罗欣"
     },
     {
       "surface": "וְ\/הֵ֖מָּה",
@@ -31,11 +33,13 @@
     },
     {
       "surface": "לֹ֥א",
-      "gloss": "并不是"
+      "gloss": "不"
     },
     {
       "surface": "אֱלֹהִֽים",
-      "gloss": "אֱלֹהִים（以罗欣）"
+      "gloss": "以罗欣"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:29:21.105066033Z",
+  "model": "glm-5.2"
 }

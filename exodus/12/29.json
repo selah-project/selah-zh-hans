@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "exodus 12:29",
   "book": "exodus",
-  "chapter": 12,
-  "verse": 29,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:17:56.582806667Z",
-  "translation": "到了半夜,雅威击打了埃及地一切的בכור (长子),从坐在自己宝座上的法老的בכור,直到⟨那⟩在坑之家的囚犯的בכור;以及一切牲畜的בכור。",
+  "chapter": 12,
+  "translation": "到了半夜，雅威击打了埃及地⟨的⟩一切长子，从坐在自己宝座上⟨的⟩法老⟨的⟩长子，直到在监牢里⟨的⟩俘囚⟨的⟩长子，以及一切头生的牲畜。",
   "tokens": [
     {
       "surface": "ויהי",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "一切"
     },
     {
       "surface": "בכור",
-      "gloss": "בכור (长子)"
+      "gloss": "长子"
     },
     {
       "surface": "בארץ",
@@ -46,8 +44,8 @@
       "gloss": "埃及"
     },
     {
-      "surface": "מבכור",
-      "gloss": "从⟨那⟩בכור"
+      "surface": "מבכר",
+      "gloss": "从……长子"
     },
     {
       "surface": "פרעה",
@@ -55,7 +53,7 @@
     },
     {
       "surface": "הישב",
-      "gloss": "坐在"
+      "gloss": "坐"
     },
     {
       "surface": "על",
@@ -71,11 +69,11 @@
     },
     {
       "surface": "בכור",
-      "gloss": "בכור"
+      "gloss": "长子"
     },
     {
       "surface": "השבי",
-      "gloss": "囚犯"
+      "gloss": "俘囚"
     },
     {
       "surface": "אשר",
@@ -83,23 +81,25 @@
     },
     {
       "surface": "בבית",
-      "gloss": "在……家"
+      "gloss": "在……里"
     },
     {
       "surface": "הבור",
-      "gloss": "坑"
+      "gloss": "监牢"
     },
     {
       "surface": "וכל",
-      "gloss": "以及一切的"
+      "gloss": "以及一切"
     },
     {
       "surface": "בכור",
-      "gloss": "בכור"
+      "gloss": "头生的"
     },
     {
       "surface": "בהמה",
       "gloss": "牲畜"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:44:31.204808950Z",
+  "model": "glm-5.2"
 }

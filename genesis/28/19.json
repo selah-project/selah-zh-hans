@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "genesis 28:19",
   "book": "genesis",
-  "chapter": 28,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:51:03.571182551Z",
-  "translation": "他便称⟨את⟩那地方的名字为伯特利（*Beit-El*）；然而路斯原是那城的名字（⟨为⟩起初的）。",
+  "chapter": 28,
+  "translation": "他便⟨称⟩⟨את⟩那地方的名字为伯特,但路斯从〈前〉是那城的名字。",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -16,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那地方的名字"
+      "marks": "那名字"
     },
     {
       "surface": "שם",
@@ -32,15 +30,15 @@
     },
     {
       "surface": "בית",
-      "gloss": "伯特利"
+      "gloss": "伯特"
     },
     {
       "surface": "אל",
-      "gloss": "伯特利（*Beit-El*）之特利"
+      "gloss": "伯特"
     },
     {
       "surface": "ואולם",
-      "gloss": "然而"
+      "gloss": "但"
     },
     {
       "surface": "לוז",
@@ -56,7 +54,9 @@
     },
     {
       "surface": "לראשנה",
-      "gloss": "（⟨为⟩）起初的"
+      "gloss": "从前的"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:05:28.880729890Z",
+  "model": "glm-5.2"
 }

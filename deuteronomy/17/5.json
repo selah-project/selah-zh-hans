@@ -1,30 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "deuteronomy 17:5",
   "book": "deuteronomy",
-  "chapter": 17,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:38:29.076020142Z",
-  "translation": "你⟨要⟩带出 ⟨את⟩那人或 ⟨את⟩那女人，就是做了 ⟨את⟩这恶事 ⟨הזה⟩的，到你城门那里—— ⟨את⟩那人或 ⟨את⟩那女人——用石头打他们，他们就⟨要⟩死。",
+  "chapter": 17,
+  "translation": "你就要把⟨את⟩那男人或⟨את⟩那女人——就是行了⟨את⟩这恶事的——带到你的城门,⟨את⟩那男人或⟨את⟩那女人;你要用石头打他们,他们就必死去。",
   "tokens": [
     {
       "surface": "והוצאת",
-      "gloss": "你⟨要⟩带出"
+      "gloss": "你就要带出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那人"
+      "marks": "那男人"
     },
     {
       "surface": "האיש",
-      "gloss": "那人"
+      "gloss": "那男人"
     },
     {
       "surface": "ההוא",
-      "gloss": "那"
+      "gloss": "那个"
     },
     {
       "surface": "או",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "那"
+      "gloss": "那个"
     },
     {
       "surface": "אשר",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "עשו",
-      "gloss": "做了"
+      "gloss": "行了"
     },
     {
       "surface": "את",
@@ -58,15 +56,15 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "事 (davar)"
+      "gloss": "那*事*"
     },
     {
       "surface": "הרע",
-      "gloss": "这恶"
+      "gloss": "恶的"
     },
     {
       "surface": "הזה",
-      "gloss": "这 ⟨הזה⟩"
+      "gloss": "这"
     },
     {
       "surface": "אל",
@@ -74,16 +72,16 @@
     },
     {
       "surface": "שעריך",
-      "gloss": "你城门那里"
+      "gloss": "你的城门"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那人"
+      "marks": "那男人"
     },
     {
       "surface": "האיש",
-      "gloss": "那人"
+      "gloss": "那男人"
     },
     {
       "surface": "או",
@@ -100,7 +98,7 @@
     },
     {
       "surface": "וסקלתם",
-      "gloss": "用石头打他们"
+      "gloss": "你要用石头打"
     },
     {
       "surface": "באבנים",
@@ -108,7 +106,9 @@
     },
     {
       "surface": "ומתו",
-      "gloss": "他们就⟨要⟩死"
+      "gloss": "他们就必死去"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:45:05.391046047Z",
+  "model": "glm-5.2"
 }

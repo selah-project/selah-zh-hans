@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "1-samuel 20:23",
   "book": "1-samuel",
-  "chapter": 20,
-  "verse": 23,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:33:03.593801800Z",
-  "translation": "至于我所立的 *davar* —— ⟨就是⟩ 你和我所说过的:看哪,雅威在我和你之间,直到永远。",
+  "chapter": 20,
+  "translation": "至于你我之间所谈论的这*话*，看哪，雅威⟨在⟩我与你之间，直到永远。",
   "tokens": [
     {
       "surface": "והדבר",
-      "gloss": "至于⟨那⟩*davar*"
+      "gloss": "至于这*davar*"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨就是⟩"
+      "gloss": "（关系代词）"
     },
     {
       "surface": "דברנו",
-      "gloss": "我们所说过的"
+      "gloss": "我们所谈论的"
     },
     {
       "surface": "אני",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "ביני",
-      "gloss": "在我"
+      "gloss": "在我……之间"
     },
     {
       "surface": "ובינך",
-      "gloss": "和你之间"
+      "gloss": "与你……之间"
     },
     {
       "surface": "עד",
@@ -53,5 +51,7 @@
       "surface": "עולם",
       "gloss": "永远"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:08:08.906559385Z",
+  "model": "glm-5.2"
 }

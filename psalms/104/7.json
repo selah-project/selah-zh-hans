@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 104:7",
   "book": "psalms",
-  "chapter": 104,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:16:01.501376042Z",
-  "translation": "因你的斥责它们 fleeing-away；因你雷声的轰鸣它们 panic-flee。",
+  "chapter": 104,
+  "translation": "因你的斥责 ⟨它们⟩ 逃跑；因你雷霆的声音 ⟨它们⟩ 匆匆逃去。",
   "tokens": [
     {
       "surface": "מן",
-      "gloss": "因"
+      "gloss": "因……\/从……"
     },
     {
       "surface": "גערתך",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "ינוסון",
-      "gloss": "它们 fleeing-away"
+      "gloss": "它们逃跑"
     },
     {
       "surface": "מן",
-      "gloss": "因"
+      "gloss": "因……\/从……"
     },
     {
       "surface": "קול",
@@ -31,11 +29,13 @@
     },
     {
       "surface": "רעמך",
-      "gloss": "你的雷"
+      "gloss": "你的雷霆"
     },
     {
       "surface": "יחפזון",
-      "gloss": "它们 panic-flee"
+      "gloss": "它们匆匆逃去"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:05:04.555955559Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 45,
   "ref": "deuteronomy 32:45",
   "book": "deuteronomy",
-  "chapter": 32,
-  "verse": 45,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:48:50.316236740Z",
-  "translation": "摩西说完向全以色列讲论 ⟨את⟩ 这一切 *davar*（话语）之后，",
+  "chapter": 32,
+  "translation": "摩西讲完⟨את⟩这一切*话语*，向全以色列之后。",
   "tokens": [
     {
       "surface": "ויכל",
-      "gloss": "说完……之后"
+      "gloss": "讲完了"
     },
     {
       "surface": "משה",
@@ -19,20 +17,20 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "讲论"
+      "gloss": "讲（动词 *davar*）"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "这一切 davar（话语）"
+      "marks": "这一切"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "所有"
     },
     {
       "surface": "הדברים",
-      "gloss": "*davar*（话语）"
+      "gloss": "*话语*"
     },
     {
       "surface": "האלה",
@@ -50,5 +48,7 @@
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:09:02.285618601Z",
+  "model": "glm-5.2"
 }

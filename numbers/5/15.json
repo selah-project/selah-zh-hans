@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "numbers 5:15",
   "book": "numbers",
-  "chapter": 5,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:04:00.341884118Z",
-  "translation": "那人要带他的妻子到祭司那里,又要带⟨את⟩她的 *korbán* —— 为她⟨带来⟩:十分之一 *éfa* 的大麦面粉。不可在上面倒油,也不可在上面放乳香,因为这是嫉妒的 *minjá* —— 记念的 *minjá*,使罪孽被记念。",
+  "chapter": 5,
+  "translation": "那人要带他的妻子到祭司那里，并要带⟨את⟩她的korbán（献礼）来：十分之一伊法的 barley 面。不可在⟨其上⟩浇油，也不可在⟨其上⟩放乳香，因为这是嫉妒的minjá（素祭），是记念的minjá，使罪孽被记起。",
   "tokens": [
     {
       "surface": "והביא",
-      "gloss": "要带"
+      "gloss": "那人要带来"
     },
     {
       "surface": "האיש",
@@ -32,20 +30,20 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "祭司"
+      "gloss": "祭司那里"
     },
     {
       "surface": "והביא",
-      "gloss": "又要带"
+      "gloss": "并要带"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "她的 korbán"
+      "marks": "她的献礼"
     },
     {
       "surface": "קרבנה",
-      "gloss": "她的 *korbán*"
+      "gloss": "她的献礼（korbán）"
     },
     {
       "surface": "עליה",
@@ -57,11 +55,11 @@
     },
     {
       "surface": "האיפה",
-      "gloss": "*éfa*"
+      "gloss": "伊法的"
     },
     {
       "surface": "קמח",
-      "gloss": "面粉"
+      "gloss": "面"
     },
     {
       "surface": "שערים",
@@ -73,11 +71,11 @@
     },
     {
       "surface": "יצק",
-      "gloss": "倒"
+      "gloss": "浇"
     },
     {
       "surface": "עליו",
-      "gloss": "在上面"
+      "gloss": "在其上"
     },
     {
       "surface": "שמן",
@@ -93,7 +91,7 @@
     },
     {
       "surface": "עליו",
-      "gloss": "在上面"
+      "gloss": "在其上"
     },
     {
       "surface": "לבנה",
@@ -105,7 +103,7 @@
     },
     {
       "surface": "מנחת",
-      "gloss": "*minjá*"
+      "gloss": "素祭"
     },
     {
       "surface": "קנאת",
@@ -113,11 +111,11 @@
     },
     {
       "surface": "הוא",
-      "gloss": "这是"
+      "gloss": "它是"
     },
     {
       "surface": "מנחת",
-      "gloss": "*minjá*"
+      "gloss": "素祭"
     },
     {
       "surface": "זכרון",
@@ -125,11 +123,13 @@
     },
     {
       "surface": "מזכרת",
-      "gloss": "使……被记念"
+      "gloss": "使……被记起"
     },
     {
       "surface": "עון",
       "gloss": "罪孽"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:15:05.957192949Z",
+  "model": "glm-5.2"
 }

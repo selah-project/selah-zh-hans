@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "ezekiel 3:1",
   "book": "ezekiel",
-  "chapter": 3,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:41:08.741692973Z",
-  "translation": "他对我说:人子啊,⟨את⟩你所找到的,要吃掉;吃掉⟨את⟩这书卷,然后你去,对以色列家说话。",
+  "chapter": 3,
+  "translation": "他对我说：人子啊，⟨את⟩你所找到的，吃吧！吃下⟨את⟩这书卷，然后去，对以色列家说话。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "בן",
-      "gloss": "人子"
+      "gloss": "人子（直译：……之子）"
     },
     {
       "surface": "אדם",
-      "gloss": "(adam)"
+      "gloss": "人"
     },
     {
       "surface": "את",
@@ -32,19 +30,19 @@
     },
     {
       "surface": "אשר",
-      "gloss": "你所找到的"
+      "gloss": "所"
     },
     {
       "surface": "תמצא",
-      "gloss": "你找到"
+      "gloss": "你找到的"
     },
     {
       "surface": "אכול",
-      "gloss": "要吃掉"
+      "gloss": "吃"
     },
     {
       "surface": "אכול",
-      "gloss": "吃掉"
+      "gloss": "吃下"
     },
     {
       "surface": "את",
@@ -61,7 +59,7 @@
     },
     {
       "surface": "ולך",
-      "gloss": "然后你去"
+      "gloss": "然后去"
     },
     {
       "surface": "דבר",
@@ -73,11 +71,13 @@
     },
     {
       "surface": "בית",
-      "gloss": "家"
+      "gloss": "……家"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:46:20.768713268Z",
+  "model": "glm-5.2"
 }

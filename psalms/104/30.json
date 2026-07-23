@@ -1,21 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "psalms 104:30",
   "book": "psalms",
-  "chapter": 104,
-  "verse": 30,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:15:57.408789960Z",
-  "translation": "你发出你的鲁阿 (气息)，它们被创造；你又更新地面 (אֲדָמָה) 之面。",
+  "chapter": 104,
+  "translation": "你差遣⟨你的⟩鲁阿，它们⟨就⟩被创造，你更新地面。",
   "tokens": [
     {
       "surface": "תְּשַׁלַּ֣ח",
-      "gloss": "你发出"
+      "gloss": "你差遣"
     },
     {
-      "surface": "רוּחֲ\/ךָ",
-      "gloss": "你的鲁阿 (气息)"
+      "surface": "ר֭וּחֲ\/ךָ",
+      "gloss": "鲁阿",
+      "marks": "你的鲁阿（气息\/灵）"
     },
     {
       "surface": "יִבָּרֵא֑וּ\/ן",
@@ -23,15 +22,17 @@
     },
     {
       "surface": "וּ֝\/תְחַדֵּ֗שׁ",
-      "gloss": "你又更新"
+      "gloss": "你更新"
     },
     {
       "surface": "פְּנֵ֣י",
-      "gloss": "之面"
+      "gloss": "面"
     },
     {
       "surface": "אֲדָמָֽה",
-      "gloss": "地面 (אֲדָמָה)"
+      "gloss": "地面"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:04:43.812226364Z",
+  "model": "glm-5.2"
 }

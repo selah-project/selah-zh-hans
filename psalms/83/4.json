@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "psalms 83:4",
   "book": "psalms",
-  "chapter": 83,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:08:46.467963675Z",
-  "translation": "针对你的百姓，他们行掩藏，⟨秘密⟩的 counsel，针对你所珍藏的，他们商议。",
+  "chapter": 83,
+  "translation": "他们针对⟨你的⟩⟨你的⟩民策划⟨秘密⟩计谋，他们就⟨你的⟩隐藏的珍宝彼此商议。",
   "tokens": [
     {
       "surface": "על",
@@ -15,19 +13,20 @@
     },
     {
       "surface": "עמך",
-      "gloss": "你的百姓"
+      "gloss": "你的民",
+      "marks": "על 所指向的对象"
     },
     {
       "surface": "יערימו",
-      "gloss": "他们行掩藏"
+      "gloss": "他们策划"
     },
     {
       "surface": "סוד",
-      "gloss": "⟨秘密⟩的 counsel"
+      "gloss": "⟨秘密⟩计谋"
     },
     {
       "surface": "ויתיעצו",
-      "gloss": "他们商议"
+      "gloss": "他们就彼此商议"
     },
     {
       "surface": "על",
@@ -35,7 +34,10 @@
     },
     {
       "surface": "צפוניך",
-      "gloss": "你所珍藏的"
+      "gloss": "你的隐藏的珍宝",
+      "marks": "על 所指向的对象"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:07:01.340110801Z",
+  "model": "glm-5.2"
 }

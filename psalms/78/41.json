@@ -1,25 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 41,
   "ref": "psalms 78:41",
   "book": "psalms",
-  "chapter": 78,
-  "verse": 41,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:06:51.039463475Z",
-  "translation": "他们转回,试探 אֵל;他们为以色列的圣者划定界限。",
+  "chapter": 78,
+  "translation": "他们又回头试探⟨אֵל⟩，限制了以色列的圣者。",
   "tokens": [
     {
       "surface": "וישובו",
-      "gloss": "他们转回"
+      "gloss": "他们又回头"
     },
     {
       "surface": "וינסו",
-      "gloss": "他们试探"
+      "gloss": "试探"
     },
     {
       "surface": "אל",
-      "gloss": "אֵל"
+      "gloss": "⟨אֵל⟩",
+      "marks": "神 \/ 以罗欣"
     },
     {
       "surface": "וקדוש",
@@ -27,11 +26,13 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     },
     {
       "surface": "התוו",
-      "gloss": "他们划定界限"
+      "gloss": "限制了"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T16:45:48.562807220Z",
+  "model": "glm-5.2"
 }

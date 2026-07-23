@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "2-samuel 12:12",
   "book": "2-samuel",
-  "chapter": 12,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:46:09.696171669Z",
-  "translation": "因为你在暗中做了⟨这事⟩,而我将在全以色列面前和这太阳面前做⟨את⟩这*davar*⟨此事⟩。",
+  "chapter": 12,
+  "translation": "因为你在暗中行了这事，而我必在以色列众人面前、在这太阳面前行⟨את⟩这*事*。",
   "tokens": [
     {
       "surface": "כִּ֥י",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "עָשִׂ֣יתָ",
-      "gloss": "做了"
+      "gloss": "行了"
     },
     {
       "surface": "בַ\/סָּ֑תֶר",
@@ -31,16 +29,16 @@
     },
     {
       "surface": "אֶעֱשֶׂה֙",
-      "gloss": "将做"
+      "gloss": "必行"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "这*davar*(这事)"
+      "marks": "这事"
     },
     {
       "surface": "הַ\/דָּבָ֣ר",
-      "gloss": "这*davar*"
+      "gloss": "事"
     },
     {
       "surface": "הַ\/זֶּ֔ה",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "כָּל",
-      "gloss": "全"
+      "gloss": "所有"
     },
     {
       "surface": "יִשְׂרָאֵ֖ל",
@@ -60,11 +58,13 @@
     },
     {
       "surface": "וְ\/נֶ֥גֶד",
-      "gloss": "和在……面前"
+      "gloss": "以及在……面前"
     },
     {
       "surface": "הַ\/שָּֽׁמֶשׁ",
-      "gloss": "这太阳"
+      "gloss": "太阳"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:28:12.896859713Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 42:7",
   "book": "psalms",
-  "chapter": 42,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:53:37.145514117Z",
-  "translation": "我的以罗欣啊,我的נפשי(生命气息)在我身上沉落;因此我记念你,从约旦地,与黑门诸山,从米萨山。",
+  "chapter": 42,
+  "translation": "我的以罗欣啊,在我之上,我的⟨נפש⟩向我俯首沉沦;因此我从约旦河之地、从黑门群岭、从米萨之山记念你。",
   "tokens": [
     {
       "surface": "אלהי",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "עלי",
-      "gloss": "在我身上"
+      "gloss": "在我之上"
     },
     {
       "surface": "נפשי",
-      "gloss": "我的נפשי"
+      "gloss": "我的⟨נפש⟩"
     },
     {
       "surface": "תשתוחח",
-      "gloss": "沉落"
+      "gloss": "向我俯首沉沦"
     },
     {
       "surface": "על",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "כן",
-      "gloss": "⟨合并为因此⟩"
+      "gloss": "⟨连接⟩"
     },
     {
       "surface": "אזכרך",
@@ -43,11 +41,11 @@
     },
     {
       "surface": "ירדן",
-      "gloss": "约旦"
+      "gloss": "约旦河"
     },
     {
       "surface": "וחרמונים",
-      "gloss": "与黑门诸山"
+      "gloss": "和黑门群岭"
     },
     {
       "surface": "מהר",
@@ -57,5 +55,7 @@
       "surface": "מצער",
       "gloss": "米萨"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:05:18.805231524Z",
+  "model": "glm-5.2"
 }

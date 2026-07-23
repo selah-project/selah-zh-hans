@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "deuteronomy 1:30",
   "book": "deuteronomy",
-  "chapter": 1,
-  "verse": 30,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:27:38.234476554Z",
-  "translation": "雅威你们的以罗欣,就是在你们前面行走的那一位,是他必为你们争战;正如他在埃及向你们眼前所行的一切,⟨אתכם⟩为你们所做的——",
+  "chapter": 1,
+  "translation": "雅威你们的以罗欣,那走在你们前面的,他必为你们争战,照着他在埃及为你们所做的一切,在你们眼前——⟨את⟩⟨你们⟩",
   "tokens": [
     {
       "surface": "יהוה",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "ההלך",
-      "gloss": "在……前面行走的"
+      "gloss": "那走在……前面的"
     },
     {
       "surface": "לפניכם",
-      "gloss": "你们"
+      "gloss": "在你们前面"
     },
     {
       "surface": "הוא",
-      "gloss": "是他"
+      "gloss": "他"
     },
     {
       "surface": "ילחם",
@@ -39,20 +37,20 @@
     },
     {
       "surface": "ככל",
-      "gloss": "正如一切"
+      "gloss": "照着一切"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的"
+      "gloss": "所"
     },
     {
       "surface": "עשה",
-      "gloss": "他做了"
+      "gloss": "做的"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨אתכם⟩",
-      "marks": "为你们"
+      "gloss": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "במצרים",
@@ -60,7 +58,9 @@
     },
     {
       "surface": "לעיניכם",
-      "gloss": "向你们眼前"
+      "gloss": "在你们眼前"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:00:24.076568469Z",
+  "model": "glm-5.2"
 }

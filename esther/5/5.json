@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "esther 5:5",
   "book": "esther",
-  "chapter": 5,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:25:49.599814229Z",
-  "translation": "王便说:你们快带 ⟨את⟩ 哈曼来,好照着以斯帖的 *davar* 行事。于是王和哈曼来到以斯帖所预备的筵席。",
+  "chapter": 5,
+  "translation": "王⟨就⟩说:快去带哈曼,好照以斯帖的⟨话语⟩去行。⟨于是⟩王和哈曼来到以斯帖所预备的筵席。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "便说"
+      "gloss": "⟨就⟩说"
     },
     {
       "surface": "המלך",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "מהרו",
-      "gloss": "你们快"
+      "gloss": "快去带"
     },
     {
       "surface": "את",
@@ -32,16 +30,16 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "好行事"
+      "gloss": "好……去行"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以斯帖的 davar"
+      "marks": "话语"
     },
     {
       "surface": "דבר",
-      "gloss": "*davar*"
+      "gloss": "⟨话语⟩"
     },
     {
       "surface": "אסתר",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "于是……来到"
+      "gloss": "⟨于是⟩来到"
     },
     {
       "surface": "המלך",
@@ -73,11 +71,13 @@
     },
     {
       "surface": "עשתה",
-      "gloss": "预备"
+      "gloss": "预备的"
     },
     {
       "surface": "אסתר",
       "gloss": "以斯帖"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:38:10.491669738Z",
+  "model": "glm-5.2"
 }

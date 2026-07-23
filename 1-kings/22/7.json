@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-kings 22:7",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:16:11.368916518Z",
-  "translation": "约沙法说:这里难道没有雅威的 naví ⟨还⟩在吗?我们可以从他 ⟨את⟩ 寻求。",
+  "chapter": 22,
+  "translation": "约沙法说:这里难道没有雅威的先知了吗?我们可以从他⟨את⟩寻求询问。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "נביא",
-      "gloss": "naví"
+      "gloss": "先知"
     },
     {
       "surface": "ליהוה",
-      "gloss": "雅威的"
+      "gloss": "属雅威的"
     },
     {
       "surface": "עוד",
-      "gloss": "⟨还⟩"
+      "gloss": "还"
     },
     {
       "surface": "ונדרשה",
@@ -43,7 +41,10 @@
     },
     {
       "surface": "מאותו",
-      "gloss": "从他 ⟨את⟩"
+      "gloss": "从他⟨את⟩",
+      "marks": "从他(指先知)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:24:07.065805397Z",
+  "model": "glm-5.2"
 }

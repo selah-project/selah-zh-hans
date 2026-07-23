@@ -1,33 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "numbers 17:19",
   "book": "numbers",
-  "chapter": 17,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:13:15.653345324Z",
-  "translation": "你们要将它们安放在会幕里,在 ⟨את⟩ 法柜见证面前,就是我在那里与你们定会的地方。",
+  "chapter": 17,
+  "translation": "你要把它们放在会幕里,在法柜前,就是我在那里与你们相会⟨的地方⟩。",
   "tokens": [
     {
       "surface": "והנחתם",
-      "gloss": "你们要将它们安放"
+      "gloss": "你要放"
+    },
+    {
+      "surface": "ם",
+      "gloss": "它们"
     },
     {
       "surface": "באהל",
-      "gloss": "在……会幕里"
+      "gloss": "在会幕"
     },
     {
       "surface": "מועד",
-      "gloss": "会幕 (mo'ed)"
+      "gloss": "里"
     },
     {
       "surface": "לפני",
-      "gloss": "在……面前"
+      "gloss": "在……前"
     },
     {
       "surface": "העדות",
-      "gloss": "法柜见证"
+      "gloss": "法柜"
     },
     {
       "surface": "אשר",
@@ -35,7 +37,7 @@
     },
     {
       "surface": "אועד",
-      "gloss": "我定会"
+      "gloss": "我相会"
     },
     {
       "surface": "לכם",
@@ -45,5 +47,7 @@
       "surface": "שמה",
       "gloss": "在那里"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:20:06.887135429Z",
+  "model": "glm-5.2"
 }

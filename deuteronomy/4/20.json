@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "deuteronomy 4:20",
   "book": "deuteronomy",
-  "chapter": 4,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:46:00.044609111Z",
-  "translation": "至于⟨את⟩你们,雅威取了⟨他们⟩,又把⟨את⟩你们从埃及的 iron furnace 中领出来,归他自己作为产业的子民,如今天这样。",
+  "chapter": 4,
+  "translation": "至于⟨你们⟩，雅威取了，并领⟨你们⟩出铁的熔炉，出埃及，成为归他自己的子民，作产业，⟨正如⟩今日⟨这样⟩。",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "至于⟨את⟩你们"
+      "gloss": "至于⟨你们⟩",
+      "marks": "לקח (取)"
     },
     {
       "surface": "לקח",
@@ -23,27 +22,28 @@
     },
     {
       "surface": "ויוצא",
-      "gloss": "又把……领出来"
+      "gloss": "并领出"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你们"
+      "gloss": "⟨你们⟩",
+      "marks": "מכור (熔炉)"
     },
     {
       "surface": "מכור",
-      "gloss": "furnace"
+      "gloss": "出熔炉"
     },
     {
       "surface": "הברזל",
-      "gloss": "iron"
+      "gloss": "铁的"
     },
     {
       "surface": "ממצרים",
-      "gloss": "从埃及"
+      "gloss": "出埃及"
     },
     {
       "surface": "להיות",
-      "gloss": "作为"
+      "gloss": "成为"
     },
     {
       "surface": "לו",
@@ -51,7 +51,7 @@
     },
     {
       "surface": "לעם",
-      "gloss": "子民"
+      "gloss": "作子民"
     },
     {
       "surface": "נחלה",
@@ -59,11 +59,13 @@
     },
     {
       "surface": "כיום",
-      "gloss": "如今天"
+      "gloss": "正如今日"
     },
     {
       "surface": "הזה",
       "gloss": "这样"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:59:48.418963550Z",
+  "model": "glm-5.2"
 }

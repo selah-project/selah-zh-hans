@@ -1,41 +1,42 @@
 {
+  "tier": "glm-5.2",
+  "verse": 35,
   "ref": "leviticus 19:35",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 35,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:53:50.180563514Z",
-  "translation": "你们不可在 ⟨הַ\/מִּשְׁפָּט⟩ (审判) 中行不义:在尺度、在重量,以及在容量中。",
+  "chapter": 19,
+  "translation": "你们不可在 ⟨בַ\/מִּשְׁפָּט⟩ 中行不义,在尺度、在重量,以及在量器中⟨也是如此⟩。",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "不可"
     },
     {
-      "surface": "תַעֲשׂוּ",
-      "gloss": "你们要做"
+      "surface": "תעשו",
+      "gloss": "你们当行"
     },
     {
-      "surface": "עָוֶל",
+      "surface": "עול",
       "gloss": "不义"
     },
     {
-      "surface": "בַּ\/מִּשְׁפָּט",
-      "gloss": "在 ⟨הַ\/מִּשְׁפָּט⟩ (审判)"
+      "surface": "במשפט",
+      "gloss": "在审判中",
+      "marks": "⟨בַ\/מִּשְׁפָּט⟩"
     },
     {
-      "surface": "בַּ\/מִּדָּה",
+      "surface": "במדה",
       "gloss": "在尺度"
     },
     {
-      "surface": "בַּ\/מִּשְׁקָל",
+      "surface": "במשקל",
       "gloss": "在重量"
     },
     {
-      "surface": "וּ\/בַ\/מְּשׂוּרָה",
-      "gloss": "以及在容量"
+      "surface": "ובמשורה",
+      "gloss": "以及在量器中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:12:36.469687061Z",
+  "model": "glm-5.2"
 }

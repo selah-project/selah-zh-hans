@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-chronicles 13:4",
   "book": "1-chronicles",
-  "chapter": 13,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:02:10.396380286Z",
-  "translation": "全⟨会众⟩说,⟨要⟩这样做,因为这*davar*(事)在全体百姓眼中看为正。",
+  "chapter": 13,
+  "translation": "全⟨会众⟩说这样做,因为这⟨事⟩在全体百姓眼中⟨看为⟩正直。",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "⟨要⟩做"
+      "gloss": "做"
     },
     {
       "surface": "כן",
@@ -35,15 +33,15 @@
     },
     {
       "surface": "ישר",
-      "gloss": "看为正"
+      "gloss": "正直"
     },
     {
       "surface": "הדבר",
-      "gloss": "这*davar*(事)"
+      "gloss": "这⟨事⟩"
     },
     {
       "surface": "בעיני",
-      "gloss": "在眼中"
+      "gloss": "在……眼中⟨看为⟩"
     },
     {
       "surface": "כל",
@@ -53,5 +51,7 @@
       "surface": "העם",
       "gloss": "百姓"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:16:47.918320836Z",
+  "model": "glm-5.2"
 }

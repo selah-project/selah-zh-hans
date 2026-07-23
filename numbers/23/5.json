@@ -1,25 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "numbers 23:5",
   "book": "numbers",
-  "chapter": 23,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:17:14.743010003Z",
-  "translation": "雅威将话放在比蓝的口中,⟨他⟩说:你回巴勒那里去,这样你要讲论。",
+  "chapter": 23,
+  "translation": "雅威将⟨את⟩话放在比连口中，说：你回到巴勒那里去，就这样讲说。",
   "tokens": [
     {
       "surface": "וישם",
-      "gloss": "⟨他⟩放"
+      "gloss": "他将……放"
     },
     {
       "surface": "יהוה",
       "gloss": "雅威"
     },
     {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "话"
+    },
+    {
       "surface": "דבר",
-      "gloss": "话 (*davar*)"
+      "gloss": "话"
     },
     {
       "surface": "בפי",
@@ -27,11 +30,11 @@
     },
     {
       "surface": "בלעם",
-      "gloss": "比蓝"
+      "gloss": "比连"
     },
     {
       "surface": "ויאמר",
-      "gloss": "⟨他⟩说"
+      "gloss": "他说"
     },
     {
       "surface": "שוב",
@@ -39,7 +42,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "去……到"
+      "gloss": "到……那里"
     },
     {
       "surface": "בלק",
@@ -47,11 +50,13 @@
     },
     {
       "surface": "וכה",
-      "gloss": "这样"
+      "gloss": "就这样"
     },
     {
       "surface": "תדבר",
-      "gloss": "你要讲论"
+      "gloss": "你要讲说"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:06:04.055260817Z",
+  "model": "glm-5.2"
 }

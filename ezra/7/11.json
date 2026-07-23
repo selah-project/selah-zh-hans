@@ -1,33 +1,31 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "ezra 7:11",
   "book": "ezra",
-  "chapter": 7,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:40:08.261670462Z",
-  "translation": "这⟨是⟩文书* parshegán* ⟨הנשתון⟩的副本，即王·阿塔赫沙斯塔⟨所⟩赐给以斯拉祭司、那文士的——⟨他是一位⟩文士，⟨精通⟩雅威诫命的话语和他的律例，关于以色列的。",
+  "chapter": 7,
+  "translation": "这⟨是⟩阿尔塔薛西斯王赐给以斯拉祭司、文士的那份诏书的副本——⟨他是一位⟩文士，精通雅威的诫命之*davar*，以及⟨他⟩关于以色列的律例：",
   "tokens": [
     {
       "surface": "וזה",
-      "gloss": "这"
+      "gloss": "这是"
     },
     {
       "surface": "פרשגן",
-      "gloss": "*parshegán*（副本）"
+      "gloss": "副本"
     },
     {
       "surface": "הנשתון",
-      "gloss": "⟨הנשתון⟩（那文书）"
+      "gloss": "诏书的"
     },
     {
       "surface": "אשר",
-      "gloss": "即"
+      "gloss": "就是"
     },
     {
       "surface": "נתן",
-      "gloss": "赐给了"
+      "gloss": "赐给"
     },
     {
       "surface": "המלך",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ארתחשסתא",
-      "gloss": "阿塔赫沙斯塔"
+      "gloss": "阿尔塔薛西斯"
     },
     {
       "surface": "לעזרא",
@@ -43,19 +41,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "⟨那⟩祭司"
+      "gloss": "祭司"
     },
     {
       "surface": "הספר",
-      "gloss": "⟨那⟩文士"
-    },
-    {
-      "surface": "ספר",
       "gloss": "文士"
     },
     {
+      "surface": "ספר",
+      "gloss": "精通"
+    },
+    {
       "surface": "דברי",
-      "gloss": "……的话语"
+      "gloss": "话\/话语的"
     },
     {
       "surface": "מצות",
@@ -77,5 +75,7 @@
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:45:02.233329550Z",
+  "model": "glm-5.2"
 }

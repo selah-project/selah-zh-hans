@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "2-chronicles 34:26",
   "book": "2-chronicles",
-  "chapter": 34,
-  "verse": 26,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:35:27.895087267Z",
-  "translation": "至于⟨那⟩犹大⟨的⟩王，⟨那⟩派遣你们⟨את⟩来寻求雅威的，你们要 thus 对他说：以色列⟨的⟩以罗欣雅威 thus 说——关于⟨那⟩话语，就是你所听见的：",
+  "chapter": 34,
+  "translation": "至于那差遣你们来求问雅威的犹大 ⟨המלך⟩ 王，你们要对他这样说：‘以色列的以罗欣雅威论到 ⟨הדברים⟩ 你所听见 ⟨את⟩ 的话，如此说：",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "至于⟨那⟩"
+      "gloss": "至于"
     },
     {
       "surface": "מלך",
-      "gloss": "⟨的⟩王"
+      "gloss": "王"
     },
     {
       "surface": "יהודה",
@@ -23,15 +21,16 @@
     },
     {
       "surface": "השלח",
-      "gloss": "⟨那⟩派遣"
+      "gloss": "那差遣"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你们"
+      "gloss": "⟨את⟩",
+      "marks": "求问"
     },
     {
       "surface": "לדרוש",
-      "gloss": "来寻求"
+      "gloss": "来求问"
     },
     {
       "surface": "ביהוה",
@@ -39,7 +38,7 @@
     },
     {
       "surface": "כה",
-      "gloss": "thus（如此）"
+      "gloss": "如此"
     },
     {
       "surface": "תאמרו",
@@ -47,11 +46,11 @@
     },
     {
       "surface": "אליו",
-      "gloss": "对他说"
+      "gloss": "对他"
     },
     {
       "surface": "כה",
-      "gloss": "thus（如此）"
+      "gloss": "如此"
     },
     {
       "surface": "אמר",
@@ -63,7 +62,7 @@
     },
     {
       "surface": "אלהי",
-      "gloss": "⟨的⟩以罗欣"
+      "gloss": "以罗欣"
     },
     {
       "surface": "ישראל",
@@ -71,15 +70,17 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "关于⟨那⟩话语"
+      "gloss": "话"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "的关系词"
     },
     {
       "surface": "שמעת",
-      "gloss": "你所听见的"
+      "gloss": "你听见"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:24:50.847225059Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "psalms 105:28",
   "book": "psalms",
-  "chapter": 105,
-  "verse": 28,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:16:51.440158134Z",
-  "translation": "他差遣黑暗，⟨就⟩使之黑暗；他们没有违背 ⟨את⟩ 他的*davar*。",
+  "chapter": 105,
+  "translation": "他差遣黑暗,使 ⟨它⟩ 黑暗;他们没有违背 ⟨את⟩ 他的话。",
   "tokens": [
     {
       "surface": "שָׁ֣לַֽח",
@@ -19,24 +17,26 @@
     },
     {
       "surface": "וַ\/יַּחְשִׁ֑ךְ",
-      "gloss": "⟨就⟩使之黑暗"
+      "gloss": "使 ⟨它⟩ 黑暗"
     },
     {
       "surface": "וְ\/לֹֽא",
-      "gloss": "而他们没有"
+      "gloss": "而没有"
     },
     {
       "surface": "מָ֝ר֗וּ",
-      "gloss": "违背"
+      "gloss": "他们违背"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "他的话 (דברוו)"
+      "marks": "他的话"
     },
     {
       "surface": "דברו\/ו",
-      "gloss": "他的*davar*"
+      "gloss": "他的话"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:02:06.572941614Z",
+  "model": "glm-5.2"
 }

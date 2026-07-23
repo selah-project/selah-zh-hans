@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "deuteronomy 23:18",
   "book": "deuteronomy",
-  "chapter": 23,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:42:12.325106033Z",
-  "translation": "在以色列的女儿中不可有 qedeshá（庙妓），在以色列的儿子中也不可有 qadesh（男庙妓）。",
+  "chapter": 23,
+  "translation": "以色列的女儿中不可有女庙妓，以色列的儿子中也不可有男庙妓。",
   "tokens": [
     {
       "surface": "לא",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "תהיה",
-      "gloss": "⟨将有⟩"
+      "gloss": "⟨有⟩"
     },
     {
       "surface": "קדשה",
-      "gloss": "qedeshá（女庙妓）"
+      "gloss": "女庙妓"
     },
     {
       "surface": "מבנות",
-      "gloss": "在……的女儿中"
+      "gloss": "中"
     },
     {
       "surface": "ישראל",
@@ -39,15 +37,17 @@
     },
     {
       "surface": "קדש",
-      "gloss": "qadesh（男庙妓）"
+      "gloss": "男庙妓"
     },
     {
       "surface": "מבני",
-      "gloss": "在……的儿子中"
+      "gloss": "中"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:58:52.238652573Z",
+  "model": "glm-5.2"
 }

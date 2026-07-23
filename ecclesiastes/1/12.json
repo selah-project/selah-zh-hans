@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "ecclesiastes 1:12",
   "book": "ecclesiastes",
-  "chapter": 1,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:18:37.802923828Z",
-  "translation": "我，*Kohelet*（传道者），⟨曾⟩作以色列的王，在耶路撒冷。",
+  "chapter": 1,
+  "translation": "我⟨是⟩聚会长,我曾⟨作⟩以色列的王,在耶路撒冷。",
   "tokens": [
     {
       "surface": "אני",
@@ -15,19 +13,19 @@
     },
     {
       "surface": "קהלת",
-      "gloss": "*Kohelet*（传道者）"
+      "gloss": "聚会长"
     },
     {
       "surface": "הייתי",
-      "gloss": "⟨曾⟩"
+      "gloss": "我曾⟨作⟩"
     },
     {
       "surface": "מלך",
-      "gloss": "作……的王"
+      "gloss": "王"
     },
     {
       "surface": "על",
-      "gloss": "治理"
+      "gloss": "在……之上"
     },
     {
       "surface": "ישראל",
@@ -37,5 +35,7 @@
       "surface": "בירושלם",
       "gloss": "在耶路撒冷"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:45:14.392041577Z",
+  "model": "glm-5.2"
 }

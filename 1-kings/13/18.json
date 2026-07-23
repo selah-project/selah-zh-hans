@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-kings 13:18",
   "book": "1-kings",
-  "chapter": 13,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:08:36.419478256Z",
-  "translation": "他对他说:我也是像你一样的naví,有使者凭雅威的*davar*向我说话,说:把他带回到你的家,让他吃饭喝水。⟨然而⟩他向他撒了谎。",
+  "chapter": 13,
+  "translation": "他对他说:我也是像你一样的先知,有使者藉着雅威的话语对我说话,说:⟨את⟩你把他带回⟨את⟩你的家,让他吃饭喝水。——他向他撒了谎。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他说"
+      "gloss": "他对……说"
     },
     {
       "surface": "לו",
-      "gloss": "对他"
+      "gloss": "他"
     },
     {
       "surface": "גם",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "是naví"
+      "gloss": "先知"
     },
     {
       "surface": "כמוך",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ומלאך",
-      "gloss": "有使者"
+      "gloss": "和使者"
     },
     {
       "surface": "דבר",
@@ -43,15 +41,15 @@
     },
     {
       "surface": "אלי",
-      "gloss": "向我"
+      "gloss": "对我"
     },
     {
       "surface": "בדבר",
-      "gloss": "凭*davar*"
+      "gloss": "藉着话语"
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "לאמר",
@@ -59,11 +57,12 @@
     },
     {
       "surface": "השבהו",
-      "gloss": "把他带回来"
+      "gloss": "你把他带回"
     },
     {
       "surface": "אתך",
-      "gloss": "与你一起"
+      "gloss": "⟨את⟩与",
+      "marks": "你"
     },
     {
       "surface": "אל",
@@ -71,7 +70,8 @@
     },
     {
       "surface": "ביתך",
-      "gloss": "你的家"
+      "gloss": "⟨את⟩你的家",
+      "marks": "你的家"
     },
     {
       "surface": "ויאכל",
@@ -91,11 +91,13 @@
     },
     {
       "surface": "כחש",
-      "gloss": "撒了谎"
+      "gloss": "他撒了谎"
     },
     {
       "surface": "לו",
       "gloss": "向他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:15:35.183804585Z",
+  "model": "glm-5.2"
 }

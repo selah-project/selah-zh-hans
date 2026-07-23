@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "psalms 3:1",
   "book": "psalms",
-  "chapter": 3,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:40:08.766770369Z",
-  "translation": "大卫的 Mizmor（诗篇），⟨就是在⟩他逃离他儿子押沙龙面 ⟨的时候⟩。",
+  "chapter": 3,
+  "translation": "大卫的诗,在他逃离⟨他⟩儿子押沙龙面前的时候。",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "Mizmor（诗篇）"
+      "gloss": "诗"
     },
     {
       "surface": "לדוד",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "בברחו",
-      "gloss": "⟨就是在⟩他逃离……⟨的时候⟩"
+      "gloss": "在他逃离的时候"
     },
     {
       "surface": "מפני",
-      "gloss": "……面"
+      "gloss": "从……面前"
     },
     {
       "surface": "אבשלום",
@@ -33,5 +31,7 @@
       "surface": "בנו",
       "gloss": "他儿子"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:37:41.350012885Z",
+  "model": "glm-5.2"
 }

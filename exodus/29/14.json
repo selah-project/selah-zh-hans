@@ -1,29 +1,29 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "exodus 29:14",
   "book": "exodus",
-  "chapter": 29,
-  "verse": 14,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:30:46.851804402Z",
-  "translation": "至于⟨את⟩公牛的肉、并⟨את⟩它的皮、和⟨את⟩它的粪、你都要用火在营外焚烧；它是חַטָּאת（赎罪祭）。",
+  "chapter": 29,
+  "translation": "至于⟨את⟩那公牛的肉、和⟨את⟩它的皮、并⟨את⟩它的粪，你要在营外用火烧掉；它⟨是⟩赎罪祭。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "那公牛的肉"
     },
     {
       "surface": "בשר",
-      "gloss": "至于……的肉"
+      "gloss": "肉"
     },
     {
       "surface": "הפר",
-      "gloss": "公牛"
+      "gloss": "那公牛"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "和⟨את⟩",
+      "marks": "它的皮"
     },
     {
       "surface": "ערו",
@@ -31,7 +31,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "和⟨את⟩",
+      "marks": "它的粪"
     },
     {
       "surface": "פרשו",
@@ -39,7 +40,7 @@
     },
     {
       "surface": "תשרף",
-      "gloss": "你都要用火焚烧"
+      "gloss": "你要烧掉"
     },
     {
       "surface": "באש",
@@ -47,7 +48,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "在……外"
+      "gloss": "在……外面"
     },
     {
       "surface": "למחנה",
@@ -55,11 +56,13 @@
     },
     {
       "surface": "חטאת",
-      "gloss": "חַטָּאת（赎罪祭）"
+      "gloss": "赎罪祭"
     },
     {
       "surface": "הוא",
-      "gloss": "它是"
+      "gloss": "它"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:39:52.664824289Z",
+  "model": "glm-5.2"
 }

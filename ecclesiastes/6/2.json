@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "ecclesiastes 6:2",
   "book": "ecclesiastes",
-  "chapter": 6,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:21:07.818833645Z",
-  "translation": "一个人,以罗欣赐给他财富、财产和尊荣, ⟨他⟩的 nephesh 不缺任何 ⟨他⟩所渴慕的一切,以罗欣却不容 ⟨他⟩有权 ⟨去⟩享用它——反而由一个外人 ⟨来⟩享用它。这是蒸汽,也是一场恶疾。",
+  "chapter": 6,
+  "translation": "一个人,以罗欣赐给他财富、财产和尊荣,他⟨נפש⟩什么都不缺,不缺他⟨所⟩渴望⟨的⟩一切;却不让他从中享用——以罗欣不给他权能去吃⟨它⟩——反倒由外人吞噬⟨它⟩。这是虚空的蒸气,也是一场恶疾。",
   "tokens": [
     {
       "surface": "איש",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨关系代词⟩"
+      "gloss": "⟨所⟩"
     },
     {
       "surface": "יתן",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ונכסים",
-      "gloss": "和财产"
+      "gloss": "财产"
     },
     {
       "surface": "וכבוד",
@@ -43,35 +41,35 @@
     },
     {
       "surface": "ואיננו",
-      "gloss": "却不缺"
+      "gloss": "他却不缺"
     },
     {
       "surface": "חסר",
-      "gloss": "缺"
+      "gloss": "缺乏"
     },
     {
       "surface": "לנפשו",
-      "gloss": "⟨他⟩的 nephesh"
+      "gloss": "他⟨נפש⟩"
     },
     {
       "surface": "מכל",
-      "gloss": "任何"
+      "gloss": "不缺"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨关系代词⟩"
+      "gloss": "⟨的⟩"
     },
     {
       "surface": "יתאוה",
-      "gloss": "所渴慕的"
+      "gloss": "渴望"
     },
     {
       "surface": "ולא",
-      "gloss": "却"
+      "gloss": "却不"
     },
     {
       "surface": "ישליטנו",
-      "gloss": "不容 ⟨他⟩有权"
+      "gloss": "让他……享有权能"
     },
     {
       "surface": "האלהים",
@@ -79,27 +77,27 @@
     },
     {
       "surface": "לאכל",
-      "gloss": "⟨去⟩享用"
+      "gloss": "去吃"
     },
     {
       "surface": "ממנו",
-      "gloss": "它"
+      "gloss": "从中"
     },
     {
       "surface": "כי",
-      "gloss": "反而"
+      "gloss": "——"
     },
     {
       "surface": "איש",
-      "gloss": "一个"
-    },
-    {
-      "surface": "נכרי",
       "gloss": "外人"
     },
     {
+      "surface": "נכרי",
+      "gloss": "陌生人"
+    },
+    {
       "surface": "יאכלנו",
-      "gloss": "⟨来⟩享用它"
+      "gloss": "吞噬"
     },
     {
       "surface": "זה",
@@ -107,7 +105,7 @@
     },
     {
       "surface": "הבל",
-      "gloss": "蒸汽"
+      "gloss": "虚空的蒸气"
     },
     {
       "surface": "וחלי",
@@ -119,7 +117,9 @@
     },
     {
       "surface": "הוא",
-      "gloss": "⟨⟩"
+      "gloss": "它是"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T06:47:30.609016382Z",
+  "model": "glm-5.2"
 }

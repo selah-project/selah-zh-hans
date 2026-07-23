@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "job 4:12",
   "book": "job",
-  "chapter": 4,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:51:29.294035544Z",
-  "translation": "有一个 *davar*（话语） stealthily 临到我，我的耳朵听到了其中的一丝低语。",
+  "chapter": 4,
+  "translation": "有一个 *davar* 偷偷临到我,我的耳朵接收了⟨它的⟩一丝耳语。",
   "tokens": [
     {
       "surface": "ואלי",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "דבר",
-      "gloss": "一个 *davar*（话语）"
+      "gloss": "*davar*"
     },
     {
       "surface": "יגנב",
-      "gloss": "stealthily"
+      "gloss": "偷偷"
     },
     {
       "surface": "ותקח",
-      "gloss": "听到了"
+      "gloss": "接收了"
     },
     {
       "surface": "אזני",
@@ -31,11 +29,13 @@
     },
     {
       "surface": "שמץ",
-      "gloss": "一丝低语"
+      "gloss": "一丝耳语"
     },
     {
       "surface": "מנהו",
-      "gloss": "其中"
+      "gloss": "⟨它的⟩"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:07:23.957120907Z",
+  "model": "glm-5.2"
 }

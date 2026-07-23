@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "song-of-songs 3:1",
   "book": "song-of-songs",
-  "chapter": 3,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:11:18.963212483Z",
-  "translation": "夜里在⟨我的⟩床上，我的נפשי寻求⟨את⟩我所爱的；我寻找他，却未找到他。",
+  "chapter": 3,
+  "translation": "夜复一夜,在我的床上,我寻找 ⟨את⟩ 我心所爱的;我寻找他,却找不到他。",
   "tokens": [
     {
       "surface": "על",
@@ -15,20 +13,20 @@
     },
     {
       "surface": "משכבי",
-      "gloss": "⟨我的⟩床上"
+      "gloss": "我的床上"
     },
     {
       "surface": "בלילות",
-      "gloss": "夜里"
+      "gloss": "夜复一夜"
     },
     {
       "surface": "בקשתי",
-      "gloss": "我寻求"
+      "gloss": "我寻找"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我所爱的"
+      "marks": "我心所爱的"
     },
     {
       "surface": "שאהבה",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "נפשי",
-      "gloss": "我的נפשי"
+      "gloss": "我心"
     },
     {
       "surface": "בקשתיו",
@@ -44,11 +42,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "却未"
+      "gloss": "却"
     },
     {
       "surface": "מצאתיו",
-      "gloss": "找到他"
+      "gloss": "找不到他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:11:56.501335893Z",
+  "model": "glm-5.2"
 }

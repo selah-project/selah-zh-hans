@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "joshua 2:20",
   "book": "joshua",
-  "chapter": 2,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:51:06.169632168Z",
-  "translation": "如果你宣告⟨את⟩我们这*话语*（*davar*），我们就对你所叫我们起的誓成为无辜的，",
+  "chapter": 2,
+  "translation": "如果你告知⟨את⟩我们这事，我们就免受你所起之誓⟨的约束⟩，就是你叫我们所起的。",
   "tokens": [
     {
       "surface": "ואם",
@@ -15,16 +13,16 @@
     },
     {
       "surface": "תגידי",
-      "gloss": "你宣告"
+      "gloss": "你告知"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我们这话语（davar）"
+      "marks": "我们这事"
     },
     {
       "surface": "דברנו",
-      "gloss": "我们这*话语*（*davar*）"
+      "gloss": "我们这事"
     },
     {
       "surface": "זה",
@@ -32,15 +30,15 @@
     },
     {
       "surface": "והיינו",
-      "gloss": "我们就⟨是⟩"
+      "gloss": "我们就"
     },
     {
       "surface": "נקים",
-      "gloss": "无辜的"
+      "gloss": "免受"
     },
     {
       "surface": "משבעתך",
-      "gloss": "对你的誓"
+      "gloss": "你所起之誓"
     },
     {
       "surface": "אשר",
@@ -48,7 +46,9 @@
     },
     {
       "surface": "השבעתנו",
-      "gloss": "你叫我们起的"
+      "gloss": "你叫我们所起的"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T08:10:14.545434743Z",
+  "model": "glm-5.2"
 }

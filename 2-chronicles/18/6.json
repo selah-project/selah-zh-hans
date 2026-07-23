@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "2-chronicles 18:6",
   "book": "2-chronicles",
-  "chapter": 18,
-  "verse": 6,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:23:43.268589173Z",
-  "translation": "约沙法说:这里难道没有雅威的 naví ⟨了⟩吗?⟨让我们⟩再去向他寻问。",
+  "chapter": 18,
+  "translation": "约沙法说:这里难道没有属雅威的*naví*了吗?我们可以向他寻问⟨את⟩。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "נביא",
-      "gloss": "naví"
+      "gloss": "*naví*"
     },
     {
       "surface": "ליהוה",
@@ -35,16 +33,18 @@
     },
     {
       "surface": "עוד",
-      "gloss": "再"
+      "gloss": "还"
     },
     {
       "surface": "ונדרשה",
-      "gloss": "⟨让我们⟩寻问"
+      "gloss": "我们可以寻问"
     },
     {
       "surface": "מאתו",
-      "gloss": "从⟨את⟩他",
-      "marks": "他"
+      "gloss": "⟨את⟩",
+      "marks": "他(向其寻问的对象)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T10:08:16.349438803Z",
+  "model": "glm-5.2"
 }

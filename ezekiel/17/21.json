@@ -1,41 +1,40 @@
 {
+  "tier": "glm-5.2",
+  "verse": 21,
   "ref": "ezekiel 17:21",
   "book": "ezekiel",
-  "chapter": 17,
-  "verse": 21,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:59:06.209307578Z",
-  "translation": "至于⟨את⟩所有他的逃兵在所有他的军翼之间 ⟨将⟩倒在剑下;而剩下的人向每一阵鲁阿(风)将被驱散。你们就知道:我,雅威,*davar*(说话)了。",
+  "chapter": 17,
+  "translation": "至于⟨את⟩他的一切逃亡者和他所有队伍的一切兵丁，必倒在刀剑之下；而剩下的人必向各方分散。你们就知道：我雅威已说了⟨这话⟩。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "至于⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的一切逃亡者"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "一切"
     },
     {
       "surface": "מברחו",
-      "gloss": "他的逃兵"
+      "gloss": "他的逃亡者"
     },
     {
       "surface": "בכל",
-      "gloss": "在所有"
+      "gloss": "在……一切"
     },
     {
       "surface": "אגפיו",
-      "gloss": "他的军翼"
+      "gloss": "他的队伍"
     },
     {
       "surface": "בחרב",
-      "gloss": "在剑下"
+      "gloss": "在刀剑之下"
     },
     {
       "surface": "יפלו",
-      "gloss": "⟨将⟩倒"
+      "gloss": "必倒下"
     },
     {
       "surface": "והנשארים",
@@ -43,15 +42,15 @@
     },
     {
       "surface": "לכל",
-      "gloss": "向每一阵"
+      "gloss": "向一切"
     },
     {
       "surface": "רוח",
-      "gloss": "鲁阿(风)"
+      "gloss": "风"
     },
     {
       "surface": "יפרשו",
-      "gloss": "将被驱散"
+      "gloss": "必被分散"
     },
     {
       "surface": "וידעתם",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "——"
+      "gloss": "（引述词）"
     },
     {
       "surface": "אני",
@@ -71,7 +70,9 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "*davar*(说话)了"
+      "gloss": "已说了"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:41:27.796203449Z",
+  "model": "glm-5.2"
 }

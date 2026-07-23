@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "leviticus 3:7",
   "book": "leviticus",
-  "chapter": 3,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:41:13.053019872Z",
-  "translation": "若 ⟨他⟩献上的是一只绵羊羔作为他的קָרְבָּן（献礼），他就要将⟨את⟩它呈献在雅威面前。",
+  "chapter": 3,
+  "translation": "若他献上的是一只绵羊作为他的קָרְבָּן（献礼），他就要将⟨את⟩他的献礼带到雅威面前。",
   "tokens": [
     {
       "surface": "אם",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "כשב",
-      "gloss": "绵羊羔"
+      "gloss": "绵羊"
     },
     {
       "surface": "הוא",
-      "gloss": "他献上的是"
+      "gloss": "他献上的（是）"
     },
     {
       "surface": "מקריב",
@@ -32,16 +30,16 @@
     },
     {
       "surface": "קרבנו",
-      "gloss": "他的קָרְבָּן（献礼）"
+      "gloss": "他的献礼"
     },
     {
       "surface": "והקריב",
-      "gloss": "他就要呈献"
+      "gloss": "他就要将……带近"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩它",
-      "marks": "它"
+      "gloss": "⟨את⟩他",
+      "marks": "他（指绵羊）"
     },
     {
       "surface": "לפני",
@@ -51,5 +49,7 @@
       "surface": "יהוה",
       "gloss": "雅威"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:50:14.759346922Z",
+  "model": "glm-5.2"
 }

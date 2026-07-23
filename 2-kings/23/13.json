@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "2-kings 23:13",
   "book": "2-kings",
-  "chapter": 23,
-  "verse": 13,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:33:02.546280397Z",
-  "translation": "至于 ⟨את⟩ 那些邱坛，它们 ⟨在⟩ 耶路撒冷东边，毁灭山的右边，以色列王所罗门为 人的可憎之物 ash-tóret、的可憎之物 Kemósh、以及 亚扪 人的可憎之物 Mílkóm 所建造的——⟨这⟩ 王 ⟨将它们⟩ 污秽了。",
+  "chapter": 23,
+  "translation": "王也污秽了⟨את⟩那些邱坛，它们在耶路撒冷面前，在毁坏之山的右边，就是以色列王所罗门为西顿人的可憎之物阿斯他录、为摩押的可憎之物基抹、为亚扪子民的可憎之物米勒公所建造的。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "至于 ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "那些邱坛"
     },
     {
       "surface": "הבמות",
@@ -23,11 +22,11 @@
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在……面前"
     },
     {
       "surface": "פני",
-      "gloss": "……的面 \/ 东边"
+      "gloss": "……的面"
     },
     {
       "surface": "ירושלם",
@@ -35,7 +34,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "它们"
+      "gloss": "就是"
     },
     {
       "surface": "מימין",
@@ -43,15 +42,15 @@
     },
     {
       "surface": "להר",
-      "gloss": "山"
+      "gloss": "之山"
     },
     {
       "surface": "המשחית",
-      "gloss": "毁灭"
+      "gloss": "毁坏"
     },
     {
       "surface": "אשר",
-      "gloss": "它们"
+      "gloss": "就是"
     },
     {
       "surface": "בנה",
@@ -71,7 +70,7 @@
     },
     {
       "surface": "לעשתרת",
-      "gloss": "阿施塔特"
+      "gloss": "为阿斯他录"
     },
     {
       "surface": "שקץ",
@@ -79,11 +78,11 @@
     },
     {
       "surface": "צידנים",
-      "gloss": "人的"
+      "gloss": "西顿人"
     },
     {
       "surface": "ולכמוש",
-      "gloss": "和为 Kemósh"
+      "gloss": "为基抹"
     },
     {
       "surface": "שקץ",
@@ -91,11 +90,11 @@
     },
     {
       "surface": "מואב",
-      "gloss": "的"
+      "gloss": "摩押"
     },
     {
       "surface": "ולמלכם",
-      "gloss": "和为 Mílkóm"
+      "gloss": "为米勒公"
     },
     {
       "surface": "תועבת",
@@ -103,7 +102,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "……的子民"
+      "gloss": "子民"
     },
     {
       "surface": "עמון",
@@ -117,5 +116,7 @@
       "surface": "המלך",
       "gloss": "王"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:47:28.463821941Z",
+  "model": "glm-5.2"
 }

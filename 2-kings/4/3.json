@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "2-kings 4:3",
   "book": "2-kings",
-  "chapter": 4,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:53:42.609190318Z",
-  "translation": "他说:你去,为你自己向你所有的邻舍 ⟨מֵאֵת⟩ 器皿——外面的、空的器皿;不要少拿。",
+  "chapter": 4,
+  "translation": "他说：你去,为你自己向你所有的邻舍借用空器皿 —— ⟨את⟩ ⟨不要⟩ 少借。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "לכי",
-      "gloss": "去(阴性单数命令式)"
+      "gloss": "你去"
     },
     {
       "surface": "שאלי",
-      "gloss": "你要求"
+      "gloss": "为你自己求"
     },
     {
       "surface": "לך",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "מאת",
-      "gloss": "⟨מֵאֵת⟩",
+      "gloss": "从⟨את⟩",
       "marks": "你所有的邻舍"
     },
     {
@@ -60,11 +58,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "不要"
+      "gloss": "⟨不要⟩"
     },
     {
       "surface": "תמעיטי",
-      "gloss": "少拿(阴性单数命令式)"
+      "gloss": "少借"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:46:31.932797710Z",
+  "model": "glm-5.2"
 }

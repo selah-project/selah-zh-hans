@@ -1,26 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "deuteronomy 1:18",
   "book": "deuteronomy",
-  "chapter": 1,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:27:46.972342758Z",
-  "translation": "我在那时吩咐了 ⟨את⟩你们 ⟨את⟩一切你们当行的 הַ\/דְּבָרִ֖ים。",
+  "chapter": 1,
+  "translation": "我在那时吩咐了⟨את⟩你们 ⟨את⟩所有这些*话语* —— 即你们当行的事。",
   "tokens": [
     {
       "surface": "ואצוה",
-      "gloss": "于是我吩咐了"
+      "gloss": "我吩咐了"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你们",
-      "marks": "בעת"
+      "gloss": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "בעת",
-      "gloss": "在那时"
+      "gloss": "在……时"
     },
     {
       "surface": "ההוא",
@@ -29,23 +27,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "כל"
+      "marks": "所有"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "所有"
     },
     {
       "surface": "הדברים",
-      "gloss": "הַ\/דְּבָרִ֖ים"
+      "gloss": "这些话语"
     },
     {
       "surface": "אשר",
-      "gloss": "关系词"
+      "gloss": "即"
     },
     {
       "surface": "תעשון",
-      "gloss": "你们当行的"
+      "gloss": "你们当行的事"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T07:33:59.903476127Z",
+  "model": "glm-5.2"
 }

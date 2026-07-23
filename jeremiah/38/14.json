@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "jeremiah 38:14",
   "book": "jeremiah",
-  "chapter": 38,
-  "verse": 14,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:30:12.137709646Z",
-  "translation": "西底家王差遣人去,将耶利米先知带到他那里,到雅威殿中第三入口处;王对耶利米说:\"我问你⟨את⟩一件事,不要向我隐瞒任何*davar*。\"",
+  "chapter": 38,
+  "translation": "西底家王差遣人,将⟨את⟩先知耶利米带到他那里,到雅威殿中第三入口处;王对耶利米说:我问你⟨את⟩一件*davar*(*话*),什么事都不要向我隐瞒。",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "差遣人去"
+      "gloss": "差遣"
     },
     {
       "surface": "המלך",
@@ -23,12 +21,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "将……带"
+      "gloss": "将……带来"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "耶利米"
+      "marks": "先知耶利米"
     },
     {
       "surface": "ירמיהו",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "⟨就是⟩"
+      "gloss": "就是"
     },
     {
       "surface": "בבית",
@@ -92,12 +90,12 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩ 你",
-      "marks": "事"
+      "gloss": "⟨את⟩",
+      "marks": "一件话"
     },
     {
       "surface": "דבר",
-      "gloss": "一件事"
+      "gloss": "*davar*(*话*)"
     },
     {
       "surface": "אל",
@@ -113,7 +111,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "任何*davar*"
+      "gloss": "什么事"
     }
-  ]
+  ],
+  "timestamp": "2026-07-22T09:34:03.156849065Z",
+  "model": "glm-5.2"
 }
