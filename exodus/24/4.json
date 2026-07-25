@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "exodus 24:4",
   "book": "exodus",
-  "chapter": 24,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:26:46.694401678Z",
-  "translation": "摩西写下 ⟨את⟩ 雅威的一切*话语*；清晨早早就起来，在山下筑了一座祭坛，又立了十二根柱石，对应以色列的十二支派。",
+  "chapter": 24,
+  "translation": "摩西写下了⟨את⟩雅威的一切*davar*，清早起来，在山下筑了一座坛，又立了十二根柱石，对应以色列的十二支派。",
   "tokens": [
     {
       "surface": "ויכתב",
-      "gloss": "写下"
+      "gloss": "写下了"
     },
     {
       "surface": "משה",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切话语"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -28,19 +26,19 @@
     },
     {
       "surface": "דברי",
-      "gloss": "*话语*"
+      "gloss": "*davar*（话）"
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "וישכם",
-      "gloss": "清晨早早就起来"
+      "gloss": "清早起来"
     },
     {
       "surface": "בבקר",
-      "gloss": ""
+      "gloss": "在早晨"
     },
     {
       "surface": "ויבן",
@@ -48,11 +46,11 @@
     },
     {
       "surface": "מזבח",
-      "gloss": "一座祭坛"
+      "gloss": "一座坛"
     },
     {
       "surface": "תחת",
-      "gloss": "在……下"
+      "gloss": "在……之下"
     },
     {
       "surface": "ההר",
@@ -60,15 +58,15 @@
     },
     {
       "surface": "ושתים",
-      "gloss": "又十二"
+      "gloss": "和十二"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "（量词：个）"
     },
     {
       "surface": "מצבה",
-      "gloss": "根柱石"
+      "gloss": "柱石"
     },
     {
       "surface": "לשנים",
@@ -76,7 +74,7 @@
     },
     {
       "surface": "עשר",
-      "gloss": ""
+      "gloss": "（量词：个）"
     },
     {
       "surface": "שבטי",
@@ -84,7 +82,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:40:37.839763738Z",
+  "model": "glm-5.2"
 }

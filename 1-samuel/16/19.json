@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-samuel 16:19",
   "book": "1-samuel",
-  "chapter": 16,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:50:49.478952255Z",
-  "translation": "于是扫罗派遣使者去⟨到⟩耶西那里,⟨他⟩说:把你的儿子大卫,就是⟨那⟩在羊群中的,打发到我这里来。",
+  "chapter": 16,
+  "translation": "扫罗派遣使者去⟨到⟩耶西那里,说:把⟨את⟩你的儿子大卫,就是⟨那⟩在羊群中的,打发到我这里来。",
   "tokens": [
     {
       "surface": "וישלח",
-      "gloss": "于是……派遣"
+      "gloss": "于是派遣"
     },
     {
       "surface": "שאול",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "去……那里"
+      "gloss": "去⟨到⟩"
     },
     {
       "surface": "ישי",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "⟨他⟩说"
+      "gloss": "说"
     },
     {
       "surface": "שלחה",
@@ -44,7 +42,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "大卫"
+      "marks": "你的儿子大卫"
     },
     {
       "surface": "דוד",
@@ -60,7 +58,9 @@
     },
     {
       "surface": "בצאן",
-      "gloss": "在羊群中的"
+      "gloss": "在羊群中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:23:24.970978624Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 26,
   "ref": "genesis 34:26",
   "book": "genesis",
-  "chapter": 34,
-  "verse": 26,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:56:21.928599722Z",
-  "translation": "他们用刀杀了哈抹和⟨את⟩⟨他的⟩儿子示剑，从示剑的家里带走了⟨את⟩底拿，然后出来了。",
+  "chapter": 34,
+  "translation": "他们用刀剑的刃杀了⟨את⟩哈抹和⟨את⟩他的儿子示剑,又从示剑的家里取出⟨את⟩底拿,就出去了。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "哈抹"
     },
     {
       "surface": "חמור",
@@ -19,7 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "示剑"
     },
     {
       "surface": "שכם",
@@ -35,19 +35,20 @@
     },
     {
       "surface": "לפי",
-      "gloss": "用……的刃"
+      "gloss": "……的刃"
     },
     {
       "surface": "חרב",
-      "gloss": "刀"
+      "gloss": "刀剑"
     },
     {
       "surface": "ויקחו",
-      "gloss": "他们带走了"
+      "gloss": "他们取出"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "底拿"
     },
     {
       "surface": "דינה",
@@ -55,7 +56,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "从家里"
+      "gloss": "从……的家里"
     },
     {
       "surface": "שכם",
@@ -63,7 +64,9 @@
     },
     {
       "surface": "ויצאו",
-      "gloss": "然后出来了"
+      "gloss": "就出去了"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:34:01.767596557Z",
+  "model": "glm-5.2"
 }

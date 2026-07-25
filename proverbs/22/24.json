@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "proverbs 22:24",
   "book": "proverbs",
-  "chapter": 22,
-  "verse": 24,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:44:09.422077841Z",
-  "translation": "不要与易怒的人结交,不要与⟨את⟩怒气的主人有往来,也不要与烈怒的人同行。",
+  "chapter": 22,
+  "translation": "不要与怒气之主结交,⟨את⟩ ⟨את⟩烈怒之人,不可与他同去;",
   "tokens": [
     {
       "surface": "אל",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "易怒的人 (怒气的主人)"
+      "marks": "怒气之主"
     },
     {
       "surface": "בעל",
-      "gloss": "主人"
+      "gloss": "主"
     },
     {
       "surface": "אף",
@@ -32,7 +30,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "也不要与"
+      "gloss": "⟨את⟩",
+      "marks": "烈怒之人"
     },
     {
       "surface": "איש",
@@ -48,7 +47,9 @@
     },
     {
       "surface": "תבוא",
-      "gloss": "同行 \/ 前去"
+      "gloss": "同去"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:13:05.680600230Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "malachi 1:3",
   "book": "malachi",
-  "chapter": 1,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:38:16.979414738Z",
-  "translation": "我却恨恶以扫;我使⟨את⟩他的山岭变为荒凉,把⟨את⟩他的产业交给旷野的豺狼。",
+  "chapter": 1,
+  "translation": "⟨את⟩以扫我却恨恶；我使⟨את⟩他的山岭变为荒凉，⟨את⟩他的产业交给旷野的胡狼〔注：原文为蜥蜴\/龙〕。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "以扫"
     },
     {
       "surface": "עשו",
@@ -27,7 +26,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的山岭"
     },
     {
       "surface": "הריו",
@@ -39,7 +39,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的产业"
     },
     {
       "surface": "נחלתו",
@@ -47,11 +48,13 @@
     },
     {
       "surface": "לתנות",
-      "gloss": "交给豺狼"
+      "gloss": "交给……的胡狼"
     },
     {
       "surface": "מדבר",
-      "gloss": "旷野的"
+      "gloss": "旷野"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:08:40.297524607Z",
+  "model": "glm-5.2"
 }

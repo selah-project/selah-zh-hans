@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "exodus 34:27",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 27,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:35:01.250545619Z",
-  "translation": "雅威对摩西说：你要将这些⟨את⟩话语写下来；因为凭这些话语的口，我与你和⟨את⟩以色列立了布瑞特。",
+  "chapter": 34,
+  "translation": "雅威对摩西说：你要将这些*话*写下来，因为我是凭这些*话*的口与你和⟨את⟩以色列立布瑞特的。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -36,11 +34,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "这些话语"
+      "marks": "这些话"
     },
     {
       "surface": "הדברים",
-      "gloss": "话语"
+      "gloss": "这些*话*"
     },
     {
       "surface": "האלה",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "话语"
+      "gloss": "这些*话*"
     },
     {
       "surface": "האלה",
@@ -80,12 +78,13 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和 ⟨את⟩",
-      "marks": "以色列"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:43:45.248103630Z",
+  "model": "glm-5.2"
 }

@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "jeremiah 40:1",
   "book": "jeremiah",
-  "chapter": 40,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:31:22.980659591Z",
-  "translation": "那临到耶利米、来自雅威的*话*，在尼布撒拉旦——侍卫长——从拉玛打发他之后；当时他正带着⟨את⟩他，而⟨他⟩被绑在锁链中，在所有耶路撒冷和犹大的被掳者中间，就是被掳往巴比伦去的。",
+  "chapter": 40,
+  "translation": "那临到耶利米的话——来自雅威的⟨את⟩⟨话⟩，在尼布撒打发他离开拉玛之后。当时护卫长在耶路撒冷和犹大所有被掳往巴比伦的流亡者中间带走了⟨את⟩⟨他⟩，他正被链子锁着。",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "那*话*"
+      "gloss": "那话"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "היה",
@@ -43,15 +41,16 @@
     },
     {
       "surface": "שלח",
-      "gloss": "打发"
+      "gloss": "打发离开"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "尼布撒"
     },
     {
       "surface": "נבוזראדן",
-      "gloss": "尼布撒拉旦"
+      "gloss": "尼布撒"
     },
     {
       "surface": "רב",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "טבחים",
-      "gloss": "侍卫"
+      "gloss": "护卫"
     },
     {
       "surface": "מן",
@@ -71,23 +70,24 @@
     },
     {
       "surface": "בקחתו",
-      "gloss": "他带着"
+      "gloss": "他带走时"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "והוא",
-      "gloss": "而⟨他⟩"
+      "gloss": "他"
     },
     {
       "surface": "אסור",
-      "gloss": "被绑"
+      "gloss": "被锁着"
     },
     {
       "surface": "באזקים",
-      "gloss": "在锁链中"
+      "gloss": "在链子中"
     },
     {
       "surface": "בתוך",
@@ -99,7 +99,7 @@
     },
     {
       "surface": "גלות",
-      "gloss": "被掳者"
+      "gloss": "流亡者"
     },
     {
       "surface": "ירושלם",
@@ -111,11 +111,13 @@
     },
     {
       "surface": "המגלים",
-      "gloss": "被掳往"
+      "gloss": "被掳走的"
     },
     {
       "surface": "בבלה",
       "gloss": "巴比伦"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:59:07.128484750Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "leviticus 3:8",
   "book": "leviticus",
-  "chapter": 3,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:41:22.889949285Z",
-  "translation": "他⟨要⟩按手在⟨את⟩他的献礼的头上，在会幕面前宰杀它，亚伦的子们⟨要⟩将⟨את⟩它的血弹在坛的四围。",
+  "chapter": 3,
+  "translation": "他要按手在⟨את⟩他的献礼的头上，在会幕前宰杀它⟨את⟩，亚伦的众子要将⟨את⟩它的血洒在祭坛的四围。",
   "tokens": [
     {
       "surface": "וסמך",
-      "gloss": "他⟨要⟩按"
+      "gloss": "他要按手"
     },
     {
       "surface": "את",
@@ -24,11 +22,11 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在……上"
     },
     {
       "surface": "ראש",
-      "gloss": "头上"
+      "gloss": "头"
     },
     {
       "surface": "קרבנו",
@@ -36,15 +34,16 @@
     },
     {
       "surface": "ושחט",
-      "gloss": "宰杀"
+      "gloss": "并要宰杀"
     },
     {
       "surface": "אתו",
-      "gloss": "它"
+      "gloss": "⟨את⟩它",
+      "marks": "（它）"
     },
     {
       "surface": "לפני",
-      "gloss": "在……面前"
+      "gloss": "在……前"
     },
     {
       "surface": "אהל",
@@ -52,15 +51,15 @@
     },
     {
       "surface": "מועד",
-      "gloss": "会晤"
+      "gloss": "会幕"
     },
     {
       "surface": "וזרקו",
-      "gloss": "他们⟨要⟩弹"
+      "gloss": "他们要洒"
     },
     {
       "surface": "בני",
-      "gloss": "子们"
+      "gloss": "众子"
     },
     {
       "surface": "אהרן",
@@ -77,15 +76,17 @@
     },
     {
       "surface": "על",
-      "gloss": "在"
+      "gloss": "在……上"
     },
     {
       "surface": "המזבח",
-      "gloss": "坛"
+      "gloss": "祭坛"
     },
     {
       "surface": "סביב",
       "gloss": "四围"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:45:20.326240680Z",
+  "model": "glm-5.2"
 }

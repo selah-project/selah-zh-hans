@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "genesis 50:7",
   "book": "genesis",
-  "chapter": 50,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:09:01.859968648Z",
-  "translation": "约瑟上去要安葬他父亲,与他一同上去的有法老所有的仆人、他家的长老,以及埃及地所有的长老。",
+  "chapter": 50,
+  "translation": "约瑟上去安葬⟨את⟩他的父亲,与他一同上去的有法老所有的仆人、他家的长老,以及埃及地所有的长老。",
   "tokens": [
     {
       "surface": "ויעל",
-      "gloss": "于是……上去"
+      "gloss": "上去"
     },
     {
       "surface": "יוסף",
@@ -24,19 +22,19 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他父亲"
+      "marks": "他的父亲"
     },
     {
       "surface": "אביו",
-      "gloss": "他父亲"
+      "gloss": "他的父亲"
     },
     {
       "surface": "ויעלו",
-      "gloss": "一同上去"
+      "gloss": "他们上去"
     },
     {
       "surface": "אתו",
-      "gloss": "与他"
+      "gloss": "与他一同"
     },
     {
       "surface": "כל",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "ביתו",
-      "gloss": "他家"
+      "gloss": "他的家"
     },
     {
       "surface": "וכל",
-      "gloss": "以及……所有的"
+      "gloss": "以及所有的"
     },
     {
       "surface": "זקני",
@@ -74,5 +72,7 @@
       "surface": "מצרים",
       "gloss": "埃及"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:37:36.090298034Z",
+  "model": "glm-5.2"
 }

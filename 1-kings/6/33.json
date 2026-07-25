@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "1-kings 6:33",
   "book": "1-kings",
-  "chapter": 6,
-  "verse": 33,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:01:30.931193962Z",
-  "translation": "同样,他为 ⟨ההיכל⟩ 的入口制作了橄榄木的门框,⟨占⟩ 墙的〈四分之一〉。",
+  "chapter": 6,
+  "translation": "同样,他为圣殿⟨ההיכל⟩的入口制作了橄榄油木的门框,这⟨מאת⟩是墙面⟨רבעית⟩的四分之一。",
   "tokens": [
     {
       "surface": "וכן",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "לפתח",
-      "gloss": "为...的入口"
+      "gloss": "为入口"
     },
     {
       "surface": "ההיכל",
-      "gloss": "殿宇"
+      "gloss": "⟨圣殿⟩"
     },
     {
       "surface": "מזוזות",
@@ -35,15 +33,18 @@
     },
     {
       "surface": "שמן",
-      "gloss": "橄榄"
+      "gloss": "橄榄油"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨占⟩"
+      "gloss": "⟨את⟩",
+      "marks": "墙面四分之一"
     },
     {
       "surface": "רבעית",
       "gloss": "四分之一"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:30:34.297949718Z",
+  "model": "glm-5.2"
 }

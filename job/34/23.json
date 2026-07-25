@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "job 34:23",
   "book": "job",
-  "chapter": 34,
-  "verse": 23,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:06:06.958772110Z",
-  "translation": "因为他不会再加诸于人⟨את⟩，⟨去⟩走向以罗欣，在审判中。",
+  "chapter": 34,
+  "translation": "因为他不会再向⟨את⟩人设定⟨指定时候⟩，⟨让他⟩走向以罗欣，在审判中。",
   "tokens": [
     {
       "surface": "כי",
@@ -19,15 +17,16 @@
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "向"
     },
     {
       "surface": "איש",
-      "gloss": "人"
+      "gloss": "⟨את⟩",
+      "marks": "人"
     },
     {
       "surface": "ישים",
-      "gloss": "他会放置"
+      "gloss": "设定"
     },
     {
       "surface": "עוד",
@@ -35,11 +34,11 @@
     },
     {
       "surface": "להלך",
-      "gloss": "去行走"
+      "gloss": "让他走向"
     },
     {
       "surface": "אל",
-      "gloss": "走向"
+      "gloss": "⟨时候⟩"
     },
     {
       "surface": "אל",
@@ -49,5 +48,7 @@
       "surface": "במשפט",
       "gloss": "在审判中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:15:02.438321088Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "genesis 49:29",
   "book": "genesis",
-  "chapter": 49,
-  "verse": 29,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:08:30.793585520Z",
-  "translation": "他吩咐他们,对他们说:我正被收聚到我的民⟨那裡⟩;你们要埋葬我⟨את⟩到我父祖⟨那裡⟩——到赫人以弗仑那块田裡的⟨那⟩洞穴⟨那裡⟩。",
+  "chapter": 49,
+  "translation": "他吩咐他们 ⟨את⟩，对他们说：我正被收聚到我本民那里。你们要将我 ⟨את⟩ 葬到我父祖那里 —— 到那在赫人以弗仑田间的洞穴那里。",
   "tokens": [
     {
       "surface": "ויצו",
@@ -15,11 +13,12 @@
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他们"
     },
     {
       "surface": "ויאמר",
-      "gloss": "对他们说"
+      "gloss": "他说"
     },
     {
       "surface": "אלהם",
@@ -39,15 +38,16 @@
     },
     {
       "surface": "עמי",
-      "gloss": "我的民"
+      "gloss": "我本民"
     },
     {
       "surface": "קברו",
-      "gloss": "你们要埋葬"
+      "gloss": "你们要葬"
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "我"
     },
     {
       "surface": "אל",
@@ -55,7 +55,7 @@
     },
     {
       "surface": "אבתי",
-      "gloss": "我的父祖"
+      "gloss": "我父祖"
     },
     {
       "surface": "אל",
@@ -67,11 +67,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "那"
     },
     {
       "surface": "בשדה",
-      "gloss": "在田裡"
+      "gloss": "在田间"
     },
     {
       "surface": "עפרון",
@@ -79,7 +79,9 @@
     },
     {
       "surface": "החתי",
-      "gloss": "赫人"
+      "gloss": "那赫人"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:37:26.927609833Z",
+  "model": "glm-5.2"
 }

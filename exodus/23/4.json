@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "exodus 23:4",
   "book": "exodus",
-  "chapter": 23,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:25:48.597463289Z",
-  "translation": "当你遇见你仇敌的牛 ⟨את⟩，或 ⟨את⟩ 他迷路的驴，你一定要把它带回去还给他。",
+  "chapter": 23,
+  "translation": "当你遇见你仇敌的牛或⟨他的⟩驴走迷了路,你一定要把它牵回⟨去⟩还给他。",
   "tokens": [
     {
       "surface": "כִּ֣י",
@@ -22,7 +20,7 @@
       "gloss": "牛"
     },
     {
-      "surface": "אֹֽיִבְ\/ךָ֛",
+      "surface": "אֹֽיִבְךָ֛",
       "gloss": "你仇敌的"
     },
     {
@@ -30,24 +28,26 @@
       "gloss": "或"
     },
     {
-      "surface": "חֲמֹר֖\/וֹ",
-      "gloss": "他的驴"
+      "surface": "חֲמֹר֖וֹ",
+      "gloss": "⟨他的⟩驴"
     },
     {
       "surface": "תֹּעֶ֑ה",
-      "gloss": "迷路的"
+      "gloss": "走迷了路"
     },
     {
       "surface": "הָשֵׁ֥ב",
-      "gloss": "一定要带回"
+      "gloss": "一定要"
     },
     {
-      "surface": "תְּשִׁיבֶ֖\/נּוּ",
-      "gloss": "你要把它带回去"
+      "surface": "תְּשִׁיבֶ֖נּוּ",
+      "gloss": "把它牵回⟨去⟩还给"
     },
     {
-      "surface": "לֽ\/וֹ",
-      "gloss": "给他"
+      "surface": "לֽוֹ",
+      "gloss": "他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:40:10.686023226Z",
+  "model": "glm-5.2"
 }

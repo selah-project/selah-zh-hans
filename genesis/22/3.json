@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "genesis 22:3",
   "book": "genesis",
-  "chapter": 22,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:45:51.480896562Z",
-  "translation": "亚伯拉罕清早起来，备上他的驴，带上⟨את⟩他的两个少年仆人和⟨את⟩以撒他的儿子；他劈好了燔祭的柴，就起身前往以罗欣对他说明的那地方。",
+  "chapter": 22,
+  "translation": "亚伯拉罕清早起来,备上⟨他的⟩驴,带了⟨他的⟩两个仆童与他同去,以及⟨את⟩以撒⟨他的⟩儿子;他劈好了燔祭的柴,就起来,往以罗欣对他说过的那地方去了。",
   "tokens": [
     {
       "surface": "וישכם",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "בבקר",
-      "gloss": "在早晨"
+      "gloss": "在清晨"
     },
     {
       "surface": "ויחבש",
@@ -27,7 +25,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的驴"
     },
     {
       "surface": "חמרו",
@@ -35,11 +34,12 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "带上"
+      "gloss": "带了"
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的两个仆童"
     },
     {
       "surface": "שני",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "נעריו",
-      "gloss": "他的少年仆人"
+      "gloss": "他的仆童"
     },
     {
       "surface": "אתו",
@@ -55,7 +55,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩"
+      "gloss": "以及⟨את⟩",
+      "marks": "以撒"
     },
     {
       "surface": "יצחק",
@@ -67,27 +68,27 @@
     },
     {
       "surface": "ויבקע",
-      "gloss": "劈好"
+      "gloss": "劈好了"
     },
     {
       "surface": "עצי",
-      "gloss": "柴"
+      "gloss": "……的柴"
     },
     {
       "surface": "עלה",
-      "gloss": "燔祭的"
+      "gloss": "燔祭"
     },
     {
       "surface": "ויקם",
-      "gloss": "起身"
+      "gloss": "就起来"
     },
     {
       "surface": "וילך",
-      "gloss": "前往"
+      "gloss": "去了"
     },
     {
       "surface": "אל",
-      "gloss": "去"
+      "gloss": "往"
     },
     {
       "surface": "המקום",
@@ -95,11 +96,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "所……的"
     },
     {
       "surface": "אמר",
-      "gloss": "说明"
+      "gloss": "说过"
     },
     {
       "surface": "לו",
@@ -109,5 +110,7 @@
       "surface": "האלהים",
       "gloss": "以罗欣"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:29:14.613321881Z",
+  "model": "glm-5.2"
 }

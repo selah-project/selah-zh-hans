@@ -1,35 +1,33 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "genesis 27:17",
   "book": "genesis",
-  "chapter": 27,
-  "verse": 17,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:40:20.799056952Z",
-  "translation": "她把美味食物和⟨她⟩所做的面包交给⟨את⟩她儿子雅各的手中。",
+  "chapter": 27,
+  "translation": "她把⟨את⟩美味和⟨את⟩她所做的饼交在雅各她儿子的手中。",
   "tokens": [
     {
       "surface": "ותתן",
-      "gloss": "她交给"
+      "gloss": "她把……交在"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "美味食物"
+      "marks": "美味"
     },
     {
       "surface": "המטעמים",
-      "gloss": "美味食物"
+      "gloss": "美味"
     },
     {
       "surface": "ואת",
       "gloss": "和⟨את⟩",
-      "marks": "面包"
+      "marks": "饼"
     },
     {
       "surface": "הלחם",
-      "gloss": "面包"
+      "gloss": "饼"
     },
     {
       "surface": "אשר",
@@ -41,7 +39,7 @@
     },
     {
       "surface": "ביד",
-      "gloss": "……的手中"
+      "gloss": "在……手中"
     },
     {
       "surface": "יעקב",
@@ -51,5 +49,7 @@
       "surface": "בנה",
       "gloss": "她儿子"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:31:43.605570688Z",
+  "model": "glm-5.2"
 }

@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "deuteronomy 22:7",
   "book": "deuteronomy",
-  "chapter": 22,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:41:26.357928760Z",
-  "translation": "你务要放飞⟨את⟩母鸟，但幼鸟你可以取归自己；为要使你得福，使你的日子长久。",
+  "chapter": 22,
+  "translation": "打发，你总要打发 ⟨את⟩ 母鸟走；⟨את⟩ 幼鸟你可以取给自己；为了使之对你好，你就可以延长日子。",
   "tokens": [
     {
       "surface": "שַׁלֵּחַ",
-      "gloss": "务要放飞"
+      "gloss": "打发"
     },
     {
-      "surface": "תְּשַׁלַּח",
-      "gloss": "放飞"
+      "surface": "תְּשַׁלַּח֙",
+      "gloss": "你总要打发"
     },
     {
       "surface": "אֶת",
@@ -23,15 +21,16 @@
       "marks": "母鸟"
     },
     {
-      "surface": "הָ\/אֵם",
+      "surface": "הָאֵ֔ם",
       "gloss": "母鸟"
     },
     {
-      "surface": "וְ\/אֶת",
-      "gloss": "但⟨את⟩"
+      "surface": "וְאֶת",
+      "gloss": "⟨את⟩",
+      "marks": "幼鸟"
     },
     {
-      "surface": "הַ\/בָּנִים",
+      "surface": "הַבָּנִ֖ים",
       "gloss": "幼鸟"
     },
     {
@@ -39,28 +38,30 @@
       "gloss": "你可以取"
     },
     {
-      "surface": "לָ\/ךְ",
-      "gloss": "归自己"
+      "surface": "לָ֑ךְ",
+      "gloss": "给自己"
     },
     {
-      "surface": "לְמַ֨עַן",
-      "gloss": "为要使"
+      "surface": "לְמַ֨עַן֙",
+      "gloss": "为了"
     },
     {
       "surface": "יִ֣יטַב",
-      "gloss": "你得福"
+      "gloss": "使之好"
     },
     {
-      "surface": "לָ\/ךְ",
-      "gloss": "你"
+      "surface": "לָ֔ךְ",
+      "gloss": "对你"
     },
     {
-      "surface": "וְ\/הַאֲרַכְתָּ֖",
-      "gloss": "使……长久"
+      "surface": "וְהַאֲרַכְתָּ֖",
+      "gloss": "你就可以延长"
     },
     {
       "surface": "יָמִֽים",
-      "gloss": "你的日子"
+      "gloss": "日子"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:26:24.989234153Z",
+  "model": "glm-5.2"
 }

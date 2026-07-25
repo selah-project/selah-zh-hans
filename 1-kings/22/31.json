@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "1-kings 22:31",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 31,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:16:26.172955416Z",
-  "translation": "亚兰王吩咐⟨את⟩他的战车统领三十二人,说:你们不可与小的或大的交战;只要与以色列王⟨את⟩单独交战。",
+  "chapter": 22,
+  "translation": "亚兰王吩咐⟨את⟩他的战车统领三十二人,说:不要与小的或大的争战,只要与以色列王单独⟨争战⟩⟨את⟩。",
   "tokens": [
     {
-      "surface": "ו\/מלך",
-      "gloss": "而……王"
+      "surface": "ומלך",
+      "gloss": "而……的王"
     },
     {
       "surface": "ארם",
@@ -28,11 +26,11 @@
     },
     {
       "surface": "שרי",
-      "gloss": "统领"
+      "gloss": "统领们"
     },
     {
-      "surface": "ה\/רכב",
-      "gloss": "战车"
+      "surface": "הרכב",
+      "gloss": "战车的"
     },
     {
       "surface": "אשר",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "לו",
-      "gloss": "他的"
+      "gloss": "他"
     },
     {
       "surface": "שלשים",
@@ -52,15 +50,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "说"
+      "gloss": "说:"
     },
     {
       "surface": "לא",
-      "gloss": "不可"
+      "gloss": "不要"
     },
     {
       "surface": "תלחמו",
-      "gloss": "你们交战"
+      "gloss": "你们争战"
     },
     {
       "surface": "את",
@@ -73,7 +71,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "或⟨את⟩"
+      "gloss": "和⟨את⟩",
+      "marks": "大的"
     },
     {
       "surface": "גדול",
@@ -85,7 +84,7 @@
     },
     {
       "surface": "אם",
-      "gloss": "若"
+      "gloss": "若是"
     },
     {
       "surface": "את",
@@ -102,7 +101,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "单独"
+      "gloss": "他单独"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:34:18.092919466Z",
+  "model": "glm-5.2"
 }

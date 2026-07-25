@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "numbers 32:30",
   "book": "numbers",
-  "chapter": 32,
-  "verse": 30,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:23:42.034052027Z",
-  "translation": "但若武装的人不与你们一同渡过,他们就必在迦南地中,在你们中间取得产业。",
+  "chapter": 32,
+  "translation": "但若他们不带着装备与⟨את⟩你们一同渡过去,他们就要在迦南地你们中间 ⟨被⟩ 安置产业。",
   "tokens": [
     {
       "surface": "ואם",
@@ -19,19 +17,20 @@
     },
     {
       "surface": "יעברו",
-      "gloss": "他们渡过"
+      "gloss": "他们渡过去"
     },
     {
       "surface": "חלוצים",
-      "gloss": "武装的人"
+      "gloss": "带着装备的"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你们"
+      "gloss": "⟨את⟩你们",
+      "marks": "你们"
     },
     {
       "surface": "ונאחזו",
-      "gloss": "他们就必取得"
+      "gloss": "他们就要被安置产业"
     },
     {
       "surface": "בתככם",
@@ -45,5 +44,7 @@
       "surface": "כנען",
       "gloss": "迦南"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:59:54.441606565Z",
+  "model": "glm-5.2"
 }

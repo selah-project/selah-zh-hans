@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 33,
   "ref": "exodus 34:33",
   "book": "exodus",
-  "chapter": 34,
-  "verse": 33,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-20T06:45:22.868489175Z",
-  "translation": "摩西说完了⟨与⟩他们⟨同⟩说话,就把帕子放在他脸上。",
+  "chapter": 34,
+  "translation": "摩西说完了⟨从⟩与他们说话，就把帕子放在自己的脸上。",
   "tokens": [
     {
       "surface": "ויכל",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨与⟩他们⟨同⟩"
+      "gloss": "与他们"
     },
     {
       "surface": "ויתן",
-      "gloss": "就放"
+      "gloss": "就把……放"
     },
     {
       "surface": "על",
@@ -35,11 +33,13 @@
     },
     {
       "surface": "פניו",
-      "gloss": "他的脸"
+      "gloss": "自己的脸"
     },
     {
       "surface": "מסוה",
       "gloss": "帕子"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:44:01.841809436Z",
+  "model": "glm-5.2"
 }

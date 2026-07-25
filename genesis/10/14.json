@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "genesis 10:14",
   "book": "genesis",
-  "chapter": 10,
-  "verse": 14,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:38:38.015009691Z",
-  "translation": "以及⟨את⟩帕斯鲁细人,以及⟨את⟩迦斯路希人,非利士人从他们中间出来;以及⟨את⟩迦斐托人。",
+  "chapter": 10,
+  "translation": "和⟨את⟩帕斯鲁细人，和⟨את⟩迦斯路希人（从那里⟨有⟩非利士人出来），和⟨את⟩迦斐托人。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "帕斯鲁细人"
     },
     {
       "surface": "פתרסים",
@@ -19,7 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "迦斯路希人"
     },
     {
       "surface": "כסלחים",
@@ -27,7 +27,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": ""
+      "gloss": "从那里"
     },
     {
       "surface": "יצאו",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "משם",
-      "gloss": "从他们中间"
+      "gloss": "从那里"
     },
     {
       "surface": "פלשתים",
@@ -43,11 +43,14 @@
     },
     {
       "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "迦斐托人"
     },
     {
       "surface": "כפתרים",
       "gloss": "迦斐托人"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:27:19.775008767Z",
+  "model": "glm-5.2"
 }

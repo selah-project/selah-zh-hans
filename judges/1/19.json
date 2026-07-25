@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "judges 1:19",
   "book": "judges",
-  "chapter": 1,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:06:33.496121945Z",
-  "translation": "雅威与犹大同在,⟨他⟩占领了⟨את⟩山地;因为⟨他⟩不能赶出谷中居民,因为他们有铁战车。",
+  "chapter": 1,
+  "translation": "雅威与⟨את⟩犹大同在,他就占取了⟨את⟩山地;因为⟨他不能⟩赶出⟨את⟩谷中的居民,因为他们有铁战车。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "⟨他⟩与……同在"
+      "gloss": "⟨他与⟩……同在"
     },
     {
       "surface": "יהוה",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "וירש",
-      "gloss": "⟨他⟩占领了"
+      "gloss": "他就占取了"
     },
     {
       "surface": "את",
@@ -49,12 +47,12 @@
     },
     {
       "surface": "להוריש",
-      "gloss": "能赶出"
+      "gloss": "赶出"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "谷中居民"
+      "marks": "谷中的居民"
     },
     {
       "surface": "ישבי",
@@ -62,7 +60,7 @@
     },
     {
       "surface": "העמק",
-      "gloss": "谷中"
+      "gloss": "谷中的"
     },
     {
       "surface": "כי",
@@ -80,5 +78,7 @@
       "surface": "להם",
       "gloss": "他们有"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:12:30.654710616Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "1-kings 13:15",
   "book": "1-kings",
-  "chapter": 13,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:08:20.032857283Z",
-  "translation": "他对他说：跟我⟨回家⟩去,吃饼。",
+  "chapter": 13,
+  "translation": "他对他说:与我⟨走吧⟩,⟨回⟩家去,吃饼。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他对他说"
+      "gloss": "他说"
     },
     {
       "surface": "אליו",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "לך",
-      "gloss": "去"
+      "gloss": "⟨走吧⟩"
     },
     {
       "surface": "אתי",
-      "gloss": "跟我"
+      "gloss": "与我"
     },
     {
       "surface": "הביתה",
-      "gloss": "⟨回家⟩"
+      "gloss": "⟨回⟩家去"
     },
     {
       "surface": "ואכל",
@@ -37,5 +35,7 @@
       "surface": "לחם",
       "gloss": "饼"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:32:02.405315416Z",
+  "model": "glm-5.2"
 }

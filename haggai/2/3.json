@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "haggai 2:3",
   "book": "haggai",
-  "chapter": 2,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:32:21.579596984Z",
-  "translation": "你们中间谁存留,曾见过这⟨הבית⟩殿宇在其原先的荣耀中？⟨הלוא⟩你们现在看它,在你们眼中岂不如无物一样？",
+  "chapter": 2,
+  "translation": "你们中间谁剩下的⟨是⟩那见过这⟨הבית⟩殿宇在其荣耀之先前的？⟨而⟩现在你们看它如⟨何⟩？在你们眼中它岂不像无一样？",
   "tokens": [
     {
       "surface": "מי",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "הנשאר",
-      "gloss": "存留的"
+      "gloss": "剩下的"
     },
     {
       "surface": "אשר",
-      "gloss": "曾"
+      "gloss": "那"
     },
     {
       "surface": "ראה",
@@ -44,15 +42,15 @@
     },
     {
       "surface": "בכבודו",
-      "gloss": "在其荣耀中"
+      "gloss": "在其荣耀"
     },
     {
       "surface": "הראשון",
-      "gloss": "原先的"
+      "gloss": "先前的"
     },
     {
       "surface": "ומה",
-      "gloss": "如今"
+      "gloss": "而现在……如何"
     },
     {
       "surface": "אתם",
@@ -60,11 +58,12 @@
     },
     {
       "surface": "ראים",
-      "gloss": "看它"
+      "gloss": "看"
     },
     {
       "surface": "אתו",
-      "gloss": "它"
+      "gloss": "⟨את⟩",
+      "marks": "它 (殿宇)"
     },
     {
       "surface": "עתה",
@@ -76,15 +75,17 @@
     },
     {
       "surface": "כמהו",
-      "gloss": "如"
+      "gloss": "像它"
     },
     {
       "surface": "כאין",
-      "gloss": "无物"
+      "gloss": "如无"
     },
     {
       "surface": "בעיניכם",
       "gloss": "在你们眼中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:07:46.145167852Z",
+  "model": "glm-5.2"
 }

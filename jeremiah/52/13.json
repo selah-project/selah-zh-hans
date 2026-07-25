@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "jeremiah 52:13",
   "book": "jeremiah",
-  "chapter": 52,
-  "verse": 13,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:39:37.049763859Z",
-  "translation": "他焚烧了⟨את⟩雅威的殿和⟨את⟩王宫,以及耶路撒冷所有的房屋;⟨את⟩一切的宏伟大宅,他都付之一炬。",
+  "chapter": 52,
+  "translation": "他焚烧了⟨את⟩雅威的殿和⟨את⟩王宫,以及⟨את⟩耶路撒冷的一切房屋;⟨את⟩一切大房屋,他都用火烧尽了。",
   "tokens": [
     {
       "surface": "וישרף",
@@ -16,7 +14,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅威的殿"
+      "marks": "殿"
     },
     {
       "surface": "בית",
@@ -33,20 +31,20 @@
     },
     {
       "surface": "בית",
-      "gloss": "宫"
+      "gloss": "房屋"
     },
     {
       "surface": "המלך",
-      "gloss": "王的"
+      "gloss": "王"
     },
     {
       "surface": "ואת",
       "gloss": "以及⟨את⟩",
-      "marks": "所有的房屋"
+      "marks": "一切"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "一切"
     },
     {
       "surface": "בתי",
@@ -59,7 +57,7 @@
     {
       "surface": "ואת",
       "gloss": "⟨את⟩",
-      "marks": "一切的宏伟大宅"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -71,15 +69,17 @@
     },
     {
       "surface": "הגדול",
-      "gloss": "宏伟大宅"
+      "gloss": "大"
     },
     {
       "surface": "שרף",
-      "gloss": "他都付之一炬"
+      "gloss": "他烧尽了"
     },
     {
       "surface": "באש",
-      "gloss": ""
+      "gloss": "用火"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:00:48.270688672Z",
+  "model": "glm-5.2"
 }

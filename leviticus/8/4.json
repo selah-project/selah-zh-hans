@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "leviticus 8:4",
   "book": "leviticus",
-  "chapter": 8,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:44:24.949998165Z",
-  "translation": "摩西就照着雅威所吩咐的行了;会众就聚集到会幕门口。",
+  "chapter": 8,
+  "translation": "摩西就照雅威所吩咐他的去行了；会众就被招聚到会幕门口。",
   "tokens": [
     {
       "surface": "ויעש",
-      "gloss": "就照着……行了"
+      "gloss": "行了"
     },
     {
       "surface": "משה",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "כאשר",
-      "gloss": "如同"
+      "gloss": "照……所"
     },
     {
       "surface": "צוה",
-      "gloss": "所吩咐的"
+      "gloss": "吩咐"
     },
     {
       "surface": "יהוה",
@@ -31,12 +29,12 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩他",
       "marks": "他"
     },
     {
       "surface": "ותקהל",
-      "gloss": "就聚集"
+      "gloss": "就被招聚"
     },
     {
       "surface": "העדה",
@@ -58,5 +56,7 @@
       "surface": "מועד",
       "gloss": "会幕"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:45:56.606914119Z",
+  "model": "glm-5.2"
 }

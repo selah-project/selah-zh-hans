@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "isaiah 53:9",
   "book": "isaiah",
-  "chapter": 53,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:42:48.971854455Z",
-  "translation": "人们指定他与恶人同得坟墓,又与富人同在祂的死亡中;因为祂 ⟨没有⟩ 行强暴,祂口中 ⟨没有⟩ 诡诈。",
+  "chapter": 53,
+  "translation": "他赐 ⟨את⟩ 恶人 ⟨为⟩ 他的坟墓，⟨את⟩ 富贵人 ⟨为⟩ 他的死亡之冢；尽管他没有行过强暴，他口中也没有诡诈。",
   "tokens": [
     {
       "surface": "ויתן",
-      "gloss": "人们指定"
+      "gloss": "他赐"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "与恶人"
+      "marks": "恶人"
     },
     {
       "surface": "רשעים",
@@ -24,39 +22,40 @@
     },
     {
       "surface": "קברו",
-      "gloss": "同得坟墓"
+      "gloss": "他的坟墓"
     },
     {
       "surface": "ואת",
-      "gloss": "又与"
+      "gloss": "和⟨את⟩",
+      "marks": "富有的人"
     },
     {
       "surface": "עשיר",
-      "gloss": "富人"
+      "gloss": "富有的人"
     },
     {
       "surface": "במתיו",
-      "gloss": "在祂的死亡中"
+      "gloss": "在他的死亡之冢"
     },
     {
       "surface": "על",
-      "gloss": "因为"
+      "gloss": "尽管"
     },
     {
       "surface": "לא",
-      "gloss": "⟨没有⟩"
+      "gloss": "没有"
     },
     {
       "surface": "חמס",
-      "gloss": "行强暴"
+      "gloss": "行过强暴"
     },
     {
       "surface": "עשה",
-      "gloss": "行"
+      "gloss": "他行"
     },
     {
       "surface": "ולא",
-      "gloss": "祂口中 ⟨没有⟩"
+      "gloss": "也没有"
     },
     {
       "surface": "מרמה",
@@ -64,7 +63,9 @@
     },
     {
       "surface": "בפיו",
-      "gloss": "在祂口中"
+      "gloss": "在他的口中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:46:32.383256557Z",
+  "model": "glm-5.2"
 }

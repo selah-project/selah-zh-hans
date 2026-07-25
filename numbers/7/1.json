@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "numbers 7:1",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:44:50.160895956Z",
-  "translation": "事情发生⟨在⟩摩西完成竖立会幕的那日,就膏抹⟨את⟩它,分别为圣⟨את⟩它和⟨את⟩它一切器具,又膏抹⟨את⟩祭坛和⟨את⟩它一切器具,并膏抹它们,分别为圣⟨את⟩它们",
+  "chapter": 7,
+  "translation": "摩西立完会幕的那日,他膏⟨את⟩它,分别为圣⟨את⟩它,以及⟨את⟩它一切的器具,和⟨את⟩坛并⟨את⟩它一切的器具;他膏它们,分别为圣⟨את⟩它们。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "事情发生"
+      "gloss": "⟨发生了⟩"
     },
     {
       "surface": "ביום",
-      "gloss": "在"
+      "gloss": "在……的那日"
     },
     {
       "surface": "כלות",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "להקים",
-      "gloss": "竖立"
+      "gloss": "立起"
     },
     {
       "surface": "את",
@@ -40,12 +38,12 @@
     },
     {
       "surface": "וימשח",
-      "gloss": "就膏抹"
+      "gloss": "他就膏"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "分别为圣"
+      "gloss": "⟨את⟩它",
+      "marks": "它 (会幕)"
     },
     {
       "surface": "ויקדש",
@@ -53,12 +51,13 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "和"
+      "gloss": "⟨את⟩它",
+      "marks": "它 (会幕)"
     },
     {
       "surface": "ואת",
-      "gloss": "和"
+      "gloss": "以及⟨את⟩",
+      "marks": "它一切的器具"
     },
     {
       "surface": "כל",
@@ -66,20 +65,21 @@
     },
     {
       "surface": "כליו",
-      "gloss": "器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "ואת",
-      "gloss": "又膏抹",
-      "marks": "祭坛"
+      "gloss": "和⟨את⟩",
+      "marks": "坛"
     },
     {
       "surface": "המזבח",
-      "gloss": "祭坛"
+      "gloss": "坛"
     },
     {
       "surface": "ואת",
-      "gloss": "和"
+      "gloss": "和⟨את⟩",
+      "marks": "它一切的器具"
     },
     {
       "surface": "כל",
@@ -87,11 +87,11 @@
     },
     {
       "surface": "כליו",
-      "gloss": "器具"
+      "gloss": "它的器具"
     },
     {
       "surface": "וימשחם",
-      "gloss": "并膏抹它们"
+      "gloss": "他膏它们"
     },
     {
       "surface": "ויקדש",
@@ -99,8 +99,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": ""
+      "gloss": "⟨את⟩它们",
+      "marks": "它们 (坛与器具)"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:54:38.681322054Z",
+  "model": "glm-5.2"
 }

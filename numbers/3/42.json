@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 42,
   "ref": "numbers 3:42",
   "book": "numbers",
-  "chapter": 3,
-  "verse": 42,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:02:16.707268555Z",
-  "translation": "摩西数点了⟨את⟩以色列子⟨民⟩中所有的头生的，正如雅威所吩咐他的。",
+  "chapter": 3,
+  "translation": "摩西数点了 ⟨את⟩ 雅威所吩咐 ⟨את⟩ 他的：以色列子中的每一名头生的。",
   "tokens": [
     {
       "surface": "ויפקד",
-      "gloss": "于是摩西数点了"
+      "gloss": "数点了"
     },
     {
       "surface": "משה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "所吩咐的"
+      "gloss": "所吩咐"
     },
     {
       "surface": "יהוה",
@@ -37,11 +35,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所有的头生的"
+      "marks": "每一名头生的"
     },
     {
       "surface": "כל",
-      "gloss": "所有的"
+      "gloss": "每一名"
     },
     {
       "surface": "בכר",
@@ -49,11 +47,13 @@
     },
     {
       "surface": "בבני",
-      "gloss": "在……子⟨民⟩中"
+      "gloss": "子中的"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:53:52.574465826Z",
+  "model": "glm-5.2"
 }

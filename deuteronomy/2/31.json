@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 31,
   "ref": "deuteronomy 2:31",
   "book": "deuteronomy",
-  "chapter": 2,
-  "verse": 31,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:28:20.687188107Z",
-  "translation": "雅威对我说：看哪,我已开始将⟨את⟩西宏和他的地交在你面前；你开始占领,好得⟨את⟩他的地为业。",
+  "chapter": 2,
+  "translation": "雅威对我说：看哪，我已开始将⟨את⟩西宏和⟨את⟩他的地交在你面前；开始去占据，去得⟨את⟩他的地。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "תת",
-      "gloss": "将……交出"
+      "gloss": "给\/交"
     },
     {
       "surface": "לפניך",
@@ -48,7 +46,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩"
+      "gloss": "和⟨את⟩",
+      "marks": "他的地"
     },
     {
       "surface": "ארצו",
@@ -56,15 +55,15 @@
     },
     {
       "surface": "החל",
-      "gloss": "你开始"
+      "gloss": "开始"
     },
     {
       "surface": "רש",
-      "gloss": "占领"
+      "gloss": "占据"
     },
     {
       "surface": "לרשת",
-      "gloss": "得……为业"
+      "gloss": "去得\/去占据"
     },
     {
       "surface": "את",
@@ -75,5 +74,7 @@
       "surface": "ארצו",
       "gloss": "他的地"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:00:27.636126811Z",
+  "model": "glm-5.2"
 }

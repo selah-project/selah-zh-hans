@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "exodus 25:9",
   "book": "exodus",
-  "chapter": 25,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:27:41.407181556Z",
-  "translation": "按照一切我所要指示你的——⟨את⟩ 会幕的模式和 ⟨את⟩ 一切器皿的模式——如此你们要制造。",
+  "chapter": 25,
+  "translation": "按照一切我所向你显示的——⟨את⟩会幕的模式和⟨את⟩一切器具的模式——如此你们要制造。",
   "tokens": [
     {
       "surface": "ככל",
@@ -23,11 +21,12 @@
     },
     {
       "surface": "מראה",
-      "gloss": "指示"
+      "gloss": "显示"
     },
     {
       "surface": "אותך",
-      "gloss": "你的 ⟨את⟩"
+      "gloss": "向你",
+      "marks": "标记后缀'你'"
     },
     {
       "surface": "את",
@@ -40,12 +39,12 @@
     },
     {
       "surface": "המשכן",
-      "gloss": "会幕的"
+      "gloss": "会幕"
     },
     {
       "surface": "ואת",
-      "gloss": "和 ⟨את⟩",
-      "marks": "一切器皿的模式"
+      "gloss": "和⟨את⟩",
+      "marks": "一切器具的模式"
     },
     {
       "surface": "תבנית",
@@ -57,7 +56,7 @@
     },
     {
       "surface": "כליו",
-      "gloss": "器皿的"
+      "gloss": "器具"
     },
     {
       "surface": "וכן",
@@ -67,5 +66,7 @@
       "surface": "תעשו",
       "gloss": "你们要制造"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:41:35.082795256Z",
+  "model": "glm-5.2"
 }

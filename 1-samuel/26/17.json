@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "1-samuel 26:17",
   "book": "1-samuel",
-  "chapter": 26,
-  "verse": 17,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-20T15:05:26.525808171Z",
-  "translation": "扫罗认出大卫的声音，便说：「这是你的声音吗，我的子大卫？」大卫说：「是我的声音，我主 ⟨הַ\/מֶּֽלֶךְ⟩。」",
+  "chapter": 26,
+  "translation": "扫罗认出了⟨את⟩大卫的声音,说:「这是你的声音吗,我的子大卫?」大卫说:「我主⟨the⟩王啊,⟨是⟩我的声音。」",
   "tokens": [
     {
       "surface": "ויכר",
-      "gloss": "认出"
+      "gloss": "认出了"
     },
     {
       "surface": "שאול",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "大卫的声音"
+      "marks": "声音"
     },
     {
       "surface": "קול",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "便说"
+      "gloss": "说"
     },
     {
       "surface": "הקולך",
@@ -68,7 +66,9 @@
     },
     {
       "surface": "המלך",
-      "gloss": "王陛下"
+      "gloss": "王"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:25:54.544270452Z",
+  "model": "glm-5.2"
 }

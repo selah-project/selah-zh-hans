@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "1-kings 22:14",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 14,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:16:13.158801519Z",
-  "translation": "米该雅说:雅威活着——因为雅威对我说什么,⟨את⟩那话我必讲说。",
+  "chapter": 22,
+  "translation": "米该雅说：雅威活着 ⟨⟩，因为雅威对我说什么，我就说什么 ⟨את⟩ ⟨את⟩。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -32,11 +30,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那话"
+      "marks": "什么（雅威对我所说的）"
     },
     {
       "surface": "אשר",
-      "gloss": "……的话"
+      "gloss": "那"
     },
     {
       "surface": "יאמר",
@@ -53,11 +51,13 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "我必讲说"
+      "marks": "我就说"
     },
     {
       "surface": "אדבר",
-      "gloss": "我必讲说"
+      "gloss": "我就说"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:33:59.826922755Z",
+  "model": "glm-5.2"
 }

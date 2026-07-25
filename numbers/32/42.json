@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 42,
   "ref": "numbers 32:42",
   "book": "numbers",
-  "chapter": 32,
-  "verse": 42,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:24:02.862475612Z",
-  "translation": "挪巴去了，攻取了刻纳特及其村镇；他按自己的名字称它⟨为⟩挪巴。",
+  "chapter": 32,
+  "translation": "挪巴去了,攻取了⟨את⟩刻纳特和⟨את⟩它的村庄,就按自己的名字称它为挪巴。",
   "tokens": [
     {
       "surface": "ונבח",
@@ -32,12 +30,11 @@
     },
     {
       "surface": "ואת",
-      "gloss": "及其",
-      "marks": "村镇"
+      "gloss": "和⟨את⟩"
     },
     {
       "surface": "בנתיה",
-      "gloss": "村镇"
+      "gloss": "它的村庄"
     },
     {
       "surface": "ויקרא",
@@ -55,5 +52,7 @@
       "surface": "בשמו",
       "gloss": "按自己的名字"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:59:55.203950844Z",
+  "model": "glm-5.2"
 }

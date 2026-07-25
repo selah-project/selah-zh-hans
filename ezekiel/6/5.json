@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "ezekiel 6:5",
   "book": "ezekiel",
-  "chapter": 6,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:42:40.154410810Z",
-  "translation": "我必将⟨את⟩以色列众子的尸首摆在他们的偶像面前,我必将你们的骸骨散布在你们的祭坛四围。",
+  "chapter": 6,
+  "translation": "我必将以色列人的尸首放在他们的偶像面前,我必将你们的骸骨四散在你们的祭坛周围。",
   "tokens": [
     {
       "surface": "ונתתי",
-      "gloss": "我必将"
+      "gloss": "我必将……放置"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列众子的尸首"
+      "marks": "以色列人的尸首"
     },
     {
       "surface": "פגרי",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "众子"
+      "gloss": "……人"
     },
     {
       "surface": "ישראל",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "לפני",
-      "gloss": "摆在……面前"
+      "gloss": "在……面前"
     },
     {
       "surface": "גלוליהם",
@@ -40,7 +38,7 @@
     },
     {
       "surface": "וזריתי",
-      "gloss": "我必将……散布"
+      "gloss": "我必将……四散"
     },
     {
       "surface": "את",
@@ -53,11 +51,13 @@
     },
     {
       "surface": "סביבות",
-      "gloss": "四围"
+      "gloss": "周围"
     },
     {
       "surface": "מזבחותיכם",
       "gloss": "你们的祭坛"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:29:23.667809996Z",
+  "model": "glm-5.2"
 }

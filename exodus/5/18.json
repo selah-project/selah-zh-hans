@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "exodus 5:18",
   "book": "exodus",
-  "chapter": 5,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:12:24.857463913Z",
-  "translation": "现在去服劳役吧！ ⟨את⟩ 秸草不会给你们，但 ⟨את⟩ 砖的定额你们要交出。”",
+  "chapter": 5,
+  "translation": "现在去吧,服劳役!⟨⟨稻草⟩⟩不会给你们,⟨但⟩砖的定量你们要交出。⟨⟩",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,16 +13,15 @@
     },
     {
       "surface": "לכו",
-      "gloss": "去"
+      "gloss": "去吧"
     },
     {
       "surface": "עבדו",
-      "gloss": "服劳役吧！"
+      "gloss": "服劳役!"
     },
     {
       "surface": "ותבן",
-      "gloss": "⟨את⟩ 秸草",
-      "marks": "秸草"
+      "gloss": "稻草"
     },
     {
       "surface": "לא",
@@ -40,8 +37,7 @@
     },
     {
       "surface": "ותכן",
-      "gloss": "⟨את⟩ ……的定额",
-      "marks": "砖的定额"
+      "gloss": "定量"
     },
     {
       "surface": "לבנים",
@@ -51,5 +47,7 @@
       "surface": "תתנו",
       "gloss": "你们要交出"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:38:10.829953613Z",
+  "model": "glm-5.2"
 }

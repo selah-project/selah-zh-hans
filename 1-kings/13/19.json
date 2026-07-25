@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-kings 13:19",
   "book": "1-kings",
-  "chapter": 13,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:49:26.158941221Z",
-  "translation": "于是他回去与他一起，在他家里吃饼，喝水。",
+  "chapter": 13,
+  "translation": "于是他与他回去，在他家里吃了饼，喝了水。",
   "tokens": [
     {
       "surface": "וישב",
@@ -15,12 +13,11 @@
     },
     {
       "surface": "אתו",
-      "gloss": "与他一起",
-      "marks": "与那人"
+      "gloss": "与他"
     },
     {
       "surface": "ויאכל",
-      "gloss": "吃饼"
+      "gloss": "吃了"
     },
     {
       "surface": "לחם",
@@ -32,11 +29,13 @@
     },
     {
       "surface": "וישת",
-      "gloss": "喝水"
+      "gloss": "喝了"
     },
     {
       "surface": "מים",
       "gloss": "水"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:32:01.692075760Z",
+  "model": "glm-5.2"
 }

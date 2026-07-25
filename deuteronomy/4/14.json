@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 14,
   "ref": "deuteronomy 4:14",
   "book": "deuteronomy",
-  "chapter": 4,
-  "verse": 14,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:30:06.070200438Z",
-  "translation": "至于我,雅威在⟨那⟩时吩咐⟨我⟩,要教导你们⟨את⟩律例与典章,好叫你们在你们正在过河去得为业的那⟨את⟩地上遵行;",
+  "chapter": 4,
+  "translation": "至于我,雅威在⟨那⟩时吩咐了我,要教导你们⟨את⟩律例与典章,好叫你们在那边过去得为业的地上遵行⟨את⟩它们——⟨在⟩那地,就是你们正过去得为业的地方。",
   "tokens": [
     {
       "surface": "ואתי",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "צוה",
-      "gloss": "吩咐"
+      "gloss": "吩咐了"
     },
     {
       "surface": "יהוה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "בעת",
-      "gloss": "在⟨那⟩时"
+      "gloss": "在……时"
     },
     {
       "surface": "ההוא",
@@ -51,15 +49,16 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "它们（律例与典章）"
     },
     {
       "surface": "בארץ",
-      "gloss": "在地上"
+      "gloss": "在那地"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "就是"
     },
     {
       "surface": "אתם",
@@ -67,15 +66,17 @@
     },
     {
       "surface": "עברים",
-      "gloss": "正在过河"
+      "gloss": "正过去"
     },
     {
       "surface": "שמה",
-      "gloss": "去"
+      "gloss": "往那里"
     },
     {
       "surface": "לרשתה",
       "gloss": "得为业"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:00:52.370303650Z",
+  "model": "glm-5.2"
 }

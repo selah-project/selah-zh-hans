@@ -1,29 +1,28 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 5:16",
   "book": "leviticus",
-  "chapter": 5,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:42:34.847746376Z",
-  "translation": "至于⟨את⟩他干罪所涉及的圣物，他⟨要⟩全数偿还，并在其上加增五分之一，将其交给祭司；祭司要用赎愆祭的公绵羊为他遮盖，他就蒙赦免。",
+  "chapter": 5,
+  "translation": "至于⟨את⟩他在圣物上所亏欠的，⟨他⟩要偿还，并⟨את⟩其五分之一加在其上，交⟨את⟩⟨它⟩给祭司；祭司要用补偿祭的公绵羊为他遮盖，⟨它⟩就蒙赦免。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "至于⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他在圣物上所亏欠的"
     },
     {
       "surface": "אשר",
-      "gloss": "所涉及的"
+      "gloss": "所"
     },
     {
       "surface": "חטא",
-      "gloss": "他干罪"
+      "gloss": "亏欠"
     },
     {
       "surface": "מן",
-      "gloss": "从"
+      "gloss": "在……上"
     },
     {
       "surface": "הקדש",
@@ -31,11 +30,12 @@
     },
     {
       "surface": "ישלם",
-      "gloss": "他偿还"
+      "gloss": "⟨他⟩要偿还"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "其五分之一"
     },
     {
       "surface": "חמישתו",
@@ -43,7 +43,7 @@
     },
     {
       "surface": "יוסף",
-      "gloss": "加增"
+      "gloss": "加"
     },
     {
       "surface": "עליו",
@@ -51,11 +51,12 @@
     },
     {
       "surface": "ונתן",
-      "gloss": "并将……交给"
+      "gloss": "并交"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩它"
+      "gloss": "⟨את⟩",
+      "marks": "⟨它⟩给祭司"
     },
     {
       "surface": "לכהן",
@@ -79,7 +80,7 @@
     },
     {
       "surface": "האשם",
-      "gloss": "赎愆祭"
+      "gloss": "补偿祭的"
     },
     {
       "surface": "ונסלח",
@@ -87,7 +88,9 @@
     },
     {
       "surface": "לו",
-      "gloss": "他"
+      "gloss": "⟨他⟩"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:45:30.964290621Z",
+  "model": "glm-5.2"
 }

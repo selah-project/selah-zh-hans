@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 28,
   "ref": "leviticus 18:28",
   "book": "leviticus",
-  "chapter": 18,
-  "verse": 28,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:43:16.293426095Z",
-  "translation": "免得那地在你们污秽它的时候将⟨את⟩你们呕吐出来,正如它呕吐了⟨את⟩那在你们以先的列国一样。",
+  "chapter": 18,
+  "translation": "免得 ⟨הארץ⟩ 在你们污秽它的时候将⟨את⟩你们吐出来，如同它吐出了在你们以先的⟨את⟩那国一样。",
   "tokens": [
     {
       "surface": "ולא",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "תקיא",
-      "gloss": "她呕吐"
+      "gloss": "她将吐出"
     },
     {
       "surface": "הארץ",
-      "gloss": "那地"
+      "gloss": "⟨הארץ⟩"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩你们",
       "marks": "你们"
     },
     {
@@ -32,33 +30,35 @@
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩",
-      "marks": "她(那地)"
+      "gloss": "⟨את⟩它",
+      "marks": "地（阴性前缀宾语）"
     },
     {
       "surface": "כאשר",
-      "gloss": "正如"
+      "gloss": "如同"
     },
     {
       "surface": "קאה",
-      "gloss": "她呕吐了"
+      "gloss": "她吐出了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那列国"
+      "marks": "那国"
     },
     {
       "surface": "הגוי",
-      "gloss": "那列国"
+      "gloss": "那国"
     },
     {
       "surface": "אשר",
-      "gloss": "那"
+      "gloss": "那（关系代词）"
     },
     {
       "surface": "לפניכם",
-      "gloss": "在你们以先的"
+      "gloss": "在你们以先"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:50:04.827485433Z",
+  "model": "glm-5.2"
 }

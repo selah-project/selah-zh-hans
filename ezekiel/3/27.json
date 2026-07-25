@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "ezekiel 3:27",
   "book": "ezekiel",
-  "chapter": 3,
-  "verse": 27,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:41:30.934396028Z",
-  "translation": "当我与你说话时，我要⟨את⟩你的口打开，你要对他们说：‘万军之雅威阿多奈如此说：能听的，让他听；不肯听的，由他不听 —— 因为⟨他们⟩是悖逆之家。’”",
+  "chapter": 3,
+  "translation": "当我与你说话时,我要⟨את⟩打开你的口,你要对他们说:'阿多奈 雅威如此说:肯听的,让他听;不肯听的,让他不听 —— 因为他们⟨是⟩悖逆之家。'",
   "tokens": [
     {
       "surface": "ובדברי",
-      "gloss": "当我与……说话时"
+      "gloss": "当我说话时"
     },
     {
       "surface": "אותך",
       "gloss": "⟨את⟩",
-      "marks": "你的口"
+      "marks": "你"
     },
     {
       "surface": "אפתח",
@@ -57,19 +55,19 @@
     },
     {
       "surface": "השמע",
-      "gloss": "能听的"
-    },
-    {
-      "surface": "ישמע",
       "gloss": "让他听"
     },
     {
+      "surface": "ישמע",
+      "gloss": "听"
+    },
+    {
       "surface": "והחדל",
-      "gloss": "不肯听的"
+      "gloss": "让他停止"
     },
     {
       "surface": "יחדל",
-      "gloss": "由他不听"
+      "gloss": "停止"
     },
     {
       "surface": "כי",
@@ -77,15 +75,17 @@
     },
     {
       "surface": "בית",
-      "gloss": "之家"
+      "gloss": "家"
     },
     {
       "surface": "מרי",
-      "gloss": "悖逆"
+      "gloss": "悖逆的"
     },
     {
       "surface": "המה",
-      "gloss": "他们（是）"
+      "gloss": "他们"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:01:12.346245815Z",
+  "model": "glm-5.2"
 }

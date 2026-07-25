@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "exodus 11:10",
   "book": "exodus",
-  "chapter": 11,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:16:47.373554232Z",
-  "translation": "摩西和亚伦在法老面前行了⟨את⟩这一切奇事,但雅威使法老的心刚硬,⟨他⟩没有把⟨את⟩以色列的儿子们从⟨他的⟩地打发出去。",
+  "chapter": 11,
+  "translation": "摩西和亚伦行了 ⟨את⟩ 这一切奇事在法老面前;而雅威使 ⟨את⟩ 法老的心坚固,⟨他⟩ 就没有将 ⟨את⟩ 以色列的众子从他的地遣走。",
   "tokens": [
     {
       "surface": "ומשה",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "这一切奇事"
+      "marks": "这一切"
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "这一切"
     },
     {
       "surface": "המפתים",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "ויחזק",
-      "gloss": "但……使刚硬"
+      "gloss": "使……坚固"
     },
     {
       "surface": "יהוה",
@@ -57,7 +55,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "法老的心"
+      "marks": "心"
     },
     {
       "surface": "לב",
@@ -69,20 +67,20 @@
     },
     {
       "surface": "ולא",
-      "gloss": "没有"
+      "gloss": "就没有"
     },
     {
       "surface": "שלח",
-      "gloss": "打发出去"
+      "gloss": "遣走"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列的儿子们"
+      "marks": "以色列的众子"
     },
     {
       "surface": "בני",
-      "gloss": "儿子们"
+      "gloss": "众子"
     },
     {
       "surface": "ישראל",
@@ -90,7 +88,9 @@
     },
     {
       "surface": "מארצו",
-      "gloss": "从⟨他的⟩地"
+      "gloss": "从他的地"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:38:40.820748907Z",
+  "model": "glm-5.2"
 }

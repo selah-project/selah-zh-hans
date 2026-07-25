@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "2-kings 18:29",
   "book": "2-kings",
-  "chapter": 18,
-  "verse": 29,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:39:59.642107906Z",
-  "translation": "王如此说:希西家不要迷惑你们,因为他不能将你们从他的手中救出来。",
+  "chapter": 18,
+  "translation": "王如此说：'希西家不可诱导你们，因为他不能从⟨他⟩的手中救出⟨את⟩你们。'",
   "tokens": [
     {
       "surface": "כה",
@@ -23,11 +21,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "不要"
+      "gloss": "不可"
     },
     {
       "surface": "ישיא",
-      "gloss": "迷惑"
+      "gloss": "诱导"
     },
     {
       "surface": "לכם",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "לא",
-      "gloss": "不能"
+      "gloss": "不"
     },
     {
       "surface": "יוכל",
@@ -51,7 +49,7 @@
     },
     {
       "surface": "להציל",
-      "gloss": "将...救出来"
+      "gloss": "救出"
     },
     {
       "surface": "אתכם",
@@ -62,5 +60,7 @@
       "surface": "מידו",
       "gloss": "从他的手中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:39:21.382823850Z",
+  "model": "glm-5.2"
 }

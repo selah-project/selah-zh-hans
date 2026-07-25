@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "genesis 38:5",
   "book": "genesis",
-  "chapter": 38,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:59:12.996634731Z",
-  "translation": "她又再一次生育,生了一个儿子,就称呼⟨את⟩他的名字为示拉;她在生他的时候,⟨他⟩正在基悉。",
+  "chapter": 38,
+  "translation": "她又继续⟨生⟩了一个儿子，就给⟨את⟩他的名字起名叫示拉；她生他的时候，⟨他⟩在基悉。",
   "tokens": [
     {
       "surface": "ותסף",
-      "gloss": "她又再一次"
+      "gloss": "她又继续"
     },
     {
       "surface": "עוד",
-      "gloss": "继续"
+      "gloss": "再"
     },
     {
       "surface": "ותלד",
-      "gloss": "生育"
+      "gloss": "⟨生⟩"
     },
     {
       "surface": "בן",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ותקרא",
-      "gloss": "她就称呼"
+      "gloss": "就给……起名叫"
     },
     {
       "surface": "את",
@@ -44,20 +42,22 @@
     },
     {
       "surface": "והיה",
-      "gloss": "⟨他⟩正在"
+      "gloss": "⟨他⟩在"
     },
     {
       "surface": "בכזיב",
-      "gloss": "在基悉"
+      "gloss": "基悉"
     },
     {
       "surface": "בלדתה",
-      "gloss": "在她生"
+      "gloss": "她生……的时候"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩他",
+      "gloss": "⟨את⟩",
       "marks": "他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:34:55.560243824Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "1-kings 13:7",
   "book": "1-kings",
-  "chapter": 13,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:08:14.234422105Z",
-  "translation": "王对以罗欣的人说：⟨请⟩与我⟨一起⟩回家⟨去⟩,用饭,我也要给你一份礼物。",
+  "chapter": 13,
+  "translation": "王对神人说话:⟨来⟩ ⟨与⟩我⟨一起⟩回家去,⟨refresh⟩你⟨自己⟩,我必给你⟨一份⟩礼物。",
   "tokens": [
     {
       "surface": "וידבר",
-      "gloss": "⟨他⟩对……说"
+      "gloss": "说话"
     },
     {
       "surface": "המלך",
@@ -35,20 +33,19 @@
     },
     {
       "surface": "אתי",
-      "gloss": "⟨את⟩与我⟨一起⟩",
-      "marks": "回家用饭"
+      "gloss": "⟨与⟩我"
     },
     {
       "surface": "הביתה",
-      "gloss": "回家⟨去⟩"
+      "gloss": "回家去"
     },
     {
       "surface": "וסעדה",
-      "gloss": "用饭"
+      "gloss": "⟨refresh⟩"
     },
     {
       "surface": "ואתנה",
-      "gloss": "我也要给"
+      "gloss": "我必给"
     },
     {
       "surface": "לך",
@@ -56,7 +53,9 @@
     },
     {
       "surface": "מתת",
-      "gloss": "一份礼物"
+      "gloss": "礼物"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:31:48.953722446Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "2-kings 11:12",
   "book": "2-kings",
-  "chapter": 11,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:24:45.443404052Z",
-  "translation": "他领出⟨את⟩王的儿子，把冠冕戴在他头上，把⟨את⟩那见证交给他；他们立⟨את⟩他为王，膏他，他们拍掌，说：“愿王万岁！”",
+  "chapter": 11,
+  "translation": "他领出王的儿子，把⟨את⟩冠冕戴在他头上，又给⟨את⟩法版；他们就立⟨את⟩他作王，膏他，击掌，说：愿王万岁！",
   "tokens": [
     {
       "surface": "ויוצא",
@@ -28,7 +26,7 @@
     },
     {
       "surface": "ויתן",
-      "gloss": "他给 \/ 戴在"
+      "gloss": "他给"
     },
     {
       "surface": "עליו",
@@ -37,7 +35,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那冠冕"
+      "marks": "冠冕"
     },
     {
       "surface": "הנזר",
@@ -46,28 +44,28 @@
     {
       "surface": "ואת",
       "gloss": "和⟨את⟩",
-      "marks": "那见证"
+      "marks": "法版"
     },
     {
       "surface": "העדות",
-      "gloss": "那见证"
+      "gloss": "法版"
     },
     {
       "surface": "וימלכו",
-      "gloss": "他们立……为王"
+      "gloss": "他们立……作王"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩他",
-      "marks": "膏他"
+      "marks": "他"
     },
     {
       "surface": "וימשחהו",
-      "gloss": "并膏他"
+      "gloss": "膏他"
     },
     {
       "surface": "ויכו",
-      "gloss": "他们拍"
+      "gloss": "他们击"
     },
     {
       "surface": "כף",
@@ -85,5 +83,7 @@
       "surface": "המלך",
       "gloss": "王"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:28:37.224210504Z",
+  "model": "glm-5.2"
 }

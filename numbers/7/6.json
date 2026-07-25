@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "numbers 7:6",
   "book": "numbers",
-  "chapter": 7,
-  "verse": 6,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:05:18.369009649Z",
-  "translation": "摩西取了⟨את⟩⟨那些⟩车和⟨את⟩⟨那些⟩牛，把它们交给⟨那些⟩利未人。",
+  "chapter": 7,
+  "translation": "摩西取了⟨את⟩牛车和⟨את⟩牛,把它们交给利未人。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "车"
+      "marks": "牛车"
     },
     {
       "surface": "העגלת",
-      "gloss": "⟨那些⟩车"
+      "gloss": "牛车"
     },
     {
       "surface": "ואת",
@@ -33,7 +31,7 @@
     },
     {
       "surface": "הבקר",
-      "gloss": "⟨那些⟩牛"
+      "gloss": "牛"
     },
     {
       "surface": "ויתן",
@@ -41,15 +39,18 @@
     },
     {
       "surface": "אותם",
-      "gloss": "把它们"
+      "gloss": "⟨את⟩它们",
+      "marks": "交给"
     },
     {
       "surface": "אל",
-      "gloss": "给 \/ 交给"
+      "gloss": "给"
     },
     {
       "surface": "הלוים",
-      "gloss": "⟨那些⟩利未人"
+      "gloss": "利未人"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:25:59.282037863Z",
+  "model": "glm-5.2"
 }

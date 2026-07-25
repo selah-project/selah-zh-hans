@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 30,
   "ref": "numbers 14:30",
   "book": "numbers",
-  "chapter": 14,
-  "verse": 30,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:10:51.352547295Z",
-  "translation": "⟨如果⟩你们要进入那地——我举起⟨את⟩我的手 ⟨为了⟩使你们安居在其中——⟨那么⟩除了迦勒，耶孚尼的儿子，和约书亚，嫩的儿子，⟨你们绝不⟩。",
+  "chapter": 14,
+  "translation": "你们必不能进入⟨那⟩地，就是我举起⟨את⟩我的手⟨起誓⟩要使⟨את⟩你们住在其中的——除了迦勒，耶孚尼的子，和约书亚，嫩的子。",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "⟨如果⟩"
+      "gloss": "除非"
     },
     {
       "surface": "אתם",
@@ -19,19 +17,19 @@
     },
     {
       "surface": "תבאו",
-      "gloss": "要进入"
+      "gloss": "进入"
     },
     {
       "surface": "אל",
-      "gloss": "进入\/来到"
+      "gloss": "到"
     },
     {
       "surface": "הארץ",
-      "gloss": "那地"
+      "gloss": "⟨那⟩地"
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "就是"
     },
     {
       "surface": "נשאתי",
@@ -48,11 +46,12 @@
     },
     {
       "surface": "לשכן",
-      "gloss": "⟨为了⟩使……安居"
+      "gloss": "要使住"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "בה",
@@ -60,7 +59,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨那么⟩"
+      "gloss": "——"
     },
     {
       "surface": "אם",
@@ -72,7 +71,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "儿子"
+      "gloss": "……的子"
     },
     {
       "surface": "יפנה",
@@ -84,11 +83,13 @@
     },
     {
       "surface": "בן",
-      "gloss": "儿子"
+      "gloss": "……的子"
     },
     {
       "surface": "נון",
       "gloss": "嫩"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:55:54.959529139Z",
+  "model": "glm-5.2"
 }

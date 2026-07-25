@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "joshua 23:15",
   "book": "joshua",
-  "chapter": 23,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:47:16.139866999Z",
-  "translation": "正如 ⟨这⟩ 一切美事临到你们身上,就是雅威你们的以罗欣对你们所说的,⟨这样⟩ 雅威也必将 ⟨את⟩ 一切灾祸临到你们身上,直到将你们从 ⟨这⟩ 雅威你们的以罗欣所赐给你们的美地上除灭。",
+  "chapter": 23,
+  "translation": "⟨事情⟩必⟨是这样⟩:正如雅威你们的以罗欣对你们说的⟨一切⟩好*话*已经临到你们身上,照样,雅威也必将⟨את⟩ ⟨一切⟩坏的*话*带到你们身上,直到⟨他⟩从雅威你们的以罗欣赐给你们的这块好土地上把⟨את⟩你们除灭。",
   "tokens": [
     {
       "surface": "והיה",
-      "gloss": "正如"
+      "gloss": "⟨事情⟩必⟨是这样⟩"
     },
     {
       "surface": "כאשר",
-      "gloss": "⟨这⟩"
+      "gloss": "正如"
     },
     {
       "surface": "בא",
@@ -27,23 +25,23 @@
     },
     {
       "surface": "כל",
-      "gloss": "一切"
+      "gloss": "⟨一切⟩"
     },
     {
       "surface": "הדבר",
-      "gloss": "美事"
+      "gloss": "*话*"
     },
     {
       "surface": "הטוב",
-      "gloss": ""
+      "gloss": "好"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "关系代词⟨那⟩"
     },
     {
       "surface": "דבר",
-      "gloss": "所说的"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
@@ -59,11 +57,11 @@
     },
     {
       "surface": "כן",
-      "gloss": "⟨这样⟩"
+      "gloss": "照样"
     },
     {
       "surface": "יביא",
-      "gloss": "必...临到"
+      "gloss": "必带"
     },
     {
       "surface": "יהוה",
@@ -71,12 +69,12 @@
     },
     {
       "surface": "עליכם",
-      "gloss": "你们身上"
+      "gloss": "到你们身上"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切灾祸"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -84,11 +82,11 @@
     },
     {
       "surface": "הדבר",
-      "gloss": "灾祸"
+      "gloss": "*话*"
     },
     {
       "surface": "הרע",
-      "gloss": ""
+      "gloss": "坏的"
     },
     {
       "surface": "עד",
@@ -96,11 +94,12 @@
     },
     {
       "surface": "השמידו",
-      "gloss": "将...除灭"
+      "gloss": "除灭"
     },
     {
       "surface": "אותכם",
-      "gloss": "你们"
+      "gloss": "⟨את⟩你们",
+      "marks": "你们"
     },
     {
       "surface": "מעל",
@@ -108,27 +107,27 @@
     },
     {
       "surface": "האדמה",
-      "gloss": "地"
+      "gloss": "土地"
     },
     {
       "surface": "הטובה",
-      "gloss": "美"
+      "gloss": "好"
     },
     {
       "surface": "הזאת",
-      "gloss": "⟨这⟩"
+      "gloss": "这块"
     },
     {
       "surface": "אשר",
-      "gloss": "所赐"
+      "gloss": "关系代词⟨那⟩"
     },
     {
       "surface": "נתן",
-      "gloss": ""
+      "gloss": "赐给"
     },
     {
       "surface": "לכם",
-      "gloss": "给你们"
+      "gloss": "你们"
     },
     {
       "surface": "יהוה",
@@ -138,5 +137,7 @@
       "surface": "אלהיכם",
       "gloss": "你们的以罗欣"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:12:17.336173592Z",
+  "model": "glm-5.2"
 }

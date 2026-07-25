@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "nehemiah 9:9",
   "book": "nehemiah",
-  "chapter": 9,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:47:33.769530324Z",
-  "translation": "你看见了我们祖先在埃及所受的苦难，你听见了他们在芦苇海的呼喊。",
+  "chapter": 9,
+  "translation": "你看见了⟨את⟩我们列祖在埃及的困苦,你也听见了他们在芦苇海的呐喊;",
   "tokens": [
     {
       "surface": "ותרא",
@@ -16,15 +14,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "苦难"
+      "marks": "我们列祖的困苦"
     },
     {
       "surface": "עני",
-      "gloss": "苦难"
+      "gloss": "困苦"
     },
     {
       "surface": "אבתינו",
-      "gloss": "我们祖先的"
+      "gloss": "我们列祖"
     },
     {
       "surface": "במצרים",
@@ -32,20 +30,20 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "呼喊"
+      "gloss": "你也听见了⟨את⟩"
     },
     {
       "surface": "זעקתם",
-      "gloss": "他们的呼喊"
+      "gloss": "他们的呐喊",
+      "marks": "他们的呐喊"
     },
     {
       "surface": "שמעת",
-      "gloss": "你听见了"
+      "gloss": ""
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "在"
     },
     {
       "surface": "ים",
@@ -55,5 +53,7 @@
       "surface": "סוף",
       "gloss": "芦苇"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:19:16.233896980Z",
+  "model": "glm-5.2"
 }

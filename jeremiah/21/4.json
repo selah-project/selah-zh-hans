@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "jeremiah 21:4",
   "book": "jeremiah",
-  "chapter": 21,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:19:05.597052821Z",
-  "translation": "雅威 以色列 的 以罗欣 如此 说:看哪,我必将 你们 手 中 所有的 战争 器具,即 你们 用 ⟨את⟩ 它们 与 巴比伦 王 和 加尔底亚 人 争战的 — 围困 你们 的 人在 城墙 外面 — 我 必 将 它们 聚集 在 这 城 的 中间。",
+  "chapter": 21,
+  "translation": "以色列的以罗欣、雅威如此说:看哪,我⟨将⟩转回⟨את⟩你们手中的兵器,就是你们用来与巴比伦王以及围困你们的迦勒底人——他们⟨正⟩在城墙外——交战的;我⟨将⟩把他们收聚到这城中间。",
   "tokens": [
     {
       "surface": "כה",
@@ -35,24 +33,24 @@
     },
     {
       "surface": "מסב",
-      "gloss": "我必将...转回\/转向"
+      "gloss": "转回"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "器具"
+      "marks": "兵器"
     },
     {
       "surface": "כלי",
-      "gloss": "器具"
+      "gloss": "兵器"
     },
     {
       "surface": "המלחמה",
-      "gloss": "战争"
+      "gloss": "战斗的"
     },
     {
       "surface": "אשר",
-      "gloss": "即"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "בידכם",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "即"
+      "gloss": "⟨就是⟩"
     },
     {
       "surface": "אתם",
@@ -68,11 +66,11 @@
     },
     {
       "surface": "נלחמים",
-      "gloss": "争战"
+      "gloss": "交战的"
     },
     {
       "surface": "בם",
-      "gloss": "用"
+      "gloss": "用它们"
     },
     {
       "surface": "את",
@@ -89,15 +87,16 @@
     },
     {
       "surface": "ואת",
-      "gloss": "和"
+      "gloss": "以及⟨את⟩",
+      "marks": "迦勒底人"
     },
     {
       "surface": "הכשדים",
-      "gloss": "加尔底亚人"
+      "gloss": "迦勒底人"
     },
     {
       "surface": "הצרים",
-      "gloss": "围困...的"
+      "gloss": "围困的"
     },
     {
       "surface": "עליכם",
@@ -105,7 +104,7 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "外面"
+      "gloss": "在……外"
     },
     {
       "surface": "לחומה",
@@ -113,15 +112,15 @@
     },
     {
       "surface": "ואספתי",
-      "gloss": "我必将...聚集"
+      "gloss": "我⟨将⟩收聚"
     },
     {
       "surface": "אותם",
-      "gloss": "它们"
+      "gloss": "他们"
     },
     {
       "surface": "אל",
-      "gloss": "在...里"
+      "gloss": "到"
     },
     {
       "surface": "תוך",
@@ -135,5 +134,7 @@
       "surface": "הזאת",
       "gloss": "这"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:52:24.218714378Z",
+  "model": "glm-5.2"
 }

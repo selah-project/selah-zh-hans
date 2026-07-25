@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-kings 1:3",
   "book": "1-kings",
-  "chapter": 1,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:56:52.098791627Z",
-  "translation": "于是他们在全以色列的边界搜寻一位美丽的少女,找到了书念人亚比煞,⟨את⟩她被带到 ⟨ה⟩王面前。",
+  "chapter": 1,
+  "translation": "于是他们在全以色列的边界寻找一位美丽的少女,找到了 ⟨את⟩ 书念人亚比煞,把她带到 ⟨את⟩ 王面前。",
   "tokens": [
     {
       "surface": "ויבקשו",
-      "gloss": "于是他们搜寻"
+      "gloss": "于是他们寻找"
     },
     {
       "surface": "נערה",
@@ -40,7 +38,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "亚比煞"
+      "marks": "书念人亚比煞"
     },
     {
       "surface": "אבישג",
@@ -52,16 +50,18 @@
     },
     {
       "surface": "ויבאו",
-      "gloss": "他们带来"
+      "gloss": "他们把……带到"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨את⟩她",
-      "marks": "她到王面前"
+      "gloss": "⟨את⟩",
+      "marks": "王"
     },
     {
       "surface": "למלך",
-      "gloss": "给 ⟨ה⟩王"
+      "gloss": "王面前"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:29:36.454540006Z",
+  "model": "glm-5.2"
 }

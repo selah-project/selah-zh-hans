@@ -1,25 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "numbers 35:6",
   "book": "numbers",
-  "chapter": 35,
-  "verse": 6,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:26:22.972086739Z",
-  "translation": "至于你们要给利未人的那些城邑,其中应有六座避难城,⟨它们就是⟩你们要给⟨את⟩六座避难城,使那杀人的可以逃到那里的;在这些之外,你们还要给四十二座城。",
+  "chapter": 35,
+  "translation": "⟨את⟩ 那些你们要给利未人的城邑,就是六座避难城,你们要给⟨它们⟩,使那杀人的可以逃往那里;在这些之外,你们要再给四十二座城。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "那些城邑"
     },
     {
       "surface": "הערים",
-      "gloss": "至于那些城邑"
+      "gloss": "那些城邑"
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "就是"
     },
     {
       "surface": "תתנו",
@@ -32,15 +31,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "六座避难城"
+      "marks": "六座"
     },
     {
       "surface": "שש",
-      "gloss": "六"
+      "gloss": "六座"
     },
     {
       "surface": "ערי",
-      "gloss": "……的城"
+      "gloss": "城"
     },
     {
       "surface": "המקלט",
@@ -48,7 +47,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "它们"
     },
     {
       "surface": "תתנו",
@@ -56,7 +55,7 @@
     },
     {
       "surface": "לנס",
-      "gloss": "为了逃往"
+      "gloss": "为逃往"
     },
     {
       "surface": "שמה",
@@ -84,7 +83,9 @@
     },
     {
       "surface": "עיר",
-      "gloss": "城"
+      "gloss": "座城"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:00:05.647122269Z",
+  "model": "glm-5.2"
 }

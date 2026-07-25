@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 106:7",
   "book": "psalms",
-  "chapter": 106,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:17:36.408691541Z",
-  "translation": "我们的父辈在埃及不顾悟你的奇事，不记念你丰盛的חֶסֶד（厚恩），反而在海边——在芦苇海上——背叛了⟨他⟩。",
+  "chapter": 106,
+  "translation": "我们的列祖在埃及不明白你的奇事,不记念⟨את⟩你丰盛的慈爱;他们在海上,在芦苇海上悖逆。",
   "tokens": [
     {
       "surface": "אבותינו",
-      "gloss": "我们的父辈"
+      "gloss": "我们的列祖"
     },
     {
       "surface": "במצרים",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "השכילו",
-      "gloss": "顾悟"
+      "gloss": "明白"
     },
     {
       "surface": "נפלאותיך",
@@ -48,15 +46,15 @@
     },
     {
       "surface": "חסדיך",
-      "gloss": "你的חֶסֶד（厚恩）"
+      "gloss": "你的慈爱"
     },
     {
       "surface": "וימרו",
-      "gloss": "反而背叛了"
+      "gloss": "他们悖逆"
     },
     {
       "surface": "על",
-      "gloss": "在……边"
+      "gloss": "在……上"
     },
     {
       "surface": "ים",
@@ -64,11 +62,13 @@
     },
     {
       "surface": "בים",
-      "gloss": "在海"
+      "gloss": "在海上"
     },
     {
       "surface": "סוף",
-      "gloss": "芦荟（红海）"
+      "gloss": "芦苇"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:11:24.175386896Z",
+  "model": "glm-5.2"
 }

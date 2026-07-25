@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "genesis 41:16",
   "book": "genesis",
-  "chapter": 41,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:01:28.782123303Z",
-  "translation": "约瑟回答法老,说:不在我,以罗欣将回答⟨את⟩法老的平安。",
+  "chapter": 41,
+  "translation": "约瑟回答法老,说:不在于我;以罗欣将回答⟨את⟩⟨法老⟩的平安。",
   "tokens": [
     {
       "surface": "ויען",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "בלעדי",
-      "gloss": "不在我"
+      "gloss": "不在于我"
     },
     {
       "surface": "אלהים",
@@ -45,7 +43,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "法老的平安"
+      "marks": "平安"
     },
     {
       "surface": "שלום",
@@ -53,7 +51,9 @@
     },
     {
       "surface": "פרעה",
-      "gloss": "法老的"
+      "gloss": "法老"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:24:57.943123810Z",
+  "model": "glm-5.2"
 }

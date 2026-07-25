@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 20:16",
   "book": "leviticus",
-  "chapter": 20,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:54:15.018370021Z",
-  "translation": "至于女人，她若接近任何牲畜要与牠交合，⟨你⟩要杀死⟨את⟩这女人和⟨את⟩⟨那⟩牲畜；他们必被处死，他们的血在他们身上。",
+  "chapter": 20,
+  "translation": "若一个女人靠近任何走兽为要交配⟨את⟩她，你要杀⟨את⟩那女人和⟨את⟩那走兽；必被处死，他们的血在他们身上。",
   "tokens": [
     {
       "surface": "ואשה",
-      "gloss": "至于女人"
+      "gloss": "（若）一个女人"
     },
     {
       "surface": "אשר",
-      "gloss": "她若"
+      "gloss": "她"
     },
     {
       "surface": "תקרב",
-      "gloss": "接近"
+      "gloss": "靠近"
     },
     {
       "surface": "אל",
@@ -31,44 +29,45 @@
     },
     {
       "surface": "בהמה",
-      "gloss": "牲畜"
+      "gloss": "走兽"
     },
     {
       "surface": "לרבעה",
-      "gloss": "要与牠交合"
+      "gloss": "为要交配"
     },
     {
       "surface": "אתה",
-      "gloss": "⟨她⟩"
+      "gloss": "她"
     },
     {
       "surface": "והרגת",
-      "gloss": "⟨你⟩要杀死"
+      "gloss": "你要杀"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "这女人"
+      "marks": "那女人"
     },
     {
       "surface": "האשה",
-      "gloss": "这女人"
+      "gloss": "那女人"
     },
     {
       "surface": "ואת",
-      "gloss": "和⟨את⟩"
+      "gloss": "和⟨את⟩",
+      "marks": "那走兽"
     },
     {
       "surface": "הבהמה",
-      "gloss": "⟨那⟩牲畜"
+      "gloss": "那走兽"
     },
     {
       "surface": "מות",
-      "gloss": "死亡"
+      "gloss": "死"
     },
     {
       "surface": "יומתו",
-      "gloss": "他们必被处死"
+      "gloss": "必被处死"
     },
     {
       "surface": "דמיהם",
@@ -78,5 +77,7 @@
       "surface": "בם",
       "gloss": "在他们身上"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:51:29.781637146Z",
+  "model": "glm-5.2"
 }

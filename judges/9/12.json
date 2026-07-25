@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "judges 9:12",
   "book": "judges",
-  "chapter": 9,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:12:10.488148641Z",
-  "translation": "树木对葡萄树说：你来作⟨את⟩我们的王吧。",
+  "chapter": 9,
+  "translation": "树木对葡萄树说：去，⟨את⟩你，⟨来⟩作我们的王。",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -23,12 +21,12 @@
     },
     {
       "surface": "לכי",
-      "gloss": "你来"
+      "gloss": "去"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "作我们的王"
+      "marks": "你"
     },
     {
       "surface": "מלוכי",
@@ -36,7 +34,9 @@
     },
     {
       "surface": "עלינו",
-      "gloss": "我们"
+      "gloss": "over us"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:15:49.608503968Z",
+  "model": "glm-5.2"
 }

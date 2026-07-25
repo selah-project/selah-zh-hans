@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 17,
   "ref": "1-samuel 20:17",
   "book": "1-samuel",
-  "chapter": 20,
-  "verse": 17,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T03:20:19.376603661Z",
-  "translation": "约拿单再次使⟨את⟩大卫起誓,因为他爱他;他以自己*נפש*的爱爱他。",
+  "chapter": 20,
+  "translation": "约拿单又加添使大卫起誓,因为他爱⟨את⟩他;他以自己* nefesh *的爱爱了他。",
   "tokens": [
     {
       "surface": "ויוסף",
-      "gloss": "再次"
+      "gloss": "又加添"
     },
     {
       "surface": "יהונתן",
@@ -32,12 +30,12 @@
     },
     {
       "surface": "באהבתו",
-      "gloss": "因为他的爱"
+      "gloss": "因他爱"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩ 他",
-      "marks": "他(大卫)"
+      "gloss": "⟨את⟩",
+      "marks": "他"
     },
     {
       "surface": "כי",
@@ -49,11 +47,13 @@
     },
     {
       "surface": "נפשו",
-      "gloss": "他*נפש*(自己)"
+      "gloss": "自己* nefesh *"
     },
     {
       "surface": "אהבו",
-      "gloss": "他爱他"
+      "gloss": "他爱了他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:24:31.913101730Z",
+  "model": "glm-5.2"
 }

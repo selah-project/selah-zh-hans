@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "exodus 3:9",
   "book": "exodus",
-  "chapter": 3,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:10:50.599764512Z",
-  "translation": "现在,看哪,以色列众子的哀声达于我,我也看见了埃及人压迫 ⟨את⟩ 他们所施加的压迫。",
+  "chapter": 3,
+  "translation": "现在，看哪，以色列人的哀声达到我这里，我也看见了⟨את⟩埃及人压迫他们的压迫",
   "tokens": [
     {
       "surface": "ועתה",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "众子"
+      "gloss": "人（直译：之子）"
     },
     {
       "surface": "ישראל",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "באה",
-      "gloss": "达于"
+      "gloss": "达到"
     },
     {
       "surface": "אלי",
-      "gloss": "我"
+      "gloss": "我这里"
     },
     {
       "surface": "וגם",
@@ -56,7 +54,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "所施加的"
+      "gloss": "（关系代词）"
     },
     {
       "surface": "מצרים",
@@ -68,8 +66,10 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩他们",
       "marks": "他们"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:37:46.536533847Z",
+  "model": "glm-5.2"
 }

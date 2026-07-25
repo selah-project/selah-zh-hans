@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-kings 9:10",
   "book": "1-kings",
-  "chapter": 9,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:04:39.603740079Z",
-  "translation": "到了二十年末,就是所罗门建造两座殿的时候——⟨את⟩ 雅威的殿和⟨את⟩ 王的宫——",
+  "chapter": 9,
+  "translation": "到了二十年末,就是所罗门建造⟨את⟩两座殿的⟨时候⟩——⟨את⟩雅威的殿和⟨את⟩王的殿——",
   "tokens": [
     {
       "surface": "ויהי",
@@ -66,15 +64,17 @@
     {
       "surface": "ואת",
       "gloss": "和⟨את⟩",
-      "marks": "王的宫"
+      "marks": "王的殿"
     },
     {
       "surface": "בית",
-      "gloss": "宫"
+      "gloss": "殿"
     },
     {
       "surface": "המלך",
       "gloss": "王"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:31:17.370211474Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "genesis 42:4",
   "book": "genesis",
-  "chapter": 42,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:02:36.709121850Z",
-  "translation": "但⟨את⟩便雅悯——约瑟的兄弟——雅各没有和他的兄弟们一起差遣；因为他说：恐怕灾祸会临到他。",
+  "chapter": 42,
+  "translation": "至于⟨את⟩便雅悯——约瑟的弟弟——雅各没有打发⟨את⟩他的兄弟们同去,因为他说:恐怕灾祸会临到他。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "便雅悯"
     },
     {
       "surface": "בנימין",
@@ -19,7 +18,7 @@
     },
     {
       "surface": "אחי",
-      "gloss": "……的兄弟"
+      "gloss": "……的弟弟"
     },
     {
       "surface": "יוסף",
@@ -27,11 +26,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "没有"
+      "gloss": "不"
     },
     {
       "surface": "שלח",
-      "gloss": "差遣"
+      "gloss": "打发"
     },
     {
       "surface": "יעקב",
@@ -39,7 +38,8 @@
     },
     {
       "surface": "את",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他的兄弟们"
     },
     {
       "surface": "אחיו",
@@ -59,11 +59,13 @@
     },
     {
       "surface": "יקראנו",
-      "gloss": "会临到"
+      "gloss": "临到他"
     },
     {
       "surface": "אסון",
       "gloss": "灾祸"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:36:30.223117012Z",
+  "model": "glm-5.2"
 }

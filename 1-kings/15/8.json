@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "1-kings 15:8",
   "book": "1-kings",
-  "chapter": 15,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:10:09.642901720Z",
-  "translation": "亚比雅与他的列祖同睡,他们将他葬在大卫城;他的儿子亚撒在他之后作王。",
+  "chapter": 15,
+  "translation": "亚比雅与他的列祖同睡,他们将⟨את⟩他葬在大卫城;他的儿子亚撒在他之后作王。",
   "tokens": [
     {
       "surface": "וישכב",
@@ -32,11 +30,11 @@
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "在大卫城"
+      "marks": "他"
     },
     {
       "surface": "בעיר",
-      "gloss": "在城"
+      "gloss": "在……城"
     },
     {
       "surface": "דוד",
@@ -58,5 +56,7 @@
       "surface": "תחתיו",
       "gloss": "在他之后"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:32:21.638739646Z",
+  "model": "glm-5.2"
 }

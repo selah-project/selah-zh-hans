@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "judges 14:11",
   "book": "judges",
-  "chapter": 14,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:15:51.735061695Z",
-  "translation": "⟨事情发生⟩，当他们看见他时，他们就取了三十个同伴，⟨他们⟩就与他同在。",
+  "chapter": 14,
+  "translation": "事就这样成了：当他们看见他时，他们带走了⟨את⟩他，并取了三十个同伴，他们就与他同在。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "⟨事情发生⟩"
+      "gloss": "事就这样成了"
     },
     {
       "surface": "כראותם",
@@ -19,15 +17,16 @@
     },
     {
       "surface": "אותו",
-      "gloss": "⟨את⟩他"
+      "gloss": "他",
+      "marks": "带走了"
     },
     {
       "surface": "ויקחו",
-      "gloss": "他们就取了"
+      "gloss": "他们取了"
     },
     {
       "surface": "שלשים",
-      "gloss": "三十个"
+      "gloss": "三十"
     },
     {
       "surface": "מרעים",
@@ -35,11 +34,13 @@
     },
     {
       "surface": "ויהיו",
-      "gloss": "⟨他们⟩就"
+      "gloss": "他们就"
     },
     {
       "surface": "אתו",
       "gloss": "与他同在"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:17:16.026483635Z",
+  "model": "glm-5.2"
 }

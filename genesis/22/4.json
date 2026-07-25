@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "genesis 22:4",
   "book": "genesis",
-  "chapter": 22,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:45:49.746367623Z",
-  "translation": "在第三日,亚伯拉罕举目,看见⟨את⟩那地方从远处⟨显现⟩。",
+  "chapter": 22,
+  "translation": "在第三日,亚伯拉罕举目,从远处看见 ⟨את⟩ ⟨那⟩ 地方。",
   "tokens": [
     {
       "surface": "ביום",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "וישא",
-      "gloss": "举"
+      "gloss": "他举起"
     },
     {
       "surface": "אברהם",
@@ -28,20 +26,20 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他的眼睛 (עיניו)"
+      "marks": "他的双眼"
     },
     {
       "surface": "עיניו",
-      "gloss": "他的眼睛"
+      "gloss": "他的双眼"
     },
     {
       "surface": "וירא",
-      "gloss": "看见"
+      "gloss": "他看见"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那地方 (המקום)"
+      "marks": "那地方"
     },
     {
       "surface": "המקום",
@@ -51,5 +49,7 @@
       "surface": "מרחק",
       "gloss": "从远处"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:29:08.468042359Z",
+  "model": "glm-5.2"
 }

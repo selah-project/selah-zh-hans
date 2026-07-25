@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "1-kings 12:8",
   "book": "1-kings",
-  "chapter": 12,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:07:25.741591427Z",
-  "translation": "他离弃了⟨את⟩长老们的建议，就是他们曾向他建议的，而去与那些同他一起长大的少年人商议，那些侍立在他面前的人。",
+  "chapter": 12,
+  "translation": "他离弃了⟨את⟩长老们曾给他的谋略，转而与那些同他一起长大、侍立在他面前的少年人商议⟨את⟩。",
   "tokens": [
     {
       "surface": "ויעזב",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "长老们的建议"
+      "marks": "长老们的谋略"
     },
     {
       "surface": "עצת",
-      "gloss": "建议"
+      "gloss": "谋略"
     },
     {
       "surface": "הזקנים",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "יעצהו",
-      "gloss": "他们曾向他建议的"
+      "gloss": "他们曾劝告他的"
     },
     {
       "surface": "ויועץ",
-      "gloss": "而去商议"
+      "gloss": "他与……商议"
     },
     {
       "surface": "את",
@@ -45,11 +43,11 @@
     },
     {
       "surface": "הילדים",
-      "gloss": "少年人"
+      "gloss": "少年人们"
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "就是"
     },
     {
       "surface": "גדלו",
@@ -61,15 +59,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "那些"
+      "gloss": "他们"
     },
     {
       "surface": "העמדים",
-      "gloss": "侍立的"
+      "gloss": "侍立"
     },
     {
       "surface": "לפניו",
       "gloss": "在他面前"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:31:49.231809813Z",
+  "model": "glm-5.2"
 }

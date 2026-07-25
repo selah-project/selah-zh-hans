@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 1,
   "ref": "jeremiah 20:1",
   "book": "jeremiah",
-  "chapter": 20,
-  "verse": 1,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:18:25.964386058Z",
-  "translation": "帕施户尔，音珥的儿子，在雅威的殿中 ⟨是⟩ 总督和首领的祭司，听见耶利米 ⟨את⟩ 说预言 ⟨את⟩ 这些话。",
+  "chapter": 20,
+  "translation": "帕施户尔——音珥的儿子，⟨那位⟩祭司，他⟨本人⟩是雅威殿中的督办和总管——听见耶利米说预言⟨说⟩⟨את⟩这些*davar*。",
   "tokens": [
     {
       "surface": "וישמע",
@@ -27,19 +25,19 @@
     },
     {
       "surface": "הכהן",
-      "gloss": "祭司"
+      "gloss": "⟨那位⟩祭司"
     },
     {
       "surface": "והוא",
-      "gloss": "他"
+      "gloss": "他⟨本人⟩"
     },
     {
       "surface": "פקיד",
-      "gloss": "总督"
+      "gloss": "督办"
     },
     {
       "surface": "נגיד",
-      "gloss": "首领"
+      "gloss": "总管"
     },
     {
       "surface": "בבית",
@@ -65,15 +63,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "这些话"
+      "marks": "这些*davar*"
     },
     {
       "surface": "הדברים",
-      "gloss": "这些话"
+      "gloss": "这些*davar*"
     },
     {
       "surface": "האלה",
-      "gloss": ""
+      "gloss": "这些"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:52:23.239805630Z",
+  "model": "glm-5.2"
 }

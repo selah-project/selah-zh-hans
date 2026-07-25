@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "esther 4:12",
   "book": "esther",
-  "chapter": 4,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:25:18.976015801Z",
-  "translation": "他们将以斯帖的*话语*告诉末底改。",
+  "chapter": 4,
+  "translation": "他们便告诉末底改⟨את⟩以斯帖的*davar*（话语）。",
   "tokens": [
     {
       "surface": "ויגידו",
-      "gloss": "他们将……告诉"
+      "gloss": "他们便告诉"
     },
     {
       "surface": "למרדכי",
@@ -20,15 +18,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以斯贴的*话语*"
+      "marks": "以斯帖的话语"
     },
     {
       "surface": "דברי",
-      "gloss": "*话语*"
+      "gloss": "*davar*（话语）"
     },
     {
       "surface": "אסתר",
-      "gloss": "以斯贴的"
+      "gloss": "以斯帖"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:16:51.519775935Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "jeremiah 38:4",
   "book": "jeremiah",
-  "chapter": 38,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:30:17.773267242Z",
-  "translation": "首领们对王说：求将⟨את⟩这人处死吧，因为他正以此松懈城中剩余战士们的手，以及⟨את⟩所有百姓的手——向他们说出这些话；因为这人并不寻求平安归给这百姓，而是求灾祸。",
+  "chapter": 38,
+  "translation": "首领们对王说：求⟨你⟩让⟨את⟩这人死吧，因为正是因此他在松懈⟨את⟩城中剩余战⟨士⟩的手，以及⟨את⟩众民的手，向他们说这些*davar*；因为这人求的绝不是⟨为⟩这百姓的平安，而是灾祸。",
   "tokens": [
     {
       "surface": "ויאמרו",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "יומת",
-      "gloss": "⟨他⟩被处死"
+      "gloss": "让……死"
     },
     {
       "surface": "נא",
-      "gloss": "求"
+      "gloss": "求⟨你⟩"
     },
     {
       "surface": "את",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "על",
-      "gloss": "凭"
+      "gloss": "因"
     },
     {
       "surface": "כן",
@@ -64,28 +62,28 @@
     },
     {
       "surface": "מרפא",
-      "gloss": "松懈"
+      "gloss": "在松懈"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "手"
+      "marks": "战⟨士⟩的手"
     },
     {
       "surface": "ידי",
-      "gloss": "……的手"
+      "gloss": "手"
     },
     {
       "surface": "אנשי",
-      "gloss": "……的人"
+      "gloss": "人"
     },
     {
       "surface": "המלחמה",
-      "gloss": "战斗"
+      "gloss": "战"
     },
     {
       "surface": "הנשארים",
-      "gloss": "剩余"
+      "gloss": "剩余的"
     },
     {
       "surface": "בעיר",
@@ -98,11 +96,11 @@
     {
       "surface": "ואת",
       "gloss": "以及⟨את⟩",
-      "marks": "手"
+      "marks": "众民的手"
     },
     {
       "surface": "ידי",
-      "gloss": "……的手"
+      "gloss": "手"
     },
     {
       "surface": "כל",
@@ -114,15 +112,15 @@
     },
     {
       "surface": "לדבר",
-      "gloss": "⟨借⟩说"
+      "gloss": "去说"
     },
     {
       "surface": "אליהם",
-      "gloss": "向他们"
+      "gloss": "对他们"
     },
     {
       "surface": "כדברים",
-      "gloss": "像话"
+      "gloss": "如同这些*davar*"
     },
     {
       "surface": "האלה",
@@ -134,7 +132,7 @@
     },
     {
       "surface": "האיש",
-      "gloss": "这人"
+      "gloss": "人"
     },
     {
       "surface": "הזה",
@@ -142,7 +140,7 @@
     },
     {
       "surface": "איננו",
-      "gloss": "并不"
+      "gloss": "绝不是"
     },
     {
       "surface": "דרש",
@@ -150,11 +148,11 @@
     },
     {
       "surface": "לשלום",
-      "gloss": "平安归给"
+      "gloss": "为平安"
     },
     {
       "surface": "לעם",
-      "gloss": "⟨给⟩这百姓"
+      "gloss": "给百姓"
     },
     {
       "surface": "הזה",
@@ -162,15 +160,17 @@
     },
     {
       "surface": "כי",
-      "gloss": "因为"
-    },
-    {
-      "surface": "אם",
       "gloss": "而是"
     },
     {
+      "surface": "אם",
+      "gloss": "若"
+    },
+    {
       "surface": "לרעה",
-      "gloss": "求灾祸"
+      "gloss": "为灾祸"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:58:38.295037645Z",
+  "model": "glm-5.2"
 }

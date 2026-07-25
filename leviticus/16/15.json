@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "leviticus 16:15",
   "book": "leviticus",
-  "chapter": 16,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:51:24.134033053Z",
-  "translation": "他宰了属于百姓的罪祭公山羊，把⟨את⟩它的血带入幔子内，用⟨את⟩它的血做如同他为公牛的血所做的一样，弹在⟨את⟩施恩座上和施恩座前面。",
+  "chapter": 16,
+  "translation": "他要宰杀⟨את⟩那属于百姓的罪的公山羊，把它的血带进幔子内，并用它的血做如同他为公牛的血所做的一样，把它弹在施恩座上和施恩座前面。",
   "tokens": [
     {
       "surface": "ושחט",
-      "gloss": "他宰了"
+      "gloss": "他要宰杀"
     },
     {
       "surface": "את",
@@ -24,19 +22,19 @@
     },
     {
       "surface": "החטאת",
-      "gloss": "罪祭"
+      "gloss": "罪的"
     },
     {
       "surface": "אשר",
-      "gloss": "属于"
+      "gloss": "那属于"
     },
     {
       "surface": "לעם",
-      "gloss": "百姓"
+      "gloss": "百姓的"
     },
     {
       "surface": "והביא",
-      "gloss": "把……带入"
+      "gloss": "并要把……带进"
     },
     {
       "surface": "את",
@@ -53,7 +51,7 @@
     },
     {
       "surface": "מבית",
-      "gloss": "内"
+      "gloss": "之内"
     },
     {
       "surface": "לפרכת",
@@ -61,7 +59,7 @@
     },
     {
       "surface": "ועשה",
-      "gloss": "用……做"
+      "gloss": "并要做"
     },
     {
       "surface": "את",
@@ -90,12 +88,12 @@
     },
     {
       "surface": "והזה",
-      "gloss": "弹"
+      "gloss": "并要弹"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "施恩座上"
+      "gloss": "⟨את⟩它",
+      "marks": "弹洒之血（指代公山羊的血）"
     },
     {
       "surface": "על",
@@ -107,11 +105,13 @@
     },
     {
       "surface": "ולפני",
-      "gloss": "和……前面"
+      "gloss": "和在……前面"
     },
     {
       "surface": "הכפרת",
       "gloss": "施恩座"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:48:18.550765084Z",
+  "model": "glm-5.2"
 }

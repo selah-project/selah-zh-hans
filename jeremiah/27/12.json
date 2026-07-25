@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "jeremiah 27:12",
   "book": "jeremiah",
-  "chapter": 27,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:22:38.433611372Z",
-  "translation": "我也对犹大王西底家说了这一切*话*，说：把你们的颈项套进巴比伦王的轭，服事他和他的百姓，⟨你们⟩就必存活。",
+  "chapter": 27,
+  "translation": "我也对犹大王西底家说了这一切*davar*，说：把你们的颈项套入巴比伦王的轭，服事⟨את⟩他和他的百姓，⟨就⟩可以存活。",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "我也对"
+      "gloss": "也对"
     },
     {
       "surface": "צדקיה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "דברתי",
-      "gloss": "说了"
+      "gloss": "我……说了"
     },
     {
       "surface": "ככל",
@@ -35,19 +33,19 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "*话*"
+      "gloss": "*davar*"
     },
     {
       "surface": "האלה",
-      "gloss": "(这些)"
+      "gloss": "这些"
     },
     {
       "surface": "לאמר",
-      "gloss": "说："
+      "gloss": "说"
     },
     {
       "surface": "הביאו",
-      "gloss": "把……套进"
+      "gloss": "把……套入"
     },
     {
       "surface": "את",
@@ -60,7 +58,7 @@
     },
     {
       "surface": "בעל",
-      "gloss": "进……的轭"
+      "gloss": "在轭下"
     },
     {
       "surface": "מלך",
@@ -76,7 +74,8 @@
     },
     {
       "surface": "אתו",
-      "gloss": "他⟨את⟩"
+      "gloss": "⟨את⟩他",
+      "marks": "和他的百姓"
     },
     {
       "surface": "ועמו",
@@ -84,7 +83,9 @@
     },
     {
       "surface": "וחיו",
-      "gloss": "就必存活"
+      "gloss": "可以存活"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:53:40.921219948Z",
+  "model": "glm-5.2"
 }

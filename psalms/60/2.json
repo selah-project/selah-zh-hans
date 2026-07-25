@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "psalms 60:2",
   "book": "psalms",
-  "chapter": 60,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:59:50.523045432Z",
-  "translation": "在他与两河的亚兰并 ⟨את⟩ 亚兰 的亚兰争战之时，约押返回，击打了 ⟨את⟩ 以东，在盐谷中 —— 一万二千。",
+  "chapter": 60,
+  "translation": "当他击打 ⟨את⟩ 两河亚兰和 ⟨את⟩ 琐巴亚兰的时候，约押回来，在盐谷击杀了 ⟨את⟩ 以东一万二千人。",
   "tokens": [
     {
       "surface": "בהצותו",
-      "gloss": "在他……争战之时"
+      "gloss": "当他击打"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "两河的亚兰"
+      "marks": "两河亚兰"
     },
     {
       "surface": "ארם",
@@ -24,11 +22,12 @@
     },
     {
       "surface": "נהרים",
-      "gloss": "两河的"
+      "gloss": "两河"
     },
     {
       "surface": "ואת",
-      "gloss": "和 ⟨את⟩"
+      "gloss": "和 ⟨את⟩",
+      "marks": "琐巴亚兰"
     },
     {
       "surface": "ארם",
@@ -36,19 +35,19 @@
     },
     {
       "surface": "צובה",
-      "gloss": "亚兰"
+      "gloss": "琐巴"
     },
     {
       "surface": "וישב",
-      "gloss": "约押返回"
+      "gloss": "回来"
     },
     {
       "surface": "יואב",
-      "gloss": ""
+      "gloss": "约押"
     },
     {
       "surface": "ויך",
-      "gloss": "击打了"
+      "gloss": "并击杀了"
     },
     {
       "surface": "את",
@@ -61,7 +60,7 @@
     },
     {
       "surface": "בגיא",
-      "gloss": "在……谷中"
+      "gloss": "在谷"
     },
     {
       "surface": "מלח",
@@ -79,5 +78,7 @@
       "surface": "אלף",
       "gloss": "千"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:10:22.091776540Z",
+  "model": "glm-5.2"
 }

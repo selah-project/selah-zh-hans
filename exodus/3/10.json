@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "exodus 3:10",
   "book": "exodus",
-  "chapter": 3,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:41:14.880894429Z",
-  "translation": "现在因此,来吧!我将差遣你到法老那里,你要将我的百姓,以色列的子民,从埃及领出来。",
+  "chapter": 3,
+  "translation": "现在，来吧！我要差派你到法老那里，你要把⟨את⟩我的子民以色列的儿子们从埃及领出来。\"",
   "tokens": [
     {
       "surface": "ועתה",
-      "gloss": "现在因此"
+      "gloss": "现在"
     },
     {
       "surface": "לכה",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ואשלחך",
-      "gloss": "我将差遣你"
+      "gloss": "我要差派你"
     },
     {
       "surface": "אל",
@@ -31,20 +29,20 @@
     },
     {
       "surface": "והוצא",
-      "gloss": "你要……领出来"
+      "gloss": "你要领出来"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我的百姓"
+      "marks": "我的子民"
     },
     {
       "surface": "עמי",
-      "gloss": "我的百姓"
+      "gloss": "我的子民"
     },
     {
       "surface": "בני",
-      "gloss": "子民"
+      "gloss": "儿子们"
     },
     {
       "surface": "ישראל",
@@ -54,5 +52,7 @@
       "surface": "ממצרים",
       "gloss": "从埃及"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:37:45.266312645Z",
+  "model": "glm-5.2"
 }

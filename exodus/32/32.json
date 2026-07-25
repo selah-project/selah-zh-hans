@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 32,
   "ref": "exodus 32:32",
   "book": "exodus",
-  "chapter": 32,
-  "verse": 32,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:33:26.713106116Z",
-  "translation": "现在,你若⟨能⟩担当⟨את⟩他们的罪——若不⟨能⟩,求你从你所写的册上把我涂抹——",
+  "chapter": 32,
+  "translation": "现在，你若 ⟨要⟩ 担当他们的罪，⟨但⟩ 若不然，求你从你所写的册上把我涂抹吧。",
   "tokens": [
     {
       "surface": "ועתה",
@@ -15,27 +13,27 @@
     },
     {
       "surface": "אם",
-      "gloss": "你若"
-    },
-    {
-      "surface": "תשא",
-      "gloss": "⟨能⟩担当"
-    },
-    {
-      "surface": "חטאתם",
-      "gloss": "⟨את⟩他们的罪"
-    },
-    {
-      "surface": "ואם",
       "gloss": "若"
     },
     {
+      "surface": "תשא",
+      "gloss": "你担当"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "他们的罪"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "若不然"
+    },
+    {
       "surface": "אין",
-      "gloss": "不⟨能⟩"
+      "gloss": "⟨无⟩"
     },
     {
       "surface": "מחני",
-      "gloss": "把我涂抹"
+      "gloss": "涂抹我"
     },
     {
       "surface": "נא",
@@ -47,11 +45,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "你所"
+      "gloss": "所"
     },
     {
       "surface": "כתבת",
-      "gloss": "写的"
+      "gloss": "你写的"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:43:46.833980420Z",
+  "model": "glm-5.2"
 }

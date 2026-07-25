@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "ruth 3:9",
   "book": "ruth",
-  "chapter": 3,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:14:28.936920665Z",
-  "translation": "他⟨就⟩说:⟨את⟩你是谁?她⟨就⟩说:我⟨是⟩路得,你的使女。请将你的衣襟展开在你的使女身上,因为你是赎业至亲。",
+  "chapter": 3,
+  "translation": "他说：你⟨是⟩谁⟨את⟩？她说：我⟨是⟩路得，⟨你的⟩使女。请将你衣襟的边翼覆在⟨你的⟩使女身上，因为你是赎业至亲。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他⟨就⟩说"
+      "gloss": "他说"
     },
     {
       "surface": "מי",
@@ -20,11 +18,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "你(代词,与格补语)"
+      "marks": "你（第二人称代词）"
     },
     {
       "surface": "ותאמר",
-      "gloss": "她⟨就⟩说"
+      "gloss": "她说"
     },
     {
       "surface": "אנכי",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "אמתך",
-      "gloss": "你的使女"
+      "gloss": "使女"
     },
     {
       "surface": "ופרשת",
@@ -44,15 +42,15 @@
     },
     {
       "surface": "כנפך",
-      "gloss": "你的衣襟"
+      "gloss": "你衣襟的边翼"
     },
     {
       "surface": "על",
-      "gloss": "在……上"
+      "gloss": "覆在……之上"
     },
     {
       "surface": "אמתך",
-      "gloss": "你的使女"
+      "gloss": "使女"
     },
     {
       "surface": "כי",
@@ -66,5 +64,7 @@
       "surface": "אתה",
       "gloss": "你"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:15:51.079455671Z",
+  "model": "glm-5.2"
 }

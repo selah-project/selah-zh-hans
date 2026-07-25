@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "deuteronomy 22:4",
   "book": "deuteronomy",
-  "chapter": 22,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:41:38.284211967Z",
-  "translation": "你不可看見你兄弟的驴或⟨他的⟩牛在路上跌倒,却从⟨它们⟩隐藏自己;你一定要起来,与⟨他⟩一同将⟨它们⟩扶起。”",
+  "chapter": 22,
+  "translation": "你不可看见你兄弟的驴或他的牛在路上跌倒，而你向他们隐藏自己；你要起来与他一起⟨将其扶起⟩。",
   "tokens": [
     {
       "surface": "לֹא",
@@ -15,12 +13,12 @@
     },
     {
       "surface": "תִרְאֶה",
-      "gloss": "看见"
+      "gloss": "你看见"
     },
     {
       "surface": "אֶת",
       "gloss": "⟨את⟩",
-      "marks": "兄弟的驴"
+      "marks": "你兄弟的驴"
     },
     {
       "surface": "חֲמוֹר",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "שׁוֹרוֹ",
-      "gloss": "⟨他的⟩牛"
+      "gloss": "他的牛"
     },
     {
       "surface": "נֹפְלִים",
@@ -48,23 +46,25 @@
     },
     {
       "surface": "וְהִתְעַלַּמְתָּ",
-      "gloss": "却隐藏自己"
+      "gloss": "而你向……隐藏自己"
     },
     {
       "surface": "מֵהֶם",
-      "gloss": "从⟨它们⟩"
+      "gloss": "他们"
     },
     {
       "surface": "הָקֵם",
-      "gloss": "起来"
+      "gloss": "你要起来"
     },
     {
       "surface": "תָּקִים",
-      "gloss": "将……扶起"
+      "gloss": "扶起"
     },
     {
       "surface": "עִמּוֹ",
-      "gloss": "与⟨他⟩"
+      "gloss": "与他一起"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:02:52.502007686Z",
+  "model": "glm-5.2"
 }

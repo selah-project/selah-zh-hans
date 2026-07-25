@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "2-kings 4:5",
   "book": "2-kings",
-  "chapter": 4,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:19:09.816075114Z",
-  "translation": "于是她从他那里走开,关上门 ⟨为⟩ 她自己 ⟨和⟩ 为她的众子;他们 ⟨不断⟩ 把 ⟨器皿⟩ 拿近给她,而她 ⟨不断⟩ 倾倒。",
+  "chapter": 4,
+  "translation": "于是她从他那里离开,关上门⟨在她身后⟩和⟨在她⟩儿子们身后;他们把器皿拿近⟨到她面前⟩,她就在倒出。",
   "tokens": [
     {
       "surface": "ותלך",
-      "gloss": "于是她走开"
+      "gloss": "于是她离开"
     },
     {
       "surface": "מאתו",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ותסגר",
-      "gloss": "她关上"
+      "gloss": "关上"
     },
     {
       "surface": "הדלת",
@@ -27,15 +25,15 @@
     },
     {
       "surface": "בעדה",
-      "gloss": "为 ⟨她⟩"
+      "gloss": "在她身后"
     },
     {
       "surface": "ובעד",
-      "gloss": "和为"
+      "gloss": "和在……身后"
     },
     {
       "surface": "בניה",
-      "gloss": "她的众子"
+      "gloss": "她的儿子们"
     },
     {
       "surface": "הם",
@@ -43,19 +41,21 @@
     },
     {
       "surface": "מגשים",
-      "gloss": "不断拿近 ⟨器皿⟩"
+      "gloss": "拿近"
     },
     {
       "surface": "אליה",
-      "gloss": "给她"
+      "gloss": "到她面前"
     },
     {
       "surface": "והיא",
-      "gloss": "而她"
+      "gloss": "她"
     },
     {
       "surface": "מיצקת",
-      "gloss": "不断倾倒"
+      "gloss": "在倒出"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:34:32.058604014Z",
+  "model": "glm-5.2"
 }

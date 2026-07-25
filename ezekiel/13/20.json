@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "ezekiel 13:20",
   "book": "ezekiel",
-  "chapter": 13,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:46:47.546478679Z",
-  "translation": "因此,阿多奈 雅威如此说:看哪,我临到你们的枕套——你们在那〈里〉猎取 ⟨את⟩ 那些生命去飞;我必将⟨它们⟩从你们的手臂上撕下来。我必释放 ⟨את⟩ 那些你们正在猎取的生命—— ⟨את⟩ 那些要飞的生命。",
+  "chapter": 13,
+  "translation": "因此,阿多奈雅威如此说:看哪,我⟨临到⟩你们那些靠枕——你们在那里猎取⟨את⟩那些飞走的* nefashót *,我要把它们从你们的手臂上撕下来,我要释放⟨את⟩那些* nefashót *,就是你们猎取⟨את⟩那些飞走的* nefashím *时所猎取的。",
   "tokens": [
     {
       "surface": "לכן",
@@ -31,23 +29,23 @@
     },
     {
       "surface": "הנני",
-      "gloss": "看哪"
+      "gloss": "看哪,我"
     },
     {
       "surface": "אל",
-      "gloss": "临到 \/ 归于"
+      "gloss": "临到"
     },
     {
       "surface": "כסתותיכנה",
-      "gloss": "你们的枕套"
+      "gloss": "你们的靠枕"
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "就是"
     },
     {
       "surface": "אתנה",
-      "gloss": "你们"
+      "gloss": "你们(阴性复数)"
     },
     {
       "surface": "מצדדות",
@@ -55,33 +53,33 @@
     },
     {
       "surface": "שם",
-      "gloss": "在那〈里〉"
+      "gloss": "在那里"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那些生命 (הנפשות)"
+      "marks": "那些飞走的 nefashót"
     },
     {
       "surface": "הנפשות",
-      "gloss": "那些生命"
+      "gloss": "那些 *nefashót*(活物\/气息)"
     },
     {
       "surface": "לפרחות",
-      "gloss": "去飞"
+      "gloss": "飞走"
     },
     {
       "surface": "וקרעתי",
-      "gloss": "我必将⟨它们⟩撕下来"
+      "gloss": "我要撕下"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "它们 (从你们手臂上的枕套)"
+      "gloss": "⟨את⟩它们",
+      "marks": "从你们的手臂上"
     },
     {
       "surface": "מעל",
-      "gloss": "从……上"
+      "gloss": "从……之上"
     },
     {
       "surface": "זרועתיכם",
@@ -89,20 +87,20 @@
     },
     {
       "surface": "ושלחתי",
-      "gloss": "我必释放"
+      "gloss": "我要释放"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那些生命 (הנפשות)"
+      "marks": "那些 nefashót"
     },
     {
       "surface": "הנפשות",
-      "gloss": "那些生命"
+      "gloss": "那些 *nefashót*"
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "就是"
     },
     {
       "surface": "אתם",
@@ -110,20 +108,22 @@
     },
     {
       "surface": "מצדדות",
-      "gloss": "正在猎取"
+      "gloss": "猎取"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那些生命 (נפשים)"
+      "marks": "那些飞走的 nefashím"
     },
     {
       "surface": "נפשים",
-      "gloss": "那些生命"
+      "gloss": "*nefashím*(活物\/气息)"
     },
     {
       "surface": "לפרחת",
-      "gloss": "要飞"
+      "gloss": "飞走"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:02:11.666236615Z",
+  "model": "glm-5.2"
 }

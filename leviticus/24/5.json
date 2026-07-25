@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "leviticus 24:5",
   "book": "leviticus",
-  "chapter": 24,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:56:44.375958004Z",
-  "translation": "你要取细面,烤十二个饼:每个饼⟨要用⟩两个十分之一⟨以法⟩——⟨这⟩就是一个饼⟨的量⟩。",
+  "chapter": 24,
+  "translation": "你要取细面,烤⟨את⟩它十二个饼:每个饼要用十分之二⟨伊法⟩。",
   "tokens": [
     {
       "surface": "ולקחת",
@@ -24,15 +22,15 @@
     {
       "surface": "אתה",
       "gloss": "⟨את⟩",
-      "marks": "十二个饼"
+      "marks": "它(指饼)"
     },
     {
       "surface": "שתים",
-      "gloss": "十二"
+      "gloss": "二"
     },
     {
       "surface": "עשרה",
-      "gloss": "(合一)"
+      "gloss": "十"
     },
     {
       "surface": "חלות",
@@ -40,23 +38,25 @@
     },
     {
       "surface": "שני",
-      "gloss": "两个"
+      "gloss": "二"
     },
     {
       "surface": "עשרנים",
-      "gloss": "十分之一"
+      "gloss": "十分之一(复数)"
     },
     {
       "surface": "יהיה",
-      "gloss": "⟨要用⟩"
+      "gloss": "要用"
     },
     {
       "surface": "החלה",
-      "gloss": "一个饼"
+      "gloss": "每个饼"
     },
     {
       "surface": "האחת",
-      "gloss": "⟨这⟩就是一个饼⟨的量⟩"
+      "gloss": "一个"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:52:16.050912123Z",
+  "model": "glm-5.2"
 }

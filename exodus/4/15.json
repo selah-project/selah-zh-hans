@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "exodus 4:15",
   "book": "exodus",
-  "chapter": 4,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:11:46.466817807Z",
-  "translation": "你要对他说话,把⟨הדברים⟩这话语放在他口中;我将是与你口同在的,也是与他口同在的,我要指教你们⟨את⟩⟨אשר⟩你们当做的。",
+  "chapter": 4,
+  "translation": "你要对他说话,把⟨这些⟩*davar*放在他口中;我必与你口同在,与他口同在,我也要指教你们⟨את⟩⟨את⟩你们当行的事。",
   "tokens": [
     {
       "surface": "ודברת",
@@ -19,16 +17,16 @@
     },
     {
       "surface": "ושמת",
-      "gloss": "你要放"
+      "gloss": "并放"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הדברים (话语)"
+      "marks": "这些话语"
     },
     {
       "surface": "הדברים",
-      "gloss": "这话语"
+      "gloss": "*davar*"
     },
     {
       "surface": "בפיו",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "אהיה",
-      "gloss": "将是"
+      "gloss": "必是与"
     },
     {
       "surface": "עם",
-      "gloss": "与……同在"
+      "gloss": "与"
     },
     {
       "surface": "פיך",
@@ -52,7 +50,7 @@
     },
     {
       "surface": "ועם",
-      "gloss": "也与……同在"
+      "gloss": "也与"
     },
     {
       "surface": "פיהו",
@@ -64,20 +62,23 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩你们"
+      "gloss": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "אשר (你们当做的事)"
+      "marks": "你们当行的事"
     },
     {
       "surface": "אשר",
-      "gloss": "你们当做的"
+      "gloss": "你们当行的"
     },
     {
       "surface": "תעשון",
-      "gloss": "(事)"
+      "gloss": "事"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:37:59.532847686Z",
+  "model": "glm-5.2"
 }

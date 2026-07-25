@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "deuteronomy 19:12",
   "book": "deuteronomy",
-  "chapter": 19,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:39:51.544871710Z",
-  "translation": "他城里的长老要打发人,从那里把他带回来,⟨את⟩交在报血仇的近亲手中,他就处死。",
+  "chapter": 19,
+  "translation": "他本城的长老要差遣人,从那里把他带走,⟨他们要⟩把他交在报血仇者的手中,他就⟨要⟩死。",
   "tokens": [
     {
       "surface": "ושלחו",
-      "gloss": "要打发人"
+      "gloss": "要差遣人"
     },
     {
       "surface": "זקני",
@@ -19,15 +17,15 @@
     },
     {
       "surface": "עירו",
-      "gloss": "他城里的"
+      "gloss": "他本城的"
     },
     {
       "surface": "ולקחו",
-      "gloss": "带回来"
+      "gloss": "要带走"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
+      "gloss": "⟨את⟩他",
       "marks": "他"
     },
     {
@@ -36,12 +34,12 @@
     },
     {
       "surface": "ונתנו",
-      "gloss": "交"
+      "gloss": "要交"
     },
     {
       "surface": "אתו",
       "gloss": "⟨את⟩",
-      "marks": "他"
+      "marks": "报血仇者"
     },
     {
       "surface": "ביד",
@@ -49,7 +47,7 @@
     },
     {
       "surface": "גאל",
-      "gloss": "报血仇的近亲"
+      "gloss": "报血仇者"
     },
     {
       "surface": "הדם",
@@ -57,7 +55,9 @@
     },
     {
       "surface": "ומת",
-      "gloss": "他就处死"
+      "gloss": "他就死"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:02:35.481894136Z",
+  "model": "glm-5.2"
 }

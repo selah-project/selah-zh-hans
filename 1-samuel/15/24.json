@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 24,
   "ref": "1-samuel 15:24",
   "book": "1-samuel",
-  "chapter": 15,
-  "verse": 24,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:29:38.798791513Z",
-  "translation": "扫罗对撒母耳说：「我犯了罪，因为我越过了雅威口中的⟨命令⟩ ⟨את⟩ 和你的话语 ⟨את⟩；因为我惧怕⟨这⟩百姓，就听从了他们的声音。」",
+  "chapter": 15,
+  "translation": "扫罗对撒母耳说：「我犯了罪，因为我违背了雅威的命令 ⟨את⟩ 和你的 ⟨את⟩ 话语；因为我惧怕 ⟨את⟩ 百姓，听从了他们的声音。」",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -35,16 +33,16 @@
     },
     {
       "surface": "עברתי",
-      "gloss": "我越过了"
+      "gloss": "我违背了"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "口中的⟨命令⟩"
+      "marks": "命令（口）"
     },
     {
       "surface": "פי",
-      "gloss": "口中的⟨命令⟩"
+      "gloss": "命令"
     },
     {
       "surface": "יהוה",
@@ -70,19 +68,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨这⟩百姓"
+      "marks": "百姓"
     },
     {
       "surface": "העם",
-      "gloss": "⟨这⟩百姓"
+      "gloss": "百姓"
     },
     {
       "surface": "ואשמע",
-      "gloss": "就听从了"
+      "gloss": "我听从了"
     },
     {
       "surface": "בקולם",
       "gloss": "他们的声音"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:23:10.599217524Z",
+  "model": "glm-5.2"
 }

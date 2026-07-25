@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "psalms 63:7",
   "book": "psalms",
-  "chapter": 63,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:00:41.341140926Z",
-  "translation": "当我在 ⟨我的⟩ 床榻上记念 ⟨את⟩ 你，在夜更的时候，我就对你沉思默念。",
+  "chapter": 63,
+  "translation": "当我在我的床榻上记念你，在夜更的时刻我默想你⟨时⟩——",
   "tokens": [
     {
       "surface": "אם",
-      "gloss": "当……时 (若)"
+      "gloss": "当……⟨时⟩"
     },
     {
       "surface": "זכרתיך",
-      "gloss": "我记念 ⟨את⟩ 你"
+      "gloss": "我记念你"
     },
     {
       "surface": "על",
@@ -27,15 +25,17 @@
     },
     {
       "surface": "באשמרות",
-      "gloss": "在夜更的时候"
+      "gloss": "在夜更的时刻"
     },
     {
       "surface": "אהגה",
-      "gloss": "我沉思默念"
+      "gloss": "我默想"
     },
     {
       "surface": "בך",
-      "gloss": "对你"
+      "gloss": "你"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:10:20.136122886Z",
+  "model": "glm-5.2"
 }

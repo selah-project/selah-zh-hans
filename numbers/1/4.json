@@ -1,21 +1,19 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "numbers 1:4",
   "book": "numbers",
-  "chapter": 1,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:00:12.752435320Z",
-  "translation": "与⟨你们⟩同在的应有 ⟨את⟩各支派的人,各 ⟨את⟩人作其父家之首⟨的⟩,他。",
+  "chapter": 1,
+  "translation": "⟨את⟩你们将有各支派的人,各人⟨是⟩他父家之首;",
   "tokens": [
     {
       "surface": "ואתכם",
-      "gloss": "与你们同在的"
+      "gloss": "⟨את⟩与你们"
     },
     {
       "surface": "יהיו",
-      "gloss": "应有"
+      "gloss": "将有"
     },
     {
       "surface": "איש",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "איש",
-      "gloss": "各 (⟨את⟩)"
+      "gloss": "各"
     },
     {
       "surface": "למטה",
-      "gloss": "支派"
+      "gloss": "属支派的"
     },
     {
       "surface": "איש",
-      "gloss": "各 (⟨את⟩)"
+      "gloss": "各人"
     },
     {
       "surface": "ראש",
@@ -39,15 +37,17 @@
     },
     {
       "surface": "לבית",
-      "gloss": "其父家"
+      "gloss": "属……家"
     },
     {
       "surface": "אבתיו",
-      "gloss": "其父家的"
+      "gloss": "他父"
     },
     {
       "surface": "הוא",
       "gloss": "他"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:53:18.439891954Z",
+  "model": "glm-5.2"
 }

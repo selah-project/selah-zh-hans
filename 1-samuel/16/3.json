@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "1-samuel 16:3",
   "book": "1-samuel",
-  "chapter": 16,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:30:30.707650678Z",
-  "translation": "你要在祭牲那里呼召耶示,而我将让你知道你⟨要⟩做什么,你要为我膏抹我向你说起的那一位。",
+  "chapter": 16,
+  "translation": "你要在献祭时呼召耶西,我必指示你⟨你⟩当行的事;你要为我膏抹⟨את⟩我所对你说的人。",
   "tokens": [
     {
       "surface": "וקראת",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "לישי",
-      "gloss": "耶示"
+      "gloss": "耶西"
     },
     {
       "surface": "בזבח",
-      "gloss": "在祭牲(那里)"
+      "gloss": "在献祭时"
     },
     {
       "surface": "ואנכי",
@@ -27,20 +25,20 @@
     },
     {
       "surface": "אודיעך",
-      "gloss": "将让你知道"
+      "gloss": "我必使你知道"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "אשר (that which \/ the one whom)"
+      "marks": "你所当做的事"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的(事)"
+      "gloss": "所当行的"
     },
     {
       "surface": "תעשה",
-      "gloss": "你要做"
+      "gloss": "你要做的事"
     },
     {
       "surface": "ומשחת",
@@ -53,19 +51,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "אשר (the one whom)"
+      "marks": "我所指示你的人"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的(人)"
+      "gloss": "就是我"
     },
     {
       "surface": "אמר",
-      "gloss": "我说起"
+      "gloss": "说"
     },
     {
       "surface": "אליך",
-      "gloss": "向你"
+      "gloss": "对你"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:23:23.873941036Z",
+  "model": "glm-5.2"
 }

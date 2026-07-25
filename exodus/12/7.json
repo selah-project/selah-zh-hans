@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "exodus 12:7",
   "book": "exodus",
-  "chapter": 12,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:17:16.633273244Z",
-  "translation": "他们要取⟨一些⟩血，抹在⟨他们要吃它⟩的房屋的两根门框和门楣上。",
+  "chapter": 12,
+  "translation": "他们要取⟨一些⟩血,涂在⟨那些⟩房屋的两根门框和门楣上,就是他们要在其中吃⟨את⟩它的⟨那些⟩房屋。",
   "tokens": [
     {
       "surface": "ולקחו",
@@ -15,15 +13,15 @@
     },
     {
       "surface": "מן",
-      "gloss": "⟨一些⟩"
+      "gloss": "从⟨其中⟩"
     },
     {
       "surface": "הדם",
-      "gloss": "血"
+      "gloss": "那血"
     },
     {
       "surface": "ונתנו",
-      "gloss": "抹在"
+      "gloss": "他们要给(放)"
     },
     {
       "surface": "על",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "שתי",
-      "gloss": "两根"
+      "gloss": "两"
     },
     {
       "surface": "המזוזת",
@@ -51,11 +49,11 @@
     },
     {
       "surface": "הבתים",
-      "gloss": "房屋"
+      "gloss": "那些房屋"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨就是⟩"
+      "gloss": "就是"
     },
     {
       "surface": "יאכלו",
@@ -63,11 +61,14 @@
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "它(羔羊)"
     },
     {
       "surface": "בהם",
       "gloss": "在其中"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:38:52.938043228Z",
+  "model": "glm-5.2"
 }

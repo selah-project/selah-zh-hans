@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "2-kings 6:16",
   "book": "2-kings",
-  "chapter": 6,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:21:11.827912212Z",
-  "translation": "他⟨他⟩说：不要怕！因为与我们同在的，比与他们同在的更多。",
+  "chapter": 6,
+  "translation": "他说：不要害怕，因为与我们同在的，比⟨את⟩他们更多。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他⟨他⟩说："
+      "gloss": "他说"
     },
     {
       "surface": "אל",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "תירא",
-      "gloss": "怕！"
+      "gloss": "害怕"
     },
     {
       "surface": "כי",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אשר",
-      "gloss": "〔那〕"
+      "gloss": "那些"
     },
     {
       "surface": "אתנו",
@@ -39,11 +37,14 @@
     },
     {
       "surface": "מאשר",
-      "gloss": "比〔那〕"
+      "gloss": "比"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨את⟩他们"
+      "gloss": "⟨את⟩",
+      "marks": "他们"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:35:28.768342068Z",
+  "model": "glm-5.2"
 }

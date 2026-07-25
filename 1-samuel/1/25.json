@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 25,
   "ref": "1-samuel 1:25",
   "book": "1-samuel",
-  "chapter": 1,
-  "verse": 25,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:21:26.718356096Z",
-  "translation": "他们宰了⟨את⟩那公牛,把那少年人带到以利面前。",
+  "chapter": 1,
+  "translation": "他们宰了⟨את⟩那公牛,把⟨את⟩那孩子带到以利面前。",
   "tokens": [
     {
       "surface": "וישחטו",
@@ -29,19 +27,21 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那少年人"
+      "marks": "那孩子"
     },
     {
       "surface": "הנער",
-      "gloss": "那少年人"
+      "gloss": "那孩子"
     },
     {
       "surface": "אל",
-      "gloss": "到……面前"
+      "gloss": "到……那里"
     },
     {
       "surface": "עלי",
       "gloss": "以利"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:19:50.873446717Z",
+  "model": "glm-5.2"
 }

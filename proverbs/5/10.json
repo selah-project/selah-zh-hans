@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "proverbs 5:10",
   "book": "proverbs",
-  "chapter": 5,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:34:49.008388553Z",
-  "translation": "免得生人饱足你的力量,⟨而⟩你的劳苦 ⟨⟨את⟩⟩ ⟨在⟩陌生人家中;",
+  "chapter": 5,
+  "translation": "免得陌生人饱享你的力量，⟨而⟩你的劳苦⟨落入⟩外路人 ⟨בית⟩ 中；",
   "tokens": [
     {
       "surface": "פן",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "ישבעו",
-      "gloss": "饱足"
+      "gloss": "饱享"
     },
     {
       "surface": "זרים",
-      "gloss": "生人"
+      "gloss": "陌生人"
     },
     {
       "surface": "כחך",
@@ -27,15 +25,18 @@
     },
     {
       "surface": "ועצביך",
-      "gloss": "⟨而⟩你的劳苦 ⟨⟨את⟩⟩"
+      "gloss": "你的劳苦"
     },
     {
       "surface": "בבית",
-      "gloss": "⟨在⟩……家中"
+      "gloss": "⟨בית⟩",
+      "marks": "外路人"
     },
     {
       "surface": "נכרי",
-      "gloss": "陌生人"
+      "gloss": "外路人"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:12:33.471417327Z",
+  "model": "glm-5.2"
 }

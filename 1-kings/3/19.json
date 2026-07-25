@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 19,
   "ref": "1-kings 3:19",
   "book": "1-kings",
-  "chapter": 3,
-  "verse": 19,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:58:56.099578091Z",
-  "translation": "这⟨个⟩女人的儿子夜间死了 —— 她⟨⟩躺在他身上⟨压住了他⟩。",
+  "chapter": 3,
+  "translation": "这⟨女人⟩的儿子夜间死了，⟨就是⟩她躺压在他身上的那一夜。",
   "tokens": [
     {
       "surface": "וימת",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "האשה",
-      "gloss": "这⟨个⟩女人的"
+      "gloss": "⟨女人⟩"
     },
     {
       "surface": "הזאת",
-      "gloss": ""
+      "gloss": "这"
     },
     {
       "surface": "לילה",
@@ -31,15 +29,17 @@
     },
     {
       "surface": "אשר",
-      "gloss": "—— 她"
+      "gloss": "⟨就是⟩……的"
     },
     {
       "surface": "שכבה",
-      "gloss": "躺在他身上"
+      "gloss": "她躺压"
     },
     {
       "surface": "עליו",
-      "gloss": ""
+      "gloss": "在他身上"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:30:21.818044843Z",
+  "model": "glm-5.2"
 }

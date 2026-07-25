@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 5,
   "ref": "isaiah 5:5",
   "book": "isaiah",
-  "chapter": 5,
-  "verse": 5,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:36:42.894335121Z",
-  "translation": "现在请让我向你们⟨את⟩宣告,我对我葡萄园所行的事:除去它的篱笆,它必⟨被⟩吞灭;拆毁它的石墙,它必⟨被⟩践踏。",
+  "chapter": 5,
+  "translation": "现在请让我向你们宣告 ⟨אתכם⟩:我正对⟨我的葡萄园⟩做的,就是 ⟨את⟩ —— 拆除它的篱笆,它必⟨成为⟩荒废;拆毁它的围墙,它必⟨成为⟩践踏之地。",
   "tokens": [
     {
       "surface": "ועתה",
@@ -23,16 +21,17 @@
     },
     {
       "surface": "אתכם",
-      "gloss": "向你们 ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "你们"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "我所行的事"
+      "marks": "我正做的(事)"
     },
     {
       "surface": "אשר",
-      "gloss": "所……的事"
+      "gloss": "……的"
     },
     {
       "surface": "אני",
@@ -40,7 +39,7 @@
     },
     {
       "surface": "עשה",
-      "gloss": "行"
+      "gloss": "做"
     },
     {
       "surface": "לכרמי",
@@ -48,7 +47,7 @@
     },
     {
       "surface": "הסר",
-      "gloss": "除去"
+      "gloss": "拆除"
     },
     {
       "surface": "משוכתו",
@@ -56,11 +55,11 @@
     },
     {
       "surface": "והיה",
-      "gloss": "它必"
+      "gloss": "它必成为"
     },
     {
       "surface": "לבער",
-      "gloss": "被吞灭"
+      "gloss": "荒废"
     },
     {
       "surface": "פרץ",
@@ -68,15 +67,17 @@
     },
     {
       "surface": "גדרו",
-      "gloss": "它的石墙"
+      "gloss": "它的围墙"
     },
     {
       "surface": "והיה",
-      "gloss": "它必"
+      "gloss": "它必成为"
     },
     {
       "surface": "למרמס",
-      "gloss": "被践踏"
+      "gloss": "践踏之地"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:41:34.750642901Z",
+  "model": "glm-5.2"
 }

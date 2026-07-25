@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 22,
   "ref": "jeremiah 5:22",
   "book": "jeremiah",
-  "chapter": 5,
-  "verse": 22,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:09:49.045012850Z",
-  "translation": "⟨את⟩我,你们不惧怕吗?这是雅威的断言;在我面前,你们不战兢吗?——⟨他⟩将沙定为海的边界,永远的定例,它不能越过;海浪虽然翻腾,却不能得胜,虽然咆哮,却不能越过它。",
+  "chapter": 5,
+  "translation": "⟨את⟩-我,你们不惧怕吗?雅威的断语;⟨את⟩-我面前,你们不战兢吗?⟨他⟩以沙为海的边界,永恒的律例,⟨它⟩不能越过;海浪虽然翻腾,却不能得胜,虽然咆哮,却不能越过⟨它⟩。",
   "tokens": [
     {
       "surface": "האותי",
-      "gloss": "⟨את⟩我"
+      "gloss": "⟨את⟩-我",
+      "marks": "你们不(惧怕)"
     },
     {
       "surface": "לא",
@@ -23,7 +22,7 @@
     },
     {
       "surface": "נאם",
-      "gloss": "断言"
+      "gloss": "断语"
     },
     {
       "surface": "יהוה",
@@ -35,7 +34,7 @@
     },
     {
       "surface": "מפני",
-      "gloss": "在我面前"
+      "gloss": "面前"
     },
     {
       "surface": "לא",
@@ -47,11 +46,11 @@
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "⟨他⟩"
     },
     {
       "surface": "שמתי",
-      "gloss": "⟨他⟩定"
+      "gloss": "以……设立"
     },
     {
       "surface": "חול",
@@ -59,35 +58,35 @@
     },
     {
       "surface": "גבול",
-      "gloss": "为边界"
+      "gloss": "边界"
     },
     {
       "surface": "לים",
-      "gloss": "海的"
+      "gloss": "海"
     },
     {
       "surface": "חק",
-      "gloss": "定例"
+      "gloss": "律例"
     },
     {
       "surface": "עולם",
-      "gloss": "永远的"
+      "gloss": "永恒"
     },
     {
       "surface": "ולא",
-      "gloss": "它不能"
+      "gloss": "不能"
     },
     {
       "surface": "יעברנהו",
-      "gloss": "越过"
+      "gloss": "它越过"
     },
     {
       "surface": "ויתגעשו",
-      "gloss": "海浪虽然翻腾"
+      "gloss": "海浪翻腾"
     },
     {
       "surface": "ולא",
-      "gloss": "却不能"
+      "gloss": "不能"
     },
     {
       "surface": "יוכלו",
@@ -95,7 +94,7 @@
     },
     {
       "surface": "והמו",
-      "gloss": "虽然咆哮"
+      "gloss": "咆哮"
     },
     {
       "surface": "גליו",
@@ -103,11 +102,13 @@
     },
     {
       "surface": "ולא",
-      "gloss": "却不能"
+      "gloss": "不能"
     },
     {
       "surface": "יעברנהו",
-      "gloss": "越过它"
+      "gloss": "越过"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:29:06.580127136Z",
+  "model": "glm-5.2"
 }

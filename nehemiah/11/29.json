@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "nehemiah 11:29",
   "book": "nehemiah",
-  "chapter": 11,
-  "verse": 29,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:49:14.468892495Z",
-  "translation": "以及在音·临门、⟨并⟩在琐拉、⟨并⟩在耶末",
+  "chapter": 11,
+  "translation": "以及在⟨音⟩临门、在⟨琐⟩拉、以及在⟨耶⟩末",
   "tokens": [
     {
       "surface": "ובעין",
-      "gloss": "以及在音·临门"
+      "gloss": "以及在音临门",
+      "marks": "音临门（地名）"
     },
     {
       "surface": "רמון",
@@ -19,11 +18,15 @@
     },
     {
       "surface": "ובצרעה",
-      "gloss": "⟨并⟩在琐拉"
+      "gloss": "在琐拉",
+      "marks": "琐拉（地名）"
     },
     {
       "surface": "ובירמות",
-      "gloss": "⟨并⟩在耶末"
+      "gloss": "以及在耶末",
+      "marks": "耶末（地名）"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:19:29.626474055Z",
+  "model": "glm-5.2"
 }

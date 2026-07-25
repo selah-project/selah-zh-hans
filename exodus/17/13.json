@@ -1,20 +1,18 @@
 {
+  "tier": "glm-5.2",
+  "verse": 13,
   "ref": "exodus 17:13",
   "book": "exodus",
-  "chapter": 17,
-  "verse": 13,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:21:49.574840199Z",
-  "translation": "约书亚击败了⟨את⟩亚玛力和他的百姓，用刀的口⟨锋⟩。",
+  "chapter": 17,
+  "translation": "约书亚用刀口击败了⟨את⟩亚玛力和⟨את⟩他的百姓。",
   "tokens": [
     {
-      "surface": "וַ\/יַּחֲלֹ֥שׁ",
+      "surface": "וַיַּחֲלֹשׁ",
       "gloss": "击败了"
     },
     {
-      "surface": "יְהוֹשֻׁ֛עַ",
+      "surface": "יְהוֹשֻׁעַ",
       "gloss": "约书亚"
     },
     {
@@ -23,25 +21,27 @@
       "marks": "亚玛力"
     },
     {
-      "surface": "עֲמָלֵ֥ק",
+      "surface": "עֲמָלֵק",
       "gloss": "亚玛力"
     },
     {
-      "surface": "וְ\/אֶת",
-      "gloss": "以及⟨את⟩"
-    },
-    {
-      "surface": "עַמּ֖\/וֹ",
-      "gloss": "他的百姓",
+      "surface": "וְאֶת",
+      "gloss": "和⟨את⟩",
       "marks": "他的百姓"
     },
     {
-      "surface": "לְ\/פִי",
-      "gloss": "用……的口"
+      "surface": "עַמּוֹ",
+      "gloss": "他的百姓"
+    },
+    {
+      "surface": "לְפִי",
+      "gloss": "口"
     },
     {
       "surface": "חָֽרֶב",
       "gloss": "刀"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:39:38.205712341Z",
+  "model": "glm-5.2"
 }

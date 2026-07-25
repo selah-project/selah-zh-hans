@@ -1,25 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "joshua 8:23",
   "book": "joshua",
-  "chapter": 8,
-  "verse": 23,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:54:30.355981280Z",
-  "translation": "⟨而⟩他们 ⟨את⟩ 艾城的王活捉了,⟨他们⟩把他带到约书亚面前。",
+  "chapter": 8,
+  "translation": "他们⟨את⟩艾城之王活捉了，⟨他们⟩把他带到约书亚⟨את⟩面前。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨而⟩ ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "艾城之王"
     },
     {
       "surface": "מלך",
-      "gloss": "……的王"
+      "gloss": "王"
     },
     {
       "surface": "העי",
-      "gloss": "艾城"
+      "gloss": "艾城的"
     },
     {
       "surface": "תפשו",
@@ -31,11 +30,12 @@
     },
     {
       "surface": "ויקרבו",
-      "gloss": "他们带来"
+      "gloss": "他们带近"
     },
     {
       "surface": "אתו",
-      "gloss": "他(带 ⟨את⟩)"
+      "gloss": "⟨את⟩他",
+      "marks": "他（王）"
     },
     {
       "surface": "אל",
@@ -45,5 +45,7 @@
       "surface": "יהושע",
       "gloss": "约书亚"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:08:45.641316753Z",
+  "model": "glm-5.2"
 }

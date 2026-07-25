@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 6,
   "ref": "jeremiah 26:6",
   "book": "jeremiah",
-  "chapter": 26,
-  "verse": 6,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:22:01.118696976Z",
-  "translation": "我必将 ⟨את⟩ 这殿如示罗一般交出,又将这城交给地上万族(גוי)作诅咒。",
+  "chapter": 26,
+  "translation": "我必将⟨את⟩这殿如示罗对待,必将⟨את⟩这城交给地上万国作咒诅。",
   "tokens": [
     {
       "surface": "ונתתי",
@@ -20,7 +18,7 @@
     },
     {
       "surface": "הבית",
-      "gloss": "这殿"
+      "gloss": "殿"
     },
     {
       "surface": "הזה",
@@ -28,15 +26,16 @@
     },
     {
       "surface": "כשלה",
-      "gloss": "如示罗一般"
+      "gloss": "如示罗"
     },
     {
       "surface": "ואת",
-      "gloss": "并将 ⟨את⟩"
+      "gloss": "并⟨את⟩",
+      "marks": "这城"
     },
     {
       "surface": "העיר",
-      "gloss": "这城"
+      "gloss": "城"
     },
     {
       "surface": "הזאתה",
@@ -44,23 +43,25 @@
     },
     {
       "surface": "אתן",
-      "gloss": "交给"
+      "gloss": "我必交给"
     },
     {
       "surface": "לקללה",
-      "gloss": "作诅咒"
+      "gloss": "作咒诅"
     },
     {
       "surface": "לכל",
-      "gloss": "给……的万"
+      "gloss": "给所有"
     },
     {
       "surface": "גויי",
-      "gloss": "族(גוי)"
+      "gloss": "万国"
     },
     {
       "surface": "הארץ",
-      "gloss": "地上的"
+      "gloss": "地的"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:53:16.094158541Z",
+  "model": "glm-5.2"
 }

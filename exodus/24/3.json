@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "exodus 24:3",
   "book": "exodus",
-  "chapter": 24,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:42:07.999867436Z",
-  "translation": "摩西来到,向百姓讲述雅威的一切*话*和⟨את⟩一切的典章;全体百姓同声回答,说:雅威所说的一切话,我们将遵行。",
+  "chapter": 24,
+  "translation": "摩西来,向百姓讲述雅威的一切*davar*和⟨את⟩一切的典章;全体百姓同声回答,说:雅威所说的一切*davar*,我们要行。",
   "tokens": [
     {
       "surface": "ויבא",
-      "gloss": "来到"
+      "gloss": "来"
     },
     {
       "surface": "משה",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "דברי",
-      "gloss": "*话*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
@@ -69,11 +67,11 @@
     },
     {
       "surface": "קול",
-      "gloss": "同声"
+      "gloss": "声"
     },
     {
       "surface": "אחד",
-      "gloss": "一个"
+      "gloss": "同"
     },
     {
       "surface": "ויאמרו",
@@ -85,15 +83,15 @@
     },
     {
       "surface": "הדברים",
-      "gloss": "的话"
+      "gloss": "*davar*"
     },
     {
       "surface": "אשר",
-      "gloss": "(即)"
+      "gloss": "所"
     },
     {
       "surface": "דבר",
-      "gloss": "所说"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
@@ -101,7 +99,9 @@
     },
     {
       "surface": "נעשה",
-      "gloss": "我们将遵行"
+      "gloss": "我们要行"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:25:38.489198777Z",
+  "model": "glm-5.2"
 }

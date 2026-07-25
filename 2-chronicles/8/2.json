@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "2-chronicles 8:2",
   "book": "2-chronicles",
-  "chapter": 8,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:18:17.584653097Z",
-  "translation": "至于那些城——户兰给所罗门的——所罗门建造了⟨את⟩它们，并使以色列的子⟨民⟩住在那里。",
+  "chapter": 8,
+  "translation": "至于户兰给所罗门的那些城市，所罗门建造了它们；他使以色列的子民住在那里。",
   "tokens": [
     {
       "surface": "והערים",
-      "gloss": "至于那些城"
+      "gloss": "至于那些城市"
     },
     {
       "surface": "אשר",
-      "gloss": "——"
+      "gloss": "那（关系词）"
     },
     {
       "surface": "נתן",
-      "gloss": "给"
+      "gloss": "给了"
     },
     {
       "surface": "חורם",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "לשלמה",
-      "gloss": "所罗门的"
+      "gloss": "给所罗门"
     },
     {
       "surface": "בנה",
@@ -39,12 +37,12 @@
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩",
-      "marks": "它们"
+      "gloss": "⟨את⟩它们",
+      "marks": "它们（指城市）"
     },
     {
       "surface": "ויושב",
-      "gloss": "并使……住"
+      "gloss": "他使……居住"
     },
     {
       "surface": "שם",
@@ -53,15 +51,17 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列的子"
+      "marks": "以色列的子民"
     },
     {
       "surface": "בני",
-      "gloss": "……的子"
+      "gloss": "子民"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:22:07.518627251Z",
+  "model": "glm-5.2"
 }

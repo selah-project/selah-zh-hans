@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "exodus 8:12",
   "book": "exodus",
-  "chapter": 8,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:14:18.397932430Z",
-  "translation": "雅威对摩西说：你要对亚伦说：伸出你的杖，击打⟨את⟩地的尘土，它就变成虱子，在全埃及地。",
+  "chapter": 8,
+  "translation": "雅威对摩西说：你要对亚伦说：伸出你的杖，击打地的尘土，⟨את⟩它就变为虱子，在埃及全地。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "说了"
+      "gloss": "说"
     },
     {
       "surface": "יהוה",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "אמר",
-      "gloss": "说"
+      "gloss": "你要说"
     },
     {
       "surface": "אל",
@@ -65,11 +63,11 @@
     },
     {
       "surface": "הארץ",
-      "gloss": "地的"
+      "gloss": "地"
     },
     {
       "surface": "והיה",
-      "gloss": "它就变成"
+      "gloss": "它就变为"
     },
     {
       "surface": "לכנם",
@@ -77,7 +75,7 @@
     },
     {
       "surface": "בכל",
-      "gloss": "在全"
+      "gloss": "在……全"
     },
     {
       "surface": "ארץ",
@@ -87,5 +85,7 @@
       "surface": "מצרים",
       "gloss": "埃及"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:38:19.721983820Z",
+  "model": "glm-5.2"
 }

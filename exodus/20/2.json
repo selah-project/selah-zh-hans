@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "exodus 20:2",
   "book": "exodus",
-  "chapter": 20,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:23:32.663822332Z",
-  "translation": "我是雅威你的以罗欣,⟨他⟩将你从埃及地,从奴仆的家中带出来。",
+  "chapter": 20,
+  "translation": "我是雅威你的以罗欣 (神)，⟨他⟩曾将你从埃及地、从为奴之家领出来。",
   "tokens": [
     {
       "surface": "אנכי",
-      "gloss": "我(是)"
+      "gloss": "我"
     },
     {
       "surface": "יהוה",
@@ -19,31 +17,33 @@
     },
     {
       "surface": "אלהיך",
-      "gloss": "你的以罗欣"
+      "gloss": "你的以罗欣 (神)"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨他⟩"
+      "gloss": "⟨他⟩曾"
     },
     {
       "surface": "הוצאתיך",
-      "gloss": "将你带出来"
+      "gloss": "将你领出来"
     },
     {
       "surface": "מארץ",
-      "gloss": "从埃及地"
+      "gloss": "从……地"
     },
     {
       "surface": "מצרים",
-      "gloss": "从"
+      "gloss": "埃及"
     },
     {
       "surface": "מבית",
-      "gloss": "从奴仆的家中"
+      "gloss": "从……之家"
     },
     {
       "surface": "עבדים",
-      "gloss": ""
+      "gloss": "为奴"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:39:52.951761357Z",
+  "model": "glm-5.2"
 }

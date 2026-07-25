@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "1-samuel 15:16",
   "book": "1-samuel",
-  "chapter": 15,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:29:31.545460774Z",
-  "translation": "撒母耳对扫罗说：「停住,我要告诉你今夜雅威对我所说的话。」他们就对他说：「你说吧。」",
+  "chapter": 15,
+  "translation": "撒母耳对扫罗说:停吧,我要告诉你今夜雅威对我所说的话,⟨את⟩那事。他们就对他说:说吧。",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -27,11 +25,11 @@
     },
     {
       "surface": "הרף",
-      "gloss": "停住"
+      "gloss": "停吧"
     },
     {
       "surface": "ואגידה",
-      "gloss": "我要告诉"
+      "gloss": "我要告诉你"
     },
     {
       "surface": "לך",
@@ -40,11 +38,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那……的事 (אשר)"
+      "marks": "那事"
     },
     {
       "surface": "אשר",
-      "gloss": "那……的事"
+      "gloss": "那"
     },
     {
       "surface": "דבר",
@@ -72,7 +70,9 @@
     },
     {
       "surface": "דבר",
-      "gloss": "你说吧"
+      "gloss": "说吧"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:23:07.371226383Z",
+  "model": "glm-5.2"
 }

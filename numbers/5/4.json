@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "numbers 5:4",
   "book": "numbers",
-  "chapter": 5,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:03:47.438606349Z",
-  "translation": "以色列的众子如此行了，就打发⟨他们⟩到营外去——正如雅威对摩西所吩咐的，以色列的众子如此行了。",
+  "chapter": 5,
+  "translation": "以色列的子⟨们⟩如此行了;他们把⟨את⟩他们送到营外。正如雅威吩咐摩西的*,照样以色列的子⟨们⟩行了。",
   "tokens": [
     {
       "surface": "ויעשו",
-      "gloss": "就行（了）"
+      "gloss": "他们行了"
     },
     {
       "surface": "כן",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "……的众子"
+      "gloss": "子"
     },
     {
       "surface": "ישראל",
@@ -27,11 +25,12 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "就打发"
+      "gloss": "他们送走"
     },
     {
       "surface": "אותם",
-      "gloss": "⟨他们⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他们"
     },
     {
       "surface": "אל",
@@ -59,7 +58,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "对"
+      "gloss": "向"
     },
     {
       "surface": "משה",
@@ -67,19 +66,21 @@
     },
     {
       "surface": "כן",
-      "gloss": "如此"
+      "gloss": "照样"
     },
     {
       "surface": "עשו",
-      "gloss": "行（了）"
+      "gloss": "行了"
     },
     {
       "surface": "בני",
-      "gloss": "……的众子"
+      "gloss": "子"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:54:04.608259153Z",
+  "model": "glm-5.2"
 }

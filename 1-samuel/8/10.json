@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "1-samuel 8:10",
   "book": "1-samuel",
-  "chapter": 8,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:25:00.604766739Z",
-  "translation": "撒母耳将雅威的一切*话语* ⟨את⟩ 告诉向他求一位王的⟨那⟩百姓。",
+  "chapter": 8,
+  "translation": "撒母耳将雅威的一切*davar*告诉⟨את⟩那向他求立一个王的人民。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "告诉了"
+      "gloss": "告诉"
     },
     {
       "surface": "שמואל",
@@ -20,7 +18,7 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切话语"
+      "marks": "一切"
     },
     {
       "surface": "כל",
@@ -28,31 +26,33 @@
     },
     {
       "surface": "דברי",
-      "gloss": "*话语*"
+      "gloss": "*davar*"
     },
     {
       "surface": "יהוה",
-      "gloss": "雅威的"
+      "gloss": "雅威"
     },
     {
       "surface": "אל",
-      "gloss": "给"
+      "gloss": "给 \/ 告诉"
     },
     {
       "surface": "העם",
-      "gloss": "⟨那⟩百姓"
+      "gloss": "那人民"
     },
     {
       "surface": "השאלים",
-      "gloss": "求"
+      "gloss": "那求的"
     },
     {
       "surface": "מאתו",
-      "gloss": "向他"
+      "gloss": "从他 \/ 向他"
     },
     {
       "surface": "מלך",
-      "gloss": "一位王"
+      "gloss": "王"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:21:10.320838802Z",
+  "model": "glm-5.2"
 }

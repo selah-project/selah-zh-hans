@@ -1,25 +1,24 @@
 {
+  "tier": "glm-5.2",
+  "verse": 27,
   "ref": "numbers 35:27",
   "book": "numbers",
-  "chapter": 35,
-  "verse": 27,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:26:19.747758774Z",
-  "translation": "报血仇的至近亲属在⟨他⟩避难城的边界外找到⟨他⟩,报血仇的至近亲属杀了⟨את⟩那杀人的,他没有流血的罪。",
+  "chapter": 35,
+  "translation": "報血仇的親屬在⟨他⟩避難城的邊界外找到了⟨את⟩他,報血仇的親屬殺了⟨את⟩那殺人者,⟨對他而言⟩沒有血:",
   "tokens": [
     {
       "surface": "ומצא",
-      "gloss": "找到"
+      "gloss": "找到了"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨他⟩"
+      "gloss": "⟨את⟩",
+      "marks": "他 (即報血仇的親屬)"
     },
     {
       "surface": "גאל",
-      "gloss": "报血仇的至近亲属"
+      "gloss": "親屬 (贖回者)"
     },
     {
       "surface": "הדם",
@@ -27,11 +26,11 @@
     },
     {
       "surface": "מחוץ",
-      "gloss": "在外面"
+      "gloss": "在……外"
     },
     {
       "surface": "לגבול",
-      "gloss": "边界"
+      "gloss": "邊界"
     },
     {
       "surface": "עיר",
@@ -39,15 +38,15 @@
     },
     {
       "surface": "מקלטו",
-      "gloss": "他的避难"
+      "gloss": "他的避難"
     },
     {
       "surface": "ורצח",
-      "gloss": "杀了"
+      "gloss": "殺了"
     },
     {
       "surface": "גאל",
-      "gloss": "报血仇的至近亲属"
+      "gloss": "親屬 (贖回者)"
     },
     {
       "surface": "הדם",
@@ -56,23 +55,25 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那杀人的"
+      "marks": "那殺人者"
     },
     {
       "surface": "הרצח",
-      "gloss": "那杀人的"
+      "gloss": "那殺人者"
     },
     {
       "surface": "אין",
-      "gloss": "没有"
+      "gloss": "沒有"
     },
     {
       "surface": "לו",
-      "gloss": "对他"
+      "gloss": "對他而言"
     },
     {
       "surface": "דם",
-      "gloss": "流血的罪"
+      "gloss": "血"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:00:07.552252111Z",
+  "model": "glm-5.2"
 }

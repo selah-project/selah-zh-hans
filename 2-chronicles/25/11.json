@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "2-chronicles 25:11",
   "book": "2-chronicles",
-  "chapter": 25,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:31:40.670294579Z",
-  "translation": "亚玛谢 ⟨就⟩ 坚强起来,率领 ⟨他⟩ 的百姓,去往 盐谷,击杀 ⟨את⟩ 西珥 的儿子,一万人。",
+  "chapter": 25,
+  "translation": "亚玛谢鼓起勇气，率领⟨את⟩他的军队，前往盐谷，击杀了⟨את⟩西珥之子一万人。",
   "tokens": [
     {
       "surface": "ואמציהו",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "התחזק",
-      "gloss": "⟨就⟩ 坚强起来"
+      "gloss": "鼓起勇气"
     },
     {
       "surface": "וינהג",
@@ -24,15 +22,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他 的百姓"
+      "marks": "他的军队"
     },
     {
       "surface": "עמו",
-      "gloss": "他 的百姓"
+      "gloss": "他的军队"
     },
     {
       "surface": "וילך",
-      "gloss": "去往"
+      "gloss": "前往"
     },
     {
       "surface": "גיא",
@@ -49,11 +47,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "西珥 的儿子"
+      "marks": "西珥之子"
     },
     {
       "surface": "בני",
-      "gloss": "西珥 的儿子"
+      "gloss": "之子"
     },
     {
       "surface": "שעיר",
@@ -61,11 +59,13 @@
     },
     {
       "surface": "עשרת",
-      "gloss": "一万"
+      "gloss": "十"
     },
     {
       "surface": "אלפים",
-      "gloss": "[千]"
+      "gloss": "千"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:23:18.744450344Z",
+  "model": "glm-5.2"
 }

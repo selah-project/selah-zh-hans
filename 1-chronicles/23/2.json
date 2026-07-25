@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "1-chronicles 23:2",
   "book": "1-chronicles",
-  "chapter": 23,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T03:10:00.161789796Z",
-  "translation": "他召集了以色列的众首领,以及祭司们和利未人",
+  "chapter": 23,
+  "translation": "他召集了⟨את⟩以色列所有的首领，以及祭司和利未人。",
   "tokens": [
     {
       "surface": "ויאסף",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列的众首领"
+      "marks": "以色列所有的首领"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "所有的"
     },
     {
       "surface": "שרי",
@@ -28,15 +26,17 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "以色列的"
+      "gloss": "以色列"
     },
     {
       "surface": "והכהנים",
-      "gloss": "以及祭司们"
+      "gloss": "以及祭司"
     },
     {
       "surface": "והלוים",
       "gloss": "和利未人"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:21:20.071074871Z",
+  "model": "glm-5.2"
 }

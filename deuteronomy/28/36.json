@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 36,
   "ref": "deuteronomy 28:36",
   "book": "deuteronomy",
-  "chapter": 28,
-  "verse": 36,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-20T06:51:34.488134779Z",
-  "translation": "雅威必带领⟨你⟩和⟨את⟩⟨你⟩所立⟨在你⟩上面的王，到⟨一⟩个你和⟨你⟩列祖都不认识的国民那里去；在那里你必事奉别以罗欣，木与石。",
+  "chapter": 28,
+  "translation": "雅威必带你走,⟨את⟩你和⟨את⟩你立在你上面的王,到一个你和你的列祖都不认识的国家去;在那里你必事奉别的以罗欣(神明),木和石。",
   "tokens": [
     {
       "surface": "יולך",
-      "gloss": "必带领"
+      "gloss": "必带你走"
     },
     {
       "surface": "יהוה",
@@ -19,11 +17,13 @@
     },
     {
       "surface": "אתך",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "你"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨和⟩⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "你的王"
     },
     {
       "surface": "מלכך",
@@ -35,7 +35,7 @@
     },
     {
       "surface": "תקים",
-      "gloss": "你立"
+      "gloss": "你立的"
     },
     {
       "surface": "עליך",
@@ -47,7 +47,7 @@
     },
     {
       "surface": "גוי",
-      "gloss": "一个国民"
+      "gloss": "国家"
     },
     {
       "surface": "אשר",
@@ -59,7 +59,7 @@
     },
     {
       "surface": "ידעת",
-      "gloss": "你认识的"
+      "gloss": "认识的"
     },
     {
       "surface": "אתה",
@@ -79,7 +79,7 @@
     },
     {
       "surface": "אלהים",
-      "gloss": "以罗欣"
+      "gloss": "以罗欣(神明)"
     },
     {
       "surface": "אחרים",
@@ -91,7 +91,9 @@
     },
     {
       "surface": "ואבן",
-      "gloss": "与石"
+      "gloss": "和石"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:03:43.275935389Z",
+  "model": "glm-5.2"
 }

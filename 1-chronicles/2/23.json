@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "1-chronicles 2:23",
   "book": "1-chronicles",
-  "chapter": 2,
-  "verse": 23,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:26:49.070193945Z",
-  "translation": "基述和亚兰从他们那里夺取了雅亿的村落,以及刻纳特和其周围的乡镇,共六十座城。这一切 ⟨את⟩ 玛吉 ⟨是⟩ 基列的父亲 ⟨儿子⟩。",
+  "chapter": 2,
+  "translation": "基述和亚兰从他们手中夺取了⟨את⟩雅亿的帐篷营地、⟨את⟩刻纳特和⟨את⟩它的附属城镇——六十座城；所有这些都是玛吉的子孙，玛吉是基列的父亲。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -24,11 +22,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "雅亿的村落"
+      "marks": "雅亿的帐篷营地"
     },
     {
       "surface": "חות",
-      "gloss": "雅亿的村落"
+      "gloss": "帐篷营地"
     },
     {
       "surface": "יאיר",
@@ -36,7 +34,7 @@
     },
     {
       "surface": "מאתם",
-      "gloss": "从他们那里"
+      "gloss": "从他们手中"
     },
     {
       "surface": "את",
@@ -49,12 +47,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "以及",
-      "marks": "其周围的乡镇"
+      "gloss": "和⟨את⟩",
+      "marks": "它的附属城镇"
     },
     {
       "surface": "בנתיה",
-      "gloss": "其周围的乡镇"
+      "gloss": "它的附属城镇"
     },
     {
       "surface": "ששים",
@@ -66,15 +64,15 @@
     },
     {
       "surface": "כל",
-      "gloss": "这一切"
+      "gloss": "所有"
     },
     {
       "surface": "אלה",
-      "gloss": "⟨את⟩"
+      "gloss": "这些"
     },
     {
       "surface": "בני",
-      "gloss": "儿子"
+      "gloss": "……的子孙"
     },
     {
       "surface": "מכיר",
@@ -82,11 +80,13 @@
     },
     {
       "surface": "אבי",
-      "gloss": "父亲"
+      "gloss": "……的父亲"
     },
     {
       "surface": "גלעד",
       "gloss": "基列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:19:58.731541508Z",
+  "model": "glm-5.2"
 }

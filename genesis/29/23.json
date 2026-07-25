@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 23,
   "ref": "genesis 29:23",
   "book": "genesis",
-  "chapter": 29,
-  "verse": 23,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:51:42.660577548Z",
-  "translation": "到了傍晚，⟨他⟩取了利亚⟨את⟩他的女儿，带她到他那里；他就进到她那里。",
+  "chapter": 29,
+  "translation": "到了傍晚，他⟨取了⟩利亚 ⟨את⟩ ⟨他的⟩女儿，带她 ⟨את⟩ 到他那里；他便与她同房。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "到了"
+      "gloss": "⟨到了⟩"
     },
     {
       "surface": "בערב",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ויקח",
-      "gloss": "⟨他⟩取了"
+      "gloss": "他⟨取了⟩"
     },
     {
       "surface": "את",
@@ -32,7 +30,7 @@
     },
     {
       "surface": "בתו",
-      "gloss": "他的女儿"
+      "gloss": "⟨他的⟩女儿"
     },
     {
       "surface": "ויבא",
@@ -40,7 +38,8 @@
     },
     {
       "surface": "אתה",
-      "gloss": "她"
+      "gloss": "她 ⟨את⟩",
+      "marks": "到他那里"
     },
     {
       "surface": "אליו",
@@ -48,11 +47,13 @@
     },
     {
       "surface": "ויבא",
-      "gloss": "他就进到"
+      "gloss": "他进入"
     },
     {
       "surface": "אליה",
-      "gloss": "她那里"
+      "gloss": "到她那里"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:32:26.345454477Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "job 34:18",
   "book": "job",
-  "chapter": 34,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:05:55.744594181Z",
-  "translation": "⟨就是那⟩说⟨את⟩君王为彼列（匪类）的，⟨称⟩恶人⟨את⟩尊贵者的，",
+  "chapter": 34,
+  "translation": "⟨对⟩君王说『无赖』,⟨对⟩贵族说『恶人』",
   "tokens": [
     {
       "surface": "האמר",
@@ -15,12 +13,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "⟨את⟩君王为",
-      "marks": "君王"
+      "gloss": "⟨对⟩君王"
     },
     {
       "surface": "בליעל",
-      "gloss": "彼列（匪类）"
+      "gloss": "无赖"
     },
     {
       "surface": "רשע",
@@ -28,12 +25,13 @@
     },
     {
       "surface": "אל",
-      "gloss": "⟨称⟩……⟨את⟩",
-      "marks": "尊贵者"
+      "gloss": "⟨对⟩"
     },
     {
       "surface": "נדיבים",
-      "gloss": "尊贵者"
+      "gloss": "贵族"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:14:58.377362190Z",
+  "model": "glm-5.2"
 }

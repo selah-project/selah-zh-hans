@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "1-kings 12:20",
   "book": "1-kings",
-  "chapter": 12,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:49:36.481058779Z",
-  "translation": "这事发生以后,以色列全家听见耶罗波安回来了,就派人去,召他到会众面前,立他作以色列全家的王;跟随大卫家的,只有犹大支派独自一人。",
+  "chapter": 12,
+  "translation": "全以色列一听见耶罗波安回来了,他们就打发人去,召⟨את⟩他到会众那里,立⟨את⟩他作全以色列的王。没有跟随大卫家的,惟独犹大支派独留。",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "这事发生以后"
+      "gloss": "当……时"
     },
     {
       "surface": "כשמע",
-      "gloss": "听见"
+      "gloss": "一听见"
     },
     {
       "surface": "כל",
-      "gloss": "全家"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "כי",
-      "gloss": ""
+      "gloss": "（连词）"
     },
     {
       "surface": "שב",
@@ -39,16 +37,16 @@
     },
     {
       "surface": "וישלחו",
-      "gloss": "就派人去"
+      "gloss": "他们就打发人去"
     },
     {
       "surface": "ויקראו",
-      "gloss": "召他"
+      "gloss": "召"
     },
     {
       "surface": "אתו",
-      "gloss": "",
-      "marks": "到...面前"
+      "gloss": "⟨את⟩",
+      "marks": "他（到会众那里）"
     },
     {
       "surface": "אל",
@@ -60,20 +58,20 @@
     },
     {
       "surface": "וימליכו",
-      "gloss": "立他作"
+      "gloss": "立"
     },
     {
       "surface": "אתו",
-      "gloss": "",
-      "marks": "以色列全家的王"
+      "gloss": "⟨את⟩",
+      "marks": "他（作王）"
     },
     {
       "surface": "על",
-      "gloss": "作...的王"
+      "gloss": "作"
     },
     {
       "surface": "כל",
-      "gloss": "全家"
+      "gloss": "全"
     },
     {
       "surface": "ישראל",
@@ -85,11 +83,11 @@
     },
     {
       "surface": "היה",
-      "gloss": ""
+      "gloss": "跟随"
     },
     {
       "surface": "אחרי",
-      "gloss": "跟随"
+      "gloss": "（跟随）"
     },
     {
       "surface": "בית",
@@ -101,7 +99,7 @@
     },
     {
       "surface": "זולתי",
-      "gloss": "除了"
+      "gloss": "惟独"
     },
     {
       "surface": "שבט",
@@ -113,7 +111,9 @@
     },
     {
       "surface": "לבדו",
-      "gloss": "独自一人"
+      "gloss": "独留"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:31:52.698368883Z",
+  "model": "glm-5.2"
 }

@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "exodus 35:18",
   "book": "exodus",
-  "chapter": 35,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:35:47.477717947Z",
-  "translation": "⟨את⟩ 会幕的橛子和 ⟨את⟩ 院子的橛子,以及它们的绳子;",
+  "chapter": 35,
+  "translation": "⟨את⟩ 会幕的橛子,和 ⟨את⟩ 院子的橛子,以及 ⟨את⟩ 它们的绳子;",
   "tokens": [
     {
       "surface": "את",
@@ -19,11 +17,11 @@
       "gloss": "橛子"
     },
     {
-      "surface": "הַ\/מִּשְׁכָּ֛ן",
-      "gloss": "会幕的"
+      "surface": "הַמִּשְׁכָּ֛ן",
+      "gloss": "会幕"
     },
     {
-      "surface": "וְ\/אֶת",
+      "surface": "וְאֶת",
       "gloss": "和 ⟨את⟩",
       "marks": "院子的橛子"
     },
@@ -32,17 +30,19 @@
       "gloss": "橛子"
     },
     {
-      "surface": "הֶ\/חָצֵ֖ר",
-      "gloss": "院子的"
+      "surface": "הֶחָצֵ֖ר",
+      "gloss": "院子"
     },
     {
-      "surface": "וְ\/אֶת",
+      "surface": "וְאֶת",
       "gloss": "以及 ⟨את⟩",
       "marks": "它们的绳子"
     },
     {
-      "surface": "מֵיתְרֵי\/הֶֽם",
+      "surface": "מֵיתְרֵיהֶֽם",
       "gloss": "它们的绳子"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:44:11.962319347Z",
+  "model": "glm-5.2"
 }

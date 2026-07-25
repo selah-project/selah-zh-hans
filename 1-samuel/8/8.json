@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "1-samuel 8:8",
   "book": "1-samuel",
-  "chapter": 8,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:25:08.756303746Z",
-  "translation": "照他们从我领他们出埃及的那日直到今日所行的一切 ⟨作为⟩ —— 他们离弃了我，又事奉别的以罗欣 —— 他们如今也这样向你行。",
+  "chapter": 8,
+  "translation": "照他们自⟨我⟩领他们出埃及的那日直到今日所行的一切 ⟨את⟩⟨他们⟩——他们离弃我，事奉别以罗欣——他们如今也照样向你如此行。",
   "tokens": [
     {
       "surface": "ככל",
@@ -15,28 +13,28 @@
     },
     {
       "surface": "המעשים",
-      "gloss": "作为"
+      "gloss": "所行的作为"
     },
     {
       "surface": "אשר",
-      "gloss": "（关系词）"
+      "gloss": "⟨关系词⟩"
     },
     {
       "surface": "עשו",
-      "gloss": "他们所行的"
+      "gloss": "他们行了"
     },
     {
       "surface": "מיום",
-      "gloss": "从……的那日"
+      "gloss": "自……的那日"
     },
     {
       "surface": "העלתי",
-      "gloss": "我领上"
+      "gloss": "我领……上来"
     },
     {
       "surface": "אתם",
       "gloss": "⟨את⟩",
-      "marks": "出埃及"
+      "marks": "他们（出埃及的他们）"
     },
     {
       "surface": "ממצרים",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "היום",
-      "gloss": "今日"
+      "gloss": "⟨这⟩日"
     },
     {
       "surface": "הזה",
@@ -56,11 +54,11 @@
     },
     {
       "surface": "ויעזבני",
-      "gloss": "他们离弃了我"
+      "gloss": "他们离弃我"
     },
     {
       "surface": "ויעבדו",
-      "gloss": "又事奉了"
+      "gloss": "并事奉"
     },
     {
       "surface": "אלהים",
@@ -68,7 +66,7 @@
     },
     {
       "surface": "אחרים",
-      "gloss": "别的"
+      "gloss": "别"
     },
     {
       "surface": "כן",
@@ -80,7 +78,7 @@
     },
     {
       "surface": "עשים",
-      "gloss": "正在行"
+      "gloss": "正行着"
     },
     {
       "surface": "גם",
@@ -90,5 +88,7 @@
       "surface": "לך",
       "gloss": "向你"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:21:10.730384145Z",
+  "model": "glm-5.2"
 }

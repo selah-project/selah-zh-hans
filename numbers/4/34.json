@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 34,
   "ref": "numbers 4:34",
   "book": "numbers",
-  "chapter": 4,
-  "verse": 34,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:44:41.457462574Z",
-  "translation": "摩西和亚伦与会众的首领，数点了革顺的子孙，按他们的宗族，按他们父家的家室",
+  "chapter": 4,
+  "translation": "摩西、亚伦和会众的领袖们数点了⟨את⟩哥辖的子们，按他们的宗族、按他们的父家。",
   "tokens": [
     {
       "surface": "ויפקד",
@@ -23,24 +21,24 @@
     },
     {
       "surface": "ונשיאי",
-      "gloss": "和首领"
+      "gloss": "和……的领袖们"
     },
     {
       "surface": "העדה",
-      "gloss": "会众的"
+      "gloss": "会众"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "革顺的子孙"
+      "marks": "哥辖的子们"
     },
     {
       "surface": "בני",
-      "gloss": "子孙"
+      "gloss": "……的子们"
     },
     {
       "surface": "הקהתי",
-      "gloss": "革顺的"
+      "gloss": "哥辖"
     },
     {
       "surface": "למשפחתם",
@@ -48,11 +46,13 @@
     },
     {
       "surface": "ולבית",
-      "gloss": "和家室"
+      "gloss": "和按……的家"
     },
     {
       "surface": "אבתם",
-      "gloss": "父家的"
+      "gloss": "他们的父"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:54:01.299986621Z",
+  "model": "glm-5.2"
 }

@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 9,
   "ref": "1-kings 20:9",
   "book": "1-kings",
-  "chapter": 20,
-  "verse": 9,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:14:09.951766791Z",
-  "translation": "他对便·哈达的使者们说：你们对我主君王说：你先前差遣⟨את⟩到仆人这里的一切要求，我必行；但这*话*，我不能行。使者们离去，将话回复给他。",
+  "chapter": 20,
+  "translation": "他便对便·哈达的使者们说：⟨你们⟩要对吾主国王说：你先前差遣⟨את⟩到你仆人这里的一切，我都会做；但这*davar*（事）我不能做。使者们就走，将回复带回来给他。",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "他说"
+      "gloss": "他便说"
     },
     {
       "surface": "למלאכי",
@@ -23,19 +21,19 @@
     },
     {
       "surface": "הדד",
-      "gloss": "·哈达"
+      "gloss": "哈达"
     },
     {
       "surface": "אמרו",
-      "gloss": "你们说"
+      "gloss": "⟨你们要⟩说"
     },
     {
       "surface": "לאדני",
-      "gloss": "对我主"
+      "gloss": "对吾主"
     },
     {
       "surface": "המלך",
-      "gloss": "君王"
+      "gloss": "国王"
     },
     {
       "surface": "כל",
@@ -43,31 +41,32 @@
     },
     {
       "surface": "אשר",
-      "gloss": "（的关系词）"
+      "gloss": "那"
     },
     {
       "surface": "שלחת",
-      "gloss": "你差遣"
+      "gloss": "你差遣了"
     },
     {
       "surface": "אל",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "到你仆人那里"
     },
     {
       "surface": "עבדך",
-      "gloss": "到仆人"
+      "gloss": "你的仆人"
     },
     {
       "surface": "בראשנה",
-      "gloss": "先前"
+      "gloss": "在第一次"
     },
     {
       "surface": "אעשה",
-      "gloss": "我必行"
+      "gloss": "我都会做"
     },
     {
       "surface": "והדבר",
-      "gloss": "但这*话*"
+      "gloss": "而这*davar*"
     },
     {
       "surface": "הזה",
@@ -83,11 +82,11 @@
     },
     {
       "surface": "לעשות",
-      "gloss": "行"
+      "gloss": "去做"
     },
     {
       "surface": "וילכו",
-      "gloss": "他们离去"
+      "gloss": "他们就走"
     },
     {
       "surface": "המלאכים",
@@ -95,11 +94,13 @@
     },
     {
       "surface": "וישבהו",
-      "gloss": "将……回复给他"
+      "gloss": "将回复带回来给他"
     },
     {
       "surface": "דבר",
-      "gloss": "话"
+      "gloss": "*davar*（回复）"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:33:51.620095445Z",
+  "model": "glm-5.2"
 }

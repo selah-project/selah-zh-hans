@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "exodus 10:20",
   "book": "exodus",
-  "chapter": 10,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:16:00.306803333Z",
-  "translation": "雅威使法老的心刚硬,⟨他⟩就没有放 ⟨את⟩ 以色列的儿子们走。",
+  "chapter": 10,
+  "translation": "雅威使⟨את⟩法老的心刚硬,⟨他⟩就不放⟨את⟩以色列的儿子们走。",
   "tokens": [
     {
       "surface": "ויחזק",
-      "gloss": "使……刚硬"
+      "gloss": "使刚硬"
     },
     {
       "surface": "יהוה",
@@ -32,11 +30,11 @@
     },
     {
       "surface": "ולא",
-      "gloss": "就没有"
+      "gloss": "就不"
     },
     {
       "surface": "שלח",
-      "gloss": "放……走"
+      "gloss": "放走"
     },
     {
       "surface": "את",
@@ -45,11 +43,13 @@
     },
     {
       "surface": "בני",
-      "gloss": "……的儿子们"
+      "gloss": "儿子们"
     },
     {
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-24T23:38:39.676792666Z",
+  "model": "glm-5.2"
 }

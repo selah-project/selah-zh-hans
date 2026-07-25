@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "ezekiel 2:10",
   "book": "ezekiel",
-  "chapter": 2,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:40:47.335781494Z",
-  "translation": "他将⟨它⟩在我面前展开,⟨它⟩正面和背面都写着字;上面写着哀歌、叹息和祸哉。",
+  "chapter": 2,
+  "translation": "他将其在我面前展开,⟨את⟩它⟨面向⟩我,它正反两面都写着字;上面写着哀歌、叹息和祸哉!",
   "tokens": [
     {
       "surface": "ויפרש",
@@ -15,8 +13,8 @@
     },
     {
       "surface": "אותה",
-      "gloss": "⟨את⟩",
-      "marks": "它 (书卷)"
+      "gloss": "⟨את⟩它",
+      "marks": "书卷"
     },
     {
       "surface": "לפני",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "והיא",
-      "gloss": "⟨它⟩"
+      "gloss": "它"
     },
     {
       "surface": "כתובה",
@@ -40,11 +38,11 @@
     },
     {
       "surface": "וכתוב",
-      "gloss": "上面写着"
+      "gloss": "写着"
     },
     {
       "surface": "אליה",
-      "gloss": "在其上"
+      "gloss": "在它上面"
     },
     {
       "surface": "קנים",
@@ -52,11 +50,13 @@
     },
     {
       "surface": "והגה",
-      "gloss": "叹息"
+      "gloss": "和叹息"
     },
     {
       "surface": "והי",
       "gloss": "和祸哉"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T01:00:59.106469305Z",
+  "model": "glm-5.2"
 }

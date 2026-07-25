@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "2-samuel 12:8",
   "book": "2-samuel",
-  "chapter": 12,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T20:46:00.568775165Z",
-  "translation": "我将你主人的家赐给你,⟨את⟩ 你主人的众妻交在你怀中,我将⟨את⟩ 以色列家和犹大赐给你;若是太少,我还要将这样、那样的加给你。",
+  "chapter": 12,
+  "translation": "我将你主人的家赐给你,⟨את⟩你主人的妻室交在你怀中;我又将以色列和犹大家赐给你;若⟨这⟩太少,我还要为你增添这样、那样。",
   "tokens": [
     {
       "surface": "ואתנה",
-      "gloss": "我将……赐给"
+      "gloss": "我赐给"
     },
     {
       "surface": "לך",
@@ -24,32 +22,32 @@
     },
     {
       "surface": "בית",
-      "gloss": "家"
+      "gloss": "……的家"
     },
     {
       "surface": "אדניך",
-      "gloss": "你主人的"
+      "gloss": "你主人"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
-      "marks": "你主人的众妻"
+      "gloss": "和⟨את⟩",
+      "marks": "你主人的妻室"
     },
     {
       "surface": "נשי",
-      "gloss": "众妻"
+      "gloss": "……的妻室"
     },
     {
       "surface": "אדניך",
-      "gloss": "你主人的"
+      "gloss": "你主人"
     },
     {
       "surface": "בחיקך",
-      "gloss": "交在你怀中"
+      "gloss": "在你怀中"
     },
     {
       "surface": "ואתנה",
-      "gloss": "我将……赐给"
+      "gloss": "我也赐给"
     },
     {
       "surface": "לך",
@@ -58,11 +56,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "以色列家和犹大"
+      "marks": "以色列和犹大家"
     },
     {
       "surface": "בית",
-      "gloss": "家"
+      "gloss": "……的家"
     },
     {
       "surface": "ישראל",
@@ -74,7 +72,7 @@
     },
     {
       "surface": "ואם",
-      "gloss": "若是"
+      "gloss": "若"
     },
     {
       "surface": "מעט",
@@ -82,7 +80,7 @@
     },
     {
       "surface": "ואספה",
-      "gloss": "我还要加给"
+      "gloss": "我还要增添"
     },
     {
       "surface": "לך",
@@ -96,5 +94,7 @@
       "surface": "וכהנה",
       "gloss": "和那样"
     }
-  ]
+  ],
+  "timestamp": "2026-07-25T00:27:35.280318690Z",
+  "model": "glm-5.2"
 }
