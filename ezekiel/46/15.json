@@ -1,52 +1,50 @@
 {
+  "tier": "glm-5.2",
+  "verse": 15,
   "ref": "ezekiel 46:15",
   "book": "ezekiel",
-  "chapter": 46,
-  "verse": 15,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:10:00.689953532Z",
-  "translation": "他们要预备 ⟨את⟩ ⟨הַכֶּבֶשׂ⟩，和 ⟨את⟩ ⟨הַמִּנְחָה⟩，和 ⟨את⟩ ⟨הַשֶּׁמֶן；早晨早晨，持续的燔祭。",
+  "chapter": 46,
+  "translation": "他们要预备 ⟨את⟩ 羔羊、⟨את⟩ 素祭和 ⟨את⟩ 油，每早晨复每早晨，作为常献的燔祭。",
   "tokens": [
     {
-      "surface": "ו\/עשו",
+      "surface": "ועשו",
       "gloss": "他们要预备"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הכבש"
+      "marks": "羔羊"
     },
     {
-      "surface": "ה\/כבש",
-      "gloss": "那只羔羊"
-    },
-    {
-      "surface": "ואת",
-      "gloss": "和 ⟨את⟩",
-      "marks": "המנחה"
-    },
-    {
-      "surface": "ה\/מנחה",
-      "gloss": "那素祭"
+      "surface": "הכבש",
+      "gloss": "羔羊"
     },
     {
       "surface": "ואת",
-      "gloss": "和 ⟨את⟩",
-      "marks": "השמן"
+      "gloss": "⟨את⟩",
+      "marks": "素祭"
     },
     {
-      "surface": "ה\/שמן",
-      "gloss": "那油"
+      "surface": "המנחה",
+      "gloss": "素祭"
     },
     {
-      "surface": "ב\/בקר",
-      "gloss": "早晨"
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "油"
     },
     {
-      "surface": "ב\/בקר",
-      "gloss": "早晨"
+      "surface": "השמן",
+      "gloss": "油"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "每早晨"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "复每早晨"
     },
     {
       "surface": "עולת",
@@ -54,7 +52,9 @@
     },
     {
       "surface": "תמיד",
-      "gloss": "持续的"
+      "gloss": "常献的"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:06:44.715415064Z",
+  "model": "glm-5.2"
 }

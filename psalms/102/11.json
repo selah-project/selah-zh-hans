@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "psalms 102:11",
   "book": "psalms",
-  "chapter": 102,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:14:45.777636579Z",
-  "translation": "因你的怒气 ⟨וְ\/קִצְפֶּ֑\/ךָ⟩ 和你的烈怒,因为你举起 ⟨נְ֝שָׂאתַ֗\/נִי⟩ 我,又将我抛弃。",
+  "chapter": 102,
+  "translation": "因你的怒气 ⟨וְ⟩ 你的烈怒,因为你举起我,又抛弃我。",
   "tokens": [
     {
-      "surface": "מ\/פני",
-      "gloss": "因……的面"
+      "surface": "מפני",
+      "gloss": "因"
     },
     {
       "surface": "זעמך",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "וקצפך",
-      "gloss": "和你的烈怒"
+      "gloss": "⟨וְ⟩ 你的烈怒"
     },
     {
       "surface": "כי",
@@ -27,11 +25,13 @@
     },
     {
       "surface": "נשאתני",
-      "gloss": "你举起了我"
+      "gloss": "你举起我"
     },
     {
       "surface": "ותשליכני",
-      "gloss": "又将我抛弃"
+      "gloss": "又抛弃我"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:20:13.691366459Z",
+  "model": "glm-5.2"
 }

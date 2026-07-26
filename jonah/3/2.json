@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "jonah 3:2",
   "book": "jonah",
-  "chapter": 3,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:24:00.488124974Z",
-  "translation": "起来,去吧,往尼尼微 ⟨הַ\/גְּדוֹלָה⟩ 那大城去,向它宣告 ⟨את⟩ 那宣告,就是我所对你说的",
+  "chapter": 3,
+  "translation": "起来,往尼尼微那大城去,向它呼喊⟨את⟩我所吩咐你⟨的⟩宣告 —— ⟨那⟩我正对你说的话。",
   "tokens": [
     {
       "surface": "קום",
@@ -15,11 +13,11 @@
     },
     {
       "surface": "לך",
-      "gloss": "去吧"
+      "gloss": "往……去"
     },
     {
       "surface": "אל",
-      "gloss": "往……去"
+      "gloss": "往"
     },
     {
       "surface": "נינוה",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "הגדולה",
-      "gloss": "大"
+      "gloss": "大的"
     },
     {
       "surface": "וקרא",
-      "gloss": "宣告"
+      "gloss": "向它呼喊"
     },
     {
       "surface": "אליה",
@@ -44,15 +42,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "那宣告"
+      "marks": "宣告 (הקריאה)"
     },
     {
       "surface": "הקריאה",
-      "gloss": "那宣告"
+      "gloss": "宣告"
     },
     {
       "surface": "אשר",
-      "gloss": "就是"
+      "gloss": "⟨那⟩"
     },
     {
       "surface": "אנכי",
@@ -60,11 +58,13 @@
     },
     {
       "surface": "דבר",
-      "gloss": "所……说的"
+      "gloss": "正对你说"
     },
     {
       "surface": "אליך",
       "gloss": "对你"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:12:26.653206606Z",
+  "model": "glm-5.2"
 }

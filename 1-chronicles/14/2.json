@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 2,
   "ref": "1-chronicles 14:2",
   "book": "1-chronicles",
-  "chapter": 14,
-  "verse": 2,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T03:09:56.671934817Z",
-  "translation": "大卫知道 ⟨כי⟩ 雅威已经坚立他⟨为王⟩在以色列之上,⟨כי⟩ 他的国权被高举于上,为了他的百姓以色列的缘故。",
+  "chapter": 14,
+  "translation": "大卫知道雅威已立⟨他⟩为王 over 以色列，因为他的国度被高举，为着他百姓以色列的缘故。",
   "tokens": [
     {
       "surface": "וידע",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨כי⟩"
+      "gloss": "因为"
     },
     {
       "surface": "הכינו",
-      "gloss": "已经坚立"
+      "gloss": "已立⟨他⟩"
     },
     {
       "surface": "יהוה",
@@ -31,11 +29,11 @@
     },
     {
       "surface": "למלך",
-      "gloss": "他⟨为王⟩"
+      "gloss": "为王"
     },
     {
       "surface": "על",
-      "gloss": "在……之上"
+      "gloss": "over"
     },
     {
       "surface": "ישראל",
@@ -43,7 +41,7 @@
     },
     {
       "surface": "כי",
-      "gloss": "⟨כי⟩"
+      "gloss": "因为"
     },
     {
       "surface": "נשאת",
@@ -51,15 +49,15 @@
     },
     {
       "surface": "למעלה",
-      "gloss": "于上"
+      "gloss": "向上"
     },
     {
       "surface": "מלכותו",
-      "gloss": "他的国权"
+      "gloss": "他的国度"
     },
     {
       "surface": "בעבור",
-      "gloss": "为了……的缘故"
+      "gloss": "为着……的缘故"
     },
     {
       "surface": "עמו",
@@ -69,5 +67,7 @@
       "surface": "ישראל",
       "gloss": "以色列"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T02:57:24.861072149Z",
+  "model": "glm-5.2"
 }

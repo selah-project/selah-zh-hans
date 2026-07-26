@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 29,
   "ref": "job 38:29",
   "book": "job",
-  "chapter": 38,
-  "verse": 29,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T01:07:44.236615203Z",
-  "translation": "从谁的子宫 ⟨מי⟩ 出来了冰？⟨而⟩ 天的霜，谁生了它？",
+  "chapter": 38,
+  "translation": "从谁的子宫⟨הקרח⟩出来了冰？至于天的霜雾，谁生下它？",
   "tokens": [
     {
       "surface": "מבטן",
@@ -15,7 +13,7 @@
     },
     {
       "surface": "מי",
-      "gloss": "⟨מי⟩"
+      "gloss": "谁"
     },
     {
       "surface": "יצא",
@@ -23,11 +21,12 @@
     },
     {
       "surface": "הקרח",
-      "gloss": "冰"
+      "gloss": "⟨את⟩",
+      "marks": "冰"
     },
     {
       "surface": "וכפר",
-      "gloss": "⟨而⟩ 霜"
+      "gloss": "至于霜雾"
     },
     {
       "surface": "שמים",
@@ -39,7 +38,9 @@
     },
     {
       "surface": "ילדו",
-      "gloss": "生了它"
+      "gloss": "生下它"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:12:11.042314104Z",
+  "model": "glm-5.2"
 }

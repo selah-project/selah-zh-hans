@@ -1,37 +1,40 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "leviticus 11:18",
   "book": "leviticus",
-  "chapter": 11,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:46:35.937707629Z",
-  "translation": "以及⟨את⟩תִּנְשֶׁמֶת（天鹅\/猫头鹰），以及⟨את⟩קָאָת（鹈鹕），以及⟨את⟩רָחָם（秃鹫）；",
+  "chapter": 11,
+  "translation": "以及⟨את⟩白鹭、⟨את⟩鹈鹕和⟨את⟩秃鹫",
   "tokens": [
     {
-      "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "surface": "וְאֶת",
+      "gloss": "以及⟨את⟩",
+      "marks": "白鹭"
     },
     {
-      "surface": "התנשמת",
-      "gloss": "תִּנְשֶׁמֶת（一种不洁的鸟，具体种类不确定）"
+      "surface": "הַתִּנְשֶׁ֥מֶת",
+      "gloss": "白鹭"
     },
     {
-      "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "surface": "וְאֶת",
+      "gloss": "和⟨את⟩",
+      "marks": "鹈鹕"
     },
     {
-      "surface": "הקאת",
-      "gloss": "קָאָת（一种不洁的鸟，通常译为鹈鹕）"
+      "surface": "הַקָּאָ֖ת",
+      "gloss": "鹈鹕"
     },
     {
-      "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "surface": "וְאֶת",
+      "gloss": "和⟨את⟩",
+      "marks": "秃鹫"
     },
     {
-      "surface": "הרחם",
-      "gloss": "רָחָם（一种不洁的猛禽，通常译为秃鹫或海雕）"
+      "surface": "הָרָחָֽם",
+      "gloss": "秃鹫"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:14:21.735152732Z",
+  "model": "glm-5.2"
 }

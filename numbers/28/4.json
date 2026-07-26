@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "numbers 28:4",
   "book": "numbers",
-  "chapter": 28,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T03:18:56.671411839Z",
-  "translation": "⟨את⟩ ⟨הַ⟩羔羊一只，你要在早晨制作；⟨并⟩⟨את⟩ ⟨הַ⟩第二只羔羊，你要在两暮之间制作。",
+  "chapter": 28,
+  "translation": "⟨את⟩ ⟨הַכֶּבֶשׂ⟩ 一只你要在早晨献上，而⟨את⟩ ⟨הַכֶּבֶשׂ⟩ 第二只你要在傍晚之间献上。",
   "tokens": [
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "הכבש ( ⟨הַ⟩羔羊 )"
+      "marks": "羔羊"
     },
     {
       "surface": "הכבש",
-      "gloss": "⟨הַ⟩羔羊"
+      "gloss": "羔羊"
     },
     {
       "surface": "אחד",
@@ -24,7 +22,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "你要制作"
+      "gloss": "你要做\/献上"
     },
     {
       "surface": "בבקר",
@@ -32,12 +30,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨并⟩⟨את⟩",
-      "marks": "הכבש ( ⟨הַ⟩羔羊 )"
+      "gloss": "而⟨את⟩",
+      "marks": "羔羊"
     },
     {
       "surface": "הכבש",
-      "gloss": "⟨הַ⟩羔羊"
+      "gloss": "羔羊"
     },
     {
       "surface": "השני",
@@ -45,7 +43,7 @@
     },
     {
       "surface": "תעשה",
-      "gloss": "你要制作"
+      "gloss": "你要做\/献上"
     },
     {
       "surface": "בין",
@@ -53,7 +51,9 @@
     },
     {
       "surface": "הערבים",
-      "gloss": "暮时分"
+      "gloss": "傍晚"
     }
-  ]
+  ],
+  "timestamp": "2026-07-26T03:17:29.534218803Z",
+  "model": "glm-5.2"
 }
