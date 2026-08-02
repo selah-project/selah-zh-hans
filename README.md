@@ -44,3 +44,9 @@
 
 每节一份文件：经文本身，以及与希伯来文逐词对齐的译文，使每个希伯来词
 都能与它的中文相互对照。
+
+## 支持 Selah
+
+本译本依照 CC BY-SA 4.0 保持开放。如果这项工作对你有帮助，并且你愿意
+帮助承担翻译、校订、发布与持续工作的需要，请访问
+[selahproject.com/support](https://selahproject.com/support)。
