@@ -50,3 +50,8 @@
 本译本依照 CC BY-SA 4.0 保持开放。如果这项工作对你有帮助，并且你愿意
 帮助承担翻译、校订、发布与持续工作的需要，请访问
 [selahproject.com/support](https://selahproject.com/support)。
+
+## 参与校订
+
+欢迎读者、希伯来文学习者、译者和中文母语者帮助改进本译本。提交问题或
+拉取请求前，请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md)。
