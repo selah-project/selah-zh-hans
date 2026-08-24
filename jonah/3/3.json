@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "jonah 3:3",
   "book": "jonah",
-  "chapter": 3,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:24:00.275812049Z",
-  "translation": "约拿就起来,往尼尼微去,照着雅威的*davar*。尼尼微对以罗欣来说是座大城,⟨需要⟩走三天的路程。",
+  "chapter": 3,
+  "translation": "约拿就起来，照雅威的话前往尼尼微。而尼尼微在以罗欣看来 ⟨是⟩ 一座大城，是三日的行程。",
   "tokens": [
     {
       "surface": "ויקם",
@@ -19,11 +17,11 @@
     },
     {
       "surface": "וילך",
-      "gloss": "往……去"
+      "gloss": "前往"
     },
     {
       "surface": "אל",
-      "gloss": "到"
+      "gloss": "到……去"
     },
     {
       "surface": "נינוה",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "כדבר",
-      "gloss": "照着……的话"
+      "gloss": "照……的话"
     },
     {
       "surface": "יהוה",
@@ -39,11 +37,11 @@
     },
     {
       "surface": "ונינוה",
-      "gloss": "尼尼微"
+      "gloss": "而尼尼微"
     },
     {
       "surface": "היתה",
-      "gloss": "是"
+      "gloss": "是（成为）"
     },
     {
       "surface": "עיר",
@@ -55,11 +53,11 @@
     },
     {
       "surface": "לאלהים",
-      "gloss": "对以罗欣来说"
+      "gloss": "在以罗欣（看来）"
     },
     {
       "surface": "מהלך",
-      "gloss": "⟨需要⟩走……的路程"
+      "gloss": "行程"
     },
     {
       "surface": "שלשת",
@@ -67,7 +65,9 @@
     },
     {
       "surface": "ימים",
-      "gloss": "天"
+      "gloss": "日"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:18:10.004529108Z",
+  "model": "glm-5.3"
 }

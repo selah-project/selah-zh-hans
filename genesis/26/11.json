@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "genesis 26:11",
   "book": "genesis",
-  "chapter": 26,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:49:07.601735423Z",
-  "translation": "亚比米勒吩咐所有⟨את⟩⟨那⟩百姓,说:凡摸⟨⟨那⟩人的⟩、⟨以及⟩他的妻子的,⟨必⟩被治死。",
+  "chapter": 26,
+  "translation": "亚比米勒吩咐⟨את⟩众民说：「凡 touching 这人或他妻子的，必要被处死。」",
   "tokens": [
     {
       "surface": "ויצו",
-      "gloss": "于是吩咐"
+      "gloss": "吩咐"
     },
     {
       "surface": "אבימלך",
@@ -20,15 +18,15 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "所有(百姓)"
+      "marks": "众民"
     },
     {
       "surface": "כל",
-      "gloss": "所有"
+      "gloss": "众"
     },
     {
       "surface": "העם",
-      "gloss": "⟨那⟩百姓"
+      "gloss": "民"
     },
     {
       "surface": "לאמר",
@@ -36,27 +34,29 @@
     },
     {
       "surface": "הנגע",
-      "gloss": "凡摸"
+      "gloss": "凡碰触……的"
     },
     {
       "surface": "באיש",
-      "gloss": "⟨⟨那⟩人的⟩"
-    },
-    {
-      "surface": "הזה",
       "gloss": "这人"
     },
     {
+      "surface": "הזה",
+      "gloss": "这"
+    },
+    {
       "surface": "ובאשתו",
-      "gloss": "⟨以及⟩他的妻子的"
+      "gloss": "和他妻子的"
     },
     {
       "surface": "מות",
-      "gloss": "⟨必⟩被治死"
+      "gloss": "死"
     },
     {
       "surface": "יומת",
-      "gloss": "(重复强调)"
+      "gloss": "必被处死"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T04:56:02.251502258Z",
+  "model": "glm-5.3"
 }

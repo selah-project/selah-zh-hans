@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 38,
   "ref": "numbers 32:38",
   "book": "numbers",
-  "chapter": 32,
-  "verse": 38,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T19:24:07.901192383Z",
-  "translation": "以及 ⟨את⟩ 尼波、⟨את⟩ 巴力·免（改名 שֵׁם）、⟨את⟩ 细班玛；他们用名字称呼 ⟨את⟩ 他们所建造之城市的名字。",
+  "chapter": 32,
+  "translation": "以及⟨את⟩尼波、⟨את⟩巴力免 (名字被改换)、以及⟨את⟩西比玛;他们以别的名字称呼⟨את⟩他们所建造之城的名字。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "以及 ⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "尼波"
     },
     {
       "surface": "נבו",
@@ -19,7 +18,8 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "巴力免"
     },
     {
       "surface": "בעל",
@@ -27,11 +27,11 @@
     },
     {
       "surface": "מעון",
-      "gloss": "·免"
+      "gloss": "免"
     },
     {
       "surface": "מוסבת",
-      "gloss": "改名"
+      "gloss": "被改换"
     },
     {
       "surface": "שם",
@@ -39,11 +39,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩"
+      "gloss": "⟨את⟩",
+      "marks": "西比玛"
     },
     {
       "surface": "שבמה",
-      "gloss": "细班玛"
+      "gloss": "西比玛"
     },
     {
       "surface": "ויקראו",
@@ -51,12 +52,12 @@
     },
     {
       "surface": "בשמת",
-      "gloss": "用名字"
+      "gloss": "以别的名字"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "他们所建造之城市的名字"
+      "marks": "名字"
     },
     {
       "surface": "שמות",
@@ -64,15 +65,17 @@
     },
     {
       "surface": "הערים",
-      "gloss": "城市"
+      "gloss": "城"
     },
     {
       "surface": "אשר",
-      "gloss": "⟨关系词⟩"
+      "gloss": "所"
     },
     {
       "surface": "בנו",
-      "gloss": "他们建造"
+      "gloss": "建造"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:01:29.812946652Z",
+  "model": "glm-5.3"
 }

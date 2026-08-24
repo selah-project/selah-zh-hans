@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "leviticus 15:16",
   "book": "leviticus",
-  "chapter": 15,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:41:49.479267649Z",
-  "translation": "若男人的种子流出 ⟨从他⟩，他就要在水中洗 ⟨⟨את⟩⟩ 全身，直到晚上都 ⟨是⟩ 不洁净的。",
+  "chapter": 15,
+  "translation": "人若从他身上泄出精的流出,就要用水洗⟨את⟩他全身的肉,并且不洁直到晚上。",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "若男人"
+      "gloss": "人若"
     },
     {
       "surface": "כי",
@@ -23,15 +21,15 @@
     },
     {
       "surface": "ממנו",
-      "gloss": "⟨从他⟩"
+      "gloss": "从他身上"
     },
     {
       "surface": "שכבת",
-      "gloss": "交媾的"
+      "gloss": "躺卧之泄"
     },
     {
       "surface": "זרע",
-      "gloss": "种子"
+      "gloss": "精"
     },
     {
       "surface": "ורחץ",
@@ -39,24 +37,24 @@
     },
     {
       "surface": "במים",
-      "gloss": "在水中"
+      "gloss": "用水"
     },
     {
       "surface": "את",
-      "gloss": "⟨⟨את⟩⟩",
-      "marks": "全身"
+      "gloss": "⟨את⟩",
+      "marks": "他全身的肉"
     },
     {
       "surface": "כל",
-      "gloss": "全身"
+      "gloss": "全部"
     },
     {
       "surface": "בשרו",
-      "gloss": "肉体"
+      "gloss": "他的肉"
     },
     {
       "surface": "וטמא",
-      "gloss": "不洁净"
+      "gloss": "并且不洁"
     },
     {
       "surface": "עד",
@@ -66,5 +64,7 @@
       "surface": "הערב",
       "gloss": "晚上"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T04:58:41.721024027Z",
+  "model": "glm-5.3"
 }

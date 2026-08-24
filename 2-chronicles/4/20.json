@@ -1,17 +1,16 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "2-chronicles 4:20",
   "book": "2-chronicles",
-  "chapter": 4,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:15:58.275239581Z",
-  "translation": "以及⟨את⟩灯台和它们的灯,要在内殿前按规定点燃⟨它们⟩——纯金,סָגוּר。",
+  "chapter": 4,
+  "translation": "以及 ⟨את⟩ 灯台和它们的灯,按定例在内殿面前点燃 —— 纯金。",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "以及⟨את⟩"
+      "gloss": "以及 ⟨את⟩",
+      "marks": "灯台"
     },
     {
       "surface": "המנרות",
@@ -23,15 +22,15 @@
     },
     {
       "surface": "לבערם",
-      "gloss": "要点燃⟨它们⟩"
+      "gloss": "为要点燃"
     },
     {
       "surface": "כמשפט",
-      "gloss": "按规定"
+      "gloss": "按定例"
     },
     {
       "surface": "לפני",
-      "gloss": "在……前"
+      "gloss": "在……面前"
     },
     {
       "surface": "הדביר",
@@ -43,7 +42,9 @@
     },
     {
       "surface": "סגור",
-      "gloss": "纯闭"
+      "gloss": "纯(闭炼的)"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:29:49.264545210Z",
+  "model": "glm-5.3"
 }

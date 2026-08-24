@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 11,
   "ref": "1-kings 22:11",
   "book": "1-kings",
-  "chapter": 22,
-  "verse": 11,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T02:52:53.655945422Z",
-  "translation": "צִדְקִיָּה (Tsidkijah) בֶּן כְּנַעֲנָה (Kenaanah) 为自己做了铁角，他说：雅威如此说：用这些你将顶撞 ⟨את⟩ אֲרָם (Aram \/ 亚兰)，直到将他们灭尽。",
+  "chapter": 22,
+  "translation": "西底家・子・基拿拿为自己做了铁角，说：「雅威如此说：『你要用这些角抵触⟨את⟩亚兰，直到把他们灭尽。』」",
   "tokens": [
     {
       "surface": "ויעש",
@@ -23,7 +21,7 @@
     },
     {
       "surface": "בן",
-      "gloss": "בֶּן (……之子)"
+      "gloss": "子"
     },
     {
       "surface": "כנענה",
@@ -39,7 +37,7 @@
     },
     {
       "surface": "ויאמר",
-      "gloss": "他说"
+      "gloss": "说"
     },
     {
       "surface": "כה",
@@ -59,12 +57,12 @@
     },
     {
       "surface": "תנגח",
-      "gloss": "你将顶撞"
+      "gloss": "抵触"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Aram (אֲרָם \/ 亚兰)"
+      "marks": "亚兰"
     },
     {
       "surface": "ארם",
@@ -76,7 +74,9 @@
     },
     {
       "surface": "כלתם",
-      "gloss": "将他们灭尽"
+      "gloss": "灭尽他们"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:08:00.227148006Z",
+  "model": "glm-5.3"
 }

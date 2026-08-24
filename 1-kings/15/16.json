@@ -1,24 +1,22 @@
 {
+  "tier": "glm-5.2",
+  "verse": 16,
   "ref": "1-kings 15:16",
   "book": "1-kings",
-  "chapter": 15,
-  "verse": 16,
   "lang": "zh-Hans",
-  "tier": "bulk",
-  "model": "glm-4.5",
-  "timestamp": "2026-07-21T13:48:15.709086237Z",
-  "translation": "亚撒与以色列王巴沙之间,在他们一切的〔日子里〕,有战争。",
+  "chapter": 15,
+  "translation": "亚撒与以色列王巴沙之间常有争战,在他们所有的日子。",
   "tokens": [
     {
-      "surface": "וּ\/מִלְחָמָה",
-      "gloss": "战争"
+      "surface": "וּמִלְחָמָה",
+      "gloss": "争战"
     },
     {
       "surface": "הָיְתָה",
-      "gloss": "有"
+      "gloss": "常有⟨是⟩"
     },
     {
-      "surface": "בֵּין",
+      "surface": "בֵּין",
       "gloss": "之间"
     },
     {
@@ -26,28 +24,30 @@
       "gloss": "亚撒"
     },
     {
-      "surface": "וּ\/בֵין",
+      "surface": "וּבֵין",
       "gloss": "与"
     },
     {
-      "surface": "בַּעְשָׁא",
+      "surface": "בַּעְשָׁא",
       "gloss": "巴沙"
     },
     {
-      "surface": "מֶֽלֶךְ",
+      "surface": "מֶלֶךְ",
       "gloss": "王"
     },
     {
-      "surface": "יִשְׂרָאֵל",
+      "surface": "יִשְׂרָאֵל",
       "gloss": "以色列"
     },
     {
-      "surface": "כָּל",
-      "gloss": "一切"
+      "surface": "כָּל",
+      "gloss": "所有的"
     },
     {
-      "surface": "יְמֵי\/הֶֽם",
-      "gloss": "〔日子里〕"
+      "surface": "יְמֵיהֶם",
+      "gloss": "他们的日子"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:07:36.804882936Z",
+  "model": "glm-5.3"
 }

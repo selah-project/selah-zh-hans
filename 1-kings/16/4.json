@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 4,
   "ref": "1-kings 16:4",
   "book": "1-kings",
-  "chapter": 16,
-  "verse": 4,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:10:43.193308150Z",
-  "translation": "בעשא בעיר中死的人,狗必吃;ובשדה中死的人,空中的鸟必吃。",
+  "chapter": 16,
+  "translation": "属巴沙的人死在城里的，狗必吃他；属他的人死在田野的，天上的飞鸟必吃他。",
   "tokens": [
     {
       "surface": "המת",
-      "gloss": "死的人"
+      "gloss": "死"
     },
     {
       "surface": "לבעשא",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "בעיר",
-      "gloss": "在城中"
+      "gloss": "在城里"
     },
     {
       "surface": "יאכלו",
@@ -30,8 +28,12 @@
       "gloss": "狗"
     },
     {
-      "surface": "והמת",
-      "gloss": "而死的人"
+      "surface": "ו",
+      "gloss": ""
+    },
+    {
+      "surface": "המת",
+      "gloss": "死"
     },
     {
       "surface": "לו",
@@ -39,7 +41,7 @@
     },
     {
       "surface": "בשדה",
-      "gloss": "在田野中"
+      "gloss": "在田野"
     },
     {
       "surface": "יאכלו",
@@ -51,7 +53,9 @@
     },
     {
       "surface": "השמים",
-      "gloss": "空中的"
+      "gloss": "天上的"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:07:17.759803757Z",
+  "model": "glm-5.3"
 }

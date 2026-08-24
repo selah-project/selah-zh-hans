@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 7,
   "ref": "ezekiel 11:7",
   "book": "ezekiel",
-  "chapter": 11,
-  "verse": 7,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T22:45:13.448029770Z",
-  "translation": "因此,阿多奈 雅威如此说:你们安置在⟨它⟩中间的你们被刺死者 —— 他们⟨是⟩肉,而⟨她⟩⟨是⟩锅;但⟨他⟩要把⟨את⟩你们从⟨它⟩中间带出来。",
+  "chapter": 11,
+  "translation": "因此,主阿多奈雅威如此说:你们被杀的人,就是你们安放在其中的,他们⟨是⟩那肉,而它⟨是⟩那锅;但你们,⟨他⟩必从其中带出来。",
   "tokens": [
     {
       "surface": "לכן",
@@ -31,19 +29,19 @@
     },
     {
       "surface": "חלליכם",
-      "gloss": "你们的被刺死者"
+      "gloss": "你们被杀的人"
     },
     {
       "surface": "אשר",
-      "gloss": "〈关系词〉"
+      "gloss": "就是"
     },
     {
       "surface": "שמתם",
-      "gloss": "你们安置"
+      "gloss": "你们安放"
     },
     {
       "surface": "בתוכה",
-      "gloss": "在它中间"
+      "gloss": "在其中"
     },
     {
       "surface": "המה",
@@ -51,28 +49,30 @@
     },
     {
       "surface": "הבשר",
-      "gloss": "肉"
+      "gloss": "那肉"
     },
     {
       "surface": "והיא",
-      "gloss": "而她"
+      "gloss": "而它"
     },
     {
       "surface": "הסיר",
-      "gloss": "锅"
+      "gloss": "那锅"
     },
     {
       "surface": "ואתכם",
-      "gloss": "〈את〉你们",
-      "marks": "你们(从锅中带出的直接受事)"
+      "gloss": "⟨את⟩你们",
+      "marks": "你们(וְאֶתְכֶם,指向动词 הוציא 的宾语)"
     },
     {
       "surface": "הוציא",
-      "gloss": "带出来"
+      "gloss": "带出"
     },
     {
       "surface": "מתוכה",
-      "gloss": "从它中间"
+      "gloss": "从其中"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:14:59.630111434Z",
+  "model": "glm-5.3"
 }

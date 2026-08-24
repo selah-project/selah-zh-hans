@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 12,
   "ref": "joshua 8:12",
   "book": "joshua",
-  "chapter": 8,
-  "verse": 12,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T03:19:34.797205451Z",
-  "translation": "他取了约五千人，将他们设为伏兵 ⟨את⟩，在伯特艾之间、在哈艾之间，从西面⟨朝⟩那城。",
+  "chapter": 8,
+  "translation": "他取了约五千人，将⟨את⟩ 他们设为伏兵 ⟨את⟩，在伯特艾之间、在哈艾之间，从西面⟨朝⟩那城。",
   "tokens": [
     {
       "surface": "ויקח",
@@ -31,7 +29,7 @@
     },
     {
       "surface": "אותם",
-      "gloss": "他们"
+      "gloss": "⟨את⟩ 他们"
     },
     {
       "surface": "ארב",
@@ -65,5 +63,7 @@
       "surface": "לעיר",
       "gloss": "朝那城"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T12:34:15.912916268Z",
+  "model": "glm-5.2"
 }

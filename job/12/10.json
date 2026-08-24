@@ -1,25 +1,23 @@
 {
+  "tier": "glm-5.2",
+  "verse": 10,
   "ref": "job 12:10",
   "book": "job",
-  "chapter": 12,
-  "verse": 10,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-18T00:55:08.552507378Z",
-  "translation": "在⟨他⟩手中是כלחי（一切活物）的נפש，以及כלבשראיש（一切肉体之人）的רוח。",
+  "chapter": 12,
+  "translation": "在⟨他⟩手中是一切活物的נֶפֶשׁ(生命气息),以及一切血肉之人的鲁阿(气息)。",
   "tokens": [
     {
       "surface": "אשר",
-      "gloss": "⟨他⟩"
+      "gloss": "在……之中"
     },
     {
       "surface": "בידו",
-      "gloss": "在……手中"
+      "gloss": "他的手中"
     },
     {
       "surface": "נפש",
-      "gloss": "生命气息"
+      "gloss": "נֶפֶשׁ(生命气息)"
     },
     {
       "surface": "כל",
@@ -30,20 +28,22 @@
       "gloss": "活物"
     },
     {
-      "surface": "ורוח",
-      "gloss": "以及鲁阿"
+      "surface": "ו",
+      "gloss": "以及"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "鲁阿(气息)"
     },
     {
       "surface": "כל",
       "gloss": "一切"
     },
     {
-      "surface": "בשר",
-      "gloss": "肉体"
-    },
-    {
-      "surface": "איש",
-      "gloss": "之人"
+      "surface": "בשר איש",
+      "gloss": "血肉之人"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:24:53.420759758Z",
+  "model": "glm-5.3"
 }

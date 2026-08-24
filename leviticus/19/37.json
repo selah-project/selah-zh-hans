@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 37,
   "ref": "leviticus 19:37",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 37,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:53:48.373455925Z",
-  "translation": "你们要谨守我⟨的⟩⟨את⟩一切的חֻקָּה（律例），以及⟨את⟩我⟨的⟩一切的מִשְׁפָּט（典章），并要行出⟨את⟩它们⟨；⟩我是雅威。",
+  "chapter": 19,
+  "translation": "你们要谨守⟨את⟩我一切的律例和⟨את⟩我一切的典章,并遵行它们;我是雅威。",
   "tokens": [
     {
       "surface": "ושמרתם",
@@ -16,11 +14,11 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "一切的律例"
+      "marks": "我一切的律例"
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "一切"
     },
     {
       "surface": "חקתי",
@@ -28,12 +26,12 @@
     },
     {
       "surface": "ואת",
-      "gloss": "以及⟨את⟩",
-      "marks": "一切的典章"
+      "gloss": "⟨את⟩",
+      "marks": "我一切的典章"
     },
     {
       "surface": "כל",
-      "gloss": "一切的"
+      "gloss": "一切"
     },
     {
       "surface": "משפטי",
@@ -41,12 +39,11 @@
     },
     {
       "surface": "ועשיתם",
-      "gloss": "并要行出"
+      "gloss": "并遵行"
     },
     {
       "surface": "אתם",
-      "gloss": "⟨את⟩它们",
-      "marks": "它们"
+      "gloss": "⟨את⟩ 它们"
     },
     {
       "surface": "אני",
@@ -56,5 +53,7 @@
       "surface": "יהוה",
       "gloss": "雅威"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T04:58:51.552443187Z",
+  "model": "glm-5.3"
 }

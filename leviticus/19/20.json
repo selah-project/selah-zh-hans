@@ -1,17 +1,15 @@
 {
+  "tier": "glm-5.2",
+  "verse": 20,
   "ref": "leviticus 19:20",
   "book": "leviticus",
-  "chapter": 19,
-  "verse": 20,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T18:53:36.106871688Z",
-  "translation": "若一个男人与一个女人同寝——⟨את⟩[这女人]——流出精液的交合，而她是一个女仆，许配给一个男人，但赎身未曾赎成，或自由未曾赐给她，就当有查究 ⟨ investigation ⟩。不可将他们处死，因为她未曾得自由。",
+  "chapter": 19,
+  "translation": "人若与⟨את⟩ 一个女人同寝，有精液的交合，而⟨她⟩是婢女，已许配给一个男子，却未曾被赎，也没有得自由的份，就当受查验责罚；他们不可被处死，因为她未曾得自由。",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "若一个男人"
+      "gloss": "而人"
     },
     {
       "surface": "כי",
@@ -19,7 +17,7 @@
     },
     {
       "surface": "ישכב",
-      "gloss": "与……同寝"
+      "gloss": "同寝"
     },
     {
       "surface": "את",
@@ -44,27 +42,27 @@
     },
     {
       "surface": "שפחה",
-      "gloss": "一个女仆"
+      "gloss": "婢女"
     },
     {
       "surface": "נחרפת",
-      "gloss": "许配给"
+      "gloss": "已许配（直译：已被指定）"
     },
     {
       "surface": "לאיש",
-      "gloss": "一个男人"
+      "gloss": "给一个男子"
     },
     {
       "surface": "והפדה",
-      "gloss": "但赎身"
+      "gloss": "被赎"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "未曾"
     },
     {
       "surface": "נפדתה",
-      "gloss": "赎成"
+      "gloss": "被赎出"
     },
     {
       "surface": "או",
@@ -76,11 +74,11 @@
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "没有"
     },
     {
       "surface": "נתן",
-      "gloss": "赐给"
+      "gloss": "给"
     },
     {
       "surface": "לה",
@@ -88,11 +86,11 @@
     },
     {
       "surface": "בקרת",
-      "gloss": "查究"
+      "gloss": "查验责罚"
     },
     {
       "surface": "תהיה",
-      "gloss": "当有"
+      "gloss": "当受"
     },
     {
       "surface": "לא",
@@ -100,7 +98,7 @@
     },
     {
       "surface": "יומתו",
-      "gloss": "将他们处死"
+      "gloss": "被处死"
     },
     {
       "surface": "כי",
@@ -108,11 +106,13 @@
     },
     {
       "surface": "לא",
-      "gloss": "未曾"
+      "gloss": "未"
     },
     {
       "surface": "חפשה",
       "gloss": "得自由"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T04:59:08.406758451Z",
+  "model": "glm-5.3"
 }

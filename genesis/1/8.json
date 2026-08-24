@@ -1,13 +1,11 @@
 {
+  "tier": "glm-5.2",
+  "verse": 8,
   "ref": "genesis 1:8",
   "book": "genesis",
-  "chapter": 1,
-  "verse": 8,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T17:33:18.268033120Z",
-  "translation": "以罗欣称穹苍为天。⟨于是有⟩晚上,⟨于是有⟩早晨,⟨⟨是⟩⟩第二日。",
+  "chapter": 1,
+  "translation": "以罗欣称⟨את⟩穹苍为“天”。有晚上,有早晨,是第二日。",
   "tokens": [
     {
       "surface": "ויקרא",
@@ -27,7 +25,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "⟨于是有⟩"
+      "gloss": "有"
     },
     {
       "surface": "ערב",
@@ -35,7 +33,7 @@
     },
     {
       "surface": "ויהי",
-      "gloss": "⟨于是有⟩"
+      "gloss": "有"
     },
     {
       "surface": "בקר",
@@ -43,11 +41,13 @@
     },
     {
       "surface": "יום",
-      "gloss": "⟨⟨是⟩⟩日"
+      "gloss": "日"
     },
     {
       "surface": "שני",
       "gloss": "第二"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T04:54:39.026527515Z",
+  "model": "glm-5.3"
 }

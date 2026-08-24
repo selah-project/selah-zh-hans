@@ -1,37 +1,35 @@
 {
+  "tier": "glm-5.2",
+  "verse": 3,
   "ref": "psalms 49:3",
   "book": "psalms",
-  "chapter": 49,
-  "verse": 3,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T23:56:06.888527381Z",
-  "translation": "无论普通人（בְּנֵי אָדָם）还是尊贵人（בְּנֵי אִישׁ），富足的与贫穷的， ⟨都⟩ 一同 ⟨在此⟩。",
+  "chapter": 49,
+  "translation": "无论平民之子 (אדם) 还是贵族之子 (איש),富足的与贫穷的,都一同 ⟨被召集⟩。",
   "tokens": [
     {
       "surface": "גם",
-      "gloss": "无论……还是"
+      "gloss": "无论"
     },
     {
       "surface": "בני",
-      "gloss": "……之子 \/ ……之辈"
+      "gloss": "……之子"
     },
     {
       "surface": "אדם",
-      "gloss": "亚当（指普通人）"
+      "gloss": "平民 (亚当之类,泛指人类)"
     },
     {
       "surface": "גם",
-      "gloss": "以及"
+      "gloss": "还是"
     },
     {
       "surface": "בני",
-      "gloss": "……之子 \/ ……之辈"
+      "gloss": "……之子"
     },
     {
       "surface": "איש",
-      "gloss": "显赫之人（尊贵人）"
+      "gloss": "贵族 (有地位的男子)"
     },
     {
       "surface": "יחד",
@@ -45,5 +43,7 @@
       "surface": "ואביון",
       "gloss": "与贫穷的"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:20:59.312685853Z",
+  "model": "glm-5.3"
 }

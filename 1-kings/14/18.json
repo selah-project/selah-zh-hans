@@ -1,22 +1,20 @@
 {
+  "tier": "glm-5.2",
+  "verse": 18,
   "ref": "1-kings 14:18",
   "book": "1-kings",
-  "chapter": 14,
-  "verse": 18,
   "lang": "zh-Hans",
-  "tier": "glm-5.2",
-  "model": "glm-5.2",
-  "timestamp": "2026-07-17T21:09:00.045990739Z",
-  "translation": "他们埋葬了他⟨את⟩,全以色列为他哀悼,正如雅威的话(*davar*),就是他借他仆人亚希雅先知的手所说的。",
+  "chapter": 14,
+  "translation": "众人埋葬了他〈⟨את⟩他〉,全以色列为他哀悼,正如雅威的话,就是他借他仆人先知亚希雅的手所说的。",
   "tokens": [
     {
       "surface": "ויקברו",
-      "gloss": "他们埋葬了"
+      "gloss": "埋葬了"
     },
     {
       "surface": "אתו",
-      "gloss": "⟨את⟩",
-      "marks": "他"
+      "gloss": "⟨את⟩他",
+      "marks": "他 (亡故的孩子)"
     },
     {
       "surface": "ויספדו",
@@ -48,7 +46,7 @@
     },
     {
       "surface": "דבר",
-      "gloss": "他所说"
+      "gloss": "所说的"
     },
     {
       "surface": "ביד",
@@ -66,5 +64,7 @@
       "surface": "הנביא",
       "gloss": "先知"
     }
-  ]
+  ],
+  "timestamp": "2026-08-24T05:07:33.914144455Z",
+  "model": "glm-5.3"
 }
