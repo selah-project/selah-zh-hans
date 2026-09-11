@@ -49,3 +49,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 [CC BY-SA 4.0](LICENSE.md) 许可发布。Git 历史保留公开校订记录和贡献署名。
 维护者会依照希伯来文、仓库规则、来源和对齐影响审核建议。建议可能被采纳、
 共同修订、等待更多证据，或在说明理由后不予采纳。请批评读法，不要攻击人。
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
