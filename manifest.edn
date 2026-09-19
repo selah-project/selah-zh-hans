@@ -1,0 +1,64 @@
+#:rendering{:label "简体中文",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305511},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-07-17", :to "2026-08-24"},
+            :id "zh-Hans.v1",
+            :catalog {:ui "resources/i18n/ui/zh-Hans.edn"},
+            :license
+            "CC BY-SA 4.0 (The Selah Chinese (Simplified) Rendering)",
+            :model
+            {:provider :z.ai,
+             :models
+             {"glm-5.2" 21062,
+              "glm-4.5" 509,
+              "glm-5.3" 1628,
+              "claude-opus-4.8" 14},
+             :tiers {"glm-5.2" 22690, "bulk" 509, "hand" 14},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails
+             "docs/methodology/translation-discipline/zh-Hans.md",
+             :rails-commit "13499261",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat {},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-zh",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :zh-Hans}
