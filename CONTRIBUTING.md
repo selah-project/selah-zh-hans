@@ -9,7 +9,7 @@
   请提交 **issue**。
 - 若错误和准确替换文字都很明确，请提交 **pull request**。
 - 应用程序故障，以及涉及安全、账户或个人资料的私密事项，请通过
-  [Selah 支持](https://selahproject.com/support)提交，不要公开发布。
+  [Selah 支持](https://s33k3r.com/learn/support)提交，不要公开发布。
 
 ## 请提供的信息
 

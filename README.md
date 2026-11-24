@@ -49,7 +49,7 @@
 
 本译本依照 CC BY-SA 4.0 保持开放。如果这项工作对你有帮助，并且你愿意
 帮助承担翻译、校订、发布与持续工作的需要，请访问
-[selahproject.com/support](https://selahproject.com/support)。
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support)。
 
 ## 参与校订
 
@@ -58,6 +58,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc
